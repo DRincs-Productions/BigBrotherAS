@@ -1,10 +1,26 @@
-﻿# TODO: Translation updated at 2022-12-05 21:30
+﻿# TODO: Translation updated at 2023-01-23 00:31
 
 translate crowdin strings:
+
+    # game/scripts/engine/definitions.rpy:9
+    old "Макса"
+    new "Макса"
 
     # game/scripts/engine/definitions.rpy:10
     old "Анна"
     new "Анна"
+
+    # game/scripts/engine/definitions.rpy:10
+    old "Анны"
+    new "Анны"
+
+    # game/scripts/engine/definitions.rpy:11
+    old "Алисы"
+    new "Алисы"
+
+    # game/scripts/engine/definitions.rpy:12
+    old "Лизы"
+    new "Лизы"
 
     # game/scripts/engine/definitions.rpy:19
     old "Комната Макса и Лизы"
@@ -33,16 +49,4 @@ translate crowdin strings:
     # game/scripts/engine/definitions.rpy:19
     old "Двор"
     new "Двор"
-
-    # game/scripts/engine/definitions.rpy:54
-    old "Я остался незамеченным!"
-    new "Я остался незамеченным!"
-
-    # game/scripts/engine/definitions.rpy:60
-    old "Я чуть не попался!"
-    new "Я чуть не попался!"
-
-    # game/scripts/engine/definitions.rpy:60
-    old "Вот чёрт, я попался!"
-    new "Вот чёрт, я попался!"
 

@@ -1,20 +1,64 @@
-﻿# TODO: Translation updated at 2022-12-05 21:30 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/characters.rpy:90
+﻿# TODO: Translation updated at 2023-01-23 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/characters.rpy:174
+msgid "Я всегда в поисках приключений на свою пятую точку."
+msgstr "Я всегда в поисках приключений на свою пятую точку."
+
+# game/scripts/engine/characters.rpy:174
+msgid "Лиза, моя младшая сестрёнка. Милая и весёлая. Она ещё учится в школе.\nС ней мы общаемся на одной волне, хотя бывает и ссоримся. Но если что-то случается, то защиты она ищет именно у меня."
+msgstr "Лиза, моя младшая сестрёнка. Милая и весёлая. Она ещё учится в школе.\nС ней мы общаемся на одной волне, хотя бывает и ссоримся. Но если что-то случается, то защиты она ищет именно у меня."
+
+# game/scripts/engine/characters.rpy:174
+msgid "Алиса, моя старшая сестра. Немного стервозная. В любой непонятной ситуации поступает просто, бьёт по лицу.\nОна недавно закончила школу и, так же, как и я, ищет свой путь, целыми днями сидя за своим ноутбуком."
+msgstr "Алиса, моя старшая сестра. Немного стервозная. В любой непонятной ситуации поступает просто, бьёт по лицу.\nОна недавно закончила школу и, так же, как и я, ищет свой путь, целыми днями сидя за своим ноутбуком."
+
+# game/scripts/engine/characters.rpy:174
+msgid "Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании.\nХотя, зарплата у неё вполне приличная, но почти всё уходит на оплату жилья, еду и одежду."
+msgstr "Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании.\nХотя, зарплата у неё вполне приличная, но почти всё уходит на оплату жилья, еду и одежду."
+
+# game/scripts/engine/characters.rpy:181
+msgid "Ужасное"
+msgstr "Ужасное"
+
+# game/scripts/engine/characters.rpy:181
+msgid "Плохое"
+msgstr "Плохое"
+
+# game/scripts/engine/characters.rpy:181
+msgid "Не очень"
+msgstr "Не очень"
+
+# game/scripts/engine/characters.rpy:181
+msgid "Нейтральное"
+msgstr "Нейтральное"
+
+# game/scripts/engine/characters.rpy:181
+msgid "Неплохое"
+msgstr "Неплохое"
+
+# game/scripts/engine/characters.rpy:181
+msgid "Хорошее"
+msgstr "Хорошее"
+
+# game/scripts/engine/characters.rpy:181
+msgid "Прекрасное"
+msgstr "Прекрасное"
+
+# game/scripts/engine/characters.rpy:196
 msgid "Макс"
 msgstr "Макс"
 
-# game/scripts/engine/characters.rpy:115
+# game/scripts/engine/characters.rpy:221
 msgid "Лиза"
 msgstr "Лиза"
 
-# game/scripts/engine/characters.rpy:136
+# game/scripts/engine/characters.rpy:242
 msgid "Алиса"
 msgstr "Алиса"
 
-# game/scripts/engine/characters.rpy:157
+# game/scripts/engine/characters.rpy:245
 msgid "Мама"
 msgstr "Мама"
 
-# game/scripts/engine/characters.rpy:197
+# game/scripts/engine/characters.rpy:285
 msgid "Майя"
 msgstr "Майя"
 
