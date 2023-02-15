@@ -1,24 +1,42 @@
-﻿# TODO: Translation updated at 2023-01-23 00:31
+﻿# TODO: Translation updated at 2023-02-14 16:12
 
-# game/scripts/engine/interact.rpy:134
-translate crowdin talks_start_89be87d3:
+# game/scripts/engine/interact.rpy:31
+translate crowdin talks_start_41e41361:
 
-    # Alice 00 "Ну, Макс, чего надо?" nointeract
-    Alice 00 "Ну, Макс, чего надо?" nointeract
+    # Alice 00 "Ну же, Макс, что хотел?" nointeract
+    Alice 00 "Ну же, Макс, что хотел?" nointeract
 
-# game/scripts/engine/interact.rpy:136
+# game/scripts/engine/interact.rpy:33
+translate crowdin talks_start_8c1733ca:
+
+    # Alice 00 "Что у тебя, Макс, выкладывай?" nointeract
+    Alice 00 "Что у тебя, Макс, выкладывай?" nointeract
+
+# game/scripts/engine/interact.rpy:36
 translate crowdin talks_start_7461055d:
 
     # Ann 00 "Что-то случилось, дорогой?" nointeract
     Ann 00 "Что-то случилось, дорогой?" nointeract
 
-# game/scripts/engine/interact.rpy:138
+# game/scripts/engine/interact.rpy:38
+translate crowdin talks_start_cfefc888:
+
+    # Ann 00 "Ты что-то хотел, сынок?" nointeract
+    Ann 00 "Ты что-то хотел, сынок?" nointeract
+
+# game/scripts/engine/interact.rpy:41
 translate crowdin talks_start_3d07e87c:
 
     # Lisa 00 "Макс, решил поболтать?" nointeract
     Lisa 00 "Макс, решил поболтать?" nointeract
 
-# game/scripts/engine/interact.rpy:140
+# game/scripts/engine/interact.rpy:43
+translate crowdin talks_start_6f4298c9:
+
+    # Lisa 00 "Я слушаю, Макс, что ты хотел?" nointeract
+    Lisa 00 "Я слушаю, Макс, что ты хотел?" nointeract
+
+# game/scripts/engine/interact.rpy:45
 translate crowdin talks_start_30144dc7:
 
     # '???' "" nointeract
@@ -26,35 +44,67 @@ translate crowdin talks_start_30144dc7:
 
 translate crowdin strings:
 
-    # game/scripts/engine/interact.rpy:94
+    # game/scripts/engine/interact.rpy:16
+    old "Нет, мам. Ничего. ({i}уйти{/i})"
+    new "Нет, мам. Ничего. ({i}уйти{/i})"
+
+    # game/scripts/engine/interact.rpy:18
+    old "Нет. Я так, просто... ({i}уйти{/i})"
+    new "Нет. Я так, просто... ({i}уйти{/i})"
+
+    # game/scripts/engine/interact.rpy:20
+    old "Нет, ничего. ({i}уйти{/i})"
+    new "Нет, ничего. ({i}уйти{/i})"
+
+    # game/scripts/engine/interact.rpy:147
     old "Помочь с посудой"
     new "Помочь с посудой"
 
-    # game/scripts/engine/interact.rpy:99
+    # game/scripts/engine/interact.rpy:152
     old "Тебе не жарко в этом купальнике?"
     new "Тебе не жарко в этом купальнике?"
 
-    # game/scripts/engine/interact.rpy:99
+    # game/scripts/engine/interact.rpy:152
     old "Значит Алекс, да?"
     new "Значит Алекс, да?"
 
-    # game/scripts/engine/interact.rpy:99
-    old "Загораешь?"
-    new "Загораешь?"
-
-    # game/scripts/engine/interact.rpy:99
+    # game/scripts/engine/interact.rpy:152
     old "Хорошо загорается?"
     new "Хорошо загорается?"
 
-    # game/scripts/engine/interact.rpy:99
+    # game/scripts/engine/interact.rpy:152
+    old "Загораешь?"
+    new "Загораешь?"
+
+    # game/scripts/engine/interact.rpy:152
     old "Что читаешь?"
     new "Что читаешь?"
 
-    # game/scripts/engine/interact.rpy:99
+    # game/scripts/engine/interact.rpy:152
     old "А ты как-то зарабатываешь?"
     new "А ты как-то зарабатываешь?"
 
-    # game/scripts/engine/interact.rpy:122
-    old "Нет, ничего. ({i}уйти{/i})"
-    new "Нет, ничего. ({i}уйти{/i})"
+    # game/scripts/engine/interact.rpy:152
+    old "Не возражаешь против компании?"
+    new "Не возражаешь против компании?"
+
+    # game/scripts/engine/interact.rpy:152
+    old "Что смотришь?"
+    new "Что смотришь?"
+
+    # game/scripts/engine/interact.rpy:152
+    old "Плавать собираешься?"
+    new "Плавать собираешься?"
+
+    # game/scripts/engine/interact.rpy:152
+    old "Я занырну к тебе?"
+    new "Я занырну к тебе?"
+
+    # game/scripts/engine/interact.rpy:152
+    old "Почему не плаваешь?"
+    new "Почему не плаваешь?"
+
+    # game/scripts/engine/interact.rpy:152
+    old "Поплаваем вместе?"
+    new "Поплаваем вместе?"
 

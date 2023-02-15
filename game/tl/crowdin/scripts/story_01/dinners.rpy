@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-01-23 00:31
+﻿# TODO: Translation updated at 2023-02-14 16:12
 
 # game/scripts/story_01/dinners.rpy:15
 translate crowdin ev_009_e3b48c17:
@@ -151,10 +151,10 @@ translate crowdin ev_009_0cf58d33:
     Lisa 02 "Да, познакомилась... с одной подружкой. Класс супер, всё хорошо, мам!"
 
 # game/scripts/story_01/dinners.rpy:40
-translate crowdin ev_009_595589d0:
+translate crowdin ev_009_3f8e29f7:
 
-    # Max 01 "Что за подружка? {i}(подмигнуть Лизе){/i}"
-    Max 01 "Что за подружка? {i}(подмигнуть Лизе){/i}"
+    # Max 01 "Что за подружка? Как зовут?"
+    Max 01 "Что за подружка? Как зовут?"
 
 # game/scripts/story_01/dinners.rpy:41
 translate crowdin ev_009_ce277c38:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-01-23 00:31
+﻿# TODO: Translation updated at 2023-02-14 16:12
 
 translate crowdin strings:
 

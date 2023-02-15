@@ -1,16 +1,16 @@
-﻿# TODO: Translation updated at 2023-01-23 00:31
+﻿# TODO: Translation updated at 2023-02-14 16:12
 
 translate crowdin strings:
 
-    # game/scripts/screens/diary.rpy:64
+    # game/scripts/screens/diary.rpy:81
     old "ТЕКУЩИЕ"
     new "ТЕКУЩИЕ"
 
-    # game/scripts/screens/diary.rpy:70
+    # game/scripts/screens/diary.rpy:87
     old "ВЫПОЛНЕННЫЕ"
     new "ВЫПОЛНЕННЫЕ"
 
-    # game/scripts/screens/diary.rpy:103
+    # game/scripts/screens/diary.rpy:120
     old "Сейчас здесь нет заданий"
     new "Сейчас здесь нет заданий"
 

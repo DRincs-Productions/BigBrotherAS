@@ -1,6 +1,6 @@
-﻿# TODO: Translation updated at 2023-01-23 00:31 #|#|# # game/scripts/story_01/sunscreen.rpy:7 #-#-# translate crowdin ev_011_62724219:
-msgid "[_Alice_s_07_] Как ты догадался, Шерлок? [nointeract]"
-msgstr "[_Alice_s_07_] Как ты догадался, Шерлок? [nointeract]"
+﻿# TODO: Translation updated at 2023-02-14 16:12 #|#|# # game/scripts/story_01/sunscreen.rpy:7 #-#-# translate crowdin ev_011_03c9dcee:
+msgid "[_Alice_s_01_] Как ты догадался, Шерлок? [nointeract]"
+msgstr "[_Alice_s_01_] Как ты догадался, Шерлок? [nointeract]"
 
 # game/scripts/story_01/sunscreen.rpy:29 #-#-# translate crowdin ev_011_sunbathe_abfeed53:
 msgid "[_Alice_s_04_] Что, Макс, неужели в доме надоело сидеть?"
@@ -46,39 +46,39 @@ msgstr "[_Max_s_12_] Увы, оно почти закончилось. Но в �
 msgid "[_Max_s_01_] Тогда ложись на живот..."
 msgstr "[_Max_s_01_] Тогда ложись на живот..."
 
-# game/scripts/story_01/sunscreen.rpy:85 #-#-# translate crowdin ev_012_2398d6e9:
-msgid "[_Lisa_s_07_] Просто чудесно! Самый настоящий райский уголок. [nointeract]"
-msgstr "[_Lisa_s_07_] Просто чудесно! Самый настоящий райский уголок. [nointeract]"
+# game/scripts/story_01/sunscreen.rpy:86 #-#-# translate crowdin ev_012_6cfa1489:
+msgid "[_Lisa_s_01_] Просто чудесно! Самый настоящий райский уголок. [nointeract]"
+msgstr "[_Lisa_s_01_] Просто чудесно! Самый настоящий райский уголок. [nointeract]"
 
-# game/scripts/story_01/sunscreen.rpy:104 #-#-# translate crowdin ev_012_sunbathe_5c6fb4dd:
+# game/scripts/story_01/sunscreen.rpy:105 #-#-# translate crowdin ev_012_sunbathe_5c6fb4dd:
 msgid "[_Lisa_s_02_] Тоже решил понежиться на солнышке или по мне соскучился?"
 msgstr "[_Lisa_s_02_] Тоже решил понежиться на солнышке или по мне соскучился?"
 
-# game/scripts/story_01/sunscreen.rpy:105 #-#-# translate crowdin ev_012_sunbathe_5ef35ee2:
+# game/scripts/story_01/sunscreen.rpy:106 #-#-# translate crowdin ev_012_sunbathe_5ef35ee2:
 msgid "[_Max_s_01_] В моей жизни два солнышка! Одно в небе, на другое я сейчас смотрю..."
 msgstr "[_Max_s_01_] В моей жизни два солнышка! Одно в небе, на другое я сейчас смотрю..."
 
-# game/scripts/story_01/sunscreen.rpy:106 #-#-# translate crowdin ev_012_sunbathe_41a90dba:
+# game/scripts/story_01/sunscreen.rpy:107 #-#-# translate crowdin ev_012_sunbathe_41a90dba:
 msgid "[_Lisa_s_05_] Это так приятно..."
 msgstr "[_Lisa_s_05_] Это так приятно..."
 
-# game/scripts/story_01/sunscreen.rpy:108 #-#-# translate crowdin ev_012_sunbathe_4da6b51f:
+# game/scripts/story_01/sunscreen.rpy:109 #-#-# translate crowdin ev_012_sunbathe_4da6b51f:
 msgid "[_tMax_s_04_] У меня такая прелестная младшая сестрёнка. Любоваться её красотой, да ещё и когда она в купальнике, одно удовольствие... [nointeract]"
 msgstr "[_tMax_s_04_] У меня такая прелестная младшая сестрёнка. Любоваться её красотой, да ещё и когда она в купальнике, одно удовольствие... [nointeract]"
 
-# game/scripts/story_01/sunscreen.rpy:110 #-#-# translate crowdin ev_012_sunbathe_8238cd0d:
+# game/scripts/story_01/sunscreen.rpy:111 #-#-# translate crowdin ev_012_sunbathe_8238cd0d:
 msgid "[_tMax_s_04_] У меня такая прелестная младшая сестрёнка. Любоваться её красотой, да ещё и когда она в таком откровенном бикини, одно удовольствие... [nointeract]"
 msgstr "[_tMax_s_04_] У меня такая прелестная младшая сестрёнка. Любоваться её красотой, да ещё и когда она в таком откровенном бикини, одно удовольствие... [nointeract]"
 
-# game/scripts/story_01/sunscreen.rpy:126 #-#-# translate crowdin ev_012_spread_oil_060fad4e:
+# game/scripts/story_01/sunscreen.rpy:127 #-#-# translate crowdin ev_012_spread_oil_060fad4e:
 msgid "[_Max_s_12_] Увы, его нет. Но в другой раз обязательно будет..."
 msgstr "[_Max_s_12_] Увы, его нет. Но в другой раз обязательно будет..."
 
-# game/scripts/story_01/sunscreen.rpy:130 #-#-# translate crowdin ev_012_spread_oil_e7ea9016:
+# game/scripts/story_01/sunscreen.rpy:131 #-#-# translate crowdin ev_012_spread_oil_e7ea9016:
 msgid "[_Max_s_12_] Увы, оно почти закончилось. Но в другой раз обязательно будет..."
 msgstr "[_Max_s_12_] Увы, оно почти закончилось. Но в другой раз обязательно будет..."
 
-# game/scripts/story_01/sunscreen.rpy:134 #-#-# translate crowdin ev_012_spread_oil_8ca41307:
+# game/scripts/story_01/sunscreen.rpy:135 #-#-# translate crowdin ev_012_spread_oil_8ca41307:
 msgid "[_Max_s_01_] Тогда ложись на живот..."
 msgstr "[_Max_s_01_] Тогда ложись на живот..."
 
@@ -93,8 +93,4 @@ msgstr "Может быть, тебя намазать маслом для за�
 # game/scripts/story_01/sunscreen.rpy:6
 msgid "Тебя маслицем для загара намазать?"
 msgstr "Тебя маслицем для загара намазать?"
-
-# game/scripts/story_01/sunscreen.rpy:84
-msgid "тоже позагорать"
-msgstr "тоже позагорать"
 

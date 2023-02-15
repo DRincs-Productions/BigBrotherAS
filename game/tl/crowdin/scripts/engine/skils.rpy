@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-01-23 00:31
+﻿# TODO: Translation updated at 2023-02-14 16:12
 
 translate crowdin strings:
 
@@ -30,23 +30,23 @@ translate crowdin strings:
     old "настроение"
     new "настроение"
 
-    # game/scripts/engine/skils.rpy:164
+    # game/scripts/engine/skils.rpy:165
     old "Я остался незамеченным!"
     new "Я остался незамеченным!"
 
-    # game/scripts/engine/skils.rpy:164
+    # game/scripts/engine/skils.rpy:165
     old "Убеждение удалось!"
     new "Убеждение удалось!"
 
-    # game/scripts/engine/skils.rpy:171
+    # game/scripts/engine/skils.rpy:172
     old "Я чуть не попался!"
     new "Я чуть не попался!"
 
-    # game/scripts/engine/skils.rpy:171
+    # game/scripts/engine/skils.rpy:172
     old "Вот чёрт, я попался!"
     new "Вот чёрт, я попался!"
 
-    # game/scripts/engine/skils.rpy:171
+    # game/scripts/engine/skils.rpy:172
     old "Убеждение не удалось!"
     new "Убеждение не удалось!"
 
