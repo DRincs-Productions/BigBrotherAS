@@ -1,228 +1,228 @@
-﻿# TODO: Translation updated at 2023-02-14 16:12
+﻿# TODO: Translation updated at 2023-02-23 01:51
 
-# game/scripts/story_01/dinners.rpy:15
+# game/scripts/story_01/dinners.rpy:19
 translate crowdin ev_009_e3b48c17:
 
     # Ann 02 "Рада, что все смогли сегодня собраться. Всем приятного аппетита! Ну, у кого как день прошёл?"
     Ann 02 "Рада, что все смогли сегодня собраться. Всем приятного аппетита! Ну, у кого как день прошёл?"
 
-# game/scripts/story_01/dinners.rpy:16
+# game/scripts/story_01/dinners.rpy:20
 translate crowdin ev_009_001f19e2:
 
     # Alice 02 "Мам, да у нас всё как обычно. Это ты рассказывай, как первый рабочий день?"
     Alice 02 "Мам, да у нас всё как обычно. Это ты рассказывай, как первый рабочий день?"
 
-# game/scripts/story_01/dinners.rpy:17
+# game/scripts/story_01/dinners.rpy:21
 translate crowdin ev_009_1d802de4:
 
     # Ann 01 "Вы знаете, довольно неплохо. Такой офис! Такие все важные. Но я смогу там работать и даже планирую подняться по карьерной лестнице..."
     Ann 01 "Вы знаете, довольно неплохо. Такой офис! Такие все важные. Но я смогу там работать и даже планирую подняться по карьерной лестнице..."
 
-# game/scripts/story_01/dinners.rpy:18
+# game/scripts/story_01/dinners.rpy:22
 translate crowdin ev_009_6dc50b10:
 
     # Max 13 "Напомни, а кем ты работаешь?"
     Max 13 "Напомни, а кем ты работаешь?"
 
-# game/scripts/story_01/dinners.rpy:19
+# game/scripts/story_01/dinners.rpy:23
 translate crowdin ev_009_12f7ac43:
 
     # Ann 11 "Что, Макс, с памятью проблемы? Может быть, попросить врача выписать тебе витамины? Я работаю в отделе развития, занимаюсь маркетингом."
     Ann 11 "Что, Макс, с памятью проблемы? Может быть, попросить врача выписать тебе витамины? Я работаю в отделе развития, занимаюсь маркетингом."
 
-# game/scripts/story_01/dinners.rpy:20
+# game/scripts/story_01/dinners.rpy:24
 translate crowdin ev_009_42f759d1:
 
     # Max 01 "Точно. Ну, поздравляю!"
     Max 01 "Точно. Ну, поздравляю!"
 
-# game/scripts/story_01/dinners.rpy:21
+# game/scripts/story_01/dinners.rpy:25
 translate crowdin ev_009_8a64e8b2:
 
     # Ann 03 "Спасибо, Макс. Вы всё вопросы задаёте. Поели бы, хоть немного. Кстати, молодец Алиса, что приготовила ужин. Сама я бы ещё долго возилась."
     Ann 03 "Спасибо, Макс. Вы всё вопросы задаёте. Поели бы, хоть немного. Кстати, молодец Алиса, что приготовила ужин. Сама я бы ещё долго возилась."
 
-# game/scripts/story_01/dinners.rpy:22
+# game/scripts/story_01/dinners.rpy:26
 translate crowdin ev_009_59c4cc1b:
 
     # Alice 01 "Не за что. Ты же сама меня научила всему, вот и пожинай плоды!"
     Alice 01 "Не за что. Ты же сама меня научила всему, вот и пожинай плоды!"
 
-# game/scripts/story_01/dinners.rpy:23
+# game/scripts/story_01/dinners.rpy:27
 translate crowdin ev_009_302f53c5:
 
     # Max 11 "А где находится твой офис?"
     Max 11 "А где находится твой офис?"
 
-# game/scripts/story_01/dinners.rpy:24
+# game/scripts/story_01/dinners.rpy:28
 translate crowdin ev_009_9b119a88:
 
     # Ann 12 "Вот с этим беда. На общественном транспорте добираться долго. Но думаю, что эта проблема решится..."
     Ann 12 "Вот с этим беда. На общественном транспорте добираться долго. Но думаю, что эта проблема решится..."
 
-# game/scripts/story_01/dinners.rpy:25
+# game/scripts/story_01/dinners.rpy:29
 translate crowdin ev_009_ee138e14:
 
     # Lisa 11 "А с начальником повезло?"
     Lisa 11 "А с начальником повезло?"
 
-# game/scripts/story_01/dinners.rpy:26
+# game/scripts/story_01/dinners.rpy:30
 translate crowdin ev_009_c1d533ec:
 
     # Ann 10 "Ну мой непосредственный начальник - лысый толстый мужик, которого все ненавидят. Думаю, его скоро сменят. А вот босс моего начальника..."
     Ann 10 "Ну мой непосредственный начальник - лысый толстый мужик, которого все ненавидят. Думаю, его скоро сменят. А вот босс моего начальника..."
 
-# game/scripts/story_01/dinners.rpy:27
+# game/scripts/story_01/dinners.rpy:31
 translate crowdin ev_009_955b8ecb:
 
     # Max 03 "Ещё толще и лысее?"
     Max 03 "Ещё толще и лысее?"
 
-# game/scripts/story_01/dinners.rpy:28
+# game/scripts/story_01/dinners.rpy:32
 translate crowdin ev_009_0365007f:
 
     # Ann 04 "Вот он - мужчина что надо! Сразу меня заметил, помог разобраться в делах. И даже до дома подвёз! Может быть, он мне даже личного водителя выделит!"
     Ann 04 "Вот он - мужчина что надо! Сразу меня заметил, помог разобраться в делах. И даже до дома подвёз! Может быть, он мне даже личного водителя выделит!"
 
-# game/scripts/story_01/dinners.rpy:29
+# game/scripts/story_01/dinners.rpy:33
 translate crowdin ev_009_c5f3e8ef:
 
     # Max 12 "Ого! Да он в тебя влюбился?"
     Max 12 "Ого! Да он в тебя влюбился?"
 
-# game/scripts/story_01/dinners.rpy:30
+# game/scripts/story_01/dinners.rpy:34
 translate crowdin ev_009_645b8e37:
 
     # Ann 11 "Почему сразу влюбился? Может быть, он джентльмен, который помогает новенькой на новом месте работы..."
     Ann 11 "Почему сразу влюбился? Может быть, он джентльмен, который помогает новенькой на новом месте работы..."
 
-# game/scripts/story_01/dinners.rpy:31
+# game/scripts/story_01/dinners.rpy:35
 translate crowdin ev_009_e1d87a63:
 
     # Max 13 "И как его зовут?"
     Max 13 "И как его зовут?"
 
-# game/scripts/story_01/dinners.rpy:32
+# game/scripts/story_01/dinners.rpy:36
 translate crowdin ev_009_409ac362:
 
     # Ann 01 "Его зовут Эрик. Фамилия вам ничего не даст, так что, это не важно. Может быть, я вас однажды и познакомлю..."
     Ann 01 "Его зовут Эрик. Фамилия вам ничего не даст, так что, это не важно. Может быть, я вас однажды и познакомлю..."
 
-# game/scripts/story_01/dinners.rpy:33
+# game/scripts/story_01/dinners.rpy:37
 translate crowdin ev_009_f2b30c18:
 
     # Max 14 "Значит, он тебе нравится..."
     Max 14 "Значит, он тебе нравится..."
 
-# game/scripts/story_01/dinners.rpy:34
+# game/scripts/story_01/dinners.rpy:38
 translate crowdin ev_009_71e76301:
 
     # Ann 12 "Я уже сказала, что он симпатичный состоявшийся мужчина и это нормально... Или не сказала? Не важно. Хватит меня допрашивать, всё остывает!"
     Ann 12 "Я уже сказала, что он симпатичный состоявшийся мужчина и это нормально... Или не сказала? Не важно. Хватит меня допрашивать, всё остывает!"
 
-# game/scripts/story_01/dinners.rpy:35
+# game/scripts/story_01/dinners.rpy:39
 translate crowdin ev_009_cf999414:
 
     # Lisa 09 "Ну, мам, расскажи больше..."
     Lisa 09 "Ну, мам, расскажи больше..."
 
-# game/scripts/story_01/dinners.rpy:36
+# game/scripts/story_01/dinners.rpy:40
 translate crowdin ev_009_a440551c:
 
     # Ann 02 "Сегодня не у меня одной первый день. Лиза тоже пошла в новую школу. Рассказывай, как у тебя всё прошло?"
     Ann 02 "Сегодня не у меня одной первый день. Лиза тоже пошла в новую школу. Рассказывай, как у тебя всё прошло?"
 
-# game/scripts/story_01/dinners.rpy:37
+# game/scripts/story_01/dinners.rpy:41
 translate crowdin ev_009_bee8bd6e:
 
     # Lisa 01 "Ну, школа находится тут совсем рядом, почти за углом. Уроки короткие, занятий мало. Но преподают интересно, гораздо лучше, чем в старой школе. Думаю, здесь даже Максу понравилось бы учиться!"
     Lisa 01 "Ну, школа находится тут совсем рядом, почти за углом. Уроки короткие, занятий мало. Но преподают интересно, гораздо лучше, чем в старой школе. Думаю, здесь даже Максу понравилось бы учиться!"
 
-# game/scripts/story_01/dinners.rpy:38
+# game/scripts/story_01/dinners.rpy:42
 translate crowdin ev_009_57b9e2c8:
 
     # Ann 03 "Ну а ученики какие? Повезло с классом? Уже завела себе друзей и подруг?"
     Ann 03 "Ну а ученики какие? Повезло с классом? Уже завела себе друзей и подруг?"
 
-# game/scripts/story_01/dinners.rpy:39
+# game/scripts/story_01/dinners.rpy:43
 translate crowdin ev_009_0cf58d33:
 
     # Lisa 02 "Да, познакомилась... с одной подружкой. Класс супер, всё хорошо, мам!"
     Lisa 02 "Да, познакомилась... с одной подружкой. Класс супер, всё хорошо, мам!"
 
-# game/scripts/story_01/dinners.rpy:40
+# game/scripts/story_01/dinners.rpy:44
 translate crowdin ev_009_3f8e29f7:
 
     # Max 01 "Что за подружка? Как зовут?"
     Max 01 "Что за подружка? Как зовут?"
 
-# game/scripts/story_01/dinners.rpy:41
+# game/scripts/story_01/dinners.rpy:45
 translate crowdin ev_009_ce277c38:
 
     # Lisa 11 "Ой, да обычная подружка..."
     Lisa 11 "Ой, да обычная подружка..."
 
-# game/scripts/story_01/dinners.rpy:42
+# game/scripts/story_01/dinners.rpy:46
 translate crowdin ev_009_3e93b9d6:
 
     # Alice 04 "Кажется, у кого-то секреты..."
     Alice 04 "Кажется, у кого-то секреты..."
 
-# game/scripts/story_01/dinners.rpy:43
+# game/scripts/story_01/dinners.rpy:47
 translate crowdin ev_009_f218abab:
 
     # Lisa 09 "Ну что вы, в самом деле. Ну да, с парнем познакомилась. Зовут Алекс. Учимся вместе, сидим рядом!"
     Lisa 09 "Ну что вы, в самом деле. Ну да, с парнем познакомилась. Зовут Алекс. Учимся вместе, сидим рядом!"
 
-# game/scripts/story_01/dinners.rpy:44
+# game/scripts/story_01/dinners.rpy:48
 translate crowdin ev_009_4186981a:
 
     # Max 11 "Так бы сразу и сказала!"
     Max 11 "Так бы сразу и сказала!"
 
-# game/scripts/story_01/dinners.rpy:45
+# game/scripts/story_01/dinners.rpy:49
 translate crowdin ev_009_c8b74720:
 
     # Lisa 12 "А я так и сказала! Всё. Больше ничего не спрашивайте!"
     Lisa 12 "А я так и сказала! Всё. Больше ничего не спрашивайте!"
 
-# game/scripts/story_01/dinners.rpy:46
+# game/scripts/story_01/dinners.rpy:50
 translate crowdin ev_009_fa72dad8:
 
     # Ann 11 "Извини, Лиза, я же не знала. Я вот тоже познакомилась с Эриком в первый же день. Не мне тебя судить!"
     Ann 11 "Извини, Лиза, я же не знала. Я вот тоже познакомилась с Эриком в первый же день. Не мне тебя судить!"
 
-# game/scripts/story_01/dinners.rpy:47
+# game/scripts/story_01/dinners.rpy:51
 translate crowdin ev_009_e7e5d292:
 
     # Lisa 11 "Да всё в порядке, мам. Просто, мы только познакомились, поболтали и улыбнулись друг другу, а всё выглядит так, как будто у меня уже есть парень..."
     Lisa 11 "Да всё в порядке, мам. Просто, мы только познакомились, поболтали и улыбнулись друг другу, а всё выглядит так, как будто у меня уже есть парень..."
 
-# game/scripts/story_01/dinners.rpy:48
+# game/scripts/story_01/dinners.rpy:52
 translate crowdin ev_009_6c068817:
 
     # Ann 01 "Тоже верно... Так, ладно. Спасибо всем за ужин. Лиза, сейчас как раз твоя очередь мыть посуду?"
     Ann 01 "Тоже верно... Так, ладно. Спасибо всем за ужин. Лиза, сейчас как раз твоя очередь мыть посуду?"
 
-# game/scripts/story_01/dinners.rpy:49
+# game/scripts/story_01/dinners.rpy:53
 translate crowdin ev_009_58c3ff02:
 
     # Lisa 02 "Да, мам. Но если мне кто-то поможет... Например, Макс, то я не откажусь..."
     Lisa 02 "Да, мам. Но если мне кто-то поможет... Например, Макс, то я не откажусь..."
 
-# game/scripts/story_01/dinners.rpy:50
+# game/scripts/story_01/dinners.rpy:54
 translate crowdin ev_009_7267ed68:
 
     # Max 12 "Может быть..."
     Max 12 "Может быть..."
 
-# game/scripts/story_01/dinners.rpy:51
+# game/scripts/story_01/dinners.rpy:55
 translate crowdin ev_009_091abc12:
 
     # Ann 02 "Ладно, разбирайтесь сами. А я собираюсь принять ванну. Так что, меня не беспокоить!"
     Ann 02 "Ладно, разбирайтесь сами. А я собираюсь принять ванну. Так что, меня не беспокоить!"
 
-# game/scripts/story_01/dinners.rpy:52
+# game/scripts/story_01/dinners.rpy:56
 translate crowdin ev_009_f930d279:
 
     # Max 01 "Хорошо, мам!"

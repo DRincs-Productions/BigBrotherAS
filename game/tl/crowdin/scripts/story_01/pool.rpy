@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-02-14 16:12
+﻿# TODO: Translation updated at 2023-02-23 01:51
 
 # game/scripts/story_01/pool.rpy:9
 translate crowdin alice_swims_talk_2c2308f4:
@@ -48,97 +48,97 @@ translate crowdin alice_swims_talk_fb0b0639_1:
     # Max 01 "Не буду тебе мешать..."
     Max 01 "Не буду тебе мешать..."
 
-# game/scripts/story_01/pool.rpy:48
+# game/scripts/story_01/pool.rpy:51
 translate crowdin alice_swims_talk_swims_afcd201b:
 
     # tMax 01 "Это точно. Я бы тоже только так и отдыхал, если бы у нас был полон двор девчонок в бикини и без..." nointeract
     tMax 01 "Это точно. Я бы тоже только так и отдыхал, если бы у нас был полон двор девчонок в бикини и без..." nointeract
 
-# game/scripts/story_01/pool.rpy:55
+# game/scripts/story_01/pool.rpy:58
 translate crowdin alice_swims_talk_swims_e274d786:
 
     # tMax 04 "Но и то, что сейчас есть во дворе, тоже очень неплохо выглядит! И желания появляются очень пошлые..." nointeract
     tMax 04 "Но и то, что сейчас есть во дворе, тоже очень неплохо выглядит! И желания появляются очень пошлые..." nointeract
 
-# game/scripts/story_01/pool.rpy:62
+# game/scripts/story_01/pool.rpy:65
 translate crowdin alice_swims_talk_swims_e5abb306:
 
     # Alice 02 "Ты уже наплавался, что ли?"
     Alice 02 "Ты уже наплавался, что ли?"
 
-# game/scripts/story_01/pool.rpy:63
+# game/scripts/story_01/pool.rpy:66
 translate crowdin alice_swims_talk_swims_d665a78a:
 
     # Max 01 "Ага. Давай, не скучай..."
     Max 01 "Ага. Давай, не скучай..."
 
-# game/scripts/story_01/pool.rpy:75
+# game/scripts/story_01/pool.rpy:79
 translate crowdin lise_swims_talk_731b6e1d:
 
     # Lisa 01 "Как раз собиралась. Если хочешь, присоединяйся..." nointeract
     Lisa 01 "Как раз собиралась. Если хочешь, присоединяйся..." nointeract
 
-# game/scripts/story_01/pool.rpy:81
+# game/scripts/story_01/pool.rpy:85
 translate crowdin lise_swims_talk_9aeae577:
 
     # Lisa 05 "Ой, как хорошо! Стояла бы такая погода всегда. Я бы тогда купалась и загорала, пока не надоест." nointeract
     Lisa 05 "Ой, как хорошо! Стояла бы такая погода всегда. Я бы тогда купалась и загорала, пока не надоест." nointeract
 
-# game/scripts/story_01/pool.rpy:85
-translate crowdin lise_swims_talk_60be7bc8:
-
-    # Lisa_02 "Ну и зря! Водичка тёплая."
-    Lisa_02 "Ну и зря! Водичка тёплая."
-
-# game/scripts/story_01/pool.rpy:86
-translate crowdin lise_swims_talk_5727158a:
-
-    # Max_01 "У меня есть дела..."
-    Max_01 "У меня есть дела..."
-
-# game/scripts/story_01/pool.rpy:92
-translate crowdin lise_swims_talk_28ca610f:
-
-    # Lisa 01 "Присоединяйся, если хочешь. Бассейн большой..." nointeract
-    Lisa 01 "Присоединяйся, если хочешь. Бассейн большой..." nointeract
-
-# game/scripts/story_01/pool.rpy:98
-translate crowdin lise_swims_talk_be468145:
-
-    # Lisa 05 "С такой солнечной погодой только и остаётся, что дома прятаться. Но в бассейне куда приятнее..." nointeract
-    Lisa 05 "С такой солнечной погодой только и остаётся, что дома прятаться. Но в бассейне куда приятнее..." nointeract
-
-# game/scripts/story_01/pool.rpy:102
+# game/scripts/story_01/pool.rpy:89
 translate crowdin lise_swims_talk_fe429d30:
 
     # Lisa 02 "Ну и зря! Водичка тёплая."
     Lisa 02 "Ну и зря! Водичка тёплая."
 
-# game/scripts/story_01/pool.rpy:103
+# game/scripts/story_01/pool.rpy:90
 translate crowdin lise_swims_talk_469ec5b1:
 
     # Max 01 "У меня есть дела..."
     Max 01 "У меня есть дела..."
 
-# game/scripts/story_01/pool.rpy:112
+# game/scripts/story_01/pool.rpy:96
+translate crowdin lise_swims_talk_28ca610f:
+
+    # Lisa 01 "Присоединяйся, если хочешь. Бассейн большой..." nointeract
+    Lisa 01 "Присоединяйся, если хочешь. Бассейн большой..." nointeract
+
+# game/scripts/story_01/pool.rpy:102
+translate crowdin lise_swims_talk_be468145:
+
+    # Lisa 05 "С такой солнечной погодой только и остаётся, что дома прятаться. Но в бассейне куда приятнее..." nointeract
+    Lisa 05 "С такой солнечной погодой только и остаётся, что дома прятаться. Но в бассейне куда приятнее..." nointeract
+
+# game/scripts/story_01/pool.rpy:106
+translate crowdin lise_swims_talk_fe429d30_1:
+
+    # Lisa 02 "Ну и зря! Водичка тёплая."
+    Lisa 02 "Ну и зря! Водичка тёплая."
+
+# game/scripts/story_01/pool.rpy:107
+translate crowdin lise_swims_talk_469ec5b1_1:
+
+    # Max 01 "У меня есть дела..."
+    Max 01 "У меня есть дела..."
+
+# game/scripts/story_01/pool.rpy:119
 translate crowdin lise_swims_talk_swims_2888b1b8:
 
     # tMax 01 "Приятно наблюдать, как Лиза плавает. Так задорно своими стройными ножками двигает..." nointeract
     tMax 01 "Приятно наблюдать, как Лиза плавает. Так задорно своими стройными ножками двигает..." nointeract
 
-# game/scripts/story_01/pool.rpy:119
+# game/scripts/story_01/pool.rpy:126
 translate crowdin lise_swims_talk_swims_706e6985:
 
     # tMax 04 "А как она под водой красиво смотрится! Так и хочется сделать что-нибудь эдакое..." nointeract
     tMax 04 "А как она под водой красиво смотрится! Так и хочется сделать что-нибудь эдакое..." nointeract
 
-# game/scripts/story_01/pool.rpy:127
+# game/scripts/story_01/pool.rpy:134
 translate crowdin lise_swims_talk_swims_cd4ffcfe:
 
     # Lisa 02 "Ты что, Макс, уже наплавался?"
     Lisa 02 "Ты что, Макс, уже наплавался?"
 
-# game/scripts/story_01/pool.rpy:128
+# game/scripts/story_01/pool.rpy:135
 translate crowdin lise_swims_talk_swims_bae8e776:
 
     # Max 01 "Ага. Пора делами заниматься..."
@@ -154,23 +154,23 @@ translate crowdin strings:
     old "{i}поплавать с Алисой{/i}"
     new "{i}поплавать с Алисой{/i}"
 
-    # game/scripts/story_01/pool.rpy:47
+    # game/scripts/story_01/pool.rpy:50
     old "{i}нырнуть под воду{/i}"
     new "{i}нырнуть под воду{/i}"
 
-    # game/scripts/story_01/pool.rpy:54
+    # game/scripts/story_01/pool.rpy:57
     old "{i}вынырнуть и закончить плавать{/i}"
     new "{i}вынырнуть и закончить плавать{/i}"
 
-    # game/scripts/story_01/pool.rpy:74
+    # game/scripts/story_01/pool.rpy:78
     old "С радостью!"
     new "С радостью!"
 
-    # game/scripts/story_01/pool.rpy:80
+    # game/scripts/story_01/pool.rpy:84
     old "{i}поплавать с Лизой{/i}"
     new "{i}поплавать с Лизой{/i}"
 
-    # game/scripts/story_01/pool.rpy:118
+    # game/scripts/story_01/pool.rpy:125
     old "{i}вынырнуть у неё между ног{/i}"
     new "{i}вынырнуть у неё между ног{/i}"
 

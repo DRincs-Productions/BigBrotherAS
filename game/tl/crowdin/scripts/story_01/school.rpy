@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-02-14 16:12
+﻿# TODO: Translation updated at 2023-02-23 01:51
 
 # game/scripts/story_01/school.rpy:10
 translate crowdin ev_004_1fe4b55c:
@@ -300,193 +300,193 @@ translate crowdin ev_005_7d0014e5:
     # Max 01 "А мне пора делами заниматься..."
     Max 01 "А мне пора делами заниматься..."
 
-# game/scripts/story_01/school.rpy:136
+# game/scripts/story_01/school.rpy:140
 translate crowdin ev_010_c7b37111:
 
     # Lisa 09 "Ну да. А что?"
     Lisa 09 "Ну да. А что?"
 
-# game/scripts/story_01/school.rpy:137
+# game/scripts/story_01/school.rpy:141
 translate crowdin ev_010_9268df61:
 
     # Max 13 "А как же подробности?"
     Max 13 "А как же подробности?"
 
-# game/scripts/story_01/school.rpy:138
+# game/scripts/story_01/school.rpy:142
 translate crowdin ev_010_7ed3aac6:
 
     # Lisa 01 "Просто мальчик, который мне понравился. Он со мной заговорил... Так и познакомились."
     Lisa 01 "Просто мальчик, который мне понравился. Он со мной заговорил... Так и познакомились."
 
-# game/scripts/story_01/school.rpy:139
+# game/scripts/story_01/school.rpy:143
 translate crowdin ev_010_f5dbdfe7:
 
     # Max 01 "Да не стесняйся, расскажи о нём!"
     Max 01 "Да не стесняйся, расскажи о нём!"
 
-# game/scripts/story_01/school.rpy:140
+# game/scripts/story_01/school.rpy:144
 translate crowdin ev_010_1e7193d0:
 
     # Lisa 11 "Ну, парень как парень. Вот как ты, только не такой зануда и красивый."
     Lisa 11 "Ну, парень как парень. Вот как ты, только не такой зануда и красивый."
 
-# game/scripts/story_01/school.rpy:141
+# game/scripts/story_01/school.rpy:145
 translate crowdin ev_010_c01df258:
 
     # Max 15 "Эй, я не зануда!"
     Max 15 "Эй, я не зануда!"
 
-# game/scripts/story_01/school.rpy:142
+# game/scripts/story_01/school.rpy:146
 translate crowdin ev_010_52ea2c8d:
 
     # Lisa 03 "Ещё какой зануда! Достаёшь меня допросами о моём парне..."
     Lisa 03 "Ещё какой зануда! Достаёшь меня допросами о моём парне..."
 
-# game/scripts/story_01/school.rpy:143
+# game/scripts/story_01/school.rpy:147
 translate crowdin ev_010_b1a193c4:
 
     # Max 11 "Ого, так он уже твой парень?!"
     Max 11 "Ого, так он уже твой парень?!"
 
-# game/scripts/story_01/school.rpy:144
+# game/scripts/story_01/school.rpy:148
 translate crowdin ev_010_24d10f89:
 
     # Lisa 09 "Нет, ну... я не так выразилась. Мы просто познакомились и, конечно, он не мой парень!"
     Lisa 09 "Нет, ну... я не так выразилась. Мы просто познакомились и, конечно, он не мой парень!"
 
-# game/scripts/story_01/school.rpy:145
+# game/scripts/story_01/school.rpy:149
 translate crowdin ev_010_c170b505:
 
     # Max 04 "Я, между прочим, тоже ничего. Получше него буду."
     Max 04 "Я, между прочим, тоже ничего. Получше него буду."
 
-# game/scripts/story_01/school.rpy:146
+# game/scripts/story_01/school.rpy:150
 translate crowdin ev_010_e5ccc4ca:
 
     # Lisa 03 "Ты мой братишка! Не говори ерунду. Мы и так с тобой спим вместе. Ну, в одной комнате!"
     Lisa 03 "Ты мой братишка! Не говори ерунду. Мы и так с тобой спим вместе. Ну, в одной комнате!"
 
-# game/scripts/story_01/school.rpy:147
+# game/scripts/story_01/school.rpy:151
 translate crowdin ev_010_d2481207:
 
     # Max 03 "Думаю, твой парень должен знать, что мы спим вместе."
     Max 03 "Думаю, твой парень должен знать, что мы спим вместе."
 
-# game/scripts/story_01/school.rpy:148
+# game/scripts/story_01/school.rpy:152
 translate crowdin ev_010_4d69ec2f:
 
     # Lisa 02 "Дурак! Я же в шутку это сказала. И, вообще, прекращай меня доставать!"
     Lisa 02 "Дурак! Я же в шутку это сказала. И, вообще, прекращай меня доставать!"
 
-# game/scripts/story_01/school.rpy:149
+# game/scripts/story_01/school.rpy:153
 translate crowdin ev_010_858df039:
 
     # Max 13 "Я вообще-то переживаю за свою младшую сестрёнку! Поэтому мне и интересно..."
     Max 13 "Я вообще-то переживаю за свою младшую сестрёнку! Поэтому мне и интересно..."
 
-# game/scripts/story_01/school.rpy:150
+# game/scripts/story_01/school.rpy:154
 translate crowdin ev_010_078ed1ff:
 
     # Lisa 11 "Извини. Я не подумала. Кстати, спасибо, что со мной болтаешь. Я обычно о таком Алисе рассказывала, но она стала слишком взрослой и мы как-то отдалились..."
     Lisa 11 "Извини. Я не подумала. Кстати, спасибо, что со мной болтаешь. Я обычно о таком Алисе рассказывала, но она стала слишком взрослой и мы как-то отдалились..."
 
-# game/scripts/story_01/school.rpy:151
+# game/scripts/story_01/school.rpy:155
 translate crowdin ev_010_3940925d:
 
     # Max 11 "Ну, со мной ты всегда можешь поболтать."
     Max 11 "Ну, со мной ты всегда можешь поболтать."
 
-# game/scripts/story_01/school.rpy:152
+# game/scripts/story_01/school.rpy:156
 translate crowdin ev_010_1f647314:
 
     # Lisa 01 "Ладно, буду иметь в виду!"
     Lisa 01 "Ладно, буду иметь в виду!"
 
-# game/scripts/story_01/school.rpy:153
+# game/scripts/story_01/school.rpy:157
 translate crowdin ev_010_b04f82cc:
 
     # Max 00 "Что дальше думаешь делать?"
     Max 00 "Что дальше думаешь делать?"
 
-# game/scripts/story_01/school.rpy:154
+# game/scripts/story_01/school.rpy:158
 translate crowdin ev_010_c84dc01f:
 
     # Lisa 10 "Я не знаю. Посмотрим, как всё пойдёт. Может быть, он уже с кем-то встречается, а тут пришла я такая красивая..."
     Lisa 10 "Я не знаю. Посмотрим, как всё пойдёт. Может быть, он уже с кем-то встречается, а тут пришла я такая красивая..."
 
-# game/scripts/story_01/school.rpy:155
+# game/scripts/story_01/school.rpy:159
 translate crowdin ev_010_9361a998:
 
     # Max 13 "А не рано тебе с кем-то встречаться?"
     Max 13 "А не рано тебе с кем-то встречаться?"
 
-# game/scripts/story_01/school.rpy:156
+# game/scripts/story_01/school.rpy:160
 translate crowdin ev_010_302be40c:
 
     # Lisa 11 "Ты в моём возрасте уже тусил с этой своей, как её... Правда, она тебя бросила..."
     Lisa 11 "Ты в моём возрасте уже тусил с этой своей, как её... Правда, она тебя бросила..."
 
-# game/scripts/story_01/school.rpy:157
+# game/scripts/story_01/school.rpy:161
 translate crowdin ev_010_52ff5bac:
 
     # Max 12 "Это я её бросил!"
     Max 12 "Это я её бросил!"
 
-# game/scripts/story_01/school.rpy:158
+# game/scripts/story_01/school.rpy:162
 translate crowdin ev_010_dfed2c77:
 
     # Lisa 02 "Ну да, потом её караулил под окнами, чтобы сказать, как ты её не любишь..."
     Lisa 02 "Ну да, потом её караулил под окнами, чтобы сказать, как ты её не любишь..."
 
-# game/scripts/story_01/school.rpy:159
+# game/scripts/story_01/school.rpy:163
 translate crowdin ev_010_357ba6cc:
 
     # Max 01 "В любом случае, у меня опыта больше."
     Max 01 "В любом случае, у меня опыта больше."
 
-# game/scripts/story_01/school.rpy:160
+# game/scripts/story_01/school.rpy:164
 translate crowdin ev_010_434b8364:
 
     # Lisa 03 "Да уж, ты у нас опытный любовник!"
     Lisa 03 "Да уж, ты у нас опытный любовник!"
 
-# game/scripts/story_01/school.rpy:161
+# game/scripts/story_01/school.rpy:165
 translate crowdin ev_010_95aeb60b:
 
     # Max 11 "Я же не обо всём рассказывал..."
     Max 11 "Я же не обо всём рассказывал..."
 
-# game/scripts/story_01/school.rpy:162
+# game/scripts/story_01/school.rpy:166
 translate crowdin ev_010_e9eb7927:
 
     # Lisa 01 "Любопытно... И о чём же ты умолчал?"
     Lisa 01 "Любопытно... И о чём же ты умолчал?"
 
-# game/scripts/story_01/school.rpy:163
+# game/scripts/story_01/school.rpy:167
 translate crowdin ev_010_305725b0:
 
     # Max 04 "В школе по мне все девчонки с ума сходили! И со многими я встречался."
     Max 04 "В школе по мне все девчонки с ума сходили! И со многими я встречался."
 
-# game/scripts/story_01/school.rpy:164
+# game/scripts/story_01/school.rpy:168
 translate crowdin ev_010_942ba2cf:
 
     # Lisa 02 "Так я тебе и поверила..."
     Lisa 02 "Так я тебе и поверила..."
 
-# game/scripts/story_01/school.rpy:165
+# game/scripts/story_01/school.rpy:169
 translate crowdin ev_010_3203ad5d:
 
     # Max 11 "Хочешь верь, хочешь нет, но опыт у меня в этих делах есть. Так что, если будет нужна помощь, обращайся."
     Max 11 "Хочешь верь, хочешь нет, но опыт у меня в этих делах есть. Так что, если будет нужна помощь, обращайся."
 
-# game/scripts/story_01/school.rpy:166
+# game/scripts/story_01/school.rpy:170
 translate crowdin ev_010_c0e27f39:
 
     # Lisa 01 "Хорошо, Макс, буду иметь в виду. И спасибо, что поболтал со мной."
     Lisa 01 "Хорошо, Макс, буду иметь в виду. И спасибо, что поболтал со мной."
 
-# game/scripts/story_01/school.rpy:167
+# game/scripts/story_01/school.rpy:171
 translate crowdin ev_010_63a2b4c3:
 
     # Max 02 "Да не за что..."

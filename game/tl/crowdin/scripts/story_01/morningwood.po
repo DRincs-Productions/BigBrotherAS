@@ -1,88 +1,272 @@
-﻿# TODO: Translation updated at 2023-02-14 16:12 #|#|# # game/scripts/story_01/morningwood.rpy:12 #-#-# translate crowdin ev_001_190bdbd1:
-msgid "[_Lisa_s_14_] Макс! Это что такое?! Я сейчас маму позову!"
-msgstr "[_Lisa_s_14_] Макс! Это что такое?! Я сейчас маму позову!"
+﻿# TODO: Translation updated at 2023-02-23 01:51 #|#|# # game/scripts/story_01/morningwood.rpy:14 #-#-# translate crowdin ev_001_ef68f9ed:
+msgid "[_Lisa_s_14_] Я сейчас маму позову!"
+msgstr "[_Lisa_s_14_] Я сейчас маму позову!"
 
-# game/scripts/story_01/morningwood.rpy:13 #-#-# translate crowdin ev_001_8c2a4039:
-msgid "[_Max_s_14_] Что? Ты о чём?"
-msgstr "[_Max_s_14_] Что? Ты о чём?"
+# game/scripts/story_01/morningwood.rpy:15 #-#-# translate crowdin ev_001_6d741af2:
+msgid "[_Max_s_14_] Не понял? Ты о чём?"
+msgstr "[_Max_s_14_] Не понял? Ты о чём?"
 
-# game/scripts/story_01/morningwood.rpy:14 #-#-# translate crowdin ev_001_9a6720f0:
+# game/scripts/story_01/morningwood.rpy:16 #-#-# translate crowdin ev_001_9a6720f0:
 msgid "[_Lisa_s_12_] Ты чем таким занимался при мне?!"
 msgstr "[_Lisa_s_12_] Ты чем таким занимался при мне?!"
 
-# game/scripts/story_01/morningwood.rpy:15 #-#-# translate crowdin ev_001_725bd0cc:
+# game/scripts/story_01/morningwood.rpy:17 #-#-# translate crowdin ev_001_725bd0cc:
 msgid "[_Max_s_12_] Да ты о чём, вообще?"
 msgstr "[_Max_s_12_] Да ты о чём, вообще?"
 
-# game/scripts/story_01/morningwood.rpy:19 #-#-# translate crowdin ev_001_32b41e50:
+# game/scripts/story_01/morningwood.rpy:21 #-#-# translate crowdin ev_001_32b41e50:
 msgid "[_Lisa_s_17_] Ма-ам! Иди сюда, скорее!"
 msgstr "[_Lisa_s_17_] Ма-ам! Иди сюда, скорее!"
 
-# game/scripts/story_01/morningwood.rpy:20 #-#-# translate crowdin ev_001_4ac59ba7:
+# game/scripts/story_01/morningwood.rpy:22 #-#-# translate crowdin ev_001_4ac59ba7:
 msgid "[_Max_s_13_] Да это не то, о чём ты думаешь. Просто, так бывает утром иногда..."
 msgstr "[_Max_s_13_] Да это не то, о чём ты думаешь. Просто, так бывает утром иногда..."
 
-# game/scripts/story_01/morningwood.rpy:21 #-#-# translate crowdin ev_001_a7290d8d:
+# game/scripts/story_01/morningwood.rpy:23 #-#-# translate crowdin ev_001_a7290d8d:
 msgid "[_Lisa_s_12_] Не то, о чём думаю? Так я тебе и поверила! Это явно то, о чём я думаю! Ма-ам!"
 msgstr "[_Lisa_s_12_] Не то, о чём думаю? Так я тебе и поверила! Это явно то, о чём я думаю! Ма-ам!"
 
-# game/scripts/story_01/morningwood.rpy:22 #-#-# translate crowdin ev_001_fff3cf66:
+# game/scripts/story_01/morningwood.rpy:24 #-#-# translate crowdin ev_001_fff3cf66:
 msgid "[_Max_s_16_] Да не ори ты так!"
 msgstr "[_Max_s_16_] Да не ори ты так!"
 
-# game/scripts/story_01/morningwood.rpy:26 #-#-# translate crowdin ev_001_77d6732a:
+# game/scripts/story_01/morningwood.rpy:28 #-#-# translate crowdin ev_001_77d6732a:
 msgid "[_Ann_s_11_] Лиза? Что случилось?!"
 msgstr "[_Ann_s_11_] Лиза? Что случилось?!"
 
-# game/scripts/story_01/morningwood.rpy:27 #-#-# translate crowdin ev_001_83bc3937:
+# game/scripts/story_01/morningwood.rpy:29 #-#-# translate crowdin ev_001_83bc3937:
 msgid "[_Lisa_s_16_] Мам! Смотри, что у него!"
 msgstr "[_Lisa_s_16_] Мам! Смотри, что у него!"
 
-# game/scripts/story_01/morningwood.rpy:31 #-#-# translate crowdin ev_001_b4b8a7ce:
+# game/scripts/story_01/morningwood.rpy:33 #-#-# translate crowdin ev_001_b4b8a7ce:
 msgid "[_Ann_s_15_] Макс! Объяснишь, чем ты занимался при сестре?!"
 msgstr "[_Ann_s_15_] Макс! Объяснишь, чем ты занимался при сестре?!"
 
-# game/scripts/story_01/morningwood.rpy:32 #-#-# translate crowdin ev_001_5e9467ce:
+# game/scripts/story_01/morningwood.rpy:34 #-#-# translate crowdin ev_001_5e9467ce:
 msgid "[_Max_s_12_] Да я просто спал, это само! Так бывает по утрам, я не специально..."
 msgstr "[_Max_s_12_] Да я просто спал, это само! Так бывает по утрам, я не специально..."
 
-# game/scripts/story_01/morningwood.rpy:33 #-#-# translate crowdin ev_001_3f83fa7a:
+# game/scripts/story_01/morningwood.rpy:35 #-#-# translate crowdin ev_001_3f83fa7a:
 msgid "[_Ann_s_12_] Ну, да, Лиза. Так у мальчиков иногда бывает по утрам. Не нужно паниковать..."
 msgstr "[_Ann_s_12_] Ну, да, Лиза. Так у мальчиков иногда бывает по утрам. Не нужно паниковать..."
 
-# game/scripts/story_01/morningwood.rpy:34 #-#-# translate crowdin ev_001_07aa4fba:
+# game/scripts/story_01/morningwood.rpy:36 #-#-# translate crowdin ev_001_07aa4fba:
 msgid "[_Max_s_13_] Я так сразу и сказал..."
 msgstr "[_Max_s_13_] Я так сразу и сказал..."
 
-# game/scripts/story_01/morningwood.rpy:38 #-#-# translate crowdin ev_001_01e35406:
-msgid "[_Lisa_s_15_] Это не правда! Так не может быть... само. Он что-то делал, наверняка..."
-msgstr "[_Lisa_s_15_] Это не правда! Так не может быть... само. Он что-то делал, наверняка..."
+# game/scripts/story_01/morningwood.rpy:40 #-#-# translate crowdin ev_001_3ddd9b9e:
+msgid "[_Lisa_s_15_] Это неправда! Так не может быть... само. Он что-то делал, наверняка..."
+msgstr "[_Lisa_s_15_] Это неправда! Так не может быть... само. Он что-то делал, наверняка..."
 
-# game/scripts/story_01/morningwood.rpy:39 #-#-# translate crowdin ev_001_e42fdade:
+# game/scripts/story_01/morningwood.rpy:41 #-#-# translate crowdin ev_001_e42fdade:
 msgid "[_Max_s_17_] Да ничего я не делал!"
 msgstr "[_Max_s_17_] Да ничего я не делал!"
 
-# game/scripts/story_01/morningwood.rpy:40 #-#-# translate crowdin ev_001_06ed2ca6:
+# game/scripts/story_01/morningwood.rpy:42 #-#-# translate crowdin ev_001_06ed2ca6:
 msgid "[_Ann_s_10_] Ты сама видела, чтобы Макс чем-то \"{b}таким{/b}\" занимался при тебе?"
 msgstr "[_Ann_s_10_] Ты сама видела, чтобы Макс чем-то \"{b}таким{/b}\" занимался при тебе?"
 
-# game/scripts/story_01/morningwood.rpy:41 #-#-# translate crowdin ev_001_bd274cc4:
+# game/scripts/story_01/morningwood.rpy:43 #-#-# translate crowdin ev_001_bd274cc4:
 msgid "[_Lisa_s_10_] Нет, но мам... Я просто испугалась."
 msgstr "[_Lisa_s_10_] Нет, но мам... Я просто испугалась."
 
-# game/scripts/story_01/morningwood.rpy:45 #-#-# translate crowdin ev_001_3f4da9ea:
+# game/scripts/story_01/morningwood.rpy:47 #-#-# translate crowdin ev_001_3f4da9ea:
 msgid "[_Ann_s_01_] Лиза. Ты, похоже, совсем ничего не знаешь о мальчиках. С одной стороны, я рада, что ты у меня такая. А с другой..."
 msgstr "[_Ann_s_01_] Лиза. Ты, похоже, совсем ничего не знаешь о мальчиках. С одной стороны, я рада, что ты у меня такая. А с другой..."
 
-# game/scripts/story_01/morningwood.rpy:46 #-#-# translate crowdin ev_001_533fae83:
+# game/scripts/story_01/morningwood.rpy:48 #-#-# translate crowdin ev_001_533fae83:
 msgid "[_Lisa_s_15_] А что с другой? Я хочу всё знать!"
 msgstr "[_Lisa_s_15_] А что с другой? Я хочу всё знать!"
 
-# game/scripts/story_01/morningwood.rpy:47 #-#-# translate crowdin ev_001_7da6adee:
+# game/scripts/story_01/morningwood.rpy:49 #-#-# translate crowdin ev_001_7da6adee:
 msgid "[_Ann_s_10_] Нет, Лиза, тебе ещё рано таким интересоваться. Вот подрастёшь, тогда и поговорим. На этом всё. Сделаем вид, что ничего не было. Ясно?"
 msgstr "[_Ann_s_10_] Нет, Лиза, тебе ещё рано таким интересоваться. Вот подрастёшь, тогда и поговорим. На этом всё. Сделаем вид, что ничего не было. Ясно?"
 
-# game/scripts/story_01/morningwood.rpy:48 #-#-# translate crowdin ev_001_914f0104:
+# game/scripts/story_01/morningwood.rpy:50 #-#-# translate crowdin ev_001_914f0104:
 msgid "[_Max_s_00_] Ясно..."
 msgstr "[_Max_s_00_] Ясно..."
+
+# game/scripts/story_01/morningwood.rpy:60 #-#-# translate crowdin ev_020_0e6e551a:
+msgid "[_Ann_s_01_] Макс, не переживай из-за этого. Я всё прекрасно понимаю, у мальчиков это бывает..."
+msgstr "[_Ann_s_01_] Макс, не переживай из-за этого. Я всё прекрасно понимаю, у мальчиков это бывает..."
+
+# game/scripts/story_01/morningwood.rpy:61 #-#-# translate crowdin ev_020_f39ad791:
+msgid "[_Max_s_11_] Я рад, что ты понимаешь."
+msgstr "[_Max_s_11_] Я рад, что ты понимаешь."
+
+# game/scripts/story_01/morningwood.rpy:62 #-#-# translate crowdin ev_020_a436e342:
+msgid "[_Ann_s_10_] Но Макс, Лиза ещё маленькая и постарайся, чтобы она не видела твой... тебя. В общем, ты меня понял, да?"
+msgstr "[_Ann_s_10_] Но Макс, Лиза ещё маленькая и постарайся, чтобы она не видела твой... тебя. В общем, ты меня понял, да?"
+
+# game/scripts/story_01/morningwood.rpy:63 #-#-# translate crowdin ev_020_2dcf40a7:
+msgid "[_Max_s_13_] А что такого?"
+msgstr "[_Max_s_13_] А что такого?"
+
+# game/scripts/story_01/morningwood.rpy:65 #-#-# translate crowdin ev_020_de043f63:
+msgid "[_Ann_s_11_] Что такого? Да то, что девочка не должна видеть здоровенный член своего брата, когда просыпается утром! [nointeract]"
+msgstr "[_Ann_s_11_] Что такого? Да то, что девочка не должна видеть здоровенный член своего брата, когда просыпается утром! [nointeract]"
+
+# game/scripts/story_01/morningwood.rpy:67 #-#-# translate crowdin ev_020_3e79ee6f:
+msgid "[_Ann_s_01_] Извини, что-то меня занесло. Просто, даже я в шоке была, когда увидела, а что уж говорить про Лизу..."
+msgstr "[_Ann_s_01_] Извини, что-то меня занесло. Просто, даже я в шоке была, когда увидела, а что уж говорить про Лизу..."
+
+# game/scripts/story_01/morningwood.rpy:68 #-#-# translate crowdin ev_020_d1b45b21:
+msgid "[_Max_s_01_] Значит, тебе понравилось?"
+msgstr "[_Max_s_01_] Значит, тебе понравилось?"
+
+# game/scripts/story_01/morningwood.rpy:69 #-#-# translate crowdin ev_020_8759417c:
+msgid "[_Ann_s_00_] Макс! Я конечно рада, что ты у меня уже такой... большой, но когда это снова повторится, просто прикройся, как будто ничего нет..."
+msgstr "[_Ann_s_00_] Макс! Я конечно рада, что ты у меня уже такой... большой, но когда это снова повторится, просто прикройся, как будто ничего нет..."
+
+# game/scripts/story_01/morningwood.rpy:72 #-#-# translate crowdin ev_020_e6b1aba4:
+msgid "[_Ann_s_01_] Ну, взрослую женщину это даже притягивает, но девочке явно рано на такое смотреть, ты меня понял?"
+msgstr "[_Ann_s_01_] Ну, взрослую женщину это даже притягивает, но девочке явно рано на такое смотреть, ты меня понял?"
+
+# game/scripts/story_01/morningwood.rpy:73 #-#-# translate crowdin ev_020_21f94c76:
+msgid "[_Max_s_01_] Взрослую женщину притягивает?"
+msgstr "[_Max_s_01_] Взрослую женщину притягивает?"
+
+# game/scripts/story_01/morningwood.rpy:74 #-#-# translate crowdin ev_020_2ad935c5:
+msgid "[_Ann_s_00_] Ну, Макс! Я же не это имела в виду... А когда это снова повторится, просто прикройся, как будто ничего нет..."
+msgstr "[_Ann_s_00_] Ну, Макс! Я же не это имела в виду... А когда это снова повторится, просто прикройся, как будто ничего нет..."
+
+# game/scripts/story_01/morningwood.rpy:76 #-#-# translate crowdin ev_020_40d9f81f:
+msgid "[_Max_s_12_] Ну, ты же знаешь, что мне с моим размером это трудно сделать..."
+msgstr "[_Max_s_12_] Ну, ты же знаешь, что мне с моим размером это трудно сделать..."
+
+# game/scripts/story_01/morningwood.rpy:77 #-#-# translate crowdin ev_020_aa978fea:
+msgid "[_Ann_s_10_] Да, понимаю, конечно... Но беседа ушла куда-то не туда. В общем, постарайся не травмировать её психику, хорошо?"
+msgstr "[_Ann_s_10_] Да, понимаю, конечно... Но беседа ушла куда-то не туда. В общем, постарайся не травмировать её психику, хорошо?"
+
+# game/scripts/story_01/morningwood.rpy:78 #-#-# translate crowdin ev_020_4dc9a4b6:
+msgid "[_Max_s_00_] Хорошо, мам. Постараюсь..."
+msgstr "[_Max_s_00_] Хорошо, мам. Постараюсь..."
+
+# game/scripts/story_01/morningwood.rpy:86 #-#-# translate crowdin ev_021_291954c9:
+msgid "[_Lisa_s_12_] Макс, я не хочу об этом говорить!"
+msgstr "[_Lisa_s_12_] Макс, я не хочу об этом говорить!"
+
+# game/scripts/story_01/morningwood.rpy:87 #-#-# translate crowdin ev_021_574f91c9:
+msgid "[_Max_s_12_] Я хотел извиниться..."
+msgstr "[_Max_s_12_] Я хотел извиниться..."
+
+# game/scripts/story_01/morningwood.rpy:88 #-#-# translate crowdin ev_021_8f76cfe4:
+msgid "[_Lisa_s_15_] Извиниться? Значит, ты и правда что-то там делал?"
+msgstr "[_Lisa_s_15_] Извиниться? Значит, ты и правда что-то там делал?"
+
+# game/scripts/story_01/morningwood.rpy:89 #-#-# translate crowdin ev_021_4e693261:
+msgid "[_Max_s_14_] Нет, я хотел извиниться, что не говорил с тобой об этом раньше."
+msgstr "[_Max_s_14_] Нет, я хотел извиниться, что не говорил с тобой об этом раньше."
+
+# game/scripts/story_01/morningwood.rpy:90 #-#-# translate crowdin ev_021_8f6fb23e:
+msgid "[_Lisa_s_09_] Не поняла. Какое-то странное извинение. О чём ты со мной раньше не говорил?"
+msgstr "[_Lisa_s_09_] Не поняла. Какое-то странное извинение. О чём ты со мной раньше не говорил?"
+
+# game/scripts/story_01/morningwood.rpy:91 #-#-# translate crowdin ev_021_01fca96e:
+msgid "[_Max_s_13_] Ты пробовала с мамой о чём-то... взрослом поговорить?"
+msgstr "[_Max_s_13_] Ты пробовала с мамой о чём-то... взрослом поговорить?"
+
+# game/scripts/story_01/morningwood.rpy:92 #-#-# translate crowdin ev_021_8e279ac6:
+msgid "[_Lisa_s_16_] А причём тут это? Ну да, она всегда говорит, что я ещё маленькая..."
+msgstr "[_Lisa_s_16_] А причём тут это? Ну да, она всегда говорит, что я ещё маленькая..."
+
+# game/scripts/story_01/morningwood.rpy:93 #-#-# translate crowdin ev_021_f62b9f83:
+msgid "[_Max_s_11_] Вот именно! Я, как старший брат, должен был тебя подготовить..."
+msgstr "[_Max_s_11_] Вот именно! Я, как старший брат, должен был тебя подготовить..."
+
+# game/scripts/story_01/morningwood.rpy:94 #-#-# translate crowdin ev_021_f0c9c195:
+msgid "[_Lisa_s_09_] Постой. Во-первых, не сильно-то ты и старше меня. Ну ладно, старше, это да. А во-вторых, подготовить к чему?"
+msgstr "[_Lisa_s_09_] Постой. Во-первых, не сильно-то ты и старше меня. Ну ладно, старше, это да. А во-вторых, подготовить к чему?"
+
+# game/scripts/story_01/morningwood.rpy:95 #-#-# translate crowdin ev_021_18c520de:
+msgid "[_Max_s_01_] Ну вот ты что знаешь о мальчиках?"
+msgstr "[_Max_s_01_] Ну вот ты что знаешь о мальчиках?"
+
+# game/scripts/story_01/morningwood.rpy:96 #-#-# translate crowdin ev_021_4abc69eb:
+msgid "[_Lisa_s_11_] Знаю, что если все такие же, как ты, то я стану лесбиянкой!"
+msgstr "[_Lisa_s_11_] Знаю, что если все такие же, как ты, то я стану лесбиянкой!"
+
+# game/scripts/story_01/morningwood.rpy:97 #-#-# translate crowdin ev_021_712842f4:
+msgid "[_Max_s_15_] Эээ..."
+msgstr "[_Max_s_15_] Эээ..."
+
+# game/scripts/story_01/morningwood.rpy:98 #-#-# translate crowdin ev_021_db787ba5:
+msgid "[_Lisa_s_01_] Да шучу я. Ну я поняла, к чему ты клонишь. Вот только не уверена, что ты тот, кто должен мне что-то объяснять..."
+msgstr "[_Lisa_s_01_] Да шучу я. Ну я поняла, к чему ты клонишь. Вот только не уверена, что ты тот, кто должен мне что-то объяснять..."
+
+# game/scripts/story_01/morningwood.rpy:99 #-#-# translate crowdin ev_021_2e3b21ea:
+msgid "[_Max_s_13_] А ты знаешь много желающих тебе что-то объяснить?"
+msgstr "[_Max_s_13_] А ты знаешь много желающих тебе что-то объяснить?"
+
+# game/scripts/story_01/morningwood.rpy:100 #-#-# translate crowdin ev_021_cf3d1575:
+msgid "[_Lisa_s_10_] Тоже верно... Ну ладно. И к чему весь этот разговор?"
+msgstr "[_Lisa_s_10_] Тоже верно... Ну ладно. И к чему весь этот разговор?"
+
+# game/scripts/story_01/morningwood.rpy:101 #-#-# translate crowdin ev_021_9b6b84dd:
+msgid "[_Max_s_11_] Я могу помочь тебе стать взрослой."
+msgstr "[_Max_s_11_] Я могу помочь тебе стать взрослой."
+
+# game/scripts/story_01/morningwood.rpy:102 #-#-# translate crowdin ev_021_9583ac39:
+msgid "[_Lisa_s_09_] Ты же понимаешь, как это звучит? Лучше уточни, что ты имеешь в виду..."
+msgstr "[_Lisa_s_09_] Ты же понимаешь, как это звучит? Лучше уточни, что ты имеешь в виду..."
+
+# game/scripts/story_01/morningwood.rpy:103 #-#-# translate crowdin ev_021_081779d5:
+msgid "[_Max_s_02_] Я поделюсь с тобой знаниями, которые тебе помогут..."
+msgstr "[_Max_s_02_] Я поделюсь с тобой знаниями, которые тебе помогут..."
+
+# game/scripts/story_01/morningwood.rpy:104 #-#-# translate crowdin ev_021_d46ac0df:
+msgid "[_Lisa_s_11_] Помогут с чем? Мне мама говорит, что ещё рано о таком думать."
+msgstr "[_Lisa_s_11_] Помогут с чем? Мне мама говорит, что ещё рано о таком думать."
+
+# game/scripts/story_01/morningwood.rpy:105 #-#-# translate crowdin ev_021_5d1c00bf:
+msgid "[_Max_s_11_] И что, ты не думаешь об этом?"
+msgstr "[_Max_s_11_] И что, ты не думаешь об этом?"
+
+# game/scripts/story_01/morningwood.rpy:106 #-#-# translate crowdin ev_021_4d25ff2b:
+msgid "[_Lisa_s_09_] Думаю... Но я не знаю. О таком вроде не с мальчиками говорят. Тем более с братом..."
+msgstr "[_Lisa_s_09_] Думаю... Но я не знаю. О таком вроде не с мальчиками говорят. Тем более с братом..."
+
+# game/scripts/story_01/morningwood.rpy:107 #-#-# translate crowdin ev_021_b9145289:
+msgid "[_Max_s_13_] У Алисы свои заботы, а мама тебе уже всё сказала..."
+msgstr "[_Max_s_13_] У Алисы свои заботы, а мама тебе уже всё сказала..."
+
+# game/scripts/story_01/morningwood.rpy:108 #-#-# translate crowdin ev_021_607d627f:
+msgid "[_Lisa_s_00_] Ну, я подумаю. Ты как-то слишком настойчиво помощь предлагаешь. Как будто у тебя свой интерес какой-то..."
+msgstr "[_Lisa_s_00_] Ну, я подумаю. Ты как-то слишком настойчиво помощь предлагаешь. Как будто у тебя свой интерес какой-то..."
+
+# game/scripts/story_01/morningwood.rpy:109 #-#-# translate crowdin ev_021_d84fd504:
+msgid "[_Max_s_04_] Хочу только помочь младшей сестрёнке."
+msgstr "[_Max_s_04_] Хочу только помочь младшей сестрёнке."
+
+# game/scripts/story_01/morningwood.rpy:110 #-#-# translate crowdin ev_021_e53d5c33:
+msgid "[_Lisa_s_11_] Ну да, ну да... В общем, я подумаю. Только вот не уверена, что ты всё-таки подходишь на роль такого... наставника, если ты меня понимаешь..."
+msgstr "[_Lisa_s_11_] Ну да, ну да... В общем, я подумаю. Только вот не уверена, что ты всё-таки подходишь на роль такого... наставника, если ты меня понимаешь..."
+
+# game/scripts/story_01/morningwood.rpy:111 #-#-# translate crowdin ev_021_fea3db31:
+msgid "[_Max_s_12_] Не веришь, что я способен научить тебя чему-то дельному?"
+msgstr "[_Max_s_12_] Не веришь, что я способен научить тебя чему-то дельному?"
+
+# game/scripts/story_01/morningwood.rpy:112 #-#-# translate crowdin ev_021_25a71549:
+msgid "[_Lisa_s_01_] Ну не знаю. Посмотрим..."
+msgstr "[_Lisa_s_01_] Ну не знаю. Посмотрим..."
+
+# game/scripts/story_01/morningwood.rpy:115 #-#-# translate crowdin ev_021_61cc1b7b:
+msgid "[_tMax_s_13_] Хм... И как же мне завоевать доверие Лизы?"
+msgstr "[_tMax_s_13_] Хм... И как же мне завоевать доверие Лизы?"
+
+# game/scripts/story_01/morningwood.rpy:116 #-#-# translate crowdin ev_021_70ca2760:
+msgid "[_tMax_s_11_] Может, если она станет чаще видеть меня в «приподнятом» состоянии по утрам, то это станет чем-то естественным... и даже любопытным для неё..."
+msgstr "[_tMax_s_11_] Может, если она станет чаще видеть меня в «приподнятом» состоянии по утрам, то это станет чем-то естественным... и даже любопытным для неё..."
+
+# game/scripts/story_01/morningwood.rpy:117 #-#-# translate crowdin ev_021_fbb6b67e:
+msgid "[_tMax_s_00_] Нужно попробовать, пусть привыкает. Только на это нужно время. И есть риск, что она станет маме жаловаться на меня. Надеюсь, обойдётся..."
+msgstr "[_tMax_s_00_] Нужно попробовать, пусть привыкает. Только на это нужно время. И есть риск, что она станет маме жаловаться на меня. Надеюсь, обойдётся..."
+
+# §translate crowdin strings: #|#|# # game/scripts/story_01/morningwood.rpy:64
+msgid "Ого, мам! Какие выражения..."
+msgstr "Ого, мам! Какие выражения..."
+
+# game/scripts/story_01/morningwood.rpy:64
+msgid "Разве это должно пугать?"
+msgstr "Разве это должно пугать?"
 

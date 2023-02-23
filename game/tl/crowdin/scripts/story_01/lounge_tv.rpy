@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-02-14 16:12
+﻿# TODO: Translation updated at 2023-02-23 01:51
 
 # game/scripts/story_01/lounge_tv.rpy:8
 translate crowdin ev_ann_tv_talk_df9c7313:
@@ -156,67 +156,67 @@ translate crowdin ev_018_f0d87f8c:
     # Max 01 "Конечно, мам!"
     Max 01 "Конечно, мам!"
 
-# game/scripts/story_01/lounge_tv.rpy:105
+# game/scripts/story_01/lounge_tv.rpy:106
 translate crowdin ev_alice_tv_talk_57475a58:
 
     # Alice 01 "Нет, садись, если хочешь. Тут места много..." nointeract
     Alice 01 "Нет, садись, если хочешь. Тут места много..." nointeract
 
-# game/scripts/story_01/lounge_tv.rpy:110
+# game/scripts/story_01/lounge_tv.rpy:111
 translate crowdin ev_alice_tv_talk_2d944dfc:
 
     # Alice 02 "Я просто отдыхаю, и мне без разницы, что смотреть. Что зацепит, то и смотрю..." nointeract
     Alice 02 "Я просто отдыхаю, и мне без разницы, что смотреть. Что зацепит, то и смотрю..." nointeract
 
-# game/scripts/story_01/lounge_tv.rpy:115
+# game/scripts/story_01/lounge_tv.rpy:116
 translate crowdin ev_alice_tv_talk_92f5bed5:
 
     # Alice 01 "Вот, вроде, неплохой сериал... Его и посмотрим сегодня. Или есть возражения?"
     Alice 01 "Вот, вроде, неплохой сериал... Его и посмотрим сегодня. Или есть возражения?"
 
-# game/scripts/story_01/lounge_tv.rpy:116
+# game/scripts/story_01/lounge_tv.rpy:117
 translate crowdin ev_alice_tv_talk_e1fcff8e:
 
     # Max 11 "Никаких. Его, так его..."
     Max 11 "Никаких. Его, так его..."
 
-# game/scripts/story_01/lounge_tv.rpy:120
+# game/scripts/story_01/lounge_tv.rpy:121
 translate crowdin ev_alice_tv_talk_477252ee:
 
     # tMax 01 "Сериал, конечно, занимательный. Да и Алиса глаз радует, но посмотреть порнушку или хотя бы эротику, на таком большом экране, было бы куда занимательнее..."
     tMax 01 "Сериал, конечно, занимательный. Да и Алиса глаз радует, но посмотреть порнушку или хотя бы эротику, на таком большом экране, было бы куда занимательнее..."
 
-# game/scripts/story_01/lounge_tv.rpy:121
+# game/scripts/story_01/lounge_tv.rpy:122
 translate crowdin ev_alice_tv_talk_6c528a3d:
 
     # Alice 04 "Что, Макс, молчишь? Гадости какие-нибудь думаешь?"
     Alice 04 "Что, Макс, молчишь? Гадости какие-нибудь думаешь?"
 
-# game/scripts/story_01/lounge_tv.rpy:122
+# game/scripts/story_01/lounge_tv.rpy:123
 translate crowdin ev_alice_tv_talk_ca32a908:
 
     # Max 04 "Наоборот, о всяком приятном..."
     Max 04 "Наоборот, о всяком приятном..."
 
-# game/scripts/story_01/lounge_tv.rpy:126
+# game/scripts/story_01/lounge_tv.rpy:127
 translate crowdin ev_alice_tv_talk_6f79b263:
 
     # Alice 02 "Уже и серия закончилась! Быстро время пролетело..."
     Alice 02 "Уже и серия закончилась! Быстро время пролетело..."
 
-# game/scripts/story_01/lounge_tv.rpy:127
+# game/scripts/story_01/lounge_tv.rpy:128
 translate crowdin ev_alice_tv_talk_73965df6:
 
     # Max 01 "Точно. Хорошо посидели. Ладно, пойду я..."
     Max 01 "Точно. Хорошо посидели. Ладно, пойду я..."
 
-# game/scripts/story_01/lounge_tv.rpy:136
+# game/scripts/story_01/lounge_tv.rpy:138
 translate crowdin ev_alice_tv_talk_0c2a1f2b:
 
     # Alice 02 "Ну, как знаешь. Нечего было отвлекать."
     Alice 02 "Ну, как знаешь. Нечего было отвлекать."
 
-# game/scripts/story_01/lounge_tv.rpy:137
+# game/scripts/story_01/lounge_tv.rpy:139
 translate crowdin ev_alice_tv_talk_fb0b0639:
 
     # Max 01 "Не буду тебе мешать..."
@@ -244,15 +244,15 @@ translate crowdin strings:
     old "{i}начать просмотр{/i}"
     new "{i}начать просмотр{/i}"
 
-    # game/scripts/story_01/lounge_tv.rpy:104
+    # game/scripts/story_01/lounge_tv.rpy:105
     old "Хорошо. Что смотришь?"
     new "Хорошо. Что смотришь?"
 
-    # game/scripts/story_01/lounge_tv.rpy:109
+    # game/scripts/story_01/lounge_tv.rpy:110
     old "Давай смотреть, что интересного показывают..."
     new "Давай смотреть, что интересного показывают..."
 
-    # game/scripts/story_01/lounge_tv.rpy:109
+    # game/scripts/story_01/lounge_tv.rpy:110
     old "Хочешь, помассирую тебе ножки?"
     new "Хочешь, помассирую тебе ножки?"
 

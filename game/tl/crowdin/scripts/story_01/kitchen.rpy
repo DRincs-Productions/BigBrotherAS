@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-02-14 16:12
+﻿# TODO: Translation updated at 2023-02-23 01:51
 
 # game/scripts/story_01/kitchen.rpy:15
 translate crowdin ev_alice_clean_879d3af8:
@@ -54,15 +54,55 @@ translate crowdin ev_lisa_clean_625a2799:
     # Lisa 11 "Вот и иди тогда, а то стоишь тут, отвлекаешь меня!" nointeract
     Lisa 11 "Вот и иди тогда, а то стоишь тут, отвлекаешь меня!" nointeract
 
+# game/scripts/story_01/kitchen.rpy:89
+translate crowdin ev_alice_cooking_b8682953:
+
+    # Alice 02 "Помочь?! Чего это ты, Макс, такой добрый? Хотя, пара лишних рук мне точно не помешает... Пока я здесь со всем закончу и наведу порядок, ты можешь отнести тарелки с едой на веранду." nointeract
+    Alice 02 "Помочь?! Чего это ты, Макс, такой добрый? Хотя, пара лишних рук мне точно не помешает... Пока я здесь со всем закончу и наведу порядок, ты можешь отнести тарелки с едой на веранду." nointeract
+
+# game/scripts/story_01/kitchen.rpy:91
+translate crowdin ev_alice_cooking_6098f7a7:
+
+    # Alice 02 "На это я, на самом деле, и надеялась. Пара лишних рук мне точно не помешает... Пока я здесь со всем закончу и наведу порядок, ты можешь отнести тарелки с едой на веранду." nointeract
+    Alice 02 "На это я, на самом деле, и надеялась. Пара лишних рук мне точно не помешает... Пока я здесь со всем закончу и наведу порядок, ты можешь отнести тарелки с едой на веранду." nointeract
+
+# game/scripts/story_01/kitchen.rpy:100
+translate crowdin ev_alice_cooking_7d3850f3:
+
+    # Alice 11 "Вот ты козлина, Макс! Отвали тогда и не мешай..." nointeract
+    Alice 11 "Вот ты козлина, Макс! Отвали тогда и не мешай..." nointeract
+
+# game/scripts/story_01/kitchen.rpy:113
+translate crowdin ev_ann_cooking_b9602300:
+
+    # Ann 02 "Правда поможешь?! О, это замечательно, сейчас помощник мне будет очень кстати." nointeract
+    Ann 02 "Правда поможешь?! О, это замечательно, сейчас помощник мне будет очень кстати." nointeract
+
+# game/scripts/story_01/kitchen.rpy:115
+translate crowdin ev_ann_cooking_8bd0ffb2:
+
+    # Ann 02 "Отлично! Я буду только рада, если поможешь." nointeract
+    Ann 02 "Отлично! Я буду только рада, если поможешь." nointeract
+
+# game/scripts/story_01/kitchen.rpy:123
+translate crowdin ev_ann_cooking_c75d83f0:
+
+    # Ann 03 "С готовкой я почти закончила, осталось только немного прибраться, но некоторые тарелки с едой ты уже можешь нести на веранду."
+    Ann 03 "С готовкой я почти закончила, осталось только немного прибраться, но некоторые тарелки с едой ты уже можешь нести на веранду."
+
+# game/scripts/story_01/kitchen.rpy:124
+translate crowdin ev_ann_cooking_69f0d5e1:
+
+    # Max 01 "Конечно, мам. Я сейчас всё унесу..."
+    Max 01 "Конечно, мам. Я сейчас всё унесу..."
+
+# game/scripts/story_01/kitchen.rpy:129
+translate crowdin ev_ann_cooking_97e8fc22:
+
+    # Ann 12 "Ну вот, а я уже понадеялась! Тогда не мешай..." nointeract
+    Ann 12 "Ну вот, а я уже понадеялась! Тогда не мешай..." nointeract
+
 translate crowdin strings:
-
-    # game/scripts/story_01/kitchen.rpy:19
-    old "Ага. Давай, я домою остальное..."
-    new "Ага. Давай, я домою остальное..."
-
-    # game/scripts/story_01/kitchen.rpy:19
-    old "Нет, просто хотел поглазеть..."
-    new "Нет, просто хотел поглазеть..."
 
     # game/scripts/story_01/kitchen.rpy:24
     old "{i}мыть посуду{/i}"
@@ -79,4 +119,20 @@ translate crowdin strings:
     # game/scripts/story_01/kitchen.rpy:59
     old "Нет, просто мимо проходил..."
     new "Нет, просто мимо проходил..."
+
+    # game/scripts/story_01/kitchen.rpy:93
+    old "Ага, не вопрос. Сделаю."
+    new "Ага, не вопрос. Сделаю."
+
+    # game/scripts/story_01/kitchen.rpy:93
+    old "Нет, лучше давай сама..."
+    new "Нет, лучше давай сама..."
+
+    # game/scripts/story_01/kitchen.rpy:117
+    old "{i}подойти и помочь{/i}"
+    new "{i}подойти и помочь{/i}"
+
+    # game/scripts/story_01/kitchen.rpy:117
+    old "Хотя, нет, сейчас не могу..."
+    new "Хотя, нет, сейчас не могу..."
 

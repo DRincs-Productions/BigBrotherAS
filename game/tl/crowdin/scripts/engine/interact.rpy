@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-02-14 16:12
+﻿# TODO: Translation updated at 2023-02-23 01:51
 
 # game/scripts/engine/interact.rpy:31
 translate crowdin talks_start_41e41361:
@@ -107,4 +107,20 @@ translate crowdin strings:
     # game/scripts/engine/interact.rpy:152
     old "Поплаваем вместе?"
     new "Поплаваем вместе?"
+
+    # game/scripts/engine/interact.rpy:152
+    old "Насчёт случая с Лизой..."
+    new "Насчёт случая с Лизой..."
+
+    # game/scripts/engine/interact.rpy:152
+    old "Насчёт случая утром..."
+    new "Насчёт случая утром..."
+
+    # game/scripts/engine/interact.rpy:152
+    old "Тебе помочь накрыть на стол?"
+    new "Тебе помочь накрыть на стол?"
+
+    # game/scripts/engine/interact.rpy:152
+    old "Давай я накрою на стол?"
+    new "Давай я накрою на стол?"
 
