@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-02-23 01:51
+﻿# TODO: Translation updated at 2023-02-24 20:17
 
 # game/scripts/story_01/annroom.rpy:12
 translate crowdin ev_ann_dressed_86120c87:

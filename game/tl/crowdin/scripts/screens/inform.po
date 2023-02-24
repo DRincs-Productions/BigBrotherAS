@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-02-23 01:51 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/inform.rpy:28
+﻿# TODO: Translation updated at 2023-02-24 20:17 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/inform.rpy:28
 msgid "Персонажи"
 msgstr "Персонажи"
 
@@ -30,10 +30,6 @@ msgstr "До достижения: +"
 msgid "НАВЫКИ"
 msgstr "НАВЫКИ"
 
-# game/scripts/screens/inform.rpy:144
-msgid "Убеждение"
-msgstr "Убеждение"
-
 # game/scripts/screens/inform.rpy:147
 msgid "Ур.1"
 msgstr "Ур.1"
@@ -41,10 +37,6 @@ msgstr "Ур.1"
 # game/scripts/screens/inform.rpy:150
 msgid "Опыт применения навыка"
 msgstr "Опыт применения навыка"
-
-# game/scripts/screens/inform.rpy:153
-msgid "Скрытность"
-msgstr "Скрытность"
 
 # game/scripts/screens/inform.rpy:324
 msgid "В данный момент в инвентаре ничего нет"

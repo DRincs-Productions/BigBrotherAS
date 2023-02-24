@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-02-23 01:51
+﻿# TODO: Translation updated at 2023-02-24 20:17
 
 translate crowdin strings:
 
@@ -34,10 +34,6 @@ translate crowdin strings:
     old "НАВЫКИ"
     new "НАВЫКИ"
 
-    # game/scripts/screens/inform.rpy:144
-    old "Убеждение"
-    new "Убеждение"
-
     # game/scripts/screens/inform.rpy:147
     old "Ур.1"
     new "Ур.1"
@@ -45,10 +41,6 @@ translate crowdin strings:
     # game/scripts/screens/inform.rpy:150
     old "Опыт применения навыка"
     new "Опыт применения навыка"
-
-    # game/scripts/screens/inform.rpy:153
-    old "Скрытность"
-    new "Скрытность"
 
     # game/scripts/screens/inform.rpy:324
     old "В данный момент в инвентаре ничего нет"
