@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-02-24 20:17
+﻿# TODO: Translation updated at 2023-05-03 21:17
 
 translate crowdin strings:
 
@@ -37,10 +37,6 @@ translate crowdin strings:
     # game/scripts/screens/tutorial.rpy:14
     old "Во время диалогов между персонажами и выполнения некоторых заданий, у Макса может быть выбор в действиях. \nДля быстрого переключения между этими вариантами можно использовать клавиши [[1...9] на клавиатуре."
     new "Во время диалогов между персонажами и выполнения некоторых заданий, у Макса может быть выбор в действиях. \nДля быстрого переключения между этими вариантами можно использовать клавиши [[1...9] на клавиатуре."
-
-    # game/scripts/screens/tutorial.rpy:14
-    old "Взаимодействие с некоторыми вещами в игре, такими как ноутбук, личный дневник и телефон, не располагают привычным управлением. \nДля того, чтобы вернуться или выключить/закрыть/убрать, достаточно просто нажать на область вокруг этих вещей."
-    new "Взаимодействие с некоторыми вещами в игре, такими как ноутбук, личный дневник и телефон, не располагают привычным управлением. \nДля того, чтобы вернуться или выключить/закрыть/убрать, достаточно просто нажать на область вокруг этих вещей."
 
     # game/scripts/screens/tutorial.rpy:14
     old "Можно скрыть интерфейс игры с помощью клавиш [[`] или [[h] на клавиатуре, если он скрывает интересную для вас часть изображения. \nТакже можно использовать среднюю клавишу мыши."
@@ -138,83 +134,79 @@ translate crowdin strings:
     old "Настроение персонажей, с которыми контактирует Макс, может слегка влиять на исход некоторых событий."
     new "Настроение персонажей, с которыми контактирует Макс, может слегка влиять на исход некоторых событий."
 
-    # game/scripts/screens/tutorial.rpy:139
+    # game/scripts/screens/tutorial.rpy:138
     old "Управление"
     new "Управление"
 
-    # game/scripts/screens/tutorial.rpy:143
+    # game/scripts/screens/tutorial.rpy:142
     old "Навыки"
     new "Навыки"
 
-    # game/scripts/screens/tutorial.rpy:145
+    # game/scripts/screens/tutorial.rpy:144
     old "Настроение"
     new "Настроение"
 
-    # game/scripts/screens/tutorial.rpy:289
+    # game/scripts/screens/tutorial.rpy:288
     old "Сейчас Лиза должна собираться в школу..."
     new "Сейчас Лиза должна собираться в школу..."
 
-    # game/scripts/screens/tutorial.rpy:292
+    # game/scripts/screens/tutorial.rpy:291
     old "{i}заглянуть в окно{/i}"
     new "{i}заглянуть в окно{/i}"
 
-    # game/scripts/screens/tutorial.rpy:292
+    # game/scripts/screens/tutorial.rpy:291
     old "Шанс"
     new "Шанс"
 
-    # game/scripts/screens/tutorial.rpy:293
-    old "{i}уйти{/i}"
-    new "{i}уйти{/i}"
-
-    # game/scripts/screens/tutorial.rpy:297
+    # game/scripts/screens/tutorial.rpy:296
     old "опыт применения навыка"
     new "опыт применения навыка"
 
-    # game/scripts/screens/tutorial.rpy:303
+    # game/scripts/screens/tutorial.rpy:302
     old "Ой, Макс! Я не одета!!! Не мешай мне собираться в школу!"
     new "Ой, Макс! Я не одета!!! Не мешай мне собираться в школу!"
 
-    # game/scripts/screens/tutorial.rpy:307
+    # game/scripts/screens/tutorial.rpy:306
     old "Не стесняйся, без одежды ты очень красиво смотришься!"
     new "Не стесняйся, без одежды ты очень красиво смотришься!"
 
-    # game/scripts/screens/tutorial.rpy:311
+    # game/scripts/screens/tutorial.rpy:310
     old "Я наоборот, помочь хотел..."
     new "Я наоборот, помочь хотел..."
 
-    # game/scripts/screens/tutorial.rpy:319
+    # game/scripts/screens/tutorial.rpy:318
     old "настроение Лизы"
     new "настроение Лизы"
 
-    # game/scripts/screens/tutorial.rpy:386
-    old "Нужели тебе надоело бездельничать и ты пришёл мне помочь?"
-    new "Нужели тебе надоело бездельничать и ты пришёл мне помочь?"
+    # game/scripts/screens/tutorial.rpy:385
+    old "Неужели тебе надоело бездельничать и ты пришёл мне помочь?"
+    new "Неужели тебе надоело бездельничать и ты пришёл мне помочь?"
 
-    # game/scripts/screens/tutorial.rpy:389
+    # game/scripts/screens/tutorial.rpy:388
     old "Ага. Давай, я домою остальное..."
     new "Ага. Давай, я домою остальное..."
 
-    # game/scripts/screens/tutorial.rpy:390
+    # game/scripts/screens/tutorial.rpy:389
     old "Нет, просто хотел поглазеть..."
     new "Нет, просто хотел поглазеть..."
 
-    # game/scripts/screens/tutorial.rpy:394
+    # game/scripts/screens/tutorial.rpy:393
     old "Макс! Ты офигел что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла!"
     new "Макс! Ты офигел что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла!"
 
-    # game/scripts/screens/tutorial.rpy:397
+    # game/scripts/screens/tutorial.rpy:396
     old "Ты бы классно смотрелась на обложке журнала!"
     new "Ты бы классно смотрелась на обложке журнала!"
 
-    # game/scripts/screens/tutorial.rpy:401
+    # game/scripts/screens/tutorial.rpy:400
     old "настроение Алисы"
     new "настроение Алисы"
 
-    # game/scripts/screens/tutorial.rpy:432
+    # game/scripts/screens/tutorial.rpy:431
     old "Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
     new "Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
 
-    # game/scripts/screens/tutorial.rpy:434
+    # game/scripts/screens/tutorial.rpy:433
     old "Теперь вы управляете жизнью Макса! Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
     new "Теперь вы управляете жизнью Макса! Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
 

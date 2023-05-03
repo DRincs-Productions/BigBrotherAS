@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-02-24 20:17 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/tutorial.rpy:14
+﻿# TODO: Translation updated at 2023-05-03 21:17 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/tutorial.rpy:14
 msgid "Главная панель игры располагается внизу."
 msgstr "Главная панель игры располагается внизу."
 
@@ -33,10 +33,6 @@ msgstr "Вы можете сохранить или загрузить свой 
 # game/scripts/screens/tutorial.rpy:14
 msgid "Во время диалогов между персонажами и выполнения некоторых заданий, у Макса может быть выбор в действиях. \nДля быстрого переключения между этими вариантами можно использовать клавиши [[1...9] на клавиатуре."
 msgstr "Во время диалогов между персонажами и выполнения некоторых заданий, у Макса может быть выбор в действиях. \nДля быстрого переключения между этими вариантами можно использовать клавиши [[1...9] на клавиатуре."
-
-# game/scripts/screens/tutorial.rpy:14
-msgid "Взаимодействие с некоторыми вещами в игре, такими как ноутбук, личный дневник и телефон, не располагают привычным управлением. \nДля того, чтобы вернуться или выключить/закрыть/убрать, достаточно просто нажать на область вокруг этих вещей."
-msgstr "Взаимодействие с некоторыми вещами в игре, такими как ноутбук, личный дневник и телефон, не располагают привычным управлением. \nДля того, чтобы вернуться или выключить/закрыть/убрать, достаточно просто нажать на область вокруг этих вещей."
 
 # game/scripts/screens/tutorial.rpy:14
 msgid "Можно скрыть интерфейс игры с помощью клавиш [[`] или [[h] на клавиатуре, если он скрывает интересную для вас часть изображения. \nТакже можно использовать среднюю клавишу мыши."
@@ -134,83 +130,79 @@ msgstr "Повышать настроение персонажей можно р
 msgid "Настроение персонажей, с которыми контактирует Макс, может слегка влиять на исход некоторых событий."
 msgstr "Настроение персонажей, с которыми контактирует Макс, может слегка влиять на исход некоторых событий."
 
-# game/scripts/screens/tutorial.rpy:139
+# game/scripts/screens/tutorial.rpy:138
 msgid "Управление"
 msgstr "Управление"
 
-# game/scripts/screens/tutorial.rpy:143
+# game/scripts/screens/tutorial.rpy:142
 msgid "Навыки"
 msgstr "Навыки"
 
-# game/scripts/screens/tutorial.rpy:145
+# game/scripts/screens/tutorial.rpy:144
 msgid "Настроение"
 msgstr "Настроение"
 
-# game/scripts/screens/tutorial.rpy:289
+# game/scripts/screens/tutorial.rpy:288
 msgid "Сейчас Лиза должна собираться в школу..."
 msgstr "Сейчас Лиза должна собираться в школу..."
 
-# game/scripts/screens/tutorial.rpy:292
+# game/scripts/screens/tutorial.rpy:291
 msgid "{i}заглянуть в окно{/i}"
 msgstr "{i}заглянуть в окно{/i}"
 
-# game/scripts/screens/tutorial.rpy:292
+# game/scripts/screens/tutorial.rpy:291
 msgid "Шанс"
 msgstr "Шанс"
 
-# game/scripts/screens/tutorial.rpy:293
-msgid "{i}уйти{/i}"
-msgstr "{i}уйти{/i}"
-
-# game/scripts/screens/tutorial.rpy:297
+# game/scripts/screens/tutorial.rpy:296
 msgid "опыт применения навыка"
 msgstr "опыт применения навыка"
 
-# game/scripts/screens/tutorial.rpy:303
+# game/scripts/screens/tutorial.rpy:302
 msgid "Ой, Макс! Я не одета!!! Не мешай мне собираться в школу!"
 msgstr "Ой, Макс! Я не одета!!! Не мешай мне собираться в школу!"
 
-# game/scripts/screens/tutorial.rpy:307
+# game/scripts/screens/tutorial.rpy:306
 msgid "Не стесняйся, без одежды ты очень красиво смотришься!"
 msgstr "Не стесняйся, без одежды ты очень красиво смотришься!"
 
-# game/scripts/screens/tutorial.rpy:311
+# game/scripts/screens/tutorial.rpy:310
 msgid "Я наоборот, помочь хотел..."
 msgstr "Я наоборот, помочь хотел..."
 
-# game/scripts/screens/tutorial.rpy:319
+# game/scripts/screens/tutorial.rpy:318
 msgid "настроение Лизы"
 msgstr "настроение Лизы"
 
-# game/scripts/screens/tutorial.rpy:386
-msgid "Нужели тебе надоело бездельничать и ты пришёл мне помочь?"
-msgstr "Нужели тебе надоело бездельничать и ты пришёл мне помочь?"
+# game/scripts/screens/tutorial.rpy:385
+msgid "Неужели тебе надоело бездельничать и ты пришёл мне помочь?"
+msgstr "Неужели тебе надоело бездельничать и ты пришёл мне помочь?"
 
-# game/scripts/screens/tutorial.rpy:389
+# game/scripts/screens/tutorial.rpy:388
 msgid "Ага. Давай, я домою остальное..."
 msgstr "Ага. Давай, я домою остальное..."
 
-# game/scripts/screens/tutorial.rpy:390
+# game/scripts/screens/tutorial.rpy:389
 msgid "Нет, просто хотел поглазеть..."
 msgstr "Нет, просто хотел поглазеть..."
 
-# game/scripts/screens/tutorial.rpy:394
+# game/scripts/screens/tutorial.rpy:393
 msgid "Макс! Ты офигел что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла!"
 msgstr "Макс! Ты офигел что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла!"
 
-# game/scripts/screens/tutorial.rpy:397
+# game/scripts/screens/tutorial.rpy:396
 msgid "Ты бы классно смотрелась на обложке журнала!"
 msgstr "Ты бы классно смотрелась на обложке журнала!"
 
-# game/scripts/screens/tutorial.rpy:401
+# game/scripts/screens/tutorial.rpy:400
 msgid "настроение Алисы"
 msgstr "настроение Алисы"
 
-# game/scripts/screens/tutorial.rpy:432
+# game/scripts/screens/tutorial.rpy:431
 msgid "Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
 msgstr "Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
 
-# game/scripts/screens/tutorial.rpy:434
+# game/scripts/screens/tutorial.rpy:433
 msgid "Теперь вы управляете жизнью Макса! Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
 msgstr "Теперь вы управляете жизнью Макса! Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
 

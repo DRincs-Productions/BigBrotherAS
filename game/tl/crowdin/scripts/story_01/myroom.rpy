@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-02-24 20:17
+﻿# TODO: Translation updated at 2023-05-03 21:17
 
 # game/scripts/story_01/myroom.rpy:12
 translate crowdin ev_lisa_dressed_79ffde85:
@@ -60,97 +60,115 @@ translate crowdin ev_lisa_dressed_moment1_03abbfec:
     # Lisa 15 "Макс! Я не одета!!! Быстро закрой дверь с той стороны и не входи, пока я не переоденусь!" nointeract
     Lisa 15 "Макс! Я не одета!!! Быстро закрой дверь с той стороны и не входи, пока я не переоденусь!" nointeract
 
-# game/scripts/story_01/myroom.rpy:160
+# game/scripts/story_01/myroom.rpy:161
 translate crowdin ev_lisa_dressed_in_front_of_max_5d433931:
 
     # Lisa 11 "Макс, мне нужно переодеться. Будь добр, погуляй немного или отвернись..." nointeract
     Lisa 11 "Макс, мне нужно переодеться. Будь добр, погуляй немного или отвернись..." nointeract
 
-# game/scripts/story_01/myroom.rpy:165
+# game/scripts/story_01/myroom.rpy:166
 translate crowdin ev_lisa_dressed_in_front_of_max_6025f711:
 
     # Lisa "{b}Лиза: {/b}\nЯ быстро... Главное, не подглядывай! Надеюсь, тебе это по силам..." nointeract
     Lisa "{b}Лиза: {/b}\nЯ быстро... Главное, не подглядывай! Надеюсь, тебе это по силам..." nointeract
 
-# game/scripts/story_01/myroom.rpy:188
+# game/scripts/story_01/myroom.rpy:189
 translate crowdin ev_lisa_dressed_try_to_peek_abe6c5ae:
 
     # tMax 05 "Повезло! Лиза не видит, что я подглядываю... Ещё совсем юная, но уже такая сексуальная! Обожаю её..." nointeract
     tMax 05 "Повезло! Лиза не видит, что я подглядываю... Ещё совсем юная, но уже такая сексуальная! Обожаю её..." nointeract
 
-# game/scripts/story_01/myroom.rpy:199
+# game/scripts/story_01/myroom.rpy:200
 translate crowdin ev_lisa_dressed_try_to_peek_7a70ecae:
 
     # Lisa 15 "Макс! Я же просила не подглядывать! Ну-ка быстро отвернись... Ещё раз так сделаешь и я всё маме расскажу! Понял?!" nointeract
     Lisa 15 "Макс! Я же просила не подглядывать! Ну-ка быстро отвернись... Ещё раз так сделаешь и я всё маме расскажу! Понял?!" nointeract
 
-# game/scripts/story_01/myroom.rpy:205
+# game/scripts/story_01/myroom.rpy:206
 translate crowdin ev_lisa_dressed_try_to_peek_21854b11:
 
     # Lisa 11 "Ой, Макс... Ты ещё больше меня засмущал! Не пялься так на меня, отвернись..." nointeract
     Lisa 11 "Ой, Макс... Ты ещё больше меня засмущал! Не пялься так на меня, отвернись..." nointeract
 
-# game/scripts/story_01/myroom.rpy:212
+# game/scripts/story_01/myroom.rpy:213
 translate crowdin ev_lisa_dressed_try_to_peek_6159e876:
 
     # Lisa 16 "Ага, только и жду, чтобы полураздетой покрасоваться перед тобой! Если не отвернёшься, то я сильно на тебя обижусь и больше разговаривать не буду..." nointeract
     Lisa 16 "Ага, только и жду, чтобы полураздетой покрасоваться перед тобой! Если не отвернёшься, то я сильно на тебя обижусь и больше разговаривать не буду..." nointeract
 
-# game/scripts/story_01/myroom.rpy:222
+# game/scripts/story_01/myroom.rpy:223
 translate crowdin ev_lisa_dressed_try_to_peek_fcf15010:
 
     # Lisa 01 "Ааа... Ну раз не удержался, чтобы это оценить, то мне приятно. Но это не значит, что на меня можно и дальше вот так бессовестно глазеть!" nointeract
     Lisa 01 "Ааа... Ну раз не удержался, чтобы это оценить, то мне приятно. Но это не значит, что на меня можно и дальше вот так бессовестно глазеть!" nointeract
 
-# game/scripts/story_01/myroom.rpy:229
+# game/scripts/story_01/myroom.rpy:230
 translate crowdin ev_lisa_dressed_try_to_peek_c9b70f3a:
 
     # Lisa 15 "Ну и долго ты ещё пялиться на меня будешь?! Отвернись!" nointeract
     Lisa 15 "Ну и долго ты ещё пялиться на меня будешь?! Отвернись!" nointeract
 
-# game/scripts/story_01/myroom.rpy:248
+# game/scripts/story_01/myroom.rpy:249
 translate crowdin ev_lisa_dressed_voy_02_help_748f1830:
 
     # Lisa 01 "Спасибо, конечно, за заботу, но я же не маленькая, Макс. Сама уж как-нибудь справлюсь..." nointeract
     Lisa 01 "Спасибо, конечно, за заботу, но я же не маленькая, Макс. Сама уж как-нибудь справлюсь..." nointeract
 
-# game/scripts/story_01/myroom.rpy:257
+# game/scripts/story_01/myroom.rpy:258
 translate crowdin ev_lisa_dressed_voy_02_help_6a93b97b:
 
     # Lisa 15 "Макс! Я что, похожа на маленькую что ли?! Или совсем глупенькую? Прекращай пялиться и уходи..." nointeract
     Lisa 15 "Макс! Я что, похожа на маленькую что ли?! Или совсем глупенькую? Прекращай пялиться и уходи..." nointeract
 
-# game/scripts/story_01/myroom.rpy:277
+# game/scripts/story_01/myroom.rpy:278
 translate crowdin ev_lisa_dressed_voy_02_beauti_1ba39635:
 
     # Lisa 02 "Правда?! Спасибо, что оценил, но я бы всё равно хотела закончить одеваться без свидетелей..." nointeract
     Lisa 02 "Правда?! Спасибо, что оценил, но я бы всё равно хотела закончить одеваться без свидетелей..." nointeract
 
-# game/scripts/story_01/myroom.rpy:287
+# game/scripts/story_01/myroom.rpy:288
 translate crowdin ev_lisa_dressed_voy_02_beauti_c88b7a5d:
 
     # Lisa 16 "Ага, только и жду, чтобы полураздетой покрасоваться перед тобой! Я ведь маме на тебя нажалуюсь, если не уйдёшь!" nointeract
     Lisa 16 "Ага, только и жду, чтобы полураздетой покрасоваться перед тобой! Я ведь маме на тебя нажалуюсь, если не уйдёшь!" nointeract
 
-# game/scripts/story_01/myroom.rpy:335
+# game/scripts/story_01/myroom.rpy:324
+translate crowdin ev_023_08cc0642:
+
+    # Lisa 01 "Эй, любитель заглядывать куда не надо, я пошла в школу. Не скучай тут без меня..."
+    Lisa 01 "Эй, любитель заглядывать куда не надо, я пошла в школу. Не скучай тут без меня..."
+
+# game/scripts/story_01/myroom.rpy:327
+translate crowdin ev_023_131e32c4:
+
+    # Lisa 01 "Эй, Макс, я пошла в школу. Не скучай тут без меня..."
+    Lisa 01 "Эй, Макс, я пошла в школу. Не скучай тут без меня..."
+
+# game/scripts/story_01/myroom.rpy:328
+translate crowdin ev_023_09f0ad91:
+
+    # Max 01 "А я буду. Успехов тебе!"
+    Max 01 "А я буду. Успехов тебе!"
+
+# game/scripts/story_01/myroom.rpy:355
 translate crowdin ev_mgg_sleep_d8912cea:
 
     # tMax 00 "Пожалуй, пора ложиться спать..." nointeract
     tMax 00 "Пожалуй, пора ложиться спать..." nointeract
 
-# game/scripts/story_01/myroom.rpy:337
+# game/scripts/story_01/myroom.rpy:358
 translate crowdin ev_mgg_sleep_8382df5e:
 
     # tMax 14 "Моя голова уже совсем не соображает. Нужно ложиться спать..." nointeract
     tMax 14 "Моя голова уже совсем не соображает. Нужно ложиться спать..." nointeract
 
-# game/scripts/story_01/myroom.rpy:339
+# game/scripts/story_01/myroom.rpy:360
 translate crowdin ev_mgg_sleep_fcf4bb83:
 
     # tMax 00 "Пожалуй, пора ложиться спать... В котором часу мне лучше проснуться?" nointeract
     tMax 00 "Пожалуй, пора ложиться спать... В котором часу мне лучше проснуться?" nointeract
 
-# game/scripts/story_01/myroom.rpy:353
+# game/scripts/story_01/myroom.rpy:374
 translate crowdin ev_mgg_sleep_35f6b440:
 
     # tMax 07 "Всем доброй ночи и приятных снов..."
@@ -174,39 +192,39 @@ translate crowdin strings:
     old "Раз уж я здесь, давай помогу?"
     new "Раз уж я здесь, давай помогу?"
 
-    # game/scripts/story_01/myroom.rpy:159
+    # game/scripts/story_01/myroom.rpy:160
     old "{i}отвернуться{/i}"
     new "{i}отвернуться{/i}"
 
-    # game/scripts/story_01/myroom.rpy:164
+    # game/scripts/story_01/myroom.rpy:165
     old "{i}не подглядывать{/i}"
     new "{i}не подглядывать{/i}"
 
-    # game/scripts/story_01/myroom.rpy:164
+    # game/scripts/story_01/myroom.rpy:165
     old "{i}попробовать подглядеть{/i}"
     new "{i}попробовать подглядеть{/i}"
 
-    # game/scripts/story_01/myroom.rpy:198
+    # game/scripts/story_01/myroom.rpy:199
     old "Подумаешь, сестрёнку полуголую увидел. Смотришься очень мило..."
     new "Подумаешь, сестрёнку полуголую увидел. Смотришься очень мило..."
 
-    # game/scripts/story_01/myroom.rpy:198
+    # game/scripts/story_01/myroom.rpy:199
     old "Извини, не удержался... Хорошо выглядишь!"
     new "Извини, не удержался... Хорошо выглядишь!"
 
-    # game/scripts/story_01/myroom.rpy:340
+    # game/scripts/story_01/myroom.rpy:361
     old "{i}спать до утра{/i}"
     new "{i}спать до утра{/i}"
 
-    # game/scripts/story_01/myroom.rpy:340
+    # game/scripts/story_01/myroom.rpy:361
     old "{i}в 6 утра{/i}"
     new "{i}в 6 утра{/i}"
 
-    # game/scripts/story_01/myroom.rpy:340
+    # game/scripts/story_01/myroom.rpy:361
     old "{i}в 7 утра{/i}"
     new "{i}в 7 утра{/i}"
 
-    # game/scripts/story_01/myroom.rpy:340
+    # game/scripts/story_01/myroom.rpy:361
     old "{i}в 8 утра{/i}"
     new "{i}в 8 утра{/i}"
 

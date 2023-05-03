@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-02-24 20:17
+﻿# TODO: Translation updated at 2023-05-03 21:17
 
 translate crowdin strings:
 
@@ -9,4 +9,8 @@ translate crowdin strings:
     # game/scripts/story_01/search.rpy:2
     old "узнать о книге Алисы"
     new "узнать о книге Алисы"
+
+    # game/scripts/story_01/search.rpy:2
+    old "читать о пауках"
+    new "читать о пауках"
 

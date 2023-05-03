@@ -1,12 +1,20 @@
-﻿# TODO: Translation updated at 2023-02-24 20:17 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/diary.rpy:83
+﻿# TODO: Translation updated at 2023-05-03 21:17 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/diary.rpy:29
+msgid "Личный дневник"
+msgstr "Личный дневник"
+
+# game/scripts/screens/diary.rpy:31
+msgid "Вернуться"
+msgstr "Вернуться"
+
+# game/scripts/screens/diary.rpy:42
 msgid "ТЕКУЩИЕ"
 msgstr "ТЕКУЩИЕ"
 
-# game/scripts/screens/diary.rpy:89
+# game/scripts/screens/diary.rpy:48
 msgid "ВЫПОЛНЕННЫЕ"
 msgstr "ВЫПОЛНЕННЫЕ"
 
-# game/scripts/screens/diary.rpy:122
+# game/scripts/screens/diary.rpy:81
 msgid "Сейчас здесь нет заданий"
 msgstr "Сейчас здесь нет заданий"
 

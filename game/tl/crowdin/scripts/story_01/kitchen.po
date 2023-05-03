@@ -1,6 +1,6 @@
-﻿# TODO: Translation updated at 2023-02-24 20:17 #|#|# # game/scripts/story_01/kitchen.rpy:15 #-#-# translate crowdin ev_alice_clean_879d3af8:
-msgid "[_Alice_s_01_] Нужели тебе надоело бездельничать и ты пришёл мне помочь? [nointeract]"
-msgstr "[_Alice_s_01_] Нужели тебе надоело бездельничать и ты пришёл мне помочь? [nointeract]"
+﻿# TODO: Translation updated at 2023-05-03 21:17 #|#|# # game/scripts/story_01/kitchen.rpy:15 #-#-# translate crowdin ev_alice_clean_e2fdb3e5:
+msgid "[_Alice_s_01_] Неужели тебе надоело бездельничать и ты пришёл мне помочь? [nointeract]"
+msgstr "[_Alice_s_01_] Неужели тебе надоело бездельничать и ты пришёл мне помочь? [nointeract]"
 
 # game/scripts/story_01/kitchen.rpy:18 #-#-# translate crowdin ev_alice_clean_b52c8176:
 msgid "[_Alice_s_02_] Что, Макс, пришёл своей милой и ненаглядной сестрёнке помочь? [nointeract]"
@@ -42,37 +42,57 @@ msgstr "[_Alice_s_02_] Помочь?! Чего это ты, Макс, такой
 msgid "[_Alice_s_02_] На это я, на самом деле, и надеялась. Пара лишних рук мне точно не помешает... Пока я здесь со всем закончу и наведу порядок, ты можешь отнести тарелки с едой на веранду. [nointeract]"
 msgstr "[_Alice_s_02_] На это я, на самом деле, и надеялась. Пара лишних рук мне точно не помешает... Пока я здесь со всем закончу и наведу порядок, ты можешь отнести тарелки с едой на веранду. [nointeract]"
 
-# game/scripts/story_01/kitchen.rpy:100 #-#-# translate crowdin ev_alice_cooking_7d3850f3:
+# game/scripts/story_01/kitchen.rpy:102 #-#-# translate crowdin ev_alice_cooking_5e4de809:
+msgid "[_tMax_s_11_] Блин! Теперь я хочу съесть не только своё, но и макароны Лизы. Уж слишком аппетитно они выглядят и пахнут... [nointeract]"
+msgstr "[_tMax_s_11_] Блин! Теперь я хочу съесть не только своё, но и макароны Лизы. Уж слишком аппетитно они выглядят и пахнут... [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:104 #-#-# translate crowdin ev_alice_cooking_864b1b34:
+msgid "[_tMax_s_11_] Ну вот! Алиса себе самые большие котлеты положила... Надо будет хотя бы одной, да поменяться. [nointeract]"
+msgstr "[_tMax_s_11_] Ну вот! Алиса себе самые большие котлеты положила... Надо будет хотя бы одной, да поменяться. [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:106 #-#-# translate crowdin ev_alice_cooking_4becd663:
+msgid "[_tMax_s_11_] А вот это не хорошо! У мамы в тарелке слишком много углеводов. Нужно приглядывать за её фигурой, поэтому отложу немного себе... [nointeract]"
+msgstr "[_tMax_s_11_] А вот это не хорошо! У мамы в тарелке слишком много углеводов. Нужно приглядывать за её фигурой, поэтому отложу немного себе... [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:113 #-#-# translate crowdin ev_alice_cooking_7d3850f3:
 msgid "[_Alice_s_11_] Вот ты козлина, Макс! Отвали тогда и не мешай... [nointeract]"
 msgstr "[_Alice_s_11_] Вот ты козлина, Макс! Отвали тогда и не мешай... [nointeract]"
 
-# game/scripts/story_01/kitchen.rpy:113 #-#-# translate crowdin ev_ann_cooking_b9602300:
+# game/scripts/story_01/kitchen.rpy:126 #-#-# translate crowdin ev_ann_cooking_b9602300:
 msgid "[_Ann_s_02_] Правда поможешь?! О, это замечательно, сейчас помощник мне будет очень кстати. [nointeract]"
 msgstr "[_Ann_s_02_] Правда поможешь?! О, это замечательно, сейчас помощник мне будет очень кстати. [nointeract]"
 
-# game/scripts/story_01/kitchen.rpy:115 #-#-# translate crowdin ev_ann_cooking_8bd0ffb2:
+# game/scripts/story_01/kitchen.rpy:128 #-#-# translate crowdin ev_ann_cooking_8bd0ffb2:
 msgid "[_Ann_s_02_] Отлично! Я буду только рада, если поможешь. [nointeract]"
 msgstr "[_Ann_s_02_] Отлично! Я буду только рада, если поможешь. [nointeract]"
 
-# game/scripts/story_01/kitchen.rpy:123 #-#-# translate crowdin ev_ann_cooking_c75d83f0:
+# game/scripts/story_01/kitchen.rpy:136 #-#-# translate crowdin ev_ann_cooking_c75d83f0:
 msgid "[_Ann_s_03_] С готовкой я почти закончила, осталось только немного прибраться, но некоторые тарелки с едой ты уже можешь нести на веранду."
 msgstr "[_Ann_s_03_] С готовкой я почти закончила, осталось только немного прибраться, но некоторые тарелки с едой ты уже можешь нести на веранду."
 
-# game/scripts/story_01/kitchen.rpy:124 #-#-# translate crowdin ev_ann_cooking_69f0d5e1:
+# game/scripts/story_01/kitchen.rpy:137 #-#-# translate crowdin ev_ann_cooking_69f0d5e1:
 msgid "[_Max_s_01_] Конечно, мам. Я сейчас всё унесу..."
 msgstr "[_Max_s_01_] Конечно, мам. Я сейчас всё унесу..."
 
-# game/scripts/story_01/kitchen.rpy:129 #-#-# translate crowdin ev_ann_cooking_97e8fc22:
+# game/scripts/story_01/kitchen.rpy:142 #-#-# translate crowdin ev_ann_cooking_ab32928e:
+msgid "[_tMax_s_11_] Вот бы ещё вспомнить, кому что ставить?! Что-то из этого должно достаться Лизе, но это не точно... [nointeract]"
+msgstr "[_tMax_s_11_] Вот бы ещё вспомнить, кому что ставить?! Что-то из этого должно достаться Лизе, но это не точно... [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:144 #-#-# translate crowdin ev_ann_cooking_a515b062:
+msgid "[_tMax_s_11_] Как Алиса столько ест и не толстеет?! Может, потому что часть я перекладываю к себе в тарелку... [nointeract]"
+msgstr "[_tMax_s_11_] Как Алиса столько ест и не толстеет?! Может, потому что часть я перекладываю к себе в тарелку... [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:146 #-#-# translate crowdin ev_ann_cooking_401cc600:
+msgid "[_tMax_s_11_] Можно ли вообще удержаться и не съесть всё это не дожидаясь остальных?! Вкуснее мамы никто не готовит... [nointeract]"
+msgstr "[_tMax_s_11_] Можно ли вообще удержаться и не съесть всё это не дожидаясь остальных?! Вкуснее мамы никто не готовит... [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:153 #-#-# translate crowdin ev_ann_cooking_97e8fc22:
 msgid "[_Ann_s_12_] Ну вот, а я уже понадеялась! Тогда не мешай... [nointeract]"
 msgstr "[_Ann_s_12_] Ну вот, а я уже понадеялась! Тогда не мешай... [nointeract]"
 
 # §translate crowdin strings: #|#|# # game/scripts/story_01/kitchen.rpy:24
 msgid "{i}мыть посуду{/i}"
 msgstr "{i}мыть посуду{/i}"
-
-# game/scripts/story_01/kitchen.rpy:30
-msgid "{i}готово!{/i}"
-msgstr "{i}готово!{/i}"
 
 # game/scripts/story_01/kitchen.rpy:59
 msgid "Хочешь, я помогу тебе домыть посуду?"
@@ -90,11 +110,19 @@ msgstr "Ага, не вопрос. Сделаю."
 msgid "Нет, лучше давай сама..."
 msgstr "Нет, лучше давай сама..."
 
-# game/scripts/story_01/kitchen.rpy:117
+# game/scripts/story_01/kitchen.rpy:107
+msgid "{i}приступить к ужину{/i}"
+msgstr "{i}приступить к ужину{/i}"
+
+# game/scripts/story_01/kitchen.rpy:130
 msgid "{i}подойти и помочь{/i}"
 msgstr "{i}подойти и помочь{/i}"
 
-# game/scripts/story_01/kitchen.rpy:117
+# game/scripts/story_01/kitchen.rpy:130
 msgid "Хотя, нет, сейчас не могу..."
 msgstr "Хотя, нет, сейчас не могу..."
+
+# game/scripts/story_01/kitchen.rpy:147
+msgid "{i}приступить к завтраку{/i}"
+msgstr "{i}приступить к завтраку{/i}"
 

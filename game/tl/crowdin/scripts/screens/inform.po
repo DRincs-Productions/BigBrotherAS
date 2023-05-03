@@ -1,14 +1,10 @@
-﻿# TODO: Translation updated at 2023-02-24 20:17 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/inform.rpy:28
+﻿# TODO: Translation updated at 2023-05-03 21:17 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/inform.rpy:28
 msgid "Персонажи"
 msgstr "Персонажи"
 
 # game/scripts/screens/inform.rpy:32
 msgid "Предметы"
 msgstr "Предметы"
-
-# game/scripts/screens/inform.rpy:36
-msgid "Вернуться"
-msgstr "Вернуться"
 
 # game/scripts/screens/inform.rpy:115
 msgid "НАСТРОЕНИЕ"
@@ -27,22 +23,46 @@ msgid "До достижения: +"
 msgstr "До достижения: +"
 
 # game/scripts/screens/inform.rpy:141
+msgid "ПАРАМЕТРЫ"
+msgstr "ПАРАМЕТРЫ"
+
+# game/scripts/screens/inform.rpy:144
+msgid "Чистота"
+msgstr "Чистота"
+
+# game/scripts/screens/inform.rpy:148
+msgid "Загрязнённость "
+msgstr "Загрязнённость "
+
+# game/scripts/screens/inform.rpy:151
 msgid "НАВЫКИ"
 msgstr "НАВЫКИ"
 
-# game/scripts/screens/inform.rpy:147
+# game/scripts/screens/inform.rpy:157
 msgid "Ур.1"
 msgstr "Ур.1"
 
-# game/scripts/screens/inform.rpy:150
+# game/scripts/screens/inform.rpy:160
 msgid "Опыт применения навыка"
 msgstr "Опыт применения навыка"
 
-# game/scripts/screens/inform.rpy:324
+# game/scripts/screens/inform.rpy:335
 msgid "В данный момент в инвентаре ничего нет"
 msgstr "В данный момент в инвентаре ничего нет"
 
-# game/scripts/screens/inform.rpy:327
+# game/scripts/screens/inform.rpy:338
 msgid "Ни один предмет не выбран"
 msgstr "Ни один предмет не выбран"
+
+# game/scripts/screens/inform.rpy:346
+msgid "Не прочитана"
+msgstr "Не прочитана"
+
+# game/scripts/screens/inform.rpy:348
+msgid "Полностью изучена"
+msgstr "Полностью изучена"
+
+# game/scripts/screens/inform.rpy:350
+msgid "Изучена на [percent]%"
+msgstr "Изучена на [percent]%"
 
