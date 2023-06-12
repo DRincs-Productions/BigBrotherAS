@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-03 21:17
+﻿# TODO: Translation updated at 2023-06-12 23:05
 
 translate crowdin strings:
 
@@ -22,31 +22,35 @@ translate crowdin strings:
     old "Лизы"
     new "Лизы"
 
-    # game/scripts/engine/definitions.rpy:32
+    # game/scripts/engine/definitions.rpy:30
+    old "Эрика"
+    new "Эрика"
+
+    # game/scripts/engine/definitions.rpy:34
     old "Комната Макса и Лизы"
     new "Комната Макса и Лизы"
 
-    # game/scripts/engine/definitions.rpy:32
+    # game/scripts/engine/definitions.rpy:34
     old "Комната Алисы"
     new "Комната Алисы"
 
-    # game/scripts/engine/definitions.rpy:32
+    # game/scripts/engine/definitions.rpy:34
     old "Комната Анны"
     new "Комната Анны"
 
-    # game/scripts/engine/definitions.rpy:32
+    # game/scripts/engine/definitions.rpy:34
     old "Ванная комната"
     new "Ванная комната"
 
-    # game/scripts/engine/definitions.rpy:32
+    # game/scripts/engine/definitions.rpy:34
     old "Гостиная"
     new "Гостиная"
 
-    # game/scripts/engine/definitions.rpy:32
+    # game/scripts/engine/definitions.rpy:34
     old "Веранда"
     new "Веранда"
 
-    # game/scripts/engine/definitions.rpy:32
+    # game/scripts/engine/definitions.rpy:34
     old "Двор"
     new "Двор"
 

@@ -1,8 +1,8 @@
-﻿# TODO: Translation updated at 2023-05-03 21:17
+﻿# TODO: Translation updated at 2023-06-12 23:05
 
 translate crowdin strings:
 
-    # game/scripts/screens/navigation.rpy:131
+    # game/scripts/screens/navigation.rpy:130
     old "Ждать окончания часа"
     new "Ждать окончания часа"
 
@@ -54,39 +54,39 @@ translate crowdin strings:
     old "Искать пауков"
     new "Искать пауков"
 
-    # game/scripts/screens/navigation.rpy:272
+    # game/scripts/screens/navigation.rpy:269
     old "Развернуть"
     new "Развернуть"
 
-    # game/scripts/screens/navigation.rpy:280
+    # game/scripts/screens/navigation.rpy:277
     old "Ждать 30 минут"
     new "Ждать 30 минут"
 
-    # game/scripts/screens/navigation.rpy:292
+    # game/scripts/screens/navigation.rpy:289
     old "Свернуть"
     new "Свернуть"
 
-    # game/scripts/screens/navigation.rpy:331
+    # game/scripts/screens/navigation.rpy:328
     old "Поддержать игру на Boosty"
     new "Поддержать игру на Boosty"
 
-    # game/scripts/screens/navigation.rpy:337
+    # game/scripts/screens/navigation.rpy:334
     old "Поддержать игру на Patreon"
     new "Поддержать игру на Patreon"
 
-    # game/scripts/screens/navigation.rpy:343
+    # game/scripts/screens/navigation.rpy:340
     old "Меню игры"
     new "Меню игры"
 
-    # game/scripts/screens/navigation.rpy:350
+    # game/scripts/screens/navigation.rpy:347
     old "Обучение"
     new "Обучение"
 
-    # game/scripts/screens/navigation.rpy:470
+    # game/scripts/screens/navigation.rpy:467
     old "Скрыть"
     new "Скрыть"
 
-    # game/scripts/screens/navigation.rpy:507
+    # game/scripts/screens/navigation.rpy:504
     old "Продолжение следует..."
     new "Продолжение следует..."
 

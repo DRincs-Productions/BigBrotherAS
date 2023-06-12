@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-03 21:17 #|#|# # game/scripts/story_01/morningwood.rpy:14 #-#-# translate crowdin ev_001_ef68f9ed:
+﻿# TODO: Translation updated at 2023-06-12 23:05 #|#|# # game/scripts/story_01/morningwood.rpy:14 #-#-# translate crowdin ev_001_ef68f9ed:
 msgid "[_Lisa_s_14_] Я сейчас маму позову!"
 msgstr "[_Lisa_s_14_] Я сейчас маму позову!"
 
@@ -261,6 +261,110 @@ msgstr "[_tMax_s_11_] Может, если она станет чаще виде
 # game/scripts/story_01/morningwood.rpy:117 #-#-# translate crowdin ev_021_fbb6b67e:
 msgid "[_tMax_s_00_] Нужно попробовать, пусть привыкает. Только на это нужно время. И есть риск, что она станет маме жаловаться на меня. Надеюсь, обойдётся..."
 msgstr "[_tMax_s_00_] Нужно попробовать, пусть привыкает. Только на это нужно время. И есть риск, что она станет маме жаловаться на меня. Надеюсь, обойдётся..."
+
+# game/scripts/story_01/morningwood.rpy:130 #-#-# translate crowdin ev_058_8ed67475:
+msgid "[_Lisa_s_16_] Что? Какой ещё массаж? Я говорю, тебе не стыдно, вот так валяться передо мной?"
+msgstr "[_Lisa_s_16_] Что? Какой ещё массаж? Я говорю, тебе не стыдно, вот так валяться передо мной?"
+
+# game/scripts/story_01/morningwood.rpy:131 #-#-# translate crowdin ev_058_745dbddb:
+msgid "[_Max_s_16_] Что случилось опять?"
+msgstr "[_Max_s_16_] Что случилось опять?"
+
+# game/scripts/story_01/morningwood.rpy:135 #-#-# translate crowdin ev_058_7aff2e3a:
+msgid "[_Lisa_s_15_] Не знаю, может у кого-то кое-что не помещается в трусах?"
+msgstr "[_Lisa_s_15_] Не знаю, может у кого-то кое-что не помещается в трусах?"
+
+# game/scripts/story_01/morningwood.rpy:136 #-#-# translate crowdin ev_058_bdecb444:
+msgid "[_Max_s_12_] Вот ты про что... Странно, что ты ещё маму не позвала..."
+msgstr "[_Max_s_12_] Вот ты про что... Странно, что ты ещё маму не позвала..."
+
+# game/scripts/story_01/morningwood.rpy:140 #-#-# translate crowdin ev_058_66508089:
+msgid "[_Lisa_s_09_] Мама сказала мне самой с тобой разбираться. Что тебе такое снится, от чего эта твоя штука, становится такой большой?"
+msgstr "[_Lisa_s_09_] Мама сказала мне самой с тобой разбираться. Что тебе такое снится, от чего эта твоя штука, становится такой большой?"
+
+# game/scripts/story_01/morningwood.rpy:141 #-#-# translate crowdin ev_058_08837d19:
+msgid "[_Max_s_14_] Да ничего мне такого не снится! Это от моих снов вообще не зависит..."
+msgstr "[_Max_s_14_] Да ничего мне такого не снится! Это от моих снов вообще не зависит..."
+
+# game/scripts/story_01/morningwood.rpy:142 #-#-# translate crowdin ev_058_a4c88133:
+msgid "[_Lisa_s_01_] Ага, рассказывай! Может он у тебя своей собственной жизнью живёт?"
+msgstr "[_Lisa_s_01_] Ага, рассказывай! Может он у тебя своей собственной жизнью живёт?"
+
+# game/scripts/story_01/morningwood.rpy:143 #-#-# translate crowdin ev_058_09f424f6:
+msgid "[_Max_s_13_] Самой-то тебе не стыдно на него так глазеть, а? Так нравится, что глаз оторвать не можешь..."
+msgstr "[_Max_s_13_] Самой-то тебе не стыдно на него так глазеть, а? Так нравится, что глаз оторвать не можешь..."
+
+# game/scripts/story_01/morningwood.rpy:144 #-#-# translate crowdin ev_058_895ff0ad:
+msgid "[_Lisa_s_14_] Что?! Думаешь, мне нравится на него смотреть?!"
+msgstr "[_Lisa_s_14_] Что?! Думаешь, мне нравится на него смотреть?!"
+
+# game/scripts/story_01/morningwood.rpy:145 #-#-# translate crowdin ev_058_85fee38c:
+msgid "[_Max_s_04_] Конечно! Иначе, ты бы просто закрыла глаза или отвернулась..."
+msgstr "[_Max_s_04_] Конечно! Иначе, ты бы просто закрыла глаза или отвернулась..."
+
+# game/scripts/story_01/morningwood.rpy:149 #-#-# translate crowdin ev_058_8e9e322f:
+msgid "[_Lisa_s_15_] Вот и отвернусь!"
+msgstr "[_Lisa_s_15_] Вот и отвернусь!"
+
+# game/scripts/story_01/morningwood.rpy:150 #-#-# translate crowdin ev_058_cfa738e8:
+msgid "[_Max_s_01_] Да я не против, можешь смотреть..."
+msgstr "[_Max_s_01_] Да я не против, можешь смотреть..."
+
+# game/scripts/story_01/morningwood.rpy:151 #-#-# translate crowdin ev_058_e5fbdd4c:
+msgid "[_Lisa_s_12_] Да ну тебя, Макс!"
+msgstr "[_Lisa_s_12_] Да ну тебя, Макс!"
+
+# game/scripts/story_01/morningwood.rpy:152 #-#-# translate crowdin ev_058_32bbf845:
+msgid "[_Max_s_11_] Может тебе побольше рассказать о «Большом Максе», раз уж он так тебе интересен?"
+msgstr "[_Max_s_11_] Может тебе побольше рассказать о «Большом Максе», раз уж он так тебе интересен?"
+
+# game/scripts/story_01/morningwood.rpy:156 #-#-# translate crowdin ev_058_5b9180d3:
+msgid "[_Lisa_s_11_] Ага! Так значит я права?! Раз у него есть имя, значит он и правда живёт своей жизнью..."
+msgstr "[_Lisa_s_11_] Ага! Так значит я права?! Раз у него есть имя, значит он и правда живёт своей жизнью..."
+
+# game/scripts/story_01/morningwood.rpy:157 #-#-# translate crowdin ev_058_bb7b0913:
+msgid "[_Max_s_03_] Нет, не живёт... Просто «Большой Макс» звучит как-то получше, чем «эта штука»."
+msgstr "[_Max_s_03_] Нет, не живёт... Просто «Большой Макс» звучит как-то получше, чем «эта штука»."
+
+# game/scripts/story_01/morningwood.rpy:158 #-#-# translate crowdin ev_058_b7671e51:
+msgid "[_Lisa_s_10_] Как ни называй, а у вас, мальчиков, там очень странная штука."
+msgstr "[_Lisa_s_10_] Как ни называй, а у вас, мальчиков, там очень странная штука."
+
+# game/scripts/story_01/morningwood.rpy:159 #-#-# translate crowdin ev_058_8afb374d:
+msgid "[_Max_s_04_] Ты поэтому с таким интересом смотрела?"
+msgstr "[_Max_s_04_] Ты поэтому с таким интересом смотрела?"
+
+# game/scripts/story_01/morningwood.rpy:163 #-#-# translate crowdin ev_058_719f4dfc:
+msgid "[_Lisa_s_12_] Ну, Макс, нисколько не сомневаюсь, что если бы я спала практически голая, то ты бы тоже смотрел с интересом..."
+msgstr "[_Lisa_s_12_] Ну, Макс, нисколько не сомневаюсь, что если бы я спала практически голая, то ты бы тоже смотрел с интересом..."
+
+# game/scripts/story_01/morningwood.rpy:164 #-#-# translate crowdin ev_058_34b69383:
+msgid "[_Max_s_02_] А что, по-моему очень честно, если бы ты спала только в пижамных шортиках, без верха!"
+msgstr "[_Max_s_02_] А что, по-моему очень честно, если бы ты спала только в пижамных шортиках, без верха!"
+
+# game/scripts/story_01/morningwood.rpy:165 #-#-# translate crowdin ev_058_c279d6b4:
+msgid "[_Lisa_s_09_] В смысле, честно?!"
+msgstr "[_Lisa_s_09_] В смысле, честно?!"
+
+# game/scripts/story_01/morningwood.rpy:166 #-#-# translate crowdin ev_058_8f717bdd:
+msgid "[_Max_s_11_] В том смысле, что я сплю в трусах и ты теперь иногда видишь моего «Большого Макса», а вот я вижу тебя слишком одетой... Это не честно!"
+msgstr "[_Max_s_11_] В том смысле, что я сплю в трусах и ты теперь иногда видишь моего «Большого Макса», а вот я вижу тебя слишком одетой... Это не честно!"
+
+# game/scripts/story_01/morningwood.rpy:167 #-#-# translate crowdin ev_058_a4034a9b:
+msgid "[_Lisa_s_01_] Для такого извращенца, как ты, Макс, это очень честно! Можешь только мечтать..."
+msgstr "[_Lisa_s_01_] Для такого извращенца, как ты, Макс, это очень честно! Можешь только мечтать..."
+
+# game/scripts/story_01/morningwood.rpy:168 #-#-# translate crowdin ev_058_daec46e8:
+msgid "[_Max_s_01_] Ну ладно, помечтать - тоже вариант."
+msgstr "[_Max_s_01_] Ну ладно, помечтать - тоже вариант."
+
+# game/scripts/story_01/morningwood.rpy:173 #-#-# translate crowdin ev_058_1f42e9db:
+msgid "[_tMax_s_11_] Ну, что... На этот раз маму Лиза не позвала, что уже хорошо. Да и то, как вообще устроены мальчики и что это за «штука» такая у них между ног, ей очень интересно."
+msgstr "[_tMax_s_11_] Ну, что... На этот раз маму Лиза не позвала, что уже хорошо. Да и то, как вообще устроены мальчики и что это за «штука» такая у них между ног, ей очень интересно."
+
+# game/scripts/story_01/morningwood.rpy:174 #-#-# translate crowdin ev_058_a315abea:
+msgid "[_tMax_s_13_] Но ей явно пока неудобно говорить со мной об этом. Что ж, подожду... Может дело сдвинется в следующий раз, когда мне снова что-то приснится..."
+msgstr "[_tMax_s_13_] Но ей явно пока неудобно говорить со мной об этом. Что ж, подожду... Может дело сдвинется в следующий раз, когда мне снова что-то приснится..."
 
 # §translate crowdin strings: #|#|# # game/scripts/story_01/morningwood.rpy:64
 msgid "Ого, мам! Какие выражения..."

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-03 21:17
+﻿# TODO: Translation updated at 2023-06-12 23:05
 
 # game/scripts/story_01/smoke.rpy:11
 translate crowdin ev_025_7cf4d55a:

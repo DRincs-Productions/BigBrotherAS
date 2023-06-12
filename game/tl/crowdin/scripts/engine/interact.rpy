@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-03 21:17
+﻿# TODO: Translation updated at 2023-06-12 23:05
 
 # game/scripts/engine/interact.rpy:34
 translate crowdin talks_start_41e41361:
@@ -93,6 +93,10 @@ translate crowdin strings:
     new "Загораешь?"
 
     # game/scripts/engine/interact.rpy:176
+    old "Как загорается?"
+    new "Как загорается?"
+
+    # game/scripts/engine/interact.rpy:176
     old "Что читаешь?"
     new "Что читаешь?"
 
@@ -123,6 +127,14 @@ translate crowdin strings:
     # game/scripts/engine/interact.rpy:176
     old "Поплаваем вместе?"
     new "Поплаваем вместе?"
+
+    # game/scripts/engine/interact.rpy:176
+    old "Будешь плавать?"
+    new "Будешь плавать?"
+
+    # game/scripts/engine/interact.rpy:176
+    old "Не против, если я присоединюсь?"
+    new "Не против, если я присоединюсь?"
 
     # game/scripts/engine/interact.rpy:176
     old "Насчёт случая с Лизой..."

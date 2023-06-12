@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-03 21:17
+﻿# TODO: Translation updated at 2023-06-12 23:05
 
 translate crowdin strings:
 
@@ -18,51 +18,59 @@ translate crowdin strings:
     old "Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании.\nХотя, зарплата у неё вполне приличная, но почти всё уходит на оплату жилья, еду и одежду."
     new "Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании.\nХотя, зарплата у неё вполне приличная, но почти всё уходит на оплату жилья, еду и одежду."
 
-    # game/scripts/engine/characters.rpy:213
+    # game/scripts/engine/characters.rpy:206
+    old "Не знаю почему, но при знакомстве с внезапным маминым ухажёром Эриком, я начал чувствовать, что ничего хорошего он в мою жизнь не принесёт.\nКак и в жизнь кого-либо из моей семьи. Может быть мне кажется, но какой-то он подозрительный..."
+    new "Не знаю почему, но при знакомстве с внезапным маминым ухажёром Эриком, я начал чувствовать, что ничего хорошего он в мою жизнь не принесёт.\nКак и в жизнь кого-либо из моей семьи. Может быть мне кажется, но какой-то он подозрительный..."
+
+    # game/scripts/engine/characters.rpy:214
     old "Ужасное"
     new "Ужасное"
 
-    # game/scripts/engine/characters.rpy:213
+    # game/scripts/engine/characters.rpy:214
     old "Плохое"
     new "Плохое"
 
-    # game/scripts/engine/characters.rpy:213
+    # game/scripts/engine/characters.rpy:214
     old "Не очень"
     new "Не очень"
 
-    # game/scripts/engine/characters.rpy:213
+    # game/scripts/engine/characters.rpy:214
     old "Нейтральное"
     new "Нейтральное"
 
-    # game/scripts/engine/characters.rpy:213
+    # game/scripts/engine/characters.rpy:214
     old "Неплохое"
     new "Неплохое"
 
-    # game/scripts/engine/characters.rpy:213
+    # game/scripts/engine/characters.rpy:214
     old "Хорошее"
     new "Хорошее"
 
-    # game/scripts/engine/characters.rpy:213
+    # game/scripts/engine/characters.rpy:214
     old "Прекрасное"
     new "Прекрасное"
 
-    # game/scripts/engine/characters.rpy:228
+    # game/scripts/engine/characters.rpy:229
     old "Макс"
     new "Макс"
 
-    # game/scripts/engine/characters.rpy:253
+    # game/scripts/engine/characters.rpy:234
     old "Лиза"
     new "Лиза"
 
-    # game/scripts/engine/characters.rpy:274
+    # game/scripts/engine/characters.rpy:237
     old "Алиса"
     new "Алиса"
 
-    # game/scripts/engine/characters.rpy:277
+    # game/scripts/engine/characters.rpy:240
     old "Мама"
     new "Мама"
 
-    # game/scripts/engine/characters.rpy:299
-    old "Майя"
-    new "Майя"
+    # game/scripts/engine/characters.rpy:243
+    old "Мия"
+    new "Мия"
+
+    # game/scripts/engine/characters.rpy:246
+    old "Эрик"
+    new "Эрик"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-03 21:17 #|#|# # game/scripts/engine/interact.rpy:34 #-#-# translate crowdin talks_start_41e41361:
+﻿# TODO: Translation updated at 2023-06-12 23:05 #|#|# # game/scripts/engine/interact.rpy:34 #-#-# translate crowdin talks_start_41e41361:
 msgid "[_Alice_s_00_] Ну же, Макс, что хотел? [nointeract]"
 msgstr "[_Alice_s_00_] Ну же, Макс, что хотел? [nointeract]"
 
@@ -71,6 +71,10 @@ msgid "Загораешь?"
 msgstr "Загораешь?"
 
 # game/scripts/engine/interact.rpy:176
+msgid "Как загорается?"
+msgstr "Как загорается?"
+
+# game/scripts/engine/interact.rpy:176
 msgid "Что читаешь?"
 msgstr "Что читаешь?"
 
@@ -101,6 +105,14 @@ msgstr "Почему не плаваешь?"
 # game/scripts/engine/interact.rpy:176
 msgid "Поплаваем вместе?"
 msgstr "Поплаваем вместе?"
+
+# game/scripts/engine/interact.rpy:176
+msgid "Будешь плавать?"
+msgstr "Будешь плавать?"
+
+# game/scripts/engine/interact.rpy:176
+msgid "Не против, если я присоединюсь?"
+msgstr "Не против, если я присоединюсь?"
 
 # game/scripts/engine/interact.rpy:176
 msgid "Насчёт случая с Лизой..."

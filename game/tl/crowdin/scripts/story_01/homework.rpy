@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-03 21:17
+﻿# TODO: Translation updated at 2023-06-12 23:05
 
 # game/scripts/story_01/homework.rpy:9
 translate crowdin ev_034_38a2b149:
@@ -276,61 +276,61 @@ translate crowdin ev_042_302ccac2:
     # tMax 04 "Фух! Ну вот, донёс и разложил по своим местам. Без ужина теперь не останемся. Да и маме будет приятно..." nointeract
     tMax 04 "Фух! Ну вот, донёс и разложил по своим местам. Без ужина теперь не останемся. Да и маме будет приятно..." nointeract
 
-# game/scripts/story_01/homework.rpy:176
+# game/scripts/story_01/homework.rpy:178
 translate crowdin ev_048_21af5c37:
 
     # Ann 11 "Сынок, подожди, а ты продукты купил?"
     Ann 11 "Сынок, подожди, а ты продукты купил?"
 
-# game/scripts/story_01/homework.rpy:177
+# game/scripts/story_01/homework.rpy:179
 translate crowdin ev_048_0667b723:
 
     # Max 01 "Да, купил. Всё, как ты написала."
     Max 01 "Да, купил. Всё, как ты написала."
 
-# game/scripts/story_01/homework.rpy:178
+# game/scripts/story_01/homework.rpy:180
 translate crowdin ev_048_b3e80ba8:
 
     # Ann 02 "Прекрасно. Надеюсь, я и дальше смогу на тебя полагаться по хозяйству."
     Ann 02 "Прекрасно. Надеюсь, я и дальше смогу на тебя полагаться по хозяйству."
 
-# game/scripts/story_01/homework.rpy:179
+# game/scripts/story_01/homework.rpy:181
 translate crowdin ev_048_93f04449:
 
     # Max 11 "Может, я что-то ещё могу сделать?"
     Max 11 "Может, я что-то ещё могу сделать?"
 
-# game/scripts/story_01/homework.rpy:180
+# game/scripts/story_01/homework.rpy:182
 translate crowdin ev_048_bb872671:
 
     # Ann 01 "Пока хватит и того, что ты уже сделал. Это же нужно будет сделать на следующей неделе, хорошо?"
     Ann 01 "Пока хватит и того, что ты уже сделал. Это же нужно будет сделать на следующей неделе, хорошо?"
 
-# game/scripts/story_01/homework.rpy:181
+# game/scripts/story_01/homework.rpy:183
 translate crowdin ev_048_07eb979d:
 
     # Max 03 "Да, мам. Вообще без проблем!"
     Max 03 "Да, мам. Вообще без проблем!"
 
-# game/scripts/story_01/homework.rpy:182
+# game/scripts/story_01/homework.rpy:184
 translate crowdin ev_048_91cceadf:
 
     # Ann 03 "Теперь я буду выдавать тебе по понедельникам карманные, а вместе с ними и денежку за чистку бассейна и поход за продуктами. Ты уже смотри сам, когда и что лучше делать."
     Ann 03 "Теперь я буду выдавать тебе по понедельникам карманные, а вместе с ними и денежку за чистку бассейна и поход за продуктами. Ты уже смотри сам, когда и что лучше делать."
 
-# game/scripts/story_01/homework.rpy:183
+# game/scripts/story_01/homework.rpy:185
 translate crowdin ev_048_13687fbd:
 
     # Max 02 "Ага, разберусь."
     Max 02 "Ага, разберусь."
 
-# game/scripts/story_01/homework.rpy:187
+# game/scripts/story_01/homework.rpy:189
 translate crowdin ev_048_7be40e3a:
 
     # Ann 01 "Вот и славно, какой ты у меня молодец. Всё, я в ванную, меня не беспокоить..."
     Ann 01 "Вот и славно, какой ты у меня молодец. Всё, я в ванную, меня не беспокоить..."
 
-# game/scripts/story_01/homework.rpy:188
+# game/scripts/story_01/homework.rpy:190
 translate crowdin ev_048_2bf5e88a:
 
     # Max 04 "Отдыхай."

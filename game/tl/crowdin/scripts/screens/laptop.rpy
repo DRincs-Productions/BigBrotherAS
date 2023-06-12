@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-03 21:17
+﻿# TODO: Translation updated at 2023-06-12 23:05
 
 translate crowdin strings:
 
@@ -26,15 +26,15 @@ translate crowdin strings:
     old "ЧИТ-МЕНЮ"
     new "ЧИТ-МЕНЮ"
 
-    # game/scripts/screens/laptop.rpy:39
+    # game/scripts/screens/laptop.rpy:40
     old "Назад"
     new "Назад"
 
-    # game/scripts/screens/laptop.rpy:43
+    # game/scripts/screens/laptop.rpy:44
     old "Выключить"
     new "Выключить"
 
-    # game/scripts/screens/laptop.rpy:48
+    # game/scripts/screens/laptop.rpy:50
     old "Ждать 10 минут"
     new "Ждать 10 минут"
 
@@ -53,6 +53,10 @@ translate crowdin strings:
     # game/scripts/screens/laptop.rpy:198
     old "Приобрести \"{name}\" за ${price}?"
     new "Приобрести \"{name}\" за ${price}?"
+
+    # game/scripts/screens/laptop.rpy:224
+    old "Скидка [item.sale_percent]%"
+    new "Скидка [item.sale_percent]%"
 
     # game/scripts/screens/laptop.rpy:245
     old "В данный момент нет доступных товаров. Загляните позже."
@@ -78,47 +82,47 @@ translate crowdin strings:
     old "Последнее начисление:"
     new "Последнее начисление:"
 
-    # game/scripts/screens/laptop.rpy:539
+    # game/scripts/screens/laptop.rpy:540
     old "Предыдущая"
     new "Предыдущая"
 
-    # game/scripts/screens/laptop.rpy:545
+    # game/scripts/screens/laptop.rpy:547
     old "Следующая"
     new "Следующая"
 
-    # game/scripts/screens/laptop.rpy:578
+    # game/scripts/screens/laptop.rpy:570
     old "Массаж"
     new "Массаж"
 
-    # game/scripts/screens/laptop.rpy:582
+    # game/scripts/screens/laptop.rpy:574
     old "Общение"
     new "Общение"
 
-    # game/scripts/screens/laptop.rpy:597
+    # game/scripts/screens/laptop.rpy:589
     old "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
     new "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
 
-    # game/scripts/screens/laptop.rpy:605
+    # game/scripts/screens/laptop.rpy:597
     old "Вы уже оплатили этот курс и можете в любой момент включить следующий доступный видеоурок."
     new "Вы уже оплатили этот курс и можете в любой момент включить следующий доступный видеоурок."
 
-    # game/scripts/screens/laptop.rpy:606
+    # game/scripts/screens/laptop.rpy:598
     old "Занятие [learn] из 3"
     new "Занятие [learn] из 3"
 
-    # game/scripts/screens/laptop.rpy:609
+    # game/scripts/screens/laptop.rpy:601
     old "НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА"
     new "НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА"
 
-    # game/scripts/screens/laptop.rpy:613
+    # game/scripts/screens/laptop.rpy:605
     old "ВЫ УЧИЛИСЬ СОВСЕМ НЕДАВНО. СДЕЛАЙТЕ ПЕРЕРЫВ!"
     new "ВЫ УЧИЛИСЬ СОВСЕМ НЕДАВНО. СДЕЛАЙТЕ ПЕРЕРЫВ!"
 
-    # game/scripts/screens/laptop.rpy:621
+    # game/scripts/screens/laptop.rpy:613
     old "Количество занятий: 3"
     new "Количество занятий: 3"
 
-    # game/scripts/screens/laptop.rpy:623
+    # game/scripts/screens/laptop.rpy:615
     old "ПРИОБРЕСТИ ЭТОТ КУРС ЗА $[cource.price]"
     new "ПРИОБРЕСТИ ЭТОТ КУРС ЗА $[cource.price]"
 
