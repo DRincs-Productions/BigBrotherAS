@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-06-12 23:05
+﻿# TODO: Translation updated at 2023-07-18 22:58
 
 # game/scripts/story_01/homework.rpy:9
 translate crowdin ev_034_38a2b149:
@@ -336,6 +336,42 @@ translate crowdin ev_048_2bf5e88a:
     # Max 04 "Отдыхай."
     Max 04 "Отдыхай."
 
+# game/scripts/story_01/homework.rpy:199
+translate crowdin ev_064_bf076e91:
+
+    # tMax 11 "Куда я сейчас могу отправиться? Посмотрим..." nointeract
+    tMax 11 "Куда я сейчас могу отправиться? Посмотрим..." nointeract
+
+# game/scripts/story_01/homework.rpy:215
+translate crowdin ev_065_7d2cb603:
+
+    # tMax 01 "Хорошо, что до магазина идти не очень далеко. Но всё равно, небольшая прогулка, да получается."
+    tMax 01 "Хорошо, что до магазина идти не очень далеко. Но всё равно, небольшая прогулка, да получается."
+
+# game/scripts/story_01/homework.rpy:219
+translate crowdin ev_065_grocerystore_e0c2a833:
+
+    # tMax 11 "Так, что же мне нужно купить? Надо вспоминать..." nointeract
+    tMax 11 "Так, что же мне нужно купить? Надо вспоминать..." nointeract
+
+# game/scripts/story_01/homework.rpy:239
+translate crowdin ev_065_end_c03e713e:
+
+    # tMax 13 "По отдельности всё, вроде, лёгкое, а когда в пакеты поставишь уже не так-то и легко. Главное, чтобы эти самые пакеты не порвались..."
+    tMax 13 "По отдельности всё, вроде, лёгкое, а когда в пакеты поставишь уже не так-то и легко. Главное, чтобы эти самые пакеты не порвались..."
+
+# game/scripts/story_01/homework.rpy:243
+translate crowdin ev_065_end_302ccac2:
+
+    # tMax 04 "Фух! Ну вот, донёс и разложил по своим местам. Без ужина теперь не останемся. Да и маме будет приятно..." nointeract
+    tMax 04 "Фух! Ну вот, донёс и разложил по своим местам. Без ужина теперь не останемся. Да и маме будет приятно..." nointeract
+
+# game/scripts/story_01/homework.rpy:252
+translate crowdin ev_065_end_f1e4b959:
+
+    # tMax 13 "Всё, что получилось купить, купил! Можно спокойно идти домой..."
+    tMax 13 "Всё, что получилось купить, купил! Можно спокойно идти домой..."
+
 translate crowdin strings:
 
     # game/scripts/story_01/homework.rpy:36
@@ -349,4 +385,24 @@ translate crowdin strings:
     # game/scripts/story_01/homework.rpy:148
     old "{i}купить продуктов на неделю (за мамин счёт){/i}"
     new "{i}купить продуктов на неделю (за мамин счёт){/i}"
+
+    # game/scripts/story_01/homework.rpy:198
+    old "{i}продуктовый магазин{/i}"
+    new "{i}продуктовый магазин{/i}"
+
+    # game/scripts/story_01/homework.rpy:198
+    old "{i}остаться на вилле{/i}"
+    new "{i}остаться на вилле{/i}"
+
+    # game/scripts/story_01/homework.rpy:218
+    old "{i}купить продуктов на неделю (куплено){/i}"
+    new "{i}купить продуктов на неделю (куплено){/i}"
+
+    # game/scripts/story_01/homework.rpy:218
+    old "{i}выбрать сладости...{/i}"
+    new "{i}выбрать сладости...{/i}"
+
+    # game/scripts/story_01/homework.rpy:218
+    old "{i}вернуться на виллу{/i}"
+    new "{i}вернуться на виллу{/i}"
 

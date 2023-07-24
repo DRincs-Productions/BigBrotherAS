@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-06-12 23:05
+﻿# TODO: Translation updated at 2023-07-18 22:58
 
 # game/scripts/story_01/school.rpy:10
 translate crowdin ev_004_1fe4b55c:
@@ -755,4 +755,8 @@ translate crowdin strings:
     # game/scripts/story_01/school.rpy:99
     old "Ага. Пора делами заниматься..."
     new "Ага. Пора делами заниматься..."
+
+    # game/scripts/story_01/school.rpy:178
+    old "Задание «Одноклассник» обновлено!"
+    new "Задание «Одноклассник» обновлено!"
 

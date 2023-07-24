@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-06-12 23:05 #|#|# # game/scripts/story_01/myroom.rpy:12 #-#-# translate crowdin ev_lisa_dressed_79ffde85:
+﻿# TODO: Translation updated at 2023-07-18 22:58 #|#|# # game/scripts/story_01/myroom.rpy:12 #-#-# translate crowdin ev_lisa_dressed_79ffde85:
 msgid "[_tMax_s_11_] Сейчас Лиза должна собираться в школу... [nointeract]"
 msgstr "[_tMax_s_11_] Сейчас Лиза должна собираться в школу... [nointeract]"
 
@@ -149,10 +149,6 @@ msgstr "А ты очень красиво смотришься без одежд
 # game/scripts/story_01/myroom.rpy:168
 msgid "Раз уж я здесь, давай помогу?"
 msgstr "Раз уж я здесь, давай помогу?"
-
-# game/scripts/story_01/myroom.rpy:195
-msgid "{i}отвернуться{/i}"
-msgstr "{i}отвернуться{/i}"
 
 # game/scripts/story_01/myroom.rpy:200
 msgid "{i}не подглядывать{/i}"

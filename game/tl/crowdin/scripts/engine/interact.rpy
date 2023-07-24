@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-06-12 23:05
+﻿# TODO: Translation updated at 2023-07-18 22:58
 
 # game/scripts/engine/interact.rpy:34
 translate crowdin talks_start_41e41361:
@@ -171,4 +171,12 @@ translate crowdin strings:
     # game/scripts/engine/interact.rpy:176
     old "Насчёт Алекса..."
     new "Насчёт Алекса..."
+
+    # game/scripts/engine/interact.rpy:176
+    old "Я решил потренироваться..."
+    new "Я решил потренироваться..."
+
+    # game/scripts/engine/interact.rpy:176
+    old "У меня для тебя обещанная вкусняшка!"
+    new "У меня для тебя обещанная вкусняшка!"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-06-12 23:05
+﻿# TODO: Translation updated at 2023-07-18 22:58
 
 # game/scripts/story_01/blog.rpy:10
 translate crowdin ev_017_423a776a:
@@ -149,4 +149,8 @@ translate crowdin strings:
     # game/scripts/story_01/blog.rpy:14
     old "{i}отвлечь Алису{/i}"
     new "{i}отвлечь Алису{/i}"
+
+    # game/scripts/story_01/blog.rpy:58
+    old "Открыто новое задание «Стримерша»!"
+    new "Открыто новое задание «Стримерша»!"
 

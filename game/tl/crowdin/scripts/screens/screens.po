@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-06-12 23:05 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/screens.rpy:274
+﻿# TODO: Translation updated at 2023-07-18 22:58 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/screens.rpy:274
 msgid "Нужно подождать дней: {cooldown}"
 msgstr "Нужно подождать дней: {cooldown}"
 
@@ -57,10 +57,6 @@ msgstr "Опции"
 # game/scripts/screens/screens.rpy:514
 msgid "Начать"
 msgstr "Начать"
-
-# game/scripts/screens/screens.rpy:515
-msgid "Продолжить"
-msgstr "Продолжить"
 
 # game/scripts/screens/screens.rpy:518
 msgid "Загрузить"

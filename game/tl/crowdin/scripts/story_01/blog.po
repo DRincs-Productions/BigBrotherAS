@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-06-12 23:05 #|#|# # game/scripts/story_01/blog.rpy:10 #-#-# translate crowdin ev_017_423a776a:
+﻿# TODO: Translation updated at 2023-07-18 22:58 #|#|# # game/scripts/story_01/blog.rpy:10 #-#-# translate crowdin ev_017_423a776a:
 msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
 msgstr "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
 
@@ -97,4 +97,8 @@ msgstr "[_Max_s_11_] Ещё посмотрим..."
 # §translate crowdin strings: #|#|# # game/scripts/story_01/blog.rpy:14
 msgid "{i}отвлечь Алису{/i}"
 msgstr "{i}отвлечь Алису{/i}"
+
+# game/scripts/story_01/blog.rpy:58
+msgid "Открыто новое задание «Стримерша»!"
+msgstr "Открыто новое задание «Стримерша»!"
 

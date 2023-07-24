@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-06-12 23:05
+﻿# TODO: Translation updated at 2023-07-18 22:58
 
 # game/scripts/story_01/bikini.rpy:8
 translate crowdin ev_008_3c08b543:
@@ -83,4 +83,10 @@ translate crowdin ev_008_255a19b4:
 
     # Max 01 "Ладно, идёт!"
     Max 01 "Ладно, идёт!"
+
+translate crowdin strings:
+
+    # game/scripts/story_01/bikini.rpy:29
+    old "Открыто новое задание «Новый купальник»!"
+    new "Открыто новое задание «Новый купальник»!"
 

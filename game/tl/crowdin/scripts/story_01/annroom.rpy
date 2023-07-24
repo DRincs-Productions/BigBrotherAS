@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-06-12 23:05
+﻿# TODO: Translation updated at 2023-07-18 22:58
 
 # game/scripts/story_01/annroom.rpy:12
 translate crowdin ev_ann_dressed_d0c78fcb:
@@ -90,13 +90,13 @@ translate crowdin ev_ann_sleep_fa81649f:
     # tMax 03 "Обалденно! Как же повезло, что у меня такая горячая и фигуристая мама... Выглядит потрясающе, аж глаза отрывать не хочется от её изгибов!" nointeract
     tMax 03 "Обалденно! Как же повезло, что у меня такая горячая и фигуристая мама... Выглядит потрясающе, аж глаза отрывать не хочется от её изгибов!" nointeract
 
-# game/scripts/story_01/annroom.rpy:180
+# game/scripts/story_01/annroom.rpy:181
 translate crowdin ev_024_48cd1387:
 
     # Ann 01 "Так, сынок, я отправляюсь на работу. Не безобразничайте тут, пока меня нет..."
     Ann 01 "Так, сынок, я отправляюсь на работу. Не безобразничайте тут, пока меня нет..."
 
-# game/scripts/story_01/annroom.rpy:181
+# game/scripts/story_01/annroom.rpy:182
 translate crowdin ev_024_b6f3ae4d:
 
     # Max 01 "Конечно, мам. Хорошего тебе дня!"

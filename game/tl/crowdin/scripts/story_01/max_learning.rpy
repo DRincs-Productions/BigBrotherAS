@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-06-12 23:05
+﻿# TODO: Translation updated at 2023-07-18 22:58
 
 # game/scripts/story_01/max_learning.rpy:8
 translate crowdin ev_029_47925c16:
@@ -36,31 +36,31 @@ translate crowdin ev_029_manual_7b71f292:
     # Max 01 "Всё, вот теперь точно всё понятно! Я уже могу сделать свой сайт и транслировать на него изображение! Но как получать за это деньги? А, нет, это тоже понятно!"
     Max 01 "Всё, вот теперь точно всё понятно! Я уже могу сделать свой сайт и транслировать на него изображение! Но как получать за это деньги? А, нет, это тоже понятно!"
 
-# game/scripts/story_01/max_learning.rpy:45
+# game/scripts/story_01/max_learning.rpy:46
 translate crowdin ev_046_23ca8fd9:
 
     # Max 01 "Хм... мне кажется такое можно и лёжа на кровати изучать. Надеюсь, меня не станет клонить в сон..."
     Max 01 "Хм... мне кажется такое можно и лёжа на кровати изучать. Надеюсь, меня не станет клонить в сон..."
 
-# game/scripts/story_01/max_learning.rpy:48
+# game/scripts/story_01/max_learning.rpy:49
 translate crowdin ev_046_66ef962f:
 
     # Max 11 "Хорошая штука эти онлайн-курсы. Можно научиться всему, не выходя из дома! Вот только и стоит это немало..."
     Max 11 "Хорошая штука эти онлайн-курсы. Можно научиться всему, не выходя из дома! Вот только и стоит это немало..."
 
-# game/scripts/story_01/max_learning.rpy:51
+# game/scripts/story_01/max_learning.rpy:52
 translate crowdin ev_046_81dac6d3:
 
     # Max 04 "Не сказать, что это сложное занятие, но знаний, а так же опыта в этом деле нужно много! И теперь я готов закреплять полученные знания на практике..."
     Max 04 "Не сказать, что это сложное занятие, но знаний, а так же опыта в этом деле нужно много! И теперь я готов закреплять полученные знания на практике..."
 
-# game/scripts/story_01/max_learning.rpy:56
+# game/scripts/story_01/max_learning.rpy:57
 translate crowdin ev_046_1c72ad2c:
 
     # tMax 01 "И раз уж с Алисы это началось, то на ней я и начну практиковаться. Надеюсь, руки она мне не выдернет, если я сделаю что-то не так..."
     tMax 01 "И раз уж с Алисы это началось, то на ней я и начну практиковаться. Надеюсь, руки она мне не выдернет, если я сделаю что-то не так..."
 
-# game/scripts/story_01/max_learning.rpy:59
+# game/scripts/story_01/max_learning.rpy:62
 translate crowdin ev_046_66ef962f_1:
 
     # Max 11 "Хорошая штука эти онлайн-курсы. Можно научиться всему, не выходя из дома! Вот только и стоит это немало..."
@@ -92,15 +92,23 @@ translate crowdin strings:
     old "Книга полностью изучена"
     new "Книга полностью изучена"
 
-    # game/scripts/story_01/max_learning.rpy:46
+    # game/scripts/story_01/max_learning.rpy:47
     old "Курс изучен на 33%"
     new "Курс изучен на 33%"
 
-    # game/scripts/story_01/max_learning.rpy:49
+    # game/scripts/story_01/max_learning.rpy:50
     old "Курс изучен на 66%"
     new "Курс изучен на 66%"
 
-    # game/scripts/story_01/max_learning.rpy:52
+    # game/scripts/story_01/max_learning.rpy:53
     old "Курс полностью изучен"
     new "Курс полностью изучен"
+
+    # game/scripts/story_01/max_learning.rpy:59
+    old "Задание «Домашнее обучение массажу» завершено!"
+    new "Задание «Домашнее обучение массажу» завершено!"
+
+    # game/scripts/story_01/max_learning.rpy:60
+    old "Открыто новое задание «Талантливый массажист»!"
+    new "Открыто новое задание «Талантливый массажист»!"
 

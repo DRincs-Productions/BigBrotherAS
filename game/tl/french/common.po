@@ -1,5 +1,4 @@
-﻿
-# §translate french strings: #|#|# # renpy/common/00accessibility.rpy:28
+translate french strings: #|#|# # renpy/common/00accessibility.rpy:28
 msgid "Self-voicing disabled."
 msgstr "Lecture vocale désactivée."
 
@@ -681,7 +680,7 @@ msgstr "Lecture vocale vers presse-papier activée. Pressez « Maj+C » pour l
 
 # renpy/common/00preferences.rpy:618
 msgid "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-msgstr "La lecture vocale veut dire « [renpy.display.tts.last] ». Pressez « Alt+Maj+V » pour la désactiver."
+msgstr "La lecture vocale veut dire \"[renpy.display.tts.last]\". Pressez 'alt+shift+V' pour la désactiver."
 
 # renpy/common/00preferences.rpy:620
 msgid "Self-voicing enabled. Press 'v' to disable."
@@ -745,7 +744,7 @@ msgstr "Ce programme est à jour."
 
 # renpy/common/00updater.rpy:1637
 msgid "[u.version] is available. Do you want to install it?"
-msgstr "[u.version] est disponible. Voulez-vous l’installer ?"
+msgstr "[u.version] est disponible. Voulez-vous l’installer?"
 
 # renpy/common/00updater.rpy:1639
 msgid "Preparing to download the updates."
@@ -1209,7 +1208,7 @@ msgstr "save <slot> : sauvegarder la partie dans cet emplacement "
 
 # renpy/common/00console.rpy:862
 msgid "reload: reloads the game, refreshing the scripts"
-msgstr "reload : recharge le jeu, rafraîchit les scripts"
+msgstr "reload: recharge le jeu, rafraîchit les scripts"
 
 # renpy/common/00console.rpy:870
 msgid "watch <expression>: watch a python expression\n watch short: makes the representation of traced expressions short (default)\n watch long: makes the representation of traced expressions as is"
@@ -1221,7 +1220,7 @@ msgstr "unwatch <expression> : arrêter la surveillance d’une expression Pytho
 
 # renpy/common/00console.rpy:953
 msgid "unwatchall: stop watching all expressions"
-msgstr "unwatchall : arrêter de surveiller toutes les expressions"
+msgstr "unwatchall: arrêter de surveiller toutes les expressions"
 
 # renpy/common/00console.rpy:974
 msgid "jump <label>: jumps to label"
@@ -1229,17 +1228,17 @@ msgstr "jump <label> : saute jusqu’au label"
 
 # renpy/common/00console.rpy:990
 msgid "short: Shorten the representation of objects on the console (default)."
-msgstr "short : Raccourcit la représentation des objets sur la console (par défaut)."
+msgstr "short: Raccourcit la représentation des objets sur la console (par défaut)."
 
 # renpy/common/00console.rpy:994
 msgid "long: Print the full representation of objects on the console."
-msgstr "long : Affiche la representation entière des objets dans la console."
+msgstr "long: Affiche la representation entière des objets dans la console."
 
 # renpy/common/00console.rpy:998
 msgid "escape: Enables escaping of unicode symbols in unicode strings."
-msgstr "escape : Active l'échappage des symboles unicode dans les chaînes de caractères unicode."
+msgstr "escape: Active l'échappage des symboles unicode dans les chaînes de caractères unicode."
 
 # renpy/common/00console.rpy:1002
 msgid "unescape: Disables escaping of unicode symbols in unicode strings and print it as is (default)."
-msgstr "unescape : Désactive l'échappage des symboles unicode dans les chaînes de caractères unicode et les affiche telles quelles (par défaut)."
+msgstr "unescape: Désactive l'échappage des symboles unicode dans les chaînes de caractères unicode et les affiche telles quelles (par défaut)."
 

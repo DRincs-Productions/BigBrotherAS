@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-06-12 23:05
+﻿# TODO: Translation updated at 2023-07-18 22:58
 
 # game/scripts/story_01/aliceroom.rpy:10
 translate crowdin ev_alice_dressed_51996b14:
@@ -108,31 +108,31 @@ translate crowdin ev_alice_sleep_fdba43f5:
     # tMax 05 "Класс! Отсюда Алису видно гораздо лучше, а поразглядывать у неё есть что... Обворожительно смотрится, но пора уходить, а то ещё проснётся." nointeract
     tMax 05 "Класс! Отсюда Алису видно гораздо лучше, а поразглядывать у неё есть что... Обворожительно смотрится, но пора уходить, а то ещё проснётся." nointeract
 
-# game/scripts/story_01/aliceroom.rpy:225
+# game/scripts/story_01/aliceroom.rpy:228
 translate crowdin ev_alice_sleep_1d3d70d9:
 
     # tMax 15 "Ничего себе! Алиса ещё не заснула, ворочается. Лучше потихоньку сваливать, пока она меня не заметила..." nointeract
     tMax 15 "Ничего себе! Алиса ещё не заснула, ворочается. Лучше потихоньку сваливать, пока она меня не заметила..." nointeract
 
-# game/scripts/story_01/aliceroom.rpy:247
+# game/scripts/story_01/aliceroom.rpy:250
 translate crowdin ev_alice_sleep_morning_36c97f6b:
 
     # tMax 11 "Обычно в это время Алиса ещё спит. Если это так, то лучше её не будить..." nointeract
     tMax 11 "Обычно в это время Алиса ещё спит. Если это так, то лучше её не будить..." nointeract
 
-# game/scripts/story_01/aliceroom.rpy:252
+# game/scripts/story_01/aliceroom.rpy:255
 translate crowdin ev_alice_sleep_morning_18d8bfbf:
 
     # tMax 03 "Да, Алиса ещё спит, что меня безусловно радует! От таких соблазнительных изгибов можно сознание потерять с утра пораньше..." nointeract
     tMax 03 "Да, Алиса ещё спит, что меня безусловно радует! От таких соблазнительных изгибов можно сознание потерять с утра пораньше..." nointeract
 
-# game/scripts/story_01/aliceroom.rpy:259
+# game/scripts/story_01/aliceroom.rpy:262
 translate crowdin ev_alice_sleep_morning_d6b9522a:
 
     # tMax 05 "Ох, смотрю я на неё и в голове появляются лишь самые пошлые мысли... Но она может в любой момент проснуться, так что лучше уходить." nointeract
     tMax 05 "Ох, смотрю я на неё и в голове появляются лишь самые пошлые мысли... Но она может в любой момент проснуться, так что лучше уходить." nointeract
 
-# game/scripts/story_01/aliceroom.rpy:268
+# game/scripts/story_01/aliceroom.rpy:271
 translate crowdin ev_alice_sleep_morning_59c252b6:
 
     # tMax 15 "Ой! Не особо-то она и спит. Нужно постараться бесшумно отсюда слинять, пока Алиса меня не увидела..." nointeract
@@ -171,4 +171,8 @@ translate crowdin strings:
     # game/scripts/story_01/aliceroom.rpy:208
     old "{i}прокрасться в комнату{/i}"
     new "{i}прокрасться в комнату{/i}"
+
+    # game/scripts/story_01/aliceroom.rpy:215
+    old "{i}подложить паука к Алисе{/i}"
+    new "{i}подложить паука к Алисе{/i}"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-06-12 23:05
+﻿# TODO: Translation updated at 2023-07-18 22:58
 
 # game/scripts/story_01/myroom.rpy:12
 translate crowdin ev_lisa_dressed_79ffde85:
@@ -221,10 +221,6 @@ translate crowdin strings:
     # game/scripts/story_01/myroom.rpy:168
     old "Раз уж я здесь, давай помогу?"
     new "Раз уж я здесь, давай помогу?"
-
-    # game/scripts/story_01/myroom.rpy:195
-    old "{i}отвернуться{/i}"
-    new "{i}отвернуться{/i}"
 
     # game/scripts/story_01/myroom.rpy:200
     old "{i}не подглядывать{/i}"

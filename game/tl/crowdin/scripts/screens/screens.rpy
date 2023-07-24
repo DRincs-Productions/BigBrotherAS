@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-06-12 23:05
+﻿# TODO: Translation updated at 2023-07-18 22:58
 
 translate crowdin strings:
 
@@ -61,10 +61,6 @@ translate crowdin strings:
     # game/scripts/screens/screens.rpy:514
     old "Начать"
     new "Начать"
-
-    # game/scripts/screens/screens.rpy:515
-    old "Продолжить"
-    new "Продолжить"
 
     # game/scripts/screens/screens.rpy:518
     old "Загрузить"

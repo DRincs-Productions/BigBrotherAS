@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-06-12 23:05
+﻿# TODO: Translation updated at 2023-07-18 22:58
 
 # game/scripts/engine/service.rpy:65
 translate crowdin nothing_to_do_423a776a:
@@ -31,8 +31,4 @@ translate crowdin strings:
     # game/scripts/engine/service.rpy:462
     old "Нет, я всё знаю"
     new "Нет, я всё знаю"
-
-    # game/scripts/engine/service.rpy:477
-    old "Доставлены следующие товары:"
-    new "Доставлены следующие товары:"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-06-12 23:05 #|#|# # game/scripts/story_01/bikini.rpy:8 #-#-# translate crowdin ev_008_3c08b543:
+﻿# TODO: Translation updated at 2023-07-18 22:58 #|#|# # game/scripts/story_01/bikini.rpy:8 #-#-# translate crowdin ev_008_3c08b543:
 msgid "[_Lisa_s_09_] Жарко... Но у меня другого и нет. Ты же знаешь, что наши вещи пропали. Вот там и все мои купальники были..."
 msgstr "[_Lisa_s_09_] Жарко... Но у меня другого и нет. Ты же знаешь, что наши вещи пропали. Вот там и все мои купальники были..."
 
@@ -53,4 +53,8 @@ msgstr "[_Lisa_s_11_] Ну, скажу спасибо..."
 # game/scripts/story_01/bikini.rpy:26 #-#-# translate crowdin ev_008_255a19b4:
 msgid "[_Max_s_01_] Ладно, идёт!"
 msgstr "[_Max_s_01_] Ладно, идёт!"
+
+# §translate crowdin strings: #|#|# # game/scripts/story_01/bikini.rpy:29
+msgid "Открыто новое задание «Новый купальник»!"
+msgstr "Открыто новое задание «Новый купальник»!"
 
