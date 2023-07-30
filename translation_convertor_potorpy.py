@@ -11,11 +11,7 @@ dict = {
     # start
     r'msgid ""\nmsgstr ""\n(.*)\n(.*)\n(.*)\n(.*)':         r'',
     r'\n"Plural-Forms(.*)':         r'',
-    r'\n"X-Crowdin-Pr(.*)':         r'',
-    r'\n"X-Crowdin-Pr(.*)':         r'',
-    r'\n"X-Crowdin-La(.*)':         r'',
-    r'\n"X-Crowdin-Fi(.*)':         r'',
-    r'\n"X-Crowdin-Fi(.*)':         r'',
+    r'\n"X-Crowdin(.*)':         r'',
     r'\n"Project-Id-V(.*)':         r'',
     r'\n"Content-Type(.*)':         r'',
     r'\n"Language-Tea(.*)':         r'',
@@ -75,23 +71,47 @@ def replacetext(search_text, replace_text, pathFile, languege):
     # filedata = filedata.replace(search_text, replace_text)
     filedata = re.sub(search_text, replace_text, filedata)
     # TODO: to improve
-    filedata = re.sub(r'"\n    (.*?)_s_(.*?) "', r'"\n    \1 \2 "', filedata)
-    filedata = re.sub(r'"\n    (.*?)_s_(.*?) "', r'"\n    \1 \2 "', filedata)
-    filedata = re.sub(r'"\n    (.*?)_s_(.*?) "', r'"\n    \1 \2 "', filedata)
-    filedata = re.sub(r'"\n    (.*?)_s_(.*?) "', r'"\n    \1 \2 "', filedata)
-    filedata = re.sub(r'"\n    (.*?)_s_(.*?) "', r'"\n    \1 \2 "', filedata)
-    filedata = re.sub(r'"\n    (.*?)_s_(.*?) "', r'"\n    \1 \2 "', filedata)
-    filedata = re.sub(r'"\n    (.*?)_s_(.*?) "', r'"\n    \1 \2 "', filedata)
-    filedata = re.sub(r'"\n    (.*?)_s_(.*?) "', r'"\n    \1 \2 "', filedata)
-    filedata = re.sub(r':\n\n    # (.*?)_s_(.*?) "', r':\n\n    # \1 \2 "', filedata)
-    filedata = re.sub(r':\n\n    # (.*?)_s_(.*?) "', r':\n\n    # \1 \2 "', filedata)
-    filedata = re.sub(r':\n\n    # (.*?)_s_(.*?) "', r':\n\n    # \1 \2 "', filedata)
-    filedata = re.sub(r':\n\n    # (.*?)_s_(.*?) "', r':\n\n    # \1 \2 "', filedata)
-    filedata = re.sub(r':\n\n    # (.*?)_s_(.*?) "', r':\n\n    # \1 \2 "', filedata)
-    filedata = re.sub(r':\n\n    # (.*?)_s_(.*?) "', r':\n\n    # \1 \2 "', filedata)
-    filedata = re.sub(r':\n\n    # (.*?)_s_(.*?) "', r':\n\n    # \1 \2 "', filedata)
-    filedata = re.sub(r':\n\n    # (.*?)_s_(.*?) "', r':\n\n    # \1 \2 "', filedata)
-    filedata = re.sub(r"crowdin", languege, filedata)
+    filedata = re.sub(r'"\n    (.*?)_s_(.*?) "',
+                      r'"\n    \1 \2 "', filedata)
+    filedata = re.sub(r'"\n    (.*?)_s_(.*?) "',
+                      r'"\n    \1 \2 "', filedata)
+    filedata = re.sub(r'"\n    (.*?)_s_(.*?) "',
+                      r'"\n    \1 \2 "', filedata)
+    filedata = re.sub(r'"\n    (.*?)_s_(.*?) "',
+                      r'"\n    \1 \2 "', filedata)
+    filedata = re.sub(r'"\n    (.*?)_s_(.*?) "',
+                      r'"\n    \1 \2 "', filedata)
+    filedata = re.sub(r'"\n    (.*?)_s_(.*?) "',
+                      r'"\n    \1 \2 "', filedata)
+    filedata = re.sub(r'"\n    (.*?)_s_(.*?) "',
+                      r'"\n    \1 \2 "', filedata)
+    filedata = re.sub(r'"\n    (.*?)_s_(.*?) "',
+                      r'"\n    \1 \2 "', filedata)
+    filedata = re.sub(r'"(.*?)\n    (.*?)_s_(.*?) "',
+                      r'"\1\n    \2 \3 "', filedata)
+    filedata = re.sub(r'"(.*?)\n    (.*?)_s_(.*?) "',
+                      r'"\1\n    \2 \3 "', filedata)
+    filedata = re.sub(r'"(.*?)\n    (.*?)_s_(.*?) "',
+                      r'"\1\n    \2 \3 "', filedata)
+    filedata = re.sub(r'"(.*?)\n    (.*?)_s_(.*?) "',
+                      r'"\1\n    \2 \3 "', filedata)
+    filedata = re.sub(r':\n\n    # (.*?)_s_(.*?) "',
+                      r':\n\n    # \1 \2 "', filedata)
+    filedata = re.sub(r':\n\n    # (.*?)_s_(.*?) "',
+                      r':\n\n    # \1 \2 "', filedata)
+    filedata = re.sub(r':\n\n    # (.*?)_s_(.*?) "',
+                      r':\n\n    # \1 \2 "', filedata)
+    filedata = re.sub(r':\n\n    # (.*?)_s_(.*?) "',
+                      r':\n\n    # \1 \2 "', filedata)
+    filedata = re.sub(r':\n\n    # (.*?)_s_(.*?) "',
+                      r':\n\n    # \1 \2 "', filedata)
+    filedata = re.sub(r':\n\n    # (.*?)_s_(.*?) "',
+                      r':\n\n    # \1 \2 "', filedata)
+    filedata = re.sub(r':\n\n    # (.*?)_s_(.*?) "',
+                      r':\n\n    # \1 \2 "', filedata)
+    filedata = re.sub(r':\n\n    # (.*?)_s_(.*?) "',
+                      r':\n\n    # \1 \2 "', filedata)
+    filedata = re.sub(r'crowdin', languege, filedata)
 
     # Write the file out again
     with open(pathFile, "w", encoding="utf8") as file:
