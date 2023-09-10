@@ -1,804 +1,828 @@
-﻿# TODO: Translation updated at 2023-07-18 22:58
+﻿# TODO: Translation updated at 2023-09-10 00:31
 
-# game/scripts/story_01/breakfasts.rpy:32
+# game/scripts/story_01/breakfasts.rpy:30
+translate crowdin ev_breakfast_r1_6e8dcf3c:
+
+    # Ann 01 "Всех ещё раз с добрым утром, всем приятного аппетита! Ешьте, пока не остыло."
+    Ann 01 "Всех ещё раз с добрым утром, всем приятного аппетита! Ешьте, пока не остыло."
+
+# game/scripts/story_01/breakfasts.rpy:33
+translate crowdin ev_breakfast_r1_3cbf4df6:
+
+    # Alice 01 "Конечно, мам! Приятного аппетита..."
+    Alice 01 "Конечно, мам! Приятного аппетита..."
+
+# game/scripts/story_01/breakfasts.rpy:35
+translate crowdin ev_breakfast_r1_3cc30d0a:
+
+    # Lisa 01 "Спасибо, мам! Приятного аппетита..."
+    Lisa 01 "Спасибо, мам! Приятного аппетита..."
+
+# game/scripts/story_01/breakfasts.rpy:37
+translate crowdin ev_breakfast_r1_f9ece009:
+
+    # tMax 11 "Ммм... Мама всегда готовит очень вкусно! А что до разговоров, то особо ничего интересного не прозвучало. У всех всё в порядке..."
+    tMax 11 "Ммм... Мама всегда готовит очень вкусно! А что до разговоров, то особо ничего интересного не прозвучало. У всех всё в порядке..."
+
+# game/scripts/story_01/breakfasts.rpy:48
 translate crowdin ev_002_7ee8f2aa:
 
     # Ann 02 "Ну, дети, как вам живётся на новом месте? Как спалось в первую ночь?"
     Ann 02 "Ну, дети, как вам живётся на новом месте? Как спалось в первую ночь?"
 
-# game/scripts/story_01/breakfasts.rpy:33
+# game/scripts/story_01/breakfasts.rpy:49
 translate crowdin ev_002_bf449ace:
 
     # Alice 03 "Просто нет слов! После той нашей съёмной квартиры это какой-то рай! А кровать какая удобная..."
     Alice 03 "Просто нет слов! После той нашей съёмной квартиры это какой-то рай! А кровать какая удобная..."
 
-# game/scripts/story_01/breakfasts.rpy:34
+# game/scripts/story_01/breakfasts.rpy:50
 translate crowdin ev_002_48d5bc6d:
 
     # Max 13 "А вот у меня кровать точно такая же..."
     Max 13 "А вот у меня кровать точно такая же..."
 
-# game/scripts/story_01/breakfasts.rpy:35
+# game/scripts/story_01/breakfasts.rpy:51
 translate crowdin ev_002_3d8260e0:
 
     # Lisa 03 "Это потому, что у нас с тобой наши старые кровати. Ты забыл? Кстати, мне нравится моя. Даже не хочу менять её на новую..."
     Lisa 03 "Это потому, что у нас с тобой наши старые кровати. Ты забыл? Кстати, мне нравится моя. Даже не хочу менять её на новую..."
 
-# game/scripts/story_01/breakfasts.rpy:36
+# game/scripts/story_01/breakfasts.rpy:52
 translate crowdin ev_002_6f6bf948:
 
     # Max 11 "Меня моя тоже устраивает."
     Max 11 "Меня моя тоже устраивает."
 
-# game/scripts/story_01/breakfasts.rpy:37
+# game/scripts/story_01/breakfasts.rpy:53
 translate crowdin ev_002_6b91afc6:
 
     # Ann 03 "Если что, мебель всегда можно будет купить..."
     Ann 03 "Если что, мебель всегда можно будет купить..."
 
-# game/scripts/story_01/breakfasts.rpy:38
+# game/scripts/story_01/breakfasts.rpy:54
 translate crowdin ev_002_12d89522:
 
     # Max 01 "Ага. Кстати, я планирую уже начать зарабатывать!"
     Max 01 "Ага. Кстати, я планирую уже начать зарабатывать!"
 
-# game/scripts/story_01/breakfasts.rpy:39
+# game/scripts/story_01/breakfasts.rpy:55
 translate crowdin ev_002_2682bf81:
 
     # Alice 04 "Ага, и как же ты заработаешь? Образования нет, ничего толком не умеешь. Только дома сидишь всё время в своём ноутбуке..."
     Alice 04 "Ага, и как же ты заработаешь? Образования нет, ничего толком не умеешь. Только дома сидишь всё время в своём ноутбуке..."
 
-# game/scripts/story_01/breakfasts.rpy:40
+# game/scripts/story_01/breakfasts.rpy:56
 translate crowdin ev_002_0eaf316b:
 
     # Max 12 "А вот и заработаю. Научусь что-то делать и сразу заработаю!"
     Max 12 "А вот и заработаю. Научусь что-то делать и сразу заработаю!"
 
-# game/scripts/story_01/breakfasts.rpy:41
+# game/scripts/story_01/breakfasts.rpy:57
 translate crowdin ev_002_e480afd8:
 
     # Alice 02 "Ага, просиживать штаны ты научишься. Объявлений с предложением работы полно. Выбирай - не хочу."
     Alice 02 "Ага, просиживать штаны ты научишься. Объявлений с предложением работы полно. Выбирай - не хочу."
 
-# game/scripts/story_01/breakfasts.rpy:42
+# game/scripts/story_01/breakfasts.rpy:58
 translate crowdin ev_002_742acb8f:
 
     # Max 17 "Да ты сама дома целыми днями сидишь!"
     Max 17 "Да ты сама дома целыми днями сидишь!"
 
-# game/scripts/story_01/breakfasts.rpy:43
+# game/scripts/story_01/breakfasts.rpy:59
 translate crowdin ev_002_ac4d0f3e:
 
     # Ann 01 "Так, хватит. Давайте сменим тему. Например, сегодня у нас Лиза первый раз идёт в новую школу."
     Ann 01 "Так, хватит. Давайте сменим тему. Например, сегодня у нас Лиза первый раз идёт в новую школу."
 
-# game/scripts/story_01/breakfasts.rpy:44
+# game/scripts/story_01/breakfasts.rpy:60
 translate crowdin ev_002_6034047d:
 
     # Max 02 "Поздравляю, Лиза!"
     Max 02 "Поздравляю, Лиза!"
 
-# game/scripts/story_01/breakfasts.rpy:45
+# game/scripts/story_01/breakfasts.rpy:61
 translate crowdin ev_002_219d79c3:
 
     # Lisa 01 "Спасибо, Макс. Честно говоря, не знаю даже чего ожидать. Новое место, новая школа, новый коллектив..."
     Lisa 01 "Спасибо, Макс. Честно говоря, не знаю даже чего ожидать. Новое место, новая школа, новый коллектив..."
 
-# game/scripts/story_01/breakfasts.rpy:46
+# game/scripts/story_01/breakfasts.rpy:62
 translate crowdin ev_002_7172ad78:
 
     # Max 04 "Ну, ты справишься!"
     Max 04 "Ну, ты справишься!"
 
-# game/scripts/story_01/breakfasts.rpy:47
+# game/scripts/story_01/breakfasts.rpy:63
 translate crowdin ev_002_d3318030:
 
     # Lisa 00 "Ага, деваться-то некуда. Кстати, после завтрака я буду уже собираться, к 11 часам нужно быть в школе. А часам к 4 уже вернусь."
     Lisa 00 "Ага, деваться-то некуда. Кстати, после завтрака я буду уже собираться, к 11 часам нужно быть в школе. А часам к 4 уже вернусь."
 
-# game/scripts/story_01/breakfasts.rpy:48
+# game/scripts/story_01/breakfasts.rpy:64
 translate crowdin ev_002_26609dc0:
 
     # Max 11 "Всего 5 часов?"
     Max 11 "Всего 5 часов?"
 
-# game/scripts/story_01/breakfasts.rpy:49
+# game/scripts/story_01/breakfasts.rpy:65
 translate crowdin ev_002_b14d90c6:
 
     # Lisa 02 "Ну, у нас в этой школе так. Меня всё устраивает. Мы ещё и учимся всего пять дней в неделю! Так что, соскучиться не успеете!"
     Lisa 02 "Ну, у нас в этой школе так. Меня всё устраивает. Мы ещё и учимся всего пять дней в неделю! Так что, соскучиться не успеете!"
 
-# game/scripts/story_01/breakfasts.rpy:50
+# game/scripts/story_01/breakfasts.rpy:66
 translate crowdin ev_002_5a92edcf:
 
     # Max 03 "Ну, удачи тебе в школе! Мы в тебя верим..."
     Max 03 "Ну, удачи тебе в школе! Мы в тебя верим..."
 
-# game/scripts/story_01/breakfasts.rpy:51
+# game/scripts/story_01/breakfasts.rpy:67
 translate crowdin ev_002_fc05a9ed:
 
     # Lisa 11 "Спасибо. Постараюсь не подвести!"
     Lisa 11 "Спасибо. Постараюсь не подвести!"
 
-# game/scripts/story_01/breakfasts.rpy:52
+# game/scripts/story_01/breakfasts.rpy:68
 translate crowdin ev_002_851d11fb:
 
     # Ann 04 "Так, всем спасибо за завтрак. А мне уже пора убегать на работу. Алиса, как всегда, моет посуду после завтрака, а Лиза после ужина. Макс, если захочешь помочь сёстрам, они будут только рады."
     Ann 04 "Так, всем спасибо за завтрак. А мне уже пора убегать на работу. Алиса, как всегда, моет посуду после завтрака, а Лиза после ужина. Макс, если захочешь помочь сёстрам, они будут только рады."
 
-# game/scripts/story_01/breakfasts.rpy:53
+# game/scripts/story_01/breakfasts.rpy:69
 translate crowdin ev_002_a50b3689:
 
     # Max 12 "Не сомневаюсь..."
     Max 12 "Не сомневаюсь..."
 
-# game/scripts/story_01/breakfasts.rpy:54
+# game/scripts/story_01/breakfasts.rpy:70
 translate crowdin ev_002_c2b369a9:
 
     # Ann 00 "Да, Макс... Я когда прибиралась, нашла какие-то коробки. Видимо, остались с ремонта. Посмотри, если ничего ценного нет, потом выбросим. Сейчас они у тебя в комнате."
     Ann 00 "Да, Макс... Я когда прибиралась, нашла какие-то коробки. Видимо, остались с ремонта. Посмотри, если ничего ценного нет, потом выбросим. Сейчас они у тебя в комнате."
 
-# game/scripts/story_01/breakfasts.rpy:55
+# game/scripts/story_01/breakfasts.rpy:71
 translate crowdin ev_002_0fc9dfdf:
 
     # Max 13 "А что за коробки?"
     Max 13 "А что за коробки?"
 
-# game/scripts/story_01/breakfasts.rpy:56
+# game/scripts/story_01/breakfasts.rpy:72
 translate crowdin ev_002_4d7ca367:
 
     # Ann 12 "Если бы я знала, то не стала бы у тебя спрашивать. Я в электронике не разбираюсь. Посмотри сам."
     Ann 12 "Если бы я знала, то не стала бы у тебя спрашивать. Я в электронике не разбираюсь. Посмотри сам."
 
-# game/scripts/story_01/breakfasts.rpy:57
+# game/scripts/story_01/breakfasts.rpy:73
 translate crowdin ev_002_f528f148:
 
     # Max 11 "Понял. Посмотрю..."
     Max 11 "Понял. Посмотрю..."
 
-# game/scripts/story_01/breakfasts.rpy:74
+# game/scripts/story_01/breakfasts.rpy:90
 translate crowdin ev_022_ae8ed930:
 
     # Ann 02 "Всем приятного аппетита... Как вы сегодня? Не скучаете по нашей жизни до переезда в этот прекрасный дом?"
     Ann 02 "Всем приятного аппетита... Как вы сегодня? Не скучаете по нашей жизни до переезда в этот прекрасный дом?"
 
-# game/scripts/story_01/breakfasts.rpy:75
+# game/scripts/story_01/breakfasts.rpy:91
 translate crowdin ev_022_64114952:
 
     # Max 11 "Конечно не скучаем! Правда, неизвестно какой ещё счёт придёт за жильё..."
     Max 11 "Конечно не скучаем! Правда, неизвестно какой ещё счёт придёт за жильё..."
 
-# game/scripts/story_01/breakfasts.rpy:76
+# game/scripts/story_01/breakfasts.rpy:92
 translate crowdin ev_022_2a133b97:
 
     # Ann 01 "Да, меня тоже этот вопрос беспокоит. Но на новой работе мне обещают очень хорошую зарплату. Может быть, не всё так плохо. Кстати, за электричество платить не нужно..."
     Ann 01 "Да, меня тоже этот вопрос беспокоит. Но на новой работе мне обещают очень хорошую зарплату. Может быть, не всё так плохо. Кстати, за электричество платить не нужно..."
 
-# game/scripts/story_01/breakfasts.rpy:77
+# game/scripts/story_01/breakfasts.rpy:93
 translate crowdin ev_022_1e0e2bf5:
 
     # Alice 01 "Почему не нужно?"
     Alice 01 "Почему не нужно?"
 
-# game/scripts/story_01/breakfasts.rpy:78
+# game/scripts/story_01/breakfasts.rpy:94
 translate crowdin ev_022_2c594fe8:
 
     # Ann 03 "У нас вся крыша состоит из солнечных панелей. Тут какой-то накопитель есть и своей энергии вполне хватает. Даже на отопление хватило бы, если бы не было так жарко!"
     Ann 03 "У нас вся крыша состоит из солнечных панелей. Тут какой-то накопитель есть и своей энергии вполне хватает. Даже на отопление хватило бы, если бы не было так жарко!"
 
-# game/scripts/story_01/breakfasts.rpy:79
+# game/scripts/story_01/breakfasts.rpy:95
 translate crowdin ev_022_1760bb91:
 
     # Lisa 11 "Да, кстати, очень жарко тут. Я ещё не привыкла к этому климату. С другой стороны, не так жалко ту одежду, что пропала во время переезда."
     Lisa 11 "Да, кстати, очень жарко тут. Я ещё не привыкла к этому климату. С другой стороны, не так жалко ту одежду, что пропала во время переезда."
 
-# game/scripts/story_01/breakfasts.rpy:80
+# game/scripts/story_01/breakfasts.rpy:96
 translate crowdin ev_022_64ac1827:
 
     # Alice 11 "Ты им звонила, мам, узнала где наши вещи?"
     Alice 11 "Ты им звонила, мам, узнала где наши вещи?"
 
-# game/scripts/story_01/breakfasts.rpy:81
+# game/scripts/story_01/breakfasts.rpy:97
 translate crowdin ev_022_5c9ae726:
 
     # Ann 11 "Звонила. Говорят, отправили в другой город по ошибке, а потом и вовсе потеряли. Обещают компенсировать, но когда - пока неизвестно..."
     Ann 11 "Звонила. Говорят, отправили в другой город по ошибке, а потом и вовсе потеряли. Обещают компенсировать, но когда - пока неизвестно..."
 
-# game/scripts/story_01/breakfasts.rpy:82
+# game/scripts/story_01/breakfasts.rpy:98
 translate crowdin ev_022_b296ad93:
 
     # Lisa 09 "А ещё странно, что в таком классном доме нет кондиционеров."
     Lisa 09 "А ещё странно, что в таком классном доме нет кондиционеров."
 
-# game/scripts/story_01/breakfasts.rpy:83
+# game/scripts/story_01/breakfasts.rpy:99
 translate crowdin ev_022_f5e0271d:
 
     # Ann 12 "Насколько я поняла, дом самую малость не успели достроить и не вся техника и мебель была закуплена. А теперь уже и не знаю. Видимо, самим придётся всё остальное докупать."
     Ann 12 "Насколько я поняла, дом самую малость не успели достроить и не вся техника и мебель была закуплена. А теперь уже и не знаю. Видимо, самим придётся всё остальное докупать."
 
-# game/scripts/story_01/breakfasts.rpy:84
+# game/scripts/story_01/breakfasts.rpy:100
 translate crowdin ev_022_e1656aea:
 
     # Max 00 "Значит, первым делом копим на кондиционеры?"
     Max 00 "Значит, первым делом копим на кондиционеры?"
 
-# game/scripts/story_01/breakfasts.rpy:85
+# game/scripts/story_01/breakfasts.rpy:101
 translate crowdin ev_022_ed857649:
 
     # Ann 04 "Да и без кондиционеров проживём. Как-то же справлялись. Да, здесь климат совсем другой, но человек ко всему привыкает. Да и не до них пока."
     Ann 04 "Да и без кондиционеров проживём. Как-то же справлялись. Да, здесь климат совсем другой, но человек ко всему привыкает. Да и не до них пока."
 
-# game/scripts/story_01/breakfasts.rpy:86
+# game/scripts/story_01/breakfasts.rpy:102
 translate crowdin ev_022_fe75cd5f:
 
     # Max 04 "Верно, привыкнем. Ну а если что, всегда можно снять лишнее!"
     Max 04 "Верно, привыкнем. Ну а если что, всегда можно снять лишнее!"
 
-# game/scripts/story_01/breakfasts.rpy:87
+# game/scripts/story_01/breakfasts.rpy:103
 translate crowdin ev_022_a444df10:
 
     # Alice 04 "Ага, специально для тебя все сейчас разденемся догола!"
     Alice 04 "Ага, специально для тебя все сейчас разденемся догола!"
 
-# game/scripts/story_01/breakfasts.rpy:88
+# game/scripts/story_01/breakfasts.rpy:104
 translate crowdin ev_022_a011b2b0:
 
     # Max 01 "Ну и ходи в своих джинсах, я не настаиваю."
     Max 01 "Ну и ходи в своих джинсах, я не настаиваю."
 
-# game/scripts/story_01/breakfasts.rpy:89
+# game/scripts/story_01/breakfasts.rpy:105
 translate crowdin ev_022_9c6e9f25:
 
     # Alice 12 "А больше ничего и не остаётся. Вещей то нет. Может быть, по магазинам пройдёмся в поисках одежды, если деньги будут..."
     Alice 12 "А больше ничего и не остаётся. Вещей то нет. Может быть, по магазинам пройдёмся в поисках одежды, если деньги будут..."
 
-# game/scripts/story_01/breakfasts.rpy:90
+# game/scripts/story_01/breakfasts.rpy:106
 translate crowdin ev_022_0e5a3355:
 
     # Ann 01 "Обязательно пройдёмся. Как только зарплату получу... или хотя бы аванс. А пока нужно убегать на работу. Всем спасибо за компанию. Ведите себя хорошо..."
     Ann 01 "Обязательно пройдёмся. Как только зарплату получу... или хотя бы аванс. А пока нужно убегать на работу. Всем спасибо за компанию. Ведите себя хорошо..."
 
-# game/scripts/story_01/breakfasts.rpy:91
+# game/scripts/story_01/breakfasts.rpy:107
 translate crowdin ev_022_0998c07a:
 
     # Max 03 "Конечно, мам. Хорошего тебе дня..."
     Max 03 "Конечно, мам. Хорошего тебе дня..."
 
-# game/scripts/story_01/breakfasts.rpy:103
+# game/scripts/story_01/breakfasts.rpy:119
 translate crowdin ev_045_dde5df19:
 
     # Ann 01 "Всем приятного аппетита! Хотя, за завтраком обычно не принято болтать, но в нашей семье это уже давно не так. Поэтому, рассказывайте, как у вас дела?"
     Ann 01 "Всем приятного аппетита! Хотя, за завтраком обычно не принято болтать, но в нашей семье это уже давно не так. Поэтому, рассказывайте, как у вас дела?"
 
-# game/scripts/story_01/breakfasts.rpy:104
+# game/scripts/story_01/breakfasts.rpy:120
 translate crowdin ev_045_122fb0cc:
 
     # Alice 00 "У меня скорее вопрос... Скоро же выходные, да?"
     Alice 00 "У меня скорее вопрос... Скоро же выходные, да?"
 
-# game/scripts/story_01/breakfasts.rpy:105
+# game/scripts/story_01/breakfasts.rpy:121
 translate crowdin ev_045_554b88e1:
 
     # Max 03 "Ага, представь себе, уже завтра."
     Max 03 "Ага, представь себе, уже завтра."
 
-# game/scripts/story_01/breakfasts.rpy:106
+# game/scripts/story_01/breakfasts.rpy:122
 translate crowdin ev_045_28396b7f:
 
     # Alice 11 "Не умничай, Макс! Дело в том, что я бы хотела сходить в ночной клуб, а у меня теперь нет ни одного платья!"
     Alice 11 "Не умничай, Макс! Дело в том, что я бы хотела сходить в ночной клуб, а у меня теперь нет ни одного платья!"
 
-# game/scripts/story_01/breakfasts.rpy:107
+# game/scripts/story_01/breakfasts.rpy:123
 translate crowdin ev_045_b7abca90:
 
     # Ann 10 "Алиса, я же говорила, сперва мне нужно получить зарплату... Да и к тому же, сейчас пока не до платьев. Лучше бы делом занялась, а не о клубах думала!"
     Ann 10 "Алиса, я же говорила, сперва мне нужно получить зарплату... Да и к тому же, сейчас пока не до платьев. Лучше бы делом занялась, а не о клубах думала!"
 
-# game/scripts/story_01/breakfasts.rpy:108
+# game/scripts/story_01/breakfasts.rpy:124
 translate crowdin ev_045_f400d26a:
 
     # Alice 15 "Мам! Я молодая, красивая, мне надо развлекаться. Ты сама рассказывала, как раньше зажигала, а мне не даёшь?"
     Alice 15 "Мам! Я молодая, красивая, мне надо развлекаться. Ты сама рассказывала, как раньше зажигала, а мне не даёшь?"
 
-# game/scripts/story_01/breakfasts.rpy:109
+# game/scripts/story_01/breakfasts.rpy:125
 translate crowdin ev_045_bf8b3b8d:
 
     # Ann 12 "Ну, Алиса... Я тебя понимаю, конечно. Но ты же хочешь какое-то дорогое платье, наверняка? Сейчас у нас не очень много денег, ты сама знаешь..."
     Ann 12 "Ну, Алиса... Я тебя понимаю, конечно. Но ты же хочешь какое-то дорогое платье, наверняка? Сейчас у нас не очень много денег, ты сама знаешь..."
 
-# game/scripts/story_01/breakfasts.rpy:110
+# game/scripts/story_01/breakfasts.rpy:126
 translate crowdin ev_045_09f8d638:
 
     # Alice 02 "Мам, да мне не обязательно дорогое. Главное, чтобы стильное, красивое, короткое..."
     Alice 02 "Мам, да мне не обязательно дорогое. Главное, чтобы стильное, красивое, короткое..."
 
-# game/scripts/story_01/breakfasts.rpy:111
+# game/scripts/story_01/breakfasts.rpy:127
 translate crowdin ev_045_cb191755:
 
     # Ann 14 "Что значит короткое? Ты там чем собралась заниматься в своём клубе? Я не хочу, чтобы моя дочь в таком виде разгуливала по ночным клубам!"
     Ann 14 "Что значит короткое? Ты там чем собралась заниматься в своём клубе? Я не хочу, чтобы моя дочь в таком виде разгуливала по ночным клубам!"
 
-# game/scripts/story_01/breakfasts.rpy:112
+# game/scripts/story_01/breakfasts.rpy:128
 translate crowdin ev_045_3941fc97:
 
     # Alice 12 "Мам, ну не слишком короткое... В общем, любое. Главное, чтобы можно было пойти! Ну ма-ам..."
     Alice 12 "Мам, ну не слишком короткое... В общем, любое. Главное, чтобы можно было пойти! Ну ма-ам..."
 
-# game/scripts/story_01/breakfasts.rpy:113
+# game/scripts/story_01/breakfasts.rpy:129
 translate crowdin ev_045_2d529e82:
 
     # Ann 00 "Хватит, Алиса! Клянчишь, как маленькая. Получу зарплату и тогда посмотрим. Кстати, завтра после завтрака мы все прогуляемся по магазинам. Ну, кроме Макса, наверное..."
     Ann 00 "Хватит, Алиса! Клянчишь, как маленькая. Получу зарплату и тогда посмотрим. Кстати, завтра после завтрака мы все прогуляемся по магазинам. Ну, кроме Макса, наверное..."
 
-# game/scripts/story_01/breakfasts.rpy:114
+# game/scripts/story_01/breakfasts.rpy:130
 translate crowdin ev_045_27888abe:
 
     # Max 12 "Э... Почему кроме меня?"
     Max 12 "Э... Почему кроме меня?"
 
-# game/scripts/story_01/breakfasts.rpy:115
+# game/scripts/story_01/breakfasts.rpy:131
 translate crowdin ev_045_592048c0:
 
     # Ann 11 "Ты знаешь, мне кажется, что мужчинам такое не особо интересно. Мы просто походим, посмотрим то, что нужно будет в будущем купить, посмотрим цены. Может, что-то по мелочи прикупим..."
     Ann 11 "Ты знаешь, мне кажется, что мужчинам такое не особо интересно. Мы просто походим, посмотрим то, что нужно будет в будущем купить, посмотрим цены. Может, что-то по мелочи прикупим..."
 
-# game/scripts/story_01/breakfasts.rpy:116
+# game/scripts/story_01/breakfasts.rpy:132
 translate crowdin ev_045_0c5e344e:
 
     # Max 14 "Ну да, звучит и правда не особо интересно."
     Max 14 "Ну да, звучит и правда не особо интересно."
 
-# game/scripts/story_01/breakfasts.rpy:117
+# game/scripts/story_01/breakfasts.rpy:133
 translate crowdin ev_045_656d0631:
 
     # Ann 02 "А что это Лиза у нас сегодня молчит? Как у тебя в школе дела, как там твой Алекс поживает?"
     Ann 02 "А что это Лиза у нас сегодня молчит? Как у тебя в школе дела, как там твой Алекс поживает?"
 
-# game/scripts/story_01/breakfasts.rpy:118
+# game/scripts/story_01/breakfasts.rpy:134
 translate crowdin ev_045_20fec1f8:
 
     # Lisa 11 "Он не мой! А вообще, всё почти хорошо. У меня сегодня контрольная работа в школе..."
     Lisa 11 "Он не мой! А вообще, всё почти хорошо. У меня сегодня контрольная работа в школе..."
 
-# game/scripts/story_01/breakfasts.rpy:119
+# game/scripts/story_01/breakfasts.rpy:135
 translate crowdin ev_045_8de4c48e:
 
     # Ann 11 "И как, ты подготовилась к ней?"
     Ann 11 "И как, ты подготовилась к ней?"
 
-# game/scripts/story_01/breakfasts.rpy:120
+# game/scripts/story_01/breakfasts.rpy:136
 translate crowdin ev_045_a02d1987:
 
     # Lisa 09 "Ну, вроде да. Слушай, мам... А если я хорошо напишу эту контрольную, то ты купишь мне новый купальник? В моём так жарко!"
     Lisa 09 "Ну, вроде да. Слушай, мам... А если я хорошо напишу эту контрольную, то ты купишь мне новый купальник? В моём так жарко!"
 
-# game/scripts/story_01/breakfasts.rpy:121
+# game/scripts/story_01/breakfasts.rpy:137
 translate crowdin ev_045_81ba8c5a:
 
     # Ann 01 "Обещать ничего не буду, мы хотя бы посмотрим, что здесь есть в ассортименте. Но только, если сдашь контрольную, так что удачи тебе сегодня."
     Ann 01 "Обещать ничего не буду, мы хотя бы посмотрим, что здесь есть в ассортименте. Но только, если сдашь контрольную, так что удачи тебе сегодня."
 
-# game/scripts/story_01/breakfasts.rpy:122
+# game/scripts/story_01/breakfasts.rpy:138
 translate crowdin ev_045_d12aab0c:
 
     # Lisa 03 "Спасибо! Я постараюсь, мам."
     Lisa 03 "Спасибо! Я постараюсь, мам."
 
-# game/scripts/story_01/breakfasts.rpy:123
+# game/scripts/story_01/breakfasts.rpy:139
 translate crowdin ev_045_136581a3:
 
     # Ann 00 "Так, ладно. Кажется, завтрак закончен, все уже наелись. Мне пора на работу, а Лизе в школу. Алиса, не забудь вымыть посуду! А ты, Макс, не забудь купить продуктов."
     Ann 00 "Так, ладно. Кажется, завтрак закончен, все уже наелись. Мне пора на работу, а Лизе в школу. Алиса, не забудь вымыть посуду! А ты, Макс, не забудь купить продуктов."
 
-# game/scripts/story_01/breakfasts.rpy:124
+# game/scripts/story_01/breakfasts.rpy:140
 translate crowdin ev_045_b64a33ec:
 
     # Max 01 "Конечно, мам. Хорошего всем дня..."
     Max 01 "Конечно, мам. Хорошего всем дня..."
 
-# game/scripts/story_01/breakfasts.rpy:136
+# game/scripts/story_01/breakfasts.rpy:152
 translate crowdin ev_050_8cf3761d:
 
     # Ann 01 "Всем приятного аппетита. Это наш первый выходной в новом доме и сегодня мы погуляем за его пределами."
     Ann 01 "Всем приятного аппетита. Это наш первый выходной в новом доме и сегодня мы погуляем за его пределами."
 
-# game/scripts/story_01/breakfasts.rpy:137
+# game/scripts/story_01/breakfasts.rpy:153
 translate crowdin ev_050_b9675828:
 
     # Lisa 11 "Мам, а есть шанс, что мы купим мне сегодня купальник?"
     Lisa 11 "Мам, а есть шанс, что мы купим мне сегодня купальник?"
 
-# game/scripts/story_01/breakfasts.rpy:138
+# game/scripts/story_01/breakfasts.rpy:154
 translate crowdin ev_050_c5874a9d:
 
     # Ann 10 "Лиза, какой ещё купальник! Особенно после того, как ты получила двойку за контрольную. Чтобы я никаких разговоров не слышала про купальник, пока не исправишь контрольную на хорошо или отлично!"
     Ann 10 "Лиза, какой ещё купальник! Особенно после того, как ты получила двойку за контрольную. Чтобы я никаких разговоров не слышала про купальник, пока не исправишь контрольную на хорошо или отлично!"
 
-# game/scripts/story_01/breakfasts.rpy:139
+# game/scripts/story_01/breakfasts.rpy:155
 translate crowdin ev_050_47566188:
 
     # Lisa 09 "Эх, я поняла..."
     Lisa 09 "Эх, я поняла..."
 
-# game/scripts/story_01/breakfasts.rpy:140
+# game/scripts/story_01/breakfasts.rpy:156
 translate crowdin ev_050_dba6433a:
 
     # Alice 11 "Вообще-то, купальник у Лизы уже есть, а вот клубного платья у меня нет ни одного вообще. Так что, сначала, давайте-ка прикупим то, что позарез нужно мне!"
     Alice 11 "Вообще-то, купальник у Лизы уже есть, а вот клубного платья у меня нет ни одного вообще. Так что, сначала, давайте-ка прикупим то, что позарез нужно мне!"
 
-# game/scripts/story_01/breakfasts.rpy:141
+# game/scripts/story_01/breakfasts.rpy:157
 translate crowdin ev_050_04157797:
 
     # Lisa 16 "Твои клубы ничем хорошим не заканчиваются... Особенно, когда..."
     Lisa 16 "Твои клубы ничем хорошим не заканчиваются... Особенно, когда..."
 
-# game/scripts/story_01/breakfasts.rpy:142
+# game/scripts/story_01/breakfasts.rpy:158
 translate crowdin ev_050_f611d153:
 
     # Max 11 "Что особенно? Подробнее, пожалуйста..."
     Max 11 "Что особенно? Подробнее, пожалуйста..."
 
-# game/scripts/story_01/breakfasts.rpy:143
+# game/scripts/story_01/breakfasts.rpy:159
 translate crowdin ev_050_76c21b9f:
 
     # Alice 15 "Лиза! Заткнись, пожалуйста. Хватит об этом."
     Alice 15 "Лиза! Заткнись, пожалуйста. Хватит об этом."
 
-# game/scripts/story_01/breakfasts.rpy:144
+# game/scripts/story_01/breakfasts.rpy:160
 translate crowdin ev_050_048bddac:
 
     # Max 13 "Я не понял. Что это было? О чём Лиза ты хотела рассказать?"
     Max 13 "Я не понял. Что это было? О чём Лиза ты хотела рассказать?"
 
-# game/scripts/story_01/breakfasts.rpy:145
+# game/scripts/story_01/breakfasts.rpy:161
 translate crowdin ev_050_9d61b83f:
 
     # Lisa 10 "Мне кажется, Алиса не хочет, чтобы я что-то рассказывала... Так что сам с ней разбирайся..."
     Lisa 10 "Мне кажется, Алиса не хочет, чтобы я что-то рассказывала... Так что сам с ней разбирайся..."
 
-# game/scripts/story_01/breakfasts.rpy:146
+# game/scripts/story_01/breakfasts.rpy:162
 translate crowdin ev_050_9a6c392d:
 
     # Alice 02 "Лучше не суйся, Макс! Мам, правда, может всё же купим мне платье?"
     Alice 02 "Лучше не суйся, Макс! Мам, правда, может всё же купим мне платье?"
 
-# game/scripts/story_01/breakfasts.rpy:147
+# game/scripts/story_01/breakfasts.rpy:163
 translate crowdin ev_050_e829b457:
 
     # Ann 14 "Конечно, Алиса, я уже разбежалась... Мы сходим, посмотрим, что есть, а купим, когда я получу зарплату. А лучше заработай и купи сама. Взрослая девчонка, а до сих пор всё у меня клянчишь."
     Ann 14 "Конечно, Алиса, я уже разбежалась... Мы сходим, посмотрим, что есть, а купим, когда я получу зарплату. А лучше заработай и купи сама. Взрослая девчонка, а до сих пор всё у меня клянчишь."
 
-# game/scripts/story_01/breakfasts.rpy:148
+# game/scripts/story_01/breakfasts.rpy:164
 translate crowdin ev_050_27c75606:
 
     # Alice 12 "Ну, такой уж форс-мажор, мам. Потребуется время, чтобы обзавестись всем необходимым для ведения моего блога."
     Alice 12 "Ну, такой уж форс-мажор, мам. Потребуется время, чтобы обзавестись всем необходимым для ведения моего блога."
 
-# game/scripts/story_01/breakfasts.rpy:149
+# game/scripts/story_01/breakfasts.rpy:165
 translate crowdin ev_050_c20a5133:
 
     # Ann 00 "Вот пару кремов, так уж и быть, возьмём. Всем спасибо за завтрак! Давайте одевайтесь и собираемся все внизу в гостиной. А ты, Макс, помой посуду, пока нас не будет."
     Ann 00 "Вот пару кремов, так уж и быть, возьмём. Всем спасибо за завтрак! Давайте одевайтесь и собираемся все внизу в гостиной. А ты, Макс, помой посуду, пока нас не будет."
 
-# game/scripts/story_01/breakfasts.rpy:150
+# game/scripts/story_01/breakfasts.rpy:166
 translate crowdin ev_050_d257f0eb:
 
     # Max 14 "Ладно, помою..."
     Max 14 "Ладно, помою..."
 
-# game/scripts/story_01/breakfasts.rpy:162
+# game/scripts/story_01/breakfasts.rpy:178
 translate crowdin ev_059_d21f1b72:
 
     # Ann 10 "Кстати, Макс... Я проходила вчера мимо двери Алисы и почувствовала запах сигаретного дыма. Даже у меня в комнате пахло. К ней кто-то приходил или это она совсем распоясалась?"
     Ann 10 "Кстати, Макс... Я проходила вчера мимо двери Алисы и почувствовала запах сигаретного дыма. Даже у меня в комнате пахло. К ней кто-то приходил или это она совсем распоясалась?"
 
-# game/scripts/story_01/breakfasts.rpy:163
+# game/scripts/story_01/breakfasts.rpy:179
 translate crowdin ev_059_c2dcd7ac:
 
     # Max 12 "Нет, никого не было... Может быть, тебе показалось?"
     Max 12 "Нет, никого не было... Может быть, тебе показалось?"
 
-# game/scripts/story_01/breakfasts.rpy:165
+# game/scripts/story_01/breakfasts.rpy:181
 translate crowdin ev_059_a06d365c:
 
     # Ann 14 "Думаешь? Макс, ты ничего не хочешь мне рассказать? Если Алиса курила у себя в комнате, а ты её снова пытаешься выгораживать, то я с вами обоими церемониться не стану!" nointeract
     Ann 14 "Думаешь? Макс, ты ничего не хочешь мне рассказать? Если Алиса курила у себя в комнате, а ты её снова пытаешься выгораживать, то я с вами обоими церемониться не стану!" nointeract
 
-# game/scripts/story_01/breakfasts.rpy:170
+# game/scripts/story_01/breakfasts.rpy:187
 translate crowdin ev_059_72ca61ac:
 
     # Ann 11 "Что? Хочешь сказать, это от соседей так надуло? Что же это они такое там делали, чтобы так пахло?"
     Ann 11 "Что? Хочешь сказать, это от соседей так надуло? Что же это они такое там делали, чтобы так пахло?"
 
-# game/scripts/story_01/breakfasts.rpy:171
+# game/scripts/story_01/breakfasts.rpy:188
 translate crowdin ev_059_179b9fbe:
 
     # Max 11 "Похоже, решили в отрыв уйти. Даже скорая помощь приезжала и кого-то увозили. А около Алисы сильнее пахнет, потому что у нее дверь открытая была."
     Max 11 "Похоже, решили в отрыв уйти. Даже скорая помощь приезжала и кого-то увозили. А около Алисы сильнее пахнет, потому что у нее дверь открытая была."
 
-# game/scripts/story_01/breakfasts.rpy:172
+# game/scripts/story_01/breakfasts.rpy:189
 translate crowdin ev_059_aa2242dd:
 
     # Ann 12 "Да уж... Хотя, чему тут удивляться? Здесь всё было слишком прекрасно, чтобы так и дальше продолжалось..."
     Ann 12 "Да уж... Хотя, чему тут удивляться? Здесь всё было слишком прекрасно, чтобы так и дальше продолжалось..."
 
-# game/scripts/story_01/breakfasts.rpy:173
+# game/scripts/story_01/breakfasts.rpy:190
 translate crowdin ev_059_f689a51e:
 
     # Max 01 "Хорошо, что ты на Алису ещё не набросилась. Она нормально вчера себя вела."
     Max 01 "Хорошо, что ты на Алису ещё не набросилась. Она нормально вчера себя вела."
 
-# game/scripts/story_01/breakfasts.rpy:176
+# game/scripts/story_01/breakfasts.rpy:193
 translate crowdin ev_059_edcb4f60:
 
     # Alice 12 "Эй, мам, доброе утро! Сразу скажу, я не виновата, что так воняет сигаретами..."
     Alice 12 "Эй, мам, доброе утро! Сразу скажу, я не виновата, что так воняет сигаретами..."
 
-# game/scripts/story_01/breakfasts.rpy:177
+# game/scripts/story_01/breakfasts.rpy:194
 translate crowdin ev_059_51c8efca:
 
     # Ann 01 "Да, Алиса, я знаю. Макс мне уже рассказал, как тут вчера соседи резвились."
     Ann 01 "Да, Алиса, я знаю. Макс мне уже рассказал, как тут вчера соседи резвились."
 
-# game/scripts/story_01/breakfasts.rpy:178
+# game/scripts/story_01/breakfasts.rpy:195
 translate crowdin ev_059_620a320c:
 
     # Alice 11 "Эээ... Да... Точно, соседи. Я в шоке."
     Alice 11 "Эээ... Да... Точно, соседи. Я в шоке."
 
-# game/scripts/story_01/breakfasts.rpy:179
+# game/scripts/story_01/breakfasts.rpy:196
 translate crowdin ev_059_cd2854d8:
 
     # Ann 00 "Ладно, давайте завтракать, а то всё стоит остывает."
     Ann 00 "Ладно, давайте завтракать, а то всё стоит остывает."
 
-# game/scripts/story_01/breakfasts.rpy:185
+# game/scripts/story_01/breakfasts.rpy:203
 translate crowdin ev_059_52677002:
 
     # Ann 10 "Серьёзно?! Это всё, на что у тебя фантазии хватило? Я была в её комнате и там капитально воняет сигаретами."
     Ann 10 "Серьёзно?! Это всё, на что у тебя фантазии хватило? Я была в её комнате и там капитально воняет сигаретами."
 
-# game/scripts/story_01/breakfasts.rpy:186
+# game/scripts/story_01/breakfasts.rpy:204
 translate crowdin ev_059_be1b3900:
 
     # Max 13 "Мам, только меня не наказывай за то, что я хотел её защитить!"
     Max 13 "Мам, только меня не наказывай за то, что я хотел её защитить!"
 
-# game/scripts/story_01/breakfasts.rpy:187
+# game/scripts/story_01/breakfasts.rpy:205
 translate crowdin ev_059_aa33c948:
 
     # Ann 15 "Макс, с ней нужно быть строже, а не защищать. Взрослая девчонка, а до сих пор с нами живёт, да ещё и платья с меня требует. Сейчас я ей устрою... Алиса!"
     Ann 15 "Макс, с ней нужно быть строже, а не защищать. Взрослая девчонка, а до сих пор с нами живёт, да ещё и платья с меня требует. Сейчас я ей устрою... Алиса!"
 
-# game/scripts/story_01/breakfasts.rpy:188
+# game/scripts/story_01/breakfasts.rpy:206
 translate crowdin ev_059_bb1a8414:
 
     # Max 14 "Она просто уже вчера начала в этом раскаиваться, вот я и хотел ей помочь..."
     Max 14 "Она просто уже вчера начала в этом раскаиваться, вот я и хотел ей помочь..."
 
-# game/scripts/story_01/breakfasts.rpy:192
+# game/scripts/story_01/breakfasts.rpy:210
 translate crowdin ev_059_95b0a4ab:
 
     # Ann 15 "Я так, собственно, и думала. Ну, сейчас я ей устрою... Алиса!"
     Ann 15 "Я так, собственно, и думала. Ну, сейчас я ей устрою... Алиса!"
 
-# game/scripts/story_01/breakfasts.rpy:193
+# game/scripts/story_01/breakfasts.rpy:211
 translate crowdin ev_059_f1432f9e:
 
     # Max 14 "Мам, только меня не сдавай..."
     Max 14 "Мам, только меня не сдавай..."
 
-# game/scripts/story_01/breakfasts.rpy:199
+# game/scripts/story_01/breakfasts.rpy:217
 translate crowdin ev_059_alice_punishment_0ff3741a:
 
     # Alice 11 "Зачем так кричать?! Что случилось, мам?"
     Alice 11 "Зачем так кричать?! Что случилось, мам?"
 
-# game/scripts/story_01/breakfasts.rpy:200
+# game/scripts/story_01/breakfasts.rpy:218
 translate crowdin ev_059_alice_punishment_3494e011:
 
     # Ann 16 "Что случилось?! Не притворяйся тут невинной овечкой! Из твоей комнаты несло сигаретами, когда я вернулась ночью. Как будешь оправдываться?"
     Ann 16 "Что случилось?! Не притворяйся тут невинной овечкой! Из твоей комнаты несло сигаретами, когда я вернулась ночью. Как будешь оправдываться?"
 
-# game/scripts/story_01/breakfasts.rpy:201
+# game/scripts/story_01/breakfasts.rpy:219
 translate crowdin ev_059_alice_punishment_eac4c438:
 
     # Alice 12 "Ну... Я... Это... со злости, из-за нервов. Больше не буду."
     Alice 12 "Ну... Я... Это... со злости, из-за нервов. Больше не буду."
 
-# game/scripts/story_01/breakfasts.rpy:202
+# game/scripts/story_01/breakfasts.rpy:220
 translate crowdin ev_059_alice_punishment_95a2d221:
 
     # Ann 15 "Для профилактики я тебя всё равно накажу, чтобы ты помнила - меня лучше не злить! Снимай свои джинсы и подходи ко мне."
     Ann 15 "Для профилактики я тебя всё равно накажу, чтобы ты помнила - меня лучше не злить! Снимай свои джинсы и подходи ко мне."
 
-# game/scripts/story_01/breakfasts.rpy:203
+# game/scripts/story_01/breakfasts.rpy:221
 translate crowdin ev_059_alice_punishment_1f9a88a6:
 
     # Alice 15 "Мам, но тут же Макс... Что, прямо при нём будешь? Пусть он уйдёт!"
     Alice 15 "Мам, но тут же Макс... Что, прямо при нём будешь? Пусть он уйдёт!"
 
-# game/scripts/story_01/breakfasts.rpy:204
+# game/scripts/story_01/breakfasts.rpy:222
 translate crowdin ev_059_alice_punishment_10dd84d9:
 
     # Ann 14 "Нет, Алиса, пусть смотрит. Это ждёт любого, кто меня разозлит. Быстро снимай джинсы и иди сюда!"
     Ann 14 "Нет, Алиса, пусть смотрит. Это ждёт любого, кто меня разозлит. Быстро снимай джинсы и иди сюда!"
 
-# game/scripts/story_01/breakfasts.rpy:209
+# game/scripts/story_01/breakfasts.rpy:227
 translate crowdin ev_059_alice_punishment_681ecdc2:
 
     # Alice 11 "Хорошо... Только не больно чтобы было, ладно?"
     Alice 11 "Хорошо... Только не больно чтобы было, ладно?"
 
-# game/scripts/story_01/breakfasts.rpy:210
+# game/scripts/story_01/breakfasts.rpy:228
 translate crowdin ev_059_alice_punishment_89596878:
 
     # Ann 16 "Живо подошла ко мне!"
     Ann 16 "Живо подошла ко мне!"
 
-# game/scripts/story_01/breakfasts.rpy:214
+# game/scripts/story_01/breakfasts.rpy:232
 translate crowdin ev_059_alice_punishment_dc5c1d21:
 
     # Alice 14 "Ай! Ма-ам! Больно же! Мам, я больше не буду!!!"
     Alice 14 "Ай! Ма-ам! Больно же! Мам, я больше не буду!!!"
 
-# game/scripts/story_01/breakfasts.rpy:215
+# game/scripts/story_01/breakfasts.rpy:233
 translate crowdin ev_059_alice_punishment_104d4ca6:
 
     # Ann 15 "Давай не мамкай тут! Ты знаешь, что я ненавижу сигареты и пока вы живёте со мной, чтобы никакого сигаретного дыма я не чувствовала. Ясно тебе?!"
     Ann 15 "Давай не мамкай тут! Ты знаешь, что я ненавижу сигареты и пока вы живёте со мной, чтобы никакого сигаретного дыма я не чувствовала. Ясно тебе?!"
 
-# game/scripts/story_01/breakfasts.rpy:219
+# game/scripts/story_01/breakfasts.rpy:237
 translate crowdin ev_059_alice_punishment_9bbbdaa1:
 
     # Alice 12 "Да, ясно, мам... Ай! Я всё поняла!"
     Alice 12 "Да, ясно, мам... Ай! Я всё поняла!"
 
-# game/scripts/story_01/breakfasts.rpy:223
+# game/scripts/story_01/breakfasts.rpy:241
 translate crowdin ev_059_alice_punishment_9140a47d:
 
     # Ann 00 "Посмотрим, как ты всё поняла. А теперь надевай джинсы и садимся завтракать."
     Ann 00 "Посмотрим, как ты всё поняла. А теперь надевай джинсы и садимся завтракать."
 
-# game/scripts/story_01/breakfasts.rpy:230
+# game/scripts/story_01/breakfasts.rpy:249
 translate crowdin ev_059_breakfast_cc7efe11:
 
     # Ann 01 "Всем приятного аппетита..."
     Ann 01 "Всем приятного аппетита..."
 
-# game/scripts/story_01/breakfasts.rpy:231
+# game/scripts/story_01/breakfasts.rpy:250
 translate crowdin ev_059_breakfast_364d77b7:
 
     # Max 11 "Ну что, мам, как всё прошло?"
     Max 11 "Ну что, мам, как всё прошло?"
 
-# game/scripts/story_01/breakfasts.rpy:232
+# game/scripts/story_01/breakfasts.rpy:251
 translate crowdin ev_059_breakfast_6e1028e2:
 
     # Ann 03 "Ты о вечере в компании? Всё прошло хорошо, Макс."
     Ann 03 "Ты о вечере в компании? Всё прошло хорошо, Макс."
 
-# game/scripts/story_01/breakfasts.rpy:233
+# game/scripts/story_01/breakfasts.rpy:252
 translate crowdin ev_059_breakfast_d9d40d50:
 
     # Lisa 02 "А как же подробности, мам?"
     Lisa 02 "А как же подробности, мам?"
 
-# game/scripts/story_01/breakfasts.rpy:234
+# game/scripts/story_01/breakfasts.rpy:253
 translate crowdin ev_059_breakfast_a00838f7:
 
     # Ann 02 "Да что там подробности, куча общения с коллегами, вернее с выпившими коллегами. Я сама почти не выпивала, мне моё здоровье и фигура дороги."
     Ann 02 "Да что там подробности, куча общения с коллегами, вернее с выпившими коллегами. Я сама почти не выпивала, мне моё здоровье и фигура дороги."
 
-# game/scripts/story_01/breakfasts.rpy:235
+# game/scripts/story_01/breakfasts.rpy:254
 translate crowdin ev_059_breakfast_a13352e6:
 
     # Max 04 "Правильно, мам, такую шикарную фигуру портить - это преступление! Ты у нас молодчинка!"
     Max 04 "Правильно, мам, такую шикарную фигуру портить - это преступление! Ты у нас молодчинка!"
 
-# game/scripts/story_01/breakfasts.rpy:236
+# game/scripts/story_01/breakfasts.rpy:255
 translate crowdin ev_059_breakfast_9aa64a17:
 
     # Ann 04 "Спасибо, сынок. Я стараюсь."
     Ann 04 "Спасибо, сынок. Я стараюсь."
 
-# game/scripts/story_01/breakfasts.rpy:237
+# game/scripts/story_01/breakfasts.rpy:256
 translate crowdin ev_059_breakfast_f37962b7:
 
     # Alice 11 "Я надеюсь, тебя удостоили того внимания, на которое ты рассчитывала покупая то платье?"
     Alice 11 "Я надеюсь, тебя удостоили того внимания, на которое ты рассчитывала покупая то платье?"
 
-# game/scripts/story_01/breakfasts.rpy:238
+# game/scripts/story_01/breakfasts.rpy:257
 translate crowdin ev_059_breakfast_212b6476:
 
     # Ann 02 "Ох, Алиса, более чем. Кажется, со мной пообщались все мужчины компании, даже совсем юные и начинающие."
     Ann 02 "Ох, Алиса, более чем. Кажется, со мной пообщались все мужчины компании, даже совсем юные и начинающие."
 
-# game/scripts/story_01/breakfasts.rpy:239
+# game/scripts/story_01/breakfasts.rpy:258
 translate crowdin ev_059_breakfast_01cdd7e6:
 
     # Max 13 "А Эрик? С ним у вас что-то... двинулось?"
     Max 13 "А Эрик? С ним у вас что-то... двинулось?"
 
-# game/scripts/story_01/breakfasts.rpy:240
+# game/scripts/story_01/breakfasts.rpy:259
 translate crowdin ev_059_breakfast_3ec8709b:
 
     # Ann 11 "Двинулось? Ты о чём, Макс? Я не понимаю..."
     Ann 11 "Двинулось? Ты о чём, Макс? Я не понимаю..."
 
-# game/scripts/story_01/breakfasts.rpy:241
+# game/scripts/story_01/breakfasts.rpy:260
 translate crowdin ev_059_breakfast_1060c18d:
 
     # Max 12 "По-моему, вы друг другу симпатизируете. Уже целовались?"
     Max 12 "По-моему, вы друг другу симпатизируете. Уже целовались?"
 
-# game/scripts/story_01/breakfasts.rpy:242
+# game/scripts/story_01/breakfasts.rpy:261
 translate crowdin ev_059_breakfast_ad3836df:
 
     # Ann 12 "Макс! Какие вопросы... Нельзя же так спрашивать в лоб! Да и какие вообще поцелуи? Он, конечно, мужчина весьма интересный, но он начальник моего начальника. Даже не знаю, насколько я слышала служебные романы плохо заканчиваются."
     Ann 12 "Макс! Какие вопросы... Нельзя же так спрашивать в лоб! Да и какие вообще поцелуи? Он, конечно, мужчина весьма интересный, но он начальник моего начальника. Даже не знаю, насколько я слышала служебные романы плохо заканчиваются."
 
-# game/scripts/story_01/breakfasts.rpy:243
+# game/scripts/story_01/breakfasts.rpy:262
 translate crowdin ev_059_breakfast_dca08605:
 
     # Max 16 "Ага, можно запросто работу потерять."
     Max 16 "Ага, можно запросто работу потерять."
 
-# game/scripts/story_01/breakfasts.rpy:244
+# game/scripts/story_01/breakfasts.rpy:263
 translate crowdin ev_059_breakfast_d4dbe744:
 
     # Ann 01 "Посмотрим. Что будет, то будет. Вчера меня привёз домой личный водитель Эрика. И как я поняла, теперь он будет возить меня на работу и с работы."
     Ann 01 "Посмотрим. Что будет, то будет. Вчера меня привёз домой личный водитель Эрика. И как я поняла, теперь он будет возить меня на работу и с работы."
 
-# game/scripts/story_01/breakfasts.rpy:245
+# game/scripts/story_01/breakfasts.rpy:264
 translate crowdin ev_059_breakfast_f6e82f39:
 
     # Alice 04 "Вот! Это уже эффект от платья возымел действие."
     Alice 04 "Вот! Это уже эффект от платья возымел действие."
 
-# game/scripts/story_01/breakfasts.rpy:246
+# game/scripts/story_01/breakfasts.rpy:265
 translate crowdin ev_059_breakfast_85657592:
 
     # Lisa 03 "Как здорово! Работаешь всего несколько дней, а у тебя уже есть свой личный водитель!"
     Lisa 03 "Как здорово! Работаешь всего несколько дней, а у тебя уже есть свой личный водитель!"
 
-# game/scripts/story_01/breakfasts.rpy:247
+# game/scripts/story_01/breakfasts.rpy:266
 translate crowdin ev_059_breakfast_e294caf9:
 
     # Max 13 "Это уже явный подкат от Эрика, мам. Тебе лучше отказаться от таких привилегий."
     Max 13 "Это уже явный подкат от Эрика, мам. Тебе лучше отказаться от таких привилегий."
 
-# game/scripts/story_01/breakfasts.rpy:248
+# game/scripts/story_01/breakfasts.rpy:267
 translate crowdin ev_059_breakfast_64e70a85:
 
     # Alice 02 "Ты что, Макс, смеёшься?! Представь, сколько мама сэкономит только на такси!"
     Alice 02 "Ты что, Макс, смеёшься?! Представь, сколько мама сэкономит только на такси!"
 
-# game/scripts/story_01/breakfasts.rpy:249
+# game/scripts/story_01/breakfasts.rpy:268
 translate crowdin ev_059_breakfast_604a0aa2:
 
     # Max 17 "Да, Алиса, ведь тогда тебе платье быстрее купят, я понял. Но от чистого сердца своего личного водителя другим не отдают. Ты же это понимаешь, мам?"
     Max 17 "Да, Алиса, ведь тогда тебе платье быстрее купят, я понял. Но от чистого сердца своего личного водителя другим не отдают. Ты же это понимаешь, мам?"
 
-# game/scripts/story_01/breakfasts.rpy:250
+# game/scripts/story_01/breakfasts.rpy:269
 translate crowdin ev_059_breakfast_292ae7e0:
 
     # Ann 12 "Да, сынок, понимаю. Посмотрим..."
     Ann 12 "Да, сынок, понимаю. Посмотрим..."
 
-# game/scripts/story_01/breakfasts.rpy:251
+# game/scripts/story_01/breakfasts.rpy:270
 translate crowdin ev_059_breakfast_50a60905:
 
     # Max 14 "Как бы, мам, не досмотреться так, что потом должна ещё будешь."
     Max 14 "Как бы, мам, не досмотреться так, что потом должна ещё будешь."
 
-# game/scripts/story_01/breakfasts.rpy:252
+# game/scripts/story_01/breakfasts.rpy:271
 translate crowdin ev_059_breakfast_16e1672d:
 
     # Ann 01 "Знаете, мне кажется, что Эрик порядочный. Я давно не встречала такого мужчину. Понимаю, ты за меня переживаешь, Макс, но хватит об Эрике. Всем большое спасибо за завтрак!"
     Ann 01 "Знаете, мне кажется, что Эрик порядочный. Я давно не встречала такого мужчину. Понимаю, ты за меня переживаешь, Макс, но хватит об Эрике. Всем большое спасибо за завтрак!"
 
-# game/scripts/story_01/breakfasts.rpy:253
+# game/scripts/story_01/breakfasts.rpy:272
 translate crowdin ev_059_breakfast_2248d631:
 
     # Lisa 05 "Да, было очень вкусно."
@@ -806,15 +830,15 @@ translate crowdin ev_059_breakfast_2248d631:
 
 translate crowdin strings:
 
-    # game/scripts/story_01/breakfasts.rpy:62
+    # game/scripts/story_01/breakfasts.rpy:78
     old "Открыто новое задание «Любопытное содержимое»!"
     new "Открыто новое задание «Любопытное содержимое»!"
 
-    # game/scripts/story_01/breakfasts.rpy:164
+    # game/scripts/story_01/breakfasts.rpy:180
     old "Это всё соседи..."
     new "Это всё соседи..."
 
-    # game/scripts/story_01/breakfasts.rpy:164
+    # game/scripts/story_01/breakfasts.rpy:180
     old "Ладно, это Алиса курила..."
     new "Ладно, это Алиса курила..."
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-18 22:58
+﻿# TODO: Translation updated at 2023-09-10 00:31
 
 # game/scripts/story_01/eric.rpy:10
 translate crowdin ev_055_e6d21536:
@@ -349,10 +349,10 @@ translate crowdin ev_056_abadddfc:
     Max 11 "Договорились. Сделаю, что смогу."
 
 # game/scripts/story_01/eric.rpy:145
-translate crowdin ev_056_af7a928f:
+translate crowdin ev_056_52fc9d42:
 
-    # tMax 04 "Вот бы прикупить пакет 18+ для ТВ, но мама хоть как об этом узнает. А было бы круто..."
-    tMax 04 "Вот бы прикупить пакет 18+ для ТВ, но мама хоть как об этом узнает. А было бы круто..."
+    # tMax 04 "Вот бы прикупить пакет 18+ для ТВ, но мама точно об этом узнает. А было бы круто..."
+    tMax 04 "Вот бы прикупить пакет 18+ для ТВ, но мама точно об этом узнает. А было бы круто..."
 
 # game/scripts/story_01/eric.rpy:149
 translate crowdin ev_056_6b39cbac:
@@ -408,37 +408,37 @@ translate crowdin ev_056_dont_meet_cd25b863:
     # tMax 11 "Мама там во всю уже должна переодеваться... Если не тормозить, то можно увидеть её без нижнего белья. Рискнуть или нет?" nointeract
     tMax 11 "Мама там во всю уже должна переодеваться... Если не тормозить, то можно увидеть её без нижнего белья. Рискнуть или нет?" nointeract
 
-# game/scripts/story_01/eric.rpy:183
+# game/scripts/story_01/eric.rpy:185
 translate crowdin ev_056_dont_meet_7de786c8:
 
     # tMax 05 "Обалденно! Как же повезло, что у меня такая горячая мама... Почти голой она выглядит потрясающе, аж глаза отрывать не хочется! Но лучше потихоньку уходить, пока она меня не заметила..." nointeract
     tMax 05 "Обалденно! Как же повезло, что у меня такая горячая мама... Почти голой она выглядит потрясающе, аж глаза отрывать не хочется! Но лучше потихоньку уходить, пока она меня не заметила..." nointeract
 
-# game/scripts/story_01/eric.rpy:191
-translate crowdin ev_056_dont_meet_770caf0c:
+# game/scripts/story_01/eric.rpy:195
+translate crowdin ev_056_dont_meet_4375512d:
 
-    # Ann 13 "Макс! Я же учила тебя стучаться! {p=3}{nw}"
-    Ann 13 "Макс! Я же учила тебя стучаться! {p=3}{nw}"
+    # Ann 13 "Макс! Я же учила тебя стучаться! {p=2}{nw}"
+    Ann 13 "Макс! Я же учила тебя стучаться! {p=2}{nw}"
 
-# game/scripts/story_01/eric.rpy:196
+# game/scripts/story_01/eric.rpy:200
 translate crowdin ev_056_dont_meet_1d5fe807:
 
     # Ann 14 "Нельзя вот так без предупреждения врываться в комнату! Ты почему не спишь?"
     Ann 14 "Нельзя вот так без предупреждения врываться в комнату! Ты почему не спишь?"
 
-# game/scripts/story_01/eric.rpy:197
+# game/scripts/story_01/eric.rpy:201
 translate crowdin ev_056_dont_meet_1e8bb066:
 
     # Max 12 "Извини! Хотел узнать, всё ли в порядке?"
     Max 12 "Извини! Хотел узнать, всё ли в порядке?"
 
-# game/scripts/story_01/eric.rpy:198
+# game/scripts/story_01/eric.rpy:202
 translate crowdin ev_056_dont_meet_f92e7b76:
 
     # Ann 11 "Сынок, я устала. Утром за завтраком обязательно всё расскажу. Беги спать."
     Ann 11 "Сынок, я устала. Утром за завтраком обязательно всё расскажу. Беги спать."
 
-# game/scripts/story_01/eric.rpy:200
+# game/scripts/story_01/eric.rpy:204
 translate crowdin ev_056_dont_meet_b3fa4a4b:
 
     # Max 00 "Понял. Доброй ночи, мам." nointeract

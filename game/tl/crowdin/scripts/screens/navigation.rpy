@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-18 22:58
+﻿# TODO: Translation updated at 2023-09-10 00:31
 
 translate crowdin strings:
 
@@ -86,47 +86,51 @@ translate crowdin strings:
     old "Обучение"
     new "Обучение"
 
-    # game/scripts/screens/navigation.rpy:475
+    # game/scripts/screens/navigation.rpy:365
+    old "Личный дневник"
+    new "Личный дневник"
+
+    # game/scripts/screens/navigation.rpy:477
     old "Скрыть"
     new "Скрыть"
 
-    # game/scripts/screens/navigation.rpy:512
+    # game/scripts/screens/navigation.rpy:514
     old "Продолжение следует..."
     new "Продолжение следует..."
 
-    # game/scripts/screens/navigation.rpy:571
+    # game/scripts/screens/navigation.rpy:573
     old "Что бы выбрать?"
     new "Что бы выбрать?"
 
-    # game/scripts/screens/navigation.rpy:583
+    # game/scripts/screens/navigation.rpy:585
     old "(куплено)"
     new "(куплено)"
 
-    # game/scripts/screens/navigation.rpy:594
+    # game/scripts/screens/navigation.rpy:596
     old "{i}готово{/i}"
     new "{i}готово{/i}"
 
-    # game/scripts/screens/navigation.rpy:649
+    # game/scripts/screens/navigation.rpy:651
     old "ВНИМАНИЕ"
     new "ВНИМАНИЕ"
 
-    # game/scripts/screens/navigation.rpy:650
+    # game/scripts/screens/navigation.rpy:652
     old "КОНТЕНТ ДЛЯ ВЗРОСЛЫХ"
     new "КОНТЕНТ ДЛЯ ВЗРОСЛЫХ"
 
-    # game/scripts/screens/navigation.rpy:654
+    # game/scripts/screens/navigation.rpy:656
     old "Эта игра содержит контент сексуального характера"
     new "Эта игра содержит контент сексуального характера"
 
-    # game/scripts/screens/navigation.rpy:655
+    # game/scripts/screens/navigation.rpy:657
     old "Продолжая, ты подтверждаешь, что достаточно взрослый для такого контента"
     new "Продолжая, ты подтверждаешь, что достаточно взрослый для такого контента"
 
-    # game/scripts/screens/navigation.rpy:657
+    # game/scripts/screens/navigation.rpy:659
     old "Все персонажи, изображённые в этой игре, вымышлены и старше 18 лет"
     new "Все персонажи, изображённые в этой игре, вымышлены и старше 18 лет"
 
-    # game/scripts/screens/navigation.rpy:659
+    # game/scripts/screens/navigation.rpy:661
     old "Продолжить"
     new "Продолжить"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-18 22:58 #|#|# # game/scripts/story_01/annroom.rpy:12 #-#-# translate crowdin ev_ann_dressed_d0c78fcb:
+﻿# TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/annroom.rpy:12 #-#-# translate crowdin ev_ann_dressed_d0c78fcb:
 msgid "[_tMax_s_11_] Сейчас мама должна собираться на работу... [nointeract]"
 msgstr "[_tMax_s_11_] Сейчас мама должна собираться на работу... [nointeract]"
 
@@ -10,75 +10,75 @@ msgstr "[_tMax_s_11_] Сейчас мама должна собираться, �
 msgid "[_tMax_s_11_] Сейчас мама должна собираться, чтобы отправиться на корпоратив... [nointeract]"
 msgstr "[_tMax_s_11_] Сейчас мама должна собираться, чтобы отправиться на корпоратив... [nointeract]"
 
-# game/scripts/story_01/annroom.rpy:35 #-#-# translate crowdin ev_ann_dressed_moment0_d56ec61d:
+# game/scripts/story_01/annroom.rpy:36 #-#-# translate crowdin ev_ann_dressed_moment0_d56ec61d:
 msgid "[_Ann_s_11_] Так, сынок... Ты можешь погулять? А то мне нужно переодеться... [nointeract]"
 msgstr "[_Ann_s_11_] Так, сынок... Ты можешь погулять? А то мне нужно переодеться... [nointeract]"
 
-# game/scripts/story_01/annroom.rpy:39 #-#-# translate crowdin ev_ann_dressed_moment0_188ee092:
+# game/scripts/story_01/annroom.rpy:40 #-#-# translate crowdin ev_ann_dressed_moment0_188ee092:
 msgid "[_Ann_s_02_] Замечательно. Это не займёт много времени. [nointeract]"
 msgstr "[_Ann_s_02_] Замечательно. Это не займёт много времени. [nointeract]"
 
-# game/scripts/story_01/annroom.rpy:52 #-#-# translate crowdin ev_ann_dressed_moment2_770caf0c:
-msgid "[_Ann_s_13_] Макс! Я же учила тебя стучаться! {p=3}{nw}"
-msgstr "[_Ann_s_13_] Макс! Я же учила тебя стучаться! {p=3}{nw}"
+# game/scripts/story_01/annroom.rpy:55 #-#-# translate crowdin ev_ann_dressed_moment2_4375512d:
+msgid "[_Ann_s_13_] Макс! Я же учила тебя стучаться! {p=2}{nw}"
+msgstr "[_Ann_s_13_] Макс! Я же учила тебя стучаться! {p=2}{nw}"
 
-# game/scripts/story_01/annroom.rpy:58 #-#-# translate crowdin ev_ann_dressed_moment2_081d1026:
+# game/scripts/story_01/annroom.rpy:61 #-#-# translate crowdin ev_ann_dressed_moment2_081d1026:
 msgid "[_Ann_s_14_] Нельзя вот так без предупреждения врываться в комнату! Что-то случилось? [nointeract]"
 msgstr "[_Ann_s_14_] Нельзя вот так без предупреждения врываться в комнату! Что-то случилось? [nointeract]"
 
-# game/scripts/story_01/annroom.rpy:71 #-#-# translate crowdin ev_ann_dressed_moment1_35eb6695:
+# game/scripts/story_01/annroom.rpy:76 #-#-# translate crowdin ev_ann_dressed_moment1_35eb6695:
 msgid "[_Ann_s_14_] Макс! Я же учила тебя стучаться! Нельзя вот так без предупреждения врываться в комнату! Что-то случилось? [nointeract]"
 msgstr "[_Ann_s_14_] Макс! Я же учила тебя стучаться! Нельзя вот так без предупреждения врываться в комнату! Что-то случилось? [nointeract]"
 
-# game/scripts/story_01/annroom.rpy:81 #-#-# translate crowdin ev_ann_dressed_in_front_of_max_067e7433:
+# game/scripts/story_01/annroom.rpy:87 #-#-# translate crowdin ev_ann_dressed_in_front_of_max_067e7433:
 msgid "[_Ann_s_11_] Сынок, я собиралась переодеться. Иди пока, займись чем-нибудь... [nointeract]"
 msgstr "[_Ann_s_11_] Сынок, я собиралась переодеться. Иди пока, займись чем-нибудь... [nointeract]"
 
-# game/scripts/story_01/annroom.rpy:95 #-#-# translate crowdin ev_ann_dressed_podium_e120cef9:
+# game/scripts/story_01/annroom.rpy:102 #-#-# translate crowdin ev_ann_dressed_podium_e120cef9:
 msgid "[_Ann_s_02_] Это, конечно, хорошо, что тебе такое нравится, но я не та женщина, которую стоит об этом просить. И вообще, ты ещё маленький для такого. Давай-ка выйди и закрой за собой дверь. [nointeract]"
 msgstr "[_Ann_s_02_] Это, конечно, хорошо, что тебе такое нравится, но я не та женщина, которую стоит об этом просить. И вообще, ты ещё маленький для такого. Давай-ка выйди и закрой за собой дверь. [nointeract]"
 
-# game/scripts/story_01/annroom.rpy:104 #-#-# translate crowdin ev_ann_dressed_podium_0337bbbd:
+# game/scripts/story_01/annroom.rpy:112 #-#-# translate crowdin ev_ann_dressed_podium_0337bbbd:
 msgid "[_Ann_s_15_] Что я слышу! Ещё я в таком виде не расхаживала перед собственным сыном! А ну-ка быстро выйди и закрой дверь! [nointeract]"
 msgstr "[_Ann_s_15_] Что я слышу! Ещё я в таком виде не расхаживала перед собственным сыном! А ну-ка быстро выйди и закрой дверь! [nointeract]"
 
-# game/scripts/story_01/annroom.rpy:116 #-#-# translate crowdin ev_ann_dressed_beauty_b3519d42:
+# game/scripts/story_01/annroom.rpy:125 #-#-# translate crowdin ev_ann_dressed_beauty_b3519d42:
 msgid "[_Ann_s_01_] Спасибо, конечно. Но... Макс, не мог бы ты подождать за дверью, пока я оденусь? [nointeract]"
 msgstr "[_Ann_s_01_] Спасибо, конечно. Но... Макс, не мог бы ты подождать за дверью, пока я оденусь? [nointeract]"
 
-# game/scripts/story_01/annroom.rpy:124 #-#-# translate crowdin ev_ann_dressed_beauty_b9ddac7a:
+# game/scripts/story_01/annroom.rpy:134 #-#-# translate crowdin ev_ann_dressed_beauty_b9ddac7a:
 msgid "[_Ann_s_14_] Вот вспомнишь, тогда и поговорим! А теперь выйди и закрой дверь! [nointeract]"
 msgstr "[_Ann_s_14_] Вот вспомнишь, тогда и поговорим! А теперь выйди и закрой дверь! [nointeract]"
 
-# game/scripts/story_01/annroom.rpy:154 #-#-# translate crowdin ev_ann_sleep_6cd2f106:
+# game/scripts/story_01/annroom.rpy:167 #-#-# translate crowdin ev_ann_sleep_6cd2f106:
 msgid "[_tMax_s_11_] В это время мама обычно спит. Мне кажется, не стоит её будить... [nointeract]"
 msgstr "[_tMax_s_11_] В это время мама обычно спит. Мне кажется, не стоит её будить... [nointeract]"
 
-# game/scripts/story_01/annroom.rpy:159 #-#-# translate crowdin ev_ann_sleep_fa81649f:
+# game/scripts/story_01/annroom.rpy:172 #-#-# translate crowdin ev_ann_sleep_fa81649f:
 msgid "[_tMax_s_03_] Обалденно! Как же повезло, что у меня такая горячая и фигуристая мама... Выглядит потрясающе, аж глаза отрывать не хочется от её изгибов! [nointeract]"
 msgstr "[_tMax_s_03_] Обалденно! Как же повезло, что у меня такая горячая и фигуристая мама... Выглядит потрясающе, аж глаза отрывать не хочется от её изгибов! [nointeract]"
 
-# game/scripts/story_01/annroom.rpy:181 #-#-# translate crowdin ev_024_48cd1387:
+# game/scripts/story_01/annroom.rpy:194 #-#-# translate crowdin ev_024_48cd1387:
 msgid "[_Ann_s_01_] Так, сынок, я отправляюсь на работу. Не безобразничайте тут, пока меня нет..."
 msgstr "[_Ann_s_01_] Так, сынок, я отправляюсь на работу. Не безобразничайте тут, пока меня нет..."
 
-# game/scripts/story_01/annroom.rpy:182 #-#-# translate crowdin ev_024_b6f3ae4d:
+# game/scripts/story_01/annroom.rpy:195 #-#-# translate crowdin ev_024_b6f3ae4d:
 msgid "[_Max_s_01_] Конечно, мам. Хорошего тебе дня!"
 msgstr "[_Max_s_01_] Конечно, мам. Хорошего тебе дня!"
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/annroom.rpy:34
+# §translate crowdin strings: #|#|# # game/scripts/story_01/annroom.rpy:35
 msgid "Конечно, мам. Не буду мешать..."
 msgstr "Конечно, мам. Не буду мешать..."
 
-# game/scripts/story_01/annroom.rpy:38
+# game/scripts/story_01/annroom.rpy:39
 msgid "{i}подождать за дверью, пока мама переоденется{/i}"
 msgstr "{i}подождать за дверью, пока мама переоденется{/i}"
 
-# game/scripts/story_01/annroom.rpy:57
+# game/scripts/story_01/annroom.rpy:60
 msgid "Ухх... А пройтись в этом, как по подиуму можешь?"
 msgstr "Ухх... А пройтись в этом, как по подиуму можешь?"
 
-# game/scripts/story_01/annroom.rpy:57
+# game/scripts/story_01/annroom.rpy:60
 msgid "Да, был вопросик, но от такой красоты я всё позабыл..."
 msgstr "Да, был вопросик, но от такой красоты я всё позабыл..."
 

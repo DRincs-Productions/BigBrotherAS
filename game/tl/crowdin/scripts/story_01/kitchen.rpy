@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-18 22:58
+﻿# TODO: Translation updated at 2023-09-10 00:31
 
 # game/scripts/story_01/kitchen.rpy:15
 translate crowdin ev_alice_clean_e2fdb3e5:
@@ -66,91 +66,91 @@ translate crowdin ev_alice_cooking_6098f7a7:
     # Alice 02 "На это я, на самом деле, и надеялась. Пара лишних рук мне точно не помешает... Пока я здесь со всем закончу и наведу порядок, ты можешь отнести тарелки с едой на веранду." nointeract
     Alice 02 "На это я, на самом деле, и надеялась. Пара лишних рук мне точно не помешает... Пока я здесь со всем закончу и наведу порядок, ты можешь отнести тарелки с едой на веранду." nointeract
 
-# game/scripts/story_01/kitchen.rpy:103
+# game/scripts/story_01/kitchen.rpy:104
 translate crowdin ev_alice_cooking_5e4de809:
 
     # tMax 11 "Блин! Теперь я хочу съесть не только своё, но и макароны Лизы. Уж слишком аппетитно они выглядят и пахнут..." nointeract
     tMax 11 "Блин! Теперь я хочу съесть не только своё, но и макароны Лизы. Уж слишком аппетитно они выглядят и пахнут..." nointeract
 
-# game/scripts/story_01/kitchen.rpy:105
+# game/scripts/story_01/kitchen.rpy:106
 translate crowdin ev_alice_cooking_864b1b34:
 
     # tMax 11 "Ну вот! Алиса себе самые большие котлеты положила... Надо будет хотя бы одной, да поменяться." nointeract
     tMax 11 "Ну вот! Алиса себе самые большие котлеты положила... Надо будет хотя бы одной, да поменяться." nointeract
 
-# game/scripts/story_01/kitchen.rpy:107
+# game/scripts/story_01/kitchen.rpy:108
 translate crowdin ev_alice_cooking_4becd663:
 
     # tMax 11 "А вот это не хорошо! У мамы в тарелке слишком много углеводов. Нужно приглядывать за её фигурой, поэтому отложу немного себе..." nointeract
     tMax 11 "А вот это не хорошо! У мамы в тарелке слишком много углеводов. Нужно приглядывать за её фигурой, поэтому отложу немного себе..." nointeract
 
-# game/scripts/story_01/kitchen.rpy:114
+# game/scripts/story_01/kitchen.rpy:115
 translate crowdin ev_alice_cooking_7d3850f3:
 
     # Alice 11 "Вот ты козлина, Макс! Отвали тогда и не мешай..." nointeract
     Alice 11 "Вот ты козлина, Макс! Отвали тогда и не мешай..." nointeract
 
-# game/scripts/story_01/kitchen.rpy:127
+# game/scripts/story_01/kitchen.rpy:128
 translate crowdin ev_ann_cooking_b9602300:
 
     # Ann 02 "Правда поможешь?! О, это замечательно, сейчас помощник мне будет очень кстати." nointeract
     Ann 02 "Правда поможешь?! О, это замечательно, сейчас помощник мне будет очень кстати." nointeract
 
-# game/scripts/story_01/kitchen.rpy:129
+# game/scripts/story_01/kitchen.rpy:130
 translate crowdin ev_ann_cooking_8bd0ffb2:
 
     # Ann 02 "Отлично! Я буду только рада, если поможешь." nointeract
     Ann 02 "Отлично! Я буду только рада, если поможешь." nointeract
 
-# game/scripts/story_01/kitchen.rpy:140
+# game/scripts/story_01/kitchen.rpy:142
 translate crowdin ev_ann_cooking_c75d83f0:
 
     # Ann 03 "С готовкой я почти закончила, осталось только немного прибраться, но некоторые тарелки с едой ты уже можешь нести на веранду."
     Ann 03 "С готовкой я почти закончила, осталось только немного прибраться, но некоторые тарелки с едой ты уже можешь нести на веранду."
 
-# game/scripts/story_01/kitchen.rpy:141
+# game/scripts/story_01/kitchen.rpy:143
 translate crowdin ev_ann_cooking_69f0d5e1:
 
     # Max 01 "Конечно, мам. Я сейчас всё унесу..."
     Max 01 "Конечно, мам. Я сейчас всё унесу..."
 
-# game/scripts/story_01/kitchen.rpy:147
+# game/scripts/story_01/kitchen.rpy:149
 translate crowdin ev_ann_cooking_5e4de809:
 
     # tMax 11 "Блин! Теперь я хочу съесть не только своё, но и макароны Лизы. Уж слишком аппетитно они выглядят и пахнут..." nointeract
     tMax 11 "Блин! Теперь я хочу съесть не только своё, но и макароны Лизы. Уж слишком аппетитно они выглядят и пахнут..." nointeract
 
-# game/scripts/story_01/kitchen.rpy:149
+# game/scripts/story_01/kitchen.rpy:151
 translate crowdin ev_ann_cooking_864b1b34:
 
     # tMax 11 "Ну вот! Алиса себе самые большие котлеты положила... Надо будет хотя бы одной, да поменяться." nointeract
     tMax 11 "Ну вот! Алиса себе самые большие котлеты положила... Надо будет хотя бы одной, да поменяться." nointeract
 
-# game/scripts/story_01/kitchen.rpy:151
+# game/scripts/story_01/kitchen.rpy:153
 translate crowdin ev_ann_cooking_4becd663:
 
     # tMax 11 "А вот это не хорошо! У мамы в тарелке слишком много углеводов. Нужно приглядывать за её фигурой, поэтому отложу немного себе..." nointeract
     tMax 11 "А вот это не хорошо! У мамы в тарелке слишком много углеводов. Нужно приглядывать за её фигурой, поэтому отложу немного себе..." nointeract
 
-# game/scripts/story_01/kitchen.rpy:160
+# game/scripts/story_01/kitchen.rpy:162
 translate crowdin ev_ann_cooking_ab32928e:
 
     # tMax 11 "Вот бы ещё вспомнить, кому что ставить?! Что-то из этого должно достаться Лизе, но это не точно..." nointeract
     tMax 11 "Вот бы ещё вспомнить, кому что ставить?! Что-то из этого должно достаться Лизе, но это не точно..." nointeract
 
-# game/scripts/story_01/kitchen.rpy:162
+# game/scripts/story_01/kitchen.rpy:164
 translate crowdin ev_ann_cooking_a515b062:
 
     # tMax 11 "Как Алиса столько ест и не толстеет?! Может, потому что часть я перекладываю к себе в тарелку..." nointeract
     tMax 11 "Как Алиса столько ест и не толстеет?! Может, потому что часть я перекладываю к себе в тарелку..." nointeract
 
-# game/scripts/story_01/kitchen.rpy:164
+# game/scripts/story_01/kitchen.rpy:166
 translate crowdin ev_ann_cooking_401cc600:
 
     # tMax 11 "Можно ли вообще удержаться и не съесть всё это не дожидаясь остальных?! Вкуснее мамы никто не готовит..." nointeract
     tMax 11 "Можно ли вообще удержаться и не съесть всё это не дожидаясь остальных?! Вкуснее мамы никто не готовит..." nointeract
 
-# game/scripts/story_01/kitchen.rpy:171
+# game/scripts/story_01/kitchen.rpy:173
 translate crowdin ev_ann_cooking_97e8fc22:
 
     # Ann 12 "Ну вот, а я уже понадеялась! Тогда не мешай..." nointeract
@@ -178,19 +178,19 @@ translate crowdin strings:
     old "Нет, лучше давай сама..."
     new "Нет, лучше давай сама..."
 
-    # game/scripts/story_01/kitchen.rpy:108
+    # game/scripts/story_01/kitchen.rpy:109
     old "{i}приступить к ужину{/i}"
     new "{i}приступить к ужину{/i}"
 
-    # game/scripts/story_01/kitchen.rpy:131
+    # game/scripts/story_01/kitchen.rpy:132
     old "{i}подойти и помочь{/i}"
     new "{i}подойти и помочь{/i}"
 
-    # game/scripts/story_01/kitchen.rpy:131
+    # game/scripts/story_01/kitchen.rpy:132
     old "Хотя, нет, сейчас не могу..."
     new "Хотя, нет, сейчас не могу..."
 
-    # game/scripts/story_01/kitchen.rpy:165
+    # game/scripts/story_01/kitchen.rpy:167
     old "{i}приступить к завтраку{/i}"
     new "{i}приступить к завтраку{/i}"
 
