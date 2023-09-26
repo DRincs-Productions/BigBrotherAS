@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /main/game/tl/crowdin/scripts/screens/laptop.po\n"
+"X-Crowdin-File-ID: 9091\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-09-26 16:37\n"
+
+# TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/laptop.rpy:21
+msgid "ОНЛАЙН-КУРСЫ"
+msgstr "CORSI ONLINE"
+
+# game/scripts/screens/laptop.rpy:21
+msgid "ИНТЕРНЕТ-МАГАЗИН"
+msgstr "NEGOZIO ONLINE"
+
+# game/scripts/screens/laptop.rpy:21
+msgid "ЗАНЯТЬСЯ СВОИМ САЙТОМ"
+msgstr "FARE IL TUO SITO"
+
+# game/scripts/screens/laptop.rpy:21
+msgid "СВОЙ САЙТ"
+msgstr "IL TUO SITO"
+
+# game/scripts/screens/laptop.rpy:21
+msgid "CYBER-БАНК"
+msgstr "CYBER-BANCA"
+
+# game/scripts/screens/laptop.rpy:21
+msgid "ЧИТ-МЕНЮ"
+msgstr "MENU TRUCCHI"
+
+# game/scripts/screens/laptop.rpy:42
+msgid "Назад"
+msgstr "Indietro"
+
+# game/scripts/screens/laptop.rpy:46
+msgid "Выключить"
+msgstr "Spegnere"
+
+# game/scripts/screens/laptop.rpy:52
+msgid "Ждать 10 минут"
+msgstr "Aspettare 10 minuti"
+
+# game/scripts/screens/laptop.rpy:197
+msgid "КУПЛЕНО"
+msgstr "ACQUISTATO"
+
+# game/scripts/screens/laptop.rpy:202
+msgid "КУПИТЬ (недостаточно средств)"
+msgstr "ACQUISTA (fondi insufficienti)"
+
+# game/scripts/screens/laptop.rpy:207
+msgid "КУПИТЬ"
+msgstr "ACQUISTARE"
+
+# game/scripts/screens/laptop.rpy:208
+msgid "Приобрести \"{name}\" за ${price}?"
+msgstr "Acquistare \"{name}\" per ${price}?"
+
+# game/scripts/screens/laptop.rpy:238
+msgid "Скидка [item.sale_percent]%"
+msgstr "Sconto [item.sale_percent]%"
+
+# game/scripts/screens/laptop.rpy:259
+msgid "В данный момент нет доступных товаров. Загляните позже."
+msgstr "Al momento non ci sono prodotti disponibili. Torna a trovarci più tardi."
+
+# game/scripts/screens/laptop.rpy:419
+msgid "Что будем искать?"
+msgstr "Cosa cerchiamo?"
+
+# game/scripts/screens/laptop.rpy:470
+msgid "ВЫГОДНЫЕ ЗАЙМЫ ИНТЕРНЕТ-ПРЕДПРИНИМАТЕЛЯМ"
+msgstr "PRESTITI REDDITIZI AGLI IMPRENDITORI DI INTERNET"
+
+# game/scripts/screens/laptop.rpy:474
+msgid "ВЗЯТЬ КРЕДИТ"
+msgstr "PRENDI UN PRESTITO"
+
+# game/scripts/screens/laptop.rpy:510
+msgid "Общий доход:"
+msgstr "Reddito totale:"
+
+# game/scripts/screens/laptop.rpy:511
+msgid "Последнее начисление:"
+msgstr "Ultimo pagamento:"
+
+# game/scripts/screens/laptop.rpy:554
+msgid "Предыдущая"
+msgstr "Precedente"
+
+# game/scripts/screens/laptop.rpy:561
+msgid "Следующая"
+msgstr "Successivo"
+
+# game/scripts/screens/laptop.rpy:584
+msgid "Массаж"
+msgstr "Massaggio"
+
+# game/scripts/screens/laptop.rpy:588
+msgid "Общение"
+msgstr "Comunicazione"
+
+# game/scripts/screens/laptop.rpy:603
+msgid "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
+msgstr "Hai completato tutti i corsi e le classi disponibili di questa categoria. Forse nuove lezioni appariranno nella prossima versione del gioco."
+
+# game/scripts/screens/laptop.rpy:611
+msgid "Вы уже оплатили этот курс и можете в любой момент включить следующий доступный видеоурок."
+msgstr "Hai già pagato per questo corso e puoi attivare il prossimo video tutorial disponibile in qualsiasi momento."
+
+# game/scripts/screens/laptop.rpy:612
+msgid "Занятие [learn] из 3"
+msgstr "Lezione [learn] di 3"
+
+# game/scripts/screens/laptop.rpy:615
+msgid "НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА"
+msgstr "INIZIA A GUARDARE IL VIDEO TUTORIAL"
+
+# game/scripts/screens/laptop.rpy:619
+msgid "ВЫ УЧИЛИСЬ СОВСЕМ НЕДАВНО. СДЕЛАЙТЕ ПЕРЕРЫВ!"
+msgstr "HAI STUDIATO DI NUOVO. FAI UNA PAUSA!"
+
+# game/scripts/screens/laptop.rpy:627
+msgid "Количество занятий: 3"
+msgstr "Numero di lezioni: 3"
+
+# game/scripts/screens/laptop.rpy:629
+msgid "ПРИОБРЕСТИ ЭТОТ КУРС ЗА $[cource.price]"
+msgstr "PER ACQUISTARE IL CORSO A $[cource.price]"
+
