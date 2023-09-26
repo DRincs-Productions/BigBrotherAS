@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: pt-PT\n"
+"X-Crowdin-File: /main/game/tl/crowdin/scripts/engine/skils.po\n"
+"X-Crowdin-File-ID: 9079\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese\n"
+"Language: pt_PT\n"
+"PO-Revision-Date: 2023-09-26 16:37\n"
+
+# TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/skils.rpy:14
+msgid "скрытность"
+msgstr ""
+
+# game/scripts/engine/skils.rpy:14
+msgid "убеждение"
+msgstr ""
+
+# game/scripts/engine/skils.rpy:14
+msgid "удача"
+msgstr ""
+
+# game/scripts/engine/skils.rpy:14
+msgid "массаж"
+msgstr ""
+
+# game/scripts/engine/skils.rpy:14
+msgid "поцелуи"
+msgstr ""
+
+# game/scripts/engine/skils.rpy:14
+msgid "сексуальный опыт"
+msgstr ""
+
+# game/scripts/engine/skils.rpy:48
+msgid "настроение"
+msgstr ""
+
+# game/scripts/engine/skils.rpy:182
+msgid "Я остался незамеченным!"
+msgstr ""
+
+# game/scripts/engine/skils.rpy:182
+msgid "Убеждение удалось!"
+msgstr ""
+
+# game/scripts/engine/skils.rpy:182
+msgid "Паук найден!"
+msgstr ""
+
+# game/scripts/engine/skils.rpy:190
+msgid "Я чуть не попался!"
+msgstr ""
+
+# game/scripts/engine/skils.rpy:190
+msgid "Вот чёрт, я попался!"
+msgstr ""
+
+# game/scripts/engine/skils.rpy:190
+msgid "Убеждение не удалось!"
+msgstr ""
+
+# game/scripts/engine/skils.rpy:190
+msgid "Безрезультатно!"
+msgstr ""
+
