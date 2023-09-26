@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /main/game/tl/crowdin/scripts/engine/characters.po\n"
+"X-Crowdin-File-ID: 9067\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-09-26 16:36\n"
+
+# TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/characters.rpy:343
+msgid "Я всегда в поисках приключений на свою пятую точку."
+msgstr "Sono sempre alla ricerca di un'avventura sul mio cammino."
+
+# game/scripts/engine/characters.rpy:343
+msgid "Лиза, моя младшая сестрёнка. Милая и весёлая. Она ещё учится в школе.\n"
+"С ней мы общаемся на одной волне, хотя бывает и ссоримся. Но если что-то случается, то защиты она ищет именно у меня."
+msgstr "Lisa, la mia sorellina. È dolce e divertente. Va ancora a scuola.\n"
+"Io e lei siamo sulla stessa lunghezza d'onda, anche se a volte litighiamo. Ma se succede qualcosa, sono io quello a cui si rivolge per proteggersi."
+
+# game/scripts/engine/characters.rpy:343
+msgid "Алиса, моя старшая сестра. Немного стервозная. В любой непонятной ситуации поступает просто, бьёт по лицу.\n"
+"Она недавно закончила школу и, так же, как и я, ищет свой путь, целыми днями сидя за своим ноутбуком."
+msgstr "Alice, la mia sorella maggiore. Un po' stronza. In qualsiasi situazione d'incomprensione, agisce semplicemente dandomi un pugno in faccia.\n"
+"È una neolaureata e, proprio come me, sta cercando la sua strada, stando tutto il giorno seduta al computer."
+
+# game/scripts/engine/characters.rpy:343
+msgid "Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании.\n"
+"Хотя, зарплата у неё вполне приличная, но почти всё уходит на оплату жилья, еду и одежду."
+msgstr "Anna, mia madre. Da qualche anno porta su di sé me e le mie due sorelle. Lavora in un ufficio di un'azienda.\n"
+"Sebbene il suo stipendio sia abbastanza dignitoso, lo spende quasi tutto per l'affitto, il cibo e i vestiti."
+
+# game/scripts/engine/characters.rpy:343
+msgid "Не знаю почему, но при знакомстве с внезапным маминым ухажёром Эриком, я начал чувствовать, что ничего хорошего он в мою жизнь не принесёт.\n"
+"Как и в жизнь кого-либо из моей семьи. Может быть мне кажется, но какой-то он подозрительный..."
+msgstr "Non so perché, ma quando ho conosciuto Eric, l'improvviso fidanzato di mia madre, ho iniziato a pensare che non avrebbe portato nulla di buono nella mia vita.\n"
+"E nemmeno nella vita di chiunque altro della mia famiglia. Forse sono solo io, ma è un po' sospetto..."
+
+# game/scripts/engine/characters.rpy:343
+msgid "Мия, эффектная дама-адвокат. Оказывает юридические услуги для бизнеса моего отца. Похоже, что она профессионал своего дела и это круто.\n"
+"Ведь когда у тебя есть знакомый юрист, жить становится немного спокойнее. А вот то, какая она в жизни мне только предстоит узнать, если повезёт..."
+msgstr "Mia, la splendida donna avvocato. Fornisce servizi legali per l'azienda di mio padre. Sembra che sia una professionista, il che è positivo.\n"
+"Voglio dire, avere un avvocato rende la vita un po' più rilassata. Ma come sia nella vita reale, dovrò solo scoprirlo, se sono fortunato...."
+
+# game/scripts/engine/characters.rpy:352
+msgid "Ужасное"
+msgstr "Terribile"
+
+# game/scripts/engine/characters.rpy:352
+msgid "Плохое"
+msgstr "Male"
+
+# game/scripts/engine/characters.rpy:352
+msgid "Не очень"
+msgstr "Non molto"
+
+# game/scripts/engine/characters.rpy:352
+msgid "Нейтральное"
+msgstr "Neutrale"
+
+# game/scripts/engine/characters.rpy:352
+msgid "Неплохое"
+msgstr "Decente"
+
+# game/scripts/engine/characters.rpy:352
+msgid "Хорошее"
+msgstr "Buono"
+
+# game/scripts/engine/characters.rpy:352
+msgid "Прекрасное"
+msgstr "Perfetto"
+
+# game/scripts/engine/characters.rpy:362
+msgid "Враждебные"
+msgstr "Ostile"
+
+# game/scripts/engine/characters.rpy:362
+msgid "Плохие"
+msgstr "Cattivo"
+
+# game/scripts/engine/characters.rpy:362
+msgid "Неплохие"
+msgstr "Buono"
+
+# game/scripts/engine/characters.rpy:362
+msgid "Хорошие"
+msgstr "Buono"
+
+# game/scripts/engine/characters.rpy:362
+msgid "Тёплые"
+msgstr "Caldo"
+
+# game/scripts/engine/characters.rpy:362
+msgid "Близкие"
+msgstr "Chiudere"
+
+# game/scripts/engine/characters.rpy:375
+msgid "Макс"
+msgstr "Max"
+
+# game/scripts/engine/characters.rpy:380
+msgid "Лиза"
+msgstr "Lisa"
+
+# game/scripts/engine/characters.rpy:383
+msgid "Алиса"
+msgstr "Alice"
+
+# game/scripts/engine/characters.rpy:386
+msgid "Мама"
+msgstr "Mamma"
+
+# game/scripts/engine/characters.rpy:389
+msgid "Мия"
+msgstr "Mia"
+
+# game/scripts/engine/characters.rpy:392
+msgid "Эрик"
+msgstr "Eric"
+
+# game/scripts/engine/characters.rpy:401
+msgid "Я так часто слышу от Алисы различные угрозы и недовольства в свой адрес, что может показаться, будто она меня недолюбливает."
+msgstr "Sento così spesso da Alice varie minacce e lamentele nei miei confronti che può sembrare che non le piaccia."
+
+# game/scripts/engine/characters.rpy:401
+msgid "На самом же деле, она хорошо ко мне относится, просто в детстве ей постоянно приходилось няньчиться со мной и Лизой..."
+msgstr "In realtà, è molto buona con me, solo che da bambina doveva fare da babysitter a me e a Lisa tutto il tempo..."
+
+# game/scripts/engine/characters.rpy:401
+msgid "Из-за этого она выросла с ощущением, что мы украли у неё самое классное время её жизни."
+msgstr "Per questo motivo, è cresciuta con la sensazione che le avessimo rubato il periodo più bello della sua vita."
+
+# game/scripts/engine/characters.rpy:401
+msgid "Можно сказать, что именно я и являюсь причиной её стервозности, а значит именно мне нужно попытаться это как-то исправить..."
+msgstr "Credo che si possa dire che sono io la causa della sua stronzaggine, il che significa che sono io a dover cercare di rimediare in qualche modo..."
+
+# game/scripts/engine/characters.rpy:401
+msgid "Ну, как хорошие... Правильнее будет сказать, почти хорошие. Благодаря моей затее с пауками, Алиса стала ко мне более снисходительна."
+msgstr "Beh, tanto bene quanto bene. Dovrei dire quasi bene. Grazie alla mia storia del ragno, Alice è diventata più indulgente con me."
+
+# game/scripts/engine/characters.rpy:401
+msgid "Правда, пока ещё, далеко не во всём."
+msgstr "Tuttavia, per ora, non in tutto."
+
