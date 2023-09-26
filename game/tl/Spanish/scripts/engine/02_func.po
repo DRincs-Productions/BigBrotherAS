@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /main/game/tl/crowdin/scripts/engine/02_func.po\n"
+"X-Crowdin-File-ID: 9065\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-09-26 16:36\n"
+
+# TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/02_func.rpy:371
+msgid "Скрытность"
+msgstr "Sigilo"
+
+# game/scripts/engine/02_func.rpy:372
+msgid "Убеждение"
+msgstr "Persuasión"
+
+# game/scripts/engine/02_func.rpy:375
+msgid "Настроение {char_name}"
+msgstr "Estado de ánimo {char_name}"
+
