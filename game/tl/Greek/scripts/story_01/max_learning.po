@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /main/game/tl/crowdin/scripts/story_01/max_learning.po\n"
+"X-Crowdin-File-ID: 9135\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"PO-Revision-Date: 2023-09-26 16:40\n"
+
+# TODO: Translation updated at 2023-07-18 22:58 #|#|# # game/scripts/story_01/max_learning.rpy:8 #-#-# translate crowdin ev_029_47925c16:
+msgid "[_Max_s_00_] Пришло время почитать... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/max_learning.rpy:14 #-#-# translate crowdin ev_029_manual_fd324daa:
+msgid "[_Max_s_13_] Хм... куча непонятных слов. Кажется, нужно будет заново перечитать первые главы..."
+msgstr ""
+
+# game/scripts/story_01/max_learning.rpy:17 #-#-# translate crowdin ev_029_manual_41775a3a:
+msgid "[_Max_s_12_] Так, ну с этим я уже разобрался, хорошо... А это что такое? Не ясно. Нужно будет всё осмыслить..."
+msgstr ""
+
+# game/scripts/story_01/max_learning.rpy:20 #-#-# translate crowdin ev_029_manual_b8327ffa:
+msgid "[_Max_s_11_] Ого, вот это здорово! Уже можно делать сайт? А, нет... Ещё не всё понятно... Ну, разберусь в другой раз."
+msgstr ""
+
+# game/scripts/story_01/max_learning.rpy:23 #-#-# translate crowdin ev_029_manual_90d4232e:
+msgid "[_Max_s_12_] Так, ну теперь картина вырисовывается. Осталось разобраться только с мелочами... Или это не мелочи?"
+msgstr ""
+
+# game/scripts/story_01/max_learning.rpy:26 #-#-# translate crowdin ev_029_manual_7b71f292:
+msgid "[_Max_s_01_] Всё, вот теперь точно всё понятно! Я уже могу сделать свой сайт и транслировать на него изображение! Но как получать за это деньги? А, нет, это тоже понятно!"
+msgstr ""
+
+# game/scripts/story_01/max_learning.rpy:46 #-#-# translate crowdin ev_046_23ca8fd9:
+msgid "[_Max_s_01_] Хм... мне кажется такое можно и лёжа на кровати изучать. Надеюсь, меня не станет клонить в сон..."
+msgstr ""
+
+# game/scripts/story_01/max_learning.rpy:49 #-#-# translate crowdin ev_046_66ef962f:
+msgid "[_Max_s_11_] Хорошая штука эти онлайн-курсы. Можно научиться всему, не выходя из дома! Вот только и стоит это немало..."
+msgstr ""
+
+# game/scripts/story_01/max_learning.rpy:52 #-#-# translate crowdin ev_046_81dac6d3:
+msgid "[_Max_s_04_] Не сказать, что это сложное занятие, но знаний, а так же опыта в этом деле нужно много! И теперь я готов закреплять полученные знания на практике..."
+msgstr ""
+
+# game/scripts/story_01/max_learning.rpy:57 #-#-# translate crowdin ev_046_1c72ad2c:
+msgid "[_tMax_s_01_] И раз уж с Алисы это началось, то на ней я и начну практиковаться. Надеюсь, руки она мне не выдернет, если я сделаю что-то не так..."
+msgstr ""
+
+# game/scripts/story_01/max_learning.rpy:62 #-#-# translate crowdin ev_046_66ef962f_1:
+msgid "[_Max_s_11_] Хорошая штука эти онлайн-курсы. Можно научиться всему, не выходя из дома! Вот только и стоит это немало..."
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/story_01/max_learning.rpy:7
+msgid "{i}читать «Веб-стандарты»{/i}"
+msgstr ""
+
+# game/scripts/story_01/max_learning.rpy:15
+msgid "Книга изучена на 20%"
+msgstr ""
+
+# game/scripts/story_01/max_learning.rpy:18
+msgid "Книга изучена на 40%"
+msgstr ""
+
+# game/scripts/story_01/max_learning.rpy:21
+msgid "Книга изучена на 60%"
+msgstr ""
+
+# game/scripts/story_01/max_learning.rpy:24
+msgid "Книга изучена на 80%"
+msgstr ""
+
+# game/scripts/story_01/max_learning.rpy:27
+msgid "Книга полностью изучена"
+msgstr ""
+
+# game/scripts/story_01/max_learning.rpy:47
+msgid "Курс изучен на 33%"
+msgstr ""
+
+# game/scripts/story_01/max_learning.rpy:50
+msgid "Курс изучен на 66%"
+msgstr ""
+
+# game/scripts/story_01/max_learning.rpy:53
+msgid "Курс полностью изучен"
+msgstr ""
+
+# game/scripts/story_01/max_learning.rpy:59
+msgid "Задание «Домашнее обучение массажу» завершено!"
+msgstr ""
+
+# game/scripts/story_01/max_learning.rpy:60
+msgid "Открыто новое задание «Талантливый массажист»!"
+msgstr ""
+
