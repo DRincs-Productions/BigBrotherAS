@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /main/game/tl/crowdin/scripts/story_01/pool.po\n"
+"X-Crowdin-File-ID: 9145\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2023-09-26 16:40\n"
+
+# TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/pool.rpy:10 #-#-# translate crowdin alice_swims_talk_2c2308f4:
+msgid "[_Alice_s_01_] Может быть. А что, тоже хочешь? Ну, присоединяйся... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:17 #-#-# translate crowdin alice_swims_talk_8df2e30a:
+msgid "[_Alice_s_05_] Ухх, как водичка освежает! Такой отдых мне по душе. С огромной радостью только бы загорала и плавала весь день. [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:21 #-#-# translate crowdin alice_swims_talk_4854f023:
+msgid "[_Alice_s_02_] Как хочешь. Я и одна прекрасно поплаваю."
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:22 #-#-# translate crowdin alice_swims_talk_fb0b0639:
+msgid "[_Max_s_01_] Не буду тебе мешать..."
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:30 #-#-# translate crowdin alice_swims_talk_28ec3293:
+msgid "[_Alice_s_01_] Ко мне не надо, а в бассейн, пожалуйста. Можешь попробовать... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:37 #-#-# translate crowdin alice_swims_talk_c48de440:
+msgid "[_Alice_s_05_] Главное до всяких малолетних забав не опускайся. Я хочу отдохнуть без всяких там детских визгов и брызг во все стороны... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:41 #-#-# translate crowdin alice_swims_talk_4854f023_1:
+msgid "[_Alice_s_02_] Как хочешь. Я и одна прекрасно поплаваю."
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:42 #-#-# translate crowdin alice_swims_talk_fb0b0639_1:
+msgid "[_Max_s_01_] Не буду тебе мешать..."
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:58 #-#-# translate crowdin alice_swims_talk_swims_afcd201b:
+msgid "[_tMax_s_01_] Это точно. Я бы тоже только так и отдыхал, если бы у нас был полон двор девчонок в бикини и без... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:65 #-#-# translate crowdin alice_swims_talk_swims_e274d786:
+msgid "[_tMax_s_04_] Но и то, что сейчас есть во дворе, тоже очень неплохо выглядит! И желания появляются очень пошлые... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:72 #-#-# translate crowdin alice_swims_talk_swims_e5abb306:
+msgid "[_Alice_s_02_] Ты уже наплавался, что ли?"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:73 #-#-# translate crowdin alice_swims_talk_swims_d665a78a:
+msgid "[_Max_s_01_] Ага. Давай, не скучай..."
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:88 #-#-# translate crowdin lisa_swims_talk_731b6e1d:
+msgid "[_Lisa_s_01_] Как раз собиралась. Если хочешь, присоединяйся... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:95 #-#-# translate crowdin lisa_swims_talk_9aeae577:
+msgid "[_Lisa_s_05_] Ой, как хорошо! Стояла бы такая погода всегда. Я бы тогда купалась и загорала, пока не надоест. [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:99 #-#-# translate crowdin lisa_swims_talk_fe429d30:
+msgid "[_Lisa_s_02_] Ну и зря! Водичка тёплая."
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:100 #-#-# translate crowdin lisa_swims_talk_469ec5b1:
+msgid "[_Max_s_01_] У меня есть дела..."
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:106 #-#-# translate crowdin lisa_swims_talk_28ca610f:
+msgid "[_Lisa_s_01_] Присоединяйся, если хочешь. Бассейн большой... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:113 #-#-# translate crowdin lisa_swims_talk_be468145:
+msgid "[_Lisa_s_05_] С такой солнечной погодой только и остаётся, что дома прятаться. Но в бассейне куда приятнее... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:117 #-#-# translate crowdin lisa_swims_talk_fe429d30_1:
+msgid "[_Lisa_s_02_] Ну и зря! Водичка тёплая."
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:118 #-#-# translate crowdin lisa_swims_talk_469ec5b1_1:
+msgid "[_Max_s_01_] У меня есть дела..."
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:134 #-#-# translate crowdin lisa_swims_talk_swims_2888b1b8:
+msgid "[_tMax_s_01_] Приятно наблюдать, как Лиза плавает. Так задорно своими стройными ножками двигает... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:141 #-#-# translate crowdin lisa_swims_talk_swims_706e6985:
+msgid "[_tMax_s_04_] А как она под водой красиво смотрится! Так и хочется сделать что-нибудь эдакое... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:149 #-#-# translate crowdin lisa_swims_talk_swims_cd4ffcfe:
+msgid "[_Lisa_s_02_] Ты что, Макс, уже наплавался?"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:150 #-#-# translate crowdin lisa_swims_talk_swims_bae8e776:
+msgid "[_Max_s_01_] Ага. Пора делами заниматься..."
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:167 #-#-# translate crowdin ann_night_swim_talk_b57b44c1:
+msgid "[_Ann_s_02_] Почему бы и нет? Пускай без солнышка, но водичка всё равно тёплая... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:175 #-#-# translate crowdin ann_night_swim_talk_a52a69f0:
+msgid "[_tMax_s_03_] Правильно, такую сногсшибательную фигуру нужно держать в тонусе и красиво подвигаться в воде самое то, перед сном... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:186 #-#-# translate crowdin ann_night_swim_talk_7c507641:
+msgid "[_Ann_s_02_] Немного, чтобы спалось крепче. Ложиться скоро, а сна ни в одном глазу... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:194 #-#-# translate crowdin ann_night_swim_talk_a52a69f0_1:
+msgid "[_tMax_s_03_] Правильно, такую сногсшибательную фигуру нужно держать в тонусе и красиво подвигаться в воде самое то, перед сном... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:214 #-#-# translate crowdin ann_swim_talk_7b0614e9:
+msgid "[_Ann_s_02_] Обязательно! Если хочешь, присоединяйся? Поплаваем вместе... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:221 #-#-# translate crowdin ann_swim_talk_2f495a84:
+msgid "[_Ann_s_04_] Как же хорошо иметь собственный бассейн, да ещё и в таком прекрасном месте. И погода балует. [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:226 #-#-# translate crowdin ann_swim_talk_ac967fd5:
+msgid "[_Ann_s_11_] Ну, как хочешь!"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:227 #-#-# translate crowdin ann_swim_talk_fb0b0639:
+msgid "[_Max_s_01_] Не буду тебе мешать..."
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:236 #-#-# translate crowdin ann_swim_talk_1e085c87:
+msgid "[_Ann_s_02_] Запрыгивай. В такую жаркую погоду милое дело освежиться и поплавать... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:243 #-#-# translate crowdin ann_swim_talk_a9ac540e:
+msgid "[_Ann_s_04_] Лучше места для отдыха и не придумать. Почти, как на дорогом курорте... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:248 #-#-# translate crowdin ann_swim_talk_ac967fd5_1:
+msgid "[_Ann_s_11_] Ну, как хочешь!"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:249 #-#-# translate crowdin ann_swim_talk_fb0b0639_1:
+msgid "[_Max_s_01_] Не буду тебе мешать..."
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:263 #-#-# translate crowdin ann_swim_talk_swims_344421a4:
+msgid "[_tMax_s_01_] Не могу не согласиться с мамой. Но ещё больше мне нравится любоваться тем, как она красиво плавает... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:269 #-#-# translate crowdin ann_swim_talk_swims_00e8e7d2:
+msgid "[_tMax_s_04_] А под водой вообще одно загляденье! Мамины аппетитные формы так и манят сделать что-нибудь непристойное... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:273 #-#-# translate crowdin ann_swim_talk_swims_62441e5e:
+msgid "[_Ann_s_02_] Сынок, давай ещё поплаваем или ты всё?"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:274 #-#-# translate crowdin ann_swim_talk_swims_51d819fe:
+msgid "[_Max_s_01_] Ага. Мне нужно идти..."
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/story_01/pool.rpy:9
+msgid "Здорово, что ты не против!"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:16
+msgid "{i}поплавать с Алисой{/i}"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:57
+msgid "{i}нырнуть под воду{/i}"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:64
+msgid "{i}вынырнуть и закончить плавать{/i}"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:87
+msgid "С радостью!"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:94
+msgid "{i}поплавать с Лизой{/i}"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:140
+msgid "{i}вынырнуть у неё между ног{/i}"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:166
+msgid "{i}любоваться мамой{/i}"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:213
+msgid "Конечно хочу!"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:220
+msgid "{i}поплавать с мамой{/i}"
+msgstr ""
+
+# game/scripts/story_01/pool.rpy:235
+msgid "Я тоже так думаю!"
+msgstr ""
+
