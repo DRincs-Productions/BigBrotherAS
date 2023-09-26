@@ -4,13 +4,13 @@ msgstr ""
 "X-Crowdin-Project: big-brother-as\n"
 "X-Crowdin-Project-ID: 461654\n"
 "X-Crowdin-Language: tr\n"
-"X-Crowdin-File: /main/game/tl/crowdin/scripts/engine/characters.po\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/engine/characters.po\n"
 "X-Crowdin-File-ID: 9067\n"
 "Project-Id-Version: big-brother-as\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-26 16:36\n"
+"PO-Revision-Date: 2023-09-26 17:40\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/characters.rpy:343
 msgid "Я всегда в поисках приключений на свою пятую точку."
@@ -48,71 +48,71 @@ msgstr "Mia, muhteşem bir bayan avukat. Babamın işi için hukuki hizmetler sa
 
 # game/scripts/engine/characters.rpy:352
 msgid "Ужасное"
-msgstr "Kötü"
+msgstr "Korkunç"
 
 # game/scripts/engine/characters.rpy:352
 msgid "Плохое"
-msgstr ""
+msgstr "Kötü"
 
 # game/scripts/engine/characters.rpy:352
 msgid "Не очень"
-msgstr ""
+msgstr "İyi değil"
 
 # game/scripts/engine/characters.rpy:352
 msgid "Нейтральное"
-msgstr ""
+msgstr "Doğal"
 
 # game/scripts/engine/characters.rpy:352
 msgid "Неплохое"
-msgstr ""
+msgstr "Fena değil"
 
 # game/scripts/engine/characters.rpy:352
 msgid "Хорошее"
-msgstr ""
+msgstr "İyi"
 
 # game/scripts/engine/characters.rpy:352
 msgid "Прекрасное"
-msgstr ""
+msgstr "Güzel"
 
 # game/scripts/engine/characters.rpy:362
 msgid "Враждебные"
-msgstr ""
+msgstr "Düşmanca"
 
 # game/scripts/engine/characters.rpy:362
 msgid "Плохие"
-msgstr ""
+msgstr "Kötü"
 
 # game/scripts/engine/characters.rpy:362
 msgid "Неплохие"
-msgstr ""
+msgstr "Fena değil"
 
 # game/scripts/engine/characters.rpy:362
 msgid "Хорошие"
-msgstr ""
+msgstr "İyi"
 
 # game/scripts/engine/characters.rpy:362
 msgid "Тёплые"
-msgstr ""
+msgstr "Ilık"
 
 # game/scripts/engine/characters.rpy:362
 msgid "Близкие"
-msgstr ""
+msgstr "Kapalı"
 
 # game/scripts/engine/characters.rpy:375
 msgid "Макс"
-msgstr ""
+msgstr "Maks"
 
 # game/scripts/engine/characters.rpy:380
 msgid "Лиза"
-msgstr ""
+msgstr "Lisa"
 
 # game/scripts/engine/characters.rpy:383
 msgid "Алиса"
-msgstr ""
+msgstr "Alice"
 
 # game/scripts/engine/characters.rpy:386
 msgid "Мама"
-msgstr ""
+msgstr "Anne"
 
 # game/scripts/engine/characters.rpy:389
 msgid "Мия"
@@ -120,7 +120,7 @@ msgstr "Mia"
 
 # game/scripts/engine/characters.rpy:392
 msgid "Эрик"
-msgstr ""
+msgstr "Eric"
 
 # game/scripts/engine/characters.rpy:401
 msgid "Я так часто слышу от Алисы различные угрозы и недовольства в свой адрес, что может показаться, будто она меня недолюбливает."
