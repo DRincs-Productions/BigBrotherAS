@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /main/game/tl/crowdin/scripts/engine/definitions.po\n"
+"X-Crowdin-File-ID: 9071\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2023-09-26 16:36\n"
+
+# TODO: Translation updated at 2023-07-18 22:58 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/definitions.rpy:24
+msgid "Макса"
+msgstr ""
+
+# game/scripts/engine/definitions.rpy:25
+msgid "Анна"
+msgstr ""
+
+# game/scripts/engine/definitions.rpy:25
+msgid "Анны"
+msgstr ""
+
+# game/scripts/engine/definitions.rpy:26
+msgid "Алисы"
+msgstr ""
+
+# game/scripts/engine/definitions.rpy:27
+msgid "Лизы"
+msgstr ""
+
+# game/scripts/engine/definitions.rpy:30
+msgid "Эрика"
+msgstr ""
+
+# game/scripts/engine/definitions.rpy:31
+msgid "Мии"
+msgstr "Mia"
+
+# game/scripts/engine/definitions.rpy:35
+msgid "Комната Макса и Лизы"
+msgstr "Max ve Lisa'nın odası"
+
+# game/scripts/engine/definitions.rpy:35
+msgid "Комната Алисы"
+msgstr "Alice'in odası"
+
+# game/scripts/engine/definitions.rpy:35
+msgid "Комната Анны"
+msgstr "Anna'nın odası"
+
+# game/scripts/engine/definitions.rpy:35
+msgid "Ванная комната"
+msgstr "Banyo"
+
+# game/scripts/engine/definitions.rpy:35
+msgid "Гостиная"
+msgstr "Oturma odası"
+
+# game/scripts/engine/definitions.rpy:35
+msgid "Веранда"
+msgstr "Teras"
+
+# game/scripts/engine/definitions.rpy:35
+msgid "Двор"
+msgstr "Bahçe"
+
