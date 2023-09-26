@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /main/game/tl/crowdin/scripts/screens/diary.po\n"
+"X-Crowdin-File-ID: 9087\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-09-26 16:37\n"
+
+# TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/diary.rpy:24
+msgid "Задания"
+msgstr "Tâches"
+
+# game/scripts/screens/diary.rpy:27
+msgid "Заметки"
+msgstr "Notes"
+
+# game/scripts/screens/diary.rpy:30
+msgid "Вернуться"
+msgstr "Retourner"
+
+# game/scripts/screens/diary.rpy:54
+msgid "ТЕКУЩИЕ"
+msgstr "ACTUEL"
+
+# game/scripts/screens/diary.rpy:62
+msgid "ВЫПОЛНЕННЫЕ"
+msgstr "EXÉCUTÉ"
+
+# game/scripts/screens/diary.rpy:76
+msgid "ВСЕ"
+msgstr "TOUS"
+
+# game/scripts/screens/diary.rpy:139
+msgid "Сейчас здесь нет заданий"
+msgstr "Il n'y a pas de tâches ici pour le moment"
+
+# game/scripts/screens/diary.rpy:182
+msgid "Завершите задание, чтобы получить награду..."
+msgstr "Terminez la tâche pour obtenir la récompense....."
+
+# game/scripts/screens/diary.rpy:184
+msgid "Нужно приблизиться к завершению задания, чтобы узнать о награде..."
+msgstr "Il faut se rapprocher de la fin de la tâche pour découvrir la récompense..."
+
+# game/scripts/screens/diary.rpy:187
+msgid "НАГРАДА:"
+msgstr "PRIX :"
+
+# game/scripts/screens/diary.rpy:329
+msgid "МОЯ СТАРШАЯ СЕСТРЁНКА"
+msgstr "MA GRANDE SŒUR"
+
+# game/scripts/screens/diary.rpy:340
+msgid "НАШИ ВЗАИМООТНОШЕНИЯ:"
+msgstr "NOTRE RELATION :"
+
