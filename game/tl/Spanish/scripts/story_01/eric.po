@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /main/game/tl/crowdin/scripts/story_01/eric.po\n"
+"X-Crowdin-File-ID: 9121\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-09-26 16:39\n"
+
+# TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/eric.rpy:10 #-#-# translate crowdin ev_055_e6d21536:
+msgid "[_Ann_s_02_] Макс, ты хотел увидеть платье? Вот оно..."
+msgstr "[_Ann_s_02_] Max, ¿querías ver el vestido? Aquí lo tienes..."
+
+# game/scripts/story_01/eric.rpy:11 #-#-# translate crowdin ev_055_596d959c:
+msgid "[_Max_s_05_] Вау! Какое обалденное!"
+msgstr "[_Max_s_05_] ¡Guau! ¡Es increíble!"
+
+# game/scripts/story_01/eric.rpy:12 #-#-# translate crowdin ev_055_3325ed84:
+msgid "[_Ann_s_03_] Правда? Рада, что тебе нравится."
+msgstr "[_Ann_s_03_] ¿Te gusta? Me alegro de que te guste."
+
+# game/scripts/story_01/eric.rpy:13 #-#-# translate crowdin ev_055_27a3114f:
+msgid "[_Max_s_02_] Ещё бы! Вряд ли кому-то оно может не понравиться. Сшито, как будто, прямо под твою фигуру!"
+msgstr "[_Max_s_02_] ¡Claro que sí! No creo que a nadie pueda no gustarle. ¡Parece hecho a tu medida!"
+
+# game/scripts/story_01/eric.rpy:15 #-#-# translate crowdin ev_055_767c7b96:
+msgid "[_Ann_s_04_] Это точно. Когда я его увидела, то сразу почувствовала, что оно будет сидеть на мне идеально. [nointeract]"
+msgstr "[_Ann_s_04_] De eso no hay duda. Cuando lo vi, inmediatamente sentí que me quedaría perfecto. [nointeract]"
+
+# game/scripts/story_01/eric.rpy:19 #-#-# translate crowdin ev_055_6095932c:
+msgid "[_Ann_s_02_] А вот ты мне и скажи... Ну, как тебе?"
+msgstr "[_Ann_s_02_] Bueno, dímelo tú. ¿Qué te parece?"
+
+# game/scripts/story_01/eric.rpy:20 #-#-# translate crowdin ev_055_e8e9423b:
+msgid "[_Max_s_04_] Офигенно! Тебе присуждается звание «Мисс года», не меньше!"
+msgstr "[_Max_s_04_] ¡Impresionante! ¡Te coronan Miss del Año, nada menos!"
+
+# game/scripts/story_01/eric.rpy:21 #-#-# translate crowdin ev_055_66835d8b:
+msgid "[_Ann_s_04_] Ой, да ладно тебе. Приятно, конечно, такое слышать, но какая я «Мисс года»?"
+msgstr "[_Ann_s_04_] Oh, venga ya. Es agradable oír eso, pero ¿qué clase de Miss del Año soy?"
+
+# game/scripts/story_01/eric.rpy:22 #-#-# translate crowdin ev_055_55957652:
+msgid "[_Max_s_01_] Какая? Да самая настоящая!"
+msgstr "[_Max_s_01_] ¿Cuál? La verdadera!"
+
+# game/scripts/story_01/eric.rpy:28 #-#-# translate crowdin ev_055_1e56addd:
+msgid "[_Ann_s_03_] Значит, я правильно сделала, что купила его. Хотя, это было понятно по реакции Алисы."
+msgstr "[_Ann_s_03_] Así que hice bien en comprarlo. Aunque estaba claro por la reacción de Alice."
+
+# game/scripts/story_01/eric.rpy:29 #-#-# translate crowdin ev_055_f7fbd13c:
+msgid "[_Max_s_11_] Ничего себе! Какие откровенные вырезы на платье! Так оно расчитано на отсутствие нижнего белья... Круто!"
+msgstr "[_Max_s_11_] ¡Vaya! ¡Ese vestido es tan revelador! Así que está diseñado para no usar ropa interior.... ¡Genial!"
+
+# game/scripts/story_01/eric.rpy:30 #-#-# translate crowdin ev_055_2cd4944c:
+msgid "[_Ann_s_11_] Ну... да. Согласна, оно не совсем подходит под мероприятие, на которое я отправляюсь. Но что поделать."
+msgstr "[_Ann_s_11_] Bueno... Sí. Estoy de acuerdo, no es realmente apropiado para el evento al que voy. Pero, ¿qué se le va a hacer."
+
+# game/scripts/story_01/eric.rpy:31 #-#-# translate crowdin ev_055_2875b6ad:
+msgid "[_Max_s_03_] Теперь я понимаю, почему Алиса впала в истерику. Она, вроде как, любит всякое такое... вызывающее."
+msgstr "[_Max_s_03_] Ahora entiendo por qué Alice estaba histérica. A ella le gustan las cosas que son, como... provocativas."
+
+# game/scripts/story_01/eric.rpy:35 #-#-# translate crowdin ev_055_41b035f5:
+msgid "[_Ann_s_01_] Ой, это кажется нам сигналят! Должно быть Эрик приехал. Ты не мог бы его встретить, а то мне ещё нужно заскочить в ванную комнату ненадолго?"
+msgstr "[_Ann_s_01_] ¡Oh, eso suena como un claxon! Eric debe estar aquí. ¿Puedes reunirte con él, porque tengo que ir al baño un momento?"
+
+# game/scripts/story_01/eric.rpy:36 #-#-# translate crowdin ev_055_a011a12d:
+msgid "[_Max_s_12_] Эээ... Ну ладно. Сейчас встречу..."
+msgstr "[_Max_s_12_] Erm. De acuerdo. Nos vemos allí..."
+
+# game/scripts/story_01/eric.rpy:38 #-#-# translate crowdin ev_055_686a81cc:
+msgid "[_Ann_s_02_] Спасибо, дорогой. Скажи ему, что я скоро буду. [nointeract]"
+msgstr "[_Ann_s_02_] Gracias, querido. Dile que ya voy. [nointeract]"
+
+# game/scripts/story_01/eric.rpy:47 #-#-# translate crowdin ev_055_b813c829:
+msgid "[_Eric_s_10_] О, привет, парень! Ты должно быть, сейчас вспомню... Макс, кажется?"
+msgstr "[_Eric_s_10_] ¡Oh, hola, muchacho! Tu debes ser, a ver si recuerdo. ¿Max, creo?"
+
+# game/scripts/story_01/eric.rpy:48 #-#-# translate crowdin ev_055_c2507e31:
+msgid "[_Max_s_00_] Да, всё верно. А вы, я так полагаю, Эрик?"
+msgstr "[_Max_s_00_] Sí, así es. ¿Y tú eres Eric, supongo?"
+
+# game/scripts/story_01/eric.rpy:49 #-#-# translate crowdin ev_055_bb6d58e7:
+msgid "[_Eric_s_09_] Ага. А где твоя мама, она ещё собирается?"
+msgstr "[_Eric_s_09_] Sí. ¿Dónde está tu madre? ¿Sigue arreglándose?"
+
+# game/scripts/story_01/eric.rpy:50 #-#-# translate crowdin ev_055_e6807f1c:
+msgid "[_Max_s_11_] Нет, она готова, скоро выйдет. Неплохая тачка у вас!"
+msgstr "[_Max_s_11_] No, está lista, saldrá pronto. ¡Vaya coche que tienes ahí!"
+
+# game/scripts/story_01/eric.rpy:51 #-#-# translate crowdin ev_055_99320cef:
+msgid "[_Eric_s_02_] Да, угрохал много денег, пока восстанавливал её. Да и времени немало это заняло. Но результат того стоил."
+msgstr "[_Eric_s_02_] Sí, gasté mucho dinero restaurándolo. También me llevó mucho tiempo. Pero valió la pena."
+
+# game/scripts/story_01/eric.rpy:52 #-#-# translate crowdin ev_055_f5f83146:
+msgid "[_Max_s_01_] Однозначно стоил."
+msgstr "[_Max_s_01_] Definitivamente vale la pena."
+
+# game/scripts/story_01/eric.rpy:56 #-#-# translate crowdin ev_055_4da6c726:
+msgid "[_Ann_s_01_] А вот и я! Надеюсь, я не заставила вас ждать слишком долго?"
+msgstr "[_Ann_s_01_] ¡Aquí estoy! Espero no haberte hecho esperar demasiado?"
+
+# game/scripts/story_01/eric.rpy:57 #-#-# translate crowdin ev_055_7593616f:
+msgid "[_Eric_s_09_] Нет, что ты, Ань... Ого! Ничего себе... Ты что, собираешься в этом на корпоратив? Серьёзно?!"
+msgstr "[_Eric_s_09_] Nos, vamos, Ann. Wow. Wow. ¿Vas a llevar eso a un evento corporativo? ¡¿En serio?!"
+
+# game/scripts/story_01/eric.rpy:58 #-#-# translate crowdin ev_055_ac2cf64f:
+msgid "[_Ann_s_11_] Ой, Эрик, а что такое? Что-то не так?"
+msgstr "[_Ann_s_11_] Oh, Eric, ¿qué pasa? ¿Pasa algo?"
+
+# game/scripts/story_01/eric.rpy:59 #-#-# translate crowdin ev_055_50cd9a73:
+msgid "[_Eric_s_08_] Даже не знаю, стоит ли тебя везти на это мероприятие в таком великолепном наряде. Тебя придётся весь вечер спасать от приставаний моих коллег-мужчин. Про женщин я вообще молчу..."
+msgstr "[_Eric_s_08_] No sé si debería llevarte a este evento con un traje tan bonito. Tendrás que ser rescatada de mis colegas masculinos toda la noche. Y ni siquiera estoy hablando de las mujeres..."
+
+# game/scripts/story_01/eric.rpy:60 #-#-# translate crowdin ev_055_4c09169f:
+msgid "[_Ann_s_03_] Фух... Вот что ты имел ввиду. А я уже испугалась... И раз так, ты же поможешь мне от них отбиваться?"
+msgstr "[_Ann_s_03_] Uf... Eso es lo que querías decir. Me estaba asustando. Y como ese es el caso, vas a ayudarme a luchar contra ellos, ¿verdad?"
+
+# game/scripts/story_01/eric.rpy:61 #-#-# translate crowdin ev_055_eb3dd23b:
+msgid "[_Eric_s_01_] Ох, Ань, не знаю. Если будешь держаться поближе ко мне, может выжить и получится."
+msgstr "[_Eric_s_01_] Oh, Ann, no lo sé. Si te quedas cerca de mí, tal vez sobrevivas."
+
+# game/scripts/story_01/eric.rpy:62 #-#-# translate crowdin ev_055_5f10d1e7:
+msgid "[_Max_s_17_] Эй! Главное, маму мне верните целой и невредимой!"
+msgstr "[_Max_s_17_] ¡Eh! ¡Quiero a mi madre sana y salva!"
+
+# game/scripts/story_01/eric.rpy:66 #-#-# translate crowdin ev_055_fa85571d:
+msgid "[_Eric_s_03_] Да ладно тебе, мы же шутим... отчасти. Верну в целости и сохранности."
+msgstr "[_Eric_s_03_] Vamos, sólo estamos bromeando. Algo así. La devolveré sana y salva."
+
+# game/scripts/story_01/eric.rpy:67 #-#-# translate crowdin ev_055_1a6cfaf7:
+msgid "[_Ann_s_00_] Сынок, посматривай там за Алисой, пока меня нет. Отчудит ещё что-нибудь со злобы."
+msgstr "[_Ann_s_00_] Hijo, vigila a Alice mientras estoy fuera. Hará algo más por despecho."
+
+# game/scripts/story_01/eric.rpy:68 #-#-# translate crowdin ev_055_a8a1a146:
+msgid "[_Max_s_00_] Хорошо, не волнуйся об этом. Прятного вечера."
+msgstr "[_Max_s_00_] Vale, no te preocupes. Que tengas una buena noche mamá."
+
+# game/scripts/story_01/eric.rpy:69 #-#-# translate crowdin ev_055_73a23927:
+msgid "[_Eric_s_02_] О да, именно таким он и будет, парень. Я не сомневаюсь."
+msgstr "[_Eric_s_02_] Oh sí, eso es exactamente lo que va a ser, chico. Estoy seguro de que lo hará."
+
+# game/scripts/story_01/eric.rpy:73 #-#-# translate crowdin ev_055_11559131:
+msgid "[_Ann_s_01_] До скорого, Макс. Не скучай, к полуночи я должна вернуться."
+msgstr "[_Ann_s_01_] Hasta luego, Max. No me eches de menos, estaré de vuelta a medianoche."
+
+# game/scripts/story_01/eric.rpy:74 #-#-# translate crowdin ev_055_17ea1592:
+msgid "[_Max_s_12_] Да уж надеюсь. До скорого..."
+msgstr "[_Max_s_12_] Sí, eso espero. Nos vemos pronto..."
+
+# game/scripts/story_01/eric.rpy:78 #-#-# translate crowdin ev_055_b47ddb02:
+msgid "[_tMax_s_13_] Хм... Вроде этот Эрик мужик, как мужик, но впечатление остаётся, будто... не знаю. Пока не понятно."
+msgstr "[_tMax_s_13_] Hmm. Este tipo Eric es un hombre, como un hombre, pero todavía se siente como si... no lo sé. Todavía no lo sé."
+
+# game/scripts/story_01/eric.rpy:79 #-#-# translate crowdin ev_055_dcca9378:
+msgid "[_tMax_s_11_] Ну да ладно, пойду-ка я посмотрю, чем там Алиса занимается..."
+msgstr "[_tMax_s_11_] De todos modos, voy a ir a ver lo que Alice está haciendo..."
+
+# game/scripts/story_01/eric.rpy:86 #-#-# translate crowdin ev_055_83aa0de4:
+msgid "[_tMax_s_16_] Фу... Сигаретным дымом воняет. Это что, от соседей принесло или Алиса курит прямо у себя в комнате? [nointeract]"
+msgstr "[_tMax_s_16_] Qué asco. Huele a humo de cigarrillo. ¿Es de los vecinos o Alice está fumando en su habitación? [nointeract]"
+
+# game/scripts/story_01/eric.rpy:91 #-#-# translate crowdin ev_055_922888a1:
+msgid "[_tMax_s_15_] Ого, да Алиса весь страх потеряла! Курить у себя в комнате, когда рядом комната мамы... Вот дурёха!"
+msgstr "[_tMax_s_15_] ¡Vaya, Alice ha perdido el miedo! Fumar en su habitación cuando la habitación de mamá está al lado... ¡Qué idiota!"
+
+# game/scripts/story_01/eric.rpy:95 #-#-# translate crowdin ev_055_a71bc111:
+msgid "[_Alice_s_16_] Макс! Что уставился? Дверь закрой и проваливай."
+msgstr "[_Alice_s_16_] ¡Max! ¿Qué estás mirando? Cierra la puerta y sal."
+
+# game/scripts/story_01/eric.rpy:96 #-#-# translate crowdin ev_055_619b3f39:
+msgid "[_Max_s_11_] Если ты так сильно хочешь позлить маму, шла бы сразу и курила в её постели. По заднице ведь получишь завтра."
+msgstr "[_Max_s_11_] Si tanto quieres molestar a mamá, vete a fumar a su cama. Mañana te azotarán el culo."
+
+# game/scripts/story_01/eric.rpy:97 #-#-# translate crowdin ev_055_d79e00da:
+msgid "[_Alice_s_11_] Нифига я не получу! Всё выветрится к её возвращению. И ты ничего ей не говори, а то я настучу тебе по самому ценному, понял?"
+msgstr "[_Alice_s_11_] ¡No voy a conseguir nada! Todo se habrá ido cuando ella regrese. Y no le digas nada a ella o te patearé las pelotas, ¿entiendes?"
+
+# game/scripts/story_01/eric.rpy:98 #-#-# translate crowdin ev_055_50c7b513:
+msgid "[_Max_s_00_] Ну-ну... Как знаешь."
+msgstr "[_Max_s_00_] Bueno, bueno, bueno. Como quieras."
+
+# game/scripts/story_01/eric.rpy:115 #-#-# translate crowdin ev_056_48c0c3fc:
+msgid "[_tMax_s_11_] Уже полночь... Мама должна вот-вот вернуться. Пожалуй, пойду в гостиную и дождусь её возвращения, а чтобы не сильно скучать, посмотрю ТВ. [nointeract]"
+msgstr "[_tMax_s_11_] Es medianoche. Mamá volverá en cualquier momento. Creo que iré al salón a esperar a que vuelva y veré la tele para entretenerme. [nointeract]"
+
+# game/scripts/story_01/eric.rpy:122 #-#-# translate crowdin ev_056_130fa9c7:
+msgid "[_Alice_s_04_] Эй, Макс, ты что, во времени потерялся? «Спокойной ночи, малыши!» уже давно закончились, пора спать."
+msgstr "[_Alice_s_04_] Hola, Max, ¿estás perdido en el tiempo? \"¡Buenas noches, niños!\" se acabó hace tiempo, es hora de irse a la cama."
+
+# game/scripts/story_01/eric.rpy:123 #-#-# translate crowdin ev_056_1f2962aa:
+msgid "[_Max_s_01_] Смешно. Мне будет так же смешно завтра, когда ты будешь оправдываться перед мамой."
+msgstr "[_Max_s_01_] Tiene gracia. Será igual de gracioso para mí mañana cuando estés dando excusas a mamá."
+
+# game/scripts/story_01/eric.rpy:127 #-#-# translate crowdin ev_056_303b377f:
+msgid "[_Alice_s_11_] Погоди! Ты сюда пришёл маму дожидаться, чтобы меня сдать?! Я же тебя предупреждала..."
+msgstr "[_Alice_s_11_] ¡Espera! ¿Viniste a esperar a mamá para poder delatarme? Te lo advertí..."
+
+# game/scripts/story_01/eric.rpy:128 #-#-# translate crowdin ev_056_1735678b:
+msgid "[_Max_s_04_] Нет, просто спать пока не хочу. А сдавать тебя незачем, на втором этаже и без этого воняет сигаретами."
+msgstr "[_Max_s_04_] No, es sólo que no quiero dormir todavía. Y no hay razón para delatarte, el primer piso ya apesta a cigarrillo."
+
+# game/scripts/story_01/eric.rpy:129 #-#-# translate crowdin ev_056_11c57688:
+msgid "[_Alice_s_15_] Неправда! Ничего там не воняет!"
+msgstr "[_Alice_s_15_] ¡Eso no es verdad! ¡Nada apesta aquí dentro!"
+
+# game/scripts/story_01/eric.rpy:130 #-#-# translate crowdin ev_056_aebbf642:
+msgid "[_Max_s_02_] Ты просто привыкла к этому запаху. Так что готовься, будет попа-вава."
+msgstr "[_Max_s_02_] Sólo estás acostumbrada al olor. Así que prepárate, va a ser una buena azotaina."
+
+# game/scripts/story_01/eric.rpy:134 #-#-# translate crowdin ev_056_d06e45de:
+msgid "[_Alice_s_12_] Вот блин... Слушай, Макс... А ты можешь маме сказать, что это... ну, например... от соседей надуло или ещё что?"
+msgstr "[_Alice_s_12_] Oh, mierda. Escucha, Max. ¿Puedes decirle a mamá que es, como. ya sabes, como. los vecinos hicieron una fiesta o algo así?"
+
+# game/scripts/story_01/eric.rpy:135 #-#-# translate crowdin ev_056_f344309e:
+msgid "[_Max_s_13_] Мне и прошлого раза хватило, когда я тебя начал отмазывать. Больше не хочу."
+msgstr "[_Max_s_13_] La última vez fue suficiente para mí. No quiero volver a hacerlo."
+
+# game/scripts/story_01/eric.rpy:136 #-#-# translate crowdin ev_056_d07f8938:
+msgid "[_Alice_s_15_] Ну по-жа-луй-ста!"
+msgstr "[_Alice_s_15_] ¡Por favor, por favor, por favor!"
+
+# game/scripts/story_01/eric.rpy:137 #-#-# translate crowdin ev_056_7aa2e03c:
+msgid "[_Max_s_11_] Убедить маму будет непросто. Я, может, и попробую, но хочу за это от тебя что-нибудь особенное..."
+msgstr "[_Max_s_11_] Convencer a mamá no será fácil. Podría intentarlo, pero quiero algo especial de ti..."
+
+# game/scripts/story_01/eric.rpy:138 #-#-# translate crowdin ev_056_462d5550:
+msgid "[_Alice_s_11_] Особенное? Это что, например?"
+msgstr "[_Alice_s_11_] ¿Especial? ¿Como qué?"
+
+# game/scripts/story_01/eric.rpy:139 #-#-# translate crowdin ev_056_2155f5f3:
+msgid "[_Max_s_01_] Ну, есть у меня пара идеек, что. Но ты сперва согласись, что будешь мне должна, чтобы я не за зря старался."
+msgstr "[_Max_s_01_] Bueno, tengo un par de ideas. Pero primero tienes que estar de acuerdo en que me lo debes para que no lo intente por nada."
+
+# game/scripts/story_01/eric.rpy:140 #-#-# translate crowdin ev_056_0c5369c9:
+msgid "[_Alice_s_00_] Знаешь, что... Если сможешь отмазать меня перед мамой, то так уж и быть, за мной будет должок. И сразу предупреждаю, осторожнее с желаниями."
+msgstr "[_Alice_s_00_] Te diré una cosa. Si puedes sacarme de encima a mamá, te deberé una. Y para que lo sepas, ten cuidado con lo que deseas."
+
+# game/scripts/story_01/eric.rpy:141 #-#-# translate crowdin ev_056_abadddfc:
+msgid "[_Max_s_11_] Договорились. Сделаю, что смогу."
+msgstr "[_Max_s_11_] Trato hecho. Haré lo que pueda."
+
+# game/scripts/story_01/eric.rpy:145 #-#-# translate crowdin ev_056_52fc9d42:
+msgid "[_tMax_s_04_] Вот бы прикупить пакет 18+ для ТВ, но мама точно об этом узнает. А было бы круто..."
+msgstr ""
+
+# game/scripts/story_01/eric.rpy:149 #-#-# translate crowdin ev_056_6b39cbac:
+msgid "[_tMax_s_03_] У мамы платье, конечно, интересное... И больше всего будоражит то, что под ним больше ничего нет. Вот бы умудриться подсмотреть, как она будет переодеваться."
+msgstr "[_tMax_s_03_] El vestido de mamá es ciertamente interesante..... Y lo más emocionante es que no lleva nada más debajo. Me encantaría poder ver cómo se cambia."
+
+# game/scripts/story_01/eric.rpy:151 #-#-# translate crowdin ev_056_845067ff:
+msgid "[_tMax_s_12_] Ага, вот и какой-то звук во дворе! Наверно, мама приехала. Что мне лучше сделать? [nointeract]"
+msgstr "[_tMax_s_12_] ¡Sí, he oído algo en el patio! Mamá debe estar aquí. ¿Qué debo hacer? [nointeract]"
+
+# game/scripts/story_01/eric.rpy:155 #-#-# translate crowdin ev_056_80c24f36:
+msgid "[_Ann_s_11_] Ой, сынок, я думала ты уже спишь! Меня что ли ждёшь?"
+msgstr "[_Ann_s_11_] ¡Oh, hijo, pensé que ya estarías dormido! ¿Me estás esperando?"
+
+# game/scripts/story_01/eric.rpy:156 #-#-# translate crowdin ev_056_9f852dee:
+msgid "[_Max_s_11_] Естественно! Хотел узнать, всё ли в порядке?"
+msgstr "[_Max_s_11_] ¡Claro que sí! Quería ver si todo estaba bien?"
+
+# game/scripts/story_01/eric.rpy:157 #-#-# translate crowdin ev_056_0de2d31d:
+msgid "[_Ann_s_03_] Да, всё замечательно, но устала. Утром за завтраком обязательно всё расскажу. Беги спать."
+msgstr "[_Ann_s_03_] Sí, todo genial, pero estoy cansada. Te lo contaré todo en el desayuno por la mañana. Vete a la cama."
+
+# game/scripts/story_01/eric.rpy:158 #-#-# translate crowdin ev_056_12ed36ae:
+msgid "[_Max_s_01_] Понял. Ты тоже ложись и отдыхай. Доброй ночи, мам."
+msgstr "[_Max_s_01_] De acuerdo. Vete a la cama y descansa tú también. Buenas noches, mamá."
+
+# game/scripts/story_01/eric.rpy:159 #-#-# translate crowdin ev_056_06576728:
+msgid "[_Ann_s_02_] Да, Макс, приятных тебе снов."
+msgstr "[_Ann_s_02_] Sí, Max, que duermas bien."
+
+# game/scripts/story_01/eric.rpy:168 #-#-# translate crowdin ev_056_dont_meet_c8d23669:
+msgid "[_tMax_s_13_] Я вовремя успел выключить ТВ и притаиться на диване. Жаль, что отсюда ничего не видно, но попка у мамы всё равно зачётная. Пойти что ли за ней..."
+msgstr "[_tMax_s_13_] Apagué la tele justo a tiempo para esconderme en el sofá. Es una pena que no pueda ver nada desde aquí, pero el culo de mi madre sigue siendo bonito. Voy a buscarla..."
+
+# game/scripts/story_01/eric.rpy:174 #-#-# translate crowdin ev_056_dont_meet_cd25b863:
+msgid "[_tMax_s_11_] Мама там во всю уже должна переодеваться... Если не тормозить, то можно увидеть её без нижнего белья. Рискнуть или нет? [nointeract]"
+msgstr "[_tMax_s_11_] Mamá ya debería estar cambiándose... Si no vas más despacio, la verás sin ropa interior. ¿Debería arriesgarme o no? [nointeract]"
+
+# game/scripts/story_01/eric.rpy:185 #-#-# translate crowdin ev_056_dont_meet_7de786c8:
+msgid "[_tMax_s_05_] Обалденно! Как же повезло, что у меня такая горячая мама... Почти голой она выглядит потрясающе, аж глаза отрывать не хочется! Но лучше потихоньку уходить, пока она меня не заметила... [nointeract]"
+msgstr "[_tMax_s_05_] ¡Impresionante! ¡Tengo tanta suerte de tener una madre tan sexy! Se ve increíble casi desnuda, no puedo dejar de mirarla. Pero mejor me voy antes de que me vea. [nointeract]"
+
+# game/scripts/story_01/eric.rpy:195 #-#-# translate crowdin ev_056_dont_meet_4375512d:
+msgid "[_Ann_s_13_] Макс! Я же учила тебя стучаться! {p=2}{nw}"
+msgstr ""
+
+# game/scripts/story_01/eric.rpy:200 #-#-# translate crowdin ev_056_dont_meet_1d5fe807:
+msgid "[_Ann_s_14_] Нельзя вот так без предупреждения врываться в комнату! Ты почему не спишь?"
+msgstr "[_Ann_s_14_] ¡No puedes irrumpir en una habitación así sin avisar! ¿Qué haces levantado?"
+
+# game/scripts/story_01/eric.rpy:201 #-#-# translate crowdin ev_056_dont_meet_1e8bb066:
+msgid "[_Max_s_12_] Извини! Хотел узнать, всё ли в порядке?"
+msgstr "[_Max_s_12_] Lo siento. Sólo quería ver si todo estaba bien?"
+
+# game/scripts/story_01/eric.rpy:202 #-#-# translate crowdin ev_056_dont_meet_f92e7b76:
+msgid "[_Ann_s_11_] Сынок, я устала. Утром за завтраком обязательно всё расскажу. Беги спать."
+msgstr "[_Ann_s_11_] Hijo, estoy cansada. Te lo contaré todo en el desayuno por la mañana. Vete a la cama."
+
+# game/scripts/story_01/eric.rpy:204 #-#-# translate crowdin ev_056_dont_meet_b3fa4a4b:
+msgid "[_Max_s_00_] Понял. Доброй ночи, мам. [nointeract]"
+msgstr "[_Max_s_00_] Entendido. Buenas noches, mamá. [nointeract]"
+
+# §translate crowdin strings: #|#|# # game/scripts/story_01/eric.rpy:14
+msgid "А сзади всё так же идеально?"
+msgstr "¿Sigue siendo perfecto por detrás?"
+
+# game/scripts/story_01/eric.rpy:14
+msgid "В этом платье ты сразишь всех!"
+msgstr "¡Vas a dejar a todos boquiabiertos con este vestido!"
+
+# game/scripts/story_01/eric.rpy:37
+msgid "{i}выйти во двор{/i}"
+msgstr "{i}salir al patio{/i}"
+
+# game/scripts/story_01/eric.rpy:114
+msgid "{i}идти в гостиную{/i}"
+msgstr ""
+
+# game/scripts/story_01/eric.rpy:150
+msgid "Конечно, встретить её!"
+msgstr "A conocerla, por supuesto!"
+
+# game/scripts/story_01/eric.rpy:150
+msgid "Не встречать её!"
+msgstr "¡No la conozcas!"
+
