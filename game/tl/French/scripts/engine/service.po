@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /main/game/tl/crowdin/scripts/engine/service.po\n"
+"X-Crowdin-File-ID: 9077\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-09-26 16:37\n"
+
+# TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/engine/service.rpy:65 #-#-# translate crowdin nothing_to_do_423a776a:
+msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
+msgstr "[_tMax_s_12_] Je n'ai rien d'autre à faire ici pour le moment..."
+
+# game/scripts/engine/service.rpy:410 #-#-# translate crowdin after_buy_d1c26937:
+msgid "[_tMax_s_12_] Да уж... Пришлось потратиться, но надеюсь мне удастся, благодаря этой книге, создать свой сайт и хорошо заработать."
+msgstr "[_tMax_s_12_] Oui... J'ai dû faire des folies, mais j'espère pouvoir, grâce à ce livre, créer mon propre site web et bien gagner ma vie."
+
+# game/scripts/engine/service.rpy:411 #-#-# translate crowdin after_buy_8163c063:
+msgid "[_tMax_s_01_] Но книгу, как и любую другую вещь заказанную по интернету, доставят только завтра, так что пока можно отдыхать..."
+msgstr "[_tMax_s_01_] Mais le livre, comme toute autre chose commandée en ligne, ne sera pas livré avant demain, alors pour l'instant vous pouvez vous reposer..."
+
+# §translate crowdin strings: #|#|# # game/scripts/engine/service.rpy:476
+msgid "Вы хотите ознакомиться с особенностями игры?"
+msgstr "Voulez-vous vous familiariser avec les caractéristiques spéciales du jeu ?"
+
+# game/scripts/engine/service.rpy:476
+msgid "Да, пройти обучение"
+msgstr "Oui, à former"
+
+# game/scripts/engine/service.rpy:476
+msgid "Нет, я всё знаю"
+msgstr "Non, je sais tout."
+
