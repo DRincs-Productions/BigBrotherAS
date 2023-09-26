@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /main/game/tl/crowdin/scripts/story_01/annroom.po\n"
+"X-Crowdin-File-ID: 9103\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-09-26 16:38\n"
+
+# TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/annroom.rpy:12 #-#-# translate crowdin ev_ann_dressed_d0c78fcb:
+msgid "[_tMax_s_11_] Сейчас мама должна собираться на работу... [nointeract]"
+msgstr "[_tMax_s_11_] La mamma deve prepararsi per andare al lavoro... [nointeract]"
+
+# game/scripts/story_01/annroom.rpy:14 #-#-# translate crowdin ev_ann_dressed_b5d134d6:
+msgid "[_tMax_s_11_] Сейчас мама должна собираться, чтобы отправиться вместе со всеми по магазинам... [nointeract]"
+msgstr "[_tMax_s_11_] Ora la mamma deve prepararsi per andare a fare shopping con tutti gli altri... [nointeract]"
+
+# game/scripts/story_01/annroom.rpy:16 #-#-# translate crowdin ev_ann_dressed_536a79cc:
+msgid "[_tMax_s_11_] Сейчас мама должна собираться, чтобы отправиться на корпоратив... [nointeract]"
+msgstr "[_tMax_s_11_] Ora la mamma deve fare i bagagli per andare a un ritiro aziendale... [nointeract]"
+
+# game/scripts/story_01/annroom.rpy:36 #-#-# translate crowdin ev_ann_dressed_moment0_d56ec61d:
+msgid "[_Ann_s_11_] Так, сынок... Ты можешь погулять? А то мне нужно переодеться... [nointeract]"
+msgstr "[_Ann_s_11_] Allora, figliolo... Puoi andare a fare una passeggiata? Perché devo cambiarmi... [nointeract]"
+
+# game/scripts/story_01/annroom.rpy:40 #-#-# translate crowdin ev_ann_dressed_moment0_188ee092:
+msgid "[_Ann_s_02_] Замечательно. Это не займёт много времени. [nointeract]"
+msgstr "[_Ann_s_02_] Perfetto. Non ci vorrà molto. [nointeract]"
+
+# game/scripts/story_01/annroom.rpy:55 #-#-# translate crowdin ev_ann_dressed_moment2_4375512d:
+msgid "[_Ann_s_13_] Макс! Я же учила тебя стучаться! {p=2}{nw}"
+msgstr "[_Ann_s_13_] Max! Ti ho insegnato a bussare! {p=2}{nw}"
+
+# game/scripts/story_01/annroom.rpy:61 #-#-# translate crowdin ev_ann_dressed_moment2_081d1026:
+msgid "[_Ann_s_14_] Нельзя вот так без предупреждения врываться в комнату! Что-то случилось? [nointeract]"
+msgstr "[_Ann_s_14_] Non puoi entrare in una stanza senza preavviso in questo modo! È successo qualcosa? [nointeract]"
+
+# game/scripts/story_01/annroom.rpy:76 #-#-# translate crowdin ev_ann_dressed_moment1_35eb6695:
+msgid "[_Ann_s_14_] Макс! Я же учила тебя стучаться! Нельзя вот так без предупреждения врываться в комнату! Что-то случилось? [nointeract]"
+msgstr "[_Ann_s_14_] Max! Ti ho insegnato a bussare! Non puoi entrare in una stanza senza preavviso in questo modo! C'è qualcosa che non va? [nointeract]"
+
+# game/scripts/story_01/annroom.rpy:87 #-#-# translate crowdin ev_ann_dressed_in_front_of_max_067e7433:
+msgid "[_Ann_s_11_] Сынок, я собиралась переодеться. Иди пока, займись чем-нибудь... [nointeract]"
+msgstr "[_Ann_s_11_] Figlio, stavo per cambiarmi. Vai a fare qualcos'altro... [nointeract]"
+
+# game/scripts/story_01/annroom.rpy:102 #-#-# translate crowdin ev_ann_dressed_podium_e120cef9:
+msgid "[_Ann_s_02_] Это, конечно, хорошо, что тебе такое нравится, но я не та женщина, которую стоит об этом просить. И вообще, ты ещё маленький для такого. Давай-ка выйди и закрой за собой дверь. [nointeract]"
+msgstr "[_Ann_s_02_] È bello che ti piaccia, ma non sono il tipo di donna a cui si dovrebbe chiedere informazioni. Inoltre, sei troppo giovane per questo. Perché non esci e chiudi la porta dietro di te? [nointeract]"
+
+# game/scripts/story_01/annroom.rpy:112 #-#-# translate crowdin ev_ann_dressed_podium_0337bbbd:
+msgid "[_Ann_s_15_] Что я слышу! Ещё я в таком виде не расхаживала перед собственным сыном! А ну-ка быстро выйди и закрой дверь! [nointeract]"
+msgstr "[_Ann_s_15_] Cosa sento! Non mi sono mai pavoneggiata così davanti a mio figlio! Esci e chiudi la porta! [nointeract]"
+
+# game/scripts/story_01/annroom.rpy:125 #-#-# translate crowdin ev_ann_dressed_beauty_b3519d42:
+msgid "[_Ann_s_01_] Спасибо, конечно. Но... Макс, не мог бы ты подождать за дверью, пока я оденусь? [nointeract]"
+msgstr "[_Ann_s_01_] Grazie, naturalmente. Ma... Max, potresti aspettare fuori mentre mi vesto? [nointeract]"
+
+# game/scripts/story_01/annroom.rpy:134 #-#-# translate crowdin ev_ann_dressed_beauty_b9ddac7a:
+msgid "[_Ann_s_14_] Вот вспомнишь, тогда и поговорим! А теперь выйди и закрой дверь! [nointeract]"
+msgstr "[_Ann_s_14_] Se te ne ricorderai, allora ne parleremo! Ora esci e chiudi la porta! [nointeract]"
+
+# game/scripts/story_01/annroom.rpy:167 #-#-# translate crowdin ev_ann_sleep_6cd2f106:
+msgid "[_tMax_s_11_] В это время мама обычно спит. Мне кажется, не стоит её будить... [nointeract]"
+msgstr "[_tMax_s_11_] La mamma di solito dorme a quest'ora. Non credo sia una buona idea svegliarla... [nointeract]"
+
+# game/scripts/story_01/annroom.rpy:172 #-#-# translate crowdin ev_ann_sleep_fa81649f:
+msgid "[_tMax_s_03_] Обалденно! Как же повезло, что у меня такая горячая и фигуристая мама... Выглядит потрясающе, аж глаза отрывать не хочется от её изгибов! [nointeract]"
+msgstr "[_tMax_s_03_] Fantastico! Quanto sono fortunata ad avere una mamma così sexy e formosa... È fantastica, non si riesce a staccare gli occhi dalle sue curve! [nointeract]"
+
+# game/scripts/story_01/annroom.rpy:194 #-#-# translate crowdin ev_024_48cd1387:
+msgid "[_Ann_s_01_] Так, сынок, я отправляюсь на работу. Не безобразничайте тут, пока меня нет..."
+msgstr "[_Ann_s_01_] Va bene, figliolo, vado a lavorare. Non mettere in disordine mentre sono via..."
+
+# game/scripts/story_01/annroom.rpy:195 #-#-# translate crowdin ev_024_b6f3ae4d:
+msgid "[_Max_s_01_] Конечно, мам. Хорошего тебе дня!"
+msgstr "[_Max_s_01_] Certo, mamma. Buona giornata!"
+
+# §translate crowdin strings: #|#|# # game/scripts/story_01/annroom.rpy:35
+msgid "Конечно, мам. Не буду мешать..."
+msgstr "Certo, mamma. Starò fuori dai piedi..."
+
+# game/scripts/story_01/annroom.rpy:39
+msgid "{i}подождать за дверью, пока мама переоденется{/i}"
+msgstr "{i}Aspetta fuori dalla porta mentre la mamma si cambia.{/i}"
+
+# game/scripts/story_01/annroom.rpy:60
+msgid "Ухх... А пройтись в этом, как по подиуму можешь?"
+msgstr "Uh... Si può sfilare in passerella con questo modello?"
+
+# game/scripts/story_01/annroom.rpy:60
+msgid "Да, был вопросик, но от такой красоты я всё позабыл..."
+msgstr "Sì, c'era una domanda, ma con tutta la tua bellezza l'ho dimenticata..."
+
