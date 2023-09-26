@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: pt-PT\n"
+"X-Crowdin-File: /main/game/tl/crowdin/scripts/story_01/lounge_tv.po\n"
+"X-Crowdin-File-ID: 9133\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese\n"
+"Language: pt_PT\n"
+"PO-Revision-Date: 2023-09-26 16:40\n"
+
+# TODO: Translation updated at 2023-07-18 22:58 #|#|# # game/scripts/story_01/lounge_tv.rpy:8 #-#-# translate crowdin ev_ann_tv_talk_df9c7313:
+msgid "[_Ann_s_01_] Да так, всякую ерунду. Хотела какой-нибудь фильм посмотреть. Садись рядом, если тоже делать нечего... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:17 #-#-# translate crowdin ev_ann_tv_talk_ac967fd5:
+msgid "[_Ann_s_11_] Ну, как хочешь!"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:18 #-#-# translate crowdin ev_ann_tv_talk_fb0b0639:
+msgid "[_Max_s_01_] Не буду тебе мешать..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:29 #-#-# translate crowdin ev_018_3377eca5:
+msgid "[_Ann_s_02_] Я не знаю. Мне вот подруга посоветовала фильм с Томом Крузом и Николь Кидман, называется «С широко закрытыми глазами». Смотрел? [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:32 #-#-# translate crowdin ev_018_46fe22a8:
+msgid "[_Ann_s_03_] Отлично! Вот сейчас и посмотрим, что там подруга насоветовала... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:36 #-#-# translate crowdin ev_018_83325946:
+msgid "[_Ann_s_11_] Да? И что ты о нём слышал? Хороший фильм? Стоит смотреть?"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:37 #-#-# translate crowdin ev_018_1f9c5231:
+msgid "[_Max_s_11_] Да, отзывы отличные."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:39 #-#-# translate crowdin ev_018_f963304b:
+msgid "[_Ann_s_03_] Ну, раз отзывы хорошие, тогда, давай смотреть! [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:45 #-#-# translate crowdin ev_018_01f4573a:
+msgid "[_Ann_s_02_] Непривычно смотреть кино на таком большом экране. Прямо, как в кинотеатре..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:50 #-#-# translate crowdin ev_018_4abc4957:
+msgid "[_tMax_s_11_] Интересно, мама хотя бы подозревает, что это эротика? Посмотрим..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:55 #-#-# translate crowdin ev_018_1a6f0c09:
+msgid "[_Ann_s_11_] Ой, кажется, я не посмотрела какой возрастной рейтинг у фильма..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:56 #-#-# translate crowdin ev_018_7161f22c:
+msgid "[_Max_s_04_] Да всё в порядке!"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:61 #-#-# translate crowdin ev_018_53ae7ab4:
+msgid "[_Ann_s_12_] Да уж... В порядке. Ну, если ты стесняешься, можешь закрыть глаза..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:62 #-#-# translate crowdin ev_018_dfc5e990:
+msgid "[_Max_s_01_] Я уже взрослый! И не такое видел!"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:67 #-#-# translate crowdin ev_018_97b8cb6a:
+msgid "[_Ann_s_10_] Да ты что? И где, интересно мне знать? Я когда подключала интернет, выбрала самый безопасный вариант, чтобы оградить вас от такого... Так где ты что там видел?"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:68 #-#-# translate crowdin ev_018_aad5fab8:
+msgid "[_Max_s_03_] Да это не важно. В любом случае, это же популярный фильм с известными актёрами, что тут такого может быть..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:73 #-#-# translate crowdin ev_018_fcd96f37:
+msgid "[_Ann_s_13_] Да, ты прав. Действительно, что... Макс! Чем дальше, тем больше я уверена, что этот фильм не для тебя..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:74 #-#-# translate crowdin ev_018_a3cfc3f2:
+msgid "[_Max_s_11_] Ну сама подумай, стали бы Том Круз и Николь Кидман сниматься в эротике?"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:79 #-#-# translate crowdin ev_018_13d1ab4c:
+msgid "[_Ann_s_11_] Надеюсь, ты закрыл глаза, потому что это уже слишком!"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:80 #-#-# translate crowdin ev_018_148eb120:
+msgid "[_Max_s_13_] Я уже взрослый!"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:85 #-#-# translate crowdin ev_018_61350f0f:
+msgid "[_Ann_s_14_] Я уже десять раз пожалела, что выбрала этот фильм. Подруге ещё нужно будет сказать «спасибо» за то, что не предупредила..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:90 #-#-# translate crowdin ev_018_7ceb08de:
+msgid "[_Max_s_12_] Ты до 30 лет будешь меня оберегать от такого?"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:94 #-#-# translate crowdin ev_018_a9e53812:
+msgid "[_Ann_s_00_] Ты знаешь, может быть... Но да, ты прав. Фильм и правда хороший оказался. Хотя и не для детей, однозначно..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:95 #-#-# translate crowdin ev_018_61c7205b:
+msgid "[_Max_s_04_] Мне тоже понравилось!"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:96 #-#-# translate crowdin ev_018_10a9ef92:
+msgid "[_Ann_s_02_] Жаль, что мы редко с тобой вместе вот так сидим, что-то смотрим. Ну, надеюсь, начало традиции положено. И пусть в следующий раз будет нечто менее... волнующее..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:97 #-#-# translate crowdin ev_018_f0d87f8c:
+msgid "[_Max_s_01_] Конечно, мам!"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:111 #-#-# translate crowdin ev_alice_tv_talk_57475a58:
+msgid "[_Alice_s_01_] Нет, садись, если хочешь. Тут места много... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:116 #-#-# translate crowdin ev_alice_tv_talk_2d944dfc:
+msgid "[_Alice_s_02_] Я просто отдыхаю, и мне без разницы, что смотреть. Что зацепит, то и смотрю... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:121 #-#-# translate crowdin ev_alice_tv_talk_92f5bed5:
+msgid "[_Alice_s_01_] Вот, вроде, неплохой сериал... Его и посмотрим сегодня. Или есть возражения?"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:122 #-#-# translate crowdin ev_alice_tv_talk_e1fcff8e:
+msgid "[_Max_s_11_] Никаких. Его, так его..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:126 #-#-# translate crowdin ev_alice_tv_talk_477252ee:
+msgid "[_tMax_s_01_] Сериал, конечно, занимательный. Да и Алиса глаз радует, но посмотреть порнушку или хотя бы эротику, на таком большом экране, было бы куда занимательнее..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:130 #-#-# translate crowdin ev_alice_tv_talk_6c528a3d:
+msgid "[_Alice_s_04_] Что, Макс, молчишь? Гадости какие-нибудь думаешь?"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:131 #-#-# translate crowdin ev_alice_tv_talk_ca32a908:
+msgid "[_Max_s_04_] Наоборот, о всяком приятном..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:135 #-#-# translate crowdin ev_alice_tv_talk_6f79b263:
+msgid "[_Alice_s_02_] Уже и серия закончилась! Быстро время пролетело..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:136 #-#-# translate crowdin ev_alice_tv_talk_73965df6:
+msgid "[_Max_s_01_] Точно. Хорошо посидели. Ладно, пойду я..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:146 #-#-# translate crowdin ev_alice_tv_talk_0c2a1f2b:
+msgid "[_Alice_s_02_] Ну, как знаешь. Нечего было отвлекать."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:147 #-#-# translate crowdin ev_alice_tv_talk_fb0b0639:
+msgid "[_Max_s_01_] Не буду тебе мешать..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:158 #-#-# translate crowdin ev_038_c86fa31b:
+msgid "[_Ann_s_02_] Да вот, по кабельному какой-то фильм сейчас начнётся. Да и сериалов полно. На чём-то, да остановимся... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:163 #-#-# translate crowdin ev_038_5487208f:
+msgid "[_Ann_s_03_] Я бы вот это посмотрела. Вроде, что-то интересное тут происходит. Если не понравится, то что-нибудь ещё найдём..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:164 #-#-# translate crowdin ev_038_16e847c1:
+msgid "[_Max_s_11_] Я не против это посмотреть..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:169 #-#-# translate crowdin ev_038_b9efffc7:
+msgid "[_tMax_s_01_] Интересно, а мама под полотенцем совсем голая или в трусиках? Эх, вот бы как-то умудриться подсмотреть..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:171 #-#-# translate crowdin ev_038_d37de002:
+msgid "[_tMax_s_01_] Интересно, а мама под халатом совсем голая или в трусиках? Эх, вот бы как-то умудриться подсмотреть..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:175 #-#-# translate crowdin ev_038_84161fdd:
+msgid "[_tMax_s_12_] Вот зря я начал фантазировать, есть на маме трусики или нет! В джинсах стало прям очень тесно, член стоит как памятник! Хорошо, что из-за моей одежды она это не увидит..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:180 #-#-# translate crowdin ev_038_83b78545:
+msgid "[_Ann_s_04_] Ну что, отличный сериал, как мне кажется! А тебе понравилось, Макс? [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:182 #-#-# translate crowdin ev_038_63b20a98:
+msgid "[_Ann_s_02_] Ну, я рада. Ладно, спасибо что посидел со мной. Пойду в свою комнату, хватит глаза портить на сегодня..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:183 #-#-# translate crowdin ev_038_80f5b0f1:
+msgid "[_Max_s_01_] Ага, давай..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:186 #-#-# translate crowdin ev_038_7a5cb61d:
+msgid "[_Ann_s_11_] Пофантазировать? Не поняла, ты о чём..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:187 #-#-# translate crowdin ev_038_729c4d17:
+msgid "[_Max_s_04_] Не бери в голову, это я так, пошутил..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:188 #-#-# translate crowdin ev_038_9f03cc4b:
+msgid "[_Ann_s_02_] Ясно. Ну, спасибо за компанию. Пойду в свою комнату, хватит глаза портить на сегодня..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:189 #-#-# translate crowdin ev_038_9c32b796:
+msgid "[_Max_s_01_] Ага, хорошо посидели..."
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/story_01/lounge_tv.rpy:7
+msgid "Конечно! Что смотреть будем?"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:7
+msgid "Нет. Давай в другой раз..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:28
+msgid "Нет, не слышал о таком. Давай смотреть!"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:28
+msgid "Да, слышал кое-что о нём..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:31
+msgid "{i}начать просмотр{/i}"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:100
+msgid "Открыто новое задание «Что посмотрим, мам?»!"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:110
+msgid "Хорошо. Что смотришь?"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:115
+msgid "Давай смотреть, что интересного показывают..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:115
+msgid "Хочешь, помассирую тебе ножки?"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:157
+msgid "Давай смотреть..."
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:157
+msgid "Мам, хочешь массаж?"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:179
+msgid "Да, хорошо посидели!"
+msgstr ""
+
+# game/scripts/story_01/lounge_tv.rpy:179
+msgid "Да, было о чём пофантазировать!"
+msgstr ""
+
