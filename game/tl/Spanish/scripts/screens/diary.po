@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 17:41\n"
+"PO-Revision-Date: 2023-10-12 22:14\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/diary.rpy:24
 msgid "Задания"
-msgstr ""
+msgstr "Tareas"
 
 # game/scripts/screens/diary.rpy:27
 msgid "Заметки"
-msgstr ""
+msgstr "Notas"
 
 # game/scripts/screens/diary.rpy:30
 msgid "Вернуться"
@@ -34,7 +34,7 @@ msgstr "EJECUTADO"
 
 # game/scripts/screens/diary.rpy:76
 msgid "ВСЕ"
-msgstr ""
+msgstr "TODOS"
 
 # game/scripts/screens/diary.rpy:139
 msgid "Сейчас здесь нет заданий"
@@ -42,21 +42,21 @@ msgstr "No hay asignaciones aquí en este momento"
 
 # game/scripts/screens/diary.rpy:182
 msgid "Завершите задание, чтобы получить награду..."
-msgstr ""
+msgstr "Completa la tarea para obtener la recompensa....."
 
 # game/scripts/screens/diary.rpy:184
 msgid "Нужно приблизиться к завершению задания, чтобы узнать о награде..."
-msgstr ""
+msgstr "Hay que acercarse a completar la tarea para conocer la recompensa..."
 
 # game/scripts/screens/diary.rpy:187
 msgid "НАГРАДА:"
-msgstr ""
+msgstr "PREMIO:"
 
 # game/scripts/screens/diary.rpy:329
 msgid "МОЯ СТАРШАЯ СЕСТРЁНКА"
-msgstr ""
+msgstr "MI HERMANA MAYOR"
 
 # game/scripts/screens/diary.rpy:340
 msgid "НАШИ ВЗАИМООТНОШЕНИЯ:"
-msgstr ""
+msgstr "NUESTRA RELACIÓN:"
 
