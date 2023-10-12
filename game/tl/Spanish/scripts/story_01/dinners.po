@@ -10,39 +10,39 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 17:42\n"
+"PO-Revision-Date: 2023-10-12 22:15\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/dinners.rpy:29 #-#-# translate crowdin ev_dinner_r1_24ac51ec:
 msgid "[_Ann_s_01_] Всем приятного аппетита! Алиса столько всего наготовила сегодня, умничка. Давайте ужинать..."
-msgstr ""
+msgstr "[_Ann_s_01_] ¡Buen provecho a todos! Alice cocinó mucho hoy, buena chica. Vamos a cenar."
 
 # game/scripts/story_01/dinners.rpy:32 #-#-# translate crowdin ev_dinner_r1_0be98adf:
 msgid "[_Alice_s_01_] Ага, я такая! Приятного аппетита..."
-msgstr ""
+msgstr "[_Alice_s_01_] ¡Sí, lo soy! Buen provecho..."
 
 # game/scripts/story_01/dinners.rpy:34 #-#-# translate crowdin ev_dinner_r1_011f98c8:
 msgid "[_Lisa_s_01_] Спасибо, Алиса! Приятного аппетита..."
-msgstr ""
+msgstr "[_Lisa_s_01_] Gracias, Alice. Disfruta...."
 
 # game/scripts/story_01/dinners.rpy:36 #-#-# translate crowdin ev_dinner_r1_1c8a4074:
 msgid "[_tMax_s_11_] Ммм... У Алисы получается готовить всё вкуснее и вкуснее! Денёк получился довольно обычным, поэтому и разговоров каких-то интересных не было. Всё хорошо..."
-msgstr ""
+msgstr "[_tMax_s_11_] Mmmm... La cocina de Alice es cada vez mejor. Fue un día bastante ordinario, así que no hubo conversaciones interesantes. Todo está bien."
 
 # game/scripts/story_01/dinners.rpy:38 #-#-# translate crowdin ev_dinner_r1_0ab12a9d:
 msgid "[_Ann_s_01_] Всем приятного аппетита! Много всего я сегодня наготовила, всем должно понравиться. Давайте ужинать..."
-msgstr ""
+msgstr "[_Ann_s_01_] ¡Buen provecho a todos! He hecho un montón de cosas hoy, todo el mundo debería disfrutar. Vamos a cenar."
 
 # game/scripts/story_01/dinners.rpy:41 #-#-# translate crowdin ev_dinner_r1_3cbf4df6:
 msgid "[_Alice_s_01_] Конечно, мам! Приятного аппетита..."
-msgstr ""
+msgstr "[_Alice_s_01_] ¡Claro, mamá! Buen provecho..."
 
 # game/scripts/story_01/dinners.rpy:43 #-#-# translate crowdin ev_dinner_r1_3cc30d0a:
 msgid "[_Lisa_s_01_] Спасибо, мам! Приятного аппетита..."
-msgstr ""
+msgstr "[_Lisa_s_01_] ¡Gracias, mamá! Buen provecho..."
 
 # game/scripts/story_01/dinners.rpy:45 #-#-# translate crowdin ev_dinner_r1_ed34edee:
 msgid "[_tMax_s_11_] Ммм... Вкуснее, чем готовит мама, больше никто не готовит! Денёк получился довольно обычным, поэтому и разговоров каких-то интересных не было. Всё хорошо..."
-msgstr ""
+msgstr "[_tMax_s_11_] Mmm. Nadie cocina mejor que mamá. Fue un día bastante ordinario, así que no hubo conversaciones interesantes. Todo está bien."
 
 # game/scripts/story_01/dinners.rpy:56 #-#-# translate crowdin ev_009_e3b48c17:
 msgid "[_Ann_s_02_] Рада, что все смогли сегодня собраться. Всем приятного аппетита! Ну, у кого как день прошёл?"
@@ -314,7 +314,7 @@ msgstr "[_Lisa_s_09_] Bien. Pues... La verdad es que no..."
 
 # game/scripts/story_01/dinners.rpy:150 #-#-# translate crowdin ev_047_51012997:
 msgid "[_Ann_s_15_] Не очень?! Лиза, я уже знаю, что ты получила двойку! Хочешь, чтобы и тебя выперли из школы, как нашего балбеса Макса?"
-msgstr ""
+msgstr "[_Ann_s_15_] ¡¿No está bien?! ¡Lisa, ya sé que tienes una \"F\"! ¿Quieres que te echen de la escuela como a nuestro tonto Max?"
 
 # game/scripts/story_01/dinners.rpy:151 #-#-# translate crowdin ev_047_776de7bd:
 msgid "[_Max_s_13_] Эй! Меня же не за знания выгнали! Я хорошо учился..."
@@ -430,7 +430,7 @@ msgstr "[_Ann_s_03_] Bueno, no me adelantaré, pero creo que su interés en mí 
 
 # game/scripts/story_01/dinners.rpy:211 #-#-# translate crowdin ev_047_3ad83dba:
 msgid "[_Max_s_01_] Мам, мне кажется, наличие трёх детей у такой шикарной женщины, как ты, должно только восхищать."
-msgstr ""
+msgstr "[_Max_s_01_] Mamá, creo que tener tres hijos con una mujer hermosa como tú debe ser admirado."
 
 # game/scripts/story_01/dinners.rpy:212 #-#-# translate crowdin ev_047_63002386:
 msgid "[_Ann_s_04_] Ой, сынок, спасибо! Очень приятно такое слышать. Возможно, на этом мероприятии мне удастся узнать его получше. Потому что в офисе было несколько не до этого."
@@ -594,7 +594,7 @@ msgstr "[_Max_s_01_] Sí, gracias a todos..."
 
 # §translate crowdin strings: #|#|# # game/scripts/story_01/dinners.rpy:96
 msgid "Открыто новое задание «Школьный секретик Лизы»!"
-msgstr ""
+msgstr "Una nueva misión, El secreto escolar de Lisa, ¡está abierta!"
 
 # game/scripts/story_01/dinners.rpy:137
 msgid "Открыто новое задание «Арахнофобия»!"
