@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 17:43\n"
+"PO-Revision-Date: 2023-10-12 22:15\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/eric.rpy:10 #-#-# translate crowdin ev_055_e6d21536:
 msgid "[_Ann_s_02_] Макс, ты хотел увидеть платье? Вот оно..."
@@ -246,7 +246,7 @@ msgstr "[_Max_s_11_] Trato hecho. Haré lo que pueda."
 
 # game/scripts/story_01/eric.rpy:145 #-#-# translate crowdin ev_056_52fc9d42:
 msgid "[_tMax_s_04_] Вот бы прикупить пакет 18+ для ТВ, но мама точно об этом узнает. А было бы круто..."
-msgstr ""
+msgstr "[_tMax_s_04_] Me encantaría conseguir el paquete 18+ para la tele, pero mi madre se enteraría. Sería genial."
 
 # game/scripts/story_01/eric.rpy:149 #-#-# translate crowdin ev_056_6b39cbac:
 msgid "[_tMax_s_03_] У мамы платье, конечно, интересное... И больше всего будоражит то, что под ним больше ничего нет. Вот бы умудриться подсмотреть, как она будет переодеваться."
@@ -290,7 +290,7 @@ msgstr "[_tMax_s_05_] ¡Impresionante! ¡Tengo tanta suerte de tener una madre t
 
 # game/scripts/story_01/eric.rpy:195 #-#-# translate crowdin ev_056_dont_meet_4375512d:
 msgid "[_Ann_s_13_] Макс! Я же учила тебя стучаться! {p=2}{nw}"
-msgstr ""
+msgstr "[_Ann_s_13_] ¡Max! ¡Yo te enseñé a golpear! {p=2}{nw}"
 
 # game/scripts/story_01/eric.rpy:200 #-#-# translate crowdin ev_056_dont_meet_1d5fe807:
 msgid "[_Ann_s_14_] Нельзя вот так без предупреждения врываться в комнату! Ты почему не спишь?"
@@ -322,7 +322,7 @@ msgstr "{i}salir al patio{/i}"
 
 # game/scripts/story_01/eric.rpy:114
 msgid "{i}идти в гостиную{/i}"
-msgstr ""
+msgstr "{i}para ir a la sala de estar{/i}"
 
 # game/scripts/story_01/eric.rpy:150
 msgid "Конечно, встретить её!"
