@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 17:42\n"
+"PO-Revision-Date: 2023-10-12 22:14\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/tutorial.rpy:14
 msgid "Главная панель игры располагается внизу."
@@ -172,7 +172,7 @@ msgstr "Ahora Lisa tiene que prepararse para la escuela..."
 
 # game/scripts/screens/tutorial.rpy:291
 msgid "{i}заглянуть в окно{/i}"
-msgstr ""
+msgstr "{i}asómate a la ventana"
 
 # game/scripts/screens/tutorial.rpy:291
 msgid "Шанс"
