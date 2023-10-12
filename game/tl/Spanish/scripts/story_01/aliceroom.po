@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 17:42\n"
+"PO-Revision-Date: 2023-10-12 22:14\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/aliceroom.rpy:10 #-#-# translate crowdin ev_alice_dressed_51996b14:
 msgid "[_tMax_s_11_] Сейчас Алиса должна собираться, чтобы отправиться вместе со всеми по магазинам... [nointeract]"
@@ -26,7 +26,7 @@ msgstr "[_tMax_s_03_] ¡Que maravilloso! Tengo muchas ganas de silbar de admirac
 
 # game/scripts/story_01/aliceroom.rpy:70 #-#-# translate crowdin ev_alice_dressed_voy_door_6349aa0c:
 msgid "[_Alice_s_14_] Макс! Ты офигел что ли?! {p=2}{nw}"
-msgstr ""
+msgstr "[_Alice_s_14_] ¡Max! ¡¿Estás loco?! {p=2}{nw}"
 
 # game/scripts/story_01/aliceroom.rpy:76 #-#-# translate crowdin ev_alice_dressed_voy_door_5db8bd0e:
 msgid "[_Alice_s_15_] Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла! [nointeract]"
@@ -42,7 +42,7 @@ msgstr "[_Alice_s_02_] Eso es genial. ¡Cierre la puerta! [nointeract]"
 
 # game/scripts/story_01/aliceroom.rpy:108 #-#-# translate crowdin ev_alice_dressed_moment2_6349aa0c:
 msgid "[_Alice_s_14_] Макс! Ты офигел что ли?! {p=2}{nw}"
-msgstr ""
+msgstr "[_Alice_s_14_] ¡Max! ¡¿Estás loco?! {p=2}{nw}"
 
 # game/scripts/story_01/aliceroom.rpy:114 #-#-# translate crowdin ev_alice_dressed_moment2_5db8bd0e:
 msgid "[_Alice_s_15_] Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла! [nointeract]"
@@ -106,19 +106,19 @@ msgstr "[_tMax_s_15_] ¡Ay! Ella realmente no está dormida. Debería tratar de 
 
 # game/scripts/story_01/aliceroom.rpy:321 #-#-# translate crowdin ev_068_fac47adc:
 msgid "[_Alice_s_11_] Опять ты! Совсем что ли обнаглел, извращенец? Нечего тебе делать в моей комнате, тем более я ухожу гулять! Не вздумай тут шариться..."
-msgstr ""
+msgstr "[_Alice_s_11_] ¡Tú otra vez! ¿Tienes el valor, pervertido? ¡No tienes nada que hacer en mi habitación, sobre todo porque voy a salir! No te atrevas a husmear."
 
 # game/scripts/story_01/aliceroom.rpy:324 #-#-# translate crowdin ev_068_8810b776:
 msgid "[_Alice_s_01_] И что это ты тут нарисовался, Макс? Я пошла гулять. Не вздумай шариться в моей комнате!"
-msgstr ""
+msgstr "[_Alice_s_01_] ¿Qué haces aquí, Max? Fui a dar un paseo. ¡No te metas en mi habitación!"
 
 # game/scripts/story_01/aliceroom.rpy:325 #-#-# translate crowdin ev_068_07c6fd9a:
 msgid "[_Max_s_01_] Да больно надо. Смотри, чтобы голову не напекло!"
-msgstr ""
+msgstr "[_Max_s_01_] Duele. ¡No dejes que se te caliente la cabeza!"
 
 # §translate crowdin strings: #|#|# # game/scripts/story_01/aliceroom.rpy:16
 msgid "{i}постучаться{/i}"
-msgstr ""
+msgstr "{i}golpear"
 
 # game/scripts/story_01/aliceroom.rpy:16
 msgid "{i}войти в комнату{/i}"
@@ -146,7 +146,7 @@ msgstr "{i}esperar afuera de la puerta a que Lisa se cambie de vestido{/i}"
 
 # game/scripts/story_01/aliceroom.rpy:232
 msgid "{i}прокрасться в комнату{/i}"
-msgstr ""
+msgstr "{i}colarse en la habitación{/i}"
 
 # game/scripts/story_01/aliceroom.rpy:240
 msgid "{i}подложить паука к Алисе{/i}"
