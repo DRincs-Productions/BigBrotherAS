@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 17:44\n"
+"PO-Revision-Date: 2023-10-12 22:15\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/myroom.rpy:12 #-#-# translate crowdin ev_lisa_dressed_79ffde85:
 msgid "[_tMax_s_11_] Сейчас Лиза должна собираться в школу... [nointeract]"
@@ -62,7 +62,7 @@ msgstr "[_Lisa_s_02_] Gracias, Max. ¡Seré rápida! [nointeract]"
 
 # game/scripts/story_01/myroom.rpy:167 #-#-# translate crowdin ev_lisa_dressed_moment2_7563d1c8:
 msgid "[_Lisa_s_14_] Макс! Я не одета!!! {p=2}{nw}"
-msgstr ""
+msgstr "[_Lisa_s_14_] ¡Max! ¡¡¡No estoy vestida!!! {p=2}{nw}"
 
 # game/scripts/story_01/myroom.rpy:173 #-#-# translate crowdin ev_lisa_dressed_moment2_6be878fb:
 msgid "[_Lisa_s_15_] Быстро закрой дверь с той стороны и не входи, пока я не переоденусь! [nointeract]"
@@ -128,7 +128,7 @@ msgstr "[_Lisa_s_01_] Oye, mirón, me voy a la escuela. No me eches de menos..."
 
 # game/scripts/story_01/myroom.rpy:381 #-#-# translate crowdin ev_023_ad8fc002:
 msgid "[_Lisa_s_01_] Эй, любитель заглядывать куда не надо, я пошла гулять. Не скучай тут без меня..."
-msgstr ""
+msgstr "[_Lisa_s_01_] Oye, mirón, voy a salir. No me eches de menos."
 
 # game/scripts/story_01/myroom.rpy:385 #-#-# translate crowdin ev_023_131e32c4:
 msgid "[_Lisa_s_01_] Эй, Макс, я пошла в школу. Не скучай тут без меня..."
@@ -136,7 +136,7 @@ msgstr "[_Lisa_s_01_] Oye, Max, me voy a la escuela. No me eches de menos..."
 
 # game/scripts/story_01/myroom.rpy:387 #-#-# translate crowdin ev_023_284585e5:
 msgid "[_Lisa_s_01_] Эй, Макс, я пошла гулять. Не скучай тут без меня..."
-msgstr ""
+msgstr "[_Lisa_s_01_] Oye, Max, voy a salir. No me eches de menos."
 
 # game/scripts/story_01/myroom.rpy:389 #-#-# translate crowdin ev_023_09f0ad91:
 msgid "[_Max_s_01_] А я буду. Успехов тебе!"
@@ -144,7 +144,7 @@ msgstr "[_Max_s_01_] Lo haré. Buena suerte!"
 
 # game/scripts/story_01/myroom.rpy:391 #-#-# translate crowdin ev_023_78942015:
 msgid "[_Max_s_01_] А я буду. Не заблудись!"
-msgstr ""
+msgstr "[_Max_s_01_] Lo haré. ¡No te pierdas!"
 
 # game/scripts/story_01/myroom.rpy:418 #-#-# translate crowdin ev_mgg_sleep_d8912cea:
 msgid "[_tMax_s_00_] Пожалуй, пора ложиться спать... [nointeract]"
@@ -164,7 +164,7 @@ msgstr "[_tMax_s_07_] Buenas noches y felices sueños a todos..."
 
 # §translate crowdin strings: #|#|# # game/scripts/story_01/myroom.rpy:146
 msgid "Да легко! Не буду мешать..."
-msgstr ""
+msgstr "¡Es fácil! Te dejo con ello."
 
 # game/scripts/story_01/myroom.rpy:150
 msgid "{i}подождать за дверью, пока Лиза переоденется{/i}"
@@ -196,7 +196,7 @@ msgstr "Lo siento, no pude resistirme... ¡Te ves bien!"
 
 # game/scripts/story_01/myroom.rpy:424
 msgid "{i}спать до утра{/i}"
-msgstr ""
+msgstr "{i}dormir hasta la mañana."
 
 # game/scripts/story_01/myroom.rpy:424
 msgid "{i}в 6 утра{/i}"
