@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 17:44\n"
+"PO-Revision-Date: 2023-10-12 22:15\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/punishments.rpy:39 #-#-# translate crowdin punishments_allocation_d4a1750b:
 msgid "[_Ann_s_10_] Прежде, чем мы начнём, кое-кто заслуживает наказания и сейчас все на это посмотрят..."
@@ -270,5 +270,5 @@ msgstr "{i}quítate los vaqueros{/i}"
 
 # game/scripts/story_01/punishments.rpy:191
 msgid "{i}снять шорты{/i}"
-msgstr ""
+msgstr "{i}Quítate los pantalones cortos."
 
