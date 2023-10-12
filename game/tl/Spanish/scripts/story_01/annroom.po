@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 17:42\n"
+"PO-Revision-Date: 2023-10-12 22:14\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/annroom.rpy:12 #-#-# translate crowdin ev_ann_dressed_d0c78fcb:
 msgid "[_tMax_s_11_] Сейчас мама должна собираться на работу... [nointeract]"
@@ -34,7 +34,7 @@ msgstr "[_Ann_s_02_] Perfecto. No tomará mucho tiempo. [nointeract]"
 
 # game/scripts/story_01/annroom.rpy:55 #-#-# translate crowdin ev_ann_dressed_moment2_4375512d:
 msgid "[_Ann_s_13_] Макс! Я же учила тебя стучаться! {p=2}{nw}"
-msgstr ""
+msgstr "[_Ann_s_13_] ¡Max! ¡Yo te enseñé a golpear! {p=2}{nw}"
 
 # game/scripts/story_01/annroom.rpy:61 #-#-# translate crowdin ev_ann_dressed_moment2_081d1026:
 msgid "[_Ann_s_14_] Нельзя вот так без предупреждения врываться в комнату! Что-то случилось? [nointeract]"
