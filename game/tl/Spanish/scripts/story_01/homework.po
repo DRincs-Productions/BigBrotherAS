@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 17:43\n"
+"PO-Revision-Date: 2023-10-12 22:15\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/homework.rpy:9 #-#-# translate crowdin ev_034_38a2b149:
 msgid "[_Ann_s_10_] Так, Макс, а ну-ка постой! Я только сейчас вспомнила... Ты коробки разобрал?"
@@ -78,7 +78,7 @@ msgstr "[_tMax_s_12_] Quizá debería consultarlo con mi madre antes de que se v
 
 # game/scripts/story_01/homework.rpy:54 #-#-# translate crowdin ev_035_4375512d:
 msgid "[_Ann_s_13_] Макс! Я же учила тебя стучаться! {p=2}{nw}"
-msgstr ""
+msgstr "[_Ann_s_13_] ¡Max! ¡Yo te enseñé a golpear! {p=2}{nw}"
 
 # game/scripts/story_01/homework.rpy:59 #-#-# translate crowdin ev_035_16536304:
 msgid "[_Max_s_05_] Ого! Шикарно выглядишь, мам!"
@@ -190,7 +190,7 @@ msgstr "[_tMax_s_11_] Entonces, ¿qué tengo que comprar? Tengo que recordar... 
 
 # game/scripts/story_01/homework.rpy:167 #-#-# translate crowdin ev_042_grocerystore_fc2b202b:
 msgid "[_tMax_s_11_] Мне обязательно нужно купить продукты."
-msgstr ""
+msgstr "[_tMax_s_11_] Definitivamente necesito hacer la compra."
 
 # game/scripts/story_01/homework.rpy:172 #-#-# translate crowdin ev_042_grocerystore_c03e713e:
 msgid "[_tMax_s_13_] По отдельности всё, вроде, лёгкое, а когда в пакеты поставишь уже не так-то и легко. Главное, чтобы эти самые пакеты не порвались..."
