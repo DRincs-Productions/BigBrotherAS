@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 17:45\n"
+"PO-Revision-Date: 2023-10-12 22:15\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/sunscreen.rpy:7 #-#-# translate crowdin ev_011_03c9dcee:
 msgid "[_Alice_s_01_] Как ты догадался, Шерлок? [nointeract]"
@@ -94,7 +94,7 @@ msgstr "[_Alice_s_01_] ¡Gracias, Max! Seguiré yo sola. [nointeract]"
 
 # game/scripts/story_01/sunscreen.rpy:131 #-#-# translate crowdin ev_011_apply_oil_c3d12e7f:
 msgid "[_Alice_s_07_] А давай! Я так хорошо устроилась на этом лежаке, что даже шевелиться не хочется. Натри мне ножки, но не лезь слишком высоко... [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_07_] ¡Venga! Estoy tan cómoda en esta cama que no quiero ni moverme. Frota mis pies, pero no te subas demasiado... [nointeract]"
 
 # game/scripts/story_01/sunscreen.rpy:139 #-#-# translate crowdin ev_011_apply_oil_e74f6b5d:
 msgid "[_Alice_s_04_] Можешь так не переживать, Макс. Я в состоянии защитить от солнца всё, что мне нужно."
@@ -390,7 +390,7 @@ msgstr "{i}frotar un poco de aceite en su espalda{/i}"
 
 # game/scripts/story_01/sunscreen.rpy:87
 msgid "{i}натирать и выпустить паука{/i}"
-msgstr ""
+msgstr "{i}frota y suelta la araña{/i}"
 
 # game/scripts/story_01/sunscreen.rpy:124
 msgid "Я могу и остальное намазать..."
