@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 17:42\n"
+"PO-Revision-Date: 2023-10-12 22:15\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/bathroom.rpy:10 #-#-# translate crowdin ev_ann_shower_c167172f:
 msgid "[_tMax_s_11_] Сейчас ванная комната должна быть занята мамой... [nointeract]"
@@ -382,7 +382,7 @@ msgstr "[_Alice_s_14_] ¡Max! ¡¿Me estás espiando?! ¡Estás muerto! Tienes s
 
 # game/scripts/story_01/bathroom.rpy:705 #-#-# translate crowdin ev_alice_shower_caught_a0bf48e9:
 msgid "[_Alice_s_14_] Макс!!! Опять подглядываешь за мной?! Ну-ка живо отвернись и стой на месте! [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_14_] ¡Max! ¡¿Me estás espiando otra vez?! ¡Ahora date la vuelta y quédate donde estás! [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:709 #-#-# translate crowdin ev_alice_shower_caught_2008ed01:
 msgid "[_Alice_s_14_] Макс!!! Подглядывать за мной удумал?! Ну-ка живо отвернись и стой на месте! [nointeract]"
@@ -390,15 +390,15 @@ msgstr "[_Alice_s_14_] ¡Max! ¡¿Me estás espiando?! ¡Date la vuelta y quéda
 
 # game/scripts/story_01/bathroom.rpy:719 #-#-# translate crowdin ev_alice_shower_caught_60cf139d:
 msgid "[_tMax_s_12_] Вот угораздило! С такими большими окнами у меня могут быть проблемы даже если я не подсматривал за девчонками, а просто проходил мимо."
-msgstr ""
+msgstr "[_tMax_s_12_] ¡Dios mío! Con ventanas tan grandes, podría meterme en problemas aunque no estuviera espiando a las chicas, sino simplemente pasando por allí."
 
 # game/scripts/story_01/bathroom.rpy:720 #-#-# translate crowdin ev_alice_shower_caught_e96b36eb:
 msgid "[_tMax_s_13_] Сейчас уже поздно что-то делать, но если я попадусь Алисе снова, то нужно будет искать способ всё уладить без мамы."
-msgstr ""
+msgstr "[_tMax_s_13_] Ya es demasiado tarde para hacer nada, pero si Alice me vuelve a pillar, tendré que encontrar la manera de arreglar las cosas sin mamá."
 
 # game/scripts/story_01/bathroom.rpy:721 #-#-# translate crowdin ev_alice_shower_caught_010923b6:
 msgid "[_tMax_s_16_] И зная Алису, скорее всего, мне лучше иметь в кармане лишние деньги. Иначе я вряд ли смогу отвертеться..."
-msgstr ""
+msgstr "[_tMax_s_16_] Y conociendo a Alice, será mejor que tenga algo de dinero extra en el bolsillo. De lo contrario, no es probable que sea capaz de salirse con la suya...."
 
 # game/scripts/story_01/bathroom.rpy:739 #-#-# translate crowdin ev_alice_shower_voy_04_0525e26d:
 msgid "[_tMax_s_04_] Эх, самое интересное продолжалось недолго... Единственное, что напоследок остаётся сделать, это насладиться тем, как она вытирает свои бесподобные сисечки! [nointeract]"
@@ -478,7 +478,7 @@ msgstr "[_Alice_s_04_] ¡Así es! Esperaré hasta esta noche y luego te entregar
 
 # game/scripts/story_01/bathroom.rpy:811 #-#-# translate crowdin ev_alice_shower_excuses_061b5886:
 msgid "[_Alice_s_11_] Да, да, конечно... Надеюсь, сегодня я получу что-то повкуснее того, что было в прошлый раз. Или тебя сразу сдать маме?"
-msgstr ""
+msgstr "[_Alice_s_11_] Sí, sí, claro... Espero conseguir algo mejor que lo que tuve la última vez. ¿O debería entregarte a tu madre?"
 
 # game/scripts/story_01/bathroom.rpy:812 #-#-# translate crowdin ev_alice_shower_excuses_35fb8962_1:
 msgid "[_Max_s_14_] Ой! Не надо! Сегодня всё будет! Только отпусти..."
@@ -498,51 +498,51 @@ msgstr "[_Alice_s_11_] ¡Y reza para que me guste! [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:833 #-#-# translate crowdin ev_alice_shower_excuses2_316900ad:
 msgid "[_Max_s_11_] Извини, так уж получилось! Я не хотел..."
-msgstr ""
+msgstr "[_Max_s_11_] ¡Lo siento, así son las cosas! No era mi intención."
 
 # game/scripts/story_01/bathroom.rpy:834 #-#-# translate crowdin ev_alice_shower_excuses2_f540599f:
 msgid "[_Alice_s_03_] Ой, Макс, конечно же я тебя прощаю! Не переживай ты так... Всё прекрасно!"
-msgstr ""
+msgstr "[_Alice_s_03_] ¡Oh, Max, por supuesto que te perdono! No te preocupes. Todo está bien."
 
 # game/scripts/story_01/bathroom.rpy:835 #-#-# translate crowdin ev_alice_shower_excuses2_463b12e5:
 msgid "[_Max_s_12_] Э-э-э... Правда?!"
-msgstr ""
+msgstr "[_Max_s_12_] Erm... ¡¿En serio?!"
 
 # game/scripts/story_01/bathroom.rpy:839 #-#-# translate crowdin ev_alice_shower_excuses2_34ff4f4a:
 msgid "[_Alice_s_16_] Конечно нет, дубина! Стоял снова и глазел на меня голую! Мама обязательно об этом узнает..."
-msgstr ""
+msgstr "[_Alice_s_16_] ¡Claro que no, tonto! ¡Parado ahí mirándome desnudo otra vez! Mamá se va a enterar."
 
 # game/scripts/story_01/bathroom.rpy:840 #-#-# translate crowdin ev_alice_shower_excuses2_85ae7271:
 msgid "[_Max_s_16_] А-а-ай! А вдруг это была случайность и ты напрасно меня сдашь?"
-msgstr ""
+msgstr "[_Max_s_16_] ¿Y si fue un accidente y me delataste por nada?"
 
 # game/scripts/story_01/bathroom.rpy:841 #-#-# translate crowdin ev_alice_shower_excuses2_d5ec70ac:
 msgid "[_Alice_s_15_] Макс, какая это случайность, стоять за углом и глазеть на меня?!"
-msgstr ""
+msgstr "[_Alice_s_15_] Max, ¡¿qué tan aleatorio es pararse a la vuelta de la esquina y mirarme?!"
 
 # game/scripts/story_01/bathroom.rpy:842 #-#-# translate crowdin ev_alice_shower_excuses2_b5b3feec:
 msgid "[_Max_s_14_] Понимаю, верится с большим трудом. Тогда давай это разрешим без мамы?"
-msgstr ""
+msgstr "[_Max_s_14_] Sé que es difícil de creer. Entonces hagámoslo sin mamá, ¿de acuerdo?"
 
 # game/scripts/story_01/bathroom.rpy:846 #-#-# translate crowdin ev_alice_shower_excuses2_659c8279:
 msgid "[_Alice_s_11_] Снова хочешь купить моё молчание сладостью? Серьёзно?!"
-msgstr ""
+msgstr "[_Alice_s_11_] ¿Quieres comprar mi silencio con dulzura otra vez? ¿De verdad?"
 
 # game/scripts/story_01/bathroom.rpy:847 #-#-# translate crowdin ev_alice_shower_excuses2_de48dfd3:
 msgid "[_Max_s_01_] Да, серьёзно! Попытка - не пытка..."
-msgstr ""
+msgstr "[_Max_s_01_] ¡Sí, en serio! Vale la pena intentarlo...."
 
 # game/scripts/story_01/bathroom.rpy:848 #-#-# translate crowdin ev_alice_shower_excuses2_e3a9b18f:
 msgid "[_Alice_s_04_] Ты, конечно, можешь попробовать, от чего-нибудь сладенького я не откажусь, но ты же понимаешь, что мне должно это очень понравиться."
-msgstr ""
+msgstr "[_Alice_s_04_] Puedes probarlo, por supuesto, no diré que no a algo dulce, pero date cuenta de que tiene que gustarme de verdad."
 
 # game/scripts/story_01/bathroom.rpy:849 #-#-# translate crowdin ev_alice_shower_excuses2_159f644d:
 msgid "[_Max_s_11_] Само собой. Только не торопись жаловаться на меня маме. Идёт?"
-msgstr ""
+msgstr "[_Max_s_11_] Claro que lo harás. Pero no te apresures a quejarte a tu madre de mí. ¿De acuerdo?"
 
 # game/scripts/story_01/bathroom.rpy:851 #-#-# translate crowdin ev_alice_shower_excuses2_50aa4f76:
 msgid "[_Alice_s_11_] Ничего не обещаю. До ужина время у тебя есть, так что не опаздывай, Макс! [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_11_] Sin promesas. ¡Tienes hasta la cena, así que no llegues tarde, Max! [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:861 #-#-# translate crowdin ev_alice_shower_day_5_ba0cb1cf:
 msgid "[_tMax_s_12_] Я должен постараться спасти Алису от наказания за курение в комнате, так что лучше не рисковать сегодня утром. Если попадусь, то меня накажут, да и Алису я не спасу... [nointeract]"
@@ -550,11 +550,11 @@ msgstr "[_tMax_s_12_] Debo intentar salvar a Alice de ser castigada por fumar en
 
 # game/scripts/story_01/bathroom.rpy:870 #-#-# translate crowdin ev_alice_shower_caught_hint_b41ba447:
 msgid "[_tMax_s_13_] Интересно, а что будет, если Алиса заметит, как я подглядываю за ней? Шуму будет много, но смогу ли я отвертеться от последствий?"
-msgstr ""
+msgstr "[_tMax_s_13_] Me pregunté qué pasaría si Alice se diera cuenta de que la espío. Haría mucho ruido, pero ¿podría salirme con la mía?"
 
 # game/scripts/story_01/bathroom.rpy:871 #-#-# translate crowdin ev_alice_shower_caught_hint_8e7d075d:
 msgid "[_tMax_s_11_] Думаю, можно будет попробовать, а то как знать к чему это приведёт. Если, она меня заметит, конечно..."
-msgstr ""
+msgstr "[_tMax_s_11_] Supongo que podría intentarlo, pero no sé adónde me llevaría. Si ella me ve, por supuesto...."
 
 # game/scripts/story_01/bathroom.rpy:890 #-#-# translate crowdin ev_max_shower_aebad0a2:
 msgid "[_tMax_s_07_] Всё-таки чистым быть намного лучше. Хотя, не всегда хочется... [nointeract]"
@@ -590,7 +590,7 @@ msgstr "[_tMax_s_05_] ¡Oh, qué calor! Por supuesto, no estoy hablando del agua
 
 # game/scripts/story_01/bathroom.rpy:975 #-#-# translate crowdin ev_ann_bath_enter1_23d29837:
 msgid "[_Ann_s_13_] Макс! Ты почему так тихо ходишь?! {p=2}{nw}"
-msgstr ""
+msgstr "[_Ann_s_13_] ¡Max! ¡¿Por qué caminas tan silenciosamente?! {p=2}{nw}"
 
 # game/scripts/story_01/bathroom.rpy:979 #-#-# translate crowdin ev_ann_bath_enter1_686755b3:
 msgid "[_Ann_s_14_] Я же учила тебя стучаться! Что ты здесь забыл? [nointeract]"
@@ -662,7 +662,7 @@ msgstr "[_tMax_s_05_] Lisa está a punto de tomar un baño.... Oh sí, mi herman
 
 # game/scripts/story_01/bathroom.rpy:1148 #-#-# translate crowdin ev_lisa_bath_enter1_3ec7f598:
 msgid "[_Lisa_s_14_] Макс! А постучаться?! Я же не одета!!! {p=2}{nw}"
-msgstr ""
+msgstr "[_Lisa_s_14_] ¡Max! ¡¿Debo golpear?! ¡No estoy vestida! {p=2}{nw}"
 
 # game/scripts/story_01/bathroom.rpy:1152 #-#-# translate crowdin ev_lisa_bath_enter1_9306fa3f:
 msgid "[_Lisa_s_15_] Быстро выйди отсюда и жди, пока я не освобожу ванную комнату! [nointeract]"
@@ -734,7 +734,7 @@ msgstr "[_tMax_s_05_] ¡Qué suerte! Alice está a punto de tomar un baño..... 
 
 # game/scripts/story_01/bathroom.rpy:1323 #-#-# translate crowdin ev_alice_bath_enter1_148b7501:
 msgid "[_Alice_s_14_] Вот чёрт! Макс, ты зачем припёрся?! Занято тут!!! {p=2}{nw}"
-msgstr ""
+msgstr "[_Alice_s_14_] ¡Oh, mierda! Max, ¡¿qué estás haciendo aquí?! ¡¡Está ocupado aquí!! {p=2}{nw}"
 
 # game/scripts/story_01/bathroom.rpy:1327 #-#-# translate crowdin ev_alice_bath_enter1_8676de9a:
 msgid "[_Alice_s_15_] Чтобы больше я тебя здесь не видела в такое позднее время! [nointeract]"
@@ -746,31 +746,31 @@ msgstr "[_Alice_s_14_] ¡Mierda! Max, ¿qué haces aquí? ¡Está ocupado! ¡No 
 
 # game/scripts/story_01/bathroom.rpy:1347 #-#-# translate crowdin ev_alice_bath_enter2_ee72b15b:
 msgid "[_tMax_s_05_] Опа! Кажется, Алиса снова решила разбавить пребывание в ванне кое-чем «весёленьким». Какая красота... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_05_] ¡Vaya! Parece que Alice ha decidido hacer algo divertido en la bañera otra vez. Es precioso. [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:1357 #-#-# translate crowdin ev_alice_bath_enter2_59267b2d:
 msgid "[_tMax_s_06_] Ухх... Не каждый день увидишь, как сестрёнка ласкает свою киску лёжа в ванне! Ещё бы пена самое интересное так сильно не скрывала и было бы обалденное шоу... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_06_] Uhhhh... ¡No todos los días ves a tu hermana acariciándose el coño en la bañera! Ojalá la espuma no ocultara tanto las cosas más interesantes y sería un gran espectáculo.... [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:1364 #-#-# translate crowdin ev_alice_bath_enter2_03814bc8:
 msgid "[_Alice_s_17_] Вот чёрт, Макс!!! Ты что здесь делаешь?! Пошёл вон отсюда, я принимаю ванну!"
-msgstr ""
+msgstr "[_Alice_s_17_] ¡Oh, mierda, Max! ¡¿Qué estás haciendo aquí?! ¡Sal de aquí, me estoy bañando!"
 
 # game/scripts/story_01/bathroom.rpy:1365 #-#-# translate crowdin ev_alice_bath_enter2_302e2099:
 msgid "[_Max_s_02_] Да?! А мне показалось..."
-msgstr ""
+msgstr "[_Max_s_02_] ¿Sí? Pensé que lo era."
 
 # game/scripts/story_01/bathroom.rpy:1366 #-#-# translate crowdin ev_alice_bath_enter2_8a20549b:
 msgid "[_Alice_s_16_] Вот именно, что показалось, Макс! Вали отсюда, если не хочешь, чтобы я нажаловалась на тебя маме..."
-msgstr ""
+msgstr "[_Alice_s_16_] ¡Eso es exactamente lo que parece, Max! Vete de aquí si no quieres que le hable a tu madre de ti."
 
 # game/scripts/story_01/bathroom.rpy:1367 #-#-# translate crowdin ev_alice_bath_enter2_277924f2:
 msgid "[_Max_s_01_] Тогда она может узнать кое-что и о тебе!"
-msgstr ""
+msgstr "[_Max_s_01_] Entonces ella también podría descubrir algo sobre ti."
 
 # game/scripts/story_01/bathroom.rpy:1369 #-#-# translate crowdin ev_alice_bath_enter2_406ee90c:
 msgid "[_Alice_s_15_] Какой же ты... И перестань на меня глазеть! Вали отсюда!!!  [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_15_] Eres tan... ¡Y deja de mirarme! ¡Fuera de aquí!  [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:1383 #-#-# translate crowdin ev_alice_bath_enter2_51a75ca4:
 msgid "[_tMax_s_05_] Черт возьми! Она меня что, специально дразнит своей мокренькой грудью? Может моя старшая сестрёнка и стерва, но какая же она горячая! Очень сексуальна... [nointeract]"
@@ -810,83 +810,83 @@ msgstr "[_tMax_s_07_] Es mucho mejor estar limpio. Especialmente cuando tienes u
 
 # game/scripts/story_01/bathroom.rpy:1484 #-#-# translate crowdin ev_075_3395896e:
 msgid "[_tMax_s_03_] Вот куда бы я обязательно заглянул перед сном, так это в ванную комнату к Алисе..."
-msgstr ""
+msgstr "[_tMax_s_03_] Un lugar donde definitivamente buscaría antes de acostarme es en el baño de Alicia...."
 
 # game/scripts/story_01/bathroom.rpy:1489 #-#-# translate crowdin ev_075_31a0ea7c:
 msgid "[_tMax_s_01_] У меня заодно и оправдание, если что, есть... Я зайду проверить, не курит ли она по новой травку, как днём. На деле я на её сиськи хочу поглазеть и чтобы мне точно за это ничего не было... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_01_] Tengo una excusa, en todo caso. Voy a entrar a ver si vuelve a fumar hierba, como esta tarde. De hecho, quiero mirarle las tetas y no quiero que me hagan daño por ello... [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:1495 #-#-# translate crowdin ev_075_d41d1032:
 msgid "[_tMax_s_13_] Хм... Что это с Алисой? Она так жарко дышит и постанывает... Нужно проверить всё ли в порядке! [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_13_] Hmm... ¿Qué le pasa a Alice? Está respirando muy caliente y gimiendo..... ¡Deberíamos comprobar si todo está bien! [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:1500 #-#-# translate crowdin ev_075_125a706d:
 msgid "[_tMax_s_06_] Ух ты! Не каждый день увидишь, как сестрёнка ласкает свою киску лёжа в ванне! Ещё бы пена самое интересное так сильно не скрывала и было бы обалденное шоу..."
-msgstr ""
+msgstr "[_tMax_s_06_] Vaya, no todos los días ves a tu hermana acariciándose el coño en la bañera. Ojalá la espuma no ocultara tanto la parte más interesante y sería un gran espectáculo...."
 
 # game/scripts/story_01/bathroom.rpy:1504 #-#-# translate crowdin ev_075_03814bc8:
 msgid "[_Alice_s_17_] Вот чёрт, Макс!!! Ты что здесь делаешь?! Пошёл вон отсюда, я принимаю ванну!"
-msgstr ""
+msgstr "[_Alice_s_17_] ¡Oh, mierda, Max! ¡¿Qué estás haciendo aquí?! ¡Sal de aquí, me estoy bañando!"
 
 # game/scripts/story_01/bathroom.rpy:1505 #-#-# translate crowdin ev_075_6d64871e:
 msgid "[_Max_s_02_] Так вот, как её надо принимать! Не знал..."
-msgstr ""
+msgstr "[_Max_s_02_] ¡Así se toma! No lo sabía."
 
 # game/scripts/story_01/bathroom.rpy:1506 #-#-# translate crowdin ev_075_600f28d5:
 msgid "[_Alice_s_16_] Ты ещё и ехидничаешь! Ну всё... За такую наглость я сдам тебя маме завтра. Пусть все знают, какой ты придурок!"
-msgstr ""
+msgstr "[_Alice_s_16_] ¡Estás siendo sarcástico! Se acabó. Mañana te entregaré a mamá por ser tan descarado. ¡Que todos sepan lo idiota que eres!"
 
 # game/scripts/story_01/bathroom.rpy:1507 #-#-# translate crowdin ev_075_045b3a93:
 msgid "[_Max_s_12_] А если я верну тебе деньги, которые взял за молчание о травке?"
-msgstr ""
+msgstr "[_Max_s_12_] ¿Y si te devolviera el dinero que te quité por no hablarte de la marihuana?"
 
 # game/scripts/story_01/bathroom.rpy:1508 #-#-# translate crowdin ev_075_ade92a5f:
 msgid "[_Alice_s_11_] Ага, думаешь, я ничего не скажу, если ты вернёшь мои деньги? Для этого придётся вернуть больше на $10, а то и на все $20 за моральный ущерб."
-msgstr ""
+msgstr "[_Alice_s_11_] Sí, ¿crees que no diré nada si me devuelves el dinero? Para eso, tendrías que devolverme 10 dólares más, o incluso los 20 dólares completos por daños morales."
 
 # game/scripts/story_01/bathroom.rpy:1509 #-#-# translate crowdin ev_075_af49a137:
 msgid "[_Max_s_11_] Не вопрос. Но мама узнает про травку, уж извини."
-msgstr ""
+msgstr "[_Max_s_11_] No hay problema. Pero mamá se va a enterar de lo de la marihuana, lo siento."
 
 # game/scripts/story_01/bathroom.rpy:1510 #-#-# translate crowdin ev_075_09e7bb8f:
 msgid "[_Alice_s_14_] Эй! Ты офигел?! Припёрся ко мне в ванную глазеть, а мне же ещё и в итоге влетит что ли?"
-msgstr ""
+msgstr "[_Alice_s_14_] ¡Oye! ¿Estás loco? ¿Vienes a mi baño a mirarme, y voy a terminar en problemas?"
 
 # game/scripts/story_01/bathroom.rpy:1511 #-#-# translate crowdin ev_075_9394797e:
 msgid "[_Max_s_04_] Никому не влетит, если мы тихо-мирно разойдёмся. Как тебе такое предложение?"
-msgstr ""
+msgstr "[_Max_s_04_] Nadie saldrá herido si nos vamos en silencio. ¿Qué te parece?"
 
 # game/scripts/story_01/bathroom.rpy:1512 #-#-# translate crowdin ev_075_50946c84:
 msgid "[_Alice_s_15_] Вот ты... Ладно, меня устраивает, но только, если ты уже перестанешь на меня глазеть и свалишь отсюда, наконец! И не смей больше заходить ко мне без стука, а то урою..."
-msgstr ""
+msgstr "[_Alice_s_15_] A ti. Vale, me parece bien, ¡pero sólo si dejas de mirarme y te largas de aquí! ¡Y no vuelvas a entrar aquí sin llamar, o te mataré!"
 
 # game/scripts/story_01/bathroom.rpy:1513 #-#-# translate crowdin ev_075_ff649236:
 msgid "[_Max_s_01_] Уже ухожу, сестрёнка. Ты, кстати, очень красиво смотрелась, когда ласкала себя. Мне понравилось!"
-msgstr ""
+msgstr "[_Max_s_01_] Ya me voy, hermana. Por cierto, estabas muy guapa cuando te acariciabas. ¡Me encantó!"
 
 # game/scripts/story_01/bathroom.rpy:1515 #-#-# translate crowdin ev_075_4bf8eaae:
 msgid "[_Alice_s_12_] Да пошёл ты, Макс! Извращенец, блин. Вали!!! [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_12_] ¡Vete a la mierda, Max! Eres un maldito pervertido. ¡Fuera de aquí! [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:1520 #-#-# translate crowdin ev_075_0c297122:
 msgid "[_tMax_s_03_] А ведь Алиса могла бы офигенно смотреться в каких-нибудь развратных веб-трансляциях! Всё прикольнее, чем этот её блог..."
-msgstr ""
+msgstr "[_tMax_s_03_] ¡Alice quedaría genial en unos webcasts guarros! Cualquier cosa es más divertida que este blog suyo....."
 
 # game/scripts/story_01/bathroom.rpy:1521 #-#-# translate crowdin ev_075_2ed10f0c:
 msgid "[_tMax_s_01_] Народ с радостью будет платить, если она будет так же страстно, как в ванне, ласкать себя на камеру. Чёрт, да я и сам бы за это заплатил, если бы у меня были лишние деньги!"
-msgstr ""
+msgstr "[_tMax_s_01_] La gente pagará con gusto si puede acariciarse ante la cámara tan apasionadamente como lo hizo en la bañera. Diablos, ¡yo mismo lo pagaría si tuviera dinero extra!"
 
 # game/scripts/story_01/bathroom.rpy:1524 #-#-# translate crowdin ev_075_fdb5cb80:
 msgid "[_tMax_s_13_] Как бы мне умудриться её надоумить на это? Хотя, надоумить-то легко, а вот убедить... Это будет непросто при моих-то с ней отношениях сейчас, уж точно..."
-msgstr ""
+msgstr "[_tMax_s_13_] ¿Cómo voy a convencerla de que lo haga? Bueno, es fácil persuadirla, ¿pero convencerla? Eso no va a ser fácil con mi relación con ella ahora mismo."
 
 # game/scripts/story_01/bathroom.rpy:1525 #-#-# translate crowdin ev_075_aa9e97a1:
 msgid "[_tMax_s_11_] Может, раз Алиса сильно боится пауков, то я мог бы как-то использовать это знание, чтобы улучшить наши взаимоотношения? Стоит попробовать..."
-msgstr ""
+msgstr "[_tMax_s_11_] Tal vez, ya que Alice tiene mucho miedo a las arañas, ¿podría utilizar de alguna manera ese conocimiento para mejorar nuestra relación? Vale la pena intentarlo..."
 
 # §translate crowdin strings: #|#|# # game/scripts/story_01/bathroom.rpy:9
 msgid "{i}заглянуть со двора{/i}"
-msgstr ""
+msgstr "{i}asomándose desde el patio."
 
 # game/scripts/story_01/bathroom.rpy:49
 msgid "{i}продолжить подглядывать{/i}"
@@ -902,15 +902,15 @@ msgstr "{i}dar la espalda{/i}"
 
 # game/scripts/story_01/bathroom.rpy:101
 msgid "{i}продолжить смотреть{/i}"
-msgstr ""
+msgstr "{i}seguir viendo"
 
 # game/scripts/story_01/bathroom.rpy:140
 msgid "{i}подождать{/i}"
-msgstr ""
+msgstr "{i}Espera."
 
 # game/scripts/story_01/bathroom.rpy:147
 msgid "Я не подглядывал. Это случайность!"
-msgstr ""
+msgstr "No estaba espiando. ¡Fue un accidente!"
 
 # game/scripts/story_01/bathroom.rpy:147
 msgid "Я шёл мимо, а ты тут. И такая невероятно красивая..."
@@ -992,7 +992,7 @@ msgstr "Perdona. ¡Eres guapa!"
 
 # game/scripts/story_01/bathroom.rpy:1346
 msgid "{i}прокрасться к ванне{/i}"
-msgstr ""
+msgstr "{i}colarse en la bañera."
 
 # game/scripts/story_01/bathroom.rpy:1419
 msgid "Не обращай на меня внимание. Продолжай то, что делала..."
