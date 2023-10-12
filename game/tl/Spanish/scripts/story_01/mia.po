@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 17:44\n"
+"PO-Revision-Date: 2023-10-12 22:15\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/mia.rpy:7 #-#-# translate crowdin ev_063_eb6a6385:
 msgid "[_tMax_s_11_] Звонок в ворота! Похоже, к нам кто-то приехал..."
@@ -94,7 +94,7 @@ msgstr "[_Ann_s_01_] Ya sabes. Nos estamos arreglando. Sí, el dinero es un poco
 
 # game/scripts/story_01/mia.rpy:50 #-#-# translate crowdin ev_063_c30397f8:
 msgid "[_tMax_s_04_] Ухх... Сказать, что фигура у Мии просто огонь, всё равно что ничего не сказать! Но у мамы всё равно лучшая фигура на свете! Или нет? Хм... Здесь, даже сравнивать не буду, хочу обеих..."
-msgstr ""
+msgstr "[_tMax_s_04_] Uhhhh... ¡Decir que la figura de Mia está que arde es como no decir nada! ¡Pero mamá sigue teniendo la mejor figura del mundo! ¿No es así? Hmm... Aquí, ni siquiera voy a comparar, quiero ambos...."
 
 # game/scripts/story_01/mia.rpy:51 #-#-# translate crowdin ev_063_bd15ba94:
 msgid "[_Mia_s_11_] А дочь старшая совсем деньгами не помогает? Она же вроде уже взрослая?"
@@ -194,7 +194,7 @@ msgstr "[_Mia_s_04_] No pasa nada. Aunque soy abogada, lo que me obliga a ser ba
 
 # game/scripts/story_01/mia.rpy:89 #-#-# translate crowdin ev_063_b7c46c83:
 msgid "[_Max_s_11_] Так значит, ещё заедете?"
-msgstr ""
+msgstr "[_Max_s_11_] ¿Volverás otra vez?"
 
 # game/scripts/story_01/mia.rpy:90 #-#-# translate crowdin ev_063_d2b58876:
 msgid "[_Mia_s_02_] Собственно, почему бы и нет. В рабочие дни я точно не выберусь, а вот на выходных вполне возможно. Правда, это вопрос скорее к твоей маме..."
