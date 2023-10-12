@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 17:44\n"
+"PO-Revision-Date: 2023-10-12 22:15\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/school.rpy:10 #-#-# translate crowdin ev_004_1fe4b55c:
 msgid "[_Lisa_s_01_] Эй, Макс, я пошла в школу. Надеюсь, у меня всё заладится с самого первого дня..."
@@ -42,19 +42,19 @@ msgstr "[_Lisa_s_02_] No me eches de menos. Volveré pronto..."
 
 # game/scripts/story_01/school.rpy:20 #-#-# translate crowdin ev_004_c10cd91e:
 msgid "[_Ann_s_01_] Ну а я, Макс, должна вернуться к ужину. Постарайся сильно не лодырничать. Задание я тебе дала..."
-msgstr ""
+msgstr "[_Ann_s_01_] Bueno, Max, debería estar de vuelta a tiempo para la cena. Trata de no ser demasiado perezoso. Te di una tarea."
 
 # game/scripts/story_01/school.rpy:21 #-#-# translate crowdin ev_004_f1bc2d6a:
 msgid "[_Max_s_02_] Хорошего тебе дня, мам!"
-msgstr ""
+msgstr "[_Max_s_02_] ¡Que tengas un buen día, mamá!"
 
 # game/scripts/story_01/school.rpy:22 #-#-# translate crowdin ev_004_d30845f9:
 msgid "[_Ann_s_02_] Спасибо! Всё, я ушла. До вечера..."
-msgstr ""
+msgstr "[_Ann_s_02_] Gracias. Me voy. Nos vemos esta noche."
 
 # game/scripts/story_01/school.rpy:26 #-#-# translate crowdin ev_004_0b1ebb49:
 msgid "[_tMax_s_11_] Теперь можно и до Алисы докопаться! Хоть узнаю, чем она там за своим ноутбуком занимается. Видимо, она с этого имеет какой-то доход..."
-msgstr ""
+msgstr "[_tMax_s_11_] ¡Ahora puedo llegar a Alice! Al menos sabré lo que está haciendo en su portátil. Ella debe tener algún tipo de ingresos de ella...."
 
 # game/scripts/story_01/school.rpy:40 #-#-# translate crowdin ev_005_c8da45d3:
 msgid "[_Lisa_s_01_] Привет, Макс! Я вернулась."
@@ -518,7 +518,7 @@ msgstr "[_Max_s_01_] Ponte en contacto si necesitas algo... Y buena suerte."
 
 # game/scripts/story_01/school.rpy:265 #-#-# translate crowdin ev_044_2b5641cb:
 msgid "[_tMax_s_13_] Не знаю, сколько времени понадобится, чтобы у Лизы получилось ненавязчиво подружиться с Оливией. Пожалуй, мне стоит интересоваться её успехами время от времени..."
-msgstr ""
+msgstr "[_tMax_s_13_] No sé cuánto tardará Lisa en hacerse amiga discreta de Olivia. Probablemente debería comprobar sus progresos de vez en cuando ...."
 
 # §translate crowdin strings: #|#|# # game/scripts/story_01/school.rpy:42
 msgid "{i}ждать Лизу во дворе{/i}"
@@ -538,5 +538,5 @@ msgstr "Sí. Hora de ponerse a trabajar..."
 
 # game/scripts/story_01/school.rpy:189
 msgid "Задание «Школьный секретик Лизы» обновлено!"
-msgstr ""
+msgstr "¡La asignación del Secreto Escolar de Lisa ha sido actualizada!"
 
