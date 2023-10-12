@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 17:41\n"
+"PO-Revision-Date: 2023-10-12 22:14\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/screens.rpy:274
 msgid "Нужно подождать дней: {cooldown}"
@@ -275,7 +275,7 @@ msgstr "EXTRAS"
 
 # game/scripts/screens/screens.rpy:1202
 msgid "Запрашивать имя сохранения"
-msgstr ""
+msgstr "Solicitar el nombre de la grabación"
 
 # game/scripts/screens/screens.rpy:1205
 msgid "Особый режим скрытия интерфейса"
