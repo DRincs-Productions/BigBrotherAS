@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 17:45\n"
+"PO-Revision-Date: 2023-10-12 22:15\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/smoke.rpy:11 #-#-# translate crowdin ev_025_7cf4d55a:
 msgid "[_tMax_s_13_] Что это? Ну-ка, ну-ка... Вот чёрт! Алиса снова взялась курить травку! Это очень нехорошо... [nointeract]"
@@ -182,7 +182,7 @@ msgstr "[_Alice_s_12_] Hasta entonces, deja de molestarme. ¡Déjame fumar en pa
 
 # game/scripts/story_01/smoke.rpy:149 #-#-# translate crowdin ev_026_bbdfc32e:
 msgid "[_Alice_s_04_] Этот пустяк я легко могу делать и дальше... Если уж тебе так угодно."
-msgstr ""
+msgstr "[_Alice_s_04_] Es un poco fácil para mí seguir haciendo... Si te complace."
 
 # game/scripts/story_01/smoke.rpy:150 #-#-# translate crowdin ev_026_dd8c984b_3:
 msgid "[_Max_s_13_] Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
@@ -218,7 +218,7 @@ msgstr "[_Alice_s_12_] Hasta entonces, deja de molestarme. ¡Déjame fumar en pa
 
 # game/scripts/story_01/smoke.rpy:182 #-#-# translate crowdin ev_026_fde7cf90:
 msgid "[_Alice_s_11_] Как скажешь, извращенец мелкий... И не пытайся за мной подсматривать, а то я стану тушить все свои сигареты об тебя!"
-msgstr ""
+msgstr "[_Alice_s_11_] Lo que tú digas, pequeño pervertido. ¡Y no intentes vigilarme o apagaré todos mis cigarrillos sobre ti!"
 
 # game/scripts/story_01/smoke.rpy:183 #-#-# translate crowdin ev_026_dd8c984b_6:
 msgid "[_Max_s_13_] Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
@@ -282,7 +282,7 @@ msgstr "[_Alice_s_12_] Hasta entonces, deja de molestarme. ¡Déjame fumar en pa
 
 # game/scripts/story_01/smoke.rpy:229 #-#-# translate crowdin ev_026_92918ae8:
 msgid "[_Alice_s_11_] Зря я надеялась, что ты попросишь что-то попроще... Значит буду и дальше спать, как обычно, а в остальное время без трусиков."
-msgstr ""
+msgstr "[_Alice_s_11_] Debería haber esperado que pidieras algo más sencillo. Así que seguiré durmiendo como siempre y sin llevar bragas el resto del tiempo."
 
 # game/scripts/story_01/smoke.rpy:230 #-#-# translate crowdin ev_026_dd8c984b_10:
 msgid "[_Max_s_13_] Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
@@ -482,7 +482,7 @@ msgstr "Si dejas de llevar sujetador, seguiré en silencio..."
 
 # game/scripts/story_01/smoke.rpy:91
 msgid "Продолжай спать без лифчика и я буду молчать..."
-msgstr ""
+msgstr "Sigue durmiendo sin sujetador y yo seguiré callada....."
 
 # game/scripts/story_01/smoke.rpy:91
 msgid "Если будешь курить топлес, буду молчать..."
@@ -490,7 +490,7 @@ msgstr "Si fumas en topless, me quedo callado..."
 
 # game/scripts/story_01/smoke.rpy:91
 msgid "Продолжай курить топлес и я буду молчать..."
-msgstr ""
+msgstr "Sigue fumando en topless y yo seguiré callado....."
 
 # game/scripts/story_01/smoke.rpy:91
 msgid "Если перестанешь носить трусики, буду молчать..."
@@ -498,7 +498,7 @@ msgstr "Si dejas de llevar sujetador, seguiré en silencio..."
 
 # game/scripts/story_01/smoke.rpy:91
 msgid "Продолжай ходить без трусиков и я буду молчать..."
-msgstr ""
+msgstr "Sigue sin bragas y yo seguiré en silencio...."
 
 # game/scripts/story_01/smoke.rpy:260
 msgid "Задание «Вредная привычка Алисы» обновлено!"
