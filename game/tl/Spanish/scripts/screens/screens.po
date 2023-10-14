@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-12 22:14\n"
+"PO-Revision-Date: 2023-10-14 14:27\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/screens.rpy:274
 msgid "Нужно подождать дней: {cooldown}"
@@ -85,7 +85,7 @@ msgstr "Inicio"
 
 # game/scripts/screens/screens.rpy:518
 msgid "Загрузить"
-msgstr "Descargar"
+msgstr "Cargar"
 
 # game/scripts/screens/screens.rpy:521
 msgid "Настройки"
