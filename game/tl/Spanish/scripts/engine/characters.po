@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 17:40\n"
+"PO-Revision-Date: 2023-10-14 11:09\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/characters.rpy:343
 msgid "Я всегда в поисках приключений на свою пятую точку."
@@ -48,7 +48,7 @@ msgstr "Mia, la preciosa abogada. Proporciona servicios legales para el negocio 
 
 # game/scripts/engine/characters.rpy:352
 msgid "Ужасное"
-msgstr "Ужасное"
+msgstr "Terrible"
 
 # game/scripts/engine/characters.rpy:352
 msgid "Плохое"
@@ -60,7 +60,7 @@ msgstr "No mucho"
 
 # game/scripts/engine/characters.rpy:352
 msgid "Нейтральное"
-msgstr "Нейтральное"
+msgstr "Neutro"
 
 # game/scripts/engine/characters.rpy:352
 msgid "Неплохое"
