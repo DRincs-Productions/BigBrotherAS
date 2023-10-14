@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-12 22:15\n"
+"PO-Revision-Date: 2023-10-14 11:09\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/blog.rpy:10 #-#-# translate crowdin ev_017_423a776a:
 msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
-msgstr "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
+msgstr "[_tMax_s_12_] No tengo nada más que hacer aquí por ahora..."
 
 # game/scripts/story_01/blog.rpy:15 #-#-# translate crowdin ev_017_bfd1a4b9:
 msgid "[_tMax_s_11_] Алиса сидит за своим ноутбуком. Лучше сильно её не донимать... [nointeract]"
@@ -122,5 +122,5 @@ msgstr "{i}distraer a Alice{/i}"
 
 # game/scripts/story_01/blog.rpy:64
 msgid "Открыто новое задание «Стримерша»!"
-msgstr "¡Una nueva oportunidad de \"Bloguera\" está abierta!"
+msgstr "¡Una nueva oportunidad de «Bloguera» está abierta!"
 
