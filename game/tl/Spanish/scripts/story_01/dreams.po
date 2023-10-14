@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-14 12:52\n"
+"PO-Revision-Date: 2023-10-14 15:28\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/dreams.rpy:10 #-#-# translate crowdin ev_019_d1b851a2:
 msgid "[_tMax_s_00_] Что у нас тут интересного? Посмотрим..."
@@ -502,7 +502,7 @@ msgstr "{i}admirar más{/i}"
 
 # game/scripts/story_01/dreams.rpy:27
 msgid "{i}подойти{/i}"
-msgstr "{i}subir{/i}"
+msgstr "{i}acercarse{/i}"
 
 # game/scripts/story_01/dreams.rpy:27
 msgid "{i}не мешать{/i}"
