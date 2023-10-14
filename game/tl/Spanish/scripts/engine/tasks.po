@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-12 22:14\n"
+"PO-Revision-Date: 2023-10-14 12:52\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:191
 msgid "Любопытное содержимое"
@@ -258,7 +258,7 @@ msgstr "Tengo que hacerlo antes de la cena..."
 
 # game/scripts/engine/tasks.rpy:191
 msgid "Добиться объятий Алисы, извиняясь сладостями."
-msgstr "Consigue el abrazo de Alicia disculpándote con caramelos."
+msgstr "Consigue el abrazo de Alice disculpándote con caramelos."
 
 # game/scripts/engine/tasks.rpy:191
 msgid "Возможность время от времени дарить Алисе сладости, чтобы поднять ей настроение!"
