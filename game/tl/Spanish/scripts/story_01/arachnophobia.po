@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-12 22:14\n"
+"PO-Revision-Date: 2023-10-14 11:09\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/arachnophobia.rpy:7 #-#-# translate crowdin ev_032_247fb4c6:
 msgid "[_tMax_s_12_] Так... Пауки. Ох, сколько видов... Какие же тут у нас водятся..."
@@ -1049,7 +1049,7 @@ msgstr "[_Alice_s_04_] ¡Estarás bien! Eres demasiado joven para esto. Sal de a
 
 # §translate crowdin strings: #|#|# # game/scripts/story_01/arachnophobia.rpy:14
 msgid "Задание «Арахнофобия» обновлено!"
-msgstr "La oportunidad Aracnofobia ha sido actualizada!"
+msgstr "La oportunidad «Aracnofobia» ha sido actualizada!"
 
 # game/scripts/story_01/arachnophobia.rpy:26
 msgid "{i}внимательно искать{/i}"
@@ -1109,7 +1109,7 @@ msgstr "{i}deshacerse de la araña{/i}"
 
 # game/scripts/story_01/arachnophobia.rpy:403
 msgid "{i}вернуться в свою комнату{/i}"
-msgstr "{i}vuelve a tu habitación."
+msgstr "{i}vuelve a tu habitación.{/i}"
 
 # game/scripts/story_01/arachnophobia.rpy:403
 msgid "{i}идти спать{/i}"
@@ -1137,7 +1137,7 @@ msgstr "¿Me enseñarás las tetas por ello?"
 
 # game/scripts/story_01/arachnophobia.rpy:663
 msgid "{i}перестать лапать Алису{/i}"
-msgstr "{i}que deje de manosear a Alice."
+msgstr "{i}que deje de manosear a Alice.{/i}"
 
 # game/scripts/story_01/arachnophobia.rpy:698
 msgid "Задание «Арахнофобия» завершено!"
@@ -1145,7 +1145,7 @@ msgstr "La tarea de Aracnofobia está completa."
 
 # game/scripts/story_01/arachnophobia.rpy:700
 msgid "Открыто новое задание «Недобросовестный спасатель»!"
-msgstr "¡Una nueva misión de socorrista sin escrúpulos está abierta!"
+msgstr "¡Una nueva oportunidad de «Socorrista sin escrúpulos» está abierta!"
 
 # game/scripts/story_01/arachnophobia.rpy:737
 msgid "Ладно, тогда слезай, я с ним разберусь..."
@@ -1161,11 +1161,11 @@ msgstr "¡Está parado! Podría darse la vuelta y correr hacia nosotros."
 
 # game/scripts/story_01/arachnophobia.rpy:830
 msgid "{i}лапать Алису дальше{/i}"
-msgstr "{i}tanteando más a Alice"
+msgstr "{i}tanteando más a Alice{/i}"
 
 # game/scripts/story_01/arachnophobia.rpy:865
 msgid "{i}присесть на кровать{/i}"
-msgstr "{i}Siéntate en la cama."
+msgstr "{i}Siéntate en la cama.{/i}"
 
 # game/scripts/story_01/arachnophobia.rpy:870
 msgid "Жалко! А я бы на это посмотрел..."
