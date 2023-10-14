@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-14 11:09\n"
+"PO-Revision-Date: 2023-10-14 12:52\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/characters.rpy:343
 msgid "Я всегда в поисках приключений на свою пятую точку."
@@ -25,13 +25,13 @@ msgstr "Lisa es mi hermana menor. Es dulce y divertida. Aún está en la escuela
 # game/scripts/engine/characters.rpy:343
 msgid "Алиса, моя старшая сестра. Немного стервозная. В любой непонятной ситуации поступает просто, бьёт по лицу.\n"
 "Она недавно закончила школу и, так же, как и я, ищет свой путь, целыми днями сидя за своим ноутбуком."
-msgstr "Alicia es mi hermana mayor. Es un poco malvada. Ante una situación problemática, simplemente va y te golpea en la cara.\n"
+msgstr "Alice es mi hermana mayor. Es un poco malvada. Ante una situación problemática, simplemente va y te golpea en la cara.\n"
 "Acaba de terminar la escuela y, al igual que yo, está buscando su camino, sentada frente a su portátil todo el día."
 
 # game/scripts/engine/characters.rpy:343
 msgid "Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании.\n"
 "Хотя, зарплата у неё вполне приличная, но почти всё уходит на оплату жилья, еду и одежду."
-msgstr "Anna es mi madre. Nos ha estado criando a mí y a mis dos hermanas durante años. Trabaja en la oficina de una empresa.\n"
+msgstr "Ann es mi madre. Nos ha estado criando a mí y a mis dos hermanas durante años. Trabaja en la oficina de una empresa.\n"
 "Aunque su salario es bastante bueno, casi todo se gasta en alojamiento, comida y ropa."
 
 # game/scripts/engine/characters.rpy:343
@@ -128,7 +128,7 @@ msgstr "Oigo tan a menudo de Alice diversas amenazas y agravios contra mí que p
 
 # game/scripts/engine/characters.rpy:401
 msgid "На самом же деле, она хорошо ко мне относится, просто в детстве ей постоянно приходилось няньчиться со мной и Лизой..."
-msgstr "De hecho, es buena conmigo, es sólo que de niña tenía que cuidarnos a Lisa y a mí todo el tiempo ...."
+msgstr "De hecho, es buena conmigo, es sólo que de niña tenía que cuidarnos a Lisa y a mí todo el tiempo..."
 
 # game/scripts/engine/characters.rpy:401
 msgid "Из-за этого она выросла с ощущением, что мы украли у неё самое классное время её жизни."
@@ -136,7 +136,7 @@ msgstr "Por eso, creció con la sensación de que le habíamos robado la mejor �
 
 # game/scripts/engine/characters.rpy:401
 msgid "Можно сказать, что именно я и являюсь причиной её стервозности, а значит именно мне нужно попытаться это как-то исправить..."
-msgstr "Supongo que se podría decir que soy la causa de su mala leche, lo que significa que soy yo quien tiene que tratar de arreglarlo de alguna manera...."
+msgstr "Supongo que se podría decir que soy la causa de su mala leche, lo que significa que soy yo quien tiene que tratar de arreglarlo de alguna manera..."
 
 # game/scripts/engine/characters.rpy:401
 msgid "Ну, как хорошие... Правильнее будет сказать, почти хорошие. Благодаря моей затее с пауками, Алиса стала ко мне более снисходительна."
