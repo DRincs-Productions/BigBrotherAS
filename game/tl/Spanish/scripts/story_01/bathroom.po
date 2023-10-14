@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-12 22:15\n"
+"PO-Revision-Date: 2023-10-14 12:52\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/bathroom.rpy:10 #-#-# translate crowdin ev_ann_shower_c167172f:
 msgid "[_tMax_s_11_] Сейчас ванная комната должна быть занята мамой... [nointeract]"
@@ -810,7 +810,7 @@ msgstr "[_tMax_s_07_] Es mucho mejor estar limpio. Especialmente cuando tienes u
 
 # game/scripts/story_01/bathroom.rpy:1484 #-#-# translate crowdin ev_075_3395896e:
 msgid "[_tMax_s_03_] Вот куда бы я обязательно заглянул перед сном, так это в ванную комнату к Алисе..."
-msgstr "[_tMax_s_03_] Un lugar donde definitivamente buscaría antes de acostarme es en el baño de Alicia...."
+msgstr "[_tMax_s_03_] Un lugar donde definitivamente buscaría antes de acostarme es en el baño de Alice..."
 
 # game/scripts/story_01/bathroom.rpy:1489 #-#-# translate crowdin ev_075_31a0ea7c:
 msgid "[_tMax_s_01_] У меня заодно и оправдание, если что, есть... Я зайду проверить, не курит ли она по новой травку, как днём. На деле я на её сиськи хочу поглазеть и чтобы мне точно за это ничего не было... [nointeract]"
@@ -886,7 +886,7 @@ msgstr "[_tMax_s_11_] Tal vez, ya que Alice tiene mucho miedo a las arañas, ¿p
 
 # §translate crowdin strings: #|#|# # game/scripts/story_01/bathroom.rpy:9
 msgid "{i}заглянуть со двора{/i}"
-msgstr "{i}asomándose desde el patio."
+msgstr "{i}mirar desde el patio{/i}"
 
 # game/scripts/story_01/bathroom.rpy:49
 msgid "{i}продолжить подглядывать{/i}"
@@ -972,7 +972,7 @@ msgstr "{i}entra silenciosamente{/i}"
 
 # game/scripts/story_01/bathroom.rpy:948
 msgid "Открыто новое задание «Стремянка»!"
-msgstr "Se ha abierto una nueva oportunidad llamada «Entrenamiento»!"
+msgstr "Se ha abierto una nueva oportunidad llamada «Escalera de mano»!"
 
 # game/scripts/story_01/bathroom.rpy:1035
 msgid "У меня здесь срочные дела!"
