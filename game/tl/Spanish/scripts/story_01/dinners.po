@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-14 11:09\n"
+"PO-Revision-Date: 2023-10-15 14:23\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/dinners.rpy:29 #-#-# translate crowdin ev_dinner_r1_24ac51ec:
 msgid "[_Ann_s_01_] Всем приятного аппетита! Алиса столько всего наготовила сегодня, умничка. Давайте ужинать..."
@@ -326,7 +326,7 @@ msgstr "[_Lisa_s_12_] Oh, mamá. En mi último colegio no teníamos anatomía, y
 
 # game/scripts/story_01/dinners.rpy:153 #-#-# translate crowdin ev_047_45c4fc72:
 msgid "[_Ann_s_14_] Что значит «конечно не смогла»?! А ну-ка иди сюда. Сейчас я тебя накажу, чтобы ты взялась за ум!"
-msgstr "[_Ann_s_14_] ¡¿Qué quieres decir con que no podías?! ¡Ven aquí! ¡Te voy a castigar para que espabiles!"
+msgstr "[_Ann_s_14_] ¡¿Qué quieres decir «con que no podías»?! ¡Ven aquí! ¡Te voy a castigar para que espabiles!"
 
 # game/scripts/story_01/dinners.rpy:158 #-#-# translate crowdin ev_047_4b0a16b6:
 msgid "[_Lisa_s_10_] Ну мам... Я же не специально. Я обещаю, что всё выучу! [nointeract]"
@@ -562,7 +562,7 @@ msgstr "[_Max_s_16_] ¿Sí? No lo sé, no lo sé..."
 
 # game/scripts/story_01/dinners.rpy:264 #-#-# translate crowdin ev_067_fc54c402:
 msgid "[_Ann_s_10_] Что это ещё за «не знаю», Макс?! Тебе что, сложно сестре помочь?"
-msgstr "[_Ann_s_10_] ¡¿Qué clase de \"no lo sé\", Max?! ¿Qué tan difícil es para ti ayudar a tu hermana?"
+msgstr "[_Ann_s_10_] ¡¿Qué clase de «no lo sé», Max?! ¿Qué tan difícil es para ti ayudar a tu hermana?"
 
 # game/scripts/story_01/dinners.rpy:265 #-#-# translate crowdin ev_067_151f115c:
 msgid "[_Max_s_13_] Да помогу я ей..."
