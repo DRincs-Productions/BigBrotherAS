@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-26 17:41\n"
+"PO-Revision-Date: 2023-10-15 15:48\n"
 
-# TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/skils.rpy:14
+# TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/skils.rpy:14
 msgid "скрытность"
 msgstr "gizlilik"
 
@@ -36,35 +36,35 @@ msgstr "öpücükler"
 msgid "сексуальный опыт"
 msgstr "cinsel deneyim"
 
-# game/scripts/engine/skils.rpy:48
+# game/scripts/engine/skils.rpy:51
 msgid "настроение"
 msgstr "ruh hali"
 
-# game/scripts/engine/skils.rpy:182
+# game/scripts/engine/skils.rpy:189
 msgid "Я остался незамеченным!"
 msgstr "Fark edilmeden gittim!"
 
-# game/scripts/engine/skils.rpy:182
+# game/scripts/engine/skils.rpy:189
 msgid "Убеждение удалось!"
 msgstr "Başarıyla ikna etme!"
 
-# game/scripts/engine/skils.rpy:182
+# game/scripts/engine/skils.rpy:189
 msgid "Паук найден!"
 msgstr "Örümcek bulundu!"
 
-# game/scripts/engine/skils.rpy:190
+# game/scripts/engine/skils.rpy:197
 msgid "Я чуть не попался!"
 msgstr "Neredeyse yakalanıyordum!"
 
-# game/scripts/engine/skils.rpy:190
+# game/scripts/engine/skils.rpy:197
 msgid "Вот чёрт, я попался!"
 msgstr "Lanet olsun, bağımlısı oldum!"
 
-# game/scripts/engine/skils.rpy:190
+# game/scripts/engine/skils.rpy:197
 msgid "Убеждение не удалось!"
 msgstr "İkna başarısız oldu!"
 
-# game/scripts/engine/skils.rpy:190
+# game/scripts/engine/skils.rpy:197
 msgid "Безрезультатно!"
 msgstr "Hiçbir işe yaramıyor!"
 
