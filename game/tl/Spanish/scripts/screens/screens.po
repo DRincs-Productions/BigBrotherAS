@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-14 14:27\n"
+"PO-Revision-Date: 2023-10-15 14:23\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/screens.rpy:274
 msgid "Нужно подождать дней: {cooldown}"
@@ -243,7 +243,7 @@ msgstr "Escala de los elementos de interfaz: [scale]%"
 
 # game/scripts/screens/screens.rpy:1165
 msgid "Прозрачность текстового окна: [opacity:.0f]%"
-msgstr "Transparencia de la caja de texto: [opacidad:.0f]%"
+msgstr "Transparencia de la caja de texto: [opacity:.0f]%"
 
 # game/scripts/screens/screens.rpy:1171
 msgid "АУДИО"
