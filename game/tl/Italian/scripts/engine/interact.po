@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-26 17:40\n"
+"PO-Revision-Date: 2023-10-15 15:46\n"
 
-# TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/engine/interact.rpy:35 #-#-# translate crowdin talks_start_41e41361:
+# TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/engine/interact.rpy:35 #-#-# translate crowdin talks_start_41e41361:
 msgid "[_Alice_s_00_] Ну же, Макс, что хотел? [nointeract]"
 msgstr "[_Alice_s_00_] Dai, Max, cosa vuoi? [nointeract]"
 
@@ -36,15 +36,15 @@ msgstr "[_Lisa_s_00_] Max, vuoi chiacchierare? [nointeract]"
 msgid "[_Lisa_s_00_] Я слушаю, Макс, что ты хотел? [nointeract]"
 msgstr "[_Lisa_s_00_] Ti ascolto, Max, cosa volevi? [nointeract]"
 
-# game/scripts/engine/interact.rpy:74 #-#-# translate crowdin dirty_max_82ca439f:
+# game/scripts/engine/interact.rpy:76 #-#-# translate crowdin dirty_max_82ca439f:
 msgid "[_Alice_s_11_] Фу ты! Это от тебя что ли, Макс, так воняет? Держись от меня подальше... [nointeract]"
 msgstr "[_Alice_s_11_] Sei tu, Max, che puzzi così tanto? Stai lontano da me... [nointeract]"
 
-# game/scripts/engine/interact.rpy:76 #-#-# translate crowdin dirty_max_a81536bb:
+# game/scripts/engine/interact.rpy:78 #-#-# translate crowdin dirty_max_a81536bb:
 msgid "[_Ann_s_11_] Ой-ё-ёй, сынок! Ты помыться не хочешь? По-моему, очень даже нужно... [nointeract]"
 msgstr "[_Ann_s_11_] Oh-oh-oh, figliolo! Non vuoi farti un bagno? Penso che dovresti... [nointeract]"
 
-# game/scripts/engine/interact.rpy:78 #-#-# translate crowdin dirty_max_0a097abd:
+# game/scripts/engine/interact.rpy:80 #-#-# translate crowdin dirty_max_0a097abd:
 msgid "[_Lisa_s_12_] Ой, Макс, фу! Ты что, вообще не моешься? Даже не подходи ко мне... [nointeract]"
 msgstr "[_Lisa_s_12_] Oh, Max, che schifo! Non ti lavi per niente? Non avvicinarti nemmeno a me... [nointeract]"
 
@@ -60,119 +60,119 @@ msgstr "No. Sto solo dicendo... ({i}andare via{/i})"
 msgid "Нет, ничего. ({i}уйти{/i})"
 msgstr "No, niente. ({i}andarsene{/i})"
 
-# game/scripts/engine/interact.rpy:79
+# game/scripts/engine/interact.rpy:81
 msgid "{i}уйти{/i}"
 msgstr "{i}vattene{/i}"
 
-# game/scripts/engine/interact.rpy:172
+# game/scripts/engine/interact.rpy:174
 msgid "Помочь с посудой"
 msgstr "Aiuto con i piatti"
 
-# game/scripts/engine/interact.rpy:172
+# game/scripts/engine/interact.rpy:174
 msgid "Любоваться"
 msgstr "Ammirare"
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Тебе не жарко в этом купальнике?"
 msgstr "Non sei sexy con quel costume da bagno?"
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Значит Алекс, да?"
 msgstr "Quindi Alex, eh?"
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Хорошо загорается?"
 msgstr "Qui si sta bene?"
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Загораешь?"
 msgstr "Abbronzatura?"
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Как загорается?"
 msgstr "Come si sta?"
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Что читаешь?"
 msgstr "Cosa leggi?"
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Не возражаешь против компании?"
 msgstr "Vuoi un po' di compagnia?"
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Что смотришь?"
 msgstr "Cosa stai guardando?"
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Плавать собираешься?"
 msgstr "Hai intenzione di nuotare?"
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Я занырну к тебе?"
 msgstr "Mi immergo con te?"
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Почему не плаваешь?"
 msgstr "Perché non stai nuotando?"
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Поплаваем вместе?"
 msgstr "Vogliamo nuotare insieme?"
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Будешь плавать?"
 msgstr "Hai intenzione di nuotare?"
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Не против, если я присоединюсь?"
 msgstr "Ti dispiace se mi unisco a te?"
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Насчёт случая с Лизой..."
 msgstr "Per quanto riguarda il caso Lisa..."
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Насчёт случая утром..."
 msgstr "A proposito dell'incidente di questa mattina..."
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Тебе помочь накрыть на стол?"
 msgstr "Hai bisogno di aiuto per apparecchiare la tavola?"
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Давай я накрою на стол?"
 msgstr "Apparecchio la tavola?"
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Хочешь поплавать перед сном?"
 msgstr "Vuoi fare una nuotata prima di andare a letto?"
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Решила поплавать перед сном?"
 msgstr "Hai deciso di fare una nuotata prima di andare a letto?"
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Ты опять куришь?!"
 msgstr "Stai fumando di nuovo?!"
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Насчёт твоего парня..."
 msgstr "Per quanto riguarda il tuo ragazzo..."
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Насчёт Алекса..."
 msgstr "Per quanto riguarda Alex..."
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Я решил потренироваться..."
 msgstr "Ho deciso di esercitarmi..."
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "У меня для тебя обещанная вкусняшка!"
 msgstr "Ho il dolcetto che ti ho promesso!"
 
-# game/scripts/engine/interact.rpy:178
+# game/scripts/engine/interact.rpy:180
 msgid "Я убрал паука из ванной комнаты!"
 msgstr "Ho tolto il ragno dal bagno!"
 
