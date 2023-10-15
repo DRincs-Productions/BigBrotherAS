@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2023-09-26 17:40\n"
+"PO-Revision-Date: 2023-10-15 15:47\n"
 
-# TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/02_func.rpy:371
+# TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/02_func.rpy:371
 msgid "Скрытность"
 msgstr "Furtividade"
 
@@ -20,7 +20,15 @@ msgstr "Furtividade"
 msgid "Убеждение"
 msgstr "Persuasão"
 
-# game/scripts/engine/02_func.rpy:375
+# game/scripts/engine/02_func.rpy:373
+msgid "Массаж"
+msgstr ""
+
+# game/scripts/engine/02_func.rpy:376
 msgid "Настроение {char_name}"
+msgstr ""
+
+# game/scripts/engine/02_func.rpy:376
+msgid "мамы"
 msgstr ""
 
