@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-15 15:45\n"
+"PO-Revision-Date: 2023-10-15 16:49\n"
 
 # TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/yoga.rpy:19 #-#-# translate crowdin forced_phys_ed_first_time_521877f4:
 msgid "[_Ann_s_11_] Макс, а ты почему не переоделся? У тебя же спортивная форма есть."
@@ -26,11 +26,11 @@ msgstr "[_Ann_s_00_] Ahh. Es una pena. Al menos deberías comprarte unos pantalo
 
 # game/scripts/story_01/yoga.rpy:24 #-#-# translate crowdin forced_phys_ed_first_time_89159fa8:
 msgid "[_Ann_s_10_] Ааа... Так я же тебе шорты купила! Надо было их надеть, всё полегче бы было, чем в этих джинсах. Но дело твоё..."
-msgstr ""
+msgstr "[_Ann_s_10_] Oh. ¡Te compré pantalones cortos! Deberías habértelos puesto, habría sido más fácil que con esos vaqueros. Pero depende de ti..."
 
 # game/scripts/story_01/yoga.rpy:26 #-#-# translate crowdin forced_phys_ed_first_time_53815531:
 msgid "[_Ann_s_02_] Ааа... Видишь, не зря я тебе шорты купила. В них всё полегче будет, чем в твоих джинсах."
-msgstr ""
+msgstr "[_Ann_s_02_] Ahh. Ves, te compré pantalones cortos por una razón. Serán más sencillo que con tus vaqueros."
 
 # game/scripts/story_01/yoga.rpy:27 #-#-# translate crowdin forced_phys_ed_first_time_2e133be9:
 msgid "[_Max_s_12_] Ага. А что я буду делать?"
@@ -182,7 +182,7 @@ msgstr "[_tMax_s_01_] De alguna manera, incluso con vaqueros, me aprieta mucho e
 
 # game/scripts/story_01/yoga.rpy:154 #-#-# translate crowdin forced_phys_ed_first_time_d36327f5:
 msgid "[_tMax_s_04_] Как хорошо, что я надел шорты. В джинсах сейчас бы стало очень тесно между ног от того, какая мама сексуальная! А в шортах так свободно..."
-msgstr ""
+msgstr "[_tMax_s_04_] Menos mal que llevo pantalones cortos. En vaqueros, ahora mismo me habría apretado mucho entre las piernas de lo sexy que es mamá. Y los pantalones cortos son tan sueltos..."
 
 # game/scripts/story_01/yoga.rpy:158 #-#-# translate crowdin forced_phys_ed_first_time_163b2820:
 msgid "[_Ann_s_03_] Ну что, на пресс упражнение ещё осилишь или всё, выдохся?"
@@ -270,23 +270,23 @@ msgstr "[_Ann_s_01_] Así que vamos a los ejercicios básicos. Yo haré yoga, t�
 
 # game/scripts/story_01/yoga.rpy:218 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_aecdfc1f:
 msgid "[_Ann_s_02_] Знаешь, что поможет тебе взбодриться? Упражнения на рястяжку! Ты вон, как раз в шортах."
-msgstr ""
+msgstr "[_Ann_s_02_] ¿Sabes qué te animará? ¡Ejercicios de estiramiento! Llevas pantalones cortos."
 
 # game/scripts/story_01/yoga.rpy:219 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_49124f87:
 msgid "[_Max_s_12_] Ну, можно и потянуться ещё немного..."
-msgstr ""
+msgstr "[_Max_s_12_] Bueno, puedes estirarte un poco más..."
 
 # game/scripts/story_01/yoga.rpy:223 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_de81c139:
 msgid "[_Ann_s_04_] Давай вместе со мной. Гибкость лучше поддерживать с молодых лет, сынок. Если в это втянуться, то потом растягиваться стенет даже приятно."
-msgstr ""
+msgstr "[_Ann_s_04_] Ven conmigo. La flexibilidad se mantiene mejor desde una edad temprana, hijo. Si le coges el truco, es un placer estirar más adelante."
 
 # game/scripts/story_01/yoga.rpy:224 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_bf3fc7f2:
 msgid "[_tMax_s_03_] Про «потом» не знаю, а мне уже сейчас приятно растягиваться. Ещё бы, ведь мама у меня такая конфетка!"
-msgstr ""
+msgstr "[_tMax_s_03_] No sé si más tarde, pero yo ya estoy disfrutando de los estiramientos. Ya lo creo, ¡porque mi madre es un encanto!"
 
 # game/scripts/story_01/yoga.rpy:226 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_4cbdad2a:
 msgid "[_Ann_s_01_] Теперь переходим к основным упражнениям. Я буду заниматься йогой, а ты отжимайся, приседай и упражнения на пресс делай. И на совесть, Макс! [nointeract]"
-msgstr ""
+msgstr "[_Ann_s_01_] Ahora pasemos a los ejercicios básicos. Yo haré yoga, tú flexiones, sentadillas y abdominales. ¡Y sobre tu conciencia, Max! [nointeract]"
 
 # game/scripts/story_01/yoga.rpy:234 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_7132072f:
 msgid "[_tMax_s_04_] На самом деле, не так уж и напряжно потренироваться вместе с мамой. От её гибкости и красоты просто нельзя оторвать взгляд..."
