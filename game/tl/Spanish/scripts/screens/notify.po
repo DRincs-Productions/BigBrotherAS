@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-14 12:52\n"
+"PO-Revision-Date: 2023-10-15 15:45\n"
 
-# TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/notify.rpy:35
-msgid "Нужно выполнить задания \"Любопытное содержимое\", \"Способ заработать\", а так же подбросить паука Алисе в душ."
-msgstr "Tienes que completar las tareas \"Contenido curioso\", \"Una forma de ganar dinero\", así como plantar una araña en la ducha de Alice."
+# TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/notify.rpy:35
+msgid "Нужно выполнить задания \"Любопытное содержимое\", \"Способ заработать\", а так же подбросить паука, натирая Алису маслом."
+msgstr ""
 
 # game/scripts/screens/notify.rpy:39
 msgid "Ok"
