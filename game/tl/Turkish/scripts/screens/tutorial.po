@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-26 17:42\n"
+"PO-Revision-Date: 2023-10-15 15:48\n"
 
-# TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/tutorial.rpy:14
+# TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/tutorial.rpy:14
 msgid "Главная панель игры располагается внизу."
 msgstr ""
 
@@ -149,79 +149,111 @@ msgstr ""
 msgid "Настроение персонажей, с которыми контактирует Макс, может слегка влиять на исход некоторых событий."
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:138
+# game/scripts/screens/tutorial.rpy:114
+msgid "По понедельникам, после завтрака, Анна будет выдавать Максу карманные деньги на неделю, как и надбавку за выполнение различных дел по дому."
+msgstr ""
+
+# game/scripts/screens/tutorial.rpy:114
+msgid "Максу лучше выполнить эти дела до выходных, чтобы не расстраивать Анну и не потерять в надбавке к карманным."
+msgstr ""
+
+# game/scripts/screens/tutorial.rpy:114
+msgid "Ему нужно выполнить следующее: пропылесосить пол в доме, подрезать траву на газоне, почистить воду в бассейне и сходить за продуктами в магазин."
+msgstr ""
+
+# game/scripts/screens/tutorial.rpy:114
+msgid "Соответствующие иконки действий появятся в комнате Макса (пылесосить дом) и во дворе (подстричь газон, чистить бассейн, покинуть виллу) между завтраком и ужином, с понедельника по пятницу."
+msgstr ""
+
+# game/scripts/screens/tutorial.rpy:114
+msgid "Каждое из этих дел отнимет у Макса около часа времени и скажется на показателе его чистоты."
+msgstr ""
+
+# game/scripts/screens/tutorial.rpy:114
+msgid "Так же не забывайте, что после каждого выполненного дела Максу нужно отдохнуть несколько часов, прежде чем он сможет приступить к выполнению других дел по дому."
+msgstr ""
+
+# game/scripts/screens/tutorial.rpy:114
+msgid "По пятницам Макс будет отчитываться Анне о своих успехах и если он что-то не успел сделать, то будет делать это принудительно в субботу."
+msgstr ""
+
+# game/scripts/screens/tutorial.rpy:159
 msgid "Управление"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:142
+# game/scripts/screens/tutorial.rpy:163
 msgid "Навыки"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:144
+# game/scripts/screens/tutorial.rpy:165
 msgid "Настроение"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:288
+# game/scripts/screens/tutorial.rpy:168
+msgid "Обязанности по дому"
+msgstr ""
+
+# game/scripts/screens/tutorial.rpy:321
 msgid "Сейчас Лиза должна собираться в школу..."
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:291
+# game/scripts/screens/tutorial.rpy:324
 msgid "{i}заглянуть в окно{/i}"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:291
+# game/scripts/screens/tutorial.rpy:324
 msgid "Шанс"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:296
+# game/scripts/screens/tutorial.rpy:329
 msgid "опыт применения навыка"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:302
+# game/scripts/screens/tutorial.rpy:335
 msgid "Ой, Макс! Я не одета!!! Не мешай мне собираться в школу!"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:306
+# game/scripts/screens/tutorial.rpy:339
 msgid "Не стесняйся, без одежды ты очень красиво смотришься!"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:310
+# game/scripts/screens/tutorial.rpy:343
 msgid "Я наоборот, помочь хотел..."
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:318
+# game/scripts/screens/tutorial.rpy:351
 msgid "настроение Лизы"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:384
+# game/scripts/screens/tutorial.rpy:417
 msgid "Неужели тебе надоело бездельничать и ты пришёл мне помочь?"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:387
+# game/scripts/screens/tutorial.rpy:420
 msgid "Ага. Давай, я домою остальное..."
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:388
+# game/scripts/screens/tutorial.rpy:421
 msgid "Нет, просто хотел поглазеть..."
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:392
+# game/scripts/screens/tutorial.rpy:425
 msgid "Макс! Ты офигел что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла!"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:395
+# game/scripts/screens/tutorial.rpy:428
 msgid "Ты бы классно смотрелась на обложке журнала!"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:399
+# game/scripts/screens/tutorial.rpy:432
 msgid "настроение Алисы"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:429
+# game/scripts/screens/tutorial.rpy:545
 msgid "Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:431
+# game/scripts/screens/tutorial.rpy:547
 msgid "Теперь вы управляете жизнью Макса! Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
 msgstr ""
 
