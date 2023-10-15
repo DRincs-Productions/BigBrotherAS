@@ -1,6 +1,6 @@
-﻿# TODO: Translation updated at 2023-09-10 00:31
+﻿# TODO: Translation updated at 2023-10-14 21:25
 
-# game/scripts/engine/special.rpy:8
+# game/scripts/engine/special.rpy:9
 translate crowdin after_load_aa0b946c:
 
     # "К сожалению сохранения этой версии не поддерживаются. Начните новую игру или выберите другое сохранение."

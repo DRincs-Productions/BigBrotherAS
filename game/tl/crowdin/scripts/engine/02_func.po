@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/02_func.rpy:371
+﻿# TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/02_func.rpy:371
 msgid "Скрытность"
 msgstr "Скрытность"
 
@@ -6,7 +6,15 @@ msgstr "Скрытность"
 msgid "Убеждение"
 msgstr "Убеждение"
 
-# game/scripts/engine/02_func.rpy:375
+# game/scripts/engine/02_func.rpy:373
+msgid "Массаж"
+msgstr "Массаж"
+
+# game/scripts/engine/02_func.rpy:376
 msgid "Настроение {char_name}"
 msgstr "Настроение {char_name}"
+
+# game/scripts/engine/02_func.rpy:376
+msgid "мамы"
+msgstr "мамы"
 

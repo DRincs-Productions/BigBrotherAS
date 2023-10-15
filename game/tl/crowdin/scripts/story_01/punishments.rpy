@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-09-10 00:31
+﻿# TODO: Translation updated at 2023-10-14 21:25
 
 # game/scripts/story_01/punishments.rpy:39
 translate crowdin punishments_allocation_d4a1750b:

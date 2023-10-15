@@ -1,128 +1,156 @@
-﻿# TODO: Translation updated at 2023-09-10 00:31
+﻿# TODO: Translation updated at 2023-10-14 21:25
 
 translate crowdin strings:
 
-    # game/scripts/engine/characters.rpy:343
+    # game/scripts/engine/characters.rpy:323
     old "Я всегда в поисках приключений на свою пятую точку."
     new "Я всегда в поисках приключений на свою пятую точку."
 
-    # game/scripts/engine/characters.rpy:343
+    # game/scripts/engine/characters.rpy:323
     old "Лиза, моя младшая сестрёнка. Милая и весёлая. Она ещё учится в школе.\nС ней мы общаемся на одной волне, хотя бывает и ссоримся. Но если что-то случается, то защиты она ищет именно у меня."
     new "Лиза, моя младшая сестрёнка. Милая и весёлая. Она ещё учится в школе.\nС ней мы общаемся на одной волне, хотя бывает и ссоримся. Но если что-то случается, то защиты она ищет именно у меня."
 
-    # game/scripts/engine/characters.rpy:343
+    # game/scripts/engine/characters.rpy:323
     old "Алиса, моя старшая сестра. Немного стервозная. В любой непонятной ситуации поступает просто, бьёт по лицу.\nОна недавно закончила школу и, так же, как и я, ищет свой путь, целыми днями сидя за своим ноутбуком."
     new "Алиса, моя старшая сестра. Немного стервозная. В любой непонятной ситуации поступает просто, бьёт по лицу.\nОна недавно закончила школу и, так же, как и я, ищет свой путь, целыми днями сидя за своим ноутбуком."
 
-    # game/scripts/engine/characters.rpy:343
+    # game/scripts/engine/characters.rpy:323
     old "Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании.\nХотя, зарплата у неё вполне приличная, но почти всё уходит на оплату жилья, еду и одежду."
     new "Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании.\nХотя, зарплата у неё вполне приличная, но почти всё уходит на оплату жилья, еду и одежду."
 
-    # game/scripts/engine/characters.rpy:343
+    # game/scripts/engine/characters.rpy:323
     old "Не знаю почему, но при знакомстве с внезапным маминым ухажёром Эриком, я начал чувствовать, что ничего хорошего он в мою жизнь не принесёт.\nКак и в жизнь кого-либо из моей семьи. Может быть мне кажется, но какой-то он подозрительный..."
     new "Не знаю почему, но при знакомстве с внезапным маминым ухажёром Эриком, я начал чувствовать, что ничего хорошего он в мою жизнь не принесёт.\nКак и в жизнь кого-либо из моей семьи. Может быть мне кажется, но какой-то он подозрительный..."
 
-    # game/scripts/engine/characters.rpy:343
+    # game/scripts/engine/characters.rpy:323
     old "Мия, эффектная дама-адвокат. Оказывает юридические услуги для бизнеса моего отца. Похоже, что она профессионал своего дела и это круто.\nВедь когда у тебя есть знакомый юрист, жить становится немного спокойнее. А вот то, какая она в жизни мне только предстоит узнать, если повезёт..."
     new "Мия, эффектная дама-адвокат. Оказывает юридические услуги для бизнеса моего отца. Похоже, что она профессионал своего дела и это круто.\nВедь когда у тебя есть знакомый юрист, жить становится немного спокойнее. А вот то, какая она в жизни мне только предстоит узнать, если повезёт..."
 
-    # game/scripts/engine/characters.rpy:352
+    # game/scripts/engine/characters.rpy:332
     old "Ужасное"
     new "Ужасное"
 
-    # game/scripts/engine/characters.rpy:352
+    # game/scripts/engine/characters.rpy:332
     old "Плохое"
     new "Плохое"
 
-    # game/scripts/engine/characters.rpy:352
+    # game/scripts/engine/characters.rpy:332
     old "Не очень"
     new "Не очень"
 
-    # game/scripts/engine/characters.rpy:352
+    # game/scripts/engine/characters.rpy:332
     old "Нейтральное"
     new "Нейтральное"
 
-    # game/scripts/engine/characters.rpy:352
+    # game/scripts/engine/characters.rpy:332
     old "Неплохое"
     new "Неплохое"
 
-    # game/scripts/engine/characters.rpy:352
+    # game/scripts/engine/characters.rpy:332
     old "Хорошее"
     new "Хорошее"
 
-    # game/scripts/engine/characters.rpy:352
+    # game/scripts/engine/characters.rpy:332
     old "Прекрасное"
     new "Прекрасное"
 
-    # game/scripts/engine/characters.rpy:362
+    # game/scripts/engine/characters.rpy:342
     old "Враждебные"
     new "Враждебные"
 
-    # game/scripts/engine/characters.rpy:362
+    # game/scripts/engine/characters.rpy:342
     old "Плохие"
     new "Плохие"
 
-    # game/scripts/engine/characters.rpy:362
+    # game/scripts/engine/characters.rpy:342
     old "Неплохие"
     new "Неплохие"
 
-    # game/scripts/engine/characters.rpy:362
+    # game/scripts/engine/characters.rpy:342
     old "Хорошие"
     new "Хорошие"
 
-    # game/scripts/engine/characters.rpy:362
+    # game/scripts/engine/characters.rpy:342
     old "Тёплые"
     new "Тёплые"
 
-    # game/scripts/engine/characters.rpy:362
+    # game/scripts/engine/characters.rpy:342
     old "Близкие"
     new "Близкие"
 
-    # game/scripts/engine/characters.rpy:375
+    # game/scripts/engine/characters.rpy:355
     old "Макс"
     new "Макс"
 
-    # game/scripts/engine/characters.rpy:380
+    # game/scripts/engine/characters.rpy:360
     old "Лиза"
     new "Лиза"
 
-    # game/scripts/engine/characters.rpy:383
+    # game/scripts/engine/characters.rpy:363
     old "Алиса"
     new "Алиса"
 
-    # game/scripts/engine/characters.rpy:386
+    # game/scripts/engine/characters.rpy:366
     old "Мама"
     new "Мама"
 
-    # game/scripts/engine/characters.rpy:389
+    # game/scripts/engine/characters.rpy:369
     old "Мия"
     new "Мия"
 
-    # game/scripts/engine/characters.rpy:392
+    # game/scripts/engine/characters.rpy:372
     old "Эрик"
     new "Эрик"
 
-    # game/scripts/engine/characters.rpy:401
+    # game/scripts/engine/characters.rpy:381
     old "Я так часто слышу от Алисы различные угрозы и недовольства в свой адрес, что может показаться, будто она меня недолюбливает."
     new "Я так часто слышу от Алисы различные угрозы и недовольства в свой адрес, что может показаться, будто она меня недолюбливает."
 
-    # game/scripts/engine/characters.rpy:401
+    # game/scripts/engine/characters.rpy:381
     old "На самом же деле, она хорошо ко мне относится, просто в детстве ей постоянно приходилось няньчиться со мной и Лизой..."
     new "На самом же деле, она хорошо ко мне относится, просто в детстве ей постоянно приходилось няньчиться со мной и Лизой..."
 
-    # game/scripts/engine/characters.rpy:401
+    # game/scripts/engine/characters.rpy:381
     old "Из-за этого она выросла с ощущением, что мы украли у неё самое классное время её жизни."
     new "Из-за этого она выросла с ощущением, что мы украли у неё самое классное время её жизни."
 
-    # game/scripts/engine/characters.rpy:401
+    # game/scripts/engine/characters.rpy:381
     old "Можно сказать, что именно я и являюсь причиной её стервозности, а значит именно мне нужно попытаться это как-то исправить..."
     new "Можно сказать, что именно я и являюсь причиной её стервозности, а значит именно мне нужно попытаться это как-то исправить..."
 
-    # game/scripts/engine/characters.rpy:401
+    # game/scripts/engine/characters.rpy:381
     old "Ну, как хорошие... Правильнее будет сказать, почти хорошие. Благодаря моей затее с пауками, Алиса стала ко мне более снисходительна."
     new "Ну, как хорошие... Правильнее будет сказать, почти хорошие. Благодаря моей затее с пауками, Алиса стала ко мне более снисходительна."
 
-    # game/scripts/engine/characters.rpy:401
+    # game/scripts/engine/characters.rpy:381
     old "Правда, пока ещё, далеко не во всём."
     new "Правда, пока ещё, далеко не во всём."
+
+    # game/scripts/engine/characters.rpy:381
+    old "Когда-то мама многим пожертвовала, чтобы дать всем нам как можно больше комфорта и заботы."
+    new "Когда-то мама многим пожертвовала, чтобы дать всем нам как можно больше комфорта и заботы."
+
+    # game/scripts/engine/characters.rpy:381
+    old "А вот когда она начала много работать, чтобы наверстать упущенное, мы немного отдалились."
+    new "А вот когда она начала много работать, чтобы наверстать упущенное, мы немного отдалились."
+
+    # game/scripts/engine/characters.rpy:381
+    old "Было бы неплохо теперь и мне позаботиться о ней, как в плане внимания, так и финансово."
+    new "Было бы неплохо теперь и мне позаботиться о ней, как в плане внимания, так и финансово."
+
+    # game/scripts/engine/characters.rpy:381
+    old "Пора взрослеть и брать на себя много обязанностей. Всё-таки я единственный мужчина в нашей семье..."
+    new "Пора взрослеть и брать на себя много обязанностей. Всё-таки я единственный мужчина в нашей семье..."
+
+    # game/scripts/engine/characters.rpy:381
+    old "Вот я и показал маме, что на меня можно положиться. Пока всего лишь в некоторых домашних обязанностях, но это уже хорошо!"
+    new "Вот я и показал маме, что на меня можно положиться. Пока всего лишь в некоторых домашних обязанностях, но это уже хорошо!"
+
+    # game/scripts/engine/characters.rpy:381
+    old "А будет ещё лучше, если ей не придётся больше платить мне за исполнение этих домашних обязанностей, как и выдавать карманные."
+    new "А будет ещё лучше, если ей не придётся больше платить мне за исполнение этих домашних обязанностей, как и выдавать карманные."
+
+    # game/scripts/engine/characters.rpy:381
+    old "Для этого мне нужно начать хорошо зарабатывать..."
+    new "Для этого мне нужно начать хорошо зарабатывать..."
 

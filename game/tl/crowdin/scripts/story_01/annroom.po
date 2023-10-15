@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/annroom.rpy:12 #-#-# translate crowdin ev_ann_dressed_d0c78fcb:
+﻿# TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/annroom.rpy:12 #-#-# translate crowdin ev_ann_dressed_d0c78fcb:
 msgid "[_tMax_s_11_] Сейчас мама должна собираться на работу... [nointeract]"
 msgstr "[_tMax_s_11_] Сейчас мама должна собираться на работу... [nointeract]"
 
@@ -66,6 +66,18 @@ msgstr "[_Ann_s_01_] Так, сынок, я отправляюсь на рабо
 msgid "[_Max_s_01_] Конечно, мам. Хорошего тебе дня!"
 msgstr "[_Max_s_01_] Конечно, мам. Хорошего тебе дня!"
 
+# game/scripts/story_01/annroom.rpy:199 #-#-# translate crowdin ev_024_338fa70d:
+msgid "[_Ann_s_04_] Спасибо, Макс! Тебе тоже. И пока не ушла, иди ко мне, я тебя в щёчку поцелую... [nointeract]"
+msgstr "[_Ann_s_04_] Спасибо, Макс! Тебе тоже. И пока не ушла, иди ко мне, я тебя в щёчку поцелую... [nointeract]"
+
+# game/scripts/story_01/annroom.rpy:207 #-#-# translate crowdin ev_024_45cf9986:
+msgid "[_tMax_s_04_] Как же приятно получать объятия и поцелуи от такой шикарной женщины, как моя мама! Приходится даже хорошенько вжаться в её бесподобную грудь, чтобы она достала губами до моего лица..."
+msgstr "[_tMax_s_04_] Как же приятно получать объятия и поцелуи от такой шикарной женщины, как моя мама! Приходится даже хорошенько вжаться в её бесподобную грудь, чтобы она достала губами до моего лица..."
+
+# game/scripts/story_01/annroom.rpy:211 #-#-# translate crowdin ev_024_873762ea:
+msgid "[_Ann_s_02_] До вечера, дорогой. Я побежала..."
+msgstr "[_Ann_s_02_] До вечера, дорогой. Я побежала..."
+
 # §translate crowdin strings: #|#|# # game/scripts/story_01/annroom.rpy:35
 msgid "Конечно, мам. Не буду мешать..."
 msgstr "Конечно, мам. Не буду мешать..."
@@ -81,4 +93,8 @@ msgstr "Ухх... А пройтись в этом, как по подиуму м
 # game/scripts/story_01/annroom.rpy:60
 msgid "Да, был вопросик, но от такой красоты я всё позабыл..."
 msgstr "Да, был вопросик, но от такой красоты я всё позабыл..."
+
+# game/scripts/story_01/annroom.rpy:198
+msgid "{i}подойти к маме{/i}"
+msgstr "{i}подойти к маме{/i}"
 

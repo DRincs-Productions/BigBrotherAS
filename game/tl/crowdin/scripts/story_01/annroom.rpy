@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-09-10 00:31
+﻿# TODO: Translation updated at 2023-10-14 21:25
 
 # game/scripts/story_01/annroom.rpy:12
 translate crowdin ev_ann_dressed_d0c78fcb:
@@ -102,6 +102,24 @@ translate crowdin ev_024_b6f3ae4d:
     # Max 01 "Конечно, мам. Хорошего тебе дня!"
     Max 01 "Конечно, мам. Хорошего тебе дня!"
 
+# game/scripts/story_01/annroom.rpy:199
+translate crowdin ev_024_338fa70d:
+
+    # Ann 04 "Спасибо, Макс! Тебе тоже. И пока не ушла, иди ко мне, я тебя в щёчку поцелую..." nointeract
+    Ann 04 "Спасибо, Макс! Тебе тоже. И пока не ушла, иди ко мне, я тебя в щёчку поцелую..." nointeract
+
+# game/scripts/story_01/annroom.rpy:207
+translate crowdin ev_024_45cf9986:
+
+    # tMax 04 "Как же приятно получать объятия и поцелуи от такой шикарной женщины, как моя мама! Приходится даже хорошенько вжаться в её бесподобную грудь, чтобы она достала губами до моего лица..."
+    tMax 04 "Как же приятно получать объятия и поцелуи от такой шикарной женщины, как моя мама! Приходится даже хорошенько вжаться в её бесподобную грудь, чтобы она достала губами до моего лица..."
+
+# game/scripts/story_01/annroom.rpy:211
+translate crowdin ev_024_873762ea:
+
+    # Ann 02 "До вечера, дорогой. Я побежала..."
+    Ann 02 "До вечера, дорогой. Я побежала..."
+
 translate crowdin strings:
 
     # game/scripts/story_01/annroom.rpy:35
@@ -119,4 +137,8 @@ translate crowdin strings:
     # game/scripts/story_01/annroom.rpy:60
     old "Да, был вопросик, но от такой красоты я всё позабыл..."
     new "Да, был вопросик, но от такой красоты я всё позабыл..."
+
+    # game/scripts/story_01/annroom.rpy:198
+    old "{i}подойти к маме{/i}"
+    new "{i}подойти к маме{/i}"
 

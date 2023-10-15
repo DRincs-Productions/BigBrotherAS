@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-09-10 00:31
+﻿# TODO: Translation updated at 2023-10-14 21:25
 
 translate crowdin strings:
 
@@ -10,7 +10,15 @@ translate crowdin strings:
     old "Убеждение"
     new "Убеждение"
 
-    # game/scripts/engine/02_func.rpy:375
+    # game/scripts/engine/02_func.rpy:373
+    old "Массаж"
+    new "Массаж"
+
+    # game/scripts/engine/02_func.rpy:376
     old "Настроение {char_name}"
     new "Настроение {char_name}"
+
+    # game/scripts/engine/02_func.rpy:376
+    old "мамы"
+    new "мамы"
 
