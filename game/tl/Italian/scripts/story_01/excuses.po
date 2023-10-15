@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-10-15 15:47\n"
+"PO-Revision-Date: 2023-10-15 17:47\n"
 
 # TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/excuses.rpy:8 #-#-# translate crowdin tasty_open_alice_9d7c61dc:
 msgid "[_tMax_s_13_] Фух... Остался жив и то хорошо! Но теперь нужно достать для Алисы какие-нибудь сладости."
@@ -26,7 +26,7 @@ msgstr "[_Alice_s_02_] Vuoi davvero correre il rischio? Che cos'hai questa volta
 
 # game/scripts/story_01/excuses.rpy:28 #-#-# translate crowdin ev_062_7dc7a57a:
 msgid "[_Alice_s_02_] Да ладно! Это мне нравится... И что там у тебя? [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_02_] Dai! Mi piace. Allora, che cos'hai? [nointeract]"
 
 # game/scripts/story_01/excuses.rpy:33 #-#-# translate crowdin ev_062_18eacfc9:
 msgid "[_Alice_s_13_] Ничего себе! Ты даже умудрился купить мои любимые конфеты! Большое спасибо! И кто об этом проболтался?"
