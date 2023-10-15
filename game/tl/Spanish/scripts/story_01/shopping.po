@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-15 15:45\n"
+"PO-Revision-Date: 2023-10-15 16:49\n"
 
 # TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/shopping.rpy:10 #-#-# translate crowdin ev_051_f2e28c50:
 msgid "[_Ann_s_01_] Макс, мы пошли по магазинам. Не скучай тут без нас, хорошо? Вернёмся часа через 3... [nointeract]"
@@ -22,39 +22,39 @@ msgstr "[_tMax_s_14_] Antes de que se me olvide, lavaré los platos enseguida. O
 
 # game/scripts/story_01/shopping.rpy:29 #-#-# translate crowdin ev_051_75b6f860:
 msgid "[_Ann_s_10_] Макс, а ты что это стоишь без дела? Если помнишь, то тебе нужно с кое-чем закончить... Причём сегодня!"
-msgstr ""
+msgstr "[_Ann_s_10_] Max, ¿qué haces ahí parado? Si recuerdas, hay algo que tienes que terminar. ¡Hoy mismo!"
 
 # game/scripts/story_01/shopping.rpy:31 #-#-# translate crowdin ev_051_f646d107:
 msgid "[_Ann_s_14_] Макс, а ты что это стоишь без дела? Тебе же кучу всего нужно сделать, если помнишь... Причём сегодня!"
-msgstr ""
+msgstr "[_Ann_s_14_] Max, ¿qué haces ahí parado? Tienes muchas cosas que hacer, si recuerdas. ¡Hoy!"
 
 # game/scripts/story_01/shopping.rpy:32 #-#-# translate crowdin ev_051_683c727f:
 msgid "[_Max_s_12_] Да, мам, помню. Скоро этим займусь..."
-msgstr ""
+msgstr "[_Max_s_12_] Sí, mamá, lo recuerdo. Lo haré pronto..."
 
 # game/scripts/story_01/shopping.rpy:33 #-#-# translate crowdin ev_051_c543e57c:
 msgid "[_Ann_s_12_] Смотри, чтобы к нашему с девочками возвращению всё было сделано. Иначе, накажу!"
-msgstr ""
+msgstr "[_Ann_s_12_] Asegúrate de que esté hecho para cuando las chicas y yo volvamos. ¡Si no, te castigaré!"
 
 # game/scripts/story_01/shopping.rpy:34 #-#-# translate crowdin ev_051_ab2b9042:
 msgid "[_Max_s_14_] Не придётся. Я всё сделаю."
-msgstr ""
+msgstr "[_Max_s_14_] No tendrás que hacerlo. Yo lo haré."
 
 # game/scripts/story_01/shopping.rpy:38 #-#-# translate crowdin ev_051_fe2855c8:
 msgid "[_Ann_s_01_] Ну вот, все готовы, можно идти по магазинам. Максу тут есть чем заняться. Вернёмся часа через 3..."
-msgstr ""
+msgstr "[_Ann_s_01_] Muy bien, todo el mundo está listo para ir de compras. Hay mucho que Max tiene que hacer aquí. Volveremos en unas tres horas..."
 
 # game/scripts/story_01/shopping.rpy:40 #-#-# translate crowdin ev_051_6632eb95:
 msgid "[_Ann_s_01_] Ну вот, все готовы, можно идти по магазинам. Максу здесь будет не до скуки. Вернёмся часа через 3..."
-msgstr ""
+msgstr "[_Ann_s_01_] Muy bien, todas listas para ir de compras. Max no se aburrirá aquí. Volveremos en unas tres horas..."
 
 # game/scripts/story_01/shopping.rpy:41 #-#-# translate crowdin ev_051_ba1a46eb:
 msgid "[_Max_s_11_] Удачных вам покупок..."
-msgstr ""
+msgstr "[_Max_s_11_] Diviértete comprando..."
 
 # game/scripts/story_01/shopping.rpy:45 #-#-# translate crowdin ev_051_9a7345b1:
 msgid "[_Max_s_14_] Первым делом сразу помою посуду. Эх... как же её много! Ну да ладно, потерплю... [nointeract]"
-msgstr ""
+msgstr "[_Max_s_14_] Lo primero que haré será lavar los platos. Oh. ¡son muchos platos! Pero tendré paciencia. [nointeract]"
 
 # game/scripts/story_01/shopping.rpy:58 #-#-# translate crowdin ev_052_821d01cd:
 msgid "[_Lisa_s_01_] Эй, Макс, мы вернулись..."
