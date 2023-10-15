@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-15 15:45\n"
+"PO-Revision-Date: 2023-10-15 16:48\n"
 
 # TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/tutorial.rpy:14
 msgid "Главная панель игры располагается внизу."
@@ -156,31 +156,31 @@ msgstr "El estado de ánimo de los personajes con los que Max entra en contacto 
 
 # game/scripts/screens/tutorial.rpy:114
 msgid "По понедельникам, после завтрака, Анна будет выдавать Максу карманные деньги на неделю, как и надбавку за выполнение различных дел по дому."
-msgstr ""
+msgstr "Los lunes, después de desayunar, Ann le da a Max dinero para la semana, así como una paga por hacer varias tareas en casa."
 
 # game/scripts/screens/tutorial.rpy:114
 msgid "Максу лучше выполнить эти дела до выходных, чтобы не расстраивать Анну и не потерять в надбавке к карманным."
-msgstr ""
+msgstr "Será mejor que Max termine estas tareas antes del fin de semana para no enfadar a Ann y perder la paga."
 
 # game/scripts/screens/tutorial.rpy:114
 msgid "Ему нужно выполнить следующее: пропылесосить пол в доме, подрезать траву на газоне, почистить воду в бассейне и сходить за продуктами в магазин."
-msgstr ""
+msgstr "Tiene que hacer lo siguiente: aspirar el suelo de la casa, cortar el césped, limpiar el agua de la piscina e ir a hacer la compra."
 
 # game/scripts/screens/tutorial.rpy:114
 msgid "Соответствующие иконки действий появятся в комнате Макса (пылесосить дом) и во дворе (подстричь газон, чистить бассейн, покинуть виллу) между завтраком и ужином, с понедельника по пятницу."
-msgstr ""
+msgstr "Los iconos de acción correspondientes aparecerán en la habitación de Max (aspirar la casa) y en el patio (cortar el césped, limpiar la piscina, dejar el chalet) entre el desayuno y la cena, de lunes a viernes."
 
 # game/scripts/screens/tutorial.rpy:114
 msgid "Каждое из этих дел отнимет у Макса около часа времени и скажется на показателе его чистоты."
-msgstr ""
+msgstr "Cada uno de estos casos llevaría aproximadamente una hora del tiempo de Max y afectaría a su puntuación de limpieza."
 
 # game/scripts/screens/tutorial.rpy:114
 msgid "Так же не забывайте, что после каждого выполненного дела Максу нужно отдохнуть несколько часов, прежде чем он сможет приступить к выполнению других дел по дому."
-msgstr ""
+msgstr "Además, no olvides que después de cada tarea terminada, Max necesita descansar unas horas antes de poder empezar a hacer otras tareas en casa."
 
 # game/scripts/screens/tutorial.rpy:114
 msgid "По пятницам Макс будет отчитываться Анне о своих успехах и если он что-то не успел сделать, то будет делать это принудительно в субботу."
-msgstr ""
+msgstr "Los viernes, Max informará a Ann de sus progresos y, si no ha hecho algo a tiempo, lo hará a la fuerza el sábado."
 
 # game/scripts/screens/tutorial.rpy:159
 msgid "Управление"
@@ -196,7 +196,7 @@ msgstr "Humor"
 
 # game/scripts/screens/tutorial.rpy:168
 msgid "Обязанности по дому"
-msgstr ""
+msgstr "Tareas domésticas"
 
 # game/scripts/screens/tutorial.rpy:321
 msgid "Сейчас Лиза должна собираться в школу..."
