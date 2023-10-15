@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-14 12:52\n"
+"PO-Revision-Date: 2023-10-15 14:23\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:191
 msgid "Любопытное содержимое"
@@ -250,7 +250,7 @@ msgstr "Necesito que Alice se dé cuenta de que la estoy mirando en la ducha otr
 
 # game/scripts/engine/tasks.rpy:191
 msgid "Выяснить, как Алиса отреагирует на большую коробку «Ferrero Rocher»."
-msgstr "Descubre cómo reaccionaría Alice ante una gran caja de Ferrero Rocher."
+msgstr "Descubre cómo reaccionaría Alice ante una gran caja de «Ferrero Rocher»."
 
 # game/scripts/engine/tasks.rpy:191
 msgid "Нужно успеть до ужина..."
@@ -312,7 +312,7 @@ msgstr "Para ver cómo reaccionaría Lisa a mi erección de la mañana siguiente
 
 # game/scripts/engine/tasks.rpy:191
 msgid "Рано или поздно Лиза снова наткнётся на моё «приподнятое» утреннее состояние. Нужно просто ждать..."
-msgstr "Tarde o temprano Lisa volverá a encontrarse con mi estado matutino \"empalmado\". Sólo tenemos que esperar..."
+msgstr "Tarde o temprano Lisa volverá a encontrarse con mi estado matutino «empalmado». Sólo tenemos que esperar..."
 
 # game/scripts/engine/tasks.rpy:191
 msgid "Дождаться следующего утреннего стояка и реакции Лизы на него."
@@ -406,7 +406,7 @@ msgstr "Para aprender todo el material, tienes que estudiar de forma intermitent
 
 # game/scripts/engine/tasks.rpy:191
 msgid "Навык «Массаж». Ур.1"
-msgstr "Habilidad de masaje. Nivel 1"
+msgstr "Habilidad de «masaje». Nivel 1"
 
 # game/scripts/engine/tasks.rpy:191
 msgid "Талантливый массажист"
