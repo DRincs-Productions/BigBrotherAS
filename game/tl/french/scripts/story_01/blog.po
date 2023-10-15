@@ -10,117 +10,117 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-26 17:42\n"
+"PO-Revision-Date: 2023-10-15 15:44\n"
 
-# TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/blog.rpy:10 #-#-# translate crowdin ev_017_423a776a:
+# TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/blog.rpy:11 #-#-# translate crowdin ev_017_423a776a:
 msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
 msgstr "[_tMax_s_12_] Je n'ai rien d'autre à faire ici pour le moment..."
 
-# game/scripts/story_01/blog.rpy:15 #-#-# translate crowdin ev_017_bfd1a4b9:
+# game/scripts/story_01/blog.rpy:16 #-#-# translate crowdin ev_017_bfd1a4b9:
 msgid "[_tMax_s_11_] Алиса сидит за своим ноутбуком. Лучше сильно её не донимать... [nointeract]"
 msgstr "[_tMax_s_11_] Alice est assise devant son ordinateur portable. Il vaut mieux ne pas trop la déranger... [nointeract]"
 
-# game/scripts/story_01/blog.rpy:35 #-#-# translate crowdin ev_016_082b8d0d:
+# game/scripts/story_01/blog.rpy:38 #-#-# translate crowdin ev_016_082b8d0d:
 msgid "[_Alice_s_04_] Что, Макс, отвлекать меня пришёл, пока дома никого другого нет?"
 msgstr "[_Alice_s_04_] Qu'est-ce qui, Max, vient me distraire quand il n'y a personne d'autre à la maison ?"
 
-# game/scripts/story_01/blog.rpy:36 #-#-# translate crowdin ev_016_024dd133:
+# game/scripts/story_01/blog.rpy:39 #-#-# translate crowdin ev_016_024dd133:
 msgid "[_Max_s_12_] Хотел узнать, а ты как-то зарабатываешь?"
 msgstr "[_Max_s_12_] Je me demandais si vous gagniez de l'argent ?"
 
-# game/scripts/story_01/blog.rpy:37 #-#-# translate crowdin ev_016_2a69ee56:
+# game/scripts/story_01/blog.rpy:40 #-#-# translate crowdin ev_016_2a69ee56:
 msgid "[_Alice_s_11_] Может быть... А что?"
 msgstr "[_Alice_s_11_] Peut-être... Pourquoi ?"
 
-# game/scripts/story_01/blog.rpy:38 #-#-# translate crowdin ev_016_c6ed9d11:
+# game/scripts/story_01/blog.rpy:41 #-#-# translate crowdin ev_016_c6ed9d11:
 msgid "[_Max_s_00_] Хотел просто больше узнать..."
 msgstr "[_Max_s_00_] Je voulais en savoir plus..."
 
-# game/scripts/story_01/blog.rpy:39 #-#-# translate crowdin ev_016_6db390ac:
+# game/scripts/story_01/blog.rpy:42 #-#-# translate crowdin ev_016_6db390ac:
 msgid "[_Alice_s_00_] Я веду свой блог."
 msgstr "[_Alice_s_00_] Je gère mon propre blog."
 
-# game/scripts/story_01/blog.rpy:40 #-#-# translate crowdin ev_016_d7161bb5:
+# game/scripts/story_01/blog.rpy:43 #-#-# translate crowdin ev_016_d7161bb5:
 msgid "[_Max_s_11_] И о чём?"
 msgstr "[_Max_s_11_] Et à propos de quoi ?"
 
-# game/scripts/story_01/blog.rpy:44 #-#-# translate crowdin ev_016_4ae3cb44:
+# game/scripts/story_01/blog.rpy:47 #-#-# translate crowdin ev_016_4ae3cb44:
 msgid "[_Alice_s_12_] Ну, пока наши вещи не пропали во время переезда, я показывала как наносить лак, как применять различные средства и делилась разными хитростями..."
 msgstr "[_Alice_s_12_] Avant que nos affaires ne disparaissent pendant le déménagement, je vous ai montré comment appliquer le vernis, comment appliquer différents produits et j'ai partagé avec vous diverses astuces..."
 
-# game/scripts/story_01/blog.rpy:45 #-#-# translate crowdin ev_016_9b9aeab5:
+# game/scripts/story_01/blog.rpy:48 #-#-# translate crowdin ev_016_9b9aeab5:
 msgid "[_Max_s_01_] Хитростями? А откуда ты сама всё это узнала?"
 msgstr "[_Max_s_01_] Des astuces ? Comment savez-vous tout cela ?"
 
-# game/scripts/story_01/blog.rpy:46 #-#-# translate crowdin ev_016_2346fd37:
+# game/scripts/story_01/blog.rpy:49 #-#-# translate crowdin ev_016_2346fd37:
 msgid "[_Alice_s_01_] Да у других таких же блогеров подсмотрела, конечно. Все так делают! Ну и сама в интернете разное читаю, изучаю..."
 msgstr "[_Alice_s_01_] Oui, d'autres blogueurs comme moi, bien sûr. Tout le monde le fait ! Et puis, je lis et j'étudie aussi toutes sortes de choses sur Internet..."
 
-# game/scripts/story_01/blog.rpy:47 #-#-# translate crowdin ev_016_a59a8ae7:
+# game/scripts/story_01/blog.rpy:50 #-#-# translate crowdin ev_016_a59a8ae7:
 msgid "[_Max_s_02_] Понятно. Ну, и что теперь?"
 msgstr "[_Max_s_02_] Je vois. Alors, que se passe-t-il maintenant ?"
 
-# game/scripts/story_01/blog.rpy:48 #-#-# translate crowdin ev_016_3c650720:
+# game/scripts/story_01/blog.rpy:51 #-#-# translate crowdin ev_016_3c650720:
 msgid "[_Alice_s_15_] Не знаю, если честно. Мне даже показаться перед зрителями не в чем. Какой же я бьюти-блогер, если на мне теперь всегда одна и та же одежда..."
 msgstr "[_Alice_s_15_] Je ne sais pas, pour être honnête. Je n'ai même pas de quoi me mettre en valeur devant un public. Quel genre de blogueuse beauté suis-je si je porte toujours les mêmes vêtements maintenant..."
 
-# game/scripts/story_01/blog.rpy:49 #-#-# translate crowdin ev_016_5f78b975:
+# game/scripts/story_01/blog.rpy:52 #-#-# translate crowdin ev_016_5f78b975:
 msgid "[_Max_s_12_] Да уж, грусть-печаль..."
 msgstr "[_Max_s_12_] Oui, c'est triste, triste..."
 
-# game/scripts/story_01/blog.rpy:50 #-#-# translate crowdin ev_016_d5ce8908:
+# game/scripts/story_01/blog.rpy:53 #-#-# translate crowdin ev_016_d5ce8908:
 msgid "[_Alice_s_12_] Вот-вот... Надо было всё с собой брать, а не складывать в тот контейнер..."
 msgstr "[_Alice_s_12_] C'est vrai... Vous auriez dû tout emporter avec vous au lieu de le mettre dans ce conteneur..."
 
-# game/scripts/story_01/blog.rpy:51 #-#-# translate crowdin ev_016_e1fc0a60:
+# game/scripts/story_01/blog.rpy:54 #-#-# translate crowdin ev_016_e1fc0a60:
 msgid "[_Max_s_11_] А подписчиков-то много?"
 msgstr "[_Max_s_11_] Combien y a-t-il d'abonnés ?"
 
-# game/scripts/story_01/blog.rpy:52 #-#-# translate crowdin ev_016_f3b04479:
+# game/scripts/story_01/blog.rpy:55 #-#-# translate crowdin ev_016_f3b04479:
 msgid "[_Alice_s_15_] А какая разница? Всё равно, пока я всем необходимым по новой обзаведусь, большая часть подписчиков разбежится."
 msgstr "[_Alice_s_15_] Quelle différence cela fait-il ? Le temps que je récupère tout ce dont j'ai besoin, la plupart de mes abonnés auront fui de toute façon."
 
-# game/scripts/story_01/blog.rpy:53 #-#-# translate crowdin ev_016_d626ab6a:
+# game/scripts/story_01/blog.rpy:56 #-#-# translate crowdin ev_016_d626ab6a:
 msgid "[_Max_s_00_] Я могу чем-то помочь?"
 msgstr "[_Max_s_00_] Puis-je faire quelque chose pour vous aider ?"
 
-# game/scripts/story_01/blog.rpy:54 #-#-# translate crowdin ev_016_09a89880:
+# game/scripts/story_01/blog.rpy:57 #-#-# translate crowdin ev_016_09a89880:
 msgid "[_Alice_s_11_] Ты у нас внезапно стал миллионером? Или просто деньги появились? Самый простой способ - это купить недостающее. Ну, или найти то, что пропало."
 msgstr "[_Alice_s_11_] Êtes-vous soudainement devenu millionnaire ? Ou l'argent est-il apparu tout simplement ? Le plus simple est d'acheter ce qui manque. Ou de trouver ce qui manque."
 
-# game/scripts/story_01/blog.rpy:55 #-#-# translate crowdin ev_016_e34e160a:
+# game/scripts/story_01/blog.rpy:58 #-#-# translate crowdin ev_016_e34e160a:
 msgid "[_Max_s_14_] Денег у меня пока нет..."
 msgstr "[_Max_s_14_] Je n'ai pas encore l'argent..."
 
-# game/scripts/story_01/blog.rpy:56 #-#-# translate crowdin ev_016_dc1e72c7:
+# game/scripts/story_01/blog.rpy:59 #-#-# translate crowdin ev_016_dc1e72c7:
 msgid "[_Alice_s_15_] А без денег тут ничем не поможешь. Вообще, я в депрессии из-за всей этой истории. Вся жизнь перевернулась..."
 msgstr "[_Alice_s_15_] Et il n'y a rien que l'on puisse faire sans argent. En fait, tout cela me déprime. Toute ma vie a été bouleversée..."
 
-# game/scripts/story_01/blog.rpy:57 #-#-# translate crowdin ev_016_0ca72212:
+# game/scripts/story_01/blog.rpy:60 #-#-# translate crowdin ev_016_0ca72212:
 msgid "[_Max_s_03_] Но это всё к лучшему же. Такой дом, бассейн, место отличное!"
 msgstr "[_Max_s_03_] Mais c'est pour le mieux. Une telle maison, une piscine, c'est génial !"
 
-# game/scripts/story_01/blog.rpy:58 #-#-# translate crowdin ev_016_5292c5e9:
+# game/scripts/story_01/blog.rpy:61 #-#-# translate crowdin ev_016_5292c5e9:
 msgid "[_Alice_s_12_] Да, в этом плане ты прав, Макс. Но я хотела чего-то добиться. Стать известным блогером, заработать кучу денег. А теперь..."
 msgstr "[_Alice_s_12_] Oui, tu as raison, Max. Mais je voulais faire quelque chose. Devenir un blogueur célèbre, gagner beaucoup d'argent. Et maintenant..."
 
-# game/scripts/story_01/blog.rpy:59 #-#-# translate crowdin ev_016_bbaa1fa6:
+# game/scripts/story_01/blog.rpy:62 #-#-# translate crowdin ev_016_bbaa1fa6:
 msgid "[_Max_s_13_] Так, не переживай, ты всё ещё можешь. Я найду способ разжиться деньгами и помогу тебе."
 msgstr "[_Max_s_13_] Alors, ne t'inquiète pas, tu peux encore le faire. Je trouverai un moyen d'obtenir de l'argent et de t'aider."
 
-# game/scripts/story_01/blog.rpy:60 #-#-# translate crowdin ev_016_bd5c84f1:
+# game/scripts/story_01/blog.rpy:63 #-#-# translate crowdin ev_016_bd5c84f1:
 msgid "[_Alice_s_11_] Пока ты разживёшься деньгами, я уже и сама всё сделаю."
 msgstr "[_Alice_s_11_] Le temps que tu aies l'argent, j'aurai tout fait moi-même."
 
-# game/scripts/story_01/blog.rpy:61 #-#-# translate crowdin ev_016_fd2ee2be:
+# game/scripts/story_01/blog.rpy:64 #-#-# translate crowdin ev_016_fd2ee2be:
 msgid "[_Max_s_11_] Ещё посмотрим..."
 msgstr "[_Max_s_11_] Nous verrons bien..."
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/blog.rpy:14
+# §translate crowdin strings: #|#|# # game/scripts/story_01/blog.rpy:15
 msgid "{i}отвлечь Алису{/i}"
 msgstr "{i}distraire Alice{/i}"
 
-# game/scripts/story_01/blog.rpy:64
+# game/scripts/story_01/blog.rpy:67
 msgid "Открыто новое задание «Стримерша»!"
 msgstr "Une nouvelle mission \"Streamer Girl\" est ouverte !"
 

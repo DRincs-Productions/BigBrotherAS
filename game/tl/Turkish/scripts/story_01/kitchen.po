@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-26 17:43\n"
+"PO-Revision-Date: 2023-10-15 15:48\n"
 
-# TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/kitchen.rpy:15 #-#-# translate crowdin ev_alice_clean_e2fdb3e5:
+# TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/kitchen.rpy:15 #-#-# translate crowdin ev_alice_clean_e2fdb3e5:
 msgid "[_Alice_s_01_] Неужели тебе надоело бездельничать и ты пришёл мне помочь? [nointeract]"
 msgstr ""
 
@@ -116,11 +116,7 @@ msgstr ""
 msgid "[_Ann_s_12_] Ну вот, а я уже понадеялась! Тогда не мешай... [nointeract]"
 msgstr ""
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/kitchen.rpy:24
-msgid "{i}мыть посуду{/i}"
-msgstr ""
-
-# game/scripts/story_01/kitchen.rpy:59
+# §translate crowdin strings: #|#|# # game/scripts/story_01/kitchen.rpy:59
 msgid "Хочешь, я помогу тебе домыть посуду?"
 msgstr ""
 

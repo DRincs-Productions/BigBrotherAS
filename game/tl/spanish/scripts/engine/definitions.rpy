@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-07-18 22:58
+# TODO: Translation updated at 2023-10-14 21:25
 
 translate spanish strings:
 
@@ -36,11 +36,11 @@ translate spanish strings:
 
     # game/scripts/engine/definitions.rpy:35
     old "Комната Алисы"
-    new "La habitación de Alicia"
+    new "La habitación de Alice"
 
     # game/scripts/engine/definitions.rpy:35
     old "Комната Анны"
-    new "La habitación de Anna"
+    new "La habitación de Ann"
 
     # game/scripts/engine/definitions.rpy:35
     old "Ванная комната"

@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-07-18 22:58
+# TODO: Translation updated at 2023-10-14 21:25
 
 # game/scripts/story_01/max_learning.rpy:8
 translate italian ev_029_47925c16:
@@ -36,31 +36,31 @@ translate italian ev_029_manual_7b71f292:
     # Max 01 "Всё, вот теперь точно всё понятно! Я уже могу сделать свой сайт и транслировать на него изображение! Но как получать за это деньги? А, нет, это тоже понятно!"
     Max 01 "Ecco, ora tutto ha perfettamente senso! Posso già creare il mio sito web e trasmettervi un'immagine! Ma come faccio a guadagnare? Oh, no, anche questo ha senso!"
 
-# game/scripts/story_01/max_learning.rpy:46
+# game/scripts/story_01/max_learning.rpy:47
 translate italian ev_046_23ca8fd9:
 
     # Max 01 "Хм... мне кажется такое можно и лёжа на кровати изучать. Надеюсь, меня не станет клонить в сон..."
     Max 01 "Ehm... Penso che si possa fare stando a letto. Spero di non addormentarmi..."
 
-# game/scripts/story_01/max_learning.rpy:49
+# game/scripts/story_01/max_learning.rpy:50
 translate italian ev_046_66ef962f:
 
     # Max 11 "Хорошая штука эти онлайн-курсы. Можно научиться всему, не выходя из дома! Вот только и стоит это немало..."
     Max 11 "I corsi online sono un'ottima cosa. Si può imparare tutto comodamente da casa propria! Ma costa anche molto..."
 
-# game/scripts/story_01/max_learning.rpy:52
+# game/scripts/story_01/max_learning.rpy:53
 translate italian ev_046_81dac6d3:
 
     # Max 04 "Не сказать, что это сложное занятие, но знаний, а так же опыта в этом деле нужно много! И теперь я готов закреплять полученные знания на практике..."
     Max 04 "Non posso dire che sia difficile, ma ci vuole molta conoscenza ed esperienza! E ora sono pronto a mettere in pratica ciò che ho imparato..."
 
-# game/scripts/story_01/max_learning.rpy:57
+# game/scripts/story_01/max_learning.rpy:58
 translate italian ev_046_1c72ad2c:
 
     # tMax 01 "И раз уж с Алисы это началось, то на ней я и начну практиковаться. Надеюсь, руки она мне не выдернет, если я сделаю что-то не так..."
     tMax 01 "E visto che è iniziato con Alice, inizierò a esercitarmi su di lei. Spero che non mi strappi le braccia se faccio qualcosa di sbagliato..."
 
-# game/scripts/story_01/max_learning.rpy:62
+# game/scripts/story_01/max_learning.rpy:63
 translate italian ev_046_66ef962f_1:
 
     # Max 11 "Хорошая штука эти онлайн-курсы. Можно научиться всему, не выходя из дома! Вот только и стоит это немало..."
@@ -92,23 +92,23 @@ translate italian strings:
     old "Книга полностью изучена"
     new "Il libro è stato studiato in modo approfondito"
 
-    # game/scripts/story_01/max_learning.rpy:47
+    # game/scripts/story_01/max_learning.rpy:48
     old "Курс изучен на 33%"
     new "Il corso è completo al 33%"
 
-    # game/scripts/story_01/max_learning.rpy:50
+    # game/scripts/story_01/max_learning.rpy:51
     old "Курс изучен на 66%"
     new "Il corso è completo al 66%"
 
-    # game/scripts/story_01/max_learning.rpy:53
+    # game/scripts/story_01/max_learning.rpy:54
     old "Курс полностью изучен"
     new "Il corso è stato completamente approfondito"
 
-    # game/scripts/story_01/max_learning.rpy:59
+    # game/scripts/story_01/max_learning.rpy:60
     old "Задание «Домашнее обучение массажу» завершено!"
     new "La missione «Formazione sul massaggio a domicilio» è stata completata!"
 
-    # game/scripts/story_01/max_learning.rpy:60
+    # game/scripts/story_01/max_learning.rpy:61
     old "Открыто новое задание «Талантливый массажист»!"
     new "Una nuova missione «Massaggiatore di talento» è aperta!"
 

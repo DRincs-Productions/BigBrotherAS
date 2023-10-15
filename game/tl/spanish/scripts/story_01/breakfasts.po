@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-12 22:15\n"
+"PO-Revision-Date: 2023-10-15 15:45\n"
 
-# TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/breakfasts.rpy:30 #-#-# translate crowdin ev_breakfast_r1_6e8dcf3c:
+# TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/breakfasts.rpy:30 #-#-# translate crowdin ev_breakfast_r1_6e8dcf3c:
 msgid "[_Ann_s_01_] Всех ещё раз с добрым утром, всем приятного аппетита! Ешьте, пока не остыло."
 msgstr "[_Ann_s_01_] Buenos días a todos de nuevo, y ¡buen provecho! Comed antes de que se enfríe."
 
@@ -54,7 +54,7 @@ msgstr "[_Ann_s_03_] En todo caso, siempre se pueden comprar muebles..."
 
 # game/scripts/story_01/breakfasts.rpy:54 #-#-# translate crowdin ev_002_12d89522:
 msgid "[_Max_s_01_] Ага. Кстати, я планирую уже начать зарабатывать!"
-msgstr "[_Max_s_01_] Sí. Por cierto, ¡ya estoy planeando empezar a ganar!"
+msgstr "[_Max_s_01_] Sí. Por cierto, ¡ya estoy planeando empezar a ganar dinero!"
 
 # game/scripts/story_01/breakfasts.rpy:55 #-#-# translate crowdin ev_002_2682bf81:
 msgid "[_Alice_s_04_] Ага, и как же ты заработаешь? Образования нет, ничего толком не умеешь. Только дома сидишь всё время в своём ноутбуке..."

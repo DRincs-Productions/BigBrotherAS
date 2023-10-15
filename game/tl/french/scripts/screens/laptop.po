@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-26 17:41\n"
+"PO-Revision-Date: 2023-10-15 15:44\n"
 
-# TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/laptop.rpy:21
+# TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/laptop.rpy:21
 msgid "ОНЛАЙН-КУРСЫ"
 msgstr "COURS EN LIGNE"
 
@@ -91,18 +91,6 @@ msgstr "Revenu total:"
 # game/scripts/screens/laptop.rpy:511
 msgid "Последнее начисление:"
 msgstr "Dernière régularisation :"
-
-# game/scripts/screens/laptop.rpy:554
-msgid "Предыдущая"
-msgstr "Précédent"
-
-# game/scripts/screens/laptop.rpy:561
-msgid "Следующая"
-msgstr "Suivant"
-
-# game/scripts/screens/laptop.rpy:584
-msgid "Массаж"
-msgstr "Masser"
 
 # game/scripts/screens/laptop.rpy:588
 msgid "Общение"

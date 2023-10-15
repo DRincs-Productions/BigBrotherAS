@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 17:43\n"
+"PO-Revision-Date: 2023-10-15 15:45\n"
 
-# TODO: Translation updated at 2023-07-18 22:58 #|#|# # game/scripts/story_01/lounge_tv.rpy:8 #-#-# translate crowdin ev_ann_tv_talk_df9c7313:
+# TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/lounge_tv.rpy:8 #-#-# translate crowdin ev_ann_tv_talk_df9c7313:
 msgid "[_Ann_s_01_] Да так, всякую ерунду. Хотела какой-нибудь фильм посмотреть. Садись рядом, если тоже делать нечего... [nointeract]"
 msgstr "[_Ann_s_01_] Sólo basura. Quería ver una película. Siéntate a mi lado si no tienes otra cosa que hacer. [nointeract]"
 
@@ -226,11 +226,11 @@ msgstr "No, no he oído hablar de él. Veámoslo."
 
 # game/scripts/story_01/lounge_tv.rpy:28
 msgid "Да, слышал кое-что о нём..."
-msgstr "Sí, he oído algo sobre él...."
+msgstr "Sí, he oído algo sobre ella..."
 
 # game/scripts/story_01/lounge_tv.rpy:31
 msgid "{i}начать просмотр{/i}"
-msgstr "{i}empezar a navegar{/i}"
+msgstr "{i}empezar a visionar{/i}"
 
 # game/scripts/story_01/lounge_tv.rpy:100
 msgid "Открыто новое задание «Что посмотрим, мам?»!"

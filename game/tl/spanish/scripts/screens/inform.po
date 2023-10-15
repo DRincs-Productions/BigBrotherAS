@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-12 22:14\n"
+"PO-Revision-Date: 2023-10-15 16:48\n"
 
-# TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/inform.rpy:28
+# TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/inform.rpy:28
 msgid "Персонажи"
 msgstr "Personajes"
 
@@ -44,51 +44,91 @@ msgstr "RELACIONES"
 msgid "С Максом"
 msgstr "Con Max."
 
-# game/scripts/screens/inform.rpy:169
+# game/scripts/screens/inform.rpy:166
 msgid "ПАРАМЕТРЫ"
 msgstr "PARÁMETROS"
 
-# game/scripts/screens/inform.rpy:172
+# game/scripts/screens/inform.rpy:169
 msgid "Чистота"
 msgstr "Limpieza"
 
-# game/scripts/screens/inform.rpy:176
+# game/scripts/screens/inform.rpy:174
 msgid "Загрязнённость "
 msgstr "Contaminación "
 
-# game/scripts/screens/inform.rpy:179
+# game/scripts/screens/inform.rpy:178
+msgid "ДОМАШНИЕ ОБЯЗАННОСТИ"
+msgstr "TAREAS DOMÉSTICAS"
+
+# game/scripts/screens/inform.rpy:181
+msgid "Чистка пола"
+msgstr "Aspirar los suelos"
+
+# game/scripts/screens/inform.rpy:183
+msgid "Выполнено"
+msgstr "Hecho"
+
+# game/scripts/screens/inform.rpy:187
+msgid "Не выполнено"
+msgstr "No se ha cumplido"
+
+# game/scripts/screens/inform.rpy:191
+msgid "Чистка бассейна"
+msgstr "Limpieza de piscina"
+
+# game/scripts/screens/inform.rpy:201
+msgid "Стрижка газона"
+msgstr "Cortar el césped"
+
+# game/scripts/screens/inform.rpy:211
+msgid "Покупка продуктов"
+msgstr "Compras"
+
+# game/scripts/screens/inform.rpy:222
 msgid "НАВЫКИ"
 msgstr "HABILIDADES"
 
-# game/scripts/screens/inform.rpy:185
+# game/scripts/screens/inform.rpy:228
 msgid "Ур.1"
 msgstr "Nivel 1"
 
-# game/scripts/screens/inform.rpy:188
+# game/scripts/screens/inform.rpy:231
 msgid "Опыт применения навыка"
 msgstr "Experiencia de destreza"
 
-# game/scripts/screens/inform.rpy:363
+# game/scripts/screens/inform.rpy:395
+msgid "Предыдущая"
+msgstr "Anterior"
+
+# game/scripts/screens/inform.rpy:405
+msgid "Следующая"
+msgstr "Siguiente"
+
+# game/scripts/screens/inform.rpy:410
+msgid "Сделать текущей"
+msgstr "Establecer como actual"
+
+# game/scripts/screens/inform.rpy:480
 msgid "В данный момент в инвентаре ничего нет"
 msgstr "No hay nada en el inventario en este momento"
 
-# game/scripts/screens/inform.rpy:366
+# game/scripts/screens/inform.rpy:483
 msgid "Ни один предмет не выбран"
 msgstr "No se ha seleccionado ningún elemento"
 
-# game/scripts/screens/inform.rpy:374
+# game/scripts/screens/inform.rpy:491
 msgid "Не прочитана"
 msgstr "Sin leer"
 
-# game/scripts/screens/inform.rpy:376
+# game/scripts/screens/inform.rpy:493
 msgid "Полностью изучена"
 msgstr "Totalmente explorado"
 
-# game/scripts/screens/inform.rpy:378
+# game/scripts/screens/inform.rpy:495
 msgid "Изучена на [percent]%"
 msgstr "Explorado en [percent]%"
 
-# game/scripts/screens/inform.rpy:380
+# game/scripts/screens/inform.rpy:497
 msgid "Осталось [item.rest]/[item.count]"
 msgstr "Resto [item.rest]/[item.count]"
 

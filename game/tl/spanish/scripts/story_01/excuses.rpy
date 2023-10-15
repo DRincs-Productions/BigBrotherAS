@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-09-10 00:31
+# TODO: Translation updated at 2023-10-14 21:25
 
 # game/scripts/story_01/excuses.rpy:8
 translate spanish tasty_open_alice_9d7c61dc:
@@ -13,16 +13,16 @@ translate spanish tasty_open_alice_cf288100:
     tMax 11 "Durante el día, sin duda será necesario ir a la tienda de comestibles y ver cuánto cuesta por algo que usted puede tratar de tratar Alice to...."
 
 # game/scripts/story_01/excuses.rpy:26
-translate spanish ev_062_8ce3c6ae:
+translate spanish ev_062_0b4c6ae5:
 
-    # Alice 02 "Ого! Правда хочешь рискнуть? И что там у тебя на этот раз?"
-    Alice 02 "¡Vaya! ¿De verdad quieres arriesgarte? ¿Qué tienes esta vez?"
+    # Alice 02 "Ого! Правда хочешь рискнуть? И что там у тебя на этот раз?" nointeract
+    Alice 02 "¡Vaya! ¿De verdad quieres arriesgarte? ¿Qué tienes esta vez?" nointeract
 
 # game/scripts/story_01/excuses.rpy:28
-translate spanish ev_062_6a5f4f5a:
+translate spanish ev_062_7dc7a57a:
 
-    # Alice 02 "Да ладно! Это мне нравится... И что там у тебя?"
-    Alice 02 "¡Vamos! Eso me gusta. ¿Qué tienes?"
+    # Alice 02 "Да ладно! Это мне нравится... И что там у тебя?" nointeract
+    Alice 02 "¡Vamos! Eso me gusta. ¿Qué tienes?" nointeract
 
 # game/scripts/story_01/excuses.rpy:33
 translate spanish ev_062_18eacfc9:
@@ -792,67 +792,67 @@ translate spanish ev_069_big_1_f794fad5:
     # tMax 11 "Интересно, Алиса и правда хотела меня обнять от радости или нет? Пожалуй, всё же нужно будет рискнуть и проверить это..."
     tMax 11 "Me preguntaba si Alice realmente quería abrazarme con alegría o no. Supongo que tendré que arriesgarme y comprobarlo después de todo...."
 
-# game/scripts/story_01/excuses.rpy:383
+# game/scripts/story_01/excuses.rpy:382
 translate spanish ev_069_big_r_71c59f7e:
 
     # Alice 13 "Ага! Снова купил мои любимые конфеты! Как здорово... Большое тебе спасибо, Макс!"
     Alice 13 "¡Ajá! ¡Compré mi dulce favorito otra vez! Oh, eso es genial. ¡Muchas gracias, Max!"
 
-# game/scripts/story_01/excuses.rpy:384
+# game/scripts/story_01/excuses.rpy:383
 translate spanish ev_069_big_r_204b9d8d:
 
     # Max 03 "Я люблю радовать старшую сестрёнку её любимыми конфетами."
     Max 03 "Me encanta deleitar a mi hermana mayor con sus dulces favoritos."
 
-# game/scripts/story_01/excuses.rpy:385
+# game/scripts/story_01/excuses.rpy:384
 translate spanish ev_069_big_r_1e224d38:
 
     # Alice 06 "Конфет так много, что я не припоминаю, чтобы утром за мной кто-то подглядывал! Всё было в порядке..."
     Alice 06 "Hay tanto caramelo que no recuerdo que nadie me haya mirado esta mañana. Todo estaba bien..."
 
-# game/scripts/story_01/excuses.rpy:386
+# game/scripts/story_01/excuses.rpy:385
 translate spanish ev_069_big_r_88d34f63:
 
     # Max 01 "Ну да, меня и рядом тогда не было!"
     Max 01 "Sí, bueno, ¡yo ni siquiera estaba por aquí entonces!"
 
-# game/scripts/story_01/excuses.rpy:387
+# game/scripts/story_01/excuses.rpy:386
 translate spanish ev_069_big_r_4d8e8e21:
 
     # Alice 04 "Я даже обниму тебя за это! Ну так... совсем немного... Иди ко мне."
     Alice 04 "¡Incluso te daré un abrazo por eso! Sólo un poquito. Sólo un poquito. Ven aquí."
 
-# game/scripts/story_01/excuses.rpy:392
+# game/scripts/story_01/excuses.rpy:391
 translate spanish ev_069_big_r_90b40906:
 
     # Max 05 "Вау! Это так непривычно... обнимать тебя без последствий для себя."
     Max 05 "¡Vaya! Es tan inusual. abrazarte sin ninguna repercusión para mí."
 
-# game/scripts/story_01/excuses.rpy:393
+# game/scripts/story_01/excuses.rpy:392
 translate spanish ev_069_big_r_20022416:
 
     # Alice 03 "Я вижу, что ты не просто хочешь откупиться, а ещё и мне приятно сделать стремишься. Вот я и не вредничаю..."
     Alice 03 "Veo que no sólo quieres pagarme, sino que también quieres hacerme sentir bien. Así que no estoy siendo mala."
 
-# game/scripts/story_01/excuses.rpy:394
+# game/scripts/story_01/excuses.rpy:393
 translate spanish ev_069_big_r_b91d1695:
 
     # Max 04 "Надо бы почаще так делать."
     Max 04 "Deberíamos hacerlo más a menudo."
 
-# game/scripts/story_01/excuses.rpy:395
+# game/scripts/story_01/excuses.rpy:394
 translate spanish ev_069_big_r_6b545ef0:
 
     # Alice 04 "Подглядывать за мной или дарить мне сладости?!"
     Alice 04 "¡¿Mirándome o dándome dulces?!"
 
-# game/scripts/story_01/excuses.rpy:396
+# game/scripts/story_01/excuses.rpy:395
 translate spanish ev_069_big_r_60a56948:
 
     # Max 01 "Второе, конечно!"
     Max 01 "El segundo, por supuesto."
 
-# game/scripts/story_01/excuses.rpy:398
+# game/scripts/story_01/excuses.rpy:397
 translate spanish ev_069_big_r_1dcfe6f8:
 
     # Alice 01 "Ну да, конечно... Иди давай." nointeract
@@ -862,15 +862,15 @@ translate spanish strings:
 
     # game/scripts/story_01/excuses.rpy:29
     old "конфеты «Ferrero Rocher»"
-    new "bombones \"Ferrero Rocher\""
+    new "bombones «Ferrero Rocher»"
 
     # game/scripts/story_01/excuses.rpy:29
     old "шоколад «Ritter Sport»"
-    new "chocolate \"Ritter Sport\""
+    new "chocolate «Ritter Sport»"
 
     # game/scripts/story_01/excuses.rpy:29
     old "конфеты «Raffaello»"
-    new "bombones \"Raffaello\""
+    new "bombones «Raffaello»"
 
     # game/scripts/story_01/excuses.rpy:41
     old "Именно на это я и надеюсь..."
@@ -882,21 +882,13 @@ translate spanish strings:
 
     # game/scripts/story_01/excuses.rpy:209
     old "Задание «Стоит ли рисковать?» обновлено!"
-    new "La oportunidad \"¿Merece la pena el riesgo?\" ha sido actualizada!"
-
-    # game/scripts/story_01/excuses.rpy:251
-    old "[items['ferrero-m'].name!t]"
-    new "[items['ferrero-m'].name!t]."
-
-    # game/scripts/story_01/excuses.rpy:251
-    old "[items['ferrero-b'].name!t]"
-    new "[items['ferrero-b'].name!t]."
+    new "La oportunidad «¿Merece la pena el riesgo?» ha sido actualizada!"
 
     # game/scripts/story_01/excuses.rpy:319
     old "Только давай без вреда моему здоровью, ладно?"
     new "Pero no perjudiquemos mi salud, ¿vale?"
 
-    # game/scripts/story_01/excuses.rpy:401
+    # game/scripts/story_01/excuses.rpy:400
     old "Задание «Стоит ли рисковать?» завершено!"
     new "La tarea \"¿Merece la pena correr el riesgo?\" está terminada."
 

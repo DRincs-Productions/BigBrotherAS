@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-09-10 00:31
+# TODO: Translation updated at 2023-10-14 21:25
 
 # game/scripts/story_01/bikini.rpy:8
 translate spanish ev_008_3c08b543:
@@ -88,5 +88,5 @@ translate spanish strings:
 
     # game/scripts/story_01/bikini.rpy:30
     old "Открыто новое задание «Новый купальник»!"
-    new "La nueva oportunidad \"Nuevo bañador\" está abierta!"
+    new "La nueva oportunidad «Nuevo bañador» está abierta!"
 

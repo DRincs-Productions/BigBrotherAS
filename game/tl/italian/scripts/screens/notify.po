@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-26 17:41\n"
+"PO-Revision-Date: 2023-10-15 17:47\n"
 
-# TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/notify.rpy:35
-msgid "Нужно выполнить задания \"Любопытное содержимое\", \"Способ заработать\", а так же подбросить паука Алисе в душ."
-msgstr "È necessario completare le missioni \"Contenuto curioso\", \"Un modo per fare soldi\" e mettere un ragno nella doccia di Alice."
+# TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/notify.rpy:35
+msgid "Нужно выполнить задания \"Любопытное содержимое\", \"Способ заработать\", а так же подбросить паука, натирая Алису маслом."
+msgstr "È necessario completare i compiti \"Contenuto curioso\", \"Un modo per fare soldi\" e consegnare un ragno che strofina Alice con l'olio."
 
 # game/scripts/screens/notify.rpy:39
 msgid "Ok"

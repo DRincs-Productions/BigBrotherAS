@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-09-10 00:31
+# TODO: Translation updated at 2023-10-14 21:25
 
 translate french strings:
 
@@ -26,35 +26,35 @@ translate french strings:
     old "сексуальный опыт"
     new "expérience sexuelle"
 
-    # game/scripts/engine/skils.rpy:48
+    # game/scripts/engine/skils.rpy:51
     old "настроение"
     new "humeur"
 
-    # game/scripts/engine/skils.rpy:182
+    # game/scripts/engine/skils.rpy:189
     old "Я остался незамеченным!"
     new "Je suis passé inaperçu !"
 
-    # game/scripts/engine/skils.rpy:182
+    # game/scripts/engine/skils.rpy:189
     old "Убеждение удалось!"
     new "Persuasion réussie !"
 
-    # game/scripts/engine/skils.rpy:182
+    # game/scripts/engine/skils.rpy:189
     old "Паук найден!"
     new "L'araignée a été retrouvée !"
 
-    # game/scripts/engine/skils.rpy:190
+    # game/scripts/engine/skils.rpy:197
     old "Я чуть не попался!"
     new "J'ai failli me faire prendre !"
 
-    # game/scripts/engine/skils.rpy:190
+    # game/scripts/engine/skils.rpy:197
     old "Вот чёрт, я попался!"
     new "Oh, merde, je suis foutu !"
 
-    # game/scripts/engine/skils.rpy:190
+    # game/scripts/engine/skils.rpy:197
     old "Убеждение не удалось!"
     new "La persuasion a échoué !"
 
-    # game/scripts/engine/skils.rpy:190
+    # game/scripts/engine/skils.rpy:197
     old "Безрезультатно!"
     new "En vain !"
 

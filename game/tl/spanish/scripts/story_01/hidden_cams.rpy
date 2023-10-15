@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-07-18 22:58
+# TODO: Translation updated at 2023-10-14 21:25
 
 # game/scripts/story_01/hidden_cams.rpy:12
 translate spanish ev_003_089bb89e:
@@ -100,15 +100,15 @@ translate spanish strings:
 
     # game/scripts/story_01/hidden_cams.rpy:28
     old "Задание «Любопытное содержимое» обновлено!"
-    new "Se ha actualizado la oportunidad de \"contenidos curiosos\"!"
+    new "Se ha actualizado la oportunidad de «Contenidos curiosos»!"
 
     # game/scripts/story_01/hidden_cams.rpy:49
     old "Задание «Любопытное содержимое» завершено!"
-    new "La tarea \"Contenido curioso\" está completa!"
+    new "La oprtunidad «Contenidos curiosos» está completa!"
 
     # game/scripts/story_01/hidden_cams.rpy:50
     old "Открыто новое задание «Способ заработать»!"
-    new "¡Una nueva oportunidad \"Una forma de ganar dinero\" está abierta!"
+    new "¡Una nueva oportunidad «Una forma de ganar dinero» está abierta!"
 
     # game/scripts/story_01/hidden_cams.rpy:75
     old "{i}Оплатить всё ($150){/i}"
@@ -124,9 +124,9 @@ translate spanish strings:
 
     # game/scripts/story_01/hidden_cams.rpy:90
     old "Задание «Способ заработать» завершено!"
-    new "La oportunidad \"Una forma de ganar dinero\" está terminada!"
+    new "La oportunidad «Una forma de ganar dinero» está terminada!"
 
     # game/scripts/story_01/hidden_cams.rpy:91
     old "Открыто новое задание «Приумножение заработка»!"
-    new "Una nueva oportunidad \"Aumente sus ingresos\" está abierta!"
+    new "Una nueva oportunidad «Aumente sus ingresos» está abierta!"
 

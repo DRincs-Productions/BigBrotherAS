@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-09-10 00:31
+# TODO: Translation updated at 2023-10-14 21:25
 
 translate italian strings:
 
@@ -81,18 +81,6 @@ translate italian strings:
     # game/scripts/screens/laptop.rpy:511
     old "Последнее начисление:"
     new "Ultimo pagamento:"
-
-    # game/scripts/screens/laptop.rpy:554
-    old "Предыдущая"
-    new "Precedente"
-
-    # game/scripts/screens/laptop.rpy:561
-    old "Следующая"
-    new "Successivo"
-
-    # game/scripts/screens/laptop.rpy:584
-    old "Массаж"
-    new "Massaggio"
 
     # game/scripts/screens/laptop.rpy:588
     old "Общение"

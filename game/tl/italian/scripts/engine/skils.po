@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-26 17:41\n"
+"PO-Revision-Date: 2023-10-15 15:46\n"
 
-# TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/skils.rpy:14
+# TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/skils.rpy:14
 msgid "скрытность"
 msgstr "furtività"
 
@@ -36,35 +36,35 @@ msgstr "baci"
 msgid "сексуальный опыт"
 msgstr "esperienza sessuale"
 
-# game/scripts/engine/skils.rpy:48
+# game/scripts/engine/skils.rpy:51
 msgid "настроение"
 msgstr "umore"
 
-# game/scripts/engine/skils.rpy:182
+# game/scripts/engine/skils.rpy:189
 msgid "Я остался незамеченным!"
 msgstr "Non sono stato notato!"
 
-# game/scripts/engine/skils.rpy:182
+# game/scripts/engine/skils.rpy:189
 msgid "Убеждение удалось!"
 msgstr "La persuasione è riuscita!"
 
-# game/scripts/engine/skils.rpy:182
+# game/scripts/engine/skils.rpy:189
 msgid "Паук найден!"
 msgstr "Un ragno è stato trovato!"
 
-# game/scripts/engine/skils.rpy:190
+# game/scripts/engine/skils.rpy:197
 msgid "Я чуть не попался!"
 msgstr "Mi hanno quasi scoperto!"
 
-# game/scripts/engine/skils.rpy:190
+# game/scripts/engine/skils.rpy:197
 msgid "Вот чёрт, я попался!"
 msgstr "Oh, merda, mi hanno beccato!"
 
-# game/scripts/engine/skils.rpy:190
+# game/scripts/engine/skils.rpy:197
 msgid "Убеждение не удалось!"
 msgstr "La persuasione è fallita!"
 
-# game/scripts/engine/skils.rpy:190
+# game/scripts/engine/skils.rpy:197
 msgid "Безрезультатно!"
 msgstr "Senza successo!"
 

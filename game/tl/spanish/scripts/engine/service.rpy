@@ -1,18 +1,18 @@
-# TODO: Translation updated at 2023-09-10 00:31
+# TODO: Translation updated at 2023-10-14 21:25
 
 # game/scripts/engine/service.rpy:65
 translate spanish nothing_to_do_423a776a:
 
     # tMax 12 "Пока что мне здесь больше нечего делать..."
-    tMax 12 "Пока что мне здесь больше нечего делать..."
+    tMax 12 "No tengo nada más que hacer aquí por ahora..."
 
-# game/scripts/engine/service.rpy:410
+# game/scripts/engine/service.rpy:412
 translate spanish after_buy_d1c26937:
 
     # tMax 12 "Да уж... Пришлось потратиться, но надеюсь мне удастся, благодаря этой книге, создать свой сайт и хорошо заработать."
-    tMax 12 "Да уж... Пришлось потратиться, но надеюсь мне удастся, благодаря этой книге, создать свой сайт и хорошо заработать."
+    tMax 12 "Sí... Tuve que gastar, pero espero poder, gracias a este libro, crear mi propio sitio y ganar buen dinero."
 
-# game/scripts/engine/service.rpy:411
+# game/scripts/engine/service.rpy:413
 translate spanish after_buy_8163c063:
 
     # tMax 01 "Но книгу, как и любую другую вещь заказанную по интернету, доставят только завтра, так что пока можно отдыхать..."
@@ -20,15 +20,15 @@ translate spanish after_buy_8163c063:
 
 translate spanish strings:
 
-    # game/scripts/engine/service.rpy:476
+    # game/scripts/engine/service.rpy:478
     old "Вы хотите ознакомиться с особенностями игры?"
     new "¿Quieres familiarizarte con las características del juego?"
 
-    # game/scripts/engine/service.rpy:476
+    # game/scripts/engine/service.rpy:478
     old "Да, пройти обучение"
     new "Sí, para recibir formación"
 
-    # game/scripts/engine/service.rpy:476
+    # game/scripts/engine/service.rpy:478
     old "Нет, я всё знаю"
     new "No, lo sé todo"
 

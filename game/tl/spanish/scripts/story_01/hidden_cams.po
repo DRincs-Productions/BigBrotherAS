@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 17:43\n"
+"PO-Revision-Date: 2023-10-15 15:45\n"
 
-# TODO: Translation updated at 2023-07-18 22:58 #|#|# # game/scripts/story_01/hidden_cams.rpy:12 #-#-# translate crowdin ev_003_089bb89e:
+# TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/hidden_cams.rpy:12 #-#-# translate crowdin ev_003_089bb89e:
 msgid "[_tMax_s_13_] Так, мама попросила разобрать коробки. Сейчас глянем, что тут у нас..."
 msgstr "[_tMax_s_13_] Vale, mamá me ha pedido que deshaga las cajas. Vamos a ver lo que tenemos aquí..."
 
@@ -78,15 +78,15 @@ msgstr "[_tMax_s_13_] ¡Y ya sé a dónde ir antes que nada! Lo realmente molest
 
 # §translate crowdin strings: #|#|# # game/scripts/story_01/hidden_cams.rpy:28
 msgid "Задание «Любопытное содержимое» обновлено!"
-msgstr "Se ha actualizado la oportunidad de \"contenidos curiosos\"!"
+msgstr "Se ha actualizado la oportunidad de «Contenidos curiosos»!"
 
 # game/scripts/story_01/hidden_cams.rpy:49
 msgid "Задание «Любопытное содержимое» завершено!"
-msgstr "La tarea \"Contenido curioso\" está completa!"
+msgstr "La oprtunidad «Contenidos curiosos» está completa!"
 
 # game/scripts/story_01/hidden_cams.rpy:50
 msgid "Открыто новое задание «Способ заработать»!"
-msgstr "¡Una nueva oportunidad \"Una forma de ganar dinero\" está abierta!"
+msgstr "¡Una nueva oportunidad «Una forma de ganar dinero» está abierta!"
 
 # game/scripts/story_01/hidden_cams.rpy:75
 msgid "{i}Оплатить всё ($150){/i}"
@@ -102,9 +102,9 @@ msgstr "{i}configurar el sitio{/i}"
 
 # game/scripts/story_01/hidden_cams.rpy:90
 msgid "Задание «Способ заработать» завершено!"
-msgstr "La oportunidad \"Una forma de ganar dinero\" está terminada!"
+msgstr "La oportunidad «Una forma de ganar dinero» está terminada!"
 
 # game/scripts/story_01/hidden_cams.rpy:91
 msgid "Открыто новое задание «Приумножение заработка»!"
-msgstr "Una nueva oportunidad \"Aumente sus ingresos\" está abierta!"
+msgstr "Una nueva oportunidad «Aumente sus ingresos» está abierta!"
 

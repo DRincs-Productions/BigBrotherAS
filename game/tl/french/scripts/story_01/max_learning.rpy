@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-07-18 22:58
+# TODO: Translation updated at 2023-10-14 21:25
 
 # game/scripts/story_01/max_learning.rpy:8
 translate french ev_029_47925c16:
@@ -36,31 +36,31 @@ translate french ev_029_manual_7b71f292:
     # Max 01 "Всё, вот теперь точно всё понятно! Я уже могу сделать свой сайт и транслировать на него изображение! Но как получать за это деньги? А, нет, это тоже понятно!"
     Max 01 "D'accord, maintenant tout s'explique ! Je peux déjà créer mon propre site web et y diffuser des images ! Mais comment puis-je être payé pour cela ? Oh, non, ça aussi, c'est logique !"
 
-# game/scripts/story_01/max_learning.rpy:46
+# game/scripts/story_01/max_learning.rpy:47
 translate french ev_046_23ca8fd9:
 
     # Max 01 "Хм... мне кажется такое можно и лёжа на кровати изучать. Надеюсь, меня не станет клонить в сон..."
     Max 01 "Hmm. Je pense que tu pourrais étudier ces choses au lit. J'espère que je n'aurai pas sommeil."
 
-# game/scripts/story_01/max_learning.rpy:49
+# game/scripts/story_01/max_learning.rpy:50
 translate french ev_046_66ef962f:
 
     # Max 11 "Хорошая штука эти онлайн-курсы. Можно научиться всему, не выходя из дома! Вот только и стоит это немало..."
     Max 11 "L'avantage de ces cours en ligne. Vous pouvez tout apprendre dans le confort de votre maison ! Mais cela coûte cher...."
 
-# game/scripts/story_01/max_learning.rpy:52
+# game/scripts/story_01/max_learning.rpy:53
 translate french ev_046_81dac6d3:
 
     # Max 04 "Не сказать, что это сложное занятие, но знаний, а так же опыта в этом деле нужно много! И теперь я готов закреплять полученные знания на практике..."
     Max 04 "Je ne dis pas que c'est un métier difficile, mais il faut beaucoup de connaissances et d'expérience dans ce domaine ! Et maintenant, je suis prêt à consolider mes connaissances dans la pratique....."
 
-# game/scripts/story_01/max_learning.rpy:57
+# game/scripts/story_01/max_learning.rpy:58
 translate french ev_046_1c72ad2c:
 
     # tMax 01 "И раз уж с Алисы это началось, то на ней я и начну практиковаться. Надеюсь, руки она мне не выдернет, если я сделаю что-то не так..."
     tMax 01 "Et puisque cela a commencé avec Alice, je vais commencer à m'entraîner sur elle. J'espère qu'elle ne m'arrachera pas les bras si je fais quelque chose de mal....."
 
-# game/scripts/story_01/max_learning.rpy:62
+# game/scripts/story_01/max_learning.rpy:63
 translate french ev_046_66ef962f_1:
 
     # Max 11 "Хорошая штука эти онлайн-курсы. Можно научиться всему, не выходя из дома! Вот только и стоит это немало..."
@@ -92,23 +92,23 @@ translate french strings:
     old "Книга полностью изучена"
     new "Le livre fait l'objet de recherches approfondies"
 
-    # game/scripts/story_01/max_learning.rpy:47
+    # game/scripts/story_01/max_learning.rpy:48
     old "Курс изучен на 33%"
     new "Le cours est terminé à 33%."
 
-    # game/scripts/story_01/max_learning.rpy:50
+    # game/scripts/story_01/max_learning.rpy:51
     old "Курс изучен на 66%"
     new "Le cours est achevé à 66%."
 
-    # game/scripts/story_01/max_learning.rpy:53
+    # game/scripts/story_01/max_learning.rpy:54
     old "Курс полностью изучен"
     new "Le cours a été entièrement exploré"
 
-    # game/scripts/story_01/max_learning.rpy:59
+    # game/scripts/story_01/max_learning.rpy:60
     old "Задание «Домашнее обучение массажу» завершено!"
     new "La mission \"Formation au massage à domicile\" est terminée !"
 
-    # game/scripts/story_01/max_learning.rpy:60
+    # game/scripts/story_01/max_learning.rpy:61
     old "Открыто новое задание «Талантливый массажист»!"
     new "Une nouvelle mission de \"massothérapeute de talent\" est ouverte !"
 
