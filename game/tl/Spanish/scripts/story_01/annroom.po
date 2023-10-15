@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-15 15:45\n"
+"PO-Revision-Date: 2023-10-15 16:49\n"
 
 # TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/annroom.rpy:12 #-#-# translate crowdin ev_ann_dressed_d0c78fcb:
 msgid "[_tMax_s_11_] Сейчас мама должна собираться на работу... [nointeract]"
@@ -82,15 +82,15 @@ msgstr "[_Max_s_01_] Seguro mamá. ¡Buen día!"
 
 # game/scripts/story_01/annroom.rpy:199 #-#-# translate crowdin ev_024_338fa70d:
 msgid "[_Ann_s_04_] Спасибо, Макс! Тебе тоже. И пока не ушла, иди ко мне, я тебя в щёчку поцелую... [nointeract]"
-msgstr ""
+msgstr "[_Ann_s_04_] ¡Gracias, Max! A ti también. Y antes de que te vayas, ven aquí, te daré un beso en la mejilla... [nointeract]"
 
 # game/scripts/story_01/annroom.rpy:207 #-#-# translate crowdin ev_024_45cf9986:
 msgid "[_tMax_s_04_] Как же приятно получать объятия и поцелуи от такой шикарной женщины, как моя мама! Приходится даже хорошенько вжаться в её бесподобную грудь, чтобы она достала губами до моего лица..."
-msgstr ""
+msgstr "[_tMax_s_04_] Es tan agradable ser abrazado y besado por una mujer preciosa como mi madre. Incluso tengo que apretarme contra sus magníficos pechos para acercar sus labios a mi cara..."
 
 # game/scripts/story_01/annroom.rpy:211 #-#-# translate crowdin ev_024_873762ea:
 msgid "[_Ann_s_02_] До вечера, дорогой. Я побежала..."
-msgstr ""
+msgstr "[_Ann_s_02_] Nos vemos esta noche, cariño. Me voy..."
 
 # §translate crowdin strings: #|#|# # game/scripts/story_01/annroom.rpy:35
 msgid "Конечно, мам. Не буду мешать..."
@@ -110,5 +110,5 @@ msgstr "Sí, tenía una pregunta, pero con toda esta belleza, se me olvidó..."
 
 # game/scripts/story_01/annroom.rpy:198
 msgid "{i}подойти к маме{/i}"
-msgstr ""
+msgstr "{i}ve con mamá{/i}"
 
