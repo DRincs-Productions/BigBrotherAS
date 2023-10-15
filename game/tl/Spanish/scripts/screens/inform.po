@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-15 15:45\n"
+"PO-Revision-Date: 2023-10-15 16:48\n"
 
 # TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/inform.rpy:28
 msgid "Персонажи"
@@ -58,31 +58,31 @@ msgstr "Contaminación "
 
 # game/scripts/screens/inform.rpy:178
 msgid "ДОМАШНИЕ ОБЯЗАННОСТИ"
-msgstr ""
+msgstr "TAREAS DOMÉSTICAS"
 
 # game/scripts/screens/inform.rpy:181
 msgid "Чистка пола"
-msgstr ""
+msgstr "Aspirar los suelos"
 
 # game/scripts/screens/inform.rpy:183
 msgid "Выполнено"
-msgstr ""
+msgstr "Hecho"
 
 # game/scripts/screens/inform.rpy:187
 msgid "Не выполнено"
-msgstr ""
+msgstr "No se ha cumplido"
 
 # game/scripts/screens/inform.rpy:191
 msgid "Чистка бассейна"
-msgstr ""
+msgstr "Limpieza de piscina"
 
 # game/scripts/screens/inform.rpy:201
 msgid "Стрижка газона"
-msgstr ""
+msgstr "Cortar el césped"
 
 # game/scripts/screens/inform.rpy:211
 msgid "Покупка продуктов"
-msgstr ""
+msgstr "Compras"
 
 # game/scripts/screens/inform.rpy:222
 msgid "НАВЫКИ"
