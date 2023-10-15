@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-12 22:14\n"
+"PO-Revision-Date: 2023-10-15 13:27\n"
 
 # TODO: Translation updated at 2023-09-10 00:31 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/tutorial.rpy:14
 msgid "Главная панель игры располагается внизу."
@@ -24,13 +24,13 @@ msgstr "A la izquierda, incluye iconos de diferentes partes de las localizacione
 msgid "Справа расположены иконки действий Макса, которые применимы к выбранным участкам на локациях. \n"
 "На вилле, где живёт Макс, имеется универсальное действие «Ждать окончания часа», клавиша [[Space] на клавиатуре."
 msgstr "A la derecha están los iconos de las acciones de Max que se aplican a las zonas seleccionadas de las localizaciones. \n"
-"La villa donde vive Max tiene una acción universal \"Esperar a que acabe la hora\", tecla [[Space] del teclado."
+"La villa donde vive Max tiene una acción universal «Esperar a que acabe la hora», tecla [[Space] del teclado."
 
 # game/scripts/screens/tutorial.rpy:14
 msgid "У этого действия есть несколько вариаций, а именно «Ждать 10 минут» и «Ждать 30 минут», так как в течение часа персонажи могут находиться на разных стадиях своих занятий. \n"
 "Эти иконки можно увидеть, нажав на соответствующую иконку «Развернуть»."
 msgstr "Esta acción tiene varias variantes, a saber, \"Esperar 10 minutos\" y \"Esperar 30 minutos\", ya que los personajes pueden encontrarse en distintas fases de su ocupación durante la hora. \n"
-"Estos iconos se pueden ver haciendo clic en el icono \"Expandir\" correspondiente."
+"Estos iconos se pueden ver haciendo clic en el icono «Expandir» correspondiente."
 
 # game/scripts/screens/tutorial.rpy:14
 msgid "Наличие других иконок действий может зависеть от того, где Макс находится, его возможностей и есть ли там другие персонажи."
@@ -46,7 +46,7 @@ msgstr "Básicamente, contiene iconos con diversa información útil sobre los p
 
 # game/scripts/screens/tutorial.rpy:14
 msgid "Вы можете сохранить или загрузить свой прогресс в игре через иконку «Меню игры», либо с помощью клавиш ( [[F5] - сохранение / [[F8] - загрузка ) на клавиатуре."
-msgstr "Puedes guardar o cargar tu progreso en el juego a través del icono \"Menú del juego\", o utilizando las teclas ( [[F5] - guardar / [[F8] - cargar ) de tu teclado."
+msgstr "Puedes guardar o cargar tu progreso en el juego a través del icono «Menú del juego», o utilizando las teclas ( [[F5] - guardar / [[F8] - cargar ) de tu teclado."
 
 # game/scripts/screens/tutorial.rpy:14
 msgid "Во время диалогов между персонажами и выполнения некоторых заданий, у Макса может быть выбор в действиях. \n"
@@ -74,7 +74,7 @@ msgstr "Las propias entradas del diario aparecen a medida que avanzas en el jueg
 
 # game/scripts/screens/tutorial.rpy:43
 msgid "Когда вы выполните задание, которое себе поставил Макс, оно получит отметку {color=#008000}«выполнено»{/color} и следом появится новое задание."
-msgstr "Cuando completes una tarea que Max haya establecido para ti, se marcará como {color=#008000}\"completada\"{/color} y le seguirá una nueva tarea."
+msgstr "Cuando completes una tarea que Max haya establecido para ti, se marcará como {color=#008000}«completada»{/color} y le seguirá una nueva tarea."
 
 # game/scripts/screens/tutorial.rpy:43
 msgid "Многие задания будут иметь подсказку для их выполнения. Эту подсказку можно увидеть просто наведя курсор на само задание в дневнике."
@@ -122,7 +122,7 @@ msgstr "Esta probabilidad suele verse afectada por el nivel de la habilidad, la 
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "Макс так же может оказаться в ситуациях, которые потребуют от него выбрать между «безопасным» и «рискованным» вариантом ответов."
-msgstr "Max también puede encontrarse en situaciones que le obliguen a elegir entre respuestas \"seguras\" y \"arriesgadas\"."
+msgstr "Max también puede encontrarse en situaciones que le obliguen a elegir entre respuestas «seguras» y «arriesgadas»."
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "Если навести на эти варианты курсор, вы увидите различие по цвету, а так же в шансах на успех."
@@ -130,7 +130,7 @@ msgstr "Si pasa el cursor por encima de estas opciones, verá la diferencia de c
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "При выборе «безопасного» варианта ответа, Макс ничего не теряет при провале, а при успехе немного повышает опыт применения навыка и настроение персонажа, с которым контактирует."
-msgstr "Al elegir la opción de respuesta \"segura\", Max no pierde nada al fallar, y al tener éxito aumenta ligeramente la experiencia de la habilidad y el estado de ánimo del personaje con el que está en contacto."
+msgstr "Al elegir la opción de respuesta «segura», Max no pierde nada al fallar, y al tener éxito aumenta ligeramente la experiencia de la habilidad y el estado de ánimo del personaje con el que está en contacto."
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "При выборе «рискованного» варианта ответа, Макс теряет немного опыта применения навыка и слегка ухудшает настроение персонажа, с которым контактирует. \n"
