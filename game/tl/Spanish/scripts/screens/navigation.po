@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-15 15:45\n"
+"PO-Revision-Date: 2023-10-15 16:48\n"
 
 # TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/navigation.rpy:130
 msgid "Ждать окончания часа"
@@ -50,11 +50,11 @@ msgstr "Leer"
 
 # game/scripts/screens/navigation.rpy:220
 msgid "Пылесосить дом"
-msgstr ""
+msgstr "Aspirar la casa"
 
 # game/scripts/screens/navigation.rpy:220
 msgid "нужен отдых"
-msgstr ""
+msgstr "necesitas descansar"
 
 # game/scripts/screens/navigation.rpy:232
 msgid "Чистить бассейн"
@@ -62,7 +62,7 @@ msgstr "Limpiar la piscina"
 
 # game/scripts/screens/navigation.rpy:243
 msgid "Подстричь газон"
-msgstr ""
+msgstr "Cortar el césped"
 
 # game/scripts/screens/navigation.rpy:254
 msgid "Выйти в город"
