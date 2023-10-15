@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-26 17:43\n"
+"PO-Revision-Date: 2023-10-15 15:47\n"
 
-# TODO: Translation updated at 2023-09-10 00:31 #|#|# # game/scripts/story_01/excuses.rpy:8 #-#-# translate crowdin tasty_open_alice_9d7c61dc:
+# TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/excuses.rpy:8 #-#-# translate crowdin tasty_open_alice_9d7c61dc:
 msgid "[_tMax_s_13_] Фух... Остался жив и то хорошо! Но теперь нужно достать для Алисы какие-нибудь сладости."
 msgstr "[_tMax_s_13_] Uff... Sono vivo e vegeto! Ma ora dobbiamo portare ad Alice qualche dolcetto."
 
@@ -20,13 +20,13 @@ msgstr "[_tMax_s_13_] Uff... Sono vivo e vegeto! Ma ora dobbiamo portare ad Alic
 msgid "[_tMax_s_11_] В течение дня обязательно нужно будет сходить в продуктовый магазин и посмотреть сколько стоит то, чем можно попробовать угостить Алису..."
 msgstr "[_tMax_s_11_] Durante la giornata, sarà sicuramente necessario andare a fare la spesa e vedere quanto costa qualcosa che si può provare a regalare ad Alice..."
 
-# game/scripts/story_01/excuses.rpy:26 #-#-# translate crowdin ev_062_8ce3c6ae:
-msgid "[_Alice_s_02_] Ого! Правда хочешь рискнуть? И что там у тебя на этот раз?"
-msgstr "[_Alice_s_02_] Vuoi davvero correre il rischio? Che cos'hai questa volta?"
+# game/scripts/story_01/excuses.rpy:26 #-#-# translate crowdin ev_062_0b4c6ae5:
+msgid "[_Alice_s_02_] Ого! Правда хочешь рискнуть? И что там у тебя на этот раз? [nointeract]"
+msgstr "[_Alice_s_02_] Vuoi davvero correre il rischio? Che cos'hai questa volta? [nointeract]"
 
-# game/scripts/story_01/excuses.rpy:28 #-#-# translate crowdin ev_062_6a5f4f5a:
-msgid "[_Alice_s_02_] Да ладно! Это мне нравится... И что там у тебя?"
-msgstr "[_Alice_s_02_] Dai! Mi piace questo... E cosa hai lì?"
+# game/scripts/story_01/excuses.rpy:28 #-#-# translate crowdin ev_062_7dc7a57a:
+msgid "[_Alice_s_02_] Да ладно! Это мне нравится... И что там у тебя? [nointeract]"
+msgstr ""
 
 # game/scripts/story_01/excuses.rpy:33 #-#-# translate crowdin ev_062_18eacfc9:
 msgid "[_Alice_s_13_] Ничего себе! Ты даже умудрился купить мои любимые конфеты! Большое спасибо! И кто об этом проболтался?"
@@ -540,47 +540,47 @@ msgstr "[_Alice_s_02_] Come desideri... [nointeract]"
 msgid "[_tMax_s_11_] Интересно, Алиса и правда хотела меня обнять от радости или нет? Пожалуй, всё же нужно будет рискнуть и проверить это..."
 msgstr "[_tMax_s_11_] Mi chiedevo se Alice volesse davvero abbracciarmi con gioia o meno. Credo che dovrò correre il rischio di controllare dopo tutto..."
 
-# game/scripts/story_01/excuses.rpy:383 #-#-# translate crowdin ev_069_big_r_71c59f7e:
+# game/scripts/story_01/excuses.rpy:382 #-#-# translate crowdin ev_069_big_r_71c59f7e:
 msgid "[_Alice_s_13_] Ага! Снова купил мои любимые конфеты! Как здорово... Большое тебе спасибо, Макс!"
 msgstr "[_Alice_s_13_] Mi hai comprato di nuovo le mie caramelle preferite! Oh, è fantastico. Grazie mille, Max!"
 
-# game/scripts/story_01/excuses.rpy:384 #-#-# translate crowdin ev_069_big_r_204b9d8d:
+# game/scripts/story_01/excuses.rpy:383 #-#-# translate crowdin ev_069_big_r_204b9d8d:
 msgid "[_Max_s_03_] Я люблю радовать старшую сестрёнку её любимыми конфетами."
 msgstr "[_Max_s_03_] Mi piace deliziare la mia sorella maggiore con i suoi dolci preferiti."
 
-# game/scripts/story_01/excuses.rpy:385 #-#-# translate crowdin ev_069_big_r_1e224d38:
+# game/scripts/story_01/excuses.rpy:384 #-#-# translate crowdin ev_069_big_r_1e224d38:
 msgid "[_Alice_s_06_] Конфет так много, что я не припоминаю, чтобы утром за мной кто-то подглядывал! Всё было в порядке..."
 msgstr "[_Alice_s_06_] Ci sono così tante caramelle che non ricordo che qualcuno mi abbia sbirciato stamattina! Tutto è andato bene..."
 
-# game/scripts/story_01/excuses.rpy:386 #-#-# translate crowdin ev_069_big_r_88d34f63:
+# game/scripts/story_01/excuses.rpy:385 #-#-# translate crowdin ev_069_big_r_88d34f63:
 msgid "[_Max_s_01_] Ну да, меня и рядом тогда не было!"
 msgstr "[_Max_s_01_] Sì, non ero in giro allora!"
 
-# game/scripts/story_01/excuses.rpy:387 #-#-# translate crowdin ev_069_big_r_4d8e8e21:
+# game/scripts/story_01/excuses.rpy:386 #-#-# translate crowdin ev_069_big_r_4d8e8e21:
 msgid "[_Alice_s_04_] Я даже обниму тебя за это! Ну так... совсем немного... Иди ко мне."
 msgstr "[_Alice_s_04_] Ti darò anche un abbraccio per questo! Solo un po'. Vieni qui."
 
-# game/scripts/story_01/excuses.rpy:392 #-#-# translate crowdin ev_069_big_r_90b40906:
+# game/scripts/story_01/excuses.rpy:391 #-#-# translate crowdin ev_069_big_r_90b40906:
 msgid "[_Max_s_05_] Вау! Это так непривычно... обнимать тебя без последствий для себя."
 msgstr "[_Max_s_05_] Wow! È così insolito. Abbracciarti senza alcuna ripercussione su di me."
 
-# game/scripts/story_01/excuses.rpy:393 #-#-# translate crowdin ev_069_big_r_20022416:
+# game/scripts/story_01/excuses.rpy:392 #-#-# translate crowdin ev_069_big_r_20022416:
 msgid "[_Alice_s_03_] Я вижу, что ты не просто хочешь откупиться, а ещё и мне приятно сделать стремишься. Вот я и не вредничаю..."
 msgstr "[_Alice_s_03_] Vedo che non stai solo cercando di pagarmi, ma anche di farmi sentire bene. Quindi non sono cattiva..."
 
-# game/scripts/story_01/excuses.rpy:394 #-#-# translate crowdin ev_069_big_r_b91d1695:
+# game/scripts/story_01/excuses.rpy:393 #-#-# translate crowdin ev_069_big_r_b91d1695:
 msgid "[_Max_s_04_] Надо бы почаще так делать."
 msgstr "[_Max_s_04_] Dovremmo farlo più spesso."
 
-# game/scripts/story_01/excuses.rpy:395 #-#-# translate crowdin ev_069_big_r_6b545ef0:
+# game/scripts/story_01/excuses.rpy:394 #-#-# translate crowdin ev_069_big_r_6b545ef0:
 msgid "[_Alice_s_04_] Подглядывать за мной или дарить мне сладости?!"
 msgstr "[_Alice_s_04_] Mi spii o mi regali dolci?!"
 
-# game/scripts/story_01/excuses.rpy:396 #-#-# translate crowdin ev_069_big_r_60a56948:
+# game/scripts/story_01/excuses.rpy:395 #-#-# translate crowdin ev_069_big_r_60a56948:
 msgid "[_Max_s_01_] Второе, конечно!"
 msgstr "[_Max_s_01_] Il secondo, naturalmente!"
 
-# game/scripts/story_01/excuses.rpy:398 #-#-# translate crowdin ev_069_big_r_1dcfe6f8:
+# game/scripts/story_01/excuses.rpy:397 #-#-# translate crowdin ev_069_big_r_1dcfe6f8:
 msgid "[_Alice_s_01_] Ну да, конечно... Иди давай. [nointeract]"
 msgstr "[_Alice_s_01_] Sì, certo. Continua. [nointeract]"
 
@@ -608,19 +608,11 @@ msgstr "Mi sono trovato per caso vicino alla doccia..."
 msgid "Задание «Стоит ли рисковать?» обновлено!"
 msgstr "La missione «Vale la pena rischiare?» è stata aggiornata!"
 
-# game/scripts/story_01/excuses.rpy:251
-msgid "[items['ferrero-m'].name!t]"
-msgstr "[items['ferrero-m'].name!t]"
-
-# game/scripts/story_01/excuses.rpy:251
-msgid "[items['ferrero-b'].name!t]"
-msgstr "[items['ferrero-b'].name!t]"
-
 # game/scripts/story_01/excuses.rpy:319
 msgid "Только давай без вреда моему здоровью, ладно?"
 msgstr "Ma non danneggiamo la mia salute, ok?"
 
-# game/scripts/story_01/excuses.rpy:401
+# game/scripts/story_01/excuses.rpy:400
 msgid "Задание «Стоит ли рисковать?» завершено!"
 msgstr "La missione «Vale la pena rischiare?» è terminata!"
 
