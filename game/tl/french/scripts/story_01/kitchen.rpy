@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-09-10 00:31
+# TODO: Translation updated at 2023-10-14 21:25
 
 # game/scripts/story_01/kitchen.rpy:15
 translate french ev_alice_clean_e2fdb3e5:
@@ -157,10 +157,6 @@ translate french ev_ann_cooking_97e8fc22:
     Ann 12 "Eh bien, je me faisais des illusions ! Alors ne vous mettez pas en travers..." nointeract
 
 translate french strings:
-
-    # game/scripts/story_01/kitchen.rpy:24
-    old "{i}мыть посуду{/i}"
-    new "{i}laver la vaisselle{/i}"
 
     # game/scripts/story_01/kitchen.rpy:59
     old "Хочешь, я помогу тебе домыть посуду?"

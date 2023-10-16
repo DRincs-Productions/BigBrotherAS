@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-09-10 00:31
+# TODO: Translation updated at 2023-10-14 21:25
 
 # game/scripts/story_01/excuses.rpy:8
 translate french tasty_open_alice_9d7c61dc:
@@ -13,16 +13,16 @@ translate french tasty_open_alice_cf288100:
     tMax 11 "Pendant la journée, il sera certainement nécessaire d'aller à l'épicerie et de voir combien coûte un produit que vous pouvez essayer d'offrir à Alice...."
 
 # game/scripts/story_01/excuses.rpy:26
-translate french ev_062_8ce3c6ae:
+translate french ev_062_0b4c6ae5:
 
-    # Alice 02 "Ого! Правда хочешь рискнуть? И что там у тебя на этот раз?"
-    Alice 02 "Vous voulez vraiment tenter votre chance ? Qu'est-ce que tu as cette fois ?"
+    # Alice 02 "Ого! Правда хочешь рискнуть? И что там у тебя на этот раз?" nointeract
+    Alice 02 "Vous voulez vraiment tenter votre chance ? Qu'est-ce que tu as cette fois ?" nointeract
 
 # game/scripts/story_01/excuses.rpy:28
-translate french ev_062_6a5f4f5a:
+translate french ev_062_7dc7a57a:
 
-    # Alice 02 "Да ладно! Это мне нравится... И что там у тебя?"
-    Alice 02 "Allez ! J'aime ça. Alors, qu'est-ce que tu as ?"
+    # Alice 02 "Да ладно! Это мне нравится... И что там у тебя?" nointeract
+    ""
 
 # game/scripts/story_01/excuses.rpy:33
 translate french ev_062_18eacfc9:
@@ -792,67 +792,67 @@ translate french ev_069_big_1_f794fad5:
     # tMax 11 "Интересно, Алиса и правда хотела меня обнять от радости или нет? Пожалуй, всё же нужно будет рискнуть и проверить это..."
     tMax 11 "Je me demandais si Alice voulait vraiment me serrer dans ses bras avec joie ou non. Je pense qu'il faudra que je tente ma chance et que j'aille voir après tout...."
 
-# game/scripts/story_01/excuses.rpy:383
+# game/scripts/story_01/excuses.rpy:382
 translate french ev_069_big_r_71c59f7e:
 
     # Alice 13 "Ага! Снова купил мои любимые конфеты! Как здорово... Большое тебе спасибо, Макс!"
     Alice 13 "Aha ! J'ai encore acheté mon bonbon préféré ! Oh, c'est super. Merci beaucoup, Max !"
 
-# game/scripts/story_01/excuses.rpy:384
+# game/scripts/story_01/excuses.rpy:383
 translate french ev_069_big_r_204b9d8d:
 
     # Max 03 "Я люблю радовать старшую сестрёнку её любимыми конфетами."
     Max 03 "J'adore régaler ma grande sœur avec ses friandises préférées."
 
-# game/scripts/story_01/excuses.rpy:385
+# game/scripts/story_01/excuses.rpy:384
 translate french ev_069_big_r_1e224d38:
 
     # Alice 06 "Конфет так много, что я не припоминаю, чтобы утром за мной кто-то подглядывал! Всё было в порядке..."
     Alice 06 "Il y a tellement de bonbons que je ne me souviens pas que quelqu'un m'ait jeté un coup d'œil ce matin ! Tout allait bien..."
 
-# game/scripts/story_01/excuses.rpy:386
+# game/scripts/story_01/excuses.rpy:385
 translate french ev_069_big_r_88d34f63:
 
     # Max 01 "Ну да, меня и рядом тогда не было!"
     Max 01 "Ouais, eh bien, je n'étais même pas là à l'époque !"
 
-# game/scripts/story_01/excuses.rpy:387
+# game/scripts/story_01/excuses.rpy:386
 translate french ev_069_big_r_4d8e8e21:
 
     # Alice 04 "Я даже обниму тебя за это! Ну так... совсем немного... Иди ко мне."
     Alice 04 "Je t'embrasserai même pour cela ! Juste un peu. juste un petit peu. Viens ici."
 
-# game/scripts/story_01/excuses.rpy:392
+# game/scripts/story_01/excuses.rpy:391
 translate french ev_069_big_r_90b40906:
 
     # Max 05 "Вау! Это так непривычно... обнимать тебя без последствий для себя."
     Max 05 "C'est tellement inhabituel. Je vous serre dans mes bras sans qu'il y ait de répercussions pour moi."
 
-# game/scripts/story_01/excuses.rpy:393
+# game/scripts/story_01/excuses.rpy:392
 translate french ev_069_big_r_20022416:
 
     # Alice 03 "Я вижу, что ты не просто хочешь откупиться, а ещё и мне приятно сделать стремишься. Вот я и не вредничаю..."
     Alice 03 "Je vois que vous n'essayez pas seulement de me rembourser, mais aussi de me faire plaisir. Je ne suis donc pas méchant."
 
-# game/scripts/story_01/excuses.rpy:394
+# game/scripts/story_01/excuses.rpy:393
 translate french ev_069_big_r_b91d1695:
 
     # Max 04 "Надо бы почаще так делать."
     Max 04 "Nous devrions le faire plus souvent."
 
-# game/scripts/story_01/excuses.rpy:395
+# game/scripts/story_01/excuses.rpy:394
 translate french ev_069_big_r_6b545ef0:
 
     # Alice 04 "Подглядывать за мной или дарить мне сладости?!"
     Alice 04 "Vous m'espionnez ou vous me donnez des bonbons ?!"
 
-# game/scripts/story_01/excuses.rpy:396
+# game/scripts/story_01/excuses.rpy:395
 translate french ev_069_big_r_60a56948:
 
     # Max 01 "Второе, конечно!"
     Max 01 "Le deuxième, bien sûr !"
 
-# game/scripts/story_01/excuses.rpy:398
+# game/scripts/story_01/excuses.rpy:397
 translate french ev_069_big_r_1dcfe6f8:
 
     # Alice 01 "Ну да, конечно... Иди давай." nointeract
@@ -884,19 +884,11 @@ translate french strings:
     old "Задание «Стоит ли рисковать?» обновлено!"
     new "Le devoir \"Le jeu en vaut-il la chandelle ?\" a été mis à jour !"
 
-    # game/scripts/story_01/excuses.rpy:251
-    old "[items['ferrero-m'].name!t]"
-    new "[items['ferrero-m'].name!t]."
-
-    # game/scripts/story_01/excuses.rpy:251
-    old "[items['ferrero-b'].name!t]"
-    new "[items['ferrero-b'].name!t]."
-
     # game/scripts/story_01/excuses.rpy:319
     old "Только давай без вреда моему здоровью, ладно?"
     new "Mais ne nuisons pas à ma santé, d'accord ?"
 
-    # game/scripts/story_01/excuses.rpy:401
+    # game/scripts/story_01/excuses.rpy:400
     old "Задание «Стоит ли рисковать?» завершено!"
     new "La mission \"Le risque en vaut-il la chandelle ?\" est terminée !"
 

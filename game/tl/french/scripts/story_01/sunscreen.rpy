@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-09-10 00:31
+# TODO: Translation updated at 2023-10-14 21:25
 
 # game/scripts/story_01/sunscreen.rpy:7
 translate french ev_011_03c9dcee:
@@ -270,265 +270,265 @@ translate french ev_012_first_apply_oil_6ef4ece6:
     # Lisa 01 "Давай, Макс, начинай... Моя спинка полностью в твоём распоряжении!" nointeract
     Lisa 01 "Allez, Max, commence. Mon dos est à toi !" nointeract
 
-# game/scripts/story_01/sunscreen.rpy:282
+# game/scripts/story_01/sunscreen.rpy:283
 translate french ev_012_first_apply_oil_864f51e1:
 
     # tMax 02 "Так, сейчас я разотру её белоснежную спинку, а так же плечи и совсем немного шею... Вот и готово!"
     tMax 02 "Bon, maintenant je vais frotter son dos blanc comme neige, ainsi que ses épaules et un peu son cou..... Voilà, c'est fait !"
 
-# game/scripts/story_01/sunscreen.rpy:283
+# game/scripts/story_01/sunscreen.rpy:284
 translate french ev_012_first_apply_oil_635a6e7b:
 
     # Lisa 04 "Ой, как хорошо! Я тебе очень благодарна, Макс!"
     Lisa 04 "Oh, c'est tellement bon ! Je t'en suis très reconnaissante, Max !"
 
-# game/scripts/story_01/sunscreen.rpy:284
+# game/scripts/story_01/sunscreen.rpy:285
 translate french ev_012_first_apply_oil_078be9dd:
 
     # Max 04 "Рано благодаришь, я ещё не закончил. Теперь ложись..."
     Max 04 "Vous me remerciez trop tôt, je n'ai pas encore fini. Maintenant, allonge-toi."
 
-# game/scripts/story_01/sunscreen.rpy:288
+# game/scripts/story_01/sunscreen.rpy:289
 translate french ev_012_first_apply_oil_54f13807:
 
     # tMax 01 "Какие у Лизы красивые ножки. Растирать по ним маслице одно удовольствие..."
     tMax 01 "Lisa a de belles jambes. Les enduire d'huile est un plaisir....."
 
-# game/scripts/story_01/sunscreen.rpy:293
+# game/scripts/story_01/sunscreen.rpy:294
 translate french ev_012_first_apply_oil_a2a76751:
 
     # Lisa 05 "У тебя хорошо получается. Немного щекотно, но всё равно приятно... Спасибо тебе!"
     Lisa 05 "Tu es doué pour ça. C'est un peu chatouilleux, mais ça fait toujours du bien..... Merci à vous !"
 
-# game/scripts/story_01/sunscreen.rpy:295
+# game/scripts/story_01/sunscreen.rpy:296
 translate french ev_012_first_apply_oil_83c4fa77:
 
     # Max 03 "Всегда рад, обращайся!" nointeract
     Max 03 "C'est toujours un plaisir, prenez contact !" nointeract
 
-# game/scripts/story_01/sunscreen.rpy:304
+# game/scripts/story_01/sunscreen.rpy:305
 translate french ev_012_apply_oil_867c26b1:
 
     # Lisa 11 "Давай, если ты не занят. С ним как-то получше загорается."
     Lisa 11 "Viens, si tu n'es pas occupé. C'est une meilleure lumière avec lui."
 
-# game/scripts/story_01/sunscreen.rpy:308
+# game/scripts/story_01/sunscreen.rpy:309
 translate french ev_012_apply_oil_060fad4e:
 
     # Max 12 "Увы, его нет. Но в другой раз обязательно будет..."
     Max 12 "Hélas, il n'est pas là. Mais il y aura bien une autre fois..."
 
-# game/scripts/story_01/sunscreen.rpy:312
+# game/scripts/story_01/sunscreen.rpy:314
 translate french ev_012_apply_oil_e7ea9016:
 
     # Max 12 "Увы, оно почти закончилось. Но в другой раз обязательно будет..."
     Max 12 "Hélas, c'est bientôt fini. Mais il y aura sûrement une autre fois..."
 
-# game/scripts/story_01/sunscreen.rpy:315
+# game/scripts/story_01/sunscreen.rpy:318
 translate french ev_012_apply_oil_473c6aa3:
 
     # Max 01 "Это точно. Усаживайся, как тебе удобнее..."
     Max 01 "C'est exact. Asseyez-vous comme vous le souhaitez...."
 
-# game/scripts/story_01/sunscreen.rpy:320
+# game/scripts/story_01/sunscreen.rpy:323
 translate french ev_012_apply_oil_6ef4ece6:
 
     # Lisa 01 "Давай, Макс, начинай... Моя спинка полностью в твоём распоряжении!" nointeract
     Lisa 01 "Allez, Max, commence. Mon dos est à toi !" nointeract
 
-# game/scripts/story_01/sunscreen.rpy:329
+# game/scripts/story_01/sunscreen.rpy:333
 translate french ev_012_apply_oil_864f51e1:
 
     # tMax 02 "Так, сейчас я разотру её белоснежную спинку, а так же плечи и совсем немного шею... Вот и готово!"
     tMax 02 "Bon, maintenant je vais frotter son dos blanc comme neige, ainsi que ses épaules et un peu son cou..... Voilà, c'est fait !"
 
-# game/scripts/story_01/sunscreen.rpy:331
+# game/scripts/story_01/sunscreen.rpy:335
 translate french ev_012_apply_oil_354bc733:
 
     # Lisa 04 "Ах, как классно! Под этими руками можно с лёгкостью растаять..." nointeract
     Lisa 04 "Oh, c'est trop cool ! Vous pouvez facilement fondre sous ces mains....." nointeract
 
-# game/scripts/story_01/sunscreen.rpy:337
+# game/scripts/story_01/sunscreen.rpy:341
 translate french ev_012_apply_oil_54f13807:
 
     # tMax 01 "Какие у Лизы красивые ножки. Растирать по ним маслице одно удовольствие..."
     tMax 01 "Lisa a de belles jambes. Les enduire d'huile est un plaisir....."
 
-# game/scripts/story_01/sunscreen.rpy:341
+# game/scripts/story_01/sunscreen.rpy:345
 translate french ev_012_apply_oil_a2a76751:
 
     # Lisa 05 "У тебя хорошо получается. Немного щекотно, но всё равно приятно... Спасибо тебе!"
     Lisa 05 "Tu es doué pour ça. C'est un peu chatouilleux, mais ça fait toujours du bien..... Merci à vous !"
 
-# game/scripts/story_01/sunscreen.rpy:343
+# game/scripts/story_01/sunscreen.rpy:347
 translate french ev_012_apply_oil_83c4fa77:
 
     # Max 03 "Всегда рад, обращайся!" nointeract
     Max 03 "C'est toujours un plaisir, prenez contact !" nointeract
 
-# game/scripts/story_01/sunscreen.rpy:357
+# game/scripts/story_01/sunscreen.rpy:361
 translate french ev_053_039743f8:
 
     # Ann 01 "Просто сказочно! Так хорошо, что даже двигаться не хочется." nointeract
     Ann 01 "C'est fabuleux ! C'est tellement bon que je n'ai même pas envie de bouger." nointeract
 
-# game/scripts/story_01/sunscreen.rpy:380
+# game/scripts/story_01/sunscreen.rpy:384
 translate french ev_053_sunbathe_6d32c7f9:
 
     # Ann 02 "Правильно, что тоже решил позагорать. В доме ещё вечером насидишься."
     Ann 02 "Tu as raison d'aller prendre un bain de soleil. Tu seras dans la maison toute la nuit."
 
-# game/scripts/story_01/sunscreen.rpy:381
+# game/scripts/story_01/sunscreen.rpy:385
 translate french ev_053_sunbathe_8cfbb5c7:
 
     # Max 01 "Верно. А загорать вместе с тобой ещё приятнее..."
     Max 01 "Et c'est encore plus amusant de bronzer avec vous. Et c'est encore plus amusant de bronzer avec vous....."
 
-# game/scripts/story_01/sunscreen.rpy:382
+# game/scripts/story_01/sunscreen.rpy:386
 translate french ev_053_sunbathe_adc74b5d:
 
     # Ann 03 "Рада слышать, сынок..."
     Ann 03 "C'est bon à entendre, mon fils..."
 
-# game/scripts/story_01/sunscreen.rpy:384
+# game/scripts/story_01/sunscreen.rpy:388
 translate french ev_053_sunbathe_9435166e:
 
     # tMax 04 "Когда мама одевает бикини, начинается самый настоящий праздник! Такие аппетитные формы, слегка блестящие на солнце... Ммм..." nointeract
     tMax 04 "Quand maman enfile un bikini, la fête commence ! Des formes si pulpeuses, qui scintillent légèrement au soleil.... Mmm." nointeract
 
-# game/scripts/story_01/sunscreen.rpy:397
+# game/scripts/story_01/sunscreen.rpy:401
 translate french ev_053_first_apply_oil_d8e4e97c:
 
     # Ann 11 "Нет. Я даже и не подумала об этом. Раньше ведь таких условий у нас не было."
     Ann 11 "Non. Je n'y ai même pas pensé. Ce n'est pas comme si on n'avait jamais eu ça avant."
 
-# game/scripts/story_01/sunscreen.rpy:398
+# game/scripts/story_01/sunscreen.rpy:402
 translate french ev_053_first_apply_oil_9ac91cb8:
 
     # Max 11 "Но теперь-то все условия есть. Я вот сразу себя озадачил, приобрести масло для загара."
     Max 11 "Mais maintenant, toutes les conditions sont réunies. J'ai pris l'habitude d'acheter de l'huile solaire."
 
-# game/scripts/story_01/sunscreen.rpy:399
+# game/scripts/story_01/sunscreen.rpy:403
 translate french ev_053_first_apply_oil_1d8473c5:
 
     # Ann 00 "И как, приобрёл?"
     Ann 00 "Vous l'avez eu ?"
 
-# game/scripts/story_01/sunscreen.rpy:403
+# game/scripts/story_01/sunscreen.rpy:407
 translate french ev_053_first_apply_oil_8a0e5098:
 
     # Max 12 "Увы, ещё нет. Но в другой раз обязательно будет..."
     Max 12 "Hélas, pas encore. Mais il y aura une autre fois pour sûr...."
 
-# game/scripts/story_01/sunscreen.rpy:408
+# game/scripts/story_01/sunscreen.rpy:412
 translate french ev_053_first_apply_oil_e7ea9016:
 
     # Max 12 "Увы, оно почти закончилось. Но в другой раз обязательно будет..."
     Max 12 "Hélas, c'est bientôt fini. Mais il y aura sûrement une autre fois..."
 
-# game/scripts/story_01/sunscreen.rpy:412
+# game/scripts/story_01/sunscreen.rpy:416
 translate french ev_053_first_apply_oil_59b6031c:
 
     # Max 01 "Конечно! Давай я тебя им натру..."
     Max 01 "Bien sûr ! Laisse-moi t'enduire."
 
-# game/scripts/story_01/sunscreen.rpy:417
+# game/scripts/story_01/sunscreen.rpy:421
 translate french ev_053_first_apply_oil_d6a52d8c:
 
     # Ann 01 "Хорошо, приступай... Ты сможешь натереть мне спину лучше, чем я сделаю это сама." nointeract
     Ann 01 "D'accord, nous y voilà. Tu peux me frotter le dos mieux que je ne peux le faire moi-même." nointeract
 
-# game/scripts/story_01/sunscreen.rpy:426
+# game/scripts/story_01/sunscreen.rpy:431
 translate french ev_053_first_apply_oil_29a7fdb7:
 
     # tMax 02 "Какая же шикарная попка у моей мамы! Можно спокойно глазеть и вместе с этим растирать масло по её нежной спине, но нужно и про плечи с шеей не забыть... Вот и готово!"
     tMax 02 "Quel beau cul a ma mère ! Tu peux regarder et frotter l'huile sur son dos tendre, mais n'oublie pas ses épaules et son cou..... C'est parti !"
 
-# game/scripts/story_01/sunscreen.rpy:427
+# game/scripts/story_01/sunscreen.rpy:432
 translate french ev_053_first_apply_oil_7a18d493:
 
     # Ann 04 "Ох, сынок, большое тебе спасибо! Может, ты ещё и ножки мне натрёшь? А то я что-то совсем не хочу двигаться."
     Ann 04 "Oh, mon fils, merci beaucoup ! Pourquoi ne pas me masser les pieds aussi ? Je n'ai pas du tout envie de bouger."
 
-# game/scripts/story_01/sunscreen.rpy:428
+# game/scripts/story_01/sunscreen.rpy:433
 translate french ev_053_first_apply_oil_782af8b5:
 
     # Max 04 "Без проблем. Я с радостью..."
     Max 04 "Pas de problème. Je serais heureux de..."
 
-# game/scripts/story_01/sunscreen.rpy:432
+# game/scripts/story_01/sunscreen.rpy:437
 translate french ev_053_first_apply_oil_16efb762:
 
     # tMax 01 "Об этих стройных ножках обязательно нужно позаботиться. Они у мамы даже и без масла очень гладкие..."
     tMax 01 "Ces jambes fines sont indispensables. Même sans huile, les jambes de maman sont très lisses...."
 
-# game/scripts/story_01/sunscreen.rpy:436
+# game/scripts/story_01/sunscreen.rpy:441
 translate french ev_053_first_apply_oil_346e41c6:
 
     # Ann 06 "Молодец, Макс! Как хорошо, что ты у меня есть... Теперь можно загорать без всяких опасений!"
     Ann 06 "Bravo, Max ! Je suis ravie de t'avoir à mes côtés. Maintenant, je peux prendre un bain de soleil en toute tranquillité !"
 
-# game/scripts/story_01/sunscreen.rpy:438
+# game/scripts/story_01/sunscreen.rpy:443
 translate french ev_053_first_apply_oil_fcc24445:
 
     # Max 03 "На здоровье, мам!" nointeract
     Max 03 "De rien, maman !" nointeract
 
-# game/scripts/story_01/sunscreen.rpy:444
+# game/scripts/story_01/sunscreen.rpy:449
 translate french ev_053_apply_oil_e22e7616:
 
     # Ann 11 "Ой, сынок, это было бы очень кстати. Я постоянно об этом забываю."
     Ann 11 "Oh, mon fils, ce serait très utile. Je n'arrête pas de l'oublier."
 
-# game/scripts/story_01/sunscreen.rpy:448
+# game/scripts/story_01/sunscreen.rpy:453
 translate french ev_053_apply_oil_060fad4e:
 
     # Max 12 "Увы, его нет. Но в другой раз обязательно будет..."
     Max 12 "Hélas, il n'est pas là. Mais il y aura bien une autre fois..."
 
-# game/scripts/story_01/sunscreen.rpy:453
+# game/scripts/story_01/sunscreen.rpy:458
 translate french ev_053_apply_oil_e7ea9016:
 
     # Max 12 "Увы, оно почти закончилось. Но в другой раз обязательно будет..."
     Max 12 "Hélas, c'est bientôt fini. Mais il y aura sûrement une autre fois..."
 
-# game/scripts/story_01/sunscreen.rpy:457
+# game/scripts/story_01/sunscreen.rpy:462
 translate french ev_053_apply_oil_ff527484:
 
     # Max 01 "Зато я прекрасно помню. Устраивайся поудобнее..."
     Max 01 "Mais je m'en souviens bien. Mets-toi à l'aise."
 
-# game/scripts/story_01/sunscreen.rpy:462
+# game/scripts/story_01/sunscreen.rpy:467
 translate french ev_053_apply_oil_d6a52d8c:
 
     # Ann 01 "Хорошо, приступай... Ты сможешь натереть мне спину лучше, чем я сделаю это сама." nointeract
     Ann 01 "D'accord, nous y voilà. Tu peux me frotter le dos mieux que je ne peux le faire moi-même." nointeract
 
-# game/scripts/story_01/sunscreen.rpy:471
+# game/scripts/story_01/sunscreen.rpy:477
 translate french ev_053_apply_oil_29a7fdb7:
 
     # tMax 02 "Какая же шикарная попка у моей мамы! Можно спокойно глазеть и вместе с этим растирать масло по её нежной спине, но нужно и про плечи с шеей не забыть... Вот и готово!"
     tMax 02 "Quel beau cul a ma mère ! Tu peux regarder et frotter l'huile sur son dos tendre, mais n'oublie pas ses épaules et son cou..... C'est parti !"
 
-# game/scripts/story_01/sunscreen.rpy:473
+# game/scripts/story_01/sunscreen.rpy:479
 translate french ev_053_apply_oil_860c2529:
 
     # Ann 04 "Ох, сынок, большое тебе спасибо! Можешь ещё мои ножки так же приятно натереть, если не сложно..." nointeract
     Ann 04 "Oh, mon fils, merci beaucoup ! Tu peux aussi me masser les pieds, si ça ne te dérange pas....." nointeract
 
-# game/scripts/story_01/sunscreen.rpy:479
+# game/scripts/story_01/sunscreen.rpy:485
 translate french ev_053_apply_oil_16efb762:
 
     # tMax 01 "Об этих стройных ножках обязательно нужно позаботиться. Они у мамы даже и без масла очень гладкие..."
     tMax 01 "Ces jambes fines sont indispensables. Même sans huile, les jambes de maman sont très lisses...."
 
-# game/scripts/story_01/sunscreen.rpy:483
+# game/scripts/story_01/sunscreen.rpy:489
 translate french ev_053_apply_oil_346e41c6:
 
     # Ann 06 "Молодец, Макс! Как хорошо, что ты у меня есть... Теперь можно загорать без всяких опасений!"
     Ann 06 "Bravo, Max ! Je suis ravie de t'avoir à mes côtés. Maintenant, je peux prendre un bain de soleil en toute tranquillité !"
 
-# game/scripts/story_01/sunscreen.rpy:485
+# game/scripts/story_01/sunscreen.rpy:491
 translate french ev_053_apply_oil_fcc24445:
 
     # Max 03 "На здоровье, мам!" nointeract
@@ -588,11 +588,11 @@ translate french strings:
     old "Натереть тебя маслом для загара?"
     new "Vous enduire d'huile de bronzage ?"
 
-    # game/scripts/story_01/sunscreen.rpy:356
+    # game/scripts/story_01/sunscreen.rpy:360
     old "А ты чем-нибудь защитным намазалась?"
     new "Avez-vous mis des protections ?"
 
-    # game/scripts/story_01/sunscreen.rpy:356
+    # game/scripts/story_01/sunscreen.rpy:360
     old "Давай я натру тебя маслом для загара?"
     new "Et si je vous enduisais d'huile de bronzage ?"
 

@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-09-10 00:31
+# TODO: Translation updated at 2023-10-14 21:25
 
 # game/scripts/story_01/morning_mischief.rpy:14
 translate spanish ev_039_12731b84:
@@ -192,43 +192,43 @@ translate spanish ev_040_pull_off_top_804db3ff:
     # tMax 05 "О да! Теперь оба сосочка одарены моим вниманием. Такие красивые..." nointeract
     tMax 05 "¡Oh, sí! Ahora ambos pezones tienen mi atención. Tan hermosos." nointeract
 
-# game/scripts/story_01/morning_mischief.rpy:174
+# game/scripts/story_01/morning_mischief.rpy:176
 translate spanish ev_040_pull_off_top_a1b860bc:
 
     # Lisa 10 "Ой, Макс! Что происходит?! Мне показалось или ты..."
     Lisa 10 "¡Oh, Max! ¡¿Qué está pasando?! Soy yo o estás..."
 
-# game/scripts/story_01/morning_mischief.rpy:175
+# game/scripts/story_01/morning_mischief.rpy:177
 translate spanish ev_040_pull_off_top_2c103e48:
 
     # Max 12 "У тебя одежда съехала... А я решил поправить."
     Max 12 "Tu ropa estaba subida. Pensé en colocartela."
 
-# game/scripts/story_01/morning_mischief.rpy:176
+# game/scripts/story_01/morning_mischief.rpy:178
 translate spanish ev_040_pull_off_top_e201a94a:
 
     # Lisa 12 "Только не глазей! И вообще, сама поправлю. Я ещё немного посплю..."
     Lisa 12 "¡No mires! De hecho, lo arreglaré yo misma. Voy a dormir un poco más..."
 
-# game/scripts/story_01/morning_mischief.rpy:177
+# game/scripts/story_01/morning_mischief.rpy:179
 translate spanish ev_040_pull_off_top_8c3065b9:
 
     # Max 01 "Давай..."
     Max 01 "Vamos..."
 
-# game/scripts/story_01/morning_mischief.rpy:205
+# game/scripts/story_01/morning_mischief.rpy:209
 translate spanish ev_040_pull_off_top_bc0b6491:
 
     # tMax 15 "Ох, это было опасно! Лиза может проснуться в любую секунду..." nointeract
     tMax 15 "¡Oh, eso será peligroso! Lisa podría despertar en cualquier segundo....." nointeract
 
-# game/scripts/story_01/morning_mischief.rpy:212
+# game/scripts/story_01/morning_mischief.rpy:217
 translate spanish ev_040_cooldown_0601ec98:
 
     # tMax 12 "Лиза совсем недавно уже просыпалась от того, что я стягивал с неё одежду. Лучше не рисковать лишний раз и подождать хотя бы несколько дней..." nointeract
     tMax 12 "Hace poco que Lisa se despertó cuando le había quitado la ropa. Será mejor no correr riesgos innecesarios y esperar al menos unos días...." nointeract
 
-# game/scripts/story_01/morning_mischief.rpy:214
+# game/scripts/story_01/morning_mischief.rpy:219
 translate spanish ev_040_cooldown_4130bb8a:
 
     # tMax 12 "Лиза совсем недавно уже просыпалась от того, что я стягивал с неё одежду. Лучше не рисковать лишний раз и подождать хотя бы ещё денёк..." nointeract

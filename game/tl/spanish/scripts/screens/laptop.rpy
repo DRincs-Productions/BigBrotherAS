@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-09-10 00:31
+# TODO: Translation updated at 2023-10-14 21:25
 
 translate spanish strings:
 
@@ -81,18 +81,6 @@ translate spanish strings:
     # game/scripts/screens/laptop.rpy:511
     old "Последнее начисление:"
     new "Último saldo:"
-
-    # game/scripts/screens/laptop.rpy:554
-    old "Предыдущая"
-    new "Anterior"
-
-    # game/scripts/screens/laptop.rpy:561
-    old "Следующая"
-    new "Siguiente"
-
-    # game/scripts/screens/laptop.rpy:584
-    old "Массаж"
-    new "Masaje"
 
     # game/scripts/screens/laptop.rpy:588
     old "Общение"

@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-09-10 00:31
+# TODO: Translation updated at 2023-10-14 21:25
 
 # game/scripts/story_01/morning_mischief.rpy:14
 translate italian ev_039_12731b84:
@@ -192,43 +192,43 @@ translate italian ev_040_pull_off_top_804db3ff:
     # tMax 05 "О да! Теперь оба сосочка одарены моим вниманием. Такие красивые..." nointeract
     tMax 05 "Oh sì! Ora entrambi i capezzoli sono oggetto della mia attenzione. Così belli..." nointeract
 
-# game/scripts/story_01/morning_mischief.rpy:174
+# game/scripts/story_01/morning_mischief.rpy:176
 translate italian ev_040_pull_off_top_a1b860bc:
 
     # Lisa 10 "Ой, Макс! Что происходит?! Мне показалось или ты..."
     Lisa 10 "Oh, Max! Che succede? Sono solo io o sei..."
 
-# game/scripts/story_01/morning_mischief.rpy:175
+# game/scripts/story_01/morning_mischief.rpy:177
 translate italian ev_040_pull_off_top_2c103e48:
 
     # Max 12 "У тебя одежда съехала... А я решил поправить."
     Max 12 "I tuoi vestiti sono fuori posto... Ho deciso di rimediare."
 
-# game/scripts/story_01/morning_mischief.rpy:176
+# game/scripts/story_01/morning_mischief.rpy:178
 translate italian ev_040_pull_off_top_e201a94a:
 
     # Lisa 12 "Только не глазей! И вообще, сама поправлю. Я ещё немного посплю..."
     Lisa 12 "Basta che non mi fissi! Anzi, lo sistemerò io stesso. Riprenderò a dormire un po'..."
 
-# game/scripts/story_01/morning_mischief.rpy:177
+# game/scripts/story_01/morning_mischief.rpy:179
 translate italian ev_040_pull_off_top_8c3065b9:
 
     # Max 01 "Давай..."
     Max 01 "Ma dai..."
 
-# game/scripts/story_01/morning_mischief.rpy:205
+# game/scripts/story_01/morning_mischief.rpy:209
 translate italian ev_040_pull_off_top_bc0b6491:
 
     # tMax 15 "Ох, это было опасно! Лиза может проснуться в любую секунду..." nointeract
     tMax 15 "Oh, era pericoloso! Lisa poteva svegliarsi da un momento all'altro..." nointeract
 
-# game/scripts/story_01/morning_mischief.rpy:212
+# game/scripts/story_01/morning_mischief.rpy:217
 translate italian ev_040_cooldown_0601ec98:
 
     # tMax 12 "Лиза совсем недавно уже просыпалась от того, что я стягивал с неё одежду. Лучше не рисковать лишний раз и подождать хотя бы несколько дней..." nointeract
     tMax 12 "Lisa si è svegliata da poco quando le ho tolto i vestiti. Meglio non correre rischi inutili e aspettare almeno qualche giorno..." nointeract
 
-# game/scripts/story_01/morning_mischief.rpy:214
+# game/scripts/story_01/morning_mischief.rpy:219
 translate italian ev_040_cooldown_4130bb8a:
 
     # tMax 12 "Лиза совсем недавно уже просыпалась от того, что я стягивал с неё одежду. Лучше не рисковать лишний раз и подождать хотя бы ещё денёк..." nointeract

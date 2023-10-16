@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-09-10 00:31
+# TODO: Translation updated at 2023-10-14 21:25
 
 # game/scripts/story_01/breakfasts.rpy:30
 translate spanish ev_breakfast_r1_6e8dcf3c:
@@ -64,7 +64,7 @@ translate spanish ev_002_6b91afc6:
 translate spanish ev_002_12d89522:
 
     # Max 01 "Ага. Кстати, я планирую уже начать зарабатывать!"
-    Max 01 "Sí. Por cierto, ¡ya estoy planeando empezar a ganar!"
+    Max 01 "Sí. Por cierto, ¡ya estoy planeando empezar a ganar dinero!"
 
 # game/scripts/story_01/breakfasts.rpy:55
 translate spanish ev_002_2682bf81:

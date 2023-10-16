@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-09-10 00:31
+# TODO: Translation updated at 2023-10-14 21:25
 
 # game/scripts/story_01/school.rpy:10
 translate spanish ev_004_1fe4b55c:
@@ -782,5 +782,5 @@ translate spanish strings:
 
     # game/scripts/story_01/school.rpy:189
     old "Задание «Школьный секретик Лизы» обновлено!"
-    new "¡La asignación del Secreto Escolar de Lisa ha sido actualizada!"
+    new "¡La oportunidad de «El secreto escolar de Lisa» ha sido actualizada!"
 

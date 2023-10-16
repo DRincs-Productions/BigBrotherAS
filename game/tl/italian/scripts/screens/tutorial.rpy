@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-09-10 00:31
+# TODO: Translation updated at 2023-10-14 21:25
 
 translate italian strings:
 
@@ -134,79 +134,111 @@ translate italian strings:
     old "Настроение персонажей, с которыми контактирует Макс, может слегка влиять на исход некоторых событий."
     new "L'umore dei personaggi con cui Max entra in contatto può influenzare leggermente l'esito di alcuni eventi."
 
-    # game/scripts/screens/tutorial.rpy:138
+    # game/scripts/screens/tutorial.rpy:114
+    old "По понедельникам, после завтрака, Анна будет выдавать Максу карманные деньги на неделю, как и надбавку за выполнение различных дел по дому."
+    new "Il lunedì, dopo la colazione, Anna dava a Max la paghetta per la settimana, oltre a una somma per i vari lavori di casa."
+
+    # game/scripts/screens/tutorial.rpy:114
+    old "Максу лучше выполнить эти дела до выходных, чтобы не расстраивать Анну и не потерять в надбавке к карманным."
+    new "È meglio che Max sbrighi queste faccende prima del fine settimana, per non far arrabbiare Anna e perdere la paghetta."
+
+    # game/scripts/screens/tutorial.rpy:114
+    old "Ему нужно выполнить следующее: пропылесосить пол в доме, подрезать траву на газоне, почистить воду в бассейне и сходить за продуктами в магазин."
+    new "Deve passare l'aspirapolvere sul pavimento di casa, tagliare l'erba del prato, pulire l'acqua della piscina e fare la spesa."
+
+    # game/scripts/screens/tutorial.rpy:114
+    old "Соответствующие иконки действий появятся в комнате Макса (пылесосить дом) и во дворе (подстричь газон, чистить бассейн, покинуть виллу) между завтраком и ужином, с понедельника по пятницу."
+    new "Le icone di azione corrispondenti appariranno nella stanza di Max (passare l'aspirapolvere in casa) e nel cortile (tagliare il prato, pulire la piscina, lasciare la villa) tra la colazione e la cena, dal lunedì al venerdì."
+
+    # game/scripts/screens/tutorial.rpy:114
+    old "Каждое из этих дел отнимет у Макса около часа времени и скажется на показателе его чистоты."
+    new "Ognuno di questi casi richiede circa un'ora del tempo di Max e influisce sul suo punteggio di pulizia."
+
+    # game/scripts/screens/tutorial.rpy:114
+    old "Так же не забывайте, что после каждого выполненного дела Максу нужно отдохнуть несколько часов, прежде чем он сможет приступить к выполнению других дел по дому."
+    new "Inoltre, non dimenticate che dopo ogni compito completato, Max ha bisogno di riposare per qualche ora prima di poter iniziare a svolgere altre faccende domestiche."
+
+    # game/scripts/screens/tutorial.rpy:114
+    old "По пятницам Макс будет отчитываться Анне о своих успехах и если он что-то не успел сделать, то будет делать это принудительно в субботу."
+    new "Il venerdì, Max riferisce ad Anna i suoi progressi e se non ha fatto qualcosa in tempo, lo farà con la forza il sabato."
+
+    # game/scripts/screens/tutorial.rpy:159
     old "Управление"
     new "Gestione"
 
-    # game/scripts/screens/tutorial.rpy:142
+    # game/scripts/screens/tutorial.rpy:163
     old "Навыки"
     new "Competenze"
 
-    # game/scripts/screens/tutorial.rpy:144
+    # game/scripts/screens/tutorial.rpy:165
     old "Настроение"
     new "Umore"
 
-    # game/scripts/screens/tutorial.rpy:288
+    # game/scripts/screens/tutorial.rpy:168
+    old "Обязанности по дому"
+    new "Mansioni domestiche"
+
+    # game/scripts/screens/tutorial.rpy:321
     old "Сейчас Лиза должна собираться в школу..."
     new "Ora Lisa deve prepararsi per la scuola..."
 
-    # game/scripts/screens/tutorial.rpy:291
+    # game/scripts/screens/tutorial.rpy:324
     old "{i}заглянуть в окно{/i}"
     new "{i}sbircia dalla finestra{/i}"
 
-    # game/scripts/screens/tutorial.rpy:291
+    # game/scripts/screens/tutorial.rpy:324
     old "Шанс"
     new "Occasione"
 
-    # game/scripts/screens/tutorial.rpy:296
+    # game/scripts/screens/tutorial.rpy:329
     old "опыт применения навыка"
     new "esperienza nell'uso dell'abilità"
 
-    # game/scripts/screens/tutorial.rpy:302
+    # game/scripts/screens/tutorial.rpy:335
     old "Ой, Макс! Я не одета!!! Не мешай мне собираться в школу!"
     new "Oh, Max! Non sono vestita!!! Non impedirmi di prepararmi per la scuola!"
 
-    # game/scripts/screens/tutorial.rpy:306
+    # game/scripts/screens/tutorial.rpy:339
     old "Не стесняйся, без одежды ты очень красиво смотришься!"
     new "Non essere timida, sei molto bella senza vestiti!"
 
-    # game/scripts/screens/tutorial.rpy:310
+    # game/scripts/screens/tutorial.rpy:343
     old "Я наоборот, помочь хотел..."
     new "Al contrario, volevo aiutare..."
 
-    # game/scripts/screens/tutorial.rpy:318
+    # game/scripts/screens/tutorial.rpy:351
     old "настроение Лизы"
     new "l'umore di Lisa"
 
-    # game/scripts/screens/tutorial.rpy:384
+    # game/scripts/screens/tutorial.rpy:417
     old "Неужели тебе надоело бездельничать и ты пришёл мне помочь?"
     new "Ti sei stancato di non fare nulla e sei venuto ad aiutarmi?"
 
-    # game/scripts/screens/tutorial.rpy:387
+    # game/scripts/screens/tutorial.rpy:420
     old "Ага. Давай, я домою остальное..."
     new "Sì. Lascia che pulisca il resto..."
 
-    # game/scripts/screens/tutorial.rpy:388
+    # game/scripts/screens/tutorial.rpy:421
     old "Нет, просто хотел поглазеть..."
     new "No, volevo solo guardare..."
 
-    # game/scripts/screens/tutorial.rpy:392
+    # game/scripts/screens/tutorial.rpy:425
     old "Макс! Ты офигел что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла!"
     new "Max! Sei fuori di testa? Hai perso la paura? Esci di qui prima che ti colpisca con la porta!"
 
-    # game/scripts/screens/tutorial.rpy:395
+    # game/scripts/screens/tutorial.rpy:428
     old "Ты бы классно смотрелась на обложке журнала!"
     new "Staresti benissimo sulla copertina di una rivista!"
 
-    # game/scripts/screens/tutorial.rpy:399
+    # game/scripts/screens/tutorial.rpy:432
     old "настроение Алисы"
     new "l'umore di Alice"
 
-    # game/scripts/screens/tutorial.rpy:429
+    # game/scripts/screens/tutorial.rpy:545
     old "Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
     new "Qui troverete informazioni su cosa e come è impostato il gioco..."
 
-    # game/scripts/screens/tutorial.rpy:431
+    # game/scripts/screens/tutorial.rpy:547
     old "Теперь вы управляете жизнью Макса! Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
     new "Ora sei tu a controllare la vita di Max! Qui troverete informazioni su cosa e come funziona questo gioco..."
 

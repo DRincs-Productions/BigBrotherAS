@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-07-18 22:58
+# TODO: Translation updated at 2023-10-14 21:25
 
 # game/scripts/story_01/lounge_tv.rpy:8
 translate spanish ev_ann_tv_talk_df9c7313:
@@ -316,11 +316,11 @@ translate spanish strings:
 
     # game/scripts/story_01/lounge_tv.rpy:28
     old "Да, слышал кое-что о нём..."
-    new "Sí, he oído algo sobre él...."
+    new "Sí, he oído algo sobre ella..."
 
     # game/scripts/story_01/lounge_tv.rpy:31
     old "{i}начать просмотр{/i}"
-    new "{i}empezar a navegar{/i}"
+    new "{i}empezar a visionar{/i}"
 
     # game/scripts/story_01/lounge_tv.rpy:100
     old "Открыто новое задание «Что посмотрим, мам?»!"
