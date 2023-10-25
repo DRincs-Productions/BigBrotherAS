@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-15 16:48\n"
+"PO-Revision-Date: 2023-10-25 17:11\n"
 
 # TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/inform.rpy:28
 msgid "Персонажи"
@@ -18,7 +18,7 @@ msgstr "Personajes"
 
 # game/scripts/screens/inform.rpy:32
 msgid "Предметы"
-msgstr "Temas"
+msgstr "Objetos"
 
 # game/scripts/screens/inform.rpy:117
 msgid "НАСТРОЕНИЕ"
