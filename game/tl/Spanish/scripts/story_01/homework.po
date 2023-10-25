@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-15 16:49\n"
+"PO-Revision-Date: 2023-10-25 19:08\n"
 
 # TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/homework.rpy:9 #-#-# translate crowdin ev_034_38a2b149:
 msgid "[_Ann_s_10_] Так, Макс, а ну-ка постой! Я только сейчас вспомнила... Ты коробки разобрал?"
@@ -418,7 +418,7 @@ msgstr "[_Ann_s_10_] Tu disciplina es un poco laxa, pero gracias por ayudar. Vet
 
 # game/scripts/story_01/homework.rpy:401 #-#-# translate crowdin ev_078_bf8ab92a:
 msgid "[_tMax_s_11_] Так, садовые ножницы я нашёл. Теперь меня ждёт довольно унылое занятие - подравнивать ими наш газон..."
-msgstr "[_tMax_s_11_] Vale, he encontrado la máquina de cortar el cesped. Ahora tengo la tarea bastante aburrida de recortar nuestro césped con ella..."
+msgstr "[_tMax_s_11_] Vale, he encontrado las tijeras de podar. Ahora tengo la tarea bastante aburrida de recortar nuestro césped con ella..."
 
 # game/scripts/story_01/homework.rpy:405 #-#-# translate crowdin ev_078_8277ff83:
 msgid "[_tMax_s_16_] Чёрт, а ведь я сейчас такой шорох наведу в траве, что все пауки разбегутся!"
@@ -430,7 +430,7 @@ msgstr "[_tMax_s_13_] Debo tenerlo en cuenta la próxima vez y atrapar a la ara�
 
 # game/scripts/story_01/homework.rpy:413 #-#-# translate crowdin ev_078_cc340716:
 msgid "[_tMax_s_16_] Так, садовые ножницы в руки и вперёд, подравнивать наш газон..."
-msgstr "[_tMax_s_16_] Así que, máquina de cortar el césped en las manos y a recortar nuestro césped..."
+msgstr "[_tMax_s_16_] Así que, tijeras de podar en las manos y a recortar nuestro césped..."
 
 # game/scripts/story_01/homework.rpy:415 #-#-# translate crowdin ev_078_97cbd34a:
 msgid "[_tMax_s_12_] Довольно унылое занятие, но сделать нужно. Надеюсь, пауки не слишком сильно на меня обозлятся за тот шорох, который я навожу в траве... [nointeract]"
