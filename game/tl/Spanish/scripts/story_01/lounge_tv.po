@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-15 15:45\n"
+"PO-Revision-Date: 2023-10-25 18:09\n"
 
 # TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/lounge_tv.rpy:8 #-#-# translate crowdin ev_ann_tv_talk_df9c7313:
 msgid "[_Ann_s_01_] Да так, всякую ерунду. Хотела какой-нибудь фильм посмотреть. Садись рядом, если тоже делать нечего... [nointeract]"
@@ -222,7 +222,7 @@ msgstr "No. Hagámoslo en otro momento..."
 
 # game/scripts/story_01/lounge_tv.rpy:28
 msgid "Нет, не слышал о таком. Давай смотреть!"
-msgstr "No, no he oído hablar de él. Veámoslo."
+msgstr "No, no he oído hablar de ella. ¡Veámosla!"
 
 # game/scripts/story_01/lounge_tv.rpy:28
 msgid "Да, слышал кое-что о нём..."
