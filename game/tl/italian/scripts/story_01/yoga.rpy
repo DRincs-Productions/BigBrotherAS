@@ -388,7 +388,7 @@ translate italian forced_phys_ed_repeated_lvl_1_74a2be70:
 translate italian forced_phys_ed_repeated_lvl_1_aecdfc1f:
 
     # Ann 02 "Знаешь, что поможет тебе взбодриться? Упражнения на рястяжку! Ты вон, как раз в шортах."
-    Ann 02 "Sapete cosa vi tirerà su di morale? Gli esercizi di stretching! Stai indossando dei pantaloncini."
+    Ann 02 "Sai cosa ti tirerà su di morale? Gli esercizi di stretching! Stai indossando i pantaloncini."
 
 # game/scripts/story_01/yoga.rpy:219
 translate italian forced_phys_ed_repeated_lvl_1_49124f87:
@@ -400,19 +400,19 @@ translate italian forced_phys_ed_repeated_lvl_1_49124f87:
 translate italian forced_phys_ed_repeated_lvl_1_de81c139:
 
     # Ann 04 "Давай вместе со мной. Гибкость лучше поддерживать с молодых лет, сынок. Если в это втянуться, то потом растягиваться стенет даже приятно."
-    Ann 04 "Venite con me. La flessibilità è meglio mantenerla fin da giovani, figliolo. Se ci si abitua, è un piacere fare stretching in seguito."
+    Ann 04 "Vieni con me. La flessibilità è meglio mantenerla fin da giovani, figliolo. Se ci si abitua, è un piacere fare stretching in seguito."
 
 # game/scripts/story_01/yoga.rpy:224
 translate italian forced_phys_ed_repeated_lvl_1_bf3fc7f2:
 
     # tMax 03 "Про «потом» не знаю, а мне уже сейчас приятно растягиваться. Ещё бы, ведь мама у меня такая конфетка!"
-    tMax 03 "Non so se più tardi, ma a me piace già fare stretching. Ci puoi scommettere, perché mia madre è un vero tesoro!"
+    tMax 03 "Non so «più tardi», ma mi piace già fare stretching. Certo, mia mamma è così dolce!"
 
 # game/scripts/story_01/yoga.rpy:226
 translate italian forced_phys_ed_repeated_lvl_1_4cbdad2a:
 
     # Ann 01 "Теперь переходим к основным упражнениям. Я буду заниматься йогой, а ты отжимайся, приседай и упражнения на пресс делай. И на совесть, Макс!" nointeract
-    Ann 01 "Ora passiamo agli esercizi di base. Io faccio yoga, tu fai flessioni, squat e addominali. E sulla tua coscienza, Max!" nointeract
+    Ann 01 "Ora passiamo agli esercizi di base. Io faccio yoga, tu fai flessioni, squat e addominali. E onestamente, Max!" nointeract
 
 # game/scripts/story_01/yoga.rpy:234
 translate italian forced_phys_ed_repeated_lvl_1_7132072f:

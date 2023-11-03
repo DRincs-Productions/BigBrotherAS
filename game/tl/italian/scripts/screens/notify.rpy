@@ -4,7 +4,7 @@ translate italian strings:
 
     # game/scripts/screens/notify.rpy:35
     old "Нужно выполнить задания \"Любопытное содержимое\", \"Способ заработать\", а так же подбросить паука, натирая Алису маслом."
-    new "È necessario completare i compiti \"Contenuto curioso\", \"Un modo per fare soldi\" e consegnare un ragno che strofina Alice con l'olio."
+    new "È necessario completare i compiti \"Contenuto curioso\", \"Un modo per fare soldi\" e rilasciare un ragno mentre stai mettendo l'olio ad Alice."
 
     # game/scripts/screens/notify.rpy:39
     old "Ok"

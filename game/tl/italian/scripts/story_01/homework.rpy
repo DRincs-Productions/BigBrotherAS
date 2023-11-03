@@ -430,7 +430,7 @@ translate italian ev_077_2e18749c:
 translate italian ev_077_b32a0aa3:
 
     # Ann 00 "Нужно пропылесосить дом и подровнять газон. Немножко денежек я за это добавлю. Если ты, конечно, всё это сделаешь."
-    Ann 00 "Dobbiamo passare l'aspirapolvere in casa e tagliare il prato. Vi darò un po' di soldi in più per questo. Se farete tutto voi, ovviamente."
+    Ann 00 "Bisogna passare l'aspirapolvere in casa e tagliare il prato. Ti darò un po' di soldi in più per questo. Se fai tutto tu, ovviamente."
 
 # game/scripts/story_01/homework.rpy:335
 translate italian ev_077_109bf9e6:
@@ -442,7 +442,7 @@ translate italian ev_077_109bf9e6:
 translate italian ev_077_00f0a2e8:
 
     # Ann 03 "Если управишься до выходных, то дам... бонус за оперативность."
-    Ann 03 "Se riuscite a superare il weekend, vi darò... un bonus per la puntualità."
+    Ann 03 "Se ce la fai per il fine settimana, ti darò un... Un bonus per la puntualità."
 
 # game/scripts/story_01/homework.rpy:337
 translate italian ev_077_2fe3ef2c:
@@ -454,7 +454,7 @@ translate italian ev_077_2fe3ef2c:
 translate italian ev_077_52bd18d0:
 
     # Ann 04 "А не скажу! И не нужно делать всё сегодня. Распланируй и делай не напрягаясь."
-    Ann 04 "Non lo farò! E non dovete fare tutto oggi. Pianificate e fate senza stressarvi."
+    Ann 04 "Non lo farò! E non devi fare tutto oggi. Basta pianificare e farlo senza stressarsi."
 
 # game/scripts/story_01/homework.rpy:339
 translate italian ev_077_c83cf7a6:
@@ -466,7 +466,7 @@ translate italian ev_077_c83cf7a6:
 translate italian ev_077_51d20737:
 
     # Ann 01 "Итак, значит, что у нас получается... Тебе нужно пропылесосить дом, подстричь газон, почистить бассейн и сходить за продуктами."
-    Ann 01 "Allora, ecco cosa abbiamo... Dovete passare l'aspirapolvere in casa, tagliare il prato, pulire la piscina e fare la spesa."
+    Ann 01 "Allora, ecco cosa abbiamo... È necessario passare l'aspirapolvere in casa, tagliare il prato, pulire la piscina e andare a fare la spesa."
 
 # game/scripts/story_01/homework.rpy:341
 translate italian ev_077_9253b668:
@@ -478,7 +478,7 @@ translate italian ev_077_9253b668:
 translate italian ev_077_43e2ab3b:
 
     # Ann 00 "Я даю тебе карманные $30 за эту неделю, за чистку пола $10, за газон $20, за чистку бассейна $20 и $10 за поход в магазин."
-    Ann 00 "Ti do in tasca 30 dollari per questa settimana, 10 dollari per pulire il pavimento, 20 dollari per il prato, 20 dollari per pulire la piscina e 10 dollari per andare al negozio."
+    Ann 00 "Ti do 30$ di paghetta per questa settimana, 10$ per pulire il pavimento, 20$ per il prato, 20$ per pulire la piscina e 10$ per andare al negozio."
 
 # game/scripts/story_01/homework.rpy:343
 translate italian ev_077_d6746cca:
@@ -532,7 +532,7 @@ translate italian ev_077_d6746cca_1:
 translate italian ev_077_8be400f0:
 
     # Ann 01 "Постарайся управиться со всеми делами до выходных, чтобы мне не пришлось тебе напоминать или ругаться."
-    Ann 01 "Cercate di fare tutto prima del fine settimana, così non dovrò ricordarvelo o rimproverarvi."
+    Ann 01 "Cerca di fare tutto prima del fine settimana, così non dovrò ricordartelo o rimproverarti."
 
 # game/scripts/story_01/homework.rpy:362
 translate italian ev_077_21571792:
@@ -550,7 +550,7 @@ translate italian ev_077_59616669:
 translate italian ev_077_9f5092a3:
 
     # Ann 10 "С некоторыми делами ты дотянул до выходных, чего я просила не делать, поэтому получишь меньше, чем мог бы. Это карманные $30 за эту неделю, за чистку пола $[earn.w1], за газон $[earn.w2], за чистку бассейна $[earn.w3] и $[earn.w4] за поход в магазин."
-    Ann 10 "Con alcuni lavoretti sei arrivato al fine settimana, che ti avevo chiesto di non fare, quindi avrai meno di quanto avresti potuto. Per questa settimana hai speso $ 30 per pulire il pavimento $[earn.w1], per il prato $[earn.w2], per pulire la piscina $[earn.w3] e $[earn.w4] per andare al negozio."
+    Ann 10 "Hai aspettato fino al fine settimana per fare alcune cose, cosa che ti avevo chiesto di non fare, così otterrai meno di quanto avresti potuto. Sono $ 30 in paghetta per questa settimana, $[earn.w1] per pulire il pavimento, $[earn.w2] per il prato, $[earn.w3] per pulire la piscina e $[earn.w4] per andare al negozio."
 
 # game/scripts/story_01/homework.rpy:371
 translate italian ev_077_96242e44:
@@ -562,7 +562,7 @@ translate italian ev_077_96242e44:
 translate italian ev_077_3c8f1557:
 
     # Ann 12 "Надеюсь, в этот раз ты управишься со всеми делами до выходных, чтобы мне не пришлось тебе снова напоминать или ругаться."
-    Ann 12 "Speriamo che questa volta riesca a fare tutto prima del fine settimana, così non dovrò ricordarglielo o rimproverarlo di nuovo."
+    Ann 12 "Spero che questa volta riuscirai a fare tutto prima del fine settimana, così non dovrò ricordartelo o rimproverarti di nuovo."
 
 # game/scripts/story_01/homework.rpy:373
 translate italian ev_077_21571792_1:
@@ -580,7 +580,7 @@ translate italian ev_077_4ca105bd:
 translate italian ev_077_3fcaa0eb:
 
     # Ann 14 "Ты умудрился дотянуть со всеми делами до выходных, чего я просила не делать, поэтому за сами дела получишь только половину. Это карманные $30 за эту неделю, за чистку пола $5, за газон $10, за чистку бассейна $10 и $5 за поход в магазин."
-    Ann 14 "Sei riuscito a fare tutte le faccende prima del fine settimana, cosa che ti avevo chiesto di non fare, quindi ti spetta solo la metà per le faccende stesse. Sono 30 dollari di paghetta per questa settimana, 5 dollari per pulire il pavimento, 10 dollari per il prato, 10 dollari per pulire la piscina e 5 dollari per andare al negozio."
+    Ann 14 "Hai aspettato fino al fine settimana per fare alcune cose, cosa che ti avevo chiesto di non fare, così otterrai meno di quanto avresti potuto. Sono $ 30 in paghetta per questa settimana, $5 per pulire il pavimento, $10 per il prato, $10 per pulire la piscina e $5 per andare al negozio."
 
 # game/scripts/story_01/homework.rpy:381
 translate italian ev_077_8a4fa143:
@@ -592,7 +592,7 @@ translate italian ev_077_8a4fa143:
 translate italian ev_077_3c8f1557_1:
 
     # Ann 12 "Надеюсь, в этот раз ты управишься со всеми делами до выходных, чтобы мне не пришлось тебе снова напоминать или ругаться."
-    Ann 12 "Speriamo che questa volta riesca a fare tutto prima del fine settimana, così non dovrò ricordarglielo o rimproverarlo di nuovo."
+    Ann 12 "Spero che questa volta riuscirai a fare tutto prima del fine settimana, così non dovrò ricordartelo o rimproverarti di nuovo."
 
 # game/scripts/story_01/homework.rpy:383
 translate italian ev_077_21571792_2:
@@ -604,7 +604,7 @@ translate italian ev_077_21571792_2:
 translate italian ev_077_5b7701f1:
 
     # Ann 10 "Дисциплина у тебя пока хромает, но всё равно спасибо, что помогаешь. Ступай, маме нужно собираться на работу." nointeract
-    Ann 10 "La vostra disciplina è un po' permissiva, ma grazie per averci aiutato. Vai, la mamma deve prepararsi per andare al lavoro." nointeract
+    Ann 10 "La tua disciplina è un po' permissiva, ma grazie per avermi aiutato. Vai, la mamma deve prepararsi per andare al lavoro." nointeract
 
 # game/scripts/story_01/homework.rpy:401
 translate italian ev_078_bf8ab92a:
@@ -658,7 +658,7 @@ translate italian ev_079_51e8a290:
 translate italian ev_079_4bf58596:
 
     # tMax 03 "Хотя бы Алиса не завывала наперебой с пылесосом о том, как я не вовремя это делаю. Теперь можно и на первый этаж спускаться..."
-    tMax 03 "Almeno Alice non stava ululando con l'aspirapolvere per il mio pessimo tempismo. Ora possiamo scendere al piano terra....."
+    tMax 03 "Almeno Alice non si è lamentata dell'aspirapolvere per il mio pessimo tempismo. Ora posso scendere al piano terra..."
 
 # game/scripts/story_01/homework.rpy:457
 translate italian ev_079_5a1b785a:
@@ -694,13 +694,13 @@ translate italian ev_079_5e71606b:
 translate italian ev_079_e7f51291:
 
     # Alice 11 "Повезло тебе, что ты не сильно мне мешался. Так бы мокрой тряпкой надавала!"
-    Alice 11 "Sei fortunato a non avermi ostacolato troppo. Ti avrei dato uno straccio bagnato!"
+    Alice 11 "Sei fortunato a non avermi ostacolato troppo. Ti avrei colpito con uno straccio bagnato!"
 
 # game/scripts/story_01/homework.rpy:489
 translate italian ev_079_13e69c7b:
 
     # tMax 13 "Ох, Алиса... Я бы тебе тоже надавал для профилактики... только не тряпкой, а кое-чем другим, да за щеку." nointeract
-    tMax 13 "Oh, Alice. Ti darei anche un pugno preventivo. Non con uno straccio, ma con qualcos'altro, e dietro la guancia." nointeract
+    tMax 13 "Oh, Alice... Anch'io ti colpirei a scopo preventivo... Solo non con uno straccio, ma con qualcos'altro, e sulla guancia." nointeract
 
 # game/scripts/story_01/homework.rpy:498
 translate italian ev_079_5a1b785a_2:
@@ -712,7 +712,7 @@ translate italian ev_079_5a1b785a_2:
 translate italian ev_079_8e9152cd:
 
     # Alice 15 "Больше времени не было для уборки, да?! Только когда я готовлю..." nointeract
-    Alice 15 "Non c'era più tempo per le pulizie, vero?! Solo quando cucino." nointeract
+    Alice 15 "Non c'era altro tempo per le pulizie, vero?! Solo quando cucino.[nointeract]"
 
 # game/scripts/story_01/homework.rpy:516
 translate italian ev_079_29e83075:
@@ -760,7 +760,7 @@ translate italian ev_079_62044ff5_1:
 translate italian ev_079_243a82d1:
 
     # Max 11 "Говорю, я уже скоро уйду на первый этаж. Потерпи немного."
-    Max 11 "Ho detto che presto andrò al piano terra. Siate pazienti."
+    Max 11 "Ho detto che presto andrò al piano terra. Sii paziente."
 
 # game/scripts/story_01/homework.rpy:531
 translate italian ev_079_0efc7b39:
@@ -814,7 +814,7 @@ translate italian ev_080_fully_66fbbaf0:
 translate italian ev_080_fully_4bbaa693:
 
     # Ann 03 "Постарайся и дальше выполнять свои обязанности в срок. Завтра у меня ещё будет для тебя небольшой подарок, как и обещала."
-    Ann 03 "Cercate di continuare ad adempiere ai vostri doveri in tempo. Domani avrò un piccolo regalo per voi, come promesso."
+    Ann 03 "Cerca di continuare ad adempiere ai tuoi doveri in tempo. Domani avrò un piccolo regalo per te, come promesso."
 
 # game/scripts/story_01/homework.rpy:601
 translate italian ev_080_fully_fb8324b1:
@@ -898,7 +898,7 @@ translate italian ev_080_fully_r_6a728495:
 translate italian ev_080_fully_r_eef471cd:
 
     # Ann 03 "И я тебя, Макс. Спасибо, что помогаешь мне содержать этот дом в порядке. Я очень тебе признательна."
-    Ann 03 "Anche tu, Max. Grazie per avermi aiutato a tenere in ordine questa casa. Lo apprezzo molto."
+    Ann 03 "Anche io, Max. Grazie per avermi aiutato a tenere in ordine questa casa. Lo apprezzo molto."
 
 # game/scripts/story_01/homework.rpy:648
 translate italian ev_080_fully_r_94464279:
@@ -922,7 +922,7 @@ translate italian ev_080_fully_r_ff639a19:
 translate italian ev_080_fully_r_3fc00c60:
 
     # Ann 02 "И я тебя, Макс. Ты у меня лучший!" nointeract
-    Ann 02 "Anche tu, Max. Sei il migliore!" nointeract
+    Ann 02 "Anche io, Max. Sei il migliore!" nointeract
 
 # game/scripts/story_01/homework.rpy:668
 translate italian ev_080_fully_after_failing_c6103fd9:
@@ -952,7 +952,7 @@ translate italian ev_080_fully_after_failing_66fbbaf0:
 translate italian ev_080_fully_after_failing_1a1eb6fb:
 
     # Ann 12 "Постарайся и дальше выполнять свои обязанности в срок. Чтобы не было так, как на прошлой неделе..." nointeract
-    Ann 12 "Cercate di continuare ad adempiere ai vostri doveri in tempo. Così non sarà come la settimana scorsa....." nointeract
+    Ann 12 "Assicurati di continuare ad adempiere ai tuoi doveri in tempo. Così non sarà come la settimana scorsa..." nointeract
 
 # game/scripts/story_01/homework.rpy:687
 translate italian ev_080_fully_after_failing_3e407a4f:
@@ -1006,7 +1006,7 @@ translate italian ev_080_fully_after_failing_6a728495_1:
 translate italian ev_080_fully_after_failing_3fc00c60:
 
     # Ann 02 "И я тебя, Макс. Ты у меня лучший!" nointeract
-    Ann 02 "Anche tu, Max. Sei il migliore!" nointeract
+    Ann 02 "Anche io, Max. Sei il migliore!" nointeract
 
 # game/scripts/story_01/homework.rpy:728
 translate italian ev_080_fully_after_failing2_c6103fd9:
@@ -1066,7 +1066,7 @@ translate italian ev_080_fully_after_failing2_6a728495:
 translate italian ev_080_fully_after_failing2_c6c569e2:
 
     # Ann 11 "Нет, Макс! Вот если на следующей неделе снова всё вовремя сделаешь, тогда и объятия будут заслуженными. А пока, никаких авансов!"
-    Ann 11 "No, Max! Se tornerai in tempo la prossima settimana, allora ti darò un meritato abbraccio. Fino ad allora, niente più anticipazioni!"
+    Ann 11 "No, Max! Ora, se farai tutto in tempo anche la prossima settimana, allora gli abbracci saranno meritati. Nel frattempo, nessuna anticipazione!"
 
 # game/scripts/story_01/homework.rpy:757
 translate italian ev_080_fully_after_failing2_c01104e1:
@@ -1090,7 +1090,7 @@ translate italian ev_080_fully_after_failing2_6a728495_1:
 translate italian ev_080_fully_after_failing2_3fc00c60:
 
     # Ann 02 "И я тебя, Макс. Ты у меня лучший!" nointeract
-    Ann 02 "Anche tu, Max. Sei il migliore!" nointeract
+    Ann 02 "Anche io, Max. Sei il migliore!" nointeract
 
 # game/scripts/story_01/homework.rpy:775
 translate italian ev_080_done_7919f1cd:
@@ -1144,7 +1144,7 @@ translate italian ev_080_partly_1424539a:
 translate italian ev_080_partly_9311755d:
 
     # Ann 14 "И не просто в выходные, а завтра! Мы с девочками после завтрака соберёмся и отправимся гулять, заодно и по магазинам пройдёмся, а ты будешь в это время доделывать всё, что у тебя осталось. Это ясно?"
-    Ann 14 "E non solo questo fine settimana, ma anche domani! Io e le ragazze ci riuniremo dopo colazione per fare una passeggiata e un po' di shopping, mentre voi finirete quello che vi rimane. È chiaro?"
+    Ann 14 "E non solo questo fine settimana, ma anche domani! Io e le ragazze ci riuniremo dopo colazione per fare una passeggiata e un po' di shopping, mentre tu finirai quello che ti è rimasto. È chiaro?"
 
 # game/scripts/story_01/homework.rpy:795
 translate italian ev_080_partly_0fb73489:
@@ -1204,7 +1204,7 @@ translate italian ev_080_nothing_a64a59e6:
 translate italian ev_080_nothing_44485c12:
 
     # Ann 10 "Да уж надеюсь! И не вздумай больше расстраивать меня по этому поводу. А то получается, что я лодыря воспитала, а не настоящего мужчину!"
-    Ann 10 "Lo spero! E non osare più turbarmi per questo. È come se avessi cresciuto un barbone invece di un vero uomo!"
+    Ann 10 "Sì, lo spero davvero! E non osare più farmi arrabbiare per questo. Altrimenti si scopre che ho cresciuto uno che si arrende e non un vero uomo!"
 
 # game/scripts/story_01/homework.rpy:814
 translate italian ev_080_nothing_0f2ae6ef:
@@ -1252,7 +1252,7 @@ translate italian ev_081_e36a0d75:
 translate italian ev_081_3ef7ed7e:
 
     # tMax 16 "Фух... Собственно, осталось всего-то купить продуктов и всё..." nointeract
-    tMax 16 "Whew. In realtà, non resta che fare la spesa e basta...." nointeract
+    tMax 16 "Uff... In realtà non resta che fare la spesa e basta..." nointeract
 
 # game/scripts/story_01/homework.rpy:880
 translate italian ev_081_e36a0d75_1:
@@ -1270,7 +1270,7 @@ translate italian ev_081_end_aee9ce1a:
 translate italian ev_081_end_a68bfb91:
 
     # tMax 13 "Наконец-то! Со своими обязанностями по дому я на этой неделе закончил. А вообще, лучше с этим не затягивать до выходных, а то я весь теперь грязный и вонючий..."
-    tMax 13 "Finalmente ho finito le faccende domestiche di questa settimana. In effetti, è meglio non tirarla per le lunghe fino al fine settimana, altrimenti mi ritrovo tutta sporca e puzzolente....."
+    tMax 13 "Finalmente ho finito le faccende domestiche di questa settimana. In effetti, è meglio non tirarla per le lunghe fino al fine settimana, altrimenti mi ritrovo tutto sporco e puzzolente..."
 
 # game/scripts/story_01/homework.rpy:915
 translate italian ev_083_b578bc7d:
@@ -1318,19 +1318,19 @@ translate italian ev_083_ad2d0b0e:
 translate italian ev_083_3c5f97f5:
 
     # Max 00 "Давай..."
-    Max 00 "Ma dai..."
+    Max 00 "Andiamo..."
 
 # game/scripts/story_01/homework.rpy:929
 translate italian ev_083_a7acfc86:
 
     # Ann 11 "Ну как, Макс, подошёл размер? Смотри, чтобы они нигде не жали. В них должно быть просторно."
-    Ann 11 "Allora, Max, com'è la vestibilità? Assicurati che non pungano da nessuna parte. Dovrebbero essere spaziosi."
+    Ann 11 "Allora, Max, la taglia è giusta? Assicurati che non pungono da nessuna parte. Dovrebbero essere spaziosi."
 
 # game/scripts/story_01/homework.rpy:930
 translate italian ev_083_b58fcade:
 
     # Max "{b}Макс: {/b}\nВот эти, вроде, неплохие. Можешь зайти, посмотреть."
-    Max "{b}Max:\nPenso che questi siano piuttosto buoni. Potete venire a dare un'occhiata."
+    Max "{b}Max: {/b}\nPenso che questi siano piuttosto buoni. Puoi venire a dare un'occhiata."
 
 # game/scripts/story_01/homework.rpy:935
 translate italian ev_083_55bdaec8:
@@ -1444,7 +1444,7 @@ translate italian strings:
 
     # game/scripts/story_01/homework.rpy:456
     old "{i}уборка закончена!{/i}"
-    new "{i}la pulizia è finita!"
+    new "{i}la pulizia è finita!{/i}"
 
     # game/scripts/story_01/homework.rpy:470
     old "Нет, у меня и без этого дел хватает..."
@@ -1460,7 +1460,7 @@ translate italian strings:
 
     # game/scripts/story_01/homework.rpy:520
     old "Сейчас тут кое-кто ещё отсосёт..."
-    new "Sto per fare un pompino a qualcun altro."
+    new "Adesso c'è qualcun altro qui a fare un pompino..."
 
     # game/scripts/story_01/homework.rpy:520
     old "А может ты свою попку трахнуть дашь?"
@@ -1468,7 +1468,7 @@ translate italian strings:
 
     # game/scripts/story_01/homework.rpy:590
     old "{i}обнять маму{/i}"
-    new "{i}Abbraccia la tua mamma."
+    new "{i}Abbraccia la tua mamma{/i}"
 
     # game/scripts/story_01/homework.rpy:611
     old "Задание «При делах» обновлено!"
@@ -1476,7 +1476,7 @@ translate italian strings:
 
     # game/scripts/story_01/homework.rpy:655
     old "Задание «При делах» завершено!"
-    new "Il compito \"Sul caso\" è completo!"
+    new "Il compito «On Business» è completo!"
 
     # game/scripts/story_01/homework.rpy:680
     old "Тогда меня нужно поцеловать для большей мотивации!"

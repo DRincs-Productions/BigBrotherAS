@@ -312,7 +312,7 @@ translate spanish strings:
 
     # game/scripts/story_01/lounge_tv.rpy:28
     old "Нет, не слышал о таком. Давай смотреть!"
-    new "No, no he oído hablar de él. Veámoslo."
+    new "No, no he oído hablar de ella. ¡Veámosla!"
 
     # game/scripts/story_01/lounge_tv.rpy:28
     old "Да, слышал кое-что о нём..."

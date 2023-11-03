@@ -8,7 +8,7 @@ translate spanish strings:
 
     # game/scripts/screens/inform.rpy:32
     old "Предметы"
-    new "Temas"
+    new "Objetos"
 
     # game/scripts/screens/inform.rpy:117
     old "НАСТРОЕНИЕ"

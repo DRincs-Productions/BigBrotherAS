@@ -20,5 +20,5 @@ translate spanish strings:
 
     # game/scripts/engine/02_func.rpy:376
     old "мамы"
-    new "mamás"
+    new "mamá"
 
