@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-15 16:49\n"
+"PO-Revision-Date: 2023-10-25 19:08\n"
 
 # TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/annroom.rpy:12 #-#-# translate crowdin ev_ann_dressed_d0c78fcb:
 msgid "[_tMax_s_11_] Сейчас мама должна собираться на работу... [nointeract]"
@@ -42,7 +42,7 @@ msgstr "[_Ann_s_14_] ¡No puedes entrar en una habitación sin llamar! ¿Pasó a
 
 # game/scripts/story_01/annroom.rpy:76 #-#-# translate crowdin ev_ann_dressed_moment1_35eb6695:
 msgid "[_Ann_s_14_] Макс! Я же учила тебя стучаться! Нельзя вот так без предупреждения врываться в комнату! Что-то случилось? [nointeract]"
-msgstr "[_Ann_s_14_] ¡Máximo! ¡Te enseñé a llamar! ¡No puedes entrar a una habitación sin previo aviso de esta manera! ¿Hay algo mal? [nointeract]"
+msgstr "[_Ann_s_14_] ¡Max! ¡Te enseñé a llamar! ¡No puedes entrar a una habitación sin previo aviso de esta manera! ¿Hay algo mal? [nointeract]"
 
 # game/scripts/story_01/annroom.rpy:87 #-#-# translate crowdin ev_ann_dressed_in_front_of_max_067e7433:
 msgid "[_Ann_s_11_] Сынок, я собиралась переодеться. Иди пока, займись чем-нибудь... [nointeract]"
