@@ -46,7 +46,7 @@ translate spanish ev_ann_dressed_moment2_081d1026:
 translate spanish ev_ann_dressed_moment1_35eb6695:
 
     # Ann 14 "Макс! Я же учила тебя стучаться! Нельзя вот так без предупреждения врываться в комнату! Что-то случилось?" nointeract
-    Ann 14 "¡Máximo! ¡Te enseñé a llamar! ¡No puedes entrar a una habitación sin previo aviso de esta manera! ¿Hay algo mal?" nointeract
+    Ann 14 "¡Max! ¡Te enseñé a llamar! ¡No puedes entrar a una habitación sin previo aviso de esta manera! ¿Hay algo mal?" nointeract
 
 # game/scripts/story_01/annroom.rpy:87
 translate spanish ev_ann_dressed_in_front_of_max_067e7433:

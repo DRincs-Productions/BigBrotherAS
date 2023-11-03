@@ -610,7 +610,7 @@ translate spanish ev_077_5b7701f1:
 translate spanish ev_078_bf8ab92a:
 
     # tMax 11 "Так, садовые ножницы я нашёл. Теперь меня ждёт довольно унылое занятие - подравнивать ими наш газон..."
-    tMax 11 "Vale, he encontrado la máquina de cortar el cesped. Ahora tengo la tarea bastante aburrida de recortar nuestro césped con ella..."
+    tMax 11 "Vale, he encontrado las tijeras de podar. Ahora tengo la tarea bastante aburrida de recortar nuestro césped con ella..."
 
 # game/scripts/story_01/homework.rpy:405
 translate spanish ev_078_8277ff83:
@@ -628,7 +628,7 @@ translate spanish ev_078_7e1ebc8f:
 translate spanish ev_078_cc340716:
 
     # tMax 16 "Так, садовые ножницы в руки и вперёд, подравнивать наш газон..."
-    tMax 16 "Así que, máquina de cortar el césped en las manos y a recortar nuestro césped..."
+    tMax 16 "Así que, tijeras de podar en las manos y a recortar nuestro césped..."
 
 # game/scripts/story_01/homework.rpy:415
 translate spanish ev_078_97cbd34a:

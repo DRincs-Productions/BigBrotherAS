@@ -702,7 +702,7 @@ translate spanish strings:
 
     # game/scripts/story_01/smoke.rpy:91
     old "Если перестанешь носить трусики, буду молчать..."
-    new "Si dejas de llevar sujetador, seguiré en silencio..."
+    new "Si dejas de llevar bragas, seguiré en silencio..."
 
     # game/scripts/story_01/smoke.rpy:91
     old "Продолжай ходить без трусиков и я буду молчать..."

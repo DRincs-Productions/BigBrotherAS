@@ -106,7 +106,7 @@ translate italian ev_024_b6f3ae4d:
 translate italian ev_024_338fa70d:
 
     # Ann 04 "Спасибо, Макс! Тебе тоже. И пока не ушла, иди ко мне, я тебя в щёчку поцелую..." nointeract
-    Ann 04 "Grazie, Max! Anche a te. E prima che se ne vada, vieni qui, ti do un bacio sulla guancia...." nointeract
+    Ann 04 "Grazie, Max! Anche a te. E prima che te ne vai, vieni qui, ti do un bacio sulla guancia..." nointeract
 
 # game/scripts/story_01/annroom.rpy:207
 translate italian ev_024_45cf9986:
@@ -140,5 +140,5 @@ translate italian strings:
 
     # game/scripts/story_01/annroom.rpy:198
     old "{i}подойти к маме{/i}"
-    new "{i}venire da mamma."
+    new "{i}vai da mamma{/i}"
 
