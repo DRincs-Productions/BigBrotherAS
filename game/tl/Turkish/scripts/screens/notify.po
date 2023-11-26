@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-10-15 15:48\n"
+"PO-Revision-Date: 2023-11-26 18:51\n"
 
 # TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/notify.rpy:35
 msgid "Нужно выполнить задания \"Любопытное содержимое\", \"Способ заработать\", а так же подбросить паука, натирая Алису маслом."
-msgstr ""
+msgstr "\"Meraklı İçerik\", \"Para Kazanmanın Bir Yolu\" görevlerini tamamlamanız ve ayrıca Alice'i yağla ovuşturan bir örümcek bırakmanız gerekiyor."
 
 # game/scripts/screens/notify.rpy:39
 msgid "Ok"
-msgstr ""
+msgstr "Tamam"
 
