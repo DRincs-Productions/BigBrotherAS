@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/screens/navigation.po\n"
+"X-Crowdin-File-ID: 9093\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"PO-Revision-Date: 2023-10-15 15:46\n"
+
+# TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/navigation.rpy:130
+msgid "Ждать окончания часа"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:145
+msgid "Поговорить"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:162
+msgid "Принять ванну"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:170
+msgid "Принять душ"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:178
+msgid "Лечь спать"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:186
+msgid "Сесть за ноутбук"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:194
+msgid "Разобрать коробки"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:204
+msgid "Искать камеру"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:212
+msgid "Читать"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:220
+msgid "Пылесосить дом"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:220
+msgid "нужен отдых"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:232
+msgid "Чистить бассейн"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:243
+msgid "Подстричь газон"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:254
+msgid "Выйти в город"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:261
+msgid "Покинуть виллу"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:268
+msgid "Искать книгу"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:278
+msgid "Искать пауков"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:301
+msgid "Развернуть"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:309
+msgid "Ждать 30 минут"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:321
+msgid "Свернуть"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:360
+msgid "Поддержать игру на Boosty"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:366
+msgid "Поддержать игру на Patreon"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:372
+msgid "Меню игры"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:383
+msgid "Обучение"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:393
+msgid "Личный дневник"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:505
+msgid "Скрыть"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:543
+msgid "Продолжение следует..."
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:602
+msgid "Что бы выбрать?"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:614
+msgid "(куплено)"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:625
+msgid "{i}готово{/i}"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:680
+msgid "ВНИМАНИЕ"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:681
+msgid "КОНТЕНТ ДЛЯ ВЗРОСЛЫХ"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:685
+msgid "Эта игра содержит контент сексуального характера"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:686
+msgid "Продолжая, ты подтверждаешь, что достаточно взрослый для такого контента"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:688
+msgid "Все персонажи, изображённые в этой игре, вымышлены и старше 18 лет"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:690
+msgid "Продолжить"
+msgstr ""
+
