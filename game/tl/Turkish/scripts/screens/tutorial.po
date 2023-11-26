@@ -10,212 +10,217 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-10-15 15:48\n"
+"PO-Revision-Date: 2023-11-26 18:51\n"
 
 # TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/tutorial.rpy:14
 msgid "Главная панель игры располагается внизу."
-msgstr ""
+msgstr "Oyunun ana paneli alt kısımda yer almaktadır."
 
 # game/scripts/screens/tutorial.rpy:14
 msgid "Слева, она включает в себя иконки различных участков тех локаций, где находится Макс. Для быстрого переключения между этими местами можно использовать клавиши [[1...9] на клавиатуре."
-msgstr ""
+msgstr "Sol tarafta, Max'in bulunduğu konumların farklı bölümlerinin simgelerini içerir. Bu konumlar arasında hızlıca geçiş yapmak için klavyenizdeki [[1...9] tuşlarını kullanabilirsiniz."
 
 # game/scripts/screens/tutorial.rpy:14
 msgid "Справа расположены иконки действий Макса, которые применимы к выбранным участкам на локациях. \n"
 "На вилле, где живёт Макс, имеется универсальное действие «Ждать окончания часа», клавиша [[Space] на клавиатуре."
-msgstr ""
+msgstr "Sağ tarafta, Max'in konumlardaki seçili alanlara uygulanan eylemlerinin simgeleri bulunmaktadır. \n"
+"Max'in yaşadığı villada \"Saatin bitmesini bekle\" evrensel eylemi vardır, klavyedeki [[Space] tuşu."
 
 # game/scripts/screens/tutorial.rpy:14
 msgid "У этого действия есть несколько вариаций, а именно «Ждать 10 минут» и «Ждать 30 минут», так как в течение часа персонажи могут находиться на разных стадиях своих занятий. \n"
 "Эти иконки можно увидеть, нажав на соответствующую иконку «Развернуть»."
-msgstr ""
+msgstr "Bu eylemin \"10 dakika bekle\" ve \"30 dakika bekle\" gibi çeşitli varyasyonları vardır, çünkü karakterler saat boyunca mesleklerinin farklı aşamalarında olabilirler. \n"
+"Bu simgeler, ilgili \"Genişlet\" simgesine tıklanarak görülebilir."
 
 # game/scripts/screens/tutorial.rpy:14
 msgid "Наличие других иконок действий может зависеть от того, где Макс находится, его возможностей и есть ли там другие персонажи."
-msgstr ""
+msgstr "Diğer eylem simgelerinin varlığı Max'in nerede olduğuna, yeteneklerine ve diğer karakterlerin orada olup olmadığına bağlı olabilir."
 
 # game/scripts/screens/tutorial.rpy:14
 msgid "Вспомогательная панель игры располагается вверху."
-msgstr ""
+msgstr "Oyunun ikincil paneli en üstte yer almaktadır."
 
 # game/scripts/screens/tutorial.rpy:14
 msgid "В основном, она содержит иконки с различной полезной информацией о персонажах, их одежде, вещах Макса, его записях, настройках игры и т.д."
-msgstr ""
+msgstr "Temel olarak, karakterler, kıyafetleri, Max'in eşyaları, kayıtları, oyun ayarları vb. hakkında çeşitli yararlı bilgiler içeren simgeler içerir."
 
 # game/scripts/screens/tutorial.rpy:14
 msgid "Вы можете сохранить или загрузить свой прогресс в игре через иконку «Меню игры», либо с помощью клавиш ( [[F5] - сохранение / [[F8] - загрузка ) на клавиатуре."
-msgstr ""
+msgstr "Oyundaki ilerlemenizi \"Oyun Menüsü\" simgesi aracılığıyla veya klavyenizdeki tuşları ( [[F5] - kaydet / [[F8] - yükle ) kullanarak kaydedebilir veya yükleyebilirsiniz."
 
 # game/scripts/screens/tutorial.rpy:14
 msgid "Во время диалогов между персонажами и выполнения некоторых заданий, у Макса может быть выбор в действиях. \n"
 "Для быстрого переключения между этими вариантами можно использовать клавиши [[1...9] на клавиатуре."
-msgstr ""
+msgstr "Karakterler arasındaki diyaloglar ve bazı görevler sırasında Max'in eylem seçenekleri olabilir. \n"
+"Bu seçenekler arasında hızlıca geçiş yapmak için klavyenizdeki [[1...9] tuşlarını kullanabilirsiniz."
 
 # game/scripts/screens/tutorial.rpy:14
 msgid "Можно скрыть интерфейс игры с помощью клавиш [[`] или [[h] на клавиатуре, если он скрывает интересную для вас часть изображения. \n"
 "Также можно использовать среднюю клавишу мыши."
-msgstr ""
+msgstr "Görüntünün ilginizi çeken bir kısmını gizliyorsa, klavyenizdeki [[`] veya [[h] tuşlarını kullanarak oyun arayüzünü gizleyebilirsiniz. \n"
+"Farenin orta tuşunu da kullanabilirsiniz."
 
 # game/scripts/screens/tutorial.rpy:43
 msgid "Это место, куда Макс записывает свои мысли и задания. Находится среди иконок на вспомогательной панели игры."
-msgstr ""
+msgstr "Burası Max'in düşüncelerini ve görevlerini yazdığı yerdir. Oyunun yardımcı panelindeki simgeler arasında yer alır."
 
 # game/scripts/screens/tutorial.rpy:43
 msgid "Если в дневнике появились новые записи, иконка принимает оранжевый окрас до тех пор, пока вы их не прочтёте."
-msgstr ""
+msgstr "Günlüğünüzde yeni girişler varsa, siz onları okuyana kadar simge turuncu bir renk alır."
 
 # game/scripts/screens/tutorial.rpy:43
 msgid "Сами же записи в дневнике появляются по мере прохождения игры, от взаимодействий с персонажами, разговоров, наблюдений за ними."
-msgstr ""
+msgstr "Günlük kayıtları, oyunda ilerledikçe, karakterlerle etkileşimlerden, konuşmalardan ve onların gözlemlerinden ortaya çıkar."
 
 # game/scripts/screens/tutorial.rpy:43
 msgid "Когда вы выполните задание, которое себе поставил Макс, оно получит отметку {color=#008000}«выполнено»{/color} и следом появится новое задание."
-msgstr ""
+msgstr "Max'in sizin için belirlediği bir görevi tamamladığınızda, {color=#008000}\"tamamlandı\"{/color} olarak işaretlenecek ve yeni bir görev başlayacaktır."
 
 # game/scripts/screens/tutorial.rpy:43
 msgid "Многие задания будут иметь подсказку для их выполнения. Эту подсказку можно увидеть просто наведя курсор на само задание в дневнике."
-msgstr ""
+msgstr "Birçok ödevin tamamlanması için bir ipucu olacaktır. Bu ipucu, günlükte görevin üzerine gelindiğinde görülebilir."
 
 # game/scripts/screens/tutorial.rpy:64
 msgid "Следующее задание"
-msgstr ""
+msgstr "Sonraki görev"
 
 # game/scripts/screens/tutorial.rpy:65
 msgid "Текст подсказки к заданию. Есть не у всех заданий."
-msgstr ""
+msgstr "Görev için ipucu metni. Tüm görevlerde bulunmaz."
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "Приобретение и развитие различных навыков является очень важной задачей для Макса. На их применении завязана большая часть игры."
-msgstr ""
+msgstr "Çeşitli becerileri edinmek ve geliştirmek Max için çok önemli bir görevdir. Oyunun büyük bir kısmı bunların uygulanmasına dayanıyor."
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "Каждый навык будет иметь две основополагающие характеристики: уровень и опыт применения."
-msgstr ""
+msgstr "Her becerinin iki temel özelliği olacaktır: seviye ve uygulama deneyimi."
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "Повысить уровни навыков Макс сможет через прохождение важных сюжетных событий."
-msgstr ""
+msgstr "Max, önemli hikaye olaylarını tamamlayarak beceri seviyelerini artırabilecek."
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "Переход на новый уровень может разблокировать варианты действий Макса, которые ранее имели ограничения, а так же открыть новые возможности и повысить шансы на успешное применение навыка."
-msgstr ""
+msgstr "Yeni bir seviyeye ilerlemek, Max'in daha önce sınırlı olan seçeneklerinin kilidini açabilir, yeni olasılıklar sunabilir ve beceriyi başarılı bir şekilde uygulama şansını artırabilir."
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "Опыт применения показывает то, насколько хорошо у Макса получается использовать свои навыки."
-msgstr ""
+msgstr "Uygulama deneyimi Max'in becerilerini ne kadar iyi kullandığını gösteriyor."
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "Отображается в виде шкалы и чем больше она заполнена, тем больше Макс получит надбавку к шансу применения того или иного навыка."
-msgstr ""
+msgstr "Bir ölçek şeklinde görüntülenir ve ne kadar çok doldurulursa, Max belirli bir beceriyi uygulama şansına o kadar çok bonus alır."
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "При наведении курсора на вариант с применением навыка, игрок получит подсказку с информацией о том, что влияет на шанс его применения."
-msgstr ""
+msgstr "Bir beceri seçeneğinin üzerine gelindiğinde, oyuncu beceriyi uygulama şansını neyin etkilediği hakkında bilgi içeren bir araç ipucu alacaktır."
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "На этот шанс, как правило, влияет уровень навыка, опыт его применения, а в некоторых случаях и настроение персонажа, на которого направлено применение навыка."
-msgstr ""
+msgstr "Bu şans genellikle becerinin seviyesinden, beceriyle ilgili deneyimden ve bazı durumlarda becerinin hedef aldığı karakterin ruh halinden etkilenir."
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "Макс так же может оказаться в ситуациях, которые потребуют от него выбрать между «безопасным» и «рискованным» вариантом ответов."
-msgstr ""
+msgstr "Max kendini \"güvenli\" ve \"riskli\" cevaplar arasında seçim yapmasını gerektiren durumlarda da bulabilir."
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "Если навести на эти варианты курсор, вы увидите различие по цвету, а так же в шансах на успех."
-msgstr ""
+msgstr "İmlecinizi bu seçeneklerin üzerine getirirseniz, renk farkının yanı sıra başarı şansını da göreceksiniz."
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "При выборе «безопасного» варианта ответа, Макс ничего не теряет при провале, а при успехе немного повышает опыт применения навыка и настроение персонажа, с которым контактирует."
-msgstr ""
+msgstr "\"Güvenli\" cevap seçeneğini seçerken, Max başarısızlık durumunda hiçbir şey kaybetmez ve başarı durumunda becerinin deneyimini ve temas halinde olduğu karakterin ruh halini biraz artırır."
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "При выборе «рискованного» варианта ответа, Макс теряет немного опыта применения навыка и слегка ухудшает настроение персонажа, с которым контактирует. \n"
 "А при успехе повышает это больше, чем в «безопасном» варианте."
-msgstr ""
+msgstr "\"Riskli\" cevap seçeneğini seçerken, Max beceriyi kullanarak biraz deneyim kaybeder ve temas halinde olduğu karakterin ruh halini biraz kötüleştirir. \n"
+"Ve başarılı olduğunda bunu \"güvenli\" seçeneğe göre daha fazla artırır."
 
 # game/scripts/screens/tutorial.rpy:99
 msgid "Показатель настроения можно увидеть в окне информации о персонажах, иконка которого находится на вспомогательной панели игры."
-msgstr ""
+msgstr "Ruh hali göstergesi, simgesi oyunun ikincil panelinde bulunan karakter bilgi penceresinde görülebilir."
 
 # game/scripts/screens/tutorial.rpy:99
 msgid "При наведении курсора на показатель настроения того или иного персонажа, игрок получит подсказку о текущем положении настроения, а так же о том, сколько процентов остаётся до смены настроения."
-msgstr ""
+msgstr "İmleci bir karakterin ruh hali göstergesinin üzerine getirdiğinizde, oyuncu mevcut ruh hali durumunun yanı sıra ruh halinin değişmesine yüzde kaç kaldığı hakkında bir ipucu alacaktır."
 
 # game/scripts/screens/tutorial.rpy:99
 msgid "Повышать настроение персонажей можно различными действиями, вроде помощи с мытьём посуды, накрытием на стол, совместным просмотром ТВ и т.д."
-msgstr ""
+msgstr "Bulaşık yıkamaya yardım etmek, masayı hazırlamak, birlikte TV izlemek gibi çeşitli eylemlerle karakterlerin ruh halini iyileştirebilirsiniz."
 
 # game/scripts/screens/tutorial.rpy:99
 msgid "Настроение персонажей, с которыми контактирует Макс, может слегка влиять на исход некоторых событий."
-msgstr ""
+msgstr "Max'in temas ettiği karakterlerin ruh hali bazı olayların sonucunu biraz etkileyebilir."
 
 # game/scripts/screens/tutorial.rpy:114
 msgid "По понедельникам, после завтрака, Анна будет выдавать Максу карманные деньги на неделю, как и надбавку за выполнение различных дел по дому."
-msgstr ""
+msgstr "Pazartesi günleri kahvaltıdan sonra Anna, Max'e haftalık cep harçlığının yanı sıra evdeki çeşitli işleri yapması için harçlık verirdi."
 
 # game/scripts/screens/tutorial.rpy:114
 msgid "Максу лучше выполнить эти дела до выходных, чтобы не расстраивать Анну и не потерять в надбавке к карманным."
-msgstr ""
+msgstr "Max, Anna'yı üzmemek ve cep harçlığını kaybetmemek için bu işleri hafta sonundan önce bitirse iyi olur."
 
 # game/scripts/screens/tutorial.rpy:114
 msgid "Ему нужно выполнить следующее: пропылесосить пол в доме, подрезать траву на газоне, почистить воду в бассейне и сходить за продуктами в магазин."
-msgstr ""
+msgstr "Şunları yapması gerekiyor: evin zeminini süpürmek, çimenleri kesmek, havuzdaki suyu temizlemek ve market alışverişine gitmek."
 
 # game/scripts/screens/tutorial.rpy:114
 msgid "Соответствующие иконки действий появятся в комнате Макса (пылесосить дом) и во дворе (подстричь газон, чистить бассейн, покинуть виллу) между завтраком и ужином, с понедельника по пятницу."
-msgstr ""
+msgstr "İlgili eylem simgeleri Pazartesi'den Cuma'ya kahvaltı ve akşam yemeği arasında Max'in odasında (evi süpürmek) ve bahçede (çimleri biçmek, havuzu temizlemek, villayı terk etmek) görünecektir."
 
 # game/scripts/screens/tutorial.rpy:114
 msgid "Каждое из этих дел отнимет у Макса около часа времени и скажется на показателе его чистоты."
-msgstr ""
+msgstr "Bu vakaların her biri Max'in yaklaşık bir saatini alacak ve temizlik puanını etkileyecektir."
 
 # game/scripts/screens/tutorial.rpy:114
 msgid "Так же не забывайте, что после каждого выполненного дела Максу нужно отдохнуть несколько часов, прежде чем он сможет приступить к выполнению других дел по дому."
-msgstr ""
+msgstr "Ayrıca, tamamlanan her görevden sonra Max'in evdeki diğer işleri yapmaya başlamadan önce birkaç saat dinlenmesi gerektiğini unutmayın."
 
 # game/scripts/screens/tutorial.rpy:114
 msgid "По пятницам Макс будет отчитываться Анне о своих успехах и если он что-то не успел сделать, то будет делать это принудительно в субботу."
-msgstr ""
+msgstr "Max, Cuma günleri Anna'ya ilerleme durumu hakkında rapor verecek ve bir şeyi zamanında yapmadıysa Cumartesi günü zorla yapacak."
 
 # game/scripts/screens/tutorial.rpy:159
 msgid "Управление"
-msgstr ""
+msgstr "Kontroller"
 
 # game/scripts/screens/tutorial.rpy:163
 msgid "Навыки"
-msgstr ""
+msgstr "Beceriler"
 
 # game/scripts/screens/tutorial.rpy:165
 msgid "Настроение"
-msgstr ""
+msgstr "Ruh hali"
 
 # game/scripts/screens/tutorial.rpy:168
 msgid "Обязанности по дому"
-msgstr ""
+msgstr "Ev işleri"
 
 # game/scripts/screens/tutorial.rpy:321
 msgid "Сейчас Лиза должна собираться в школу..."
-msgstr ""
+msgstr "Şimdi Lisa okula hazırlanmak zorunda..."
 
 # game/scripts/screens/tutorial.rpy:324
 msgid "{i}заглянуть в окно{/i}"
-msgstr ""
+msgstr "{i}pencereden dışarı bak{/i}"
 
 # game/scripts/screens/tutorial.rpy:324
 msgid "Шанс"
-msgstr ""
+msgstr "Şans"
 
 # game/scripts/screens/tutorial.rpy:329
 msgid "опыт применения навыка"
-msgstr ""
+msgstr "bir beceriyi uygulama deneyimi"
 
 # game/scripts/screens/tutorial.rpy:335
 msgid "Ой, Макс! Я не одета!!! Не мешай мне собираться в школу!"
-msgstr ""
+msgstr "Oh, Max! Giyinmedim! Okul için hazırlanmama engel olma!"
 
 # game/scripts/screens/tutorial.rpy:339
 msgid "Не стесняйся, без одежды ты очень красиво смотришься!"
-msgstr ""
+msgstr "Utanma, kıyafetsiz de çok güzel görünüyorsun!"
 
 # game/scripts/screens/tutorial.rpy:343
 msgid "Я наоборот, помочь хотел..."
