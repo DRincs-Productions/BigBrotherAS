@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-10-15 15:47\n"
+"PO-Revision-Date: 2023-11-26 18:50\n"
 
 # TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/02_func.rpy:371
 msgid "Скрытность"
@@ -30,5 +30,5 @@ msgstr "Ruh hali {char_name}"
 
 # game/scripts/engine/02_func.rpy:376
 msgid "мамы"
-msgstr ""
+msgstr "anneler"
 
