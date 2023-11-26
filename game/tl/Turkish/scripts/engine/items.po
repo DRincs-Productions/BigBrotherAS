@@ -10,55 +10,55 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-10-15 15:48\n"
+"PO-Revision-Date: 2023-11-26 17:04\n"
 
 # TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/items.rpy:216
 msgid "Одежда"
-msgstr ""
+msgstr "Giyim"
 
 # game/scripts/engine/items.rpy:216
 msgid "Книги"
-msgstr ""
+msgstr "Kitaplar"
 
 # game/scripts/engine/items.rpy:216
 msgid "Продукты"
-msgstr ""
+msgstr "Ürünler"
 
 # game/scripts/engine/items.rpy:216
 msgid "Электроника"
-msgstr ""
+msgstr "Elektronik"
 
 # game/scripts/engine/items.rpy:216
 msgid "Товары 18+"
-msgstr ""
+msgstr "18+ ürünler"
 
 # game/scripts/engine/items.rpy:216
 msgid "Косметика"
-msgstr ""
+msgstr "Kozmetik"
 
 # game/scripts/engine/items.rpy:216
 msgid "Украшения"
-msgstr ""
+msgstr "Mücevherat"
 
 # game/scripts/engine/items.rpy:216
 msgid "Другое"
-msgstr ""
+msgstr "Diğer"
 
 # game/scripts/engine/items.rpy:227
 msgid "Паук"
-msgstr ""
+msgstr "Örümcek"
 
 # game/scripts/engine/items.rpy:227
 msgid "Самое страшное существо на свете. С точки зрения Алисы, конечно. Нужно этим воспользоваться в подходящий момент!"
-msgstr ""
+msgstr "Dünyadaki en korkunç yaratık. Alice'in bakış açısından tabii ki. Doğru zaman geldiğinde bundan faydalanmalıyız!"
 
 # game/scripts/engine/items.rpy:227
 msgid "Скрытая камера"
-msgstr ""
+msgstr "Gizli kamera"
 
 # game/scripts/engine/items.rpy:227
 msgid "Высокотехнологичная микро-камера, предназначенная для скрытного наблюдения. Имеет радиомодуль для беспроводной передачи зашифрованного цифрового видеосигнала."
-msgstr ""
+msgstr "Gizli gözetleme için tasarlanmış yüksek teknolojili bir mikro kamera. Şifrelenmiş dijital video sinyalinin kablosuz iletimi için bir radyo modülüne sahiptir."
 
 # game/scripts/engine/items.rpy:227
 msgid "Шёлковый халат"
