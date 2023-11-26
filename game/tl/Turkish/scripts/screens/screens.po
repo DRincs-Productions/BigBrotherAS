@@ -11,40 +11,45 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-10-15 15:48\n"
+"PO-Revision-Date: 2023-11-26 18:51\n"
 
 # TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/screens.rpy:276
 msgid "Нужно подождать дней: {cooldown}"
-msgstr ""
+msgstr "Beklenmesi gereken günler: {cooldown}"
 
 # game/scripts/screens/screens.rpy:281
 msgid "Нужно быть чище!"
-msgstr ""
+msgstr "Daha temiz olmalıyız!"
 
 # game/scripts/screens/screens.rpy:283
 msgid "[txt]\n"
 "{i}{color=[skill.color]}{size=[sz]}([skill!tcl]. Шанс: [skill.percent]%){/size}{/color}{/i}"
-msgstr ""
+msgstr "[txt]\n"
+"{i}{color=[skill.color]}{size=[sz]}([skill!tcl]. Şans: [skill.percent]%){/size}{/color}{/i}"
 
 # game/scripts/screens/screens.rpy:292
 msgid "{color=#0f0}Бонус\n"
 "{/color}"
-msgstr ""
+msgstr "{color=#0f0}Bonus\n"
+"{/color}"
 
 # game/scripts/screens/screens.rpy:292
 msgid "{skill_percent}%: {skill_name}. Ур.{skill_lvl}\n"
 "+{skill_progress}%: опыт применения навыка\n"
 "{add_percent:+2.1f}%: {attr} {char}"
-msgstr ""
+msgstr "{skill_percent}%: {skill_name}. Ur.{skill_lvl}\n"
+"+{skill_progress}%: beceri deneyimi\n"
+"{add_percent:+2.1f}%: {attr} {char}"
 
 # game/scripts/screens/screens.rpy:296
 msgid "{skill_percent}%: {skill_name}. Ур.{skill_lvl}\n"
 "+{skill_progress}%: опыт применения навыка"
-msgstr ""
+msgstr "{skill_percent}%: {skill_name}. Ur.{skill_lvl}\n"
+"+{skill_progress}%: beceriyi uygulama deneyimi"
 
 # game/scripts/screens/screens.rpy:313
 msgid "Требуется: {skill_name}. Ур.{min_lvl}"
-msgstr ""
+msgstr "Aranıyor: {skill_name}. Ur.{min_lvl}"
 
 # game/scripts/screens/screens.rpy:453
 msgid "История"
@@ -76,11 +81,11 @@ msgstr "Seçenekler"
 
 # game/scripts/screens/screens.rpy:527
 msgid "Начать"
-msgstr ""
+msgstr "Başlangıç"
 
 # game/scripts/screens/screens.rpy:531
 msgid "Загрузить"
-msgstr ""
+msgstr "İndir"
 
 # game/scripts/screens/screens.rpy:534
 msgid "Настройки"
@@ -88,7 +93,7 @@ msgstr "Ayarlar"
 
 # game/scripts/screens/screens.rpy:535
 msgid "Выход"
-msgstr ""
+msgstr "Çıktı"
 
 # game/scripts/screens/screens.rpy:611
 msgid "Главное меню"
@@ -100,20 +105,21 @@ msgstr "Tekrarlamayı sonlandır"
 
 # game/scripts/screens/screens.rpy:738
 msgid "Об игре"
-msgstr ""
+msgstr "Oyun hakkında"
 
 # game/scripts/screens/screens.rpy:745
 msgid "Версия [config.version!t]\n"
-msgstr ""
+msgstr "Sürüm [config.version!t]\n"
 
 # game/scripts/screens/screens.rpy:751
 msgid "Сделано с помощью {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
-msgstr ""
+msgstr "A=https://www.renpy.org/}Ren'Py{/a} ile yapılmıştır [renpy.version_only].\n\n"
+"[renpy.licence!t]"
 
 # game/scripts/screens/screens.rpy:793
 msgid "Отмена"
-msgstr ""
+msgstr "İptal"
 
 # game/scripts/screens/screens.rpy:822
 msgid "{} страница"
@@ -129,11 +135,11 @@ msgstr "Hızlı kaydetme"
 
 # game/scripts/screens/screens.rpy:866
 msgid "День [slot_dwtm[0]] [lw] [slot_dwtm[2]]"
-msgstr ""
+msgstr "Gün [slot_dwtm[0]] [lw] [slot_dwtm[2]]"
 
 # game/scripts/screens/screens.rpy:878
 msgid "{#file_time}%a, %d %B %Y, %H:%M"
-msgstr ""
+msgstr "{#file_time}%a, %d %B %Y, %H:%M"
 
 # game/scripts/screens/screens.rpy:878
 msgid "Пустой слот"
@@ -141,23 +147,23 @@ msgstr "Boş yuva"
 
 # game/scripts/screens/screens.rpy:930
 msgid "{#file_time}%A, %d %B %Y, %H:%M"
-msgstr ""
+msgstr "{#file_time}%A, %d %B %Y, %H:%M"
 
 # game/scripts/screens/screens.rpy:964
 msgid "{#auto_page}А"
-msgstr ""
+msgstr "{#auto_page}А"
 
 # game/scripts/screens/screens.rpy:968
 msgid "{#quick_page}Б"
-msgstr ""
+msgstr "{#quick_page}Б"
 
 # game/scripts/screens/screens.rpy:1079
 msgid "ЯЗЫК"
-msgstr ""
+msgstr "DİL"
 
 # game/scripts/screens/screens.rpy:1117
 msgid "ЭКРАН"
-msgstr ""
+msgstr "EKRAN"
 
 # game/scripts/screens/screens.rpy:1120
 msgid "Режим экрана"
@@ -173,7 +179,7 @@ msgstr "Tam"
 
 # game/scripts/screens/screens.rpy:1129
 msgid "ГЕЙМПЛЕЙ"
-msgstr ""
+msgstr "OYNANIŞ"
 
 # game/scripts/screens/screens.rpy:1132
 msgid "Сторона отката"
@@ -193,19 +199,19 @@ msgstr "Sağ"
 
 # game/scripts/screens/screens.rpy:1143
 msgid "Пропускать"
-msgstr ""
+msgstr "Atla"
 
 # game/scripts/screens/screens.rpy:1146
 msgid "Весь текст"
-msgstr ""
+msgstr "Tüm metin"
 
 # game/scripts/screens/screens.rpy:1149
 msgid "После выбора"
-msgstr ""
+msgstr "Seçimlerden sonra"
 
 # game/scripts/screens/screens.rpy:1152
 msgid "После переходов"
-msgstr ""
+msgstr "Geçişlerden sonra"
 
 # game/scripts/screens/screens.rpy:1154
 msgid "Скорость текста"
@@ -217,31 +223,31 @@ msgstr "Otomatik okuma hızı"
 
 # game/scripts/screens/screens.rpy:1161
 msgid "Размер шрифта"
-msgstr ""
+msgstr "Yazı tipi boyutu"
 
 # game/scripts/screens/screens.rpy:1164
 msgid "Мелкий"
-msgstr ""
+msgstr "Küçük"
 
 # game/scripts/screens/screens.rpy:1167
 msgid "Средний"
-msgstr ""
+msgstr "Orta"
 
 # game/scripts/screens/screens.rpy:1170
 msgid "Крупный"
-msgstr ""
+msgstr "Büyük"
 
 # game/scripts/screens/screens.rpy:1174
 msgid "Масштаб элементов интерфейса: [scale]%"
-msgstr ""
+msgstr "Arayüz elemanlarının ölçeği: [scale]%"
 
 # game/scripts/screens/screens.rpy:1179
 msgid "Прозрачность текстового окна: [opacity:.0f]%"
-msgstr ""
+msgstr "Metin kutusunun saydamlığı: [opacity:.0f]%"
 
 # game/scripts/screens/screens.rpy:1185
 msgid "АУДИО"
-msgstr ""
+msgstr "SES"
 
 # game/scripts/screens/screens.rpy:1188
 msgid "Громкость музыки"
@@ -265,15 +271,15 @@ msgstr "Sessiz"
 
 # game/scripts/screens/screens.rpy:1211
 msgid "ДОПОЛНИТЕЛЬНО"
-msgstr ""
+msgstr "EK"
 
 # game/scripts/screens/screens.rpy:1216
 msgid "Запрашивать имя сохранения"
-msgstr ""
+msgstr "Kaydetme adını isteyin"
 
 # game/scripts/screens/screens.rpy:1219
 msgid "Особый режим скрытия интерфейса"
-msgstr ""
+msgstr "Özel arayüz gizleme modu"
 
 # game/scripts/screens/screens.rpy:1361
 msgid "История диалогов пуста."
@@ -373,7 +379,7 @@ msgstr "Desteklenen ses sentezleyiciyi {a=https://www.renpy.org/l/seslendirmeni}
 
 # game/scripts/screens/screens.rpy:1485
 msgid "Открывает меню специальных возможностей."
-msgstr ""
+msgstr "Özel özellikler menüsünü açar."
 
 # game/scripts/screens/screens.rpy:1491
 msgid "Левый клик"
@@ -390,41 +396,44 @@ msgstr "Sağ tıklama"
 # game/scripts/screens/screens.rpy:1503
 msgid "Колёсико вверх\n"
 "Клик на сторону отката"
-msgstr ""
+msgstr "Tekerlek yukarı\n"
+"Geri çekmenin yan tarafına tıklayın"
 
 # game/scripts/screens/screens.rpy:1507
 msgid "Колёсико вниз"
-msgstr ""
+msgstr "Tekerlek aşağı"
 
 # game/scripts/screens/screens.rpy:1514
 msgid "Правый триггер\n"
 "A/Нижняя кнопка"
-msgstr ""
+msgstr "Sağ tetik\n"
+"A/ Alt düğme"
 
 # game/scripts/screens/screens.rpy:1518
 msgid "Левый Триггер\n"
 "Левый Бампер"
-msgstr ""
+msgstr "Sol Tetik\n"
+"Sol Tampon"
 
 # game/scripts/screens/screens.rpy:1522
 msgid "Правый бампер"
-msgstr ""
+msgstr "Sağ tampon"
 
 # game/scripts/screens/screens.rpy:1527
 msgid "Крестовина, Стики"
-msgstr ""
+msgstr "Çapraz Çubuk, Stikki"
 
 # game/scripts/screens/screens.rpy:1531
 msgid "Start, Guide"
-msgstr ""
+msgstr "Başlat, Kılavuz"
 
 # game/scripts/screens/screens.rpy:1535
 msgid "Y/Верхняя кнопка"
-msgstr ""
+msgstr "Y/Üst düğme"
 
 # game/scripts/screens/screens.rpy:1538
 msgid "Калибровка"
-msgstr ""
+msgstr "Kalibrasyon"
 
 # game/scripts/screens/screens.rpy:1603
 msgid "Да"
