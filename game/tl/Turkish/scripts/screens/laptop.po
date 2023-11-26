@@ -10,31 +10,31 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-10-15 15:48\n"
+"PO-Revision-Date: 2023-11-26 18:51\n"
 
 # TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/laptop.rpy:21
 msgid "ОНЛАЙН-КУРСЫ"
-msgstr ""
+msgstr "ONLINE KURSLAR"
 
 # game/scripts/screens/laptop.rpy:21
 msgid "ИНТЕРНЕТ-МАГАЗИН"
-msgstr ""
+msgstr "ONLINE MAĞAZA"
 
 # game/scripts/screens/laptop.rpy:21
 msgid "ЗАНЯТЬСЯ СВОИМ САЙТОМ"
-msgstr ""
+msgstr "KENDI WEB SITENIZI YAPIN"
 
 # game/scripts/screens/laptop.rpy:21
 msgid "СВОЙ САЙТ"
-msgstr ""
+msgstr "SİTENİZ"
 
 # game/scripts/screens/laptop.rpy:21
 msgid "CYBER-БАНК"
-msgstr ""
+msgstr "CYBER-BANK"
 
 # game/scripts/screens/laptop.rpy:21
 msgid "ЧИТ-МЕНЮ"
-msgstr ""
+msgstr "HiLE MENÜSÜ"
 
 # game/scripts/screens/laptop.rpy:42
 msgid "Назад"
@@ -42,85 +42,85 @@ msgstr "Geri"
 
 # game/scripts/screens/laptop.rpy:46
 msgid "Выключить"
-msgstr ""
+msgstr "Devre Dışı Bırak"
 
 # game/scripts/screens/laptop.rpy:52
 msgid "Ждать 10 минут"
-msgstr ""
+msgstr "10 dakika bekleyin"
 
 # game/scripts/screens/laptop.rpy:197
 msgid "КУПЛЕНО"
-msgstr ""
+msgstr "ALINDI"
 
 # game/scripts/screens/laptop.rpy:202
 msgid "КУПИТЬ (недостаточно средств)"
-msgstr ""
+msgstr "SATIN AL (yetersiz fon)"
 
 # game/scripts/screens/laptop.rpy:207
 msgid "КУПИТЬ"
-msgstr ""
+msgstr "SATIN AL"
 
 # game/scripts/screens/laptop.rpy:208
 msgid "Приобрести \"{name}\" за ${price}?"
-msgstr ""
+msgstr "${price} için \"{name}\" satın alın?"
 
 # game/scripts/screens/laptop.rpy:238
 msgid "Скидка [item.sale_percent]%"
-msgstr ""
+msgstr "İndirim [item.sale_percent]%"
 
 # game/scripts/screens/laptop.rpy:259
 msgid "В данный момент нет доступных товаров. Загляните позже."
-msgstr ""
+msgstr "Şu anda mevcut ürün yok. Daha sonra tekrar kontrol edin."
 
 # game/scripts/screens/laptop.rpy:419
 msgid "Что будем искать?"
-msgstr ""
+msgstr "Ne arıyoruz?"
 
 # game/scripts/screens/laptop.rpy:470
 msgid "ВЫГОДНЫЕ ЗАЙМЫ ИНТЕРНЕТ-ПРЕДПРИНИМАТЕЛЯМ"
-msgstr ""
+msgstr "İNTERNET GİRİŞİMCİLERİNE UYGUN KREDİLER"
 
 # game/scripts/screens/laptop.rpy:474
 msgid "ВЗЯТЬ КРЕДИТ"
-msgstr ""
+msgstr "KREDI ALMAK"
 
 # game/scripts/screens/laptop.rpy:510
 msgid "Общий доход:"
-msgstr ""
+msgstr "Toplam Gelir:"
 
 # game/scripts/screens/laptop.rpy:511
 msgid "Последнее начисление:"
-msgstr ""
+msgstr "Son tahakkuk:"
 
 # game/scripts/screens/laptop.rpy:588
 msgid "Общение"
-msgstr ""
+msgstr "İletişim"
 
 # game/scripts/screens/laptop.rpy:603
 msgid "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
-msgstr ""
+msgstr "Bu kategorideki mevcut tüm kursları ve dersleri tamamladınız. Oyunun bir sonraki sürümünde yeni dersler görünebilir."
 
 # game/scripts/screens/laptop.rpy:611
 msgid "Вы уже оплатили этот курс и можете в любой момент включить следующий доступный видеоурок."
-msgstr ""
+msgstr "Bu kurs için zaten ödeme yaptınız ve istediğiniz zaman bir sonraki mevcut video dersini açabilirsiniz."
 
 # game/scripts/screens/laptop.rpy:612
 msgid "Занятие [learn] из 3"
-msgstr ""
+msgstr "Sınıf [learn] of 3"
 
 # game/scripts/screens/laptop.rpy:615
 msgid "НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА"
-msgstr ""
+msgstr "VIDEO DERSINI IZLEMEYE BAŞLAYIN"
 
 # game/scripts/screens/laptop.rpy:619
 msgid "ВЫ УЧИЛИСЬ СОВСЕМ НЕДАВНО. СДЕЛАЙТЕ ПЕРЕРЫВ!"
-msgstr ""
+msgstr "SON ZAMANLARDA ÇALIŞIYORDUNUZ. MOLA VER!"
 
 # game/scripts/screens/laptop.rpy:627
 msgid "Количество занятий: 3"
-msgstr ""
+msgstr "Sınıf sayısı: 3"
 
 # game/scripts/screens/laptop.rpy:629
 msgid "ПРИОБРЕСТИ ЭТОТ КУРС ЗА $[cource.price]"
-msgstr ""
+msgstr "BU KURSU $ KARŞILIĞINDA SATIN ALMAK IÇIN[cource.price]"
 
