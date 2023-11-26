@@ -10,99 +10,99 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-10-15 15:48\n"
+"PO-Revision-Date: 2023-11-26 18:51\n"
 
 # TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/inform.rpy:28
 msgid "Персонажи"
-msgstr ""
+msgstr "Karakterler"
 
 # game/scripts/screens/inform.rpy:32
 msgid "Предметы"
-msgstr ""
+msgstr "Konular"
 
 # game/scripts/screens/inform.rpy:117
 msgid "НАСТРОЕНИЕ"
-msgstr ""
+msgstr "MORAL"
 
 # game/scripts/screens/inform.rpy:124
 msgid "До достижения: "
-msgstr ""
+msgstr "Başarıdan önce: "
 
 # game/scripts/screens/inform.rpy:130
 msgid "Текущее положение: "
-msgstr ""
+msgstr "Mevcut Durum: "
 
 # game/scripts/screens/inform.rpy:136
 msgid "До достижения: +"
-msgstr ""
+msgstr "Başarıdan Önce: +"
 
 # game/scripts/screens/inform.rpy:141
 msgid "ВЗАИМООТНОШЕНИЯ"
-msgstr ""
+msgstr "İLİŞKİLER"
 
 # game/scripts/screens/inform.rpy:146
 msgid "С Максом"
-msgstr ""
+msgstr "Max ile"
 
 # game/scripts/screens/inform.rpy:166
 msgid "ПАРАМЕТРЫ"
-msgstr ""
+msgstr "SEÇENEKLER"
 
 # game/scripts/screens/inform.rpy:169
 msgid "Чистота"
-msgstr ""
+msgstr "Temizlik"
 
 # game/scripts/screens/inform.rpy:174
 msgid "Загрязнённость "
-msgstr ""
+msgstr "Kirlenme "
 
 # game/scripts/screens/inform.rpy:178
 msgid "ДОМАШНИЕ ОБЯЗАННОСТИ"
-msgstr ""
+msgstr "EV İŞLERİ"
 
 # game/scripts/screens/inform.rpy:181
 msgid "Чистка пола"
-msgstr ""
+msgstr "Zemin temizliği"
 
 # game/scripts/screens/inform.rpy:183
 msgid "Выполнено"
-msgstr ""
+msgstr "Bitti"
 
 # game/scripts/screens/inform.rpy:187
 msgid "Не выполнено"
-msgstr ""
+msgstr "Yerine getirilmedi"
 
 # game/scripts/screens/inform.rpy:191
 msgid "Чистка бассейна"
-msgstr ""
+msgstr "Havuz temizliği"
 
 # game/scripts/screens/inform.rpy:201
 msgid "Стрижка газона"
-msgstr ""
+msgstr "Çim biçme"
 
 # game/scripts/screens/inform.rpy:211
 msgid "Покупка продуктов"
-msgstr ""
+msgstr "Market alışverişi"
 
 # game/scripts/screens/inform.rpy:222
 msgid "НАВЫКИ"
-msgstr ""
+msgstr "BECERİLER"
 
 # game/scripts/screens/inform.rpy:228
 msgid "Ур.1"
-msgstr ""
+msgstr "Sv.1"
 
 # game/scripts/screens/inform.rpy:231
 msgid "Опыт применения навыка"
-msgstr ""
+msgstr "Beceriyi uygulama deneyimi"
 
 # game/scripts/screens/inform.rpy:395
 msgid "Предыдущая"
-msgstr ""
+msgstr "Geri"
 
 # game/scripts/screens/inform.rpy:405
 msgid "Следующая"
-msgstr ""
+msgstr "Sonraki"
 
 # game/scripts/screens/inform.rpy:410
 msgid "Сделать текущей"
@@ -110,25 +110,25 @@ msgstr ""
 
 # game/scripts/screens/inform.rpy:480
 msgid "В данный момент в инвентаре ничего нет"
-msgstr ""
+msgstr "Şu anda envanterde bir şey yok"
 
 # game/scripts/screens/inform.rpy:483
 msgid "Ни один предмет не выбран"
-msgstr ""
+msgstr "Tek bir öğe bile seçilmedi"
 
 # game/scripts/screens/inform.rpy:491
 msgid "Не прочитана"
-msgstr ""
+msgstr "Okunmamış"
 
 # game/scripts/screens/inform.rpy:493
 msgid "Полностью изучена"
-msgstr ""
+msgstr "Tamamen keşfedildi"
 
 # game/scripts/screens/inform.rpy:495
 msgid "Изучена на [percent]%"
-msgstr ""
+msgstr "[percent] adresinde araştırılmıştır"
 
 # game/scripts/screens/inform.rpy:497
 msgid "Осталось [item.rest]/[item.count]"
-msgstr ""
+msgstr "Kalan [item.rest]/[item.count]"
 
