@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-10-14 21:25
+﻿# TODO: Translation updated at 2024-01-09 23:01
 
 # game/scripts/story_01/bathroom.rpy:10
 translate crowdin ev_ann_shower_c167172f:
@@ -516,343 +516,343 @@ translate crowdin ev_lisa_shower_day_5_ba0cb1cf:
     # tMax 12 "Я должен постараться спасти Алису от наказания за курение в комнате, так что лучше не рисковать сегодня утром. Если попадусь, то меня накажут, да и Алису я не спасу..." nointeract
     tMax 12 "Я должен постараться спасти Алису от наказания за курение в комнате, так что лучше не рисковать сегодня утром. Если попадусь, то меня накажут, да и Алису я не спасу..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:611
+# game/scripts/story_01/bathroom.rpy:612
 translate crowdin ev_alice_shower_8f9443ee:
 
     # tMax 11 "Сейчас ванная комната должна быть занята Алисой..." nointeract
     tMax 11 "Сейчас ванная комната должна быть занята Алисой..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:632
+# game/scripts/story_01/bathroom.rpy:633
 translate crowdin ev_alice_shower_voy_01_7e476209:
 
     # tMax 13 "Алиса ещё не зашла в душ. Видимо, она раздевается. Жаль не видно..." nointeract
     tMax 13 "Алиса ещё не зашла в душ. Видимо, она раздевается. Жаль не видно..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:655
+# game/scripts/story_01/bathroom.rpy:656
 translate crowdin ev_alice_shower_voy_02_da0b3cab:
 
     # tMax 03 "Ого! Голая Алиса всего в паре метров от меня! Как же она хороша... Аж присвистнуть хочется!" nointeract
     tMax 03 "Ого! Голая Алиса всего в паре метров от меня! Как же она хороша... Аж присвистнуть хочется!" nointeract
 
-# game/scripts/story_01/bathroom.rpy:671
+# game/scripts/story_01/bathroom.rpy:672
 translate crowdin ev_alice_shower_voy_02_e5e9612e:
 
     # tMax 15 "Ох, чёрт! Вроде, не заметила! Нужно скорее уносить ноги, пока они ещё есть..." nointeract
     tMax 15 "Ох, чёрт! Вроде, не заметила! Нужно скорее уносить ноги, пока они ещё есть..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:691
+# game/scripts/story_01/bathroom.rpy:692
 translate crowdin ev_alice_shower_voy_03_ec2ef77b:
 
     # tMax 05 "Моя старшая сестрёнка становится очень сексуальной, когда распускает свои волосы! Я бы точно не отказался, как следует, помылить её прелести..." nointeract
     tMax 05 "Моя старшая сестрёнка становится очень сексуальной, когда распускает свои волосы! Я бы точно не отказался, как следует, помылить её прелести..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:711
+# game/scripts/story_01/bathroom.rpy:712
 translate crowdin ev_alice_shower_caught_0b19cd0a:
 
     # Alice 14 "Макс!!! Подглядывать за мной удумал?! Ты труп! Твоё счастье, что я сейчас голая... Но ничего, я сдам тебя маме и она тебя обязательно накажет!" nointeract
     Alice 14 "Макс!!! Подглядывать за мной удумал?! Ты труп! Твоё счастье, что я сейчас голая... Но ничего, я сдам тебя маме и она тебя обязательно накажет!" nointeract
 
-# game/scripts/story_01/bathroom.rpy:714
+# game/scripts/story_01/bathroom.rpy:715
 translate crowdin ev_alice_shower_caught_a0bf48e9:
 
     # Alice 14 "Макс!!! Опять подглядываешь за мной?! Ну-ка живо отвернись и стой на месте!" nointeract
     Alice 14 "Макс!!! Опять подглядываешь за мной?! Ну-ка живо отвернись и стой на месте!" nointeract
 
-# game/scripts/story_01/bathroom.rpy:718
+# game/scripts/story_01/bathroom.rpy:719
 translate crowdin ev_alice_shower_caught_2008ed01:
 
     # Alice 14 "Макс!!! Подглядывать за мной удумал?! Ну-ка живо отвернись и стой на месте!" nointeract
     Alice 14 "Макс!!! Подглядывать за мной удумал?! Ну-ка живо отвернись и стой на месте!" nointeract
 
-# game/scripts/story_01/bathroom.rpy:728
+# game/scripts/story_01/bathroom.rpy:729
 translate crowdin ev_alice_shower_caught_60cf139d:
 
     # tMax 12 "Вот угораздило! С такими большими окнами у меня могут быть проблемы даже если я не подсматривал за девчонками, а просто проходил мимо."
     tMax 12 "Вот угораздило! С такими большими окнами у меня могут быть проблемы даже если я не подсматривал за девчонками, а просто проходил мимо."
 
-# game/scripts/story_01/bathroom.rpy:729
+# game/scripts/story_01/bathroom.rpy:730
 translate crowdin ev_alice_shower_caught_e96b36eb:
 
     # tMax 13 "Сейчас уже поздно что-то делать, но если я попадусь Алисе снова, то нужно будет искать способ всё уладить без мамы."
     tMax 13 "Сейчас уже поздно что-то делать, но если я попадусь Алисе снова, то нужно будет искать способ всё уладить без мамы."
 
-# game/scripts/story_01/bathroom.rpy:730
+# game/scripts/story_01/bathroom.rpy:731
 translate crowdin ev_alice_shower_caught_010923b6:
 
     # tMax 16 "И зная Алису, скорее всего, мне лучше иметь в кармане лишние деньги. Иначе я вряд ли смогу отвертеться..."
     tMax 16 "И зная Алису, скорее всего, мне лучше иметь в кармане лишние деньги. Иначе я вряд ли смогу отвертеться..."
 
-# game/scripts/story_01/bathroom.rpy:748
+# game/scripts/story_01/bathroom.rpy:749
 translate crowdin ev_alice_shower_voy_04_0525e26d:
 
     # tMax 04 "Эх, самое интересное продолжалось недолго... Единственное, что напоследок остаётся сделать, это насладиться тем, как она вытирает свои бесподобные сисечки!" nointeract
     tMax 04 "Эх, самое интересное продолжалось недолго... Единственное, что напоследок остаётся сделать, это насладиться тем, как она вытирает свои бесподобные сисечки!" nointeract
 
-# game/scripts/story_01/bathroom.rpy:758
+# game/scripts/story_01/bathroom.rpy:759
 translate crowdin ev_alice_shower_voy_04_e5e9612e:
 
     # tMax 15 "Ох, чёрт! Вроде, не заметила! Нужно скорее уносить ноги, пока они ещё есть..." nointeract
     tMax 15 "Ох, чёрт! Вроде, не заметила! Нужно скорее уносить ноги, пока они ещё есть..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:769
+# game/scripts/story_01/bathroom.rpy:770
 translate crowdin ev_alice_shower_cooldown_c4d01fb7:
 
     # tMax 12 "Алиса совсем недавно уже ловила меня, когда я подглядывал за ней. Лучше не рисковать лишний раз и подождать хотя бы несколько дней..." nointeract
     tMax 12 "Алиса совсем недавно уже ловила меня, когда я подглядывал за ней. Лучше не рисковать лишний раз и подождать хотя бы несколько дней..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:771
+# game/scripts/story_01/bathroom.rpy:772
 translate crowdin ev_alice_shower_cooldown_10e5456f:
 
     # Max 12 "Алиса совсем недавно уже ловила меня, когда я подглядывал за ней. Лучше не рисковать лишний раз и подождать хотя бы ещё денёк..." nointeract
     Max 12 "Алиса совсем недавно уже ловила меня, когда я подглядывал за ней. Лучше не рисковать лишний раз и подождать хотя бы ещё денёк..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:792
+# game/scripts/story_01/bathroom.rpy:793
 translate crowdin ev_alice_shower_excuses_bdbd0b97:
 
     # Max 11 "Ты только не горячись... Я за тобой не подглядывал..."
     Max 11 "Ты только не горячись... Я за тобой не подглядывал..."
 
-# game/scripts/story_01/bathroom.rpy:795
+# game/scripts/story_01/bathroom.rpy:796
 translate crowdin ev_alice_shower_excuses_0957cc8c:
 
     # Alice 16 "Я по-твоему полная дура что ли?! Ты стоял за стеной, и нагло смотрел, как я принимаю душ!"
     Alice 16 "Я по-твоему полная дура что ли?! Ты стоял за стеной, и нагло смотрел, как я принимаю душ!"
 
-# game/scripts/story_01/bathroom.rpy:796
+# game/scripts/story_01/bathroom.rpy:797
 translate crowdin ev_alice_shower_excuses_e1a3c866:
 
     # Max 16 "А-а-ай! Алиса! Так получилось не специально... Я просто шёл мимо... "
     Max 16 "А-а-ай! Алиса! Так получилось не специально... Я просто шёл мимо... "
 
-# game/scripts/story_01/bathroom.rpy:800
+# game/scripts/story_01/bathroom.rpy:801
 translate crowdin ev_alice_shower_excuses_24c09c08:
 
     # Alice 11 "Да, да, конечно... Я очень хочу посмотреть, что с тобой сделает мама, когда об этом узнает..."
     Alice 11 "Да, да, конечно... Я очень хочу посмотреть, что с тобой сделает мама, когда об этом узнает..."
 
-# game/scripts/story_01/bathroom.rpy:801
+# game/scripts/story_01/bathroom.rpy:802
 translate crowdin ev_alice_shower_excuses_7886c633:
 
     # Max 14 "Да, знаю, в такое очень трудно поверить, но я просто шёл мимо, а ты душ как раз принимала... Ну, я и отскочил к стене... где ты меня и заметила... Вот и всё, я даже и не видел ничего такого!"
     Max 14 "Да, знаю, в такое очень трудно поверить, но я просто шёл мимо, а ты душ как раз принимала... Ну, я и отскочил к стене... где ты меня и заметила... Вот и всё, я даже и не видел ничего такого!"
 
-# game/scripts/story_01/bathroom.rpy:802
+# game/scripts/story_01/bathroom.rpy:803
 translate crowdin ev_alice_shower_excuses_87d7d8fd:
 
     # Alice 15 "Ну вот никак мне в это не верится, Макс! Никаких твоих оправданий не хватит, чтобы я на это клюнула."
     Alice 15 "Ну вот никак мне в это не верится, Макс! Никаких твоих оправданий не хватит, чтобы я на это клюнула."
 
-# game/scripts/story_01/bathroom.rpy:803
+# game/scripts/story_01/bathroom.rpy:804
 translate crowdin ev_alice_shower_excuses_91751616:
 
     # Max 13 "Тогда, может представим, что ничего не было? Ты ничего не говоришь маме, а я в свою очередь извинюсь перед тобой с помощью чего-нибудь вкусненького..."
     Max 13 "Тогда, может представим, что ничего не было? Ты ничего не говоришь маме, а я в свою очередь извинюсь перед тобой с помощью чего-нибудь вкусненького..."
 
-# game/scripts/story_01/bathroom.rpy:804
+# game/scripts/story_01/bathroom.rpy:805
 translate crowdin ev_alice_shower_excuses_8c59781c:
 
     # Alice 11 "Ах ты... паршивец! Это подлый ход, потому что от вкусняшки я бы не отказалась..."
     Alice 11 "Ах ты... паршивец! Это подлый ход, потому что от вкусняшки я бы не отказалась..."
 
-# game/scripts/story_01/bathroom.rpy:805
+# game/scripts/story_01/bathroom.rpy:806
 translate crowdin ev_alice_shower_excuses_908cab9c:
 
     # Max 16 "Так значит, договорились? И, может, отпустишь?"
     Max 16 "Так значит, договорились? И, может, отпустишь?"
 
-# game/scripts/story_01/bathroom.rpy:808
+# game/scripts/story_01/bathroom.rpy:809
 translate crowdin ev_alice_shower_excuses_f19dda2b:
 
     # Alice 04 "Хм... Хорошо, но обещать ничего не буду. Сперва посмотрю, что ты мне купишь... Времени у тебя до вечера!"
     Alice 04 "Хм... Хорошо, но обещать ничего не буду. Сперва посмотрю, что ты мне купишь... Времени у тебя до вечера!"
 
-# game/scripts/story_01/bathroom.rpy:812
+# game/scripts/story_01/bathroom.rpy:813
 translate crowdin ev_alice_shower_excuses_985ac206:
 
     # Alice 11 "Да, да, конечно... А я, между прочим, всё ещё жду сладости, которые ты обещал ещё в тот раз! И о совпадение, тот раз тоже был случайным."
     Alice 11 "Да, да, конечно... А я, между прочим, всё ещё жду сладости, которые ты обещал ещё в тот раз! И о совпадение, тот раз тоже был случайным."
 
-# game/scripts/story_01/bathroom.rpy:813
+# game/scripts/story_01/bathroom.rpy:814
 translate crowdin ev_alice_shower_excuses_c0b8d9bf:
 
     # Max 12 "Да, знаю. В тот раз не получилось..."
     Max 12 "Да, знаю. В тот раз не получилось..."
 
-# game/scripts/story_01/bathroom.rpy:814
+# game/scripts/story_01/bathroom.rpy:815
 translate crowdin ev_alice_shower_excuses_8269222c:
 
     # Alice 15 "А что так? Из головы вылетело? Так я сейчас ухо тут одно подкручу, может и вылетать ничего не будет..."
     Alice 15 "А что так? Из головы вылетело? Так я сейчас ухо тут одно подкручу, может и вылетать ничего не будет..."
 
-# game/scripts/story_01/bathroom.rpy:815
+# game/scripts/story_01/bathroom.rpy:816
 translate crowdin ev_alice_shower_excuses_35fb8962:
 
     # Max 14 "Ой! Не надо! Сегодня всё будет! Только отпусти..."
     Max 14 "Ой! Не надо! Сегодня всё будет! Только отпусти..."
 
-# game/scripts/story_01/bathroom.rpy:818
+# game/scripts/story_01/bathroom.rpy:819
 translate crowdin ev_alice_shower_excuses_94308942:
 
     # Alice 04 "То-то же! Жду до вечера, а потом сдам тебя маме, понял?"
     Alice 04 "То-то же! Жду до вечера, а потом сдам тебя маме, понял?"
 
-# game/scripts/story_01/bathroom.rpy:821
+# game/scripts/story_01/bathroom.rpy:822
 translate crowdin ev_alice_shower_excuses_061b5886:
 
     # Alice 11 "Да, да, конечно... Надеюсь, сегодня я получу что-то повкуснее того, что было в прошлый раз. Или тебя сразу сдать маме?"
     Alice 11 "Да, да, конечно... Надеюсь, сегодня я получу что-то повкуснее того, что было в прошлый раз. Или тебя сразу сдать маме?"
 
-# game/scripts/story_01/bathroom.rpy:822
+# game/scripts/story_01/bathroom.rpy:823
 translate crowdin ev_alice_shower_excuses_35fb8962_1:
 
     # Max 14 "Ой! Не надо! Сегодня всё будет! Только отпусти..."
     Max 14 "Ой! Не надо! Сегодня всё будет! Только отпусти..."
 
-# game/scripts/story_01/bathroom.rpy:825
+# game/scripts/story_01/bathroom.rpy:826
 translate crowdin ev_alice_shower_excuses_94308942_1:
 
     # Alice 04 "То-то же! Жду до вечера, а потом сдам тебя маме, понял?"
     Alice 04 "То-то же! Жду до вечера, а потом сдам тебя маме, понял?"
 
-# game/scripts/story_01/bathroom.rpy:827
+# game/scripts/story_01/bathroom.rpy:828
 translate crowdin ev_alice_shower_excuses_311d2fdd:
 
     # Max 12 "Вот чёрт! Я постараюсь успеть..."
     Max 12 "Вот чёрт! Я постараюсь успеть..."
 
-# game/scripts/story_01/bathroom.rpy:829
+# game/scripts/story_01/bathroom.rpy:830
 translate crowdin ev_alice_shower_excuses_3e7eea8c:
 
     # Alice 11 "И молись, чтобы мне понравилось!" nointeract
     Alice 11 "И молись, чтобы мне понравилось!" nointeract
 
-# game/scripts/story_01/bathroom.rpy:844
+# game/scripts/story_01/bathroom.rpy:845
 translate crowdin ev_alice_shower_excuses2_316900ad:
 
     # Max 11 "Извини, так уж получилось! Я не хотел..."
     Max 11 "Извини, так уж получилось! Я не хотел..."
 
-# game/scripts/story_01/bathroom.rpy:845
+# game/scripts/story_01/bathroom.rpy:846
 translate crowdin ev_alice_shower_excuses2_f540599f:
 
     # Alice 03 "Ой, Макс, конечно же я тебя прощаю! Не переживай ты так... Всё прекрасно!"
     Alice 03 "Ой, Макс, конечно же я тебя прощаю! Не переживай ты так... Всё прекрасно!"
 
-# game/scripts/story_01/bathroom.rpy:846
+# game/scripts/story_01/bathroom.rpy:847
 translate crowdin ev_alice_shower_excuses2_463b12e5:
 
     # Max 12 "Э-э-э... Правда?!"
     Max 12 "Э-э-э... Правда?!"
 
-# game/scripts/story_01/bathroom.rpy:850
+# game/scripts/story_01/bathroom.rpy:851
 translate crowdin ev_alice_shower_excuses2_34ff4f4a:
 
     # Alice 16 "Конечно нет, дубина! Стоял снова и глазел на меня голую! Мама обязательно об этом узнает..."
     Alice 16 "Конечно нет, дубина! Стоял снова и глазел на меня голую! Мама обязательно об этом узнает..."
 
-# game/scripts/story_01/bathroom.rpy:851
+# game/scripts/story_01/bathroom.rpy:852
 translate crowdin ev_alice_shower_excuses2_85ae7271:
 
     # Max 16 "А-а-ай! А вдруг это была случайность и ты напрасно меня сдашь?"
     Max 16 "А-а-ай! А вдруг это была случайность и ты напрасно меня сдашь?"
 
-# game/scripts/story_01/bathroom.rpy:852
+# game/scripts/story_01/bathroom.rpy:853
 translate crowdin ev_alice_shower_excuses2_d5ec70ac:
 
     # Alice 15 "Макс, какая это случайность, стоять за углом и глазеть на меня?!"
     Alice 15 "Макс, какая это случайность, стоять за углом и глазеть на меня?!"
 
-# game/scripts/story_01/bathroom.rpy:853
+# game/scripts/story_01/bathroom.rpy:854
 translate crowdin ev_alice_shower_excuses2_b5b3feec:
 
     # Max 14 "Понимаю, верится с большим трудом. Тогда давай это разрешим без мамы?"
     Max 14 "Понимаю, верится с большим трудом. Тогда давай это разрешим без мамы?"
 
-# game/scripts/story_01/bathroom.rpy:857
+# game/scripts/story_01/bathroom.rpy:858
 translate crowdin ev_alice_shower_excuses2_659c8279:
 
     # Alice 11 "Снова хочешь купить моё молчание сладостью? Серьёзно?!"
     Alice 11 "Снова хочешь купить моё молчание сладостью? Серьёзно?!"
 
-# game/scripts/story_01/bathroom.rpy:858
+# game/scripts/story_01/bathroom.rpy:859
 translate crowdin ev_alice_shower_excuses2_de48dfd3:
 
     # Max 01 "Да, серьёзно! Попытка - не пытка..."
     Max 01 "Да, серьёзно! Попытка - не пытка..."
 
-# game/scripts/story_01/bathroom.rpy:859
+# game/scripts/story_01/bathroom.rpy:860
 translate crowdin ev_alice_shower_excuses2_e3a9b18f:
 
     # Alice 04 "Ты, конечно, можешь попробовать, от чего-нибудь сладенького я не откажусь, но ты же понимаешь, что мне должно это очень понравиться."
     Alice 04 "Ты, конечно, можешь попробовать, от чего-нибудь сладенького я не откажусь, но ты же понимаешь, что мне должно это очень понравиться."
 
-# game/scripts/story_01/bathroom.rpy:860
+# game/scripts/story_01/bathroom.rpy:861
 translate crowdin ev_alice_shower_excuses2_159f644d:
 
     # Max 11 "Само собой. Только не торопись жаловаться на меня маме. Идёт?"
     Max 11 "Само собой. Только не торопись жаловаться на меня маме. Идёт?"
 
-# game/scripts/story_01/bathroom.rpy:862
+# game/scripts/story_01/bathroom.rpy:863
 translate crowdin ev_alice_shower_excuses2_50aa4f76:
 
     # Alice 11 "Ничего не обещаю. До ужина время у тебя есть, так что не опаздывай, Макс!" nointeract
     Alice 11 "Ничего не обещаю. До ужина время у тебя есть, так что не опаздывай, Макс!" nointeract
 
-# game/scripts/story_01/bathroom.rpy:872
+# game/scripts/story_01/bathroom.rpy:873
 translate crowdin ev_alice_shower_day_5_ba0cb1cf:
 
     # tMax 12 "Я должен постараться спасти Алису от наказания за курение в комнате, так что лучше не рисковать сегодня утром. Если попадусь, то меня накажут, да и Алису я не спасу..." nointeract
     tMax 12 "Я должен постараться спасти Алису от наказания за курение в комнате, так что лучше не рисковать сегодня утром. Если попадусь, то меня накажут, да и Алису я не спасу..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:881
+# game/scripts/story_01/bathroom.rpy:882
 translate crowdin ev_alice_shower_caught_hint_b41ba447:
 
     # tMax 13 "Интересно, а что будет, если Алиса заметит, как я подглядываю за ней? Шуму будет много, но смогу ли я отвертеться от последствий?"
     tMax 13 "Интересно, а что будет, если Алиса заметит, как я подглядываю за ней? Шуму будет много, но смогу ли я отвертеться от последствий?"
 
-# game/scripts/story_01/bathroom.rpy:882
+# game/scripts/story_01/bathroom.rpy:883
 translate crowdin ev_alice_shower_caught_hint_8e7d075d:
 
     # tMax 11 "Думаю, можно будет попробовать, а то как знать к чему это приведёт. Если, она меня заметит, конечно..."
     tMax 11 "Думаю, можно будет попробовать, а то как знать к чему это приведёт. Если, она меня заметит, конечно..."
 
-# game/scripts/story_01/bathroom.rpy:901
+# game/scripts/story_01/bathroom.rpy:902
 translate crowdin ev_max_shower_aebad0a2:
 
     # tMax 07 "Всё-таки чистым быть намного лучше. Хотя, не всегда хочется..." nointeract
     tMax 07 "Всё-таки чистым быть намного лучше. Хотя, не всегда хочется..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:919
+# game/scripts/story_01/bathroom.rpy:920
 translate crowdin ev_ann_bath_c167172f:
 
     # tMax 11 "Сейчас ванная комната должна быть занята мамой..." nointeract
     tMax 11 "Сейчас ванная комната должна быть занята мамой..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:950
+# game/scripts/story_01/bathroom.rpy:951
 translate crowdin ev_ann_bath_voy_e6d96b77:
 
     # tMax 13 "Подглядывая таким образом, ничего интересного я здесь не увижу..." nointeract
     tMax 13 "Подглядывая таким образом, ничего интересного я здесь не увижу..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:954
+# game/scripts/story_01/bathroom.rpy:955
 translate crowdin ev_ann_bath_voy_4540e23f:
 
     # tMax 14 "Эх... Жаль, что на стеклах есть эти скрывающие полоски. Самое интересное не разглядеть. А если подобраться ближе, то мама наверняка меня заметит..."
     tMax 14 "Эх... Жаль, что на стеклах есть эти скрывающие полоски. Самое интересное не разглядеть. А если подобраться ближе, то мама наверняка меня заметит..."
 
-# game/scripts/story_01/bathroom.rpy:955
+# game/scripts/story_01/bathroom.rpy:956
 translate crowdin ev_ann_bath_voy_d9c6dfa5:
 
     # tMax 11 "А вот через заднее окно, как мне кажется, открылся бы просто шикарный вид на ванну! Конечно же дело не в самой ванне, а в том, кто будет её принимать."
     tMax 11 "А вот через заднее окно, как мне кажется, открылся бы просто шикарный вид на ванну! Конечно же дело не в самой ванне, а в том, кто будет её принимать."
 
-# game/scripts/story_01/bathroom.rpy:956
+# game/scripts/story_01/bathroom.rpy:957
 translate crowdin ev_ann_bath_voy_d271c0c3:
 
     # tMax 13 "Только вот расположено оно высоковато... Нужно достать что-то, с чего будет удобно подглядывать и что не вызовет, в случае чего, подозрений..."
     tMax 13 "Только вот расположено оно высоковато... Нужно достать что-то, с чего будет удобно подглядывать и что не вызовет, в случае чего, подозрений..."
 
-# game/scripts/story_01/bathroom.rpy:958
+# game/scripts/story_01/bathroom.rpy:959
 translate crowdin ev_ann_bath_voy_52d9212e:
 
     # tMax 02 "Возможно, подойдёт лестница, а ещё лучше стремянка. О да, пожалуй, это будет именно то, что нужно!" nointeract
@@ -966,343 +966,343 @@ translate crowdin ev_lisa_bath_voy_52d9212e:
     # tMax 02 "Возможно, подойдёт лестница, а ещё лучше стремянка. О да, пожалуй, это будет именно то, что нужно!" nointeract
     tMax 02 "Возможно, подойдёт лестница, а ещё лучше стремянка. О да, пожалуй, это будет именно то, что нужно!" nointeract
 
-# game/scripts/story_01/bathroom.rpy:1155
+# game/scripts/story_01/bathroom.rpy:1154
 translate crowdin ev_lisa_bath_enter1_e70b6691:
 
     # tMax 05 "Лиза как раз собирается принимать ванну... О да, моя младшая сестрёнка хороша, а её голенькие сисечки, так особенно!" nointeract
     tMax 05 "Лиза как раз собирается принимать ванну... О да, моя младшая сестрёнка хороша, а её голенькие сисечки, так особенно!" nointeract
 
-# game/scripts/story_01/bathroom.rpy:1165
+# game/scripts/story_01/bathroom.rpy:1164
 translate crowdin ev_lisa_bath_enter1_3ec7f598:
 
     # Lisa 14 "Макс! А постучаться?! Я же не одета!!! {p=2}{nw}"
     Lisa 14 "Макс! А постучаться?! Я же не одета!!! {p=2}{nw}"
 
-# game/scripts/story_01/bathroom.rpy:1169
+# game/scripts/story_01/bathroom.rpy:1168
 translate crowdin ev_lisa_bath_enter1_9306fa3f:
 
     # Lisa 15 "Быстро выйди отсюда и жди, пока я не освобожу ванную комнату!" nointeract
     Lisa 15 "Быстро выйди отсюда и жди, пока я не освобожу ванную комнату!" nointeract
 
-# game/scripts/story_01/bathroom.rpy:1174
+# game/scripts/story_01/bathroom.rpy:1173
 translate crowdin ev_lisa_bath_enter1_740e05fa:
 
     # Lisa 14 "Макс! А постучаться?! Я же не одета!!! Быстро выйди отсюда и жди, пока я не освобожу ванную комнату!" nointeract
     Lisa 14 "Макс! А постучаться?! Я же не одета!!! Быстро выйди отсюда и жди, пока я не освобожу ванную комнату!" nointeract
 
-# game/scripts/story_01/bathroom.rpy:1187
+# game/scripts/story_01/bathroom.rpy:1186
 translate crowdin ev_lisa_bath_enter2_db8d5715:
 
     # tMax 05 "Ох, вот это повезло! Лиза демонстрирует свои прелестные сисечки словно специально! Разумеется, она не знает, что я смотрю, а то крику бы было..." nointeract
     tMax 05 "Ох, вот это повезло! Лиза демонстрирует свои прелестные сисечки словно специально! Разумеется, она не знает, что я смотрю, а то крику бы было..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:1195
+# game/scripts/story_01/bathroom.rpy:1194
 translate crowdin ev_lisa_bath_enter2_740e05fa:
 
     # Lisa 14 "Макс! А постучаться?! Я же не одета!!! Быстро выйди отсюда и жди, пока я не освобожу ванную комнату!" nointeract
     Lisa 14 "Макс! А постучаться?! Я же не одета!!! Быстро выйди отсюда и жди, пока я не освобожу ванную комнату!" nointeract
 
-# game/scripts/story_01/bathroom.rpy:1207
+# game/scripts/story_01/bathroom.rpy:1206
 translate crowdin ev_lisa_bath_enter3_5c2fb3ef:
 
     # tMax 05 "Эх, вот и кончились водные процедуры... И с этой классной попкой я живу в одной комнате! Красота..." nointeract
     tMax 05 "Эх, вот и кончились водные процедуры... И с этой классной попкой я живу в одной комнате! Красота..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:1215
+# game/scripts/story_01/bathroom.rpy:1214
 translate crowdin ev_lisa_bath_enter3_740e05fa:
 
     # Lisa 14 "Макс! А постучаться?! Я же не одета!!! Быстро выйди отсюда и жди, пока я не освобожу ванную комнату!" nointeract
     Lisa 14 "Макс! А постучаться?! Я же не одета!!! Быстро выйди отсюда и жди, пока я не освобожу ванную комнату!" nointeract
 
-# game/scripts/story_01/bathroom.rpy:1221
+# game/scripts/story_01/bathroom.rpy:1220
 translate crowdin ev_lisa_bath_lvl_1_dd12305b:
 
     # Lisa 10 "Перебьёшься... И хватит пялиться! Если не уйдёшь, то я всё маме расскажу!" nointeract
     Lisa 10 "Перебьёшься... И хватит пялиться! Если не уйдёшь, то я всё маме расскажу!" nointeract
 
-# game/scripts/story_01/bathroom.rpy:1227
+# game/scripts/story_01/bathroom.rpy:1226
 translate crowdin ev_lisa_bath_lvl_1_094540f3:
 
     # Lisa 11 "И что?! Меня теперь из-за этого стоять и разглядывать можно?! Уходи давай!" nointeract
     Lisa 11 "И что?! Меня теперь из-за этого стоять и разглядывать можно?! Уходи давай!" nointeract
 
-# game/scripts/story_01/bathroom.rpy:1237
+# game/scripts/story_01/bathroom.rpy:1236
 translate crowdin ev_lisa_bath_cooldown_8d07e541:
 
     # tMax 12 "Совсем недавно я уже пытался подсмотреть за Лизой в ванной, но неудачно. Лучше не рисковать лишний раз и подождать хотя бы несколько дней..." nointeract
     tMax 12 "Совсем недавно я уже пытался подсмотреть за Лизой в ванной, но неудачно. Лучше не рисковать лишний раз и подождать хотя бы несколько дней..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:1239
+# game/scripts/story_01/bathroom.rpy:1238
 translate crowdin ev_lisa_bath_cooldown_182c2e48:
 
     # tMax 12 "Совсем недавно я уже пытался подсмотреть за Лизой в ванной, но неудачно. Лучше не рисковать лишний раз и подождать хотя бы ещё денёк..." nointeract
     tMax 12 "Совсем недавно я уже пытался подсмотреть за Лизой в ванной, но неудачно. Лучше не рисковать лишний раз и подождать хотя бы ещё денёк..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:1267
+# game/scripts/story_01/bathroom.rpy:1266
 translate crowdin ev_alice_bath_8f9443ee:
 
     # tMax 11 "Сейчас ванная комната должна быть занята Алисой..." nointeract
     tMax 11 "Сейчас ванная комната должна быть занята Алисой..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:1301
+# game/scripts/story_01/bathroom.rpy:1300
 translate crowdin ev_alice_bath_voy_e6d96b77:
 
     # tMax 13 "Подглядывая таким образом, ничего интересного я здесь не увижу..." nointeract
     tMax 13 "Подглядывая таким образом, ничего интересного я здесь не увижу..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:1305
+# game/scripts/story_01/bathroom.rpy:1304
 translate crowdin ev_alice_bath_voy_80965e86:
 
     # tMax 14 "Эх... Жаль, что на стеклах есть эти скрывающие полоски. Самое интересное не разглядеть. А если подобраться ближе, то Алиса наверняка меня заметит..."
     tMax 14 "Эх... Жаль, что на стеклах есть эти скрывающие полоски. Самое интересное не разглядеть. А если подобраться ближе, то Алиса наверняка меня заметит..."
 
-# game/scripts/story_01/bathroom.rpy:1306
+# game/scripts/story_01/bathroom.rpy:1305
 translate crowdin ev_alice_bath_voy_d9c6dfa5:
 
     # tMax 11 "А вот через заднее окно, как мне кажется, открылся бы просто шикарный вид на ванну! Конечно же дело не в самой ванне, а в том, кто будет её принимать."
     tMax 11 "А вот через заднее окно, как мне кажется, открылся бы просто шикарный вид на ванну! Конечно же дело не в самой ванне, а в том, кто будет её принимать."
 
-# game/scripts/story_01/bathroom.rpy:1307
+# game/scripts/story_01/bathroom.rpy:1306
 translate crowdin ev_alice_bath_voy_d271c0c3:
 
     # tMax 13 "Только вот расположено оно высоковато... Нужно достать что-то, с чего будет удобно подглядывать и что не вызовет, в случае чего, подозрений..."
     tMax 13 "Только вот расположено оно высоковато... Нужно достать что-то, с чего будет удобно подглядывать и что не вызовет, в случае чего, подозрений..."
 
-# game/scripts/story_01/bathroom.rpy:1309
+# game/scripts/story_01/bathroom.rpy:1308
 translate crowdin ev_alice_bath_voy_52d9212e:
 
     # tMax 02 "Возможно, подойдёт лестница, а ещё лучше стремянка. О да, пожалуй, это будет именно то, что нужно!" nointeract
     tMax 02 "Возможно, подойдёт лестница, а ещё лучше стремянка. О да, пожалуй, это будет именно то, что нужно!" nointeract
 
-# game/scripts/story_01/bathroom.rpy:1327
+# game/scripts/story_01/bathroom.rpy:1325
 translate crowdin ev_alice_bath_enter1_65b6a0d3:
 
     # tMax 05 "Вот это повезло! Алиса как раз собирается принять ванну... Её шикарная фигура меня просто завораживает! Так бы любовался и любовался..." nointeract
     tMax 05 "Вот это повезло! Алиса как раз собирается принять ванну... Её шикарная фигура меня просто завораживает! Так бы любовался и любовался..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:1340
+# game/scripts/story_01/bathroom.rpy:1338
 translate crowdin ev_alice_bath_enter1_148b7501:
 
     # Alice 14 "Вот чёрт! Макс, ты зачем припёрся?! Занято тут!!! {p=2}{nw}"
     Alice 14 "Вот чёрт! Макс, ты зачем припёрся?! Занято тут!!! {p=2}{nw}"
 
-# game/scripts/story_01/bathroom.rpy:1344
+# game/scripts/story_01/bathroom.rpy:1342
 translate crowdin ev_alice_bath_enter1_8676de9a:
 
     # Alice 15 "Чтобы больше я тебя здесь не видела в такое позднее время!" nointeract
     Alice 15 "Чтобы больше я тебя здесь не видела в такое позднее время!" nointeract
 
-# game/scripts/story_01/bathroom.rpy:1350
+# game/scripts/story_01/bathroom.rpy:1348
 translate crowdin ev_alice_bath_enter1_98e8db66:
 
     # Alice 14 "Вот чёрт! Макс, ты зачем припёрся?! Занято тут!!! Чтобы больше я тебя здесь не видела в такое позднее время!" nointeract
     Alice 14 "Вот чёрт! Макс, ты зачем припёрся?! Занято тут!!! Чтобы больше я тебя здесь не видела в такое позднее время!" nointeract
 
-# game/scripts/story_01/bathroom.rpy:1364
+# game/scripts/story_01/bathroom.rpy:1362
 translate crowdin ev_alice_bath_enter2_ee72b15b:
 
     # tMax 05 "Опа! Кажется, Алиса снова решила разбавить пребывание в ванне кое-чем «весёленьким». Какая красота..." nointeract
     tMax 05 "Опа! Кажется, Алиса снова решила разбавить пребывание в ванне кое-чем «весёленьким». Какая красота..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:1374
+# game/scripts/story_01/bathroom.rpy:1372
 translate crowdin ev_alice_bath_enter2_59267b2d:
 
     # tMax 06 "Ухх... Не каждый день увидишь, как сестрёнка ласкает свою киску лёжа в ванне! Ещё бы пена самое интересное так сильно не скрывала и было бы обалденное шоу..." nointeract
     tMax 06 "Ухх... Не каждый день увидишь, как сестрёнка ласкает свою киску лёжа в ванне! Ещё бы пена самое интересное так сильно не скрывала и было бы обалденное шоу..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:1382
+# game/scripts/story_01/bathroom.rpy:1380
 translate crowdin ev_alice_bath_enter2_03814bc8:
 
     # Alice 17 "Вот чёрт, Макс!!! Ты что здесь делаешь?! Пошёл вон отсюда, я принимаю ванну!"
     Alice 17 "Вот чёрт, Макс!!! Ты что здесь делаешь?! Пошёл вон отсюда, я принимаю ванну!"
 
-# game/scripts/story_01/bathroom.rpy:1383
+# game/scripts/story_01/bathroom.rpy:1381
 translate crowdin ev_alice_bath_enter2_302e2099:
 
     # Max 02 "Да?! А мне показалось..."
     Max 02 "Да?! А мне показалось..."
 
-# game/scripts/story_01/bathroom.rpy:1384
+# game/scripts/story_01/bathroom.rpy:1382
 translate crowdin ev_alice_bath_enter2_8a20549b:
 
     # Alice 16 "Вот именно, что показалось, Макс! Вали отсюда, если не хочешь, чтобы я нажаловалась на тебя маме..."
     Alice 16 "Вот именно, что показалось, Макс! Вали отсюда, если не хочешь, чтобы я нажаловалась на тебя маме..."
 
-# game/scripts/story_01/bathroom.rpy:1385
+# game/scripts/story_01/bathroom.rpy:1383
 translate crowdin ev_alice_bath_enter2_277924f2:
 
     # Max 01 "Тогда она может узнать кое-что и о тебе!"
     Max 01 "Тогда она может узнать кое-что и о тебе!"
 
-# game/scripts/story_01/bathroom.rpy:1387
+# game/scripts/story_01/bathroom.rpy:1385
 translate crowdin ev_alice_bath_enter2_406ee90c:
 
     # Alice 15 "Какой же ты... И перестань на меня глазеть! Вали отсюда!!! " nointeract
     Alice 15 "Какой же ты... И перестань на меня глазеть! Вали отсюда!!! " nointeract
 
-# game/scripts/story_01/bathroom.rpy:1401
+# game/scripts/story_01/bathroom.rpy:1399
 translate crowdin ev_alice_bath_enter2_51a75ca4:
 
     # tMax 05 "Черт возьми! Она меня что, специально дразнит своей мокренькой грудью? Может моя старшая сестрёнка и стерва, но какая же она горячая! Очень сексуальна..." nointeract
     tMax 05 "Черт возьми! Она меня что, специально дразнит своей мокренькой грудью? Может моя старшая сестрёнка и стерва, но какая же она горячая! Очень сексуальна..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:1411
+# game/scripts/story_01/bathroom.rpy:1409
 translate crowdin ev_alice_bath_enter2_98e8db66:
 
     # Alice 14 "Вот чёрт! Макс, ты зачем припёрся?! Занято тут!!! Чтобы больше я тебя здесь не видела в такое позднее время!" nointeract
     Alice 14 "Вот чёрт! Макс, ты зачем припёрся?! Занято тут!!! Чтобы больше я тебя здесь не видела в такое позднее время!" nointeract
 
-# game/scripts/story_01/bathroom.rpy:1424
+# game/scripts/story_01/bathroom.rpy:1422
 translate crowdin ev_alice_bath_enter3_a79315d7:
 
     # tMax 05 "Эх, Алиса уже вытирается... Единственное, что напоследок остаётся сделать, это насладиться видом её бесподобных сисечек!" nointeract
     tMax 05 "Эх, Алиса уже вытирается... Единственное, что напоследок остаётся сделать, это насладиться видом её бесподобных сисечек!" nointeract
 
-# game/scripts/story_01/bathroom.rpy:1434
+# game/scripts/story_01/bathroom.rpy:1432
 translate crowdin ev_alice_bath_enter3_98e8db66:
 
     # Alice 14 "Вот чёрт! Макс, ты зачем припёрся?! Занято тут!!! Чтобы больше я тебя здесь не видела в такое позднее время!" nointeract
     Alice 14 "Вот чёрт! Макс, ты зачем припёрся?! Занято тут!!! Чтобы больше я тебя здесь не видела в такое позднее время!" nointeract
 
-# game/scripts/story_01/bathroom.rpy:1440
+# game/scripts/story_01/bathroom.rpy:1438
 translate crowdin ev_alice_bath_lvl_1_bdbba955:
 
     # Alice 15 "А ты, видимо, стоять и пялиться будешь в это время, да? У меня даже сил нет с тобой сюсюкаться, просто утоплю. Иди-ка сюда..." nointeract
     Alice 15 "А ты, видимо, стоять и пялиться будешь в это время, да? У меня даже сил нет с тобой сюсюкаться, просто утоплю. Иди-ка сюда..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:1446
+# game/scripts/story_01/bathroom.rpy:1444
 translate crowdin ev_alice_bath_lvl_1_fefae070:
 
     # Alice 11 "Обойдёшься, рожа ты нахальная! Живо выйди и больше не пугай меня, а то отпинаю..." nointeract
     Alice 11 "Обойдёшься, рожа ты нахальная! Живо выйди и больше не пугай меня, а то отпинаю..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:1456
+# game/scripts/story_01/bathroom.rpy:1454
 translate crowdin ev_alice_bath_cooldown_53452278:
 
     # tMax 12 "Совсем недавно я уже пытался подсмотреть за Алисой в ванной, но неудачно. Лучше не рисковать лишний раз и подождать хотя бы несколько дней..." nointeract
     tMax 12 "Совсем недавно я уже пытался подсмотреть за Алисой в ванной, но неудачно. Лучше не рисковать лишний раз и подождать хотя бы несколько дней..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:1458
+# game/scripts/story_01/bathroom.rpy:1456
 translate crowdin ev_alice_bath_cooldown_eda53f94:
 
     # tMax 12 "Совсем недавно я уже пытался подсмотреть за Алисой в ванной, но неудачно. Лучше не рисковать лишний раз и подождать хотя бы ещё денёк..." nointeract
     tMax 12 "Совсем недавно я уже пытался подсмотреть за Алисой в ванной, но неудачно. Лучше не рисковать лишний раз и подождать хотя бы ещё денёк..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:1488
+# game/scripts/story_01/bathroom.rpy:1486
 translate crowdin ev_max_bath_68c11190:
 
     # tMax 07 "Всё-таки чистым быть намного лучше. Особенно, когда есть такая шикарная ванна..." nointeract
     tMax 07 "Всё-таки чистым быть намного лучше. Особенно, когда есть такая шикарная ванна..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:1503
+# game/scripts/story_01/bathroom.rpy:1501
 translate crowdin ev_075_3395896e:
 
     # tMax 03 "Вот куда бы я обязательно заглянул перед сном, так это в ванную комнату к Алисе..."
     tMax 03 "Вот куда бы я обязательно заглянул перед сном, так это в ванную комнату к Алисе..."
 
-# game/scripts/story_01/bathroom.rpy:1508
+# game/scripts/story_01/bathroom.rpy:1506
 translate crowdin ev_075_31a0ea7c:
 
     # tMax 01 "У меня заодно и оправдание, если что, есть... Я зайду проверить, не курит ли она по новой травку, как днём. На деле я на её сиськи хочу поглазеть и чтобы мне точно за это ничего не было..." nointeract
     tMax 01 "У меня заодно и оправдание, если что, есть... Я зайду проверить, не курит ли она по новой травку, как днём. На деле я на её сиськи хочу поглазеть и чтобы мне точно за это ничего не было..." nointeract
 
-# game/scripts/story_01/bathroom.rpy:1514
+# game/scripts/story_01/bathroom.rpy:1512
 translate crowdin ev_075_d41d1032:
 
     # tMax 13 "Хм... Что это с Алисой? Она так жарко дышит и постанывает... Нужно проверить всё ли в порядке!" nointeract
     tMax 13 "Хм... Что это с Алисой? Она так жарко дышит и постанывает... Нужно проверить всё ли в порядке!" nointeract
 
-# game/scripts/story_01/bathroom.rpy:1519
+# game/scripts/story_01/bathroom.rpy:1517
 translate crowdin ev_075_125a706d:
 
     # tMax 06 "Ух ты! Не каждый день увидишь, как сестрёнка ласкает свою киску лёжа в ванне! Ещё бы пена самое интересное так сильно не скрывала и было бы обалденное шоу..."
     tMax 06 "Ух ты! Не каждый день увидишь, как сестрёнка ласкает свою киску лёжа в ванне! Ещё бы пена самое интересное так сильно не скрывала и было бы обалденное шоу..."
 
-# game/scripts/story_01/bathroom.rpy:1523
+# game/scripts/story_01/bathroom.rpy:1521
 translate crowdin ev_075_03814bc8:
 
     # Alice 17 "Вот чёрт, Макс!!! Ты что здесь делаешь?! Пошёл вон отсюда, я принимаю ванну!"
     Alice 17 "Вот чёрт, Макс!!! Ты что здесь делаешь?! Пошёл вон отсюда, я принимаю ванну!"
 
-# game/scripts/story_01/bathroom.rpy:1524
+# game/scripts/story_01/bathroom.rpy:1522
 translate crowdin ev_075_6d64871e:
 
     # Max 02 "Так вот, как её надо принимать! Не знал..."
     Max 02 "Так вот, как её надо принимать! Не знал..."
 
-# game/scripts/story_01/bathroom.rpy:1525
+# game/scripts/story_01/bathroom.rpy:1523
 translate crowdin ev_075_600f28d5:
 
     # Alice 16 "Ты ещё и ехидничаешь! Ну всё... За такую наглость я сдам тебя маме завтра. Пусть все знают, какой ты придурок!"
     Alice 16 "Ты ещё и ехидничаешь! Ну всё... За такую наглость я сдам тебя маме завтра. Пусть все знают, какой ты придурок!"
 
-# game/scripts/story_01/bathroom.rpy:1526
+# game/scripts/story_01/bathroom.rpy:1524
 translate crowdin ev_075_045b3a93:
 
     # Max 12 "А если я верну тебе деньги, которые взял за молчание о травке?"
     Max 12 "А если я верну тебе деньги, которые взял за молчание о травке?"
 
-# game/scripts/story_01/bathroom.rpy:1527
+# game/scripts/story_01/bathroom.rpy:1525
 translate crowdin ev_075_ade92a5f:
 
     # Alice 11 "Ага, думаешь, я ничего не скажу, если ты вернёшь мои деньги? Для этого придётся вернуть больше на $10, а то и на все $20 за моральный ущерб."
     Alice 11 "Ага, думаешь, я ничего не скажу, если ты вернёшь мои деньги? Для этого придётся вернуть больше на $10, а то и на все $20 за моральный ущерб."
 
-# game/scripts/story_01/bathroom.rpy:1528
+# game/scripts/story_01/bathroom.rpy:1526
 translate crowdin ev_075_af49a137:
 
     # Max 11 "Не вопрос. Но мама узнает про травку, уж извини."
     Max 11 "Не вопрос. Но мама узнает про травку, уж извини."
 
-# game/scripts/story_01/bathroom.rpy:1529
+# game/scripts/story_01/bathroom.rpy:1527
 translate crowdin ev_075_09e7bb8f:
 
     # Alice 14 "Эй! Ты офигел?! Припёрся ко мне в ванную глазеть, а мне же ещё и в итоге влетит что ли?"
     Alice 14 "Эй! Ты офигел?! Припёрся ко мне в ванную глазеть, а мне же ещё и в итоге влетит что ли?"
 
-# game/scripts/story_01/bathroom.rpy:1530
+# game/scripts/story_01/bathroom.rpy:1528
 translate crowdin ev_075_9394797e:
 
     # Max 04 "Никому не влетит, если мы тихо-мирно разойдёмся. Как тебе такое предложение?"
     Max 04 "Никому не влетит, если мы тихо-мирно разойдёмся. Как тебе такое предложение?"
 
-# game/scripts/story_01/bathroom.rpy:1531
+# game/scripts/story_01/bathroom.rpy:1529
 translate crowdin ev_075_50946c84:
 
     # Alice 15 "Вот ты... Ладно, меня устраивает, но только, если ты уже перестанешь на меня глазеть и свалишь отсюда, наконец! И не смей больше заходить ко мне без стука, а то урою..."
     Alice 15 "Вот ты... Ладно, меня устраивает, но только, если ты уже перестанешь на меня глазеть и свалишь отсюда, наконец! И не смей больше заходить ко мне без стука, а то урою..."
 
-# game/scripts/story_01/bathroom.rpy:1532
+# game/scripts/story_01/bathroom.rpy:1530
 translate crowdin ev_075_ff649236:
 
     # Max 01 "Уже ухожу, сестрёнка. Ты, кстати, очень красиво смотрелась, когда ласкала себя. Мне понравилось!"
     Max 01 "Уже ухожу, сестрёнка. Ты, кстати, очень красиво смотрелась, когда ласкала себя. Мне понравилось!"
 
-# game/scripts/story_01/bathroom.rpy:1534
+# game/scripts/story_01/bathroom.rpy:1532
 translate crowdin ev_075_4bf8eaae:
 
     # Alice 12 "Да пошёл ты, Макс! Извращенец, блин. Вали!!!" nointeract
     Alice 12 "Да пошёл ты, Макс! Извращенец, блин. Вали!!!" nointeract
 
-# game/scripts/story_01/bathroom.rpy:1539
+# game/scripts/story_01/bathroom.rpy:1537
 translate crowdin ev_075_0c297122:
 
     # tMax 03 "А ведь Алиса могла бы офигенно смотреться в каких-нибудь развратных веб-трансляциях! Всё прикольнее, чем этот её блог..."
     tMax 03 "А ведь Алиса могла бы офигенно смотреться в каких-нибудь развратных веб-трансляциях! Всё прикольнее, чем этот её блог..."
 
-# game/scripts/story_01/bathroom.rpy:1540
+# game/scripts/story_01/bathroom.rpy:1538
 translate crowdin ev_075_2ed10f0c:
 
     # tMax 01 "Народ с радостью будет платить, если она будет так же страстно, как в ванне, ласкать себя на камеру. Чёрт, да я и сам бы за это заплатил, если бы у меня были лишние деньги!"
     tMax 01 "Народ с радостью будет платить, если она будет так же страстно, как в ванне, ласкать себя на камеру. Чёрт, да я и сам бы за это заплатил, если бы у меня были лишние деньги!"
 
-# game/scripts/story_01/bathroom.rpy:1543
+# game/scripts/story_01/bathroom.rpy:1541
 translate crowdin ev_075_fdb5cb80:
 
     # tMax 13 "Как бы мне умудриться её надоумить на это? Хотя, надоумить-то легко, а вот убедить... Это будет непросто при моих-то с ней отношениях сейчас, уж точно..."
     tMax 13 "Как бы мне умудриться её надоумить на это? Хотя, надоумить-то легко, а вот убедить... Это будет непросто при моих-то с ней отношениях сейчас, уж точно..."
 
-# game/scripts/story_01/bathroom.rpy:1544
+# game/scripts/story_01/bathroom.rpy:1542
 translate crowdin ev_075_aa9e97a1:
 
     # tMax 11 "Может, раз Алиса сильно боится пауков, то я мог бы как-то использовать это знание, чтобы улучшить наши взаимоотношения? Стоит попробовать..."
@@ -1370,31 +1370,31 @@ translate crowdin strings:
     old "Не, мам. Я не хочу тренироваться!"
     new "Не, мам. Я не хочу тренироваться!"
 
-    # game/scripts/story_01/bathroom.rpy:610
+    # game/scripts/story_01/bathroom.rpy:611
     old "{i}нагло заглянуть со двора{/i}"
     new "{i}нагло заглянуть со двора{/i}"
 
-    # game/scripts/story_01/bathroom.rpy:631
+    # game/scripts/story_01/bathroom.rpy:632
     old "{i}запустить паука в ванную комнату{/i}"
     new "{i}запустить паука в ванную комнату{/i}"
 
-    # game/scripts/story_01/bathroom.rpy:690
+    # game/scripts/story_01/bathroom.rpy:691
     old "{i}пошуметь{/i}"
     new "{i}пошуметь{/i}"
 
-    # game/scripts/story_01/bathroom.rpy:834
+    # game/scripts/story_01/bathroom.rpy:835
     old "Открыто новое задание «Стоит ли рисковать?»!"
     new "Открыто новое задание «Стоит ли рисковать?»!"
 
-    # game/scripts/story_01/bathroom.rpy:900
+    # game/scripts/story_01/bathroom.rpy:901
     old "{i}закончить{/i}"
     new "{i}закончить{/i}"
 
-    # game/scripts/story_01/bathroom.rpy:918
+    # game/scripts/story_01/bathroom.rpy:919
     old "{i}войти по-тихому{/i}"
     new "{i}войти по-тихому{/i}"
 
-    # game/scripts/story_01/bathroom.rpy:962
+    # game/scripts/story_01/bathroom.rpy:963
     old "Открыто новое задание «Стремянка»!"
     new "Открыто новое задание «Стремянка»!"
 
@@ -1406,23 +1406,23 @@ translate crowdin strings:
     old "Отлично выглядишь, мам!"
     new "Отлично выглядишь, мам!"
 
-    # game/scripts/story_01/bathroom.rpy:1218
+    # game/scripts/story_01/bathroom.rpy:1217
     old "А если мне срочно надо?"
     new "А если мне срочно надо?"
 
-    # game/scripts/story_01/bathroom.rpy:1218
+    # game/scripts/story_01/bathroom.rpy:1217
     old "Извини... А ты симпатичная!"
     new "Извини... А ты симпатичная!"
 
-    # game/scripts/story_01/bathroom.rpy:1363
+    # game/scripts/story_01/bathroom.rpy:1361
     old "{i}прокрасться к ванне{/i}"
     new "{i}прокрасться к ванне{/i}"
 
-    # game/scripts/story_01/bathroom.rpy:1437
+    # game/scripts/story_01/bathroom.rpy:1435
     old "Не обращай на меня внимание. Продолжай то, что делала..."
     new "Не обращай на меня внимание. Продолжай то, что делала..."
 
-    # game/scripts/story_01/bathroom.rpy:1437
+    # game/scripts/story_01/bathroom.rpy:1435
     old "Извини... Я просто на сисечки хотел посмотреть!"
     new "Извини... Я просто на сисечки хотел посмотреть!"
 

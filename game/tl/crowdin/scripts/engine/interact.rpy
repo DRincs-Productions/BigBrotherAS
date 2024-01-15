@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-10-14 21:25
+﻿# TODO: Translation updated at 2024-01-09 23:01
 
 # game/scripts/engine/interact.rpy:35
 translate crowdin talks_start_41e41361:
@@ -72,115 +72,119 @@ translate crowdin strings:
     old "{i}уйти{/i}"
     new "{i}уйти{/i}"
 
-    # game/scripts/engine/interact.rpy:174
+    # game/scripts/engine/interact.rpy:177
     old "Помочь с посудой"
     new "Помочь с посудой"
 
-    # game/scripts/engine/interact.rpy:174
+    # game/scripts/engine/interact.rpy:177
     old "Любоваться"
     new "Любоваться"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Тебе не жарко в этом купальнике?"
     new "Тебе не жарко в этом купальнике?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Значит Алекс, да?"
     new "Значит Алекс, да?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Хорошо загорается?"
     new "Хорошо загорается?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Загораешь?"
     new "Загораешь?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Как загорается?"
     new "Как загорается?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Что читаешь?"
     new "Что читаешь?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Не возражаешь против компании?"
     new "Не возражаешь против компании?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Что смотришь?"
     new "Что смотришь?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Плавать собираешься?"
     new "Плавать собираешься?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Я занырну к тебе?"
     new "Я занырну к тебе?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Почему не плаваешь?"
     new "Почему не плаваешь?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Поплаваем вместе?"
     new "Поплаваем вместе?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Будешь плавать?"
     new "Будешь плавать?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Не против, если я присоединюсь?"
     new "Не против, если я присоединюсь?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Насчёт случая с Лизой..."
     new "Насчёт случая с Лизой..."
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Насчёт случая утром..."
     new "Насчёт случая утром..."
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Тебе помочь накрыть на стол?"
     new "Тебе помочь накрыть на стол?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Давай я накрою на стол?"
     new "Давай я накрою на стол?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Хочешь поплавать перед сном?"
     new "Хочешь поплавать перед сном?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Решила поплавать перед сном?"
     new "Решила поплавать перед сном?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Ты опять куришь?!"
     new "Ты опять куришь?!"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Насчёт твоего парня..."
     new "Насчёт твоего парня..."
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Насчёт Алекса..."
     new "Насчёт Алекса..."
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Я решил потренироваться..."
     new "Я решил потренироваться..."
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "У меня для тебя обещанная вкусняшка!"
     new "У меня для тебя обещанная вкусняшка!"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Я убрал паука из ванной комнаты!"
     new "Я убрал паука из ванной комнаты!"
+
+    # game/scripts/engine/interact.rpy:183
+    old "Тебе помочь с домашним заданием?"
+    new "Тебе помочь с домашним заданием?"
 

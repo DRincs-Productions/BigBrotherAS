@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-10-14 21:25
+﻿# TODO: Translation updated at 2024-01-09 23:01
 
 translate crowdin strings:
 
@@ -234,11 +234,11 @@ translate crowdin strings:
     old "настроение Алисы"
     new "настроение Алисы"
 
-    # game/scripts/screens/tutorial.rpy:545
+    # game/scripts/screens/tutorial.rpy:568
     old "Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
     new "Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
 
-    # game/scripts/screens/tutorial.rpy:547
+    # game/scripts/screens/tutorial.rpy:570
     old "Теперь вы управляете жизнью Макса! Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
     new "Теперь вы управляете жизнью Макса! Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
 
