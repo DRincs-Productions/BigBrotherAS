@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-15 15:44\n"
+"PO-Revision-Date: 2024-01-15 14:07\n"
 
-# TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/aliceroom.rpy:10 #-#-# translate crowdin ev_alice_dressed_51996b14:
+# TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/story_01/aliceroom.rpy:10 #-#-# translate crowdin ev_alice_dressed_51996b14:
 msgid "[_tMax_s_11_] Сейчас Алиса должна собираться, чтобы отправиться вместе со всеми по магазинам... [nointeract]"
 msgstr "[_tMax_s_11_] Alice doit maintenant faire ses valises pour aller faire du shopping avec tous les autres..... [nointeract]"
 
@@ -72,47 +72,47 @@ msgstr "[_Alice_s_01_] Vous ne dites pas... C'est agréable à entendre, mais ç
 msgid "[_Alice_s_15_] Да ты уже наверняка и на разворот журнала меня мысленно раздел! Дверь закрой и больше не врывайся ко мне, а то отпинаю... [nointeract]"
 msgstr "[_Alice_s_15_] Je parie que vous avez déjà fait demi-tour sur mon magazine dans votre tête ! Fermez la porte et ne venez plus me déranger, ou je vous donne un coup de pied... [nointeract]"
 
-# game/scripts/story_01/aliceroom.rpy:228 #-#-# translate crowdin ev_alice_sleep_57d2c4d4:
+# game/scripts/story_01/aliceroom.rpy:242 #-#-# translate crowdin ev_alice_sleep_57d2c4d4:
 msgid "[_tMax_s_11_] Сейчас Алиса должна спать. Стучать в дверь точно не стоит. Да и входить опасно для здоровья... [nointeract]"
 msgstr "[_tMax_s_11_] Alice devrait dormir maintenant. Frapper à la porte n'est certainement pas une bonne idée. Et il n'est pas sain non plus d'entrer... [nointeract]"
 
-# game/scripts/story_01/aliceroom.rpy:233 #-#-# translate crowdin ev_alice_sleep_20d37118:
+# game/scripts/story_01/aliceroom.rpy:247 #-#-# translate crowdin ev_alice_sleep_20d37118:
 msgid "[_tMax_s_03_] Вроде, спит... Наконец-то на мою старшую сестрёнку можно поглазеть самым наглым образом! Так мило выглядит... [nointeract]"
 msgstr "[_tMax_s_03_] Je crois qu'elle dort... Enfin, ma grande soeur peut être regardée de la manière la plus effrontée possible ! Elle est si mignonne... [nointeract]"
 
-# game/scripts/story_01/aliceroom.rpy:241 #-#-# translate crowdin ev_alice_sleep_fdba43f5:
+# game/scripts/story_01/aliceroom.rpy:255 #-#-# translate crowdin ev_alice_sleep_fdba43f5:
 msgid "[_tMax_s_05_] Класс! Отсюда Алису видно гораздо лучше, а поразглядывать у неё есть что... Обворожительно смотрится, но пора уходить, а то ещё проснётся. [nointeract]"
 msgstr "[_tMax_s_05_] Cool ! On voit mieux Alice d'ici, et elle a beaucoup à voir.... Elle est adorable, mais je dois y aller ou elle va se réveiller. [nointeract]"
 
-# game/scripts/story_01/aliceroom.rpy:257 #-#-# translate crowdin ev_alice_sleep_1d3d70d9:
+# game/scripts/story_01/aliceroom.rpy:271 #-#-# translate crowdin ev_alice_sleep_1d3d70d9:
 msgid "[_tMax_s_15_] Ничего себе! Алиса ещё не заснула, ворочается. Лучше потихоньку сваливать, пока она меня не заметила... [nointeract]"
 msgstr "[_tMax_s_15_] Ouah ! Alice est encore éveillée, elle se tourne et se retourne. Je ferais mieux de sortir d'ici avant qu'elle ne me remarque... [nointeract]"
 
-# game/scripts/story_01/aliceroom.rpy:279 #-#-# translate crowdin ev_alice_sleep_morning_36c97f6b:
+# game/scripts/story_01/aliceroom.rpy:293 #-#-# translate crowdin ev_alice_sleep_morning_36c97f6b:
 msgid "[_tMax_s_11_] Обычно в это время Алиса ещё спит. Если это так, то лучше её не будить... [nointeract]"
 msgstr "[_tMax_s_11_] En général, Alice dort encore à cette heure-là. Dans ce cas, il vaut mieux ne pas la réveiller... [nointeract]"
 
-# game/scripts/story_01/aliceroom.rpy:284 #-#-# translate crowdin ev_alice_sleep_morning_18d8bfbf:
+# game/scripts/story_01/aliceroom.rpy:298 #-#-# translate crowdin ev_alice_sleep_morning_18d8bfbf:
 msgid "[_tMax_s_03_] Да, Алиса ещё спит, что меня безусловно радует! От таких соблазнительных изгибов можно сознание потерять с утра пораньше... [nointeract]"
 msgstr "[_tMax_s_03_] Oui, Alice dort encore, ce qui me rend très heureux ! Des courbes aussi séduisantes peuvent vous faire tomber dans les pommes le matin... [nointeract]"
 
-# game/scripts/story_01/aliceroom.rpy:292 #-#-# translate crowdin ev_alice_sleep_morning_d6b9522a:
+# game/scripts/story_01/aliceroom.rpy:306 #-#-# translate crowdin ev_alice_sleep_morning_d6b9522a:
 msgid "[_tMax_s_05_] Ох, смотрю я на неё и в голове появляются лишь самые пошлые мысли... Но она может в любой момент проснуться, так что лучше уходить. [nointeract]"
 msgstr "[_tMax_s_05_] Oh, je la regarde et tout ce qui me vient à l'esprit, ce sont les pensées les plus vulgaires... Mais elle peut se réveiller à tout moment, alors je ferais mieux d'y aller. [nointeract]"
 
-# game/scripts/story_01/aliceroom.rpy:302 #-#-# translate crowdin ev_alice_sleep_morning_59c252b6:
+# game/scripts/story_01/aliceroom.rpy:316 #-#-# translate crowdin ev_alice_sleep_morning_59c252b6:
 msgid "[_tMax_s_15_] Ой! Не особо-то она и спит. Нужно постараться бесшумно отсюда слинять, пока Алиса меня не увидела... [nointeract]"
 msgstr "[_tMax_s_15_] Oh ! Elle ne dort pas vraiment. Je devrais essayer de me faufiler hors d'ici avant qu'Alice ne me voie... [nointeract]"
 
-# game/scripts/story_01/aliceroom.rpy:321 #-#-# translate crowdin ev_068_fac47adc:
+# game/scripts/story_01/aliceroom.rpy:335 #-#-# translate crowdin ev_068_fac47adc:
 msgid "[_Alice_s_11_] Опять ты! Совсем что ли обнаглел, извращенец? Нечего тебе делать в моей комнате, тем более я ухожу гулять! Не вздумай тут шариться..."
 msgstr "[_Alice_s_11_] Encore vous ! T'as du culot, espèce de pervers ? Tu n'as rien à faire dans ma chambre, surtout que je sors ! Ne t'avise pas de fouiner."
 
-# game/scripts/story_01/aliceroom.rpy:324 #-#-# translate crowdin ev_068_8810b776:
+# game/scripts/story_01/aliceroom.rpy:338 #-#-# translate crowdin ev_068_8810b776:
 msgid "[_Alice_s_01_] И что это ты тут нарисовался, Макс? Я пошла гулять. Не вздумай шариться в моей комнате!"
 msgstr "[_Alice_s_01_] Que fais-tu ici, Max ? Je suis allée me promener. Ne va pas jouer dans ma chambre !"
 
-# game/scripts/story_01/aliceroom.rpy:325 #-#-# translate crowdin ev_068_07c6fd9a:
+# game/scripts/story_01/aliceroom.rpy:339 #-#-# translate crowdin ev_068_07c6fd9a:
 msgid "[_Max_s_01_] Да больно надо. Смотри, чтобы голову не напекло!"
 msgstr "[_Max_s_01_] Ça fait mal. Ne laissez pas votre tête chauffer !"
 
@@ -144,11 +144,11 @@ msgstr "J'ai compris. Je resterai à l'écart..."
 msgid "{i}подождать за дверью, пока Алиса переоденется{/i}"
 msgstr "{i}attendre devant la porte pendant qu'Alice se change{/i}"
 
-# game/scripts/story_01/aliceroom.rpy:232
+# game/scripts/story_01/aliceroom.rpy:246
 msgid "{i}прокрасться в комнату{/i}"
 msgstr "{i}se faufiler dans la pièce{/i}"
 
-# game/scripts/story_01/aliceroom.rpy:240
+# game/scripts/story_01/aliceroom.rpy:254
 msgid "{i}подложить паука к Алисе{/i}"
 msgstr "{i}pour mettre une araignée sur Alice."
 
