@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2023-10-15 15:47\n"
+"PO-Revision-Date: 2024-01-15 14:06\n"
 
-# TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/skils.rpy:14
+# TODO: Translation updated at 2024-01-09 23:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/skils.rpy:14
 msgid "скрытность"
 msgstr ""
 
@@ -52,19 +52,23 @@ msgstr ""
 msgid "Паук найден!"
 msgstr ""
 
-# game/scripts/engine/skils.rpy:197
+# game/scripts/engine/skils.rpy:198
 msgid "Я чуть не попался!"
 msgstr ""
 
-# game/scripts/engine/skils.rpy:197
+# game/scripts/engine/skils.rpy:198
+msgid "Мне не стоит это делать!"
+msgstr ""
+
+# game/scripts/engine/skils.rpy:198
 msgid "Вот чёрт, я попался!"
 msgstr ""
 
-# game/scripts/engine/skils.rpy:197
+# game/scripts/engine/skils.rpy:198
 msgid "Убеждение не удалось!"
 msgstr ""
 
-# game/scripts/engine/skils.rpy:197
+# game/scripts/engine/skils.rpy:198
 msgid "Безрезультатно!"
 msgstr ""
 
