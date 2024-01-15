@@ -10,29 +10,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-15 15:45\n"
+"PO-Revision-Date: 2024-01-15 14:06\n"
 
-# TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/engine/service.rpy:65 #-#-# translate crowdin nothing_to_do_423a776a:
+# TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/engine/service.rpy:65 #-#-# translate crowdin nothing_to_do_423a776a:
 msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
 msgstr "[_tMax_s_12_] No tengo nada más que hacer aquí por ahora..."
 
-# game/scripts/engine/service.rpy:412 #-#-# translate crowdin after_buy_d1c26937:
+# game/scripts/engine/service.rpy:424 #-#-# translate crowdin after_buy_d1c26937:
 msgid "[_tMax_s_12_] Да уж... Пришлось потратиться, но надеюсь мне удастся, благодаря этой книге, создать свой сайт и хорошо заработать."
 msgstr "[_tMax_s_12_] Sí... Tuve que gastar, pero espero poder, gracias a este libro, crear mi propio sitio y ganar buen dinero."
 
-# game/scripts/engine/service.rpy:413 #-#-# translate crowdin after_buy_8163c063:
+# game/scripts/engine/service.rpy:425 #-#-# translate crowdin after_buy_8163c063:
 msgid "[_tMax_s_01_] Но книгу, как и любую другую вещь заказанную по интернету, доставят только завтра, так что пока можно отдыхать..."
 msgstr "[_tMax_s_01_] Pero el libro, al igual que cualquier otra cosa pedida por Internet, no se entregará hasta mañana, así que por ahora podemos descansar..."
 
-# §translate crowdin strings: #|#|# # game/scripts/engine/service.rpy:478
+# §translate crowdin strings: #|#|# # game/scripts/engine/service.rpy:490
 msgid "Вы хотите ознакомиться с особенностями игры?"
 msgstr "¿Quieres familiarizarte con las características del juego?"
 
-# game/scripts/engine/service.rpy:478
+# game/scripts/engine/service.rpy:490
 msgid "Да, пройти обучение"
 msgstr "Sí, para recibir formación"
 
-# game/scripts/engine/service.rpy:478
+# game/scripts/engine/service.rpy:490
 msgid "Нет, я всё знаю"
 msgstr "No, lo sé todo"
 
