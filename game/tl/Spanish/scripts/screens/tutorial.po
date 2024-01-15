@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-15 16:48\n"
+"PO-Revision-Date: 2024-01-15 14:07\n"
 
-# TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/tutorial.rpy:14
+# TODO: Translation updated at 2024-01-09 23:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/tutorial.rpy:14
 msgid "Главная панель игры располагается внизу."
 msgstr "El panel principal del juego se encuentra en la parte inferior."
 
@@ -254,11 +254,11 @@ msgstr "¡Quedarías genial en la portada de una revista!"
 msgid "настроение Алисы"
 msgstr "el estado de ánimo de Alice"
 
-# game/scripts/screens/tutorial.rpy:545
+# game/scripts/screens/tutorial.rpy:568
 msgid "Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
 msgstr "Aquí encontrarás información sobre qué y cómo se configura el juego..."
 
-# game/scripts/screens/tutorial.rpy:547
+# game/scripts/screens/tutorial.rpy:570
 msgid "Теперь вы управляете жизнью Макса! Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
 msgstr "¡Ahora tienes el control de la vida de Max! Aquí encontrarás información sobre qué y cómo se organiza este juego..."
 
