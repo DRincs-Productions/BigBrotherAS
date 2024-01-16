@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-01-15 14:09\n"
+"PO-Revision-Date: 2024-01-16 13:19\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/story_01/pool.rpy:10 #-#-# translate crowdin alice_swims_talk_2c2308f4:
 msgid "[_Alice_s_01_] Может быть. А что, тоже хочешь? Ну, присоединяйся... [nointeract]"
@@ -54,31 +54,31 @@ msgstr "[_tMax_s_04_] Ma anche quello che abbiamo in giardino adesso ha un bell'
 
 # game/scripts/story_01/pool.rpy:70 #-#-# translate crowdin alice_swims_talk_swims_5986111d:
 msgid "[_Alice_s_14_] А-а-а!!! Чтоб тебя, Макс! Напугал, блин, я аж чуть из бассейна не выпрыгнула!"
-msgstr ""
+msgstr "[_Alice_s_14_] Aah! Che tu sia maledetto, Max! Mi hai spaventata a morte, sono quasi saltata fuori dalla piscina!"
 
 # game/scripts/story_01/pool.rpy:71 #-#-# translate crowdin alice_swims_talk_swims_a7f3365e:
 msgid "[_Max_s_06_] Ха-ха! Классно я придумал, да?"
-msgstr ""
+msgstr "[_Max_s_06_] Ha ha! Era una buona idea, vero?"
 
 # game/scripts/story_01/pool.rpy:75 #-#-# translate crowdin alice_swims_talk_swims_a817133b:
 msgid "[_Alice_s_16_] Сейчас я тебе покажу! Ну как, классно тебе?! Запомни, нефиг меня пугать! Иначе огребёшь... Понял?"
-msgstr ""
+msgstr "[_Alice_s_16_] Lascia che ti mostri! Come ci si sente? Ricorda, non spaventarmi! Altrimenti finirai nei guai. Capito?"
 
 # game/scripts/story_01/pool.rpy:76 #-#-# translate crowdin alice_swims_talk_swims_ef5a773b:
 msgid "[_Max_s_15_] Да ладно тебе, Алиса, это же шутка была! Слезь с меня, а то я утону..."
-msgstr ""
+msgstr "[_Max_s_15_] Dai, Alice, era uno scherzo! Lasciami o affogo..."
 
 # game/scripts/story_01/pool.rpy:78 #-#-# translate crowdin alice_swims_talk_swims_24bf6fa1:
 msgid "[_Alice_s_04_] Что ты говоришь, я не расслышала? Ты как будто воды в рот набрал. А брызг-то от тебя сколько! [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_04_] Cosa stai dicendo, non ti ho sentito? Sembra che tu abbia l'acqua in bocca. Stai schizzando dappertutto! [nointeract]"
 
 # game/scripts/story_01/pool.rpy:84 #-#-# translate crowdin alice_swims_talk_swims_7bb24e95:
 msgid "[_Alice_s_02_] Ты уже наплавался, что ли? Было же так классно..."
-msgstr ""
+msgstr "[_Alice_s_02_] Ne hai abbastanza di nuotare, vero? È stato così bello..."
 
 # game/scripts/story_01/pool.rpy:85 #-#-# translate crowdin alice_swims_talk_swims_4ec6b2fa:
 msgid "[_Max_s_12_] Да как-то опасно с тобой плавать. На суше лучше..."
-msgstr ""
+msgstr "[_Max_s_12_] Non è sicuro nuotare con te. È meglio che sia sulla terraferma..."
 
 # game/scripts/story_01/pool.rpy:92 #-#-# translate crowdin alice_swims_talk_swims_e5abb306:
 msgid "[_Alice_s_02_] Ты уже наплавался, что ли?"
@@ -194,31 +194,31 @@ msgstr "[_tMax_s_04_] E sott'acqua è uno spettacolo da vedere! Le forme appetit
 
 # game/scripts/story_01/pool.rpy:293 #-#-# translate crowdin ann_swim_talk_swims_613b3a40:
 msgid "[_Ann_s_11_] Ах ты... Вот что ты, Макс, делаешь? Взял и обрызгал меня, а ещё говоришь, что уже взрослый."
-msgstr ""
+msgstr "[_Ann_s_11_] Oh, tu. È questo che stai facendo, Max? Mi hai appena schizzato e dici di essere un adulto."
 
 # game/scripts/story_01/pool.rpy:294 #-#-# translate crowdin ann_swim_talk_swims_7446adaf:
 msgid "[_Max_s_06_] Как будто взрослые так делать не могут?"
-msgstr ""
+msgstr "[_Max_s_06_] Come se gli adulti non lo potessero fare?"
 
 # game/scripts/story_01/pool.rpy:297 #-#-# translate crowdin ann_swim_talk_swims_ede4485c:
 msgid "[_Ann_s_04_] Ха, ещё как могут! Вот так тебе... Будешь знать, как на маму волны пускать! Нравится баловаться, да?"
-msgstr ""
+msgstr "[_Ann_s_04_] Certo che sì! Ecco fatto. Saprai come fare le onde a tua madre! Ti piace scherzare, vero?"
 
 # game/scripts/story_01/pool.rpy:298 #-#-# translate crowdin ann_swim_talk_swims_1a52bbb6:
 msgid "[_Max_s_16_] Я просто повеселиться хотел, мам! Прекращай, а то у меня глаза уже ничего не видят из-за брызг..."
-msgstr ""
+msgstr "[_Max_s_16_] Mi stavo solo divertendo, mamma! Smettila, non riesco a vedere nulla a causa degli schizzi..."
 
 # game/scripts/story_01/pool.rpy:300 #-#-# translate crowdin ann_swim_talk_swims_aacfd085:
 msgid "[_Ann_s_03_] В следующий раз, когда снова захочешь повеселиться со мной в бассейне, обязательно вспомни, что тебя ждёт в ответ! [nointeract]"
-msgstr ""
+msgstr "[_Ann_s_03_] La prossima volta che vorrai divertirti di nuovo con me in piscina, ricordati cosa ti aspetta in cambio! [nointeract]"
 
 # game/scripts/story_01/pool.rpy:304 #-#-# translate crowdin ann_swim_talk_swims_1572cacc:
 msgid "[_Ann_s_02_] Сынок, давай ещё поплаваем или ты всё? Или ты обиделся?"
-msgstr ""
+msgstr "[_Ann_s_02_] Figliolo, andiamo a fare un'altra nuotata o non ne hai voglia? O ti sei offeso?"
 
 # game/scripts/story_01/pool.rpy:305 #-#-# translate crowdin ann_swim_talk_swims_e2630c69:
 msgid "[_Max_s_12_] Нет, мне уши нужно просушить, а то заложило от воды."
-msgstr ""
+msgstr "[_Max_s_12_] No, devo asciugarmi le orecchie, l'acqua mi fa venire il mal d'orecchi."
 
 # game/scripts/story_01/pool.rpy:310 #-#-# translate crowdin ann_swim_talk_swims_62441e5e:
 msgid "[_Ann_s_02_] Сынок, давай ещё поплаваем или ты всё?"
@@ -242,7 +242,7 @@ msgstr "{i}immergersi sotto l'acqua{/i}"
 
 # game/scripts/story_01/pool.rpy:64
 msgid "{i}вынырнуть и напугать Алису{/i}"
-msgstr ""
+msgstr "{i}emergere e spaventare Alice.{/i}"
 
 # game/scripts/story_01/pool.rpy:64
 msgid "{i}вынырнуть и закончить плавать{/i}"
@@ -250,7 +250,7 @@ msgstr "{i}tuffarsi e finire di nuotare{/i}"
 
 # game/scripts/story_01/pool.rpy:77
 msgid "{i}закончить плавать{/i}"
-msgstr ""
+msgstr "{i}finire di nuotare{/i}"
 
 # game/scripts/story_01/pool.rpy:107
 msgid "С радостью!"
@@ -282,5 +282,5 @@ msgstr "Lo penso anch'io!"
 
 # game/scripts/story_01/pool.rpy:288
 msgid "{i}вынырнуть и обрызгать маму"
-msgstr ""
+msgstr "{i}tuffarsi e schizzare mamma"
 
