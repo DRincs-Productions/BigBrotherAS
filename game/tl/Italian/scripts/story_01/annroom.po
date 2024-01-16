@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-01-16 10:49\n"
+"PO-Revision-Date: 2024-01-16 13:18\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/story_01/annroom.rpy:12 #-#-# translate crowdin ev_ann_dressed_d0c78fcb:
 msgid "[_tMax_s_11_] Сейчас мама должна собираться на работу... [nointeract]"
@@ -82,7 +82,7 @@ msgstr "[_tMax_s_15_] Ops! Mamma è ancora sveglia e si agita. Meglio uscire pri
 
 # game/scripts/story_01/annroom.rpy:223 #-#-# translate crowdin ev_ann_sleep_mast1_177cdcb8:
 msgid "[_tMax_s_05_] Офигеть! Как же классно снова видеть, как мама ласкает себя! Подобраться бы поближе... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_05_] Oh, mio Dio! È così bello vedere mia madre che si accarezza di nuovo! Vorrei potermi avvicinare... [nointeract]"
 
 # game/scripts/story_01/annroom.rpy:233 #-#-# translate crowdin ev_ann_sleep_mast1_b991380b:
 msgid "[_tMax_s_12_] Ох, чёрт! Это очень рискованно... Понятия не имею, как я буду объясняться, если она меня заметит или услышит. Если и сваливать, то лучше сейчас, пока я ещё недалеко от окна... [nointeract]"
@@ -90,11 +90,11 @@ msgstr ""
 
 # game/scripts/story_01/annroom.rpy:241 #-#-# translate crowdin ev_ann_sleep_mast1_787ca7be:
 msgid "[_tMax_s_06_] Ухх... Наблюдая за тем, что происходит между этими раздвинутыми ножками, становится всё равно, что она моя мама..."
-msgstr ""
+msgstr "[_tMax_s_06_] Uhhh... Guardare cosa succede tra quelle gambe aperte, non importa se è mia madre..."
 
 # game/scripts/story_01/annroom.rpy:243 #-#-# translate crowdin ev_ann_sleep_mast1_0db1360b:
 msgid "[_tMax_s_11_] Так и хочется оттрахать, уж слишком соблазнительно она себя ласкает, но лучше сматываться отсюда, пока она ещё стонет! [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_11_] Ho voglia di scoparla, è troppo seducente, ma è meglio che me ne vada mentre sta ancora gemendo! [nointeract]"
 
 # game/scripts/story_01/annroom.rpy:247 #-#-# translate crowdin ev_ann_sleep_mast1_f34b8199:
 msgid "[_tMax_s_04_] Да уж, я увидел куда больше, чем думал! Со скрытностью у меня, похоже, полный порядок, раз я умудрился такое провернуть и не попасться!"
@@ -114,11 +114,11 @@ msgstr ""
 
 # game/scripts/story_01/annroom.rpy:275 #-#-# translate crowdin ev_ann_sleep_mast1_787ca7be_1:
 msgid "[_tMax_s_06_] Ухх... Наблюдая за тем, что происходит между этими раздвинутыми ножками, становится всё равно, что она моя мама..."
-msgstr ""
+msgstr "[_tMax_s_06_] Uhhh... Guardare cosa succede tra quelle gambe aperte, non importa se è mia madre..."
 
 # game/scripts/story_01/annroom.rpy:277 #-#-# translate crowdin ev_ann_sleep_mast1_0db1360b_1:
 msgid "[_tMax_s_11_] Так и хочется оттрахать, уж слишком соблазнительно она себя ласкает, но лучше сматываться отсюда, пока она ещё стонет! [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_11_] Ho voglia di scoparla, è troppo seducente, ma è meglio che me ne vada mentre sta ancora gemendo! [nointeract]"
 
 # game/scripts/story_01/annroom.rpy:284 #-#-# translate crowdin ev_ann_sleep_mast1_1d5fcc08_1:
 msgid "[_tMax_s_13_] Нет, слишком опасно! Даже если повезёт и мама меня не увидит, то наверняка услышит. Может, в следующий раз, если таковой представится... [nointeract]"
@@ -162,15 +162,15 @@ msgstr "Sì, c'era una domanda, ma con tutta la tua bellezza l'ho dimenticata...
 
 # game/scripts/story_01/annroom.rpy:232
 msgid "{i}подползти ещё ближе{/i}"
-msgstr ""
+msgstr "{i}strisciare ancora più vicino{/i}"
 
 # game/scripts/story_01/annroom.rpy:232
 msgid "{i}тихонько уползти{/i}"
-msgstr ""
+msgstr "{i}allontanarsi silenziosamente{/i}"
 
 # game/scripts/story_01/annroom.rpy:250
 msgid "Навык «Скрытность» повышен до уровня 2!"
-msgstr ""
+msgstr "L'abilità «Furtività» è stata portata al livello 2!"
 
 # game/scripts/story_01/annroom.rpy:308
 msgid "{i}подойти к маме{/i}"
