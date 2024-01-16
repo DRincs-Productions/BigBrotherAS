@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-01-16 13:18\n"
+"PO-Revision-Date: 2024-01-16 15:31\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/story_01/annroom.rpy:12 #-#-# translate crowdin ev_ann_dressed_d0c78fcb:
 msgid "[_tMax_s_11_] Сейчас мама должна собираться на работу... [nointeract]"
@@ -86,7 +86,7 @@ msgstr "[_tMax_s_05_] Oh, mio Dio! È così bello vedere mia madre che si accare
 
 # game/scripts/story_01/annroom.rpy:233 #-#-# translate crowdin ev_ann_sleep_mast1_b991380b:
 msgid "[_tMax_s_12_] Ох, чёрт! Это очень рискованно... Понятия не имею, как я буду объясняться, если она меня заметит или услышит. Если и сваливать, то лучше сейчас, пока я ещё недалеко от окна... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_12_] Oh, cazzo! È molto rischioso... Non so come spiegarmi se mi vede o mi sente. Se voglio uscire da qui, è meglio che lo faccia ora, mentre sono ancora vicino alla finestra... [nointeract]"
 
 # game/scripts/story_01/annroom.rpy:241 #-#-# translate crowdin ev_ann_sleep_mast1_787ca7be:
 msgid "[_tMax_s_06_] Ухх... Наблюдая за тем, что происходит между этими раздвинутыми ножками, становится всё равно, что она моя мама..."
@@ -98,19 +98,19 @@ msgstr "[_tMax_s_11_] Ho voglia di scoparla, è troppo seducente, ma è meglio c
 
 # game/scripts/story_01/annroom.rpy:247 #-#-# translate crowdin ev_ann_sleep_mast1_f34b8199:
 msgid "[_tMax_s_04_] Да уж, я увидел куда больше, чем думал! Со скрытностью у меня, похоже, полный порядок, раз я умудрился такое провернуть и не попасться!"
-msgstr ""
+msgstr "[_tMax_s_04_] Sì, ho visto molto più di quanto pensassi! Credo di essere abbastanza bravo a fare il furtivo, visto che sono riuscito a farlo senza farmi scoprire!"
 
 # game/scripts/story_01/annroom.rpy:248 #-#-# translate crowdin ev_ann_sleep_mast1_0fda04a2:
 msgid "[_tMax_s_01_] Это значит, что теперь я смогу увидеть больше всякого интересного, да и шансов будет больше..."
-msgstr ""
+msgstr "[_tMax_s_01_] Significa che ora sarò in grado di vedere più cose e ci saranno più occasioni..."
 
 # game/scripts/story_01/annroom.rpy:261 #-#-# translate crowdin ev_ann_sleep_mast1_1d5fcc08:
 msgid "[_tMax_s_13_] Нет, слишком опасно! Даже если повезёт и мама меня не увидит, то наверняка услышит. Может, в следующий раз, если таковой представится... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_13_] No, è troppo pericoloso! Anche se sono fortunato e la mamma non mi vede, probabilmente mi sentirà. Forse la prossima volta, se c'è la possibilità... [nointeract]"
 
 # game/scripts/story_01/annroom.rpy:265 #-#-# translate crowdin ev_ann_sleep_mast1_bea58364:
 msgid "[_tMax_s_13_] Если это снова повторится и я всё же смогу подкрасться к ней максимально близко, то после можно будет и в других местах за мамой попробовать подсмотреть."
-msgstr ""
+msgstr "[_tMax_s_13_] Se succede di nuovo e riesco ancora ad avvicinarmi a lei il più possibile, posso provare a spiare la mamma in altri luoghi."
 
 # game/scripts/story_01/annroom.rpy:275 #-#-# translate crowdin ev_ann_sleep_mast1_787ca7be_1:
 msgid "[_tMax_s_06_] Ухх... Наблюдая за тем, что происходит между этими раздвинутыми ножками, становится всё равно, что она моя мама..."
@@ -122,7 +122,7 @@ msgstr "[_tMax_s_11_] Ho voglia di scoparla, è troppo seducente, ma è meglio c
 
 # game/scripts/story_01/annroom.rpy:284 #-#-# translate crowdin ev_ann_sleep_mast1_1d5fcc08_1:
 msgid "[_tMax_s_13_] Нет, слишком опасно! Даже если повезёт и мама меня не увидит, то наверняка услышит. Может, в следующий раз, если таковой представится... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_13_] No, è troppo pericoloso! Anche se sono fortunato e la mamma non mi vede, probabilmente mi sentirà. Forse la prossima volta, se c'è la possibilità... [nointeract]"
 
 # game/scripts/story_01/annroom.rpy:304 #-#-# translate crowdin ev_024_48cd1387:
 msgid "[_Ann_s_01_] Так, сынок, я отправляюсь на работу. Не безобразничайте тут, пока меня нет..."
