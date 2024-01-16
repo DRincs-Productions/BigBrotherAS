@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-01-15 14:07\n"
+"PO-Revision-Date: 2024-01-16 10:49\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/story_01/annroom.rpy:12 #-#-# translate crowdin ev_ann_dressed_d0c78fcb:
 msgid "[_tMax_s_11_] Сейчас мама должна собираться на работу... [nointeract]"
@@ -74,11 +74,11 @@ msgstr "[_tMax_s_03_] Fantastico! Quanto sono fortunata ad avere una mamma così
 
 # game/scripts/story_01/annroom.rpy:200 #-#-# translate crowdin ev_ann_sleep_29c0fecb:
 msgid "[_tMax_s_05_] Класс! В жизни бы не поверил, что у такой конфетки есть трое детей. Смотрится очень соблазнительно, но надолго здесь задерживаться не стоит... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_05_] Bello! Non avrei mai creduto che un tesoro del genere abbia tre figli. Sembra molto allettante, ma non conviene restare a lungo.... [nointeract]"
 
 # game/scripts/story_01/annroom.rpy:209 #-#-# translate crowdin ev_ann_sleep_71e9963b:
 msgid "[_tMax_s_15_] Упс! Мама ещё не заснула, ворочается. Лучше потихоньку сваливать, пока она меня не заметила... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_15_] Ops! Mamma è ancora sveglia e si agita. Meglio uscire prima che mi veda... [nointeract]"
 
 # game/scripts/story_01/annroom.rpy:223 #-#-# translate crowdin ev_ann_sleep_mast1_177cdcb8:
 msgid "[_tMax_s_05_] Офигеть! Как же классно снова видеть, как мама ласкает себя! Подобраться бы поближе... [nointeract]"
