@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-01-15 14:09\n"
+"PO-Revision-Date: 2024-01-16 13:18\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/story_01/homework.rpy:9 #-#-# translate crowdin ev_034_38a2b149:
 msgid "[_Ann_s_10_] Так, Макс, а ну-ка постой! Я только сейчас вспомнила... Ты коробки разобрал?"
@@ -426,7 +426,7 @@ msgstr "[_tMax_s_16_] Merda, farò un tale fruscio nell'erba che tutti i ragni s
 
 # game/scripts/story_01/homework.rpy:412 #-#-# translate crowdin ev_078_3a62637b:
 msgid "[_tMax_s_13_] Нужно обязательно иметь это в виду в следующий раз и ловить паука до того, как я стану подстригать газон... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_13_] La prossima volta devo assolutamente tenerlo a mente e catturare il ragno prima d'iniziare a tagliare il prato... [nointeract]"
 
 # game/scripts/story_01/homework.rpy:418 #-#-# translate crowdin ev_078_cc340716:
 msgid "[_tMax_s_16_] Так, садовые ножницы в руки и вперёд, подравнивать наш газон..."
