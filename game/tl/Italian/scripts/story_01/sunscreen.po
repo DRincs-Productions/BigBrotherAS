@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-01-15 14:10\n"
+"PO-Revision-Date: 2024-01-16 13:19\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/story_01/sunscreen.rpy:7 #-#-# translate crowdin ev_011_03c9dcee:
 msgid "[_Alice_s_01_] Как ты догадался, Шерлок? [nointeract]"
@@ -274,7 +274,7 @@ msgstr "[_Ann_s_03_] Mi fa piacere sentirlo, figliolo..."
 
 # game/scripts/story_01/sunscreen.rpy:388 #-#-# translate crowdin ev_053_sunbathe_e54cb173:
 msgid "[_tMax_s_04_] Когда мама надевает бикини, начинается самый настоящий праздник! Такие аппетитные формы, слегка блестящие на солнце... Ммм... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_04_] Quando la mamma indossa un bikini, è una vera delizia! Forme così belle, che scintillano leggermente al sole... Mmm... [nointeract]"
 
 # game/scripts/story_01/sunscreen.rpy:402 #-#-# translate crowdin ev_053_first_apply_oil_d8e4e97c:
 msgid "[_Ann_s_11_] Нет. Я даже и не подумала об этом. Раньше ведь таких условий у нас не было."
