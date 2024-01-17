@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-01-09 23:01
+﻿# TODO: Translation updated at 2024-01-15 22:41
 
 # game/scripts/story_01/pool.rpy:10
 translate crowdin alice_swims_talk_2c2308f4:
@@ -270,55 +270,55 @@ translate crowdin ann_swim_talk_swims_00e8e7d2:
     # tMax 04 "А под водой вообще одно загляденье! Мамины аппетитные формы так и манят сделать что-нибудь непристойное..." nointeract
     tMax 04 "А под водой вообще одно загляденье! Мамины аппетитные формы так и манят сделать что-нибудь непристойное..." nointeract
 
-# game/scripts/story_01/pool.rpy:293
+# game/scripts/story_01/pool.rpy:294
 translate crowdin ann_swim_talk_swims_613b3a40:
 
     # Ann 11 "Ах ты... Вот что ты, Макс, делаешь? Взял и обрызгал меня, а ещё говоришь, что уже взрослый."
     Ann 11 "Ах ты... Вот что ты, Макс, делаешь? Взял и обрызгал меня, а ещё говоришь, что уже взрослый."
 
-# game/scripts/story_01/pool.rpy:294
+# game/scripts/story_01/pool.rpy:295
 translate crowdin ann_swim_talk_swims_7446adaf:
 
     # Max 06 "Как будто взрослые так делать не могут?"
     Max 06 "Как будто взрослые так делать не могут?"
 
-# game/scripts/story_01/pool.rpy:297
+# game/scripts/story_01/pool.rpy:299
 translate crowdin ann_swim_talk_swims_ede4485c:
 
     # Ann 04 "Ха, ещё как могут! Вот так тебе... Будешь знать, как на маму волны пускать! Нравится баловаться, да?"
     Ann 04 "Ха, ещё как могут! Вот так тебе... Будешь знать, как на маму волны пускать! Нравится баловаться, да?"
 
-# game/scripts/story_01/pool.rpy:298
+# game/scripts/story_01/pool.rpy:300
 translate crowdin ann_swim_talk_swims_1a52bbb6:
 
     # Max 16 "Я просто повеселиться хотел, мам! Прекращай, а то у меня глаза уже ничего не видят из-за брызг..."
     Max 16 "Я просто повеселиться хотел, мам! Прекращай, а то у меня глаза уже ничего не видят из-за брызг..."
 
-# game/scripts/story_01/pool.rpy:300
+# game/scripts/story_01/pool.rpy:302
 translate crowdin ann_swim_talk_swims_aacfd085:
 
     # Ann 03 "В следующий раз, когда снова захочешь повеселиться со мной в бассейне, обязательно вспомни, что тебя ждёт в ответ!" nointeract
     Ann 03 "В следующий раз, когда снова захочешь повеселиться со мной в бассейне, обязательно вспомни, что тебя ждёт в ответ!" nointeract
 
-# game/scripts/story_01/pool.rpy:304
+# game/scripts/story_01/pool.rpy:306
 translate crowdin ann_swim_talk_swims_1572cacc:
 
     # Ann 02 "Сынок, давай ещё поплаваем или ты всё? Или ты обиделся?"
     Ann 02 "Сынок, давай ещё поплаваем или ты всё? Или ты обиделся?"
 
-# game/scripts/story_01/pool.rpy:305
+# game/scripts/story_01/pool.rpy:307
 translate crowdin ann_swim_talk_swims_e2630c69:
 
     # Max 12 "Нет, мне уши нужно просушить, а то заложило от воды."
     Max 12 "Нет, мне уши нужно просушить, а то заложило от воды."
 
-# game/scripts/story_01/pool.rpy:310
+# game/scripts/story_01/pool.rpy:313
 translate crowdin ann_swim_talk_swims_62441e5e:
 
     # Ann 02 "Сынок, давай ещё поплаваем или ты всё?"
     Ann 02 "Сынок, давай ещё поплаваем или ты всё?"
 
-# game/scripts/story_01/pool.rpy:311
+# game/scripts/story_01/pool.rpy:314
 translate crowdin ann_swim_talk_swims_51d819fe:
 
     # Max 01 "Ага. Мне нужно идти..."

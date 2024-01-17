@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-01-09 23:01
+﻿# TODO: Translation updated at 2024-01-15 22:42
 
 translate crowdin strings:
 
@@ -309,6 +309,14 @@ translate crowdin strings:
     # game/scripts/engine/tasks.rpy:174
     old "Поприставать к Лизе за уроками, когда на ней нижнее бельё."
     new "Поприставать к Лизе за уроками, когда на ней нижнее бельё."
+
+    # game/scripts/engine/tasks.rpy:174
+    old "Убедить Лизу остаться в полотенце, но без трусиков."
+    new "Убедить Лизу остаться в полотенце, но без трусиков."
+
+    # game/scripts/engine/tasks.rpy:174
+    old "Это можно предложить только взамен нижнему белью Лизы..."
+    new "Это можно предложить только взамен нижнему белью Лизы..."
 
     # game/scripts/engine/tasks.rpy:174
     old "Новый купальник"
