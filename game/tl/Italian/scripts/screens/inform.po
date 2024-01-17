@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-01-15 14:07\n"
+"PO-Revision-Date: 2024-01-17 13:02\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/inform.rpy:28
 msgid "Персонажи"
@@ -46,35 +46,35 @@ msgstr "Con Max"
 
 # game/scripts/screens/inform.rpy:166
 msgid "ДОГОВОРЁННОСТИ"
-msgstr ""
+msgstr "ACCORDI"
 
 # game/scripts/screens/inform.rpy:169
 msgid "Будет спать топлес"
-msgstr ""
+msgstr "Dormirà in topless"
 
 # game/scripts/screens/inform.rpy:171
 msgid "Не использовалась"
-msgstr ""
+msgstr "Non utilizzato"
 
 # game/scripts/screens/inform.rpy:173
 msgid "Исполняется"
-msgstr ""
+msgstr "Eseguito"
 
 # game/scripts/screens/inform.rpy:175
 msgid "Будет исполняться"
-msgstr ""
+msgstr "Da eseguire"
 
 # game/scripts/screens/inform.rpy:177
 msgid "Не исполняется"
-msgstr ""
+msgstr "Non eseguito"
 
 # game/scripts/screens/inform.rpy:179
 msgid "Будет курить топлес"
-msgstr ""
+msgstr "Fumerà in topless"
 
 # game/scripts/screens/inform.rpy:190
 msgid "Будет без трусиков"
-msgstr ""
+msgstr "Sarà senza mutande"
 
 # game/scripts/screens/inform.rpy:213
 msgid "ПАРАМЕТРЫ"
@@ -130,7 +130,7 @@ msgstr "Esperienza di abilità"
 
 # game/scripts/screens/inform.rpy:478
 msgid "ВИДЫ ОДЕЖДЫ"
-msgstr ""
+msgstr "TIPI DI ABBIGLIAMENTO"
 
 # game/scripts/screens/inform.rpy:609
 msgid "В данный момент в инвентаре ничего нет"
