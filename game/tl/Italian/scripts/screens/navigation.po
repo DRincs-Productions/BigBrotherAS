@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-01-15 14:07\n"
+"PO-Revision-Date: 2024-01-17 14:32\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/navigation.rpy:130
 msgid "Ждать окончания часа"
@@ -94,7 +94,7 @@ msgstr "Nascondi"
 
 # game/scripts/screens/navigation.rpy:355
 msgid "Галерея"
-msgstr ""
+msgstr "Galleria"
 
 # game/scripts/screens/navigation.rpy:362
 msgid "Поддержать игру на Boosty"
