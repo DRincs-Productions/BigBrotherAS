@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-01-17 12:05\n"
+"PO-Revision-Date: 2024-01-19 14:46\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/story_01/schoolgirl.rpy:8 #-#-# translate crowdin ev_084_03562824:
 msgid "[_tMax_s_13_] Теперь нужно узнать у Лизы, чем я могу ей помочь по учёбе. Надеюсь, что от меня не так уж и много всего потребуется..."
@@ -26,7 +26,7 @@ msgstr "[_Max_s_11_] Cosa sta succedendo con quel test? Quanto è grave?"
 
 # game/scripts/story_01/schoolgirl.rpy:14 #-#-# translate crowdin ev_084_5c512968:
 msgid "[_Lisa_s_09_] Ой, ну там... В прошлой школе я настолько глубоко не изучала предметы, а здесь всё так основательно..."
-msgstr "[_Lisa_s_09_] Oh, beh, ecco. Non ho studiato così tanto nella mia vecchia scuola, e questo è così approfondito..."
+msgstr "[_Lisa_s_09_] Oh, beh… Nella mia scuola precedente non ho studiato così a fondo le materie, ma qui tutto è così approfondito..."
 
 # game/scripts/story_01/schoolgirl.rpy:15 #-#-# translate crowdin ev_084_c4a38c70:
 msgid "[_Max_s_12_] Ладно, разберёмся. Только придётся сегодня и завтра не отдыхать, а сидеть и готовиться к пересдаче."
@@ -34,7 +34,7 @@ msgstr "[_Max_s_12_] Ok, troveremo una soluzione. Ma oggi e domani non ci ripose
 
 # game/scripts/story_01/schoolgirl.rpy:16 #-#-# translate crowdin ev_084_e3da95fd:
 msgid "[_Lisa_s_11_] Как же не хочется, но куда деваться. Я бы, наверное, и сама справилась, но точно не быстрее, чем с твоей помощью."
-msgstr "[_Lisa_s_11_] Odio farlo, ma non posso farne a meno. Probabilmente potrei farcela da sola, ma di certo non più velocemente che con il tuo aiuto."
+msgstr "[_Lisa_s_11_] Non ne ho voglia, ma non ho scelta. Probabilmente avrei potuto farcela da sola, ma sicuramente non più velocemente di quanto farei con il tuo aiuto."
 
 # game/scripts/story_01/schoolgirl.rpy:17 #-#-# translate crowdin ev_084_91ed0ed8:
 msgid "[_Max_s_01_] Да уж конечно! За час до полуночи начнём..."
@@ -42,15 +42,15 @@ msgstr "[_Max_s_01_] Sì, naturalmente! Inizieremo un'ora prima di mezzanotte...
 
 # game/scripts/story_01/schoolgirl.rpy:18 #-#-# translate crowdin ev_084_709a3357:
 msgid "[_Lisa_s_02_] Хорошо. Слушай, Макс, а может ты мне и с посудой поможешь? Так сказать, заодно..."
-msgstr "[_Lisa_s_02_] Va bene. Ehi, Max, perché non mi aiuti con i piatti? Sai, allo stesso modo..."
+msgstr "[_Lisa_s_02_] Va bene. Senti, Max, potresti aiutarmi anche con i piatti? Così, tanto per..."
 
 # game/scripts/story_01/schoolgirl.rpy:19 #-#-# translate crowdin ev_084_fdbdb146:
 msgid "[_Max_s_13_] Сестрёнка, а ты наглеешь! Тебе, может, потом ещё и сказку перед сном почитать?"
-msgstr "[_Max_s_13_] Sorellina, sei sfacciata! Devo leggere anche a te la favola della buonanotte?"
+msgstr "[_Max_s_13_] Sorellina, stai diventando audace! Forse dopo dovrei anche leggerti una favola prima di dormire?"
 
 # game/scripts/story_01/schoolgirl.rpy:21 #-#-# translate crowdin ev_084_d9f9c47e:
 msgid "[_Lisa_s_11_] Ну, а вдруг тебе хочется? Ладно, иди тогда, я сама домою посуду. [nointeract]"
-msgstr "[_Lisa_s_11_] E se tu volessi farlo? Beh, fai pure, i piatti li lavo io. [nointeract]"
+msgstr "[_Lisa_s_11_] E se volessi? Va bene, vai, laverò i piatti da sola. [nointeract]"
 
 # game/scripts/story_01/schoolgirl.rpy:38 #-#-# translate crowdin ev_085_part1_2b517ea6:
 msgid "[_tMax_s_11_] Так, пора заняться подготовкой Лизы к пересдаче контрольной работы..."
