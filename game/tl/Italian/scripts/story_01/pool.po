@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-01-16 13:19\n"
+"PO-Revision-Date: 2024-01-19 11:24\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/story_01/pool.rpy:10 #-#-# translate crowdin alice_swims_talk_2c2308f4:
 msgid "[_Alice_s_01_] Может быть. А что, тоже хочешь? Ну, присоединяйся... [nointeract]"
@@ -202,7 +202,7 @@ msgstr "[_Max_s_06_] Come se gli adulti non lo potessero fare?"
 
 # game/scripts/story_01/pool.rpy:297 #-#-# translate crowdin ann_swim_talk_swims_ede4485c:
 msgid "[_Ann_s_04_] Ха, ещё как могут! Вот так тебе... Будешь знать, как на маму волны пускать! Нравится баловаться, да?"
-msgstr "[_Ann_s_04_] Certo che sì! Ecco fatto. Saprai come fare le onde a tua madre! Ti piace scherzare, vero?"
+msgstr "[_Ann_s_04_] Ah, possono sicuramente! Ecco a te… Ora saprai come fare onde sulla mamma! Ti piace giocare, vero?"
 
 # game/scripts/story_01/pool.rpy:298 #-#-# translate crowdin ann_swim_talk_swims_1a52bbb6:
 msgid "[_Max_s_16_] Я просто повеселиться хотел, мам! Прекращай, а то у меня глаза уже ничего не видят из-за брызг..."
@@ -242,7 +242,7 @@ msgstr "{i}immergersi sotto l'acqua{/i}"
 
 # game/scripts/story_01/pool.rpy:64
 msgid "{i}вынырнуть и напугать Алису{/i}"
-msgstr "{i}emergere e spaventare Alice.{/i}"
+msgstr "{i}emergere e spaventare Alice{/i}"
 
 # game/scripts/story_01/pool.rpy:64
 msgid "{i}вынырнуть и закончить плавать{/i}"
