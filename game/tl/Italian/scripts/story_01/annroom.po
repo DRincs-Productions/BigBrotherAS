@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-01-19 16:49\n"
+"PO-Revision-Date: 2024-01-20 09:47\n"
 
 # TODO: Translation updated at 2024-01-15 22:41 #|#|# # game/scripts/story_01/annroom.rpy:12 #-#-# translate crowdin ev_ann_dressed_d0c78fcb:
 msgid "[_tMax_s_11_] Сейчас мама должна собираться на работу... [nointeract]"
@@ -26,11 +26,11 @@ msgstr "[_tMax_s_11_] Ora la mamma deve fare i bagagli per andare a un ritiro az
 
 # game/scripts/story_01/annroom.rpy:60 #-#-# translate crowdin ev_ann_dressed_voy_01_6a80e4e3:
 msgid "[_tMax_s_03_] Ух ты! Пойти сюда было отличной идеей! Какая же шикарная фигура у моей мамы... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_03_] Wow! Venire qui è stata un’ottima idea! Mia madre ha davvero una figura fantastica… [nointeract]"
 
 # game/scripts/story_01/annroom.rpy:77 #-#-# translate crowdin ev_ann_dressed_fail_voy_01_bd9b272c:
 msgid "[_tMax_s_15_] Ой-ё-ёй! Ещё чуть-чуть и она бы меня заметила... Пора уносить ноги! [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_15_] Oh mio Dio! Ancora un po’ e mi avrebbe notato… È ora di scappare! [nointeract]"
 
 # game/scripts/story_01/annroom.rpy:102 #-#-# translate crowdin ev_ann_dressed_fail_voy_02_1ab6bb00:
 msgid "[_Ann_s_13_] Господи, Макс! Ты почему там стоишь? Неужели подглядываешь за тем, как я собираюсь на работу?! [nointeract]"
