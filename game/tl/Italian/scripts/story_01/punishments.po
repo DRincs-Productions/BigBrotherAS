@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-01-19 16:50\n"
+"PO-Revision-Date: 2024-01-20 16:47\n"
 
 # TODO: Translation updated at 2024-01-15 22:41 #|#|# # game/scripts/story_01/punishments.rpy:41 #-#-# translate crowdin punishments_allocation_d4a1750b:
 msgid "[_Ann_s_10_] Прежде, чем мы начнём, кое-кто заслуживает наказания и сейчас все на это посмотрят..."
@@ -278,7 +278,7 @@ msgstr "[_Max_s_12_] Beh, mi è capitato di vederti fare la doccia, mamma..."
 
 # game/scripts/story_01/punishments.rpy:290 #-#-# translate crowdin reprimanded_reason_4af8d164:
 msgid "[_Max_s_12_] Ну, я случайно увидел, как ты переодеваешься, мам..."
-msgstr ""
+msgstr "[_Max_s_12_] Beh, mi è capitato di vederti mentre ti cambiavi, mamma..."
 
 # game/scripts/story_01/punishments.rpy:291 #-#-# translate crowdin reprimanded_reason_3d133b7f:
 msgid "[_Ann_s_12_] Очень хочу надеяться, что это действительно было случайно. Тем не менее, ты пойман и как я уже сказала, получаешь предупреждение."
