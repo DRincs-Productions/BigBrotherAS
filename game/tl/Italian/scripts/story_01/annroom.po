@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-01-20 13:44\n"
+"PO-Revision-Date: 2024-01-21 16:50\n"
 
 # TODO: Translation updated at 2024-01-15 22:41 #|#|# # game/scripts/story_01/annroom.rpy:12 #-#-# translate crowdin ev_ann_dressed_d0c78fcb:
 msgid "[_tMax_s_11_] Сейчас мама должна собираться на работу... [nointeract]"
@@ -34,11 +34,11 @@ msgstr "[_tMax_s_15_] Oh mio Dio! Ancora un po’ e mi avrebbe notato… È ora 
 
 # game/scripts/story_01/annroom.rpy:102 #-#-# translate crowdin ev_ann_dressed_fail_voy_02_1ab6bb00:
 msgid "[_Ann_s_13_] Господи, Макс! Ты почему там стоишь? Неужели подглядываешь за тем, как я собираюсь на работу?! [nointeract]"
-msgstr "[_Ann_s_13_] Signore, Max! Perché stai lì in piedi? Stai forse spiando mentre mi preparo per il lavoro?! [nointeract]"
+msgstr "[_Ann_s_13_] Oddio, Max! Perché stai lì in piedi? Stai forse spiando mentre mi preparo per il lavoro?! [nointeract]"
 
 # game/scripts/story_01/annroom.rpy:104 #-#-# translate crowdin ev_ann_dressed_fail_voy_02_84797fa7:
 msgid "[_Ann_s_13_] Господи, Макс! Ты почему там стоишь? Неужели подглядываешь за тем, как я собираюсь для похода по магазинам?! [nointeract]"
-msgstr "[_Ann_s_13_] Signore, Max! Perché stai lì in piedi? Stai forse spiando mentre mi preparo per fare shopping?! [nointeract]"
+msgstr "[_Ann_s_13_] Oddio, Max! Perché stai lì in piedi? Stai forse spiando mentre mi preparo per fare shopping?! [nointeract]"
 
 # game/scripts/story_01/annroom.rpy:112 #-#-# translate crowdin ev_ann_dressed_fail_voy_02_94b7cbf3:
 msgid "[_Ann_s_10_] Как смешно! Шуточки у тебя, конечно... Мне сейчас некогда, Макс, поэтому я просто сделаю вид, что не слышала тебя, а ты в свою очередь не будешь мне мешать... [nointeract]"
