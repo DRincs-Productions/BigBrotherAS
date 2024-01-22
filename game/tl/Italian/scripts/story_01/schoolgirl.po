@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-01-21 16:50\n"
+"PO-Revision-Date: 2024-01-22 10:54\n"
 
 # TODO: Translation updated at 2024-01-15 22:41 #|#|# # game/scripts/story_01/schoolgirl.rpy:8 #-#-# translate crowdin ev_084_03562824:
 msgid "[_tMax_s_13_] Теперь нужно узнать у Лизы, чем я могу ей помочь по учёбе. Надеюсь, что от меня не так уж и много всего потребуется..."
@@ -218,11 +218,11 @@ msgstr "[_Max_s_15_] Per cosa? Non ho ancora fatto nulla!"
 
 # game/scripts/story_01/schoolgirl.rpy:140 #-#-# translate crowdin ev_085_part2_665ae98c:
 msgid "[_Lisa_s_10_] Ты наверняка опять руками своими ко мне полезешь. Не надо меня, пожалуйста, отвлекать, я же могу ошибок понаделать."
-msgstr "[_Lisa_s_10_] Sono sicuro che mi metterai di nuovo le mani addosso. Ti prego, non distrarmi, potrei commettere un errore."
+msgstr "[_Lisa_s_10_] Sono sicura che mi metterai di nuovo le mani addosso. Ti prego, non distrarmi, potrei commettere un errore."
 
 # game/scripts/story_01/schoolgirl.rpy:141 #-#-# translate crowdin ev_085_part2_c4a76286:
 msgid "[_Max_s_12_] Эх... Ладно, не лезу. Решай себе спокойно."
-msgstr "[_Max_s_12_] Eh... Ok, non interferirò. Decidi tu stesso con calma."
+msgstr "[_Max_s_12_] Eh... Ok, non interferirò. Decidi tu stessa con calma."
 
 # game/scripts/story_01/schoolgirl.rpy:142 #-#-# translate crowdin ev_085_part2_d664c813:
 msgid "[_Lisa_s_02_] Мне уже не так много осталось и даже, вроде, всё получается. Вот, проверь, всё ли у меня правильно решено?"
@@ -278,7 +278,7 @@ msgstr "[_Max_s_01_] Fammi pensare... Fai i compiti senza l'asciugamano! Così n
 
 # game/scripts/story_01/schoolgirl.rpy:194 #-#-# translate crowdin ev_087_dd80b740:
 msgid "[_Lisa_s_12_] Ну ага! У меня же под ним одни лишь трусики надеты. Зачем тебе это? Я твоя сестра и требовать от меня такого... стыдно должно быть!"
-msgstr "[_Lisa_s_12_] Bene sì! Sotto indosso solo le mutandine. Perchè ne hai bisogno? Sono tua sorella e pretendere questo da me... dovresti vergognarti!"
+msgstr "[_Lisa_s_12_] Bene sì! Sotto indosso solo le mutandine. Perché ne hai bisogno? Sono tua sorella e pretendere questo da me... Dovresti vergognarti!"
 
 # game/scripts/story_01/schoolgirl.rpy:195 #-#-# translate crowdin ev_087_abba55d2:
 msgid "[_Max_s_03_] Допустим, мне стыдно, но я не прошу делать уроки в одних трусиках. Надень ещё лифчик. Как тебе моё предложение?"
@@ -376,7 +376,7 @@ msgstr "[_Max_s_01_] È chiaro. Continua..."
 
 # game/scripts/story_01/schoolgirl.rpy:292 #-#-# translate crowdin ev_088_77b30bf1:
 msgid "[_tMax_s_12_] Эх, вот скука! Может, поприставать к Лизе? Хотя бы самую малость? Главное - не переусердствовать, иначе я нескоро увижу её за уроками без полотенца... [nointeract]"
-msgstr "[_tMax_s_12_] Oh, che noia! Forse dovrei provarci con Lisa. Solo un po'? L'importante è non esagerare, o non la vedrò più a lezione senza un asciugamano.... [nointeract]"
+msgstr "[_tMax_s_12_] Oh, che noia! Forse dovrei provarci con Lisa. Solo un po'? L'importante è non esagerare, o non la vedrò più a lezione senza un asciugamano... [nointeract]"
 
 # game/scripts/story_01/schoolgirl.rpy:294 #-#-# translate crowdin ev_088_be734433:
 msgid "[_tMax_s_14_] Эх, вот скука! И ведь к Лизе даже поприставать нельзя, она маме нажалуется и меня накажут. А если ей не помогать, то мама может наказать уже нас обоих. Скорее бы новая неделя, чтобы моя помощь была не за просто так... [nointeract]"
@@ -512,7 +512,7 @@ msgstr "[_tMax_s_04_] È così bello ricevere un piccolo abbraccio da mia sorell
 
 # game/scripts/story_01/schoolgirl.rpy:399 #-#-# translate crowdin ev_088_next_help_9a84fcd4:
 msgid "[_Lisa_s_14_] Ой, полотенце! Да что же это..."
-msgstr "[_Lisa_s_14_] Oh, un asciugamano! Cos'è questo..."
+msgstr "[_Lisa_s_14_] Oh, un asciugamano! Ma che cos’è questo..."
 
 # game/scripts/story_01/schoolgirl.rpy:400 #-#-# translate crowdin ev_088_next_help_775d3776:
 msgid "[_Max_s_05_] Ого, я не просил, но за голые сисечки спасибо!"
@@ -684,7 +684,7 @@ msgstr "[_Lisa_s_15_] Max! Ti ho detto di non guardare! Girati velocemente... [n
 
 # game/scripts/story_01/schoolgirl.rpy:622 #-#-# translate crowdin ev_090_turned_16cbc008:
 msgid "[_Lisa_s_01_] Я всё. Давай помогай, а то нам столько всего непонятного назадавали!"
-msgstr "[_Lisa_s_01_] Io ho finito. Forza, aiutaci, perché ci sono state fatte tante domande!"
+msgstr "[_Lisa_s_01_] Ecco tutto. Dai, aiutami, ci hanno dato così tante cose che non capisco!"
 
 # game/scripts/story_01/schoolgirl.rpy:623 #-#-# translate crowdin ev_090_turned_b14e8276:
 msgid "[_Max_s_11_] Сейчас посмотрим..."
