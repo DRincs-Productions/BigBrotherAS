@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/screens/collection.po\n"
+"X-Crowdin-File-ID: 12776\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2024-01-17 13:02\n"
+
+# TODO: Translation updated at 2024-01-09 23:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/collection.rpy:27
+msgid "Переодевания"
+msgstr "Cambio d'abito"
+
+# game/scripts/screens/collection.rpy:29
+msgid "Воспоминания"
+msgstr "Ricordi"
+
+# game/scripts/screens/collection.rpy:31
+msgid "Сны"
+msgstr "Sogni"
+
+# game/scripts/screens/collection.rpy:33
+msgid "Вернуться"
+msgstr "Indietro"
+
+# game/scripts/screens/collection.rpy:118
+msgid "Предыдущая"
+msgstr "Precedente"
+
+# game/scripts/screens/collection.rpy:121
+msgid "Неподозревающая"
+msgstr "Insospettabile"
+
+# game/scripts/screens/collection.rpy:123
+msgid "Удивлённая"
+msgstr "Sorpreso"
+
+# game/scripts/screens/collection.rpy:125
+msgid "Сердитая"
+msgstr "Arrabbiato"
+
+# game/scripts/screens/collection.rpy:127
+msgid "Сильно стесняющаяся"
+msgstr "Fortemente consapevole di sé"
+
+# game/scripts/screens/collection.rpy:129
+msgid "Стесняющаяся"
+msgstr "Timido"
+
+# game/scripts/screens/collection.rpy:131
+msgid "!!! ОШИБКА !!!"
+msgstr "!!! ERRORE !!!"
+
+# game/scripts/screens/collection.rpy:149
+msgid "Следующая"
+msgstr "Successivo"
+
+# game/scripts/screens/collection.rpy:180
+msgid "Макс ещё не видел Алису такой!"
+msgstr "Max non aveva mai visto Alice in questo modo!"
+
+# game/scripts/screens/collection.rpy:182
+msgid "Макс ещё не видел маму такой!"
+msgstr "Max non ha mai visto la sua mamma così!"
+
+# game/scripts/screens/collection.rpy:184
+msgid "Макс ещё не видел Лизу такой!"
+msgstr "Max non aveva mai visto Lisa in questo modo!"
+
+# game/scripts/screens/collection.rpy:254
+msgid "Этот сон ещё не открыт."
+msgstr "Questo sogno deve ancora essere scoperto."
+

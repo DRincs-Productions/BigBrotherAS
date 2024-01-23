@@ -10,57 +10,53 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-10-15 15:48\n"
+"PO-Revision-Date: 2024-01-15 14:07\n"
 
-# TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/diary.rpy:24
+# TODO: Translation updated at 2024-01-09 23:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/diary.rpy:24
 msgid "Задания"
-msgstr ""
+msgstr "Görevler"
 
 # game/scripts/screens/diary.rpy:27
 msgid "Заметки"
-msgstr ""
-
-# game/scripts/screens/diary.rpy:30
-msgid "Вернуться"
-msgstr ""
+msgstr "Notlar"
 
 # game/scripts/screens/diary.rpy:54
 msgid "ТЕКУЩИЕ"
-msgstr ""
+msgstr "DEVAM EDİYOR"
 
 # game/scripts/screens/diary.rpy:62
 msgid "ВЫПОЛНЕННЫЕ"
-msgstr ""
+msgstr "YÜRÜRLÜĞE GİRDİ"
 
 # game/scripts/screens/diary.rpy:76
 msgid "ВСЕ"
-msgstr ""
+msgstr "TÜMÜ"
 
 # game/scripts/screens/diary.rpy:139
 msgid "Сейчас здесь нет заданий"
-msgstr ""
+msgstr "Şu anda burada herhangi bir görev yok"
 
 # game/scripts/screens/diary.rpy:182
 msgid "Завершите задание, чтобы получить награду..."
-msgstr ""
+msgstr "Ödülü almak için görevi tamamlayın..."
 
 # game/scripts/screens/diary.rpy:184
 msgid "Нужно приблизиться к завершению задания, чтобы узнать о награде..."
-msgstr ""
+msgstr "Ödülü öğrenmek için görevi tamamlamaya yaklaşmanız gerekiyor..."
 
 # game/scripts/screens/diary.rpy:187
 msgid "НАГРАДА:"
-msgstr ""
+msgstr "ÖDÜL:"
 
 # game/scripts/screens/diary.rpy:329
 msgid "МОЯ СТАРШАЯ СЕСТРЁНКА"
-msgstr ""
+msgstr "BÜYÜK KIZ KARDEŞİM"
 
-# game/scripts/screens/diary.rpy:335
+# game/scripts/screens/diary.rpy:337
 msgid "МОЯ МАМА"
-msgstr ""
+msgstr "BENİM ANNEM"
 
-# game/scripts/screens/diary.rpy:346
+# game/scripts/screens/diary.rpy:349
 msgid "НАШИ ВЗАИМООТНОШЕНИЯ:"
-msgstr ""
+msgstr "ILIŞKIMIZ:"
 

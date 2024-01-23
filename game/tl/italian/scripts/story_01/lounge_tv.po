@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-10-15 15:47\n"
+"PO-Revision-Date: 2024-01-16 13:18\n"
 
-# TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/lounge_tv.rpy:8 #-#-# translate crowdin ev_ann_tv_talk_df9c7313:
+# TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/story_01/lounge_tv.rpy:8 #-#-# translate crowdin ev_ann_tv_talk_df9c7313:
 msgid "[_Ann_s_01_] Да так, всякую ерунду. Хотела какой-нибудь фильм посмотреть. Садись рядом, если тоже делать нечего... [nointeract]"
 msgstr "[_Ann_s_01_] Era solo roba. Volevo guardare un film. Siediti accanto a me, se non c'è altro da fare... [nointeract]"
 
@@ -180,35 +180,39 @@ msgstr "[_tMax_s_01_] Mi chiedo se la mamma sia completamente nuda sotto l'asciu
 msgid "[_tMax_s_01_] Интересно, а мама под халатом совсем голая или в трусиках? Эх, вот бы как-то умудриться подсмотреть..."
 msgstr "[_tMax_s_01_] Mi chiedo se la mamma sia nuda sotto la vestaglia o in mutande. Vorrei riuscire in qualche modo a dare una sbirciatina..."
 
-# game/scripts/story_01/lounge_tv.rpy:175 #-#-# translate crowdin ev_038_84161fdd:
+# game/scripts/story_01/lounge_tv.rpy:177 #-#-# translate crowdin ev_038_84161fdd:
 msgid "[_tMax_s_12_] Вот зря я начал фантазировать, есть на маме трусики или нет! В джинсах стало прям очень тесно, член стоит как памятник! Хорошо, что из-за моей одежды она это не увидит..."
 msgstr "[_tMax_s_12_] Non avrei mai dovuto fantasticare sul fatto che mia madre indossasse o meno le mutande! I miei jeans stavano diventando molto stretti, il mio cazzo si ergeva come un monumento! Meno male che non può vederlo da dietro i miei vestiti..."
 
-# game/scripts/story_01/lounge_tv.rpy:180 #-#-# translate crowdin ev_038_83b78545:
+# game/scripts/story_01/lounge_tv.rpy:180 #-#-# translate crowdin ev_038_e541de06:
+msgid "[_tMax_s_12_] Вот зря я начал фантазировать, есть на маме трусики или нет! В этих шортах, хоть они и достаточно просторные, уже не так легко скрыть возбуждение, как в джинсах. Остаётся надеяться, что она это не увидит..."
+msgstr "[_tMax_s_12_] Non avrei dovuto iniziare a fantasticare sul fatto che la mamma indossasse o meno le mutandine! Con questi pantaloncini, anche se sono abbastanza spaziosi, non è facile nascondere la mia eccitazione come con i jeans. Spero solo che non lo veda..."
+
+# game/scripts/story_01/lounge_tv.rpy:185 #-#-# translate crowdin ev_038_83b78545:
 msgid "[_Ann_s_04_] Ну что, отличный сериал, как мне кажется! А тебе понравилось, Макс? [nointeract]"
 msgstr "[_Ann_s_04_] Beh, è un grande spettacolo, credo! Ti è piaciuto, Max? [nointeract]"
 
-# game/scripts/story_01/lounge_tv.rpy:182 #-#-# translate crowdin ev_038_63b20a98:
+# game/scripts/story_01/lounge_tv.rpy:187 #-#-# translate crowdin ev_038_63b20a98:
 msgid "[_Ann_s_02_] Ну, я рада. Ладно, спасибо что посидел со мной. Пойду в свою комнату, хватит глаза портить на сегодня..."
 msgstr "[_Ann_s_02_] Beh, mi fa piacere. Va bene, grazie per esserti seduto con me. Vado in camera mia, smetto di rovinarmi gli occhi per oggi..."
 
-# game/scripts/story_01/lounge_tv.rpy:183 #-#-# translate crowdin ev_038_80f5b0f1:
+# game/scripts/story_01/lounge_tv.rpy:188 #-#-# translate crowdin ev_038_80f5b0f1:
 msgid "[_Max_s_01_] Ага, давай..."
 msgstr "[_Max_s_01_] Sì, dai..."
 
-# game/scripts/story_01/lounge_tv.rpy:186 #-#-# translate crowdin ev_038_7a5cb61d:
+# game/scripts/story_01/lounge_tv.rpy:191 #-#-# translate crowdin ev_038_7a5cb61d:
 msgid "[_Ann_s_11_] Пофантазировать? Не поняла, ты о чём..."
 msgstr "[_Ann_s_11_] Fantasticare? Non capisco cosa intendi..."
 
-# game/scripts/story_01/lounge_tv.rpy:187 #-#-# translate crowdin ev_038_729c4d17:
+# game/scripts/story_01/lounge_tv.rpy:192 #-#-# translate crowdin ev_038_729c4d17:
 msgid "[_Max_s_04_] Не бери в голову, это я так, пошутил..."
 msgstr "[_Max_s_04_] Non importa, stavo solo scherzando..."
 
-# game/scripts/story_01/lounge_tv.rpy:188 #-#-# translate crowdin ev_038_9f03cc4b:
+# game/scripts/story_01/lounge_tv.rpy:193 #-#-# translate crowdin ev_038_9f03cc4b:
 msgid "[_Ann_s_02_] Ясно. Ну, спасибо за компанию. Пойду в свою комнату, хватит глаза портить на сегодня..."
 msgstr "[_Ann_s_02_] Bene, grazie per la compagnia. Vado in camera mia, smetto di rovinarmi gli occhi per oggi..."
 
-# game/scripts/story_01/lounge_tv.rpy:189 #-#-# translate crowdin ev_038_9c32b796:
+# game/scripts/story_01/lounge_tv.rpy:194 #-#-# translate crowdin ev_038_9c32b796:
 msgid "[_Max_s_01_] Ага, хорошо посидели..."
 msgstr "[_Max_s_01_] Sì, ci siamo divertiti..."
 
@@ -256,11 +260,11 @@ msgstr "Vediamo..."
 msgid "Мам, хочешь массаж?"
 msgstr "Mamma, vuoi un massaggio?"
 
-# game/scripts/story_01/lounge_tv.rpy:179
+# game/scripts/story_01/lounge_tv.rpy:184
 msgid "Да, хорошо посидели!"
 msgstr "Sì, ci siamo divertiti!"
 
-# game/scripts/story_01/lounge_tv.rpy:179
+# game/scripts/story_01/lounge_tv.rpy:184
 msgid "Да, было о чём пофантазировать!"
 msgstr "Sì, c'era molto da fantasticare!"
 
