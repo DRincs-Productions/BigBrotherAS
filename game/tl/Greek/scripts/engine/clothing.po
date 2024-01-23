@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2024-01-15 14:10\n"
+"PO-Revision-Date: 2024-01-23 14:49\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/clothing.rpy:924
 msgid "Лонгслив + джинсы"
@@ -18,7 +18,7 @@ msgstr ""
 
 # game/scripts/engine/clothing.rpy:924
 msgid "Шорты"
-msgstr ""
+msgstr "Σορτς"
 
 # game/scripts/engine/clothing.rpy:960
 msgid "Обнажённая"
@@ -50,7 +50,7 @@ msgstr ""
 
 # game/scripts/engine/clothing.rpy:960
 msgid "Трусики"
-msgstr ""
+msgstr "Εσώρουχα"
 
 # game/scripts/engine/clothing.rpy:960
 msgid "Съехавшие трусики"
