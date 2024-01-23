@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-01-09 23:01
 
 # game/scripts/engine/interact.rpy:35
 translate spanish talks_start_41e41361:
@@ -72,115 +72,119 @@ translate spanish strings:
     old "{i}уйти{/i}"
     new "{i}dejar{/i}"
 
-    # game/scripts/engine/interact.rpy:174
+    # game/scripts/engine/interact.rpy:177
     old "Помочь с посудой"
     new "Ayuda con los platos"
 
-    # game/scripts/engine/interact.rpy:174
+    # game/scripts/engine/interact.rpy:177
     old "Любоваться"
     new "admire"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Тебе не жарко в этом купальнике?"
     new "¿No tienes calor con ese bañador?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Значит Алекс, да?"
     new "Así que es Alex, ¿eh?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Хорошо загорается?"
     new "¿Ilumina bien?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Загораешь?"
     new "¿Tomando el sol?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Как загорается?"
     new "¿Cómo se enciende?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Что читаешь?"
     new "¿Qué estás leyendo?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Не возражаешь против компании?"
     new "¿No te importa la compañía?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Что смотришь?"
     new "¿Qué estás viendo?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Плавать собираешься?"
     new "¿Vas a nadar?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Я занырну к тебе?"
     new "¿Me puedo bañar contigo?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Почему не плаваешь?"
     new "¿Por qué no nadas?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Поплаваем вместе?"
     new "¿Nadamos juntos?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Будешь плавать?"
     new "¿Vas a nadar?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Не против, если я присоединюсь?"
     new "¿Te importa si me uno?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Насчёт случая с Лизой..."
     new "En cuanto al caso Lisa..."
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Насчёт случая утром..."
     new "Sobre el incidente de esta mañana..."
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Тебе помочь накрыть на стол?"
     new "¿Necesitas ayuda para poner la mesa?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Давай я накрою на стол?"
     new "¿Por qué no pongo yo la mesa?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Хочешь поплавать перед сном?"
     new "¿Quieres ir a nadar antes de acostarte?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Решила поплавать перед сном?"
     new "¿Vas a nadar antes de acostarte?"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Ты опять куришь?!"
     new "¡¿Estás fumando otra vez?!"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Насчёт твоего парня..."
     new "Sobre tu novio..."
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Насчёт Алекса..."
     new "En cuanto a Alex..."
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Я решил потренироваться..."
     new "Decidí practicar..."
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "У меня для тебя обещанная вкусняшка!"
     new "¡Tengo un regalo prometido para ti!"
 
-    # game/scripts/engine/interact.rpy:180
+    # game/scripts/engine/interact.rpy:183
     old "Я убрал паука из ванной комнаты!"
     new "¡Saqué la araña del baño!"
+
+    # game/scripts/engine/interact.rpy:183
+    old "Тебе помочь с домашним заданием?"
+    new ""
 

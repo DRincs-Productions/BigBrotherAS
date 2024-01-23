@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-01-09 23:01
 
 translate french strings:
 
@@ -82,67 +82,71 @@ translate french strings:
     old "Свернуть"
     new "Effondrement"
 
-    # game/scripts/screens/navigation.rpy:360
+    # game/scripts/screens/navigation.rpy:355
+    old "Галерея"
+    new ""
+
+    # game/scripts/screens/navigation.rpy:362
     old "Поддержать игру на Boosty"
     new "Soutenir le jeu sur Boosty"
 
-    # game/scripts/screens/navigation.rpy:366
+    # game/scripts/screens/navigation.rpy:368
     old "Поддержать игру на Patreon"
     new "Soutenez le jeu sur Patreon"
 
-    # game/scripts/screens/navigation.rpy:372
+    # game/scripts/screens/navigation.rpy:374
     old "Меню игры"
     new "Menu du jeu"
 
-    # game/scripts/screens/navigation.rpy:383
+    # game/scripts/screens/navigation.rpy:385
     old "Обучение"
     new "Formation"
 
-    # game/scripts/screens/navigation.rpy:393
+    # game/scripts/screens/navigation.rpy:395
     old "Личный дневник"
     new "Journal personnel"
 
-    # game/scripts/screens/navigation.rpy:505
+    # game/scripts/screens/navigation.rpy:507
     old "Скрыть"
     new "Cacher"
 
-    # game/scripts/screens/navigation.rpy:543
+    # game/scripts/screens/navigation.rpy:545
     old "Продолжение следует..."
     new "A suivre..."
 
-    # game/scripts/screens/navigation.rpy:602
+    # game/scripts/screens/navigation.rpy:604
     old "Что бы выбрать?"
     new "Que choisiriez-vous ?"
 
-    # game/scripts/screens/navigation.rpy:614
+    # game/scripts/screens/navigation.rpy:616
     old "(куплено)"
     new "(acheté)"
 
-    # game/scripts/screens/navigation.rpy:625
+    # game/scripts/screens/navigation.rpy:627
     old "{i}готово{/i}"
     new "{i}Fait{/i}"
 
-    # game/scripts/screens/navigation.rpy:680
+    # game/scripts/screens/navigation.rpy:682
     old "ВНИМАНИЕ"
     new "ATTENTION"
 
-    # game/scripts/screens/navigation.rpy:681
+    # game/scripts/screens/navigation.rpy:683
     old "КОНТЕНТ ДЛЯ ВЗРОСЛЫХ"
     new "CONTENU POUR ADULTES"
 
-    # game/scripts/screens/navigation.rpy:685
+    # game/scripts/screens/navigation.rpy:687
     old "Эта игра содержит контент сексуального характера"
     new "Ce jeu contient du contenu sexuel"
 
-    # game/scripts/screens/navigation.rpy:686
+    # game/scripts/screens/navigation.rpy:688
     old "Продолжая, ты подтверждаешь, что достаточно взрослый для такого контента"
     new "En continuant, vous confirmez que vous êtes assez vieux pour un tel contenu"
 
-    # game/scripts/screens/navigation.rpy:688
+    # game/scripts/screens/navigation.rpy:690
     old "Все персонажи, изображённые в этой игре, вымышлены и старше 18 лет"
     new "Tous les personnages représentés dans ce jeu sont fictifs et âgés de plus de 18 ans"
 
-    # game/scripts/screens/navigation.rpy:690
+    # game/scripts/screens/navigation.rpy:692
     old "Продолжить"
     new "Continuer"
 

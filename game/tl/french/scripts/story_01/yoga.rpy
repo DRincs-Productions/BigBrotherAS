@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-01-09 23:01
 
 # game/scripts/story_01/yoga.rpy:19
 translate french forced_phys_ed_first_time_521877f4:
@@ -55,10 +55,10 @@ translate french forced_phys_ed_first_time_a2e3bedb:
     Ann 02 "Et faites vos exercices d'échauffement pour que je n'aie pas à me battre avec vous. Regarde-moi bien et répète..."
 
 # game/scripts/story_01/yoga.rpy:39
-translate french forced_phys_ed_first_time_fe9d736e:
+translate french forced_phys_ed_first_time_afdb9873:
 
-    # tMax 04 "Не переживай, мам, за твоей сочной попкой я буду смотреть ОЧЕНЬ внимательно. Чёрт, чуть в слух не сказал!"
-    tMax 04 "Ne t'inquiète pas, maman, je surveillerai ton cul juteux de très près. Merde, j'ai failli le dire à voix haute !"
+    # tMax 04 "Не переживай, мам, за твоей сочной попкой я буду смотреть ОЧЕНЬ внимательно. Чёрт, чуть вслух не сказал!"
+    ""
 
 # game/scripts/story_01/yoga.rpy:40
 translate french forced_phys_ed_first_time_6e238774:
@@ -318,313 +318,313 @@ translate french forced_phys_ed_repeated_lvl_1_54967b5c:
     # Ann 10 "Вот и правильно. Меньше всего мне хочется, прямо перед завтраком, позорить тебя перед сёстрами. Лишнюю одежду снимай, всё полегче будет." nointeract
     Ann 10 "C'est vrai. Je ne veux surtout pas te mettre dans l'embarras devant tes sœurs avant le petit déjeuner. Déshabille-toi, ce sera plus facile." nointeract
 
-# game/scripts/story_01/yoga.rpy:189
+# game/scripts/story_01/yoga.rpy:188
 translate french forced_phys_ed_repeated_lvl_1_d75d598b:
 
     # Ann 10 "Вот и правильно. Меньше всего мне хочется, прямо перед завтраком, позорить тебя перед сёстрами."
     Ann 10 "C'est vrai. Je ne veux surtout pas te mettre dans l'embarras devant tes sœurs juste avant le petit déjeuner."
 
-# game/scripts/story_01/yoga.rpy:190
+# game/scripts/story_01/yoga.rpy:189
 translate french forced_phys_ed_repeated_lvl_1_3621921b:
 
     # Max 00 "Давай начинать..."
     Max 00 "Commençons..."
 
-# game/scripts/story_01/yoga.rpy:197
+# game/scripts/story_01/yoga.rpy:196
 translate french forced_phys_ed_repeated_lvl_1_a4e8aac6:
 
     # Ann 01 "Вставай рядом, немного разомнёмся... И вставай так, чтобы не видеть Лизу!"
     Ann 01 "Mets-toi à côté de moi, on va s'échauffer un peu... Et levez-vous pour que vous ne puissiez pas voir Lisa !"
 
-# game/scripts/story_01/yoga.rpy:198
+# game/scripts/story_01/yoga.rpy:197
 translate french forced_phys_ed_repeated_lvl_1_284d183c:
 
     # Max 14 "Эх, как всегда..."
     Max 14 "Eh, comme toujours..."
 
-# game/scripts/story_01/yoga.rpy:203
+# game/scripts/story_01/yoga.rpy:202
 translate french forced_phys_ed_repeated_lvl_1_a2e3bedb:
 
     # Ann 02 "И давай поактивнее разминайся, чтобы мне не пришлось с тобой ругаться. Внимательно смотри за мной и повторяй..."
     Ann 02 "Et faites vos exercices d'échauffement pour que je n'aie pas à me battre avec vous. Regarde-moi bien et répète..."
 
-# game/scripts/story_01/yoga.rpy:204
+# game/scripts/story_01/yoga.rpy:203
 translate french forced_phys_ed_repeated_lvl_1_a6b59ac8:
 
     # tMax 04 "Не переживай, мам, за твоей сочной попкой я буду смотреть ОЧЕНЬ внимательно."
     tMax 04 "Ne t'inquiète pas maman, je surveillerai ton cul juteux de très près."
 
-# game/scripts/story_01/yoga.rpy:205
+# game/scripts/story_01/yoga.rpy:204
 translate french forced_phys_ed_repeated_lvl_1_4786c45c:
 
     # Ann 03 "Энергичнее, Макс! Что-то ты какой-то еле живой."
     Ann 03 "Allez, Max ! Tu as l'air à peine vivant."
 
-# game/scripts/story_01/yoga.rpy:206
+# game/scripts/story_01/yoga.rpy:205
 translate french forced_phys_ed_repeated_lvl_1_3f82d39b:
 
     # Max 11 "Я стараюсь, но ещё как-то не особо проснулся."
     Max 11 "J'essaie, mais je ne suis pas encore vraiment réveillé."
 
-# game/scripts/story_01/yoga.rpy:211
+# game/scripts/story_01/yoga.rpy:210
 translate french forced_phys_ed_repeated_lvl_1_2b0a6573:
 
     # Ann 11 "Хорошо бы ещё было ноги растянуть, но в джинсах тебе это будет крайне проблематично сделать."
     Ann 11 "Il serait également agréable de se dégourdir les jambes, mais vous aurez du mal à le faire en jeans."
 
-# game/scripts/story_01/yoga.rpy:212
+# game/scripts/story_01/yoga.rpy:211
 translate french forced_phys_ed_repeated_lvl_1_53416605:
 
     # Max 16 "Да ну, мам, какая растяжка! У меня и без этого джинсы во всех швах трещат."
     Max 16 "Oh, allez, maman, pas d'étirements ! Mon jean se déchire déjà au niveau des coutures."
 
-# game/scripts/story_01/yoga.rpy:214
+# game/scripts/story_01/yoga.rpy:213
 translate french forced_phys_ed_repeated_lvl_1_74a2be70:
 
     # Ann 01 "Значит переходим к основным упражнениям. Я буду заниматься йогой, а ты отжимайся, приседай и упражнения на пресс делай. И на совесть, Макс!" nointeract
     Ann 01 "Passons donc aux exercices de base. Je fais du yoga, tu fais des pompes, des squats et des abdos. Et sur la conscience, Max !" nointeract
 
-# game/scripts/story_01/yoga.rpy:218
+# game/scripts/story_01/yoga.rpy:217
 translate french forced_phys_ed_repeated_lvl_1_aecdfc1f:
 
     # Ann 02 "Знаешь, что поможет тебе взбодриться? Упражнения на рястяжку! Ты вон, как раз в шортах."
     ""
 
-# game/scripts/story_01/yoga.rpy:219
+# game/scripts/story_01/yoga.rpy:218
 translate french forced_phys_ed_repeated_lvl_1_49124f87:
 
     # Max 12 "Ну, можно и потянуться ещё немного..."
     ""
 
-# game/scripts/story_01/yoga.rpy:223
+# game/scripts/story_01/yoga.rpy:222
 translate french forced_phys_ed_repeated_lvl_1_de81c139:
 
     # Ann 04 "Давай вместе со мной. Гибкость лучше поддерживать с молодых лет, сынок. Если в это втянуться, то потом растягиваться стенет даже приятно."
     ""
 
-# game/scripts/story_01/yoga.rpy:224
+# game/scripts/story_01/yoga.rpy:223
 translate french forced_phys_ed_repeated_lvl_1_bf3fc7f2:
 
     # tMax 03 "Про «потом» не знаю, а мне уже сейчас приятно растягиваться. Ещё бы, ведь мама у меня такая конфетка!"
     ""
 
-# game/scripts/story_01/yoga.rpy:226
+# game/scripts/story_01/yoga.rpy:225
 translate french forced_phys_ed_repeated_lvl_1_4cbdad2a:
 
     # Ann 01 "Теперь переходим к основным упражнениям. Я буду заниматься йогой, а ты отжимайся, приседай и упражнения на пресс делай. И на совесть, Макс!" nointeract
     ""
 
-# game/scripts/story_01/yoga.rpy:234
+# game/scripts/story_01/yoga.rpy:233
 translate french forced_phys_ed_repeated_lvl_1_7132072f:
 
     # tMax 04 "На самом деле, не так уж и напряжно потренироваться вместе с мамой. От её гибкости и красоты просто нельзя оторвать взгляд..."
     tMax 04 "En fait, ce n'est pas si difficile de faire de la musculation avec ma mère. On ne peut s'empêcher de remarquer sa souplesse et sa beauté....."
 
-# game/scripts/story_01/yoga.rpy:235
+# game/scripts/story_01/yoga.rpy:234
 translate french forced_phys_ed_repeated_lvl_1_25a94ece:
 
     # Ann 03 "Хорошо справляешься, Макс! Проснулся, наконец-то. Старайся отжиматься чётко и размеренно, а то я тебя здесь надолго задержу."
     Ann 03 "Tu t'en sors bien, Max ! Tu es enfin réveillé. Essaie de faire tes pompes gentiment et régulièrement, ou je vais te garder ici pendant un moment."
 
-# game/scripts/story_01/yoga.rpy:236
+# game/scripts/story_01/yoga.rpy:235
 translate french forced_phys_ed_repeated_lvl_1_2fc2b5fc:
 
     # Max 11 "Ох, мам... Я стараюсь, как могу. Фух, пожалуй хватит..."
     Max 11 "Oh, maman. Je fais de mon mieux. Ugh, ça suffit."
 
-# game/scripts/story_01/yoga.rpy:240
+# game/scripts/story_01/yoga.rpy:239
 translate french forced_phys_ed_repeated_lvl_1_aac69f4c:
 
     # Ann 02 "Молодец! Можешь же, если захочешь. Немножко отдохни и начинай приседать."
     Ann 02 "Bravo ! Vous pouvez le faire si vous le souhaitez. Reposez-vous un peu et commencez à vous accroupir."
 
-# game/scripts/story_01/yoga.rpy:241
+# game/scripts/story_01/yoga.rpy:240
 translate french forced_phys_ed_repeated_lvl_1_0c342304:
 
     # Max 01 "Ага. А ты каждое утро такая бодрая и прекрасная! Эти занятия йогой явно идут тебе только на пользу."
     Max 01 "Oui, c'est vrai. Et tu es si éveillée et si belle tous les matins ! Ce cours de yoga te fait manifestement du bien."
 
-# game/scripts/story_01/yoga.rpy:242
+# game/scripts/story_01/yoga.rpy:241
 translate french forced_phys_ed_repeated_lvl_1_c7ca7916:
 
     # Ann 04 "Спасибо! Приятно каждый раз от тебя слышать, что я не зря этим занимаюсь... Это прекрасно мотивирует."
     Ann 04 "Je vous remercie ! Cela fait plaisir de vous entendre chaque fois que je ne fais pas ça pour rien..... C'est très motivant."
 
-# game/scripts/story_01/yoga.rpy:243
+# game/scripts/story_01/yoga.rpy:242
 translate french forced_phys_ed_repeated_lvl_1_7ceb99f5:
 
     # Max 03 "Так держать, мам!"
     Max 03 "Bravo, maman !"
 
-# game/scripts/story_01/yoga.rpy:245
+# game/scripts/story_01/yoga.rpy:244
 translate french forced_phys_ed_repeated_lvl_1_9c6d668d:
 
     # Ann 01 "Но хватит отдыхать. Продолжаем..." nointeract
     Ann 01 "Mais assez de repos. Continuons..." nointeract
 
-# game/scripts/story_01/yoga.rpy:252
+# game/scripts/story_01/yoga.rpy:251
 translate french forced_phys_ed_repeated_lvl_1_738c9fcb:
 
     # tMax 02 "Приседать-то куда легче, чем отжиматься. Хоть руки отдохнут. И мамой любоваться куда проще... Все эти изгибы, да с её шикарными формами, ммм..."
     tMax 02 "Les squats sont beaucoup plus faciles que les pompes. Au moins, les bras sont reposés. Et c'est beaucoup plus facile d'admirer sa maman. Toutes ces courbes, avec ses formes magnifiques, mmm."
 
-# game/scripts/story_01/yoga.rpy:253
+# game/scripts/story_01/yoga.rpy:252
 translate french forced_phys_ed_repeated_lvl_1_b08ccd65:
 
     # Ann 02 "Правильно, Макс, вот так. Обращай внимание на глубину приседаний, а то большого толку от них не будет."
     Ann 02 "C'est ça, Max, c'est ça. Fais attention à la profondeur des squats, ou ils ne serviront pas à grand-chose."
 
-# game/scripts/story_01/yoga.rpy:254
+# game/scripts/story_01/yoga.rpy:253
 translate french forced_phys_ed_repeated_lvl_1_4edfb6ca:
 
     # Max 11 "Фух... Вот и всё, заканчиваю..."
     Max 11 "Ouf... Ça y est, j'ai fini..."
 
-# game/scripts/story_01/yoga.rpy:259
+# game/scripts/story_01/yoga.rpy:258
 translate french forced_phys_ed_repeated_lvl_1_bf3e0265:
 
     # Ann 03 "Отлично! Отдышись и давай упражнение на пресс делай. Тебе осталось-то всего ничего. Продолжай в том же духе..." nointeract
     Ann 03 "C'est très bien ! Respirez et faites vos abdominaux. Il ne te reste que peu de temps. Continuez à bien travailler." nointeract
 
-# game/scripts/story_01/yoga.rpy:265
+# game/scripts/story_01/yoga.rpy:264
 translate french forced_phys_ed_repeated_lvl_1_e30d56ca:
 
     # Ann 12 "Ох, Макс... Ну... Хорошо, подержу. Немного времени у меня есть. Но будешь качать пресс до отказа, понял?"
     Ann 12 "Oh, Max. Eh bien... D'accord, j'attends. J'ai un peu de temps. Mais tu vas faire tes abdos au maximum, ok ?"
 
-# game/scripts/story_01/yoga.rpy:266
+# game/scripts/story_01/yoga.rpy:265
 translate french forced_phys_ed_repeated_lvl_1_d2edec48:
 
     # Max 12 "Упс, вот влип! Но ладно, я готов."
     Max 12 "Oups, c'est raté ! Mais bon, je suis prêt."
 
-# game/scripts/story_01/yoga.rpy:271
+# game/scripts/story_01/yoga.rpy:270
 translate french forced_phys_ed_repeated_lvl_1_97623b8f:
 
     # tMax 04 "Супер! С такой мотивацией, прямо перед носом, я готов качать пресс хоть до вечера. Вряд ли смогу, но пытаться точно буду!"
     tMax 04 "C'est génial ! Avec cette motivation en face de moi, je suis prête à faire des abdos jusqu'à ce soir. Je ne pense pas que j'y arriverai, mais j'essaierai !"
 
-# game/scripts/story_01/yoga.rpy:273
+# game/scripts/story_01/yoga.rpy:272
 translate french forced_phys_ed_repeated_lvl_1_d858ccca:
 
     # Ann 02 "Отлично, Макс! Главное придерживайся техники в упражнениях, чтобы не навредить себе." nointeract
     Ann 02 "C'est très bien, Max ! L'essentiel est de respecter la technique des exercices pour ne pas se blesser." nointeract
 
-# game/scripts/story_01/yoga.rpy:284
+# game/scripts/story_01/yoga.rpy:283
 translate french forced_phys_ed_repeated_lvl_1_42f14189:
 
     # tMax 02 "Ох... В мамину пышную грудь так и хочется занырнуть. Причём так, бесцеремонно, по-хозяйски! Блин, как же тесно сейчас в джинсах стало..."
     tMax 02 "Oh. Les seins luxuriants de maman donnent envie de s'y plonger. Et comme ça, sans cérémonie, comme un maître ! Bon sang, c'est tellement serré dans mon jean maintenant..."
 
-# game/scripts/story_01/yoga.rpy:286
+# game/scripts/story_01/yoga.rpy:285
 translate french forced_phys_ed_repeated_lvl_1_451b6a41:
 
     # tMax 02 "Ох... В мамину пышную грудь так и хочется занырнуть. Причём так, бесцеремонно, по-хозяйски! Блин, надеюсь в этих шортах не видно, что у меня стоит..."
     tMax 02 "Oh. Les seins luxuriants de maman donnent envie de s'y plonger. Et juste comme ça, sans cérémonie, comme un maître ! Bon sang, j'espère que ce short ne montre pas ma trique."
 
-# game/scripts/story_01/yoga.rpy:292
+# game/scripts/story_01/yoga.rpy:291
 translate french forced_phys_ed_repeated_lvl_1_f62c4819:
 
     # Ann 03 "Давай-давай, Макс! До отказа. Или ты думал, что я позволю тебе тут расслабляться?"
     Ann 03 "Allez, Max ! Tout le long du chemin. Ou tu pensais que j'allais te laisser te détendre ici ?"
 
-# game/scripts/story_01/yoga.rpy:293
+# game/scripts/story_01/yoga.rpy:292
 translate french forced_phys_ed_repeated_lvl_1_844edfca:
 
     # Max 14 "Да всё, мам, хватит. А то уже живот сводит..."
     Max 14 "Allez, maman, ça suffit. J'ai mal au ventre."
 
-# game/scripts/story_01/yoga.rpy:298
+# game/scripts/story_01/yoga.rpy:297
 translate french forced_phys_ed_repeated_lvl_1_bb1ecdb3:
 
     # Ann 10 "Сынок, ты что там так внимательно разглядываешь, а?"
     Ann 10 "Fils, qu'est-ce que tu regardes de si près, hein ?"
 
-# game/scripts/story_01/yoga.rpy:299
+# game/scripts/story_01/yoga.rpy:298
 translate french forced_phys_ed_repeated_lvl_1_983bd7ab:
 
     # Max 11 "Ничего, просто стараюсь до твоих рук дотянуться."
     Max 11 "Rien, j'essaie juste d'atteindre vos mains."
 
-# game/scripts/story_01/yoga.rpy:300
+# game/scripts/story_01/yoga.rpy:299
 translate french forced_phys_ed_repeated_lvl_1_12029364:
 
     # Ann 03 "Правильно, пытайся... И давай, до отказа. Или ты думал, что я позволю тебе тут расслабляться?"
     Ann 03 "C'est vrai, essayez. Et allez jusqu'au bout. Ou vous pensiez que j'allais vous laisser vous détendre ici ?"
 
-# game/scripts/story_01/yoga.rpy:301
+# game/scripts/story_01/yoga.rpy:300
 translate french forced_phys_ed_repeated_lvl_1_844edfca_1:
 
     # Max 14 "Да всё, мам, хватит. А то уже живот сводит..."
     Max 14 "Allez, maman, ça suffit. J'ai mal au ventre."
 
-# game/scripts/story_01/yoga.rpy:304
+# game/scripts/story_01/yoga.rpy:303
 translate french forced_phys_ed_repeated_lvl_1_f62c4819_1:
 
     # Ann 03 "Давай-давай, Макс! До отказа. Или ты думал, что я позволю тебе тут расслабляться?"
     Ann 03 "Allez, Max ! Tout le long du chemin. Ou tu pensais que j'allais te laisser te détendre ici ?"
 
-# game/scripts/story_01/yoga.rpy:305
+# game/scripts/story_01/yoga.rpy:304
 translate french forced_phys_ed_repeated_lvl_1_844edfca_2:
 
     # Max 14 "Да всё, мам, хватит. А то уже живот сводит..."
     Max 14 "Allez, maman, ça suffit. J'ai mal au ventre."
 
-# game/scripts/story_01/yoga.rpy:310
+# game/scripts/story_01/yoga.rpy:309
 translate french forced_phys_ed_repeated_lvl_1_acadcf1d:
 
     # Ann 12 "Макс, давай сам попробуй, я ведь тоже занимаюсь. К тому же, я уже тебе помогаю тем, что даю возможность избежать наказания перед завтраком."
     Ann 12 "Max, pourquoi n'essaies-tu pas ? J'étudie aussi. En plus, je t'aide déjà en te donnant une chance d'éviter la punition avant le petit déjeuner."
 
-# game/scripts/story_01/yoga.rpy:312
+# game/scripts/story_01/yoga.rpy:311
 translate french forced_phys_ed_repeated_lvl_1_77671e12:
 
     # Max 16 "Эх... Ладно, сам так сам." nointeract
     Max 16 "Eh. Très bien, vous êtes seul." nointeract
 
-# game/scripts/story_01/yoga.rpy:322
+# game/scripts/story_01/yoga.rpy:321
 translate french forced_phys_ed_self_pump_abs_7e61876c:
 
     # tMax 13 "Как же неудобно без поддержки... Особенно, когда назад отклоняюсь. Я, правда, ещё и на маму успеваю глазеть, может из-за этого так сложно."
     tMax 13 "C'est tellement inconfortable sans soutien. Surtout quand je suis penchée en arrière. J'ai aussi le temps de regarder ma mère, c'est peut-être pour cela que c'est si difficile."
 
-# game/scripts/story_01/yoga.rpy:323
+# game/scripts/story_01/yoga.rpy:322
 translate french forced_phys_ed_self_pump_abs_068d6e69:
 
     # Ann 02 "Отлично, Макс! Главное придерживайся техники в упражнениях, чтобы не навредить себе."
     Ann 02 "C'est très bien, Max ! L'essentiel est de respecter la technique des exercices pour ne pas se blesser."
 
-# game/scripts/story_01/yoga.rpy:324
+# game/scripts/story_01/yoga.rpy:323
 translate french forced_phys_ed_self_pump_abs_84682d44:
 
     # tMax 14 "Фух... Если снова соглашусь на эти занятия, то нужно будет постараться уговорить маму мне помочь. С ней будет интереснее и легче..."
     tMax 14 "Ouf... Si je reprends ce cours, il faudra que je demande à ma mère de m'aider. Ce sera plus intéressant et plus facile avec elle...."
 
-# game/scripts/story_01/yoga.rpy:329
+# game/scripts/story_01/yoga.rpy:328
 translate french forced_phys_ed_self_pump_abs_120ffe50:
 
     # Ann 04 "Ну как, устал? Силы ещё есть, чтобы шататься и подглядывать, а?"
     Ann 04 "Vous êtes fatigué ? Tu as encore l'énergie de tituber et de jeter un coup d'œil, hein ?"
 
-# game/scripts/story_01/yoga.rpy:330
+# game/scripts/story_01/yoga.rpy:329
 translate french forced_phys_ed_self_pump_abs_9768155b:
 
     # Max 12 "Вряд ли. Что точно хочется, так это завалиться на кровать и отлёживаться."
     Max 12 "Je ne pense pas que ce soit le cas. Ce que j'aimerais vraiment faire, c'est m'allonger sur le lit et me reposer."
 
-# game/scripts/story_01/yoga.rpy:335
+# game/scripts/story_01/yoga.rpy:334
 translate french forced_phys_ed_end_8c2567ca:
 
     # Ann 01 "Всё понятно с тобой. Иди давай, на этот раз с тебя хватит, отчитывать перед всеми не буду."
     Ann 01 "C'est bon pour toi. Vas-y, tu en as eu assez cette fois, je ne te le dirai pas devant tout le monde."
 
-# game/scripts/story_01/yoga.rpy:337
+# game/scripts/story_01/yoga.rpy:336
 translate french forced_phys_ed_end_ab68678b:
 
     # Ann 01 "Всё понятно с тобой. Иди давай, на этот раз с тебя хватит, наказывать перед всеми не буду."
     Ann 01 "C'est bon pour toi. Allez, tu en as eu assez cette fois, je ne te punirai pas devant tout le monde."
 
-# game/scripts/story_01/yoga.rpy:338
+# game/scripts/story_01/yoga.rpy:337
 translate french forced_phys_ed_end_87ff48d3:
 
     # Max 01 "Спасибо, мам."
@@ -636,27 +636,27 @@ translate french strings:
     old "{i}снять верх{/i}"
     new "{i}enlever le couvercle{/i}"
 
-    # game/scripts/story_01/yoga.rpy:213
+    # game/scripts/story_01/yoga.rpy:212
     old "{i}отжиматься{/i}"
     new "{i}pompes{/i}"
 
-    # game/scripts/story_01/yoga.rpy:244
+    # game/scripts/story_01/yoga.rpy:243
     old "{i}приседать{/i}"
     new "{i}squat{/i}"
 
-    # game/scripts/story_01/yoga.rpy:258
+    # game/scripts/story_01/yoga.rpy:257
     old "А ты подержишь меня за ноги?"
     new "Voulez-vous me tenir les jambes ?"
 
-    # game/scripts/story_01/yoga.rpy:258
+    # game/scripts/story_01/yoga.rpy:257
     old "{i}качать пресс{/i}"
     new "{i}pompage abs{/i}"
 
-    # game/scripts/story_01/yoga.rpy:272
+    # game/scripts/story_01/yoga.rpy:271
     old "{i}лучше рассмотреть её грудь{/i}"
     new "{i}pour mieux voir ses seins."
 
-    # game/scripts/story_01/yoga.rpy:272
+    # game/scripts/story_01/yoga.rpy:271
     old "{i}не рисковать{/i}"
     new "{i}ne pas prendre de risques{/i}"
 

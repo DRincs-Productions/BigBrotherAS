@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-01-09 23:01
 
 translate spanish strings:
 
@@ -234,11 +234,11 @@ translate spanish strings:
     old "настроение Алисы"
     new "el estado de ánimo de Alice"
 
-    # game/scripts/screens/tutorial.rpy:545
+    # game/scripts/screens/tutorial.rpy:568
     old "Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
     new "Aquí encontrarás información sobre qué y cómo se configura el juego..."
 
-    # game/scripts/screens/tutorial.rpy:547
+    # game/scripts/screens/tutorial.rpy:570
     old "Теперь вы управляете жизнью Макса! Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
     new "¡Ahora tienes el control de la vida de Max! Aquí encontrarás información sobre qué y cómo se organiza este juego..."
 

@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-01-09 23:01
 
 translate spanish strings:
 
@@ -9,10 +9,6 @@ translate spanish strings:
     # game/scripts/screens/diary.rpy:27
     old "Заметки"
     new "Notas"
-
-    # game/scripts/screens/diary.rpy:30
-    old "Вернуться"
-    new "Volver"
 
     # game/scripts/screens/diary.rpy:54
     old "ТЕКУЩИЕ"
@@ -46,11 +42,11 @@ translate spanish strings:
     old "МОЯ СТАРШАЯ СЕСТРЁНКА"
     new "MI HERMANA MAYOR"
 
-    # game/scripts/screens/diary.rpy:335
+    # game/scripts/screens/diary.rpy:337
     old "МОЯ МАМА"
     new "MI MAMA"
 
-    # game/scripts/screens/diary.rpy:346
+    # game/scripts/screens/diary.rpy:349
     old "НАШИ ВЗАИМООТНОШЕНИЯ:"
     new "NUESTRA RELACIÓN:"
 

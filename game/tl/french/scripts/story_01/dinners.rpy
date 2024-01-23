@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-01-15 22:41
 
 # game/scripts/story_01/dinners.rpy:31
 translate french ev_dinner_r1_24ac51ec:
@@ -558,313 +558,361 @@ translate french ev_047_2b1dccc4:
     # Ann 00 "Вот и замечательно. Давайте скорее ужинать пока не остыло. Приятного аппетита!"
     Ann 00 "C'est très bien. Dépêchons-nous de manger avant qu'il ne fasse froid. Bon appétit !"
 
-# game/scripts/story_01/dinners.rpy:202
+# game/scripts/story_01/dinners.rpy:203
 translate french ev_047_da58e422:
 
     # Max 00 "Приятного аппетита!"
     Max 00 "Bon appétit !"
 
-# game/scripts/story_01/dinners.rpy:203
+# game/scripts/story_01/dinners.rpy:204
 translate french ev_047_da3262bc:
 
     # Ann 11 "Знаете, я всё хотела спросить, только меня смущают картины, которые висят в наших комнатах?"
     Ann 11 "Vous savez, je voulais vous demander si j'étais le seul à être troublé par les tableaux accrochés dans nos chambres ?"
 
-# game/scripts/story_01/dinners.rpy:204
+# game/scripts/story_01/dinners.rpy:205
 translate french ev_047_9491db6a:
 
     # Max 04 "Ты про тех голых женщин в ваших спальнях?"
     Max 04 "Vous voulez parler de ces femmes nues dans vos chambres à coucher ?"
 
-# game/scripts/story_01/dinners.rpy:205
+# game/scripts/story_01/dinners.rpy:206
 translate french ev_047_77ba3305:
 
     # Alice 02 "Да, Макс, про тех. А что, мам, тебе не нравится? Там же нет ничего такого. Думаю, что это даже искусство... Лично меня всё устраивает!"
     Alice 02 "Oui, Max, à propos de ça. Pourquoi, maman, tu n'aimes pas ça ? Il n'y a rien de mal à cela. Je pense même que c'est de l'art. Personnellement, ça me va très bien !"
 
-# game/scripts/story_01/dinners.rpy:206
+# game/scripts/story_01/dinners.rpy:207
 translate french ev_047_54baecf5:
 
     # Ann 01 "Ну, если вы так говорите... Я сначала хотела их снять, чтобы не смущать никого. Ваш отец, видимо, холостяцкий дом строил и оформлял соответственно... Но если никого не смущает, то и меня всё устраивает."
     Ann 01 "Eh bien, si vous le dites. Je voulais d'abord les enlever pour ne gêner personne. Votre père a dû construire une maison de célibataire et la décorer en conséquence... Mais si personne n'est gêné, ça me va."
 
-# game/scripts/story_01/dinners.rpy:207
+# game/scripts/story_01/dinners.rpy:208
 translate french ev_047_030336ae:
 
     # Lisa 00 "Кстати, про него не было новостей?"
     Lisa 00 "Au fait, a-t-on des nouvelles de lui ?"
 
-# game/scripts/story_01/dinners.rpy:208
+# game/scripts/story_01/dinners.rpy:209
 translate french ev_047_5bfc02ec:
 
     # Ann 10 "Нет, и слава богу. Конечно, я рада этому подарку, этому дому. Хотя, до сих пор не понимаю с чего он так расщедрился. Но даже так не компенсировать пропущенные годы вашего воспитания и семейной жизни..."
     Ann 10 "Non, et heureusement. Bien sûr, je suis heureuse de ce cadeau, de cette maison. Même si je ne sais toujours pas pourquoi il a été si généreux. Mais même cela ne peut pas compenser les années d'éducation et de vie de famille que vous avez manquées..."
 
-# game/scripts/story_01/dinners.rpy:209
+# game/scripts/story_01/dinners.rpy:210
 translate french ev_047_d396a478:
 
     # Max 13 "Интересно, где он сейчас..."
     Max 13 "Je me demande où il se trouve maintenant..."
 
-# game/scripts/story_01/dinners.rpy:210
+# game/scripts/story_01/dinners.rpy:211
 translate french ev_047_5c1096a2:
 
     # Ann 02 "Ох, да без разницы где. Между прочим, завтра у компании, в которой я работаю, состоится какое-то праздничное мероприятие. Так что вечером мне нужно будет отлучиться. Эрик даже пообещал за мной заехать..."
     Ann 02 "Oh, peu importe où. En fait, la société pour laquelle je travaille organise une sorte de fête demain. Je vais donc devoir sortir ce soir. Eric a même promis de venir me chercher."
 
-# game/scripts/story_01/dinners.rpy:211
+# game/scripts/story_01/dinners.rpy:212
 translate french ev_047_8560bd3a:
 
     # Alice 04 "Ого! Значит, мы наконец-то увидим, что там за мужчина подкатывает к нашей маме!"
     Alice 04 "Nous allons enfin voir quel genre d'homme drague notre mère !"
 
-# game/scripts/story_01/dinners.rpy:212
+# game/scripts/story_01/dinners.rpy:213
 translate french ev_047_3a25fcea:
 
     # Ann 03 "Ну, не буду забегать наперёд, но кажется его интерес ко мне довольно серьёзен. Его даже нисколько не смутило то, что у меня трое детей."
     Ann 03 "Je ne vais pas m'avancer, mais je pense que son intérêt pour moi est assez sérieux. Cela ne l'a même pas dérangé que j'aie trois enfants."
 
-# game/scripts/story_01/dinners.rpy:213
+# game/scripts/story_01/dinners.rpy:214
 translate french ev_047_3ad83dba:
 
     # Max 01 "Мам, мне кажется, наличие трёх детей у такой шикарной женщины, как ты, должно только восхищать."
     Max 01 "Maman, je pense que le fait d'avoir trois enfants avec une femme magnifique comme toi devrait être admiré."
 
-# game/scripts/story_01/dinners.rpy:214
+# game/scripts/story_01/dinners.rpy:215
 translate french ev_047_63002386:
 
     # Ann 04 "Ой, сынок, спасибо! Очень приятно такое слышать. Возможно, на этом мероприятии мне удастся узнать его получше. Потому что в офисе было несколько не до этого."
     Ann 04 "Oh, mon fils, merci ! C'est très agréable à entendre. J'apprendrai peut-être à mieux le connaître lors de cet événement. Parce que le bureau a été un peu occupé."
 
-# game/scripts/story_01/dinners.rpy:215
+# game/scripts/story_01/dinners.rpy:216
 translate french ev_047_2e654575:
 
     # Lisa 11 "Тогда, мам, мы с нетерпением будем ждать от тебя подробностей!"
     Lisa 11 "Alors, maman, nous attendons avec impatience d'en savoir plus !"
 
-# game/scripts/story_01/dinners.rpy:216
+# game/scripts/story_01/dinners.rpy:217
 translate french ev_047_c5a4036e:
 
     # Ann 01 "Договорились. Думаю, ужин закончен. Всем спасибо. Лиза, как всегда, моет посуду, а я отдыхать..."
     Ann 01 "C'est un marché. Je pense que le dîner est terminé. Merci à tous. Lisa fait la vaisselle comme d'habitude, et je me repose...."
 
-# game/scripts/story_01/dinners.rpy:227
+# game/scripts/story_01/dinners.rpy:228
 translate french ev_054_c258aaea:
 
     # Ann 00 "Хорошо, что все в сборе, даже Алиса на месте. Приятного аппетита, давайте ужинать."
     Ann 00 "C'est bien que tout le monde soit là, même Alice. Bon appétit, dînons ensemble."
 
-# game/scripts/story_01/dinners.rpy:228
+# game/scripts/story_01/dinners.rpy:229
 translate french ev_054_9a8f7de0:
 
     # Max 03 "Так у неё выбора нет, она же на мели, а кушать хочется."
     Max 03 "Elle n'a pas le choix, elle est fauchée et elle a faim."
 
-# game/scripts/story_01/dinners.rpy:229
+# game/scripts/story_01/dinners.rpy:230
 translate french ev_054_5028054d:
 
     # Alice 11 "Ох, Макс, однажды ты дошутишься..."
     Alice 11 "Oh, Max, un de ces jours, tu vas y arriver."
 
-# game/scripts/story_01/dinners.rpy:230
+# game/scripts/story_01/dinners.rpy:231
 translate french ev_054_db1bd55e:
 
     # Max 05 "Ой! И что будет? Закатишь истерику и убежишь?!"
     Max 05 "Ouch ! Qu'est-ce qui va se passer ? Tu vas faire une crise et t'enfuir ? !"
 
-# game/scripts/story_01/dinners.rpy:231
+# game/scripts/story_01/dinners.rpy:232
 translate french ev_054_3f63c668:
 
     # Alice 16 "Ах ты гадёныш мелкий, сейчас я тебе..."
     Alice 16 "Petit bâtard, je vais..."
 
-# game/scripts/story_01/dinners.rpy:232
+# game/scripts/story_01/dinners.rpy:233
 translate french ev_054_4af80e1d:
 
     # Ann 14 "Так, ну-ка быстро прекратили, не надо портить вечер."
     Ann 14 "D'accord, arrêtez, ne gâchez pas la soirée."
 
-# game/scripts/story_01/dinners.rpy:233
+# game/scripts/story_01/dinners.rpy:234
 translate french ev_054_212319d0:
 
     # Alice 15 "Ты его испортила, когда купила себе платье."
     Alice 15 "Tu as tout gâché en achetant ta robe."
 
-# game/scripts/story_01/dinners.rpy:234
+# game/scripts/story_01/dinners.rpy:235
 translate french ev_054_cec8a1a3:
 
     # Ann 10 "Алиса, мы живём на мои деньги, а значит если мне необходимо что-то купить, то я это куплю в самую первую очередь."
     Ann 10 "Alice, nous vivons avec mon argent, ce qui signifie que si j'ai besoin d'acheter quelque chose, je l'achèterai en premier lieu."
 
-# game/scripts/story_01/dinners.rpy:235
+# game/scripts/story_01/dinners.rpy:236
 translate french ev_054_ec4fbcd4:
 
     # Alice 11 "Да что ты! Ну и вот какая у тебя в нём необходимость?"
     Alice 11 "Oh, allez ! Pourquoi en avez-vous besoin ?"
 
-# game/scripts/story_01/dinners.rpy:236
+# game/scripts/story_01/dinners.rpy:237
 translate french ev_054_44d62526:
 
     # Ann 14 "Я тебе уже говорила, мне важно произвести впечатление на работников компании. Это, между прочим, может помочь быстрее продвинуться по должности, потому что большинство руководителей - мужчины."
     Ann 14 "Je vous l'ai déjà dit, il est important pour moi d'impressionner les employés de l'entreprise. Cela peut d'ailleurs vous aider à obtenir une promotion plus rapidement, car la plupart des directeurs sont des hommes."
 
-# game/scripts/story_01/dinners.rpy:237
+# game/scripts/story_01/dinners.rpy:238
 translate french ev_054_c0cbeaf3:
 
     # Max 01 "Безупречная логика, мам!"
     Max 01 "Une logique sans faille, maman !"
 
-# game/scripts/story_01/dinners.rpy:238
+# game/scripts/story_01/dinners.rpy:239
 translate french ev_054_7b953bc9:
 
     # Alice 04 "Тогда нужно было покупать платье поскромнее. А в том, что ты купила, тебя захотят трахнуть все и разом."
     Alice 04 "Alors tu aurais dû acheter une robe plus modeste. Avec celle que tu as achetée, tu vas te faire baiser d'un seul coup."
 
-# game/scripts/story_01/dinners.rpy:239
+# game/scripts/story_01/dinners.rpy:240
 translate french ev_054_9320ff6a:
 
     # Ann 16 "Алиса!!! Ты сейчас, за такие слова, по заднице у меня схлопочешь!"
     Ann 16 "Alice ! Je vais te botter le cul pour avoir dit ça !"
 
-# game/scripts/story_01/dinners.rpy:240
+# game/scripts/story_01/dinners.rpy:241
 translate french ev_054_efbf2424:
 
     # Max 11 "Я бы на это посмотрел! И на платье, и на покрасневший зад Алисы..."
     Max 11 "J'aimerais voir ça ! Et la robe, et le cul rougi d'Alice....."
 
-# game/scripts/story_01/dinners.rpy:241
+# game/scripts/story_01/dinners.rpy:242
 translate french ev_054_a785e71f:
 
     # Alice 11 "Я нисколько не сомневаюсь, что ты это платье купила не из расчёта на всех мужиков в компании, а на конкретного мужика... И мы все знаем какого именно."
     Alice 11 "Je ne doute pas que vous ayez acheté cette robe non pas pour tous les hommes de la société, mais pour un homme en particulier.... Et nous savons tous lequel."
 
-# game/scripts/story_01/dinners.rpy:242
+# game/scripts/story_01/dinners.rpy:243
 translate french ev_054_4f8b645e:
 
     # Ann 10 "Может и так. Эрик настоящий мужчина и находится на руководящей должности. Поэтому, в первую очередь, я бы хотела произвести впечатление на него."
     Ann 10 "C'est peut-être le cas. Eric est un vrai homme et il est en position d'autorité. J'aimerais donc l'impressionner avant tout."
 
-# game/scripts/story_01/dinners.rpy:243
+# game/scripts/story_01/dinners.rpy:244
 translate french ev_054_3f18c4cb:
 
     # Lisa 12 "Может хватит? Давайте просто спокойно поужинаем..."
     Lisa 12 "Allez-vous l'arrêter ? Dînons tranquillement..."
 
-# game/scripts/story_01/dinners.rpy:244
+# game/scripts/story_01/dinners.rpy:245
 translate french ev_054_6c3261c1:
 
     # Ann 15 "Хочешь обижаться, Алиса, пожалуйста. Но твоё платье точно подождёт, а вот мне важно выделиться в компании."
     Ann 15 "Si vous voulez être offensée, Alice, ne vous gênez pas. Mais votre robe peut attendre, et il est important pour moi de me distinguer dans la compagnie."
 
-# game/scripts/story_01/dinners.rpy:245
+# game/scripts/story_01/dinners.rpy:246
 translate french ev_054_69aa0393:
 
     # Alice 15 "Да, да, да... Всё понятно..."
     Alice 15 "Oui, oui, oui. J'ai compris."
 
-# game/scripts/story_01/dinners.rpy:246
+# game/scripts/story_01/dinners.rpy:247
 translate french ev_054_8e2f275e:
 
     # Ann 00 "Понятно ей... Спасибо всем за ужин. Я пойду собираться на корпоратив. Алиса остаётся за старшую, но если будет буянить, то обязательно скажите."
     Ann 00 "Elle l'a. Merci à tous pour le dîner. Je vais me préparer pour l'entreprise. Alice reste responsable, mais si elle devient turbulente, assurez-vous de le lui dire."
 
-# game/scripts/story_01/dinners.rpy:247
+# game/scripts/story_01/dinners.rpy:248
 translate french ev_054_276a817f:
 
     # Lisa 11 "Не волнуйся, мам. Удачи тебе там."
     Lisa 11 "Ne t'inquiète pas, maman. Bonne chance."
 
-# game/scripts/story_01/dinners.rpy:258
+# game/scripts/story_01/dinners.rpy:259
 translate french ev_067_7fa9c980:
 
     # Ann 01 "Молодцы, что все собрались. Всем приятного аппетита!"
     Ann 01 "Bravo à tous pour votre collaboration. Bon appétit !"
 
-# game/scripts/story_01/dinners.rpy:259
+# game/scripts/story_01/dinners.rpy:260
 translate french ev_067_5954c226:
 
     # Max 01 "Приятного..."
     Max 01 "Appréciez..."
 
-# game/scripts/story_01/dinners.rpy:260
+# game/scripts/story_01/dinners.rpy:261
 translate french ev_067_1ce89e05:
 
     # Ann 02 "Рассказывайте, девочки, как погуляли? Где были?"
     Ann 02 "Dites-moi, les filles, comment s'est passée votre journée ? Où êtes-vous allées ?"
 
-# game/scripts/story_01/dinners.rpy:261
+# game/scripts/story_01/dinners.rpy:262
 translate french ev_067_ce421dab:
 
     # Alice 02 "Да так, по центру города погуляли, ели мороженое и в кинотеатр зашли."
     Alice 02 "Nous nous sommes promenés dans le centre-ville, avons mangé une glace et sommes allés au cinéma."
 
-# game/scripts/story_01/dinners.rpy:262
+# game/scripts/story_01/dinners.rpy:263
 translate french ev_067_f6cfa71d:
 
     # Lisa 13 "Ага, здесь такой огромный кинотеатр, мам! Мне там очень понравилось."
     Lisa 13 "Oui, c'est un grand cinéma ici, maman ! J'ai beaucoup aimé."
 
-# game/scripts/story_01/dinners.rpy:263
+# game/scripts/story_01/dinners.rpy:264
 translate french ev_067_71fc7978:
 
     # Ann 00 "Умнички, что сходили. Но ты, Лиза, не забывай, что нужно пересдать контрольную. Требования в этой школе намного выше, чем в прошлой, но это не даёт тебе права учиться плохо. Ты меня поняла?"
     Ann 00 "C'est bien que tu y ailles. Mais, Lisa, n'oublie pas que tu dois repasser le test. Les exigences dans cette école sont beaucoup plus élevées que dans la précédente, mais cela ne te donne pas le droit de mal étudier. Tu me comprends ?"
 
-# game/scripts/story_01/dinners.rpy:264
-translate french ev_067_58590881:
-
-    # Lisa 02 "Да, я буду всю неделю готовиться к контрольной, а Макс поможет с домашними заданиями!"
-    Lisa 02 "Oui, je vais étudier pour un examen toute la semaine et Max m'aidera à faire mes devoirs !"
-
 # game/scripts/story_01/dinners.rpy:265
-translate french ev_067_4dbe4588:
+translate french ev_067_a8a09d4e:
 
-    # Max 16 "Да?! Не знаю, не знаю..."
-    Max 16 "Oui ?! Je ne sais pas, je ne sais pas."
+    # Lisa 02 "Да, я буду всю неделю готовиться к контрольной. Макс мне уже очень сильно помог в ней разобраться."
+    ""
 
 # game/scripts/story_01/dinners.rpy:266
-translate french ev_067_fc54c402:
+translate french ev_067_e636bca1:
 
-    # Ann 10 "Что это ещё за «не знаю», Макс?! Тебе что, сложно сестре помочь?"
-    Ann 10 "Quel genre de \"je ne sais pas\", Max ?! A quel point est-ce difficile pour toi d'aider ta soeur ?"
+    # Ann 10 "Молодцы! Но я бы, Макс, тебя попросила ещё проконтролировать выполнение того, что Лизе задают в школе. А то я чувствую, что она с этой пересдачей начнёт отставать по каким-нибудь предметам."
+    ""
 
 # game/scripts/story_01/dinners.rpy:267
-translate french ev_067_151f115c:
+translate french ev_067_bb9b0766:
 
-    # Max 13 "Да помогу я ей..."
-    Max 13 "Je vais l'aider."
+    # Max 13 "Проконтролировать?! Не знаю, не знаю..."
+    ""
 
 # game/scripts/story_01/dinners.rpy:268
+translate french ev_067_0a8e3fca:
+
+    # Ann 14 "Что это ещё за «не знаю», Макс?! Тебе что, сложно сестре помочь?"
+    ""
+
+# game/scripts/story_01/dinners.rpy:269
+translate french ev_067_b7af8a11:
+
+    # Max 16 "Но, мам! Как будто мне больше нечем заняться по вечерам, кроме как Лизе с домашними заданиями помогать!"
+    ""
+
+# game/scripts/story_01/dinners.rpy:270
+translate french ev_067_2d5c33ea:
+
+    # Ann 10 "Да что ты, куча дел у тебя по вечерам, да? Ну и какие, например?"
+    ""
+
+# game/scripts/story_01/dinners.rpy:271
+translate french ev_067_53992974:
+
+    # Max 14 "Я это... Чёрт..."
+    ""
+
+# game/scripts/story_01/dinners.rpy:272
+translate french ev_067_6c194838:
+
+    # Ann 14 "Вот именно, Макс. Я знаю, что у нас и Лиза девочка умная, и ты у нас прекрасно учился, так что учти, если Лиза и дальше будет получать двойки, то я буду наказывать не только её, но и тебя."
+    ""
+
+# game/scripts/story_01/dinners.rpy:273
+translate french ev_067_067a869f:
+
+    # Max 15 "Ничего себе новости! Мне прямо «нравится»!"
+    ""
+
+# game/scripts/story_01/dinners.rpy:274
+translate french ev_067_f96a71fd:
+
+    # Alice 04 "Да, зрелище будет классное..."
+    ""
+
+# game/scripts/story_01/dinners.rpy:275
+translate french ev_067_f8f68790:
+
+    # Ann 00 "Лиза, вы с Максом уже сами решите, как часто он будет тебе помогать. Раз в неделю или каждый день, тебе там виднее, но мне важен конечный результат."
+    ""
+
+# game/scripts/story_01/dinners.rpy:276
+translate french ev_067_3c4a17aa:
+
+    # Lisa 11 "Хорошо, мам. Мы разберёмся."
+    ""
+
+# game/scripts/story_01/dinners.rpy:277
 translate french ev_067_015eeaa0:
 
     # Ann 01 "А ты, Алиса... Как у тебя дела с этим твоим блогом или чем там?"
     Ann 01 "Et toi, Alice... Comment se porte ton blog ?"
 
-# game/scripts/story_01/dinners.rpy:269
+# game/scripts/story_01/dinners.rpy:278
 translate french ev_067_be157aa2:
 
     # Alice 11 "Почти что никак, мам. Мне подруга обещала помочь, но это случится нескоро. Обещала заехать в гости и кое-что привезти с собой."
     Alice 11 "Il n'en est presque pas question, maman. J'ai une amie qui m'a promis de m'aider, mais ça va prendre du temps. Elle a promis de venir et de ramener quelque chose avec elle."
 
-# game/scripts/story_01/dinners.rpy:270
+# game/scripts/story_01/dinners.rpy:279
 translate french ev_067_c5c51776:
 
     # Ann 12 "Ты только сама тоже усилия прикладывай, а не надейся на других людей. И не ищи оправданий, вроде того, что наши вещи потерялись."
     Ann 12 "Il suffit de faire un effort soi-même, de ne pas compter sur les autres. Et ne pas chercher d'excuses comme la perte de nos affaires."
 
-# game/scripts/story_01/dinners.rpy:271
+# game/scripts/story_01/dinners.rpy:280
 translate french ev_067_5a40f473:
 
     # Alice 01 "Да, мам, я понимаю. Буду стараться всё, как можно быстрее, наверстать."
     Alice 01 "Oui, maman, je comprends. J'essaierai de rattraper mon retard dès que possible."
 
-# game/scripts/story_01/dinners.rpy:272
+# game/scripts/story_01/dinners.rpy:281
 translate french ev_067_4cfad8bd:
 
     # Ann 03 "Вот и молодцы вы у меня! Ладно, всем большое спасибо за ужин. Было приятно с вами поболтать. А сейчас меня ждёт, как всегда, ванна..."
     Ann 03 "C'est mon garçon ! Bon, eh bien, merci beaucoup à tous pour ce dîner. Ce fut un plaisir de discuter avec vous tous. Et maintenant, mon bain, comme toujours..."
 
-# game/scripts/story_01/dinners.rpy:273
+# game/scripts/story_01/dinners.rpy:282
 translate french ev_067_12502cd3:
 
     # Max 01 "Ага, всем спасибо..."

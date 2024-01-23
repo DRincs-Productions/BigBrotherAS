@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-01-09 23:01
 
 # game/scripts/story_01/dreams.rpy:11
 translate french ev_019_d1b851a2:
@@ -162,553 +162,553 @@ translate french ev_019_82ddb2da:
     # Max 07 "Что?"
     Max 07 "Qu'est-ce que c'est ?"
 
-# game/scripts/story_01/dreams.rpy:97
+# game/scripts/story_01/dreams.rpy:98
 translate french ev_057_54950f46:
 
     # tMax 11 "Ухх... Какая жара во дворе стоит! Нужно скорее идти к Алисе..."
     tMax 11 "Il fait si chaud ! Il fait si chaud dehors ! Nous devons aller chez Alice..."
 
-# game/scripts/story_01/dreams.rpy:101
+# game/scripts/story_01/dreams.rpy:102
 translate french ev_057_788dfd89:
 
     # Alice 03 "Как хорошо, что ты пришёл, Макс! Я уже хотела тебя звать, так жарко сегодня."
     Alice 03 "Je suis si contente que tu sois là, Max ! Je voulais t'appeler, il fait si chaud aujourd'hui."
 
-# game/scripts/story_01/dreams.rpy:102
+# game/scripts/story_01/dreams.rpy:103
 translate french ev_057_e01ff801:
 
     # Max 01 "Значит, самое время для массажа с маслом для загара. Ложись на живот..."
     Max 01 "Ensuite, c'est l'heure du massage à l'huile solaire. Allongez-vous sur le ventre..."
 
-# game/scripts/story_01/dreams.rpy:107
+# game/scripts/story_01/dreams.rpy:108
 translate french ev_057_252e7a9b:
 
     # Alice 02 "Массаж я люблю! Особенно, если ты правильно его начинаешь. Я готова." nointeract
     Alice 02 "J'adore les massages ! Surtout si on commence bien. Je suis prête." nointeract
 
-# game/scripts/story_01/dreams.rpy:113
+# game/scripts/story_01/dreams.rpy:114
 translate french ev_057_91c9c56a:
 
     # tMax 02 "Начну, пожалуй, сегодня с левой пяточки... Вот так. И, пока я хорошенько её массирую, можно заодно поглазеть на аппетитную Алисину попку!"
     tMax 02 "Je pense que je vais commencer aujourd'hui par mon talon gauche.... Voilà, c'est fait. Et pendant que je le masse bien, vous pouvez regarder les fesses appétissantes d'Alicia !"
 
-# game/scripts/story_01/dreams.rpy:117
+# game/scripts/story_01/dreams.rpy:118
 translate french ev_057_c2ddb25b:
 
     # tMax 04 "А теперь правую... Вот так. Да уж, глаз не оторвать, попка - что надо!"
     tMax 04 "Maintenant, le bon. C'est ça. Ouais, je ne peux pas détacher mes yeux de ce cul !"
 
-# game/scripts/story_01/dreams.rpy:119
+# game/scripts/story_01/dreams.rpy:120
 translate french ev_057_7652be8c:
 
     # Alice 05 "Ух, как же моим пяточкам приятно... Не останавливайся, продолжай..." nointeract
     Alice 05 "Ooh, ça fait du bien à mes talons..... Ne vous arrêtez pas, continuez." nointeract
 
-# game/scripts/story_01/dreams.rpy:125
+# game/scripts/story_01/dreams.rpy:126
 translate french ev_057_6c0e9313:
 
     # tMax 03 "Нужно хорошенько помассировать эти стройные ножки, вот так..."
     tMax 03 "Il faut bien masser ces jambes fines, comme ceci....."
 
-# game/scripts/story_01/dreams.rpy:127
+# game/scripts/story_01/dreams.rpy:128
 translate french ev_057_5a6c8d1c:
 
     # Alice 07 "Ах, моим ножкам так хорошо... Не останавливайся..." nointeract
     Alice 07 "Ah, mes jambes se sentent si bien... Ne t'arrête pas." nointeract
 
-# game/scripts/story_01/dreams.rpy:133
+# game/scripts/story_01/dreams.rpy:134
 translate french ev_057_b75e1735:
 
     # tMax 11 "Стоит быть повнимательнее с массажем бёдер! Движения моих рук должны быть уверенными..."
     tMax 11 "Il faut être plus prudent lors d'un massage des cuisses ! Les mouvements de mes mains doivent être confiants...."
 
-# game/scripts/story_01/dreams.rpy:134
+# game/scripts/story_01/dreams.rpy:135
 translate french ev_057_d734b5cb:
 
     # Alice 04 "Ммм... У тебя такие сильные и одновременно нежные руки! Мне очень приятно..."
     Alice 04 "Mmm. Tes mains sont si fortes et si douces à la fois ! C'est tellement bon."
 
-# game/scripts/story_01/dreams.rpy:138
+# game/scripts/story_01/dreams.rpy:139
 translate french ev_057_4044b7c9:
 
     # Max 01 "А чтобы было ещё приятнее, дальше нужно продолжать без одежды. Хочешь?"
     Max 01 "Et pour que ce soit encore plus agréable, vous devez continuer sans vêtements. En avez-vous envie ?"
 
-# game/scripts/story_01/dreams.rpy:139
+# game/scripts/story_01/dreams.rpy:140
 translate french ev_057_42295129:
 
     # Alice 06 "Ну конечно, Макс! Я полностью отдаюсь в твои похотливые руки..."
     Alice 06 "Bien sûr, Max ! Je m'abandonne complètement à tes mains lubriques....."
 
-# game/scripts/story_01/dreams.rpy:143
+# game/scripts/story_01/dreams.rpy:144
 translate french ev_057_c1617817:
 
     # tMax 03 "О да! Налюбоваться её голой попкой, наверно, просто невозможно! Но глазеть не самое приятное из того, что я сейчас буду делать..."
     tMax 03 "Oh, oui ! Je ne peux pas me passer de son cul nu ! Mais rester bouche bée n'est pas la chose la plus agréable que je vais faire....."
 
-# game/scripts/story_01/dreams.rpy:147
+# game/scripts/story_01/dreams.rpy:148
 translate french ev_057_240c7436:
 
     # Alice 04 "Мне кажется или массажу моей попки ты решил уделить куда больше внимания, чем должно быть?"
     Alice 04 "C'est moi, ou tu as prêté plus d'attention à mon massage des fesses que tu n'aurais dû ?"
 
-# game/scripts/story_01/dreams.rpy:148
+# game/scripts/story_01/dreams.rpy:149
 translate french ev_057_8c5bd269:
 
     # Max 04 "Может, я немного увлёкся... Ведь она так меня заводит!"
     Max 04 "Je me suis peut-être un peu emporté. Elle m'excite tellement !"
 
-# game/scripts/story_01/dreams.rpy:153
+# game/scripts/story_01/dreams.rpy:154
 translate french ev_057_3a32a520:
 
     # Alice 05 "Знаю, ты уже напредставлял, как будешь вытворять с моими дырочками всякие непристойности, но, вместо этого, я ожидаю от тебя хороший массаж..." nointeract
     Alice 05 "Je sais que vous avez déjà imaginé comment vous allez faire toutes sortes de choses coquines à mes trous, mais à la place, je m'attends à un bon massage de votre part...." nointeract
 
-# game/scripts/story_01/dreams.rpy:157
+# game/scripts/story_01/dreams.rpy:158
 translate french ev_057_e1edd4ba:
 
     # Alice 03 "Оуу... Когда ты успел раздеться? Какой возбуждающий массаж получается... Хочу побольше маслица, чтобы твои руки очень легко скользили по моей груди."
     Alice 03 "Awww... Quand t'es-tu mise à poil ? Ce massage est si excitant. Je veux plus d'huile pour que tes mains puissent glisser facilement sur mes seins."
 
-# game/scripts/story_01/dreams.rpy:158
+# game/scripts/story_01/dreams.rpy:159
 translate french ev_057_f4a4d01b:
 
     # Max 03 "Мы с тобой думаем об одном и том же!"
     Max 03 "Vous et moi pensons la même chose !"
 
-# game/scripts/story_01/dreams.rpy:160
+# game/scripts/story_01/dreams.rpy:161
 translate french ev_057_5b04dedc:
 
     # Alice 06 "И будь нежнее, пожалуйста. Я много всего люблю делать пожёстче, но вот с моими сосочками лучше вести себя аккуратнее." nointeract
     Alice 06 "Et soyez doux, s'il vous plaît. J'aime faire beaucoup de choses brutales, mais mes mamelons sont mieux manipulés en douceur." nointeract
 
-# game/scripts/story_01/dreams.rpy:166
+# game/scripts/story_01/dreams.rpy:167
 translate french ev_057_5201cd7b:
 
     # Alice 07 "Охх... Макс... Ты знаешь, как сделать девушке приятно... По движением твоих рук сразу чувствуется, какой ты чуткий. Раньше я думала, что тебе лишь бы облапать..."
     Alice 07 "Ohh. Max. Tu sais comment faire pour qu'une fille se sente bien. Je peux dire à la façon dont tes mains bougent à quel point tu es sensible. J'avais l'habitude de penser que tu étais à fond dans le tripotage."
 
-# game/scripts/story_01/dreams.rpy:167
+# game/scripts/story_01/dreams.rpy:168
 translate french ev_057_926b3460:
 
     # Max 11 "Просто облапать - много ума не надо. А вот сделать так, чтобы девушке это понравилось..."
     Max 11 "Il n'est pas nécessaire d'être très intelligent pour peloter une fille. Mais pour qu'une fille l'aime...."
 
-# game/scripts/story_01/dreams.rpy:171
+# game/scripts/story_01/dreams.rpy:172
 translate french ev_057_802d7e2d:
 
     # Alice 05 "Да... Мне это ещё как нравится! И я не только о массаже..."
     Alice 05 "Oui... Je l'adore. Et je ne parle pas seulement du massage...."
 
-# game/scripts/story_01/dreams.rpy:172
+# game/scripts/story_01/dreams.rpy:173
 translate french ev_057_72075a75:
 
     # Max 05 "Ухх... Приятно получать такую благодарность, но я ещё не закончил."
     Max 05 "Uhhh... C'est agréable de recevoir ce genre d'appréciation, mais je n'ai pas encore fini."
 
-# game/scripts/story_01/dreams.rpy:173
+# game/scripts/story_01/dreams.rpy:174
 translate french ev_057_b26e0441:
 
     # Alice 06 "И хорошо, потому что это прекрасная возможность нам кончить вместе... если постараемся..."
     Alice 06 "Et c'est bien, parce que c'est l'occasion parfaite pour nous de jouir ensemble. si nous faisons de notre mieux."
 
-# game/scripts/story_01/dreams.rpy:174
+# game/scripts/story_01/dreams.rpy:175
 translate french ev_057_dd23bd1c:
 
     # Max 02 "Получилось бы очень здорово. Я в предвкушении..."
     Max 02 "Ce serait vraiment génial. Je suis impatient..."
 
-# game/scripts/story_01/dreams.rpy:179
+# game/scripts/story_01/dreams.rpy:180
 translate french ev_057_48870d62:
 
     # Alice 03 "Оуу... Когда ты успел раздеться? Какой возбуждающий массаж получается... Я нисколько не сомневалась, что мою голую попку ты так просто не отпустишь."
     Alice 03 "Awww... Quand t'es-tu mise à poil ? Quel massage excitant. Je ne doutais pas que tu ne lâcherais pas mon cul nu."
 
-# game/scripts/story_01/dreams.rpy:180
+# game/scripts/story_01/dreams.rpy:181
 translate french ev_057_b8d5ef6b:
 
     # Max 03 "Мне кажется, ты этого и хотела!"
     Max 03 "Je pense que c'est ce que vous vouliez !"
 
-# game/scripts/story_01/dreams.rpy:181
+# game/scripts/story_01/dreams.rpy:182
 translate french ev_057_8792eb0b:
 
     # Alice 06 "Ну как... Я же думала, что по ней и дальше будут скользить твои руки, а не член! Хотя, как бы ты тогда добрался до моей спины, верно?"
     Alice 06 "Oh, non. Je pensais que tu allais continuer à glisser tes mains sur elle, pas ta bite ! Mais comment tu pourrais arriver dans mon dos, hein ?"
 
-# game/scripts/story_01/dreams.rpy:182
+# game/scripts/story_01/dreams.rpy:183
 translate french ev_057_dad89cc3:
 
     # Max 02 "Вот именно! И не только до спины..."
     Max 02 "Tout à fait ! Et pas seulement à l'arrière..."
 
-# game/scripts/story_01/dreams.rpy:187
+# game/scripts/story_01/dreams.rpy:188
 translate french ev_057_5201cd7b_1:
 
     # Alice 07 "Охх... Макс... Ты знаешь, как сделать девушке приятно... По движением твоих рук сразу чувствуется, какой ты чуткий. Раньше я думала, что тебе лишь бы облапать..."
     Alice 07 "Ohh. Max. Tu sais comment faire pour qu'une fille se sente bien. Je peux dire à la façon dont tes mains bougent à quel point tu es sensible. J'avais l'habitude de penser que tu étais à fond dans le tripotage."
 
-# game/scripts/story_01/dreams.rpy:188
+# game/scripts/story_01/dreams.rpy:189
 translate french ev_057_926b3460_1:
 
     # Max 11 "Просто облапать - много ума не надо. А вот сделать так, чтобы девушке это понравилось..."
     Max 11 "Il n'est pas nécessaire d'être très intelligent pour peloter une fille. Mais pour qu'une fille l'aime...."
 
-# game/scripts/story_01/dreams.rpy:192
+# game/scripts/story_01/dreams.rpy:193
 translate french ev_057_ca33120e:
 
     # Alice 05 "Да... Мне это ещё как нравится! Ох, Макс, он такой твёрдый..."
     Alice 05 "Oui... J'adore ça ! Oh, Max, il est si dur."
 
-# game/scripts/story_01/dreams.rpy:193
+# game/scripts/story_01/dreams.rpy:194
 translate french ev_057_34726ae9:
 
     # Max 05 "А твоя киска такая мокрая, что никакого маслица не надо."
     Max 05 "Et ta chatte est tellement mouillée que tu n'as pas besoin d'huile."
 
-# game/scripts/story_01/dreams.rpy:194
+# game/scripts/story_01/dreams.rpy:195
 translate french ev_057_33300c31:
 
     # Alice 06 "Так может уже пора чувственно меня оттрахать? Мне так не терпится закончить этот массаж именно так..."
     Alice 06 "Il est donc peut-être temps de me baiser sensuellement. J'ai hâte de terminer ce massage comme ça...."
 
-# game/scripts/story_01/dreams.rpy:195
+# game/scripts/story_01/dreams.rpy:196
 translate french ev_057_0012206f:
 
     # Max 02 "Я тоже этого хочу. Сейчас... Ухх, я почти в тебе..."
     Max 02 "Je le veux aussi. Maintenant... Uhh, je suis presque en toi."
 
-# game/scripts/story_01/dreams.rpy:197
+# game/scripts/story_01/dreams.rpy:198
 translate french ev_057_c9d4cb1f:
 
     # Lisa "{b}Лиза:{/b} \nОпять что ли, Макс?!"
     Lisa "{b}Lisa:{/b} \nEncore une fois, Max ?!"
 
-# game/scripts/story_01/dreams.rpy:198
+# game/scripts/story_01/dreams.rpy:199
 translate french ev_057_5d69d927:
 
     # Max 07 "Нет-нет! Ты не так поняла, я просто делаю ей массаж!"
     Max 07 "Non, non ! Vous vous trompez, je lui fais juste un massage !"
 
-# game/scripts/story_01/dreams.rpy:215
+# game/scripts/story_01/dreams.rpy:217
 translate french ev_072_fe3c758c:
 
     # tMax 13 "Лиза уже наверно легла спать. Нужно вести себя потише, чтобы не разбудить её..."
     tMax 13 "Lisa est probablement au lit à l'heure qu'il est. Nous devons être silencieux pour ne pas la réveiller....."
 
-# game/scripts/story_01/dreams.rpy:219
+# game/scripts/story_01/dreams.rpy:221
 translate french ev_072_c2ee469d:
 
     # Lisa 01 "Наконец-то, Макс! Я думала, что не дождусь тебя. Уже хотела идти искать..."
     Lisa 01 "Enfin, Max ! Je pensais ne jamais te voir. J'allais partir à ta recherche."
 
-# game/scripts/story_01/dreams.rpy:220
+# game/scripts/story_01/dreams.rpy:222
 translate french ev_072_faf4f3b0:
 
     # Max 11 "А что такое, почему не спишь?"
     Max 11 "Qu'est-ce qu'il y a, pourquoi tu ne dors pas ?"
 
-# game/scripts/story_01/dreams.rpy:221
+# game/scripts/story_01/dreams.rpy:223
 translate french ev_072_15be163d:
 
     # Lisa 11 "Ты же хотел показать мне... обучающее видео того, как... ну, делать мальчикам приятно... Забыл, да?"
     Lisa 11 "Vous vouliez me montrer une vidéo d'instruction sur comment, hum. tu sais, comment faire en sorte que les garçons se sentent bien. Tu as oublié, n'est-ce pas ?"
 
-# game/scripts/story_01/dreams.rpy:222
+# game/scripts/story_01/dreams.rpy:224
 translate french ev_072_1bcbce9c:
 
     # Max 02 "О, нет, не забыл! Столько всяких дел, просто забегался. Сейчас всё подготовлю..."
     Max 02 "Oh, non, je n'ai pas oublié ! Il y a tant à faire, j'ai été si occupée. Je vais tout préparer."
 
-# game/scripts/story_01/dreams.rpy:224
+# game/scripts/story_01/dreams.rpy:226
 translate french ev_072_3977ac1b:
 
     # Lisa 03 "Ой, здорово! А я пока выключу свет." nointeract
     Lisa 03 "Oh, super ! Je vais éteindre les lumières." nointeract
 
-# game/scripts/story_01/dreams.rpy:230
+# game/scripts/story_01/dreams.rpy:232
 translate french ev_072_b41a026a:
 
     # Lisa 09 "Слушай, Макс, а это будет действительно обучающее видео или ты просто тупо порнушку мне покажешь?"
     Lisa 09 "Hey, Max, est-ce que ça va vraiment être une vidéo d'instruction ou est-ce que tu vas juste me montrer un stupide porno ?"
 
-# game/scripts/story_01/dreams.rpy:231
+# game/scripts/story_01/dreams.rpy:233
 translate french ev_072_fcbdc380:
 
     # Max 04 "У тёти Киры коллекция на любой вкус. Так что не переживай, там нашлось и кое-что обучающее."
     Max 04 "Tante Kira a une collection pour tous les goûts. Ne vous inquiétez pas, il y a aussi quelque chose d'éducatif."
 
-# game/scripts/story_01/dreams.rpy:233
+# game/scripts/story_01/dreams.rpy:235
 translate french ev_072_d530e047:
 
     # Lisa 02 "О, это хорошо! Давай двигайся, а то всю мою кровать занял..." nointeract
     Lisa 02 "Oh, c'est bien ! Dépêchez-vous, vous prenez tout mon lit." nointeract
 
-# game/scripts/story_01/dreams.rpy:239
+# game/scripts/story_01/dreams.rpy:241
 translate french ev_072_364a7de6:
 
     # Lisa 12 "Подожди, а здесь что, нет никаких комментариев в видео? Какое же оно тогда обучающее?!"
     Lisa 12 "Attendez, il n'y a pas de commentaire dans la vidéo ? De quel genre de tutoriel s'agit-il alors ?"
 
-# game/scripts/story_01/dreams.rpy:240
+# game/scripts/story_01/dreams.rpy:242
 translate french ev_072_3bd2b187:
 
     # Max 03 "Я тебе всё объясню. Членом, полагаю, тебя уже не засмущать?"
     Max 03 "Je vous expliquerai tout. Je suppose que tu ne peux plus être gêné par un pénis ?"
 
-# game/scripts/story_01/dreams.rpy:241
+# game/scripts/story_01/dreams.rpy:243
 translate french ev_072_9e66e790:
 
     # Lisa 11 "Да уж насмотрелась тут на один, больше чем хотелось..."
     Lisa 11 "J'en ai vu plus que je ne le souhaite."
 
-# game/scripts/story_01/dreams.rpy:242
+# game/scripts/story_01/dreams.rpy:244
 translate french ev_072_56289adb:
 
     # Max 01 "Приятно знать, что хотелось."
     Max 01 "Il est bon de savoir que vous en aviez envie."
 
-# game/scripts/story_01/dreams.rpy:243
-translate french ev_072_3219ec96:
+# game/scripts/story_01/dreams.rpy:245
+translate french ev_072_b78118d6:
 
-    # Lisa 10 "Ой, нет! Я не это имела ввиду!"
-    Lisa 10 "Oh, non ! Ce n'est pas ce que je voulais dire !"
+    # Lisa 10 "Ой, нет! Я не это имела в виду!"
+    ""
 
-# game/scripts/story_01/dreams.rpy:244
+# game/scripts/story_01/dreams.rpy:246
 translate french ev_072_a82d5b2f:
 
     # Max 06 "А всё, поздно, сестрёнка. Ты спалилась!"
     Max 06 "C'est trop tard, ma sœur. Tu es fichue !"
 
-# game/scripts/story_01/dreams.rpy:248
+# game/scripts/story_01/dreams.rpy:250
 translate french ev_072_cd028353:
 
     # Lisa 09 "Да ну тебя! Мне просто интересно. Лучше поясняй, как нужно делать то, что показывают в этом видео..."
     Lisa 09 "Oh, allez ! Je suis juste curieux. Vous feriez mieux d'expliquer comment faire ce qui est montré dans cette vidéo....."
 
-# game/scripts/story_01/dreams.rpy:249
+# game/scripts/story_01/dreams.rpy:251
 translate french ev_072_8c0682fb:
 
     # Max 11 "Всё довольно просто. Берёшь член в свои ручки и водишь ими по нему, как в видео. Это, своего рода, такой массаж."
     Max 11 "C'est très simple. Tu prends ton pénis dans tes mains et tu les bouges comme dans la vidéo. C'est un peu comme un massage."
 
-# game/scripts/story_01/dreams.rpy:250
+# game/scripts/story_01/dreams.rpy:252
 translate french ev_072_537af7ad:
 
     # Lisa 11 "Ага. А как понять, насколько мальчику приятно от того, что я делаю с его... штукой?"
     Lisa 11 "Oui. Comment savoir si un garçon aime ce que je fais à son... chose ?"
 
-# game/scripts/story_01/dreams.rpy:251
+# game/scripts/story_01/dreams.rpy:253
 translate french ev_072_00d59365:
 
     # Max 03 "Ну, я это понимаю по твоему довольному личику, когда делаю тебе массаж. К тому же, ты ведь ещё и говоришь, что и как тебе нравится."
     Max 03 "Je le vois à ton joli visage quand je te masse. De plus, tu me dis ce que tu aimes et comment tu l'aimes."
 
-# game/scripts/story_01/dreams.rpy:255
+# game/scripts/story_01/dreams.rpy:257
 translate french ev_072_9b08d6f2:
 
     # Lisa 01 "А, ну да. И здесь значит то же самое... Пока понятно."
     Lisa 01 "Oh, c'est vrai, et cela signifie la même chose ici.... Jusqu'à présent, tout va bien."
 
-# game/scripts/story_01/dreams.rpy:256
+# game/scripts/story_01/dreams.rpy:258
 translate french ev_072_20656eb7:
 
     # Max 01 "Практически, да. С членом даже всё куда понятнее и без слов, чем больше возбуждение, тем он твёрже."
     Max 01 "En pratique, oui. C'est même beaucoup plus clair sans paroles avec un pénis, plus il est excité, plus il est dur."
 
-# game/scripts/story_01/dreams.rpy:260
+# game/scripts/story_01/dreams.rpy:262
 translate french ev_072_26b31c8f:
 
     # Lisa 11 "Познавательно... и по тебе как раз видно. Чуть только где промелькнули голые сиськи на экране и ты сразу же возбуждаешься."
     Lisa 11 "C'est éclairant. et je peux le voir en toi. Dès que tu vois des seins nus à l'écran, tu es excitée."
 
-# game/scripts/story_01/dreams.rpy:261
+# game/scripts/story_01/dreams.rpy:263
 translate french ev_072_931255d3:
 
     # Max 04 "Тут, вообще-то, и твоё присутствие играет роль. Я бы даже сказал, что меня больше возбуждает то, что ты ко мне прижимаешься."
     Max 04 "En fait, ta présence y est pour quelque chose. Je dirais même que je suis plus excité quand tu te blottis contre moi."
 
-# game/scripts/story_01/dreams.rpy:265
+# game/scripts/story_01/dreams.rpy:267
 translate french ev_072_ca497414:
 
     # Lisa 02 "Даже так? Вам, мальчикам, уже и этого достаточно?!"
     Lisa 02 "Vraiment ? Cela vous suffit-il déjà, les garçons ?"
 
-# game/scripts/story_01/dreams.rpy:266
+# game/scripts/story_01/dreams.rpy:268
 translate french ev_072_d87242ba:
 
     # Max 03 "Ну, если к нам прижимается такая миленькая и полуголая девочка - возбуждение обеспечено, уж как минимум."
     Max 03 "Avec une fille aussi mignonne et à moitié nue pressée contre nous, l'excitation est assurée, au moins."
 
-# game/scripts/story_01/dreams.rpy:270
+# game/scripts/story_01/dreams.rpy:272
 translate french ev_072_c19527d8:
 
     # Lisa 11 "А как максимум?"
     Lisa 11 "Quel est le maximum ?"
 
-# game/scripts/story_01/dreams.rpy:271
+# game/scripts/story_01/dreams.rpy:273
 translate french ev_072_7dba07ff:
 
     # Max 11 "А как максимум, нужно это сексуальное напряжение снимать. Как раз таки посредством различных предварительных ласк и секса. Можешь попробовать, как в этом видео..."
     Max 11 "Et tout au plus, vous devez relâcher cette tension sexuelle. Tout simplement par des préliminaires et des rapports sexuels variés. Vous pouvez essayer, comme dans cette vidéo....."
 
-# game/scripts/story_01/dreams.rpy:272
+# game/scripts/story_01/dreams.rpy:274
 translate french ev_072_0ce66ec6:
 
     # Lisa 14 "Я?! Ой... Мне как-то страшно... А вдруг я сделаю что-то не так?"
     Lisa 14 "Moi ?! Oh. J'ai un peu peur. Et si je faisais quelque chose de mal ?"
 
-# game/scripts/story_01/dreams.rpy:273
+# game/scripts/story_01/dreams.rpy:275
 translate french ev_072_ba102160:
 
     # Max 01 "Не бойся, я же не кусаюсь. И он тоже. Будь нежной и всё у тебя получится. Для начала можешь просто его потрогать..."
     Max 01 "N'ayez pas peur, je ne mords pas. Lui non plus. Sois gentil et tout ira bien. Tu peux commencer par le toucher."
 
-# game/scripts/story_01/dreams.rpy:277
+# game/scripts/story_01/dreams.rpy:279
 translate french ev_072_4cddb3e2:
 
     # Lisa 11 "Знаешь, у меня мурашки по всему телу и руки трясутся. Но я стараюсь делать это нежно..."
     Lisa 11 "Vous savez, j'ai la chair de poule sur tout le corps et mes mains tremblent. Mais j'essaie de le faire en douceur."
 
-# game/scripts/story_01/dreams.rpy:278
+# game/scripts/story_01/dreams.rpy:280
 translate french ev_072_b76f0ee5:
 
     # Max 02 "Всё нормально, Лиза. Ну, и как тебе ощущения?"
     Max 02 "C'est bon, Lisa. Alors, qu'est-ce que tu ressens ?"
 
-# game/scripts/story_01/dreams.rpy:279
+# game/scripts/story_01/dreams.rpy:281
 translate french ev_072_dad85903:
 
     # Lisa 05 "Он... не такой страшный, как мне казалось. Вернее, он вообще не страшный, я просто никогда это не делала и мне было страшно попробовать."
     Lisa 05 "Il est... ce n'est pas aussi effrayant que je le pensais. Ce n'était pas du tout effrayant, c'est juste que je ne l'avais jamais fait avant et que j'avais peur d'essayer."
 
-# game/scripts/story_01/dreams.rpy:280
+# game/scripts/story_01/dreams.rpy:282
 translate french ev_072_e8f0c885:
 
     # Max 04 "Теперь можешь поводить по нему своими пальчиками. Вспоминай то, что смотрела в видео..."
     Max 04 "Vous pouvez maintenant passer vos doigts dessus. Rappelez-vous ce que vous avez vu dans la vidéo....."
 
-# game/scripts/story_01/dreams.rpy:284
+# game/scripts/story_01/dreams.rpy:286
 translate french ev_072_1717b4a3:
 
     # Lisa 11 "Сейчас попробую... Вот так, да? Мне кажется он стал чуть больше... Это же означает, что тебе нравится, как я это делаю?"
     Lisa 11 "Laissez-moi essayer. C'est ça, n'est-ce pas ? Je crois qu'il grossit un peu. Ça veut dire que tu aimes ma façon de faire, n'est-ce pas ?"
 
-# game/scripts/story_01/dreams.rpy:285
+# game/scripts/story_01/dreams.rpy:287
 translate french ev_072_5228bce0:
 
     # Max 03 "Охх... Да, сестрёнка, у тебя неплохо получается. Продолжай..."
     Max 03 "Ohh. Ouais, soeurette, tu t'en sors plutôt bien. Continue."
 
-# game/scripts/story_01/dreams.rpy:286
+# game/scripts/story_01/dreams.rpy:288
 translate french ev_072_20d37169:
 
     # Lisa 13 "Правда? Знаешь, кажется, меня и саму это начинает, на удивление, возбуждать! Так классно! Вот значит что ты чувствуешь, когда твоя штуковина встаёт..."
     Lisa 13 "Vraiment ? Vous savez, je pense que je suis moi-même étonnamment excité par tout ça. Je me sens si bien. C'est ce que l'on ressent quand on se lève."
 
-# game/scripts/story_01/dreams.rpy:287
-translate french ev_072_5df5a28b:
-
-    # Max 02 "Да, но сейчас я испытываю, в добавок к этому, особое удовольствие."
-    Max 02 "Oui, mais j'éprouve maintenant, en plus de cela, un plaisir particulier."
-
 # game/scripts/story_01/dreams.rpy:289
+translate french ev_072_a14edc8d:
+
+    # Max 02 "Да, но сейчас я испытываю, вдобавок к этому, особое удовольствие."
+    ""
+
+# game/scripts/story_01/dreams.rpy:291
 translate french ev_072_2c066702:
 
     # Lisa 02 "А какое? На что это похоже больше всего? Или, раз оно особое, то его и описать не выйдет?" nointeract
     Lisa 02 "Lequel ? À quoi ressemble-t-il le plus ? Ou, s'il est spécial, il ne peut être décrit ?" nointeract
 
-# game/scripts/story_01/dreams.rpy:293
+# game/scripts/story_01/dreams.rpy:295
 translate french ev_072_8754b4d2:
 
     # Lisa 11 "Хорошо, но... Там в видео девушка и грудь задействовала, и даже попкой помогала. Я как-то пока стесняюсь пробовать так же."
     Lisa 11 "D'accord, mais... Dans la vidéo, la fille utilise ses seins et même ses fesses. Je suis un peu timide à l'idée d'essayer la même chose."
 
-# game/scripts/story_01/dreams.rpy:294
+# game/scripts/story_01/dreams.rpy:296
 translate french ev_072_f07c206e:
 
     # Max 12 "Понятное дело, ведь ты ещё даже не попробовала взять его полностью в руку. Давай, смелее..."
     Max 12 "Bien sûr, vous n'avez pas encore essayé de le tenir entièrement dans votre main. Allez, soyez courageux."
 
-# game/scripts/story_01/dreams.rpy:298
+# game/scripts/story_01/dreams.rpy:300
 translate french ev_072_1dd62a17:
 
     # Lisa 10 "Сейчас... Охх... Какой он горячий и твёрдый! Да ещё и слегка пульсирует, ничего себе! Так и должно быть?"
     Lisa 10 "Maintenant... Ohhh... C'est tellement chaud et dur ! Et ça palpite un peu, aussi, wow ! C'est comme ça que c'est censé être ?"
 
-# game/scripts/story_01/dreams.rpy:299
+# game/scripts/story_01/dreams.rpy:301
 translate french ev_072_b53a15ce:
 
     # Max 09 "Д-а-а... У тебя волшебные ручки, Лиза!"
     Max 09 "Oui, c'est vrai. Tu as des mains magiques, Lisa !"
 
-# game/scripts/story_01/dreams.rpy:300
+# game/scripts/story_01/dreams.rpy:302
 translate french ev_072_609431de:
 
     # Lisa 05 "Ага, они такие! Я же могу сделать так, чтобы тебе было ещё приятнее? Подскажи..."
     Lisa 05 "Oui, c'est vrai ! Je peux vous aider à vous sentir mieux, n'est-ce pas ? Donnez-moi un indice."
 
-# game/scripts/story_01/dreams.rpy:301
+# game/scripts/story_01/dreams.rpy:303
 translate french ev_072_c929bf79:
 
     # Max 01 "Сожми его сильнее своей ладошкой и дрочи быстрее!"
     Max 01 "Pressez-le plus fort avec votre paume et branlez-le plus vite !"
 
-# game/scripts/story_01/dreams.rpy:305
+# game/scripts/story_01/dreams.rpy:307
 translate french ev_072_21859cb7:
 
     # tMax 07 "Ухх... А Лиза неслабо завелась! Так страстно она меня не целовала ещё ни разу. Это я ещё молчу про то, как её нежная ладошка, на моём члене, сводит с ума от наслаждения! Ох, Лиза..."
     tMax 07 "Uh-huh. Lisa est vraiment excitée ! Elle ne m'avait jamais embrassé avec autant de passion. Je ne parle même pas de la façon dont sa douce paume, sur ma bite, me rend fou de plaisir ! Oh, Lisa."
 
-# game/scripts/story_01/dreams.rpy:310
+# game/scripts/story_01/dreams.rpy:312
 translate french ev_072_5690ae8e:
 
     # Lisa 11 "Покажешь? А как такое можно показать?! Или... ты хочешь..."
     Lisa 11 "Pouvez-vous me montrer ? Comment puis-je vous montrer ? Ou. voulez-vous."
 
-# game/scripts/story_01/dreams.rpy:311
+# game/scripts/story_01/dreams.rpy:313
 translate french ev_072_f577284d:
 
     # Max 01 "Да, Лиза, для этого я залезу рукой тебе в шортики! Ты готова?"
     Max 01 "Oui, Lisa, je vais mettre ma main dans ton short pour cette fois ! Tu es prête ?"
 
-# game/scripts/story_01/dreams.rpy:312
+# game/scripts/story_01/dreams.rpy:314
 translate french ev_072_4c8372f1:
 
     # Lisa 10 "Ой, Макс, я не знаю... Я никого ещё так близко к себе не подпускала..."
     Lisa 10 "Oh, Max, je ne sais pas. Je n'ai jamais laissé quelqu'un s'approcher de moi d'aussi près."
 
-# game/scripts/story_01/dreams.rpy:313
+# game/scripts/story_01/dreams.rpy:315
 translate french ev_072_ba73a23c:
 
     # Max 04 "Не бойся, тебе понравится!"
     Max 04 "N'ayez pas peur, vous allez adorer !"
 
-# game/scripts/story_01/dreams.rpy:317
+# game/scripts/story_01/dreams.rpy:319
 translate french ev_072_aa1fca26:
 
     # tMax 07 "Ммм... Какие сладостные поцелуи у нас получаются! Да и её нежные сосочки становятся твёрже... Чёрт, даже мне несколько волнительно от того, что я сейчас впервые буду ласкать её киску! А для неё это вообще первый раз..."
     tMax 07 "Mmm. Quels doux baisers ! Et ses tétons tendres deviennent plus durs... Merde, même moi, je suis un peu excité à l'idée de caresser sa chatte pour la première fois ! Et pour elle, c'est la première fois tout court..."
 
-# game/scripts/story_01/dreams.rpy:321
+# game/scripts/story_01/dreams.rpy:323
 translate french ev_072_d898ebce:
 
     # Lisa 09 "Ухх... Макс, только если мне не понравится или я скажу остановиться, ты сразу прекратишь, хорошо?"
     Lisa 09 "Uh-huh. Max, si je n'aime pas ça ou si je te dis d'arrêter, tu arrêtes tout de suite, d'accord ?"
 
-# game/scripts/story_01/dreams.rpy:322
+# game/scripts/story_01/dreams.rpy:324
 translate french ev_072_9120982c:
 
     # Max 11 "Конечно, сестрёнка!"
     Max 11 "Bien sûr, ma sœur !"
 
-# game/scripts/story_01/dreams.rpy:323
-translate french ev_072_be528d37:
+# game/scripts/story_01/dreams.rpy:325
+translate french ev_072_7bf37df8:
 
-    # Lisa 06 "Ахх... Д-а-а-а... Я и не знала, что это ТАК приятно... Ммм... Как же мне нравятся чувствовать тебя там..."
-    Lisa 06 "Ahh... Ouais. Je ne savais pas que c'était si bon. Mmm. J'adore te sentir là-dedans."
+    # Lisa 06 "Ахх... Д-а-а-а... Я и не знала, что это ТАК приятно... Ммм... Как же мне нравится чувствовать тебя там..."
+    ""
 
-# game/scripts/story_01/dreams.rpy:324
+# game/scripts/story_01/dreams.rpy:326
 translate french ev_072_0ea30674:
 
     # tMax 07 "Вау! Какая же у неё нежная и приятная киска... И такая влажненькая! Не буду торопиться и растяну этот классный момент, чтобы свести её с ума этим наслаждением! Ох, Лиза..."
@@ -740,43 +740,43 @@ translate french strings:
     old "{i}трогать её попку{/i}"
     new "{i}toucher ses fesses{/i}"
 
-    # game/scripts/story_01/dreams.rpy:106
+    # game/scripts/story_01/dreams.rpy:107
     old "{i}начать с её ножек{/i}"
     new "{i}commencer par ses jambes."
 
-    # game/scripts/story_01/dreams.rpy:118
+    # game/scripts/story_01/dreams.rpy:119
     old "{i}двигаться выше по её ножкам{/i}"
     new "{i}pour remonter le long de ses jambes."
 
-    # game/scripts/story_01/dreams.rpy:126
+    # game/scripts/story_01/dreams.rpy:127
     old "{i}двигаться ещё выше по её ножкам{/i}"
     new "{i}pour remonter encore plus haut le long de ses jambes."
 
-    # game/scripts/story_01/dreams.rpy:152
+    # game/scripts/story_01/dreams.rpy:153
     old "Тогда тебе лучше перевернуться на спину..."
     new "Vous feriez mieux de vous mettre sur le dos....."
 
-    # game/scripts/story_01/dreams.rpy:152
+    # game/scripts/story_01/dreams.rpy:153
     old "Тогда тебя ждёт особый массаж..."
     new "Un massage spécial vous attend ensuite....."
 
-    # game/scripts/story_01/dreams.rpy:159
+    # game/scripts/story_01/dreams.rpy:160
     old "{i}начать нежный массаж груди{/i}"
     new "{i}pour commencer un massage doux des seins{/i}"
 
-    # game/scripts/story_01/dreams.rpy:223
+    # game/scripts/story_01/dreams.rpy:225
     old "{i}устроиться у Лизы на кровати{/i}"
     new "{i}pour se blottir dans le lit de Lisa."
 
-    # game/scripts/story_01/dreams.rpy:232
+    # game/scripts/story_01/dreams.rpy:234
     old "{i}подвинуться{/i}"
     new "{i}move{/i}"
 
-    # game/scripts/story_01/dreams.rpy:288
+    # game/scripts/story_01/dreams.rpy:290
     old "В следующий раз узнаешь, а пока продолжай..."
     new "Vous le découvrirez la prochaine fois, mais pour l'instant, continuez à aller...."
 
-    # game/scripts/story_01/dreams.rpy:288
+    # game/scripts/story_01/dreams.rpy:290
     old "Если хочешь узнать, то я сейчас покажу..."
     new "Si vous voulez savoir, je vais vous montrer maintenant...."
 

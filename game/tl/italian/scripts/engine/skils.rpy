@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-01-09 23:01
 
 translate italian strings:
 
@@ -42,19 +42,23 @@ translate italian strings:
     old "Паук найден!"
     new "Un ragno è stato trovato!"
 
-    # game/scripts/engine/skils.rpy:197
+    # game/scripts/engine/skils.rpy:198
     old "Я чуть не попался!"
     new "Mi hanno quasi scoperto!"
 
-    # game/scripts/engine/skils.rpy:197
+    # game/scripts/engine/skils.rpy:198
+    old "Мне не стоит это делать!"
+    new "Non dovrei farlo!"
+
+    # game/scripts/engine/skils.rpy:198
     old "Вот чёрт, я попался!"
     new "Oh, merda, mi hanno beccato!"
 
-    # game/scripts/engine/skils.rpy:197
+    # game/scripts/engine/skils.rpy:198
     old "Убеждение не удалось!"
     new "La persuasione è fallita!"
 
-    # game/scripts/engine/skils.rpy:197
+    # game/scripts/engine/skils.rpy:198
     old "Безрезультатно!"
     new "Senza successo!"
 

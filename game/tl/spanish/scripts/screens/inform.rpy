@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-01-09 23:01
 
 translate spanish strings:
 
@@ -6,7 +6,7 @@ translate spanish strings:
     old "Персонажи"
     new "Personajes"
 
-    # game/scripts/screens/inform.rpy:32
+    # game/scripts/screens/inform.rpy:33
     old "Предметы"
     new "Objetos"
 
@@ -35,90 +35,114 @@ translate spanish strings:
     new "Con Max."
 
     # game/scripts/screens/inform.rpy:166
+    old "ДОГОВОРЁННОСТИ"
+    new ""
+
+    # game/scripts/screens/inform.rpy:169
+    old "Будет спать топлес"
+    new ""
+
+    # game/scripts/screens/inform.rpy:171
+    old "Не использовалась"
+    new ""
+
+    # game/scripts/screens/inform.rpy:173
+    old "Исполняется"
+    new ""
+
+    # game/scripts/screens/inform.rpy:175
+    old "Будет исполняться"
+    new ""
+
+    # game/scripts/screens/inform.rpy:177
+    old "Не исполняется"
+    new ""
+
+    # game/scripts/screens/inform.rpy:179
+    old "Будет курить топлес"
+    new ""
+
+    # game/scripts/screens/inform.rpy:190
+    old "Будет без трусиков"
+    new ""
+
+    # game/scripts/screens/inform.rpy:213
     old "ПАРАМЕТРЫ"
     new "PARÁMETROS"
 
-    # game/scripts/screens/inform.rpy:169
+    # game/scripts/screens/inform.rpy:216
     old "Чистота"
     new "Limpieza"
 
-    # game/scripts/screens/inform.rpy:174
+    # game/scripts/screens/inform.rpy:221
     old "Загрязнённость "
     new "Contaminación "
 
-    # game/scripts/screens/inform.rpy:178
+    # game/scripts/screens/inform.rpy:225
     old "ДОМАШНИЕ ОБЯЗАННОСТИ"
     new "TAREAS DOMÉSTICAS"
 
-    # game/scripts/screens/inform.rpy:181
+    # game/scripts/screens/inform.rpy:228
     old "Чистка пола"
     new "Aspirar los suelos"
 
-    # game/scripts/screens/inform.rpy:183
+    # game/scripts/screens/inform.rpy:230
     old "Выполнено"
     new "Hecho"
 
-    # game/scripts/screens/inform.rpy:187
+    # game/scripts/screens/inform.rpy:234
     old "Не выполнено"
     new "No se ha cumplido"
 
-    # game/scripts/screens/inform.rpy:191
+    # game/scripts/screens/inform.rpy:238
     old "Чистка бассейна"
     new "Limpieza de piscina"
 
-    # game/scripts/screens/inform.rpy:201
+    # game/scripts/screens/inform.rpy:248
     old "Стрижка газона"
     new "Cortar el césped"
 
-    # game/scripts/screens/inform.rpy:211
+    # game/scripts/screens/inform.rpy:258
     old "Покупка продуктов"
     new "Compras"
 
-    # game/scripts/screens/inform.rpy:222
+    # game/scripts/screens/inform.rpy:269
     old "НАВЫКИ"
     new "HABILIDADES"
 
-    # game/scripts/screens/inform.rpy:228
+    # game/scripts/screens/inform.rpy:275
     old "Ур.1"
     new "Nivel 1"
 
-    # game/scripts/screens/inform.rpy:231
+    # game/scripts/screens/inform.rpy:278
     old "Опыт применения навыка"
     new "Experiencia de destreza"
 
-    # game/scripts/screens/inform.rpy:395
-    old "Предыдущая"
-    new "Anterior"
+    # game/scripts/screens/inform.rpy:478
+    old "ВИДЫ ОДЕЖДЫ"
+    new ""
 
-    # game/scripts/screens/inform.rpy:405
-    old "Следующая"
-    new "Siguiente"
-
-    # game/scripts/screens/inform.rpy:410
-    old "Сделать текущей"
-    new "Establecer como actual"
-
-    # game/scripts/screens/inform.rpy:480
+    # game/scripts/screens/inform.rpy:609
     old "В данный момент в инвентаре ничего нет"
     new "No hay nada en el inventario en este momento"
 
-    # game/scripts/screens/inform.rpy:483
+    # game/scripts/screens/inform.rpy:612
     old "Ни один предмет не выбран"
     new "No se ha seleccionado ningún elemento"
 
-    # game/scripts/screens/inform.rpy:491
+    # game/scripts/screens/inform.rpy:620
     old "Не прочитана"
     new "Sin leer"
 
-    # game/scripts/screens/inform.rpy:493
+    # game/scripts/screens/inform.rpy:622
     old "Полностью изучена"
     new "Totalmente explorado"
 
-    # game/scripts/screens/inform.rpy:495
+    # game/scripts/screens/inform.rpy:624
     old "Изучена на [percent]%"
     new "Explorado en [percent]%"
 
-    # game/scripts/screens/inform.rpy:497
+    # game/scripts/screens/inform.rpy:626
     old "Осталось [item.rest]/[item.count]"
     new "Resto [item.rest]/[item.count]"
 

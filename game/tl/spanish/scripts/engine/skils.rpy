@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-01-09 23:01
 
 translate spanish strings:
 
@@ -42,19 +42,23 @@ translate spanish strings:
     old "Паук найден!"
     new "¡Has encontrado una araña!"
 
-    # game/scripts/engine/skils.rpy:197
+    # game/scripts/engine/skils.rpy:198
     old "Я чуть не попался!"
     new "¡Casi me pillan!"
 
-    # game/scripts/engine/skils.rpy:197
+    # game/scripts/engine/skils.rpy:198
+    old "Мне не стоит это делать!"
+    new "¡No debería estar haciendo esto!"
+
+    # game/scripts/engine/skils.rpy:198
     old "Вот чёрт, я попался!"
     new "¡Mierda, me han pillado!"
 
-    # game/scripts/engine/skils.rpy:197
+    # game/scripts/engine/skils.rpy:198
     old "Убеждение не удалось!"
     new "¡La persuasión fracasó!"
 
-    # game/scripts/engine/skils.rpy:197
+    # game/scripts/engine/skils.rpy:198
     old "Безрезультатно!"
     new "¡En vano!"
 
