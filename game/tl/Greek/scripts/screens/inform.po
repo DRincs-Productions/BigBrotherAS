@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2024-01-15 14:07\n"
+"PO-Revision-Date: 2024-01-23 14:48\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/inform.rpy:28
 msgid "Персонажи"
@@ -46,35 +46,35 @@ msgstr ""
 
 # game/scripts/screens/inform.rpy:166
 msgid "ДОГОВОРЁННОСТИ"
-msgstr ""
+msgstr "ΣΥΜΦΩΝΙΕΣ"
 
 # game/scripts/screens/inform.rpy:169
 msgid "Будет спать топлес"
-msgstr ""
+msgstr "Θα κοιμάται γυμνόστηθη"
 
 # game/scripts/screens/inform.rpy:171
 msgid "Не использовалась"
-msgstr ""
+msgstr "Δεν χρησιμοποιείται"
 
 # game/scripts/screens/inform.rpy:173
 msgid "Исполняется"
-msgstr ""
+msgstr "Εκτελείται"
 
 # game/scripts/screens/inform.rpy:175
 msgid "Будет исполняться"
-msgstr ""
+msgstr "Να εκτελεστεί"
 
 # game/scripts/screens/inform.rpy:177
 msgid "Не исполняется"
-msgstr ""
+msgstr "Δεν εκτελέστηκε"
 
 # game/scripts/screens/inform.rpy:179
 msgid "Будет курить топлес"
-msgstr ""
+msgstr "Θα καπνίζει τόπλες"
 
 # game/scripts/screens/inform.rpy:190
 msgid "Будет без трусиков"
-msgstr ""
+msgstr "Θα είναι χωρίς εσώρουχα"
 
 # game/scripts/screens/inform.rpy:213
 msgid "ПАРАМЕТРЫ"
@@ -90,31 +90,31 @@ msgstr ""
 
 # game/scripts/screens/inform.rpy:225
 msgid "ДОМАШНИЕ ОБЯЗАННОСТИ"
-msgstr ""
+msgstr "ΟΙΚΙΑΚΆ ΚΑΘΉΚΟΝΤΑ"
 
 # game/scripts/screens/inform.rpy:228
 msgid "Чистка пола"
-msgstr ""
+msgstr "Καθαρισμός δαπέδων"
 
 # game/scripts/screens/inform.rpy:230
 msgid "Выполнено"
-msgstr ""
+msgstr "Έγινε"
 
 # game/scripts/screens/inform.rpy:234
 msgid "Не выполнено"
-msgstr ""
+msgstr "Δεν έχει εκπληρωθεί"
 
 # game/scripts/screens/inform.rpy:238
 msgid "Чистка бассейна"
-msgstr ""
+msgstr "Καθαρισμός πισίνας"
 
 # game/scripts/screens/inform.rpy:248
 msgid "Стрижка газона"
-msgstr ""
+msgstr "Κούρεμα γκαζόν"
 
 # game/scripts/screens/inform.rpy:258
 msgid "Покупка продуктов"
-msgstr ""
+msgstr "Ψώνια παντοπωλείου"
 
 # game/scripts/screens/inform.rpy:269
 msgid "НАВЫКИ"
@@ -130,7 +130,7 @@ msgstr ""
 
 # game/scripts/screens/inform.rpy:478
 msgid "ВИДЫ ОДЕЖДЫ"
-msgstr ""
+msgstr "ΕΊΔΗ ΡΟΥΧΙΣΜΟΎ"
 
 # game/scripts/screens/inform.rpy:609
 msgid "В данный момент в инвентаре ничего нет"
