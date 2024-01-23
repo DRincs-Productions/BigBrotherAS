@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-09-10 00:31
+﻿# TODO: Translation updated at 2023-10-14 21:25
 
 translate crowdin strings:
 
@@ -81,18 +81,6 @@ translate crowdin strings:
     # game/scripts/screens/laptop.rpy:511
     old "Последнее начисление:"
     new "Последнее начисление:"
-
-    # game/scripts/screens/laptop.rpy:554
-    old "Предыдущая"
-    new "Предыдущая"
-
-    # game/scripts/screens/laptop.rpy:561
-    old "Следующая"
-    new "Следующая"
-
-    # game/scripts/screens/laptop.rpy:584
-    old "Массаж"
-    new "Массаж"
 
     # game/scripts/screens/laptop.rpy:588
     old "Общение"
