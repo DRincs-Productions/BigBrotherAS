@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-01-15 22:41
+﻿# TODO: Translation updated at 2024-01-24 03:02
 
 # game/scripts/story_01/pool.rpy:10
 translate crowdin alice_swims_talk_2c2308f4:
@@ -174,151 +174,193 @@ translate crowdin lisa_swims_talk_swims_706e6985:
     # tMax 04 "А как она под водой красиво смотрится! Так и хочется сделать что-нибудь эдакое..." nointeract
     tMax 04 "А как она под водой красиво смотрится! Так и хочется сделать что-нибудь эдакое..." nointeract
 
-# game/scripts/story_01/pool.rpy:169
+# game/scripts/story_01/pool.rpy:165
+translate crowdin lisa_swims_talk_swims_f18b7f46:
+
+    # Lisa 14 "Ай, Макс!!! Не пугай меня так! Я даже не заметила, как ты подо мной оказался!"
+    Lisa 14 "Ай, Макс!!! Не пугай меня так! Я даже не заметила, как ты подо мной оказался!"
+
+# game/scripts/story_01/pool.rpy:166
+translate crowdin lisa_swims_talk_swims_caad5e80:
+
+    # Max 01 "Я бы предупредил, что выныриваю, но был под водой..."
+    Max 01 "Я бы предупредил, что выныриваю, но был под водой..."
+
+# game/scripts/story_01/pool.rpy:170
+translate crowdin lisa_swims_talk_swims_0e3a4e6d:
+
+    # Lisa 03 "Очень смешно! Тебе там не тяжело меня на шее держать, я ведь уже не маленькая?"
+    Lisa 03 "Очень смешно! Тебе там не тяжело меня на шее держать, я ведь уже не маленькая?"
+
+# game/scripts/story_01/pool.rpy:171
+translate crowdin lisa_swims_talk_swims_2404fd21:
+
+    # Max 12 "Нет, ты стройненькая и лёгкая... Фух..."
+    Max 12 "Нет, ты стройненькая и лёгкая... Фух..."
+
+# game/scripts/story_01/pool.rpy:173
+translate crowdin lisa_swims_talk_swims_55045227:
+
+    # Lisa 11 "Ну да, я и вижу, что твоя голова всё больше и больше под воду уходит. Я, пожалуй, поплыву дальше, пока ты не утонул..." nointeract
+    Lisa 11 "Ну да, я и вижу, что твоя голова всё больше и больше под воду уходит. Я, пожалуй, поплыву дальше, пока ты не утонул..." nointeract
+
+# game/scripts/story_01/pool.rpy:179
+translate crowdin lisa_swims_talk_swims_422e89f1:
+
+    # Lisa 02 "Ты что, Макс, уже наплавался? Или обессилел, пока меня держал на себе?"
+    Lisa 02 "Ты что, Макс, уже наплавался? Или обессилел, пока меня держал на себе?"
+
+# game/scripts/story_01/pool.rpy:180
+translate crowdin lisa_swims_talk_swims_81745dbd:
+
+    # Max 11 "Мне на сегодня плавания уже хватило."
+    Max 11 "Мне на сегодня плавания уже хватило."
+
+# game/scripts/story_01/pool.rpy:187
 translate crowdin lisa_swims_talk_swims_cd4ffcfe:
 
     # Lisa 02 "Ты что, Макс, уже наплавался?"
     Lisa 02 "Ты что, Макс, уже наплавался?"
 
-# game/scripts/story_01/pool.rpy:170
+# game/scripts/story_01/pool.rpy:188
 translate crowdin lisa_swims_talk_swims_bae8e776:
 
     # Max 01 "Ага. Пора делами заниматься..."
     Max 01 "Ага. Пора делами заниматься..."
 
-# game/scripts/story_01/pool.rpy:187
+# game/scripts/story_01/pool.rpy:205
 translate crowdin ann_night_swim_talk_b57b44c1:
 
     # Ann 02 "Почему бы и нет? Пускай без солнышка, но водичка всё равно тёплая..." nointeract
     Ann 02 "Почему бы и нет? Пускай без солнышка, но водичка всё равно тёплая..." nointeract
 
-# game/scripts/story_01/pool.rpy:195
+# game/scripts/story_01/pool.rpy:213
 translate crowdin ann_night_swim_talk_a52a69f0:
 
     # tMax 03 "Правильно, такую сногсшибательную фигуру нужно держать в тонусе и красиво подвигаться в воде самое то, перед сном..." nointeract
     tMax 03 "Правильно, такую сногсшибательную фигуру нужно держать в тонусе и красиво подвигаться в воде самое то, перед сном..." nointeract
 
-# game/scripts/story_01/pool.rpy:206
+# game/scripts/story_01/pool.rpy:224
 translate crowdin ann_night_swim_talk_7c507641:
 
     # Ann 02 "Немного, чтобы спалось крепче. Ложиться скоро, а сна ни в одном глазу..." nointeract
     Ann 02 "Немного, чтобы спалось крепче. Ложиться скоро, а сна ни в одном глазу..." nointeract
 
-# game/scripts/story_01/pool.rpy:214
+# game/scripts/story_01/pool.rpy:232
 translate crowdin ann_night_swim_talk_a52a69f0_1:
 
     # tMax 03 "Правильно, такую сногсшибательную фигуру нужно держать в тонусе и красиво подвигаться в воде самое то, перед сном..." nointeract
     tMax 03 "Правильно, такую сногсшибательную фигуру нужно держать в тонусе и красиво подвигаться в воде самое то, перед сном..." nointeract
 
-# game/scripts/story_01/pool.rpy:234
+# game/scripts/story_01/pool.rpy:252
 translate crowdin ann_swim_talk_7b0614e9:
 
     # Ann 02 "Обязательно! Если хочешь, присоединяйся? Поплаваем вместе..." nointeract
     Ann 02 "Обязательно! Если хочешь, присоединяйся? Поплаваем вместе..." nointeract
 
-# game/scripts/story_01/pool.rpy:241
+# game/scripts/story_01/pool.rpy:259
 translate crowdin ann_swim_talk_2f495a84:
 
     # Ann 04 "Как же хорошо иметь собственный бассейн, да ещё и в таком прекрасном месте. И погода балует." nointeract
     Ann 04 "Как же хорошо иметь собственный бассейн, да ещё и в таком прекрасном месте. И погода балует." nointeract
 
-# game/scripts/story_01/pool.rpy:246
+# game/scripts/story_01/pool.rpy:264
 translate crowdin ann_swim_talk_ac967fd5:
 
     # Ann 11 "Ну, как хочешь!"
     Ann 11 "Ну, как хочешь!"
 
-# game/scripts/story_01/pool.rpy:247
+# game/scripts/story_01/pool.rpy:265
 translate crowdin ann_swim_talk_fb0b0639:
 
     # Max 01 "Не буду тебе мешать..."
     Max 01 "Не буду тебе мешать..."
 
-# game/scripts/story_01/pool.rpy:256
+# game/scripts/story_01/pool.rpy:274
 translate crowdin ann_swim_talk_1e085c87:
 
     # Ann 02 "Запрыгивай. В такую жаркую погоду милое дело освежиться и поплавать..." nointeract
     Ann 02 "Запрыгивай. В такую жаркую погоду милое дело освежиться и поплавать..." nointeract
 
-# game/scripts/story_01/pool.rpy:263
+# game/scripts/story_01/pool.rpy:281
 translate crowdin ann_swim_talk_a9ac540e:
 
     # Ann 04 "Лучше места для отдыха и не придумать. Почти, как на дорогом курорте..." nointeract
     Ann 04 "Лучше места для отдыха и не придумать. Почти, как на дорогом курорте..." nointeract
 
-# game/scripts/story_01/pool.rpy:268
+# game/scripts/story_01/pool.rpy:286
 translate crowdin ann_swim_talk_ac967fd5_1:
 
     # Ann 11 "Ну, как хочешь!"
     Ann 11 "Ну, как хочешь!"
 
-# game/scripts/story_01/pool.rpy:269
+# game/scripts/story_01/pool.rpy:287
 translate crowdin ann_swim_talk_fb0b0639_1:
 
     # Max 01 "Не буду тебе мешать..."
     Max 01 "Не буду тебе мешать..."
 
-# game/scripts/story_01/pool.rpy:283
+# game/scripts/story_01/pool.rpy:301
 translate crowdin ann_swim_talk_swims_344421a4:
 
     # tMax 01 "Не могу не согласиться с мамой. Но ещё больше мне нравится любоваться тем, как она красиво плавает..." nointeract
     tMax 01 "Не могу не согласиться с мамой. Но ещё больше мне нравится любоваться тем, как она красиво плавает..." nointeract
 
-# game/scripts/story_01/pool.rpy:289
+# game/scripts/story_01/pool.rpy:307
 translate crowdin ann_swim_talk_swims_00e8e7d2:
 
     # tMax 04 "А под водой вообще одно загляденье! Мамины аппетитные формы так и манят сделать что-нибудь непристойное..." nointeract
     tMax 04 "А под водой вообще одно загляденье! Мамины аппетитные формы так и манят сделать что-нибудь непристойное..." nointeract
 
-# game/scripts/story_01/pool.rpy:294
+# game/scripts/story_01/pool.rpy:312
 translate crowdin ann_swim_talk_swims_613b3a40:
 
     # Ann 11 "Ах ты... Вот что ты, Макс, делаешь? Взял и обрызгал меня, а ещё говоришь, что уже взрослый."
     Ann 11 "Ах ты... Вот что ты, Макс, делаешь? Взял и обрызгал меня, а ещё говоришь, что уже взрослый."
 
-# game/scripts/story_01/pool.rpy:295
+# game/scripts/story_01/pool.rpy:313
 translate crowdin ann_swim_talk_swims_7446adaf:
 
     # Max 06 "Как будто взрослые так делать не могут?"
     Max 06 "Как будто взрослые так делать не могут?"
 
-# game/scripts/story_01/pool.rpy:299
+# game/scripts/story_01/pool.rpy:317
 translate crowdin ann_swim_talk_swims_ede4485c:
 
     # Ann 04 "Ха, ещё как могут! Вот так тебе... Будешь знать, как на маму волны пускать! Нравится баловаться, да?"
     Ann 04 "Ха, ещё как могут! Вот так тебе... Будешь знать, как на маму волны пускать! Нравится баловаться, да?"
 
-# game/scripts/story_01/pool.rpy:300
+# game/scripts/story_01/pool.rpy:318
 translate crowdin ann_swim_talk_swims_1a52bbb6:
 
     # Max 16 "Я просто повеселиться хотел, мам! Прекращай, а то у меня глаза уже ничего не видят из-за брызг..."
     Max 16 "Я просто повеселиться хотел, мам! Прекращай, а то у меня глаза уже ничего не видят из-за брызг..."
 
-# game/scripts/story_01/pool.rpy:302
+# game/scripts/story_01/pool.rpy:320
 translate crowdin ann_swim_talk_swims_aacfd085:
 
     # Ann 03 "В следующий раз, когда снова захочешь повеселиться со мной в бассейне, обязательно вспомни, что тебя ждёт в ответ!" nointeract
     Ann 03 "В следующий раз, когда снова захочешь повеселиться со мной в бассейне, обязательно вспомни, что тебя ждёт в ответ!" nointeract
 
-# game/scripts/story_01/pool.rpy:306
+# game/scripts/story_01/pool.rpy:324
 translate crowdin ann_swim_talk_swims_1572cacc:
 
     # Ann 02 "Сынок, давай ещё поплаваем или ты всё? Или ты обиделся?"
     Ann 02 "Сынок, давай ещё поплаваем или ты всё? Или ты обиделся?"
 
-# game/scripts/story_01/pool.rpy:307
+# game/scripts/story_01/pool.rpy:325
 translate crowdin ann_swim_talk_swims_e2630c69:
 
     # Max 12 "Нет, мне уши нужно просушить, а то заложило от воды."
     Max 12 "Нет, мне уши нужно просушить, а то заложило от воды."
 
-# game/scripts/story_01/pool.rpy:313
+# game/scripts/story_01/pool.rpy:331
 translate crowdin ann_swim_talk_swims_62441e5e:
 
     # Ann 02 "Сынок, давай ещё поплаваем или ты всё?"
     Ann 02 "Сынок, давай ещё поплаваем или ты всё?"
 
-# game/scripts/story_01/pool.rpy:314
+# game/scripts/story_01/pool.rpy:332
 translate crowdin ann_swim_talk_swims_51d819fe:
 
     # Max 01 "Ага. Мне нужно идти..."
@@ -362,23 +404,23 @@ translate crowdin strings:
     old "{i}вынырнуть у неё между ног{/i}"
     new "{i}вынырнуть у неё между ног{/i}"
 
-    # game/scripts/story_01/pool.rpy:186
+    # game/scripts/story_01/pool.rpy:204
     old "{i}любоваться мамой{/i}"
     new "{i}любоваться мамой{/i}"
 
-    # game/scripts/story_01/pool.rpy:233
+    # game/scripts/story_01/pool.rpy:251
     old "Конечно хочу!"
     new "Конечно хочу!"
 
-    # game/scripts/story_01/pool.rpy:240
+    # game/scripts/story_01/pool.rpy:258
     old "{i}поплавать с мамой{/i}"
     new "{i}поплавать с мамой{/i}"
 
-    # game/scripts/story_01/pool.rpy:255
+    # game/scripts/story_01/pool.rpy:273
     old "Я тоже так думаю!"
     new "Я тоже так думаю!"
 
-    # game/scripts/story_01/pool.rpy:288
+    # game/scripts/story_01/pool.rpy:306
     old "{i}вынырнуть и обрызгать маму"
     new "{i}вынырнуть и обрызгать маму"
 

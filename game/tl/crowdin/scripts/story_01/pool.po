@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-01-15 22:41 #|#|# # game/scripts/story_01/pool.rpy:10 #-#-# translate crowdin alice_swims_talk_2c2308f4:
+﻿# TODO: Translation updated at 2024-01-24 03:02 #|#|# # game/scripts/story_01/pool.rpy:10 #-#-# translate crowdin alice_swims_talk_2c2308f4:
 msgid "[_Alice_s_01_] Может быть. А что, тоже хочешь? Ну, присоединяйся... [nointeract]"
 msgstr "[_Alice_s_01_] Может быть. А что, тоже хочешь? Ну, присоединяйся... [nointeract]"
 
@@ -114,103 +114,131 @@ msgstr "[_tMax_s_01_] Приятно наблюдать, как Лиза пла�
 msgid "[_tMax_s_04_] А как она под водой красиво смотрится! Так и хочется сделать что-нибудь эдакое... [nointeract]"
 msgstr "[_tMax_s_04_] А как она под водой красиво смотрится! Так и хочется сделать что-нибудь эдакое... [nointeract]"
 
-# game/scripts/story_01/pool.rpy:169 #-#-# translate crowdin lisa_swims_talk_swims_cd4ffcfe:
+# game/scripts/story_01/pool.rpy:165 #-#-# translate crowdin lisa_swims_talk_swims_f18b7f46:
+msgid "[_Lisa_s_14_] Ай, Макс!!! Не пугай меня так! Я даже не заметила, как ты подо мной оказался!"
+msgstr "[_Lisa_s_14_] Ай, Макс!!! Не пугай меня так! Я даже не заметила, как ты подо мной оказался!"
+
+# game/scripts/story_01/pool.rpy:166 #-#-# translate crowdin lisa_swims_talk_swims_caad5e80:
+msgid "[_Max_s_01_] Я бы предупредил, что выныриваю, но был под водой..."
+msgstr "[_Max_s_01_] Я бы предупредил, что выныриваю, но был под водой..."
+
+# game/scripts/story_01/pool.rpy:170 #-#-# translate crowdin lisa_swims_talk_swims_0e3a4e6d:
+msgid "[_Lisa_s_03_] Очень смешно! Тебе там не тяжело меня на шее держать, я ведь уже не маленькая?"
+msgstr "[_Lisa_s_03_] Очень смешно! Тебе там не тяжело меня на шее держать, я ведь уже не маленькая?"
+
+# game/scripts/story_01/pool.rpy:171 #-#-# translate crowdin lisa_swims_talk_swims_2404fd21:
+msgid "[_Max_s_12_] Нет, ты стройненькая и лёгкая... Фух..."
+msgstr "[_Max_s_12_] Нет, ты стройненькая и лёгкая... Фух..."
+
+# game/scripts/story_01/pool.rpy:173 #-#-# translate crowdin lisa_swims_talk_swims_55045227:
+msgid "[_Lisa_s_11_] Ну да, я и вижу, что твоя голова всё больше и больше под воду уходит. Я, пожалуй, поплыву дальше, пока ты не утонул... [nointeract]"
+msgstr "[_Lisa_s_11_] Ну да, я и вижу, что твоя голова всё больше и больше под воду уходит. Я, пожалуй, поплыву дальше, пока ты не утонул... [nointeract]"
+
+# game/scripts/story_01/pool.rpy:179 #-#-# translate crowdin lisa_swims_talk_swims_422e89f1:
+msgid "[_Lisa_s_02_] Ты что, Макс, уже наплавался? Или обессилел, пока меня держал на себе?"
+msgstr "[_Lisa_s_02_] Ты что, Макс, уже наплавался? Или обессилел, пока меня держал на себе?"
+
+# game/scripts/story_01/pool.rpy:180 #-#-# translate crowdin lisa_swims_talk_swims_81745dbd:
+msgid "[_Max_s_11_] Мне на сегодня плавания уже хватило."
+msgstr "[_Max_s_11_] Мне на сегодня плавания уже хватило."
+
+# game/scripts/story_01/pool.rpy:187 #-#-# translate crowdin lisa_swims_talk_swims_cd4ffcfe:
 msgid "[_Lisa_s_02_] Ты что, Макс, уже наплавался?"
 msgstr "[_Lisa_s_02_] Ты что, Макс, уже наплавался?"
 
-# game/scripts/story_01/pool.rpy:170 #-#-# translate crowdin lisa_swims_talk_swims_bae8e776:
+# game/scripts/story_01/pool.rpy:188 #-#-# translate crowdin lisa_swims_talk_swims_bae8e776:
 msgid "[_Max_s_01_] Ага. Пора делами заниматься..."
 msgstr "[_Max_s_01_] Ага. Пора делами заниматься..."
 
-# game/scripts/story_01/pool.rpy:187 #-#-# translate crowdin ann_night_swim_talk_b57b44c1:
+# game/scripts/story_01/pool.rpy:205 #-#-# translate crowdin ann_night_swim_talk_b57b44c1:
 msgid "[_Ann_s_02_] Почему бы и нет? Пускай без солнышка, но водичка всё равно тёплая... [nointeract]"
 msgstr "[_Ann_s_02_] Почему бы и нет? Пускай без солнышка, но водичка всё равно тёплая... [nointeract]"
 
-# game/scripts/story_01/pool.rpy:195 #-#-# translate crowdin ann_night_swim_talk_a52a69f0:
+# game/scripts/story_01/pool.rpy:213 #-#-# translate crowdin ann_night_swim_talk_a52a69f0:
 msgid "[_tMax_s_03_] Правильно, такую сногсшибательную фигуру нужно держать в тонусе и красиво подвигаться в воде самое то, перед сном... [nointeract]"
 msgstr "[_tMax_s_03_] Правильно, такую сногсшибательную фигуру нужно держать в тонусе и красиво подвигаться в воде самое то, перед сном... [nointeract]"
 
-# game/scripts/story_01/pool.rpy:206 #-#-# translate crowdin ann_night_swim_talk_7c507641:
+# game/scripts/story_01/pool.rpy:224 #-#-# translate crowdin ann_night_swim_talk_7c507641:
 msgid "[_Ann_s_02_] Немного, чтобы спалось крепче. Ложиться скоро, а сна ни в одном глазу... [nointeract]"
 msgstr "[_Ann_s_02_] Немного, чтобы спалось крепче. Ложиться скоро, а сна ни в одном глазу... [nointeract]"
 
-# game/scripts/story_01/pool.rpy:214 #-#-# translate crowdin ann_night_swim_talk_a52a69f0_1:
+# game/scripts/story_01/pool.rpy:232 #-#-# translate crowdin ann_night_swim_talk_a52a69f0_1:
 msgid "[_tMax_s_03_] Правильно, такую сногсшибательную фигуру нужно держать в тонусе и красиво подвигаться в воде самое то, перед сном... [nointeract]"
 msgstr "[_tMax_s_03_] Правильно, такую сногсшибательную фигуру нужно держать в тонусе и красиво подвигаться в воде самое то, перед сном... [nointeract]"
 
-# game/scripts/story_01/pool.rpy:234 #-#-# translate crowdin ann_swim_talk_7b0614e9:
+# game/scripts/story_01/pool.rpy:252 #-#-# translate crowdin ann_swim_talk_7b0614e9:
 msgid "[_Ann_s_02_] Обязательно! Если хочешь, присоединяйся? Поплаваем вместе... [nointeract]"
 msgstr "[_Ann_s_02_] Обязательно! Если хочешь, присоединяйся? Поплаваем вместе... [nointeract]"
 
-# game/scripts/story_01/pool.rpy:241 #-#-# translate crowdin ann_swim_talk_2f495a84:
+# game/scripts/story_01/pool.rpy:259 #-#-# translate crowdin ann_swim_talk_2f495a84:
 msgid "[_Ann_s_04_] Как же хорошо иметь собственный бассейн, да ещё и в таком прекрасном месте. И погода балует. [nointeract]"
 msgstr "[_Ann_s_04_] Как же хорошо иметь собственный бассейн, да ещё и в таком прекрасном месте. И погода балует. [nointeract]"
 
-# game/scripts/story_01/pool.rpy:246 #-#-# translate crowdin ann_swim_talk_ac967fd5:
+# game/scripts/story_01/pool.rpy:264 #-#-# translate crowdin ann_swim_talk_ac967fd5:
 msgid "[_Ann_s_11_] Ну, как хочешь!"
 msgstr "[_Ann_s_11_] Ну, как хочешь!"
 
-# game/scripts/story_01/pool.rpy:247 #-#-# translate crowdin ann_swim_talk_fb0b0639:
+# game/scripts/story_01/pool.rpy:265 #-#-# translate crowdin ann_swim_talk_fb0b0639:
 msgid "[_Max_s_01_] Не буду тебе мешать..."
 msgstr "[_Max_s_01_] Не буду тебе мешать..."
 
-# game/scripts/story_01/pool.rpy:256 #-#-# translate crowdin ann_swim_talk_1e085c87:
+# game/scripts/story_01/pool.rpy:274 #-#-# translate crowdin ann_swim_talk_1e085c87:
 msgid "[_Ann_s_02_] Запрыгивай. В такую жаркую погоду милое дело освежиться и поплавать... [nointeract]"
 msgstr "[_Ann_s_02_] Запрыгивай. В такую жаркую погоду милое дело освежиться и поплавать... [nointeract]"
 
-# game/scripts/story_01/pool.rpy:263 #-#-# translate crowdin ann_swim_talk_a9ac540e:
+# game/scripts/story_01/pool.rpy:281 #-#-# translate crowdin ann_swim_talk_a9ac540e:
 msgid "[_Ann_s_04_] Лучше места для отдыха и не придумать. Почти, как на дорогом курорте... [nointeract]"
 msgstr "[_Ann_s_04_] Лучше места для отдыха и не придумать. Почти, как на дорогом курорте... [nointeract]"
 
-# game/scripts/story_01/pool.rpy:268 #-#-# translate crowdin ann_swim_talk_ac967fd5_1:
+# game/scripts/story_01/pool.rpy:286 #-#-# translate crowdin ann_swim_talk_ac967fd5_1:
 msgid "[_Ann_s_11_] Ну, как хочешь!"
 msgstr "[_Ann_s_11_] Ну, как хочешь!"
 
-# game/scripts/story_01/pool.rpy:269 #-#-# translate crowdin ann_swim_talk_fb0b0639_1:
+# game/scripts/story_01/pool.rpy:287 #-#-# translate crowdin ann_swim_talk_fb0b0639_1:
 msgid "[_Max_s_01_] Не буду тебе мешать..."
 msgstr "[_Max_s_01_] Не буду тебе мешать..."
 
-# game/scripts/story_01/pool.rpy:283 #-#-# translate crowdin ann_swim_talk_swims_344421a4:
+# game/scripts/story_01/pool.rpy:301 #-#-# translate crowdin ann_swim_talk_swims_344421a4:
 msgid "[_tMax_s_01_] Не могу не согласиться с мамой. Но ещё больше мне нравится любоваться тем, как она красиво плавает... [nointeract]"
 msgstr "[_tMax_s_01_] Не могу не согласиться с мамой. Но ещё больше мне нравится любоваться тем, как она красиво плавает... [nointeract]"
 
-# game/scripts/story_01/pool.rpy:289 #-#-# translate crowdin ann_swim_talk_swims_00e8e7d2:
+# game/scripts/story_01/pool.rpy:307 #-#-# translate crowdin ann_swim_talk_swims_00e8e7d2:
 msgid "[_tMax_s_04_] А под водой вообще одно загляденье! Мамины аппетитные формы так и манят сделать что-нибудь непристойное... [nointeract]"
 msgstr "[_tMax_s_04_] А под водой вообще одно загляденье! Мамины аппетитные формы так и манят сделать что-нибудь непристойное... [nointeract]"
 
-# game/scripts/story_01/pool.rpy:294 #-#-# translate crowdin ann_swim_talk_swims_613b3a40:
+# game/scripts/story_01/pool.rpy:312 #-#-# translate crowdin ann_swim_talk_swims_613b3a40:
 msgid "[_Ann_s_11_] Ах ты... Вот что ты, Макс, делаешь? Взял и обрызгал меня, а ещё говоришь, что уже взрослый."
 msgstr "[_Ann_s_11_] Ах ты... Вот что ты, Макс, делаешь? Взял и обрызгал меня, а ещё говоришь, что уже взрослый."
 
-# game/scripts/story_01/pool.rpy:295 #-#-# translate crowdin ann_swim_talk_swims_7446adaf:
+# game/scripts/story_01/pool.rpy:313 #-#-# translate crowdin ann_swim_talk_swims_7446adaf:
 msgid "[_Max_s_06_] Как будто взрослые так делать не могут?"
 msgstr "[_Max_s_06_] Как будто взрослые так делать не могут?"
 
-# game/scripts/story_01/pool.rpy:299 #-#-# translate crowdin ann_swim_talk_swims_ede4485c:
+# game/scripts/story_01/pool.rpy:317 #-#-# translate crowdin ann_swim_talk_swims_ede4485c:
 msgid "[_Ann_s_04_] Ха, ещё как могут! Вот так тебе... Будешь знать, как на маму волны пускать! Нравится баловаться, да?"
 msgstr "[_Ann_s_04_] Ха, ещё как могут! Вот так тебе... Будешь знать, как на маму волны пускать! Нравится баловаться, да?"
 
-# game/scripts/story_01/pool.rpy:300 #-#-# translate crowdin ann_swim_talk_swims_1a52bbb6:
+# game/scripts/story_01/pool.rpy:318 #-#-# translate crowdin ann_swim_talk_swims_1a52bbb6:
 msgid "[_Max_s_16_] Я просто повеселиться хотел, мам! Прекращай, а то у меня глаза уже ничего не видят из-за брызг..."
 msgstr "[_Max_s_16_] Я просто повеселиться хотел, мам! Прекращай, а то у меня глаза уже ничего не видят из-за брызг..."
 
-# game/scripts/story_01/pool.rpy:302 #-#-# translate crowdin ann_swim_talk_swims_aacfd085:
+# game/scripts/story_01/pool.rpy:320 #-#-# translate crowdin ann_swim_talk_swims_aacfd085:
 msgid "[_Ann_s_03_] В следующий раз, когда снова захочешь повеселиться со мной в бассейне, обязательно вспомни, что тебя ждёт в ответ! [nointeract]"
 msgstr "[_Ann_s_03_] В следующий раз, когда снова захочешь повеселиться со мной в бассейне, обязательно вспомни, что тебя ждёт в ответ! [nointeract]"
 
-# game/scripts/story_01/pool.rpy:306 #-#-# translate crowdin ann_swim_talk_swims_1572cacc:
+# game/scripts/story_01/pool.rpy:324 #-#-# translate crowdin ann_swim_talk_swims_1572cacc:
 msgid "[_Ann_s_02_] Сынок, давай ещё поплаваем или ты всё? Или ты обиделся?"
 msgstr "[_Ann_s_02_] Сынок, давай ещё поплаваем или ты всё? Или ты обиделся?"
 
-# game/scripts/story_01/pool.rpy:307 #-#-# translate crowdin ann_swim_talk_swims_e2630c69:
+# game/scripts/story_01/pool.rpy:325 #-#-# translate crowdin ann_swim_talk_swims_e2630c69:
 msgid "[_Max_s_12_] Нет, мне уши нужно просушить, а то заложило от воды."
 msgstr "[_Max_s_12_] Нет, мне уши нужно просушить, а то заложило от воды."
 
-# game/scripts/story_01/pool.rpy:313 #-#-# translate crowdin ann_swim_talk_swims_62441e5e:
+# game/scripts/story_01/pool.rpy:331 #-#-# translate crowdin ann_swim_talk_swims_62441e5e:
 msgid "[_Ann_s_02_] Сынок, давай ещё поплаваем или ты всё?"
 msgstr "[_Ann_s_02_] Сынок, давай ещё поплаваем или ты всё?"
 
-# game/scripts/story_01/pool.rpy:314 #-#-# translate crowdin ann_swim_talk_swims_51d819fe:
+# game/scripts/story_01/pool.rpy:332 #-#-# translate crowdin ann_swim_talk_swims_51d819fe:
 msgid "[_Max_s_01_] Ага. Мне нужно идти..."
 msgstr "[_Max_s_01_] Ага. Мне нужно идти..."
 
@@ -250,23 +278,23 @@ msgstr "{i}поплавать с Лизой{/i}"
 msgid "{i}вынырнуть у неё между ног{/i}"
 msgstr "{i}вынырнуть у неё между ног{/i}"
 
-# game/scripts/story_01/pool.rpy:186
+# game/scripts/story_01/pool.rpy:204
 msgid "{i}любоваться мамой{/i}"
 msgstr "{i}любоваться мамой{/i}"
 
-# game/scripts/story_01/pool.rpy:233
+# game/scripts/story_01/pool.rpy:251
 msgid "Конечно хочу!"
 msgstr "Конечно хочу!"
 
-# game/scripts/story_01/pool.rpy:240
+# game/scripts/story_01/pool.rpy:258
 msgid "{i}поплавать с мамой{/i}"
 msgstr "{i}поплавать с мамой{/i}"
 
-# game/scripts/story_01/pool.rpy:255
+# game/scripts/story_01/pool.rpy:273
 msgid "Я тоже так думаю!"
 msgstr "Я тоже так думаю!"
 
-# game/scripts/story_01/pool.rpy:288
+# game/scripts/story_01/pool.rpy:306
 msgid "{i}вынырнуть и обрызгать маму"
 msgstr "{i}вынырнуть и обрызгать маму"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-01-09 23:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/diary.rpy:24
+﻿# TODO: Translation updated at 2024-01-24 03:02 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/diary.rpy:24
 msgid "Задания"
 msgstr "Задания"
 
@@ -18,31 +18,35 @@ msgstr "ВЫПОЛНЕННЫЕ"
 msgid "ВСЕ"
 msgstr "ВСЕ"
 
-# game/scripts/screens/diary.rpy:139
+# game/scripts/screens/diary.rpy:140
 msgid "Сейчас здесь нет заданий"
 msgstr "Сейчас здесь нет заданий"
 
-# game/scripts/screens/diary.rpy:182
+# game/scripts/screens/diary.rpy:183
 msgid "Завершите задание, чтобы получить награду..."
 msgstr "Завершите задание, чтобы получить награду..."
 
-# game/scripts/screens/diary.rpy:184
+# game/scripts/screens/diary.rpy:185
 msgid "Нужно приблизиться к завершению задания, чтобы узнать о награде..."
 msgstr "Нужно приблизиться к завершению задания, чтобы узнать о награде..."
 
-# game/scripts/screens/diary.rpy:187
+# game/scripts/screens/diary.rpy:188
 msgid "НАГРАДА:"
 msgstr "НАГРАДА:"
 
-# game/scripts/screens/diary.rpy:329
+# game/scripts/screens/diary.rpy:331
 msgid "МОЯ СТАРШАЯ СЕСТРЁНКА"
 msgstr "МОЯ СТАРШАЯ СЕСТРЁНКА"
 
-# game/scripts/screens/diary.rpy:337
+# game/scripts/screens/diary.rpy:339
 msgid "МОЯ МАМА"
 msgstr "МОЯ МАМА"
 
-# game/scripts/screens/diary.rpy:349
+# game/scripts/screens/diary.rpy:345
+msgid "МОЯ МЛАДШАЯ СЕСТРЁНКА"
+msgstr "МОЯ МЛАДШАЯ СЕСТРЁНКА"
+
+# game/scripts/screens/diary.rpy:360
 msgid "НАШИ ВЗАИМООТНОШЕНИЯ:"
 msgstr "НАШИ ВЗАИМООТНОШЕНИЯ:"
 
