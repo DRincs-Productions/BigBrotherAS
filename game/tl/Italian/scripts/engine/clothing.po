@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-01-18 12:24\n"
+"PO-Revision-Date: 2024-01-24 14:05\n"
 
-# TODO: Translation updated at 2024-01-09 23:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/clothing.rpy:924
+# TODO: Translation updated at 2024-01-24 03:02 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/clothing.rpy:924
 msgid "Лонгслив + джинсы"
 msgstr "Manica lunga + jeans"
 
@@ -141,12 +141,12 @@ msgid "Съехавшие трусики от нижнего белья (чёр�
 msgstr "Mutandine che si sfilano (nere)"
 
 # game/scripts/engine/clothing.rpy:960
-msgid "Приподнятая юбка делового костюма + нижнее бельё"
-msgstr "Gonna da lavoro alzata + biancheria intima"
+msgid "Приподнятая строгая юбка + нижнее бельё"
+msgstr ""
 
 # game/scripts/engine/clothing.rpy:960
-msgid "Приподнятая юбка делового костюма + нижнее бельё, съехавшее сверху"
-msgstr "Gonna a ruota del tailleur d'affari + biancheria intima tirata giù sopra la parte superiore"
+msgid "Приподнятая строгая юбка + нижнее бельё, съехавшее сверху"
+msgstr ""
 
 # game/scripts/engine/clothing.rpy:960
 msgid "Бикини, съехавшее сверху (светлое)"
@@ -181,16 +181,16 @@ msgid "Джинсовые шорты + нижнее бельё, съехавше
 msgstr "Pantaloncini di jeans + biancheria intima con la parte superiore abbassata (colore chiaro)"
 
 # game/scripts/engine/clothing.rpy:960
-msgid "Юбка школьной формы"
-msgstr "Gonna uniforme scolastica"
+msgid "Школьная юбка"
+msgstr ""
 
 # game/scripts/engine/clothing.rpy:960
-msgid "Юбка школьной формы + нижнее бельё (светлое)"
-msgstr "Gonna uniforme scolastica + biancheria intima (leggera)"
+msgid "Школьная юбка + нижнее бельё (светлое)"
+msgstr ""
 
 # game/scripts/engine/clothing.rpy:960
-msgid "Юбка школьной формы + нижнее бельё, съехавшее сверху (светлое)"
-msgstr "Gonna dell'uniforme scolastica + biancheria intima con il top abbassato (colore chiaro)"
+msgid "Школьная юбка + нижнее бельё, съехавшее сверху (светлое)"
+msgstr ""
 
 # game/scripts/engine/clothing.rpy:960
 msgid "Нижнее бельё (светлое)"
