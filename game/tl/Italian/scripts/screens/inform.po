@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-01-24 14:02\n"
+"PO-Revision-Date: 2024-01-24 15:39\n"
 
 # TODO: Translation updated at 2024-01-24 03:02 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/inform.rpy:28
 msgid "Персонажи"
@@ -130,7 +130,7 @@ msgstr "Esperienza di abilità"
 
 # game/scripts/screens/inform.rpy:284
 msgid "Ур. "
-msgstr ""
+msgstr "Liv. "
 
 # game/scripts/screens/inform.rpy:478
 msgid "ВИДЫ ОДЕЖДЫ"
