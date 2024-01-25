@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-01-24 14:05\n"
+"PO-Revision-Date: 2024-01-25 10:56\n"
 
 # TODO: Translation updated at 2024-01-24 03:02 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/clothing.rpy:924
 msgid "Лонгслив + джинсы"
@@ -142,11 +142,11 @@ msgstr "Mutandine che si sfilano (nere)"
 
 # game/scripts/engine/clothing.rpy:960
 msgid "Приподнятая строгая юбка + нижнее бельё"
-msgstr ""
+msgstr "Gonna formale rialzata + biancheria intima"
 
 # game/scripts/engine/clothing.rpy:960
 msgid "Приподнятая строгая юбка + нижнее бельё, съехавшее сверху"
-msgstr ""
+msgstr "Una gonna formale rialzata + biancheria intima scivolata giù dall'alto"
 
 # game/scripts/engine/clothing.rpy:960
 msgid "Бикини, съехавшее сверху (светлое)"
@@ -182,15 +182,15 @@ msgstr "Pantaloncini di jeans + biancheria intima con la parte superiore abbassa
 
 # game/scripts/engine/clothing.rpy:960
 msgid "Школьная юбка"
-msgstr ""
+msgstr "Gonna scolastica"
 
 # game/scripts/engine/clothing.rpy:960
 msgid "Школьная юбка + нижнее бельё (светлое)"
-msgstr ""
+msgstr "Gonna scolastica + biancheria intima (leggera)"
 
 # game/scripts/engine/clothing.rpy:960
 msgid "Школьная юбка + нижнее бельё, съехавшее сверху (светлое)"
-msgstr ""
+msgstr "Gonna scolastica + biancheria intima con il top abbassato (colore chiaro)"
 
 # game/scripts/engine/clothing.rpy:960
 msgid "Нижнее бельё (светлое)"
