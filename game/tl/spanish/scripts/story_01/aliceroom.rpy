@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-01-09 23:01
 
 # game/scripts/story_01/aliceroom.rpy:10
 translate spanish ev_alice_dressed_51996b14:
@@ -90,67 +90,67 @@ translate spanish ev_alice_dressed_look_beauty_6d1a5ac1:
     # Alice 15 "Да ты уже наверняка и на разворот журнала меня мысленно раздел! Дверь закрой и больше не врывайся ко мне, а то отпинаю..." nointeract
     Alice 15 "¡Apuesto a que ya le has dado vueltas a mi blog en la cabeza! Cierra la puerta y no me vuelvas a molestar, o te patearé..." nointeract
 
-# game/scripts/story_01/aliceroom.rpy:228
+# game/scripts/story_01/aliceroom.rpy:242
 translate spanish ev_alice_sleep_57d2c4d4:
 
     # tMax 11 "Сейчас Алиса должна спать. Стучать в дверь точно не стоит. Да и входить опасно для здоровья..." nointeract
     tMax 11 "Alice ya debería estar dormida. Llamar a la puerta no es una buena idea. Y ni siquiera es seguro entrar..." nointeract
 
-# game/scripts/story_01/aliceroom.rpy:233
+# game/scripts/story_01/aliceroom.rpy:247
 translate spanish ev_alice_sleep_20d37118:
 
     # tMax 03 "Вроде, спит... Наконец-то на мою старшую сестрёнку можно поглазеть самым наглым образом! Так мило выглядит..." nointeract
     tMax 03 "Creo que está durmiendo... ¡Por fin se puede mirar a mi hermana mayor de la manera más descarada posible! Ella es tan linda..." nointeract
 
-# game/scripts/story_01/aliceroom.rpy:241
+# game/scripts/story_01/aliceroom.rpy:255
 translate spanish ev_alice_sleep_fdba43f5:
 
     # tMax 05 "Класс! Отсюда Алису видно гораздо лучше, а поразглядывать у неё есть что... Обворожительно смотрится, но пора уходить, а то ещё проснётся." nointeract
     tMax 05 "¡Oh, genial! Desde aquí puedes ver mucho mejor a Alice, que tiene mucho que mostrar... Es hermosa, pero es hora de irse, o se despertará." nointeract
 
-# game/scripts/story_01/aliceroom.rpy:257
+# game/scripts/story_01/aliceroom.rpy:271
 translate spanish ev_alice_sleep_1d3d70d9:
 
     # tMax 15 "Ничего себе! Алиса ещё не заснула, ворочается. Лучше потихоньку сваливать, пока она меня не заметила..." nointeract
     tMax 15 "¡Guau! Alice todavía está despierta, dando vueltas y vueltas. Será mejor que me vaya de aquí antes de que me vea..." nointeract
 
-# game/scripts/story_01/aliceroom.rpy:279
+# game/scripts/story_01/aliceroom.rpy:293
 translate spanish ev_alice_sleep_morning_36c97f6b:
 
     # tMax 11 "Обычно в это время Алиса ещё спит. Если это так, то лучше её не будить..." nointeract
     tMax 11 "Por lo general, Alice todavía está durmiendo a esta hora. En este caso, es mejor no despertarla..." nointeract
 
-# game/scripts/story_01/aliceroom.rpy:284
+# game/scripts/story_01/aliceroom.rpy:298
 translate spanish ev_alice_sleep_morning_18d8bfbf:
 
     # tMax 03 "Да, Алиса ещё спит, что меня безусловно радует! От таких соблазнительных изгибов можно сознание потерять с утра пораньше..." nointeract
     tMax 03 "Sí, Alice todavía está durmiendo, ¡lo que me hace muy feliz! Esas curvas seductoras pueden hacer que te desmayes por la mañana..." nointeract
 
-# game/scripts/story_01/aliceroom.rpy:292
+# game/scripts/story_01/aliceroom.rpy:306
 translate spanish ev_alice_sleep_morning_d6b9522a:
 
     # tMax 05 "Ох, смотрю я на неё и в голове появляются лишь самые пошлые мысли... Но она может в любой момент проснуться, так что лучше уходить." nointeract
     tMax 05 "Oh, la miro y solo me vienen a la mente los pensamientos muy obscenos... Pero podría despertarse en cualquier momento, así que mejor me voy." nointeract
 
-# game/scripts/story_01/aliceroom.rpy:302
+# game/scripts/story_01/aliceroom.rpy:316
 translate spanish ev_alice_sleep_morning_59c252b6:
 
     # tMax 15 "Ой! Не особо-то она и спит. Нужно постараться бесшумно отсюда слинять, пока Алиса меня не увидела..." nointeract
     tMax 15 "¡Ay! Ella realmente no está dormida. Debería tratar de escabullirme de aquí antes de que Alice me vea..." nointeract
 
-# game/scripts/story_01/aliceroom.rpy:321
+# game/scripts/story_01/aliceroom.rpy:335
 translate spanish ev_068_fac47adc:
 
     # Alice 11 "Опять ты! Совсем что ли обнаглел, извращенец? Нечего тебе делать в моей комнате, тем более я ухожу гулять! Не вздумай тут шариться..."
     Alice 11 "¡Tú otra vez! ¿Tienes el valor, pervertido? ¡No tienes nada que hacer en mi habitación, sobre todo porque voy a salir! No te atrevas a husmear."
 
-# game/scripts/story_01/aliceroom.rpy:324
+# game/scripts/story_01/aliceroom.rpy:338
 translate spanish ev_068_8810b776:
 
     # Alice 01 "И что это ты тут нарисовался, Макс? Я пошла гулять. Не вздумай шариться в моей комнате!"
     Alice 01 "¿Qué haces aquí, Max? Fui a dar un paseo. ¡No te metas en mi habitación!"
 
-# game/scripts/story_01/aliceroom.rpy:325
+# game/scripts/story_01/aliceroom.rpy:339
 translate spanish ev_068_07c6fd9a:
 
     # Max 01 "Да больно надо. Смотри, чтобы голову не напекло!"
@@ -186,11 +186,11 @@ translate spanish strings:
     old "{i}подождать за дверью, пока Алиса переоденется{/i}"
     new "{i}esperar afuera de la puerta a que Lisa se cambie de vestido{/i}"
 
-    # game/scripts/story_01/aliceroom.rpy:232
+    # game/scripts/story_01/aliceroom.rpy:246
     old "{i}прокрасться в комнату{/i}"
     new "{i}colarse en la habitación{/i}"
 
-    # game/scripts/story_01/aliceroom.rpy:240
+    # game/scripts/story_01/aliceroom.rpy:254
     old "{i}подложить паука к Алисе{/i}"
     new "{i}lanzar la araña a Alice{/i}"
 

@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-01-09 23:01
 
 # game/scripts/story_01/morningwood.rpy:14
 translate french ev_001_ef68f9ed:
@@ -552,145 +552,145 @@ translate french ev_058_a315abea:
     # tMax 13 "Но ей явно пока неудобно говорить со мной об этом. Что ж, подожду... Может дело сдвинется в следующий раз, когда мне снова что-то приснится..."
     tMax 13 "Mais elle n'est manifestement pas encore à l'aise pour m'en parler. Eh bien, j'attendrai. Peut-être que cela reviendra la prochaine fois que je ferai un autre rêve..."
 
-# game/scripts/story_01/morningwood.rpy:189
+# game/scripts/story_01/morningwood.rpy:190
 translate french ev_073_75eace36:
 
     # tMax 11 "Что за?! Не понял, кто включил свет? Уже утро что ли... А что это Лиза делает?! Хочет прикоснуться к моему члену?! Да нет, это я, наверно, всё ещё сплю... Или нет?" nointeract
     tMax 11 "Qu'est-ce que c'est que ce bordel ? Je ne comprends pas, qui a allumé les lumières ? C'est le matin. Qu'est-ce que Lisa fait ? ! Est-ce qu'elle veut toucher ma bite ? ! Non, je suis probablement encore endormi. Ou est-ce que je le suis ?" nointeract
 
-# game/scripts/story_01/morningwood.rpy:197
+# game/scripts/story_01/morningwood.rpy:198
 translate french ev_073_ef1f19df:
 
     # Lisa 14 "Ой, Макс, ты не спишь! Это... не то, что ты подумал..."
     Lisa 14 "Oh, Max, tu es réveillé ! C'est, hum. ce n'est pas ce que tu penses."
 
-# game/scripts/story_01/morningwood.rpy:198
+# game/scripts/story_01/morningwood.rpy:199
 translate french ev_073_b7bc281d:
 
     # Max 01 "А похоже именно на то, что я подумал!"
     Max 01 "C'est exactement ce que je pensais !"
 
-# game/scripts/story_01/morningwood.rpy:199
+# game/scripts/story_01/morningwood.rpy:200
 translate french ev_073_eea8c60e:
 
     # Lisa 15 "Вот ещё! Это не так!"
     Lisa 15 "Il y a plus ! Ce n'est pas vrai !"
 
-# game/scripts/story_01/morningwood.rpy:200
+# game/scripts/story_01/morningwood.rpy:201
 translate french ev_073_0ffda0c5:
 
     # Max 04 "Если всё ещё хочешь, то можешь потрогать его..."
     Max 04 "Si vous le souhaitez encore, vous pouvez le toucher....."
 
-# game/scripts/story_01/morningwood.rpy:204
+# game/scripts/story_01/morningwood.rpy:205
 translate french ev_073_116479bb:
 
     # Lisa 11 "Не собиралась я его трогать! Я просто... хотела его прикрыть... Вот!"
     Lisa 11 "Je n'allais pas le toucher ! J'étais juste, hum. Je voulais le couvrir. Voilà !"
 
-# game/scripts/story_01/morningwood.rpy:205
+# game/scripts/story_01/morningwood.rpy:206
 translate french ev_073_80c9758c:
 
     # Max 06 "Ну да, это рукой, видимо?"
     Max 06 "Oui, c'est une main, apparemment ?"
 
-# game/scripts/story_01/morningwood.rpy:206
+# game/scripts/story_01/morningwood.rpy:207
 translate french ev_073_4ba365bc:
 
     # Lisa 12 "Э-э-э... Ой, всё! Я... вообще в ванную шла..."
     Lisa 12 "Erm. Oh, c'est ça ! Я... J'étais en fait sur le chemin de la salle de bain."
 
-# game/scripts/story_01/morningwood.rpy:207
+# game/scripts/story_01/morningwood.rpy:208
 translate french ev_073_24119cac:
 
     # Max 01 "А ты у нас шалунья, оказывается..."
     Max 01 "Tu es une vilaine fille, n'est-ce pas ?"
 
-# game/scripts/story_01/morningwood.rpy:211
+# game/scripts/story_01/morningwood.rpy:212
 translate french ev_073_769d2e65:
 
     # Lisa 09 "Макс, давай не будем об этом говорить!"
     Lisa 09 "Max, n'en parlons pas !"
 
-# game/scripts/story_01/morningwood.rpy:212
+# game/scripts/story_01/morningwood.rpy:213
 translate french ev_073_4053cd27:
 
     # Max 13 "Почему?"
     Max 13 "Pourquoi ?"
 
-# game/scripts/story_01/morningwood.rpy:213
+# game/scripts/story_01/morningwood.rpy:214
 translate french ev_073_69df72b0:
 
     # Lisa 10 "Мне стыдно! Вот, почему..."
     Lisa 10 "J'ai honte ! Voilà pourquoi."
 
-# game/scripts/story_01/morningwood.rpy:214
+# game/scripts/story_01/morningwood.rpy:215
 translate french ev_073_6f674c6c:
 
     # Max 12 "В этом нет ничего постыдного! Хотя, тебе об этом должна была рассказать мама, но..."
     Max 12 "Il n'y a pas de honte à cela ! Même si ta mère aurait dû t'en parler, mais....."
 
-# game/scripts/story_01/morningwood.rpy:215
+# game/scripts/story_01/morningwood.rpy:216
 translate french ev_073_a4b7a0a7:
 
     # Lisa 16 "Вот именно! Она мне ничего не хочет рассказывать о взрослых вещах... А если я пойду к Алисе, то она станет надо мной прикалываться и смеяться."
     Lisa 16 "Exactement ! Elle ne veut rien me dire sur les choses des adultes.... Et si je vais voir Alice, elle se moquera de moi et se moquera de moi."
 
-# game/scripts/story_01/morningwood.rpy:216
+# game/scripts/story_01/morningwood.rpy:217
 translate french ev_073_d0a1b984:
 
     # Max 11 "Ну, а я тут для чего?!"
     Max 11 "Alors, pourquoi suis-je ici ?"
 
-# game/scripts/story_01/morningwood.rpy:220
+# game/scripts/story_01/morningwood.rpy:221
 translate french ev_073_5c9cf27c:
 
     # Lisa 01 "Ах да, ты же у нас великий учитель!"
     Lisa 01 "Oh oui, vous êtes un excellent professeur !"
 
-# game/scripts/story_01/morningwood.rpy:221
+# game/scripts/story_01/morningwood.rpy:222
 translate french ev_073_d485ad9d:
 
     # Max 01 "Великий - это вряд ли, но подготовить тебя ко взрослой жизни могу."
     Max 01 "C'est peu probable, mais je peux vous préparer à l'âge adulte."
 
-# game/scripts/story_01/morningwood.rpy:222
+# game/scripts/story_01/morningwood.rpy:223
 translate french ev_073_a7d73b98:
 
     # Lisa 09 "Думаешь, меня надо готовить и сама я не справлюсь?"
     Lisa 09 "Vous pensez que je dois cuisiner et que je ne peux pas le faire moi-même ?"
 
-# game/scripts/story_01/morningwood.rpy:223
+# game/scripts/story_01/morningwood.rpy:224
 translate french ev_073_0e8a0756:
 
     # Max 12 "Ты многого не знаешь..."
     Max 12 "Il y a beaucoup de choses que vous ne savez pas..."
 
-# game/scripts/story_01/morningwood.rpy:224
+# game/scripts/story_01/morningwood.rpy:225
 translate french ev_073_276b1ea1:
 
     # Lisa 11 "Да ты тоже на эксперта не тянешь, Макс!"
     Lisa 11 "Tu n'es pas vraiment un expert non plus, Max !"
 
-# game/scripts/story_01/morningwood.rpy:225
+# game/scripts/story_01/morningwood.rpy:226
 translate french ev_073_62720bb7:
 
     # Max 11 "Хотя бы подумай над этим."
     Max 11 "Au moins, réfléchissez-y."
 
-# game/scripts/story_01/morningwood.rpy:226
+# game/scripts/story_01/morningwood.rpy:227
 translate french ev_073_d6913efb:
 
     # Lisa 00 "Ладно, подумаю... Мне нужно в душ быстрее бежать. За мной не подглядывать, Макс!"
     Lisa 00 "D'accord, je vais y réfléchir. Il faut que j'aille vite à la douche. Pas de coup d'œil, Max !"
 
-# game/scripts/story_01/morningwood.rpy:230
+# game/scripts/story_01/morningwood.rpy:232
 translate french ev_073_2e56edff:
 
     # tMax 01 "Ох, Лиза... Уже и ручки свои тянет к члену, пока я не вижу. Это очень хорошо! Значит, её интерес растёт."
     tMax 01 "Oh, Lisa. Elle met déjà ses mains sur ma bite alors que je ne la vois pas. C'est très bien ! Cela signifie qu'elle s'intéresse de plus en plus à moi."
 
-# game/scripts/story_01/morningwood.rpy:231
+# game/scripts/story_01/morningwood.rpy:233
 translate french ev_073_9f7ebb96:
 
     # tMax 13 "Правда, хоть она и сказала, что подумает над моим предложением, но это не означает, что она действительно подумает. Ну что ж, подожду ещё немного, а там будет видно..."
@@ -714,11 +714,11 @@ translate french strings:
     old "Задание «Наставник» обновлено!"
     new "La mission \"Mentor\" a été mise à jour !"
 
-    # game/scripts/story_01/morningwood.rpy:188
+    # game/scripts/story_01/morningwood.rpy:189
     old "{i}ждать...{/i}"
     new "{i}attendre...{/i}"
 
-    # game/scripts/story_01/morningwood.rpy:188
+    # game/scripts/story_01/morningwood.rpy:189
     old "Да трогай уже, он не кусается!"
     new "Il suffit de le toucher, il ne mord pas !"
 

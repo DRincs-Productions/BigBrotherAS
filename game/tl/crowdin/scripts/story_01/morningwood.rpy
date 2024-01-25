@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-09-10 00:31
+﻿# TODO: Translation updated at 2024-01-09 23:01
 
 # game/scripts/story_01/morningwood.rpy:14
 translate crowdin ev_001_ef68f9ed:
@@ -552,145 +552,145 @@ translate crowdin ev_058_a315abea:
     # tMax 13 "Но ей явно пока неудобно говорить со мной об этом. Что ж, подожду... Может дело сдвинется в следующий раз, когда мне снова что-то приснится..."
     tMax 13 "Но ей явно пока неудобно говорить со мной об этом. Что ж, подожду... Может дело сдвинется в следующий раз, когда мне снова что-то приснится..."
 
-# game/scripts/story_01/morningwood.rpy:189
+# game/scripts/story_01/morningwood.rpy:190
 translate crowdin ev_073_75eace36:
 
     # tMax 11 "Что за?! Не понял, кто включил свет? Уже утро что ли... А что это Лиза делает?! Хочет прикоснуться к моему члену?! Да нет, это я, наверно, всё ещё сплю... Или нет?" nointeract
     tMax 11 "Что за?! Не понял, кто включил свет? Уже утро что ли... А что это Лиза делает?! Хочет прикоснуться к моему члену?! Да нет, это я, наверно, всё ещё сплю... Или нет?" nointeract
 
-# game/scripts/story_01/morningwood.rpy:197
+# game/scripts/story_01/morningwood.rpy:198
 translate crowdin ev_073_ef1f19df:
 
     # Lisa 14 "Ой, Макс, ты не спишь! Это... не то, что ты подумал..."
     Lisa 14 "Ой, Макс, ты не спишь! Это... не то, что ты подумал..."
 
-# game/scripts/story_01/morningwood.rpy:198
+# game/scripts/story_01/morningwood.rpy:199
 translate crowdin ev_073_b7bc281d:
 
     # Max 01 "А похоже именно на то, что я подумал!"
     Max 01 "А похоже именно на то, что я подумал!"
 
-# game/scripts/story_01/morningwood.rpy:199
+# game/scripts/story_01/morningwood.rpy:200
 translate crowdin ev_073_eea8c60e:
 
     # Lisa 15 "Вот ещё! Это не так!"
     Lisa 15 "Вот ещё! Это не так!"
 
-# game/scripts/story_01/morningwood.rpy:200
+# game/scripts/story_01/morningwood.rpy:201
 translate crowdin ev_073_0ffda0c5:
 
     # Max 04 "Если всё ещё хочешь, то можешь потрогать его..."
     Max 04 "Если всё ещё хочешь, то можешь потрогать его..."
 
-# game/scripts/story_01/morningwood.rpy:204
+# game/scripts/story_01/morningwood.rpy:205
 translate crowdin ev_073_116479bb:
 
     # Lisa 11 "Не собиралась я его трогать! Я просто... хотела его прикрыть... Вот!"
     Lisa 11 "Не собиралась я его трогать! Я просто... хотела его прикрыть... Вот!"
 
-# game/scripts/story_01/morningwood.rpy:205
+# game/scripts/story_01/morningwood.rpy:206
 translate crowdin ev_073_80c9758c:
 
     # Max 06 "Ну да, это рукой, видимо?"
     Max 06 "Ну да, это рукой, видимо?"
 
-# game/scripts/story_01/morningwood.rpy:206
+# game/scripts/story_01/morningwood.rpy:207
 translate crowdin ev_073_4ba365bc:
 
     # Lisa 12 "Э-э-э... Ой, всё! Я... вообще в ванную шла..."
     Lisa 12 "Э-э-э... Ой, всё! Я... вообще в ванную шла..."
 
-# game/scripts/story_01/morningwood.rpy:207
+# game/scripts/story_01/morningwood.rpy:208
 translate crowdin ev_073_24119cac:
 
     # Max 01 "А ты у нас шалунья, оказывается..."
     Max 01 "А ты у нас шалунья, оказывается..."
 
-# game/scripts/story_01/morningwood.rpy:211
+# game/scripts/story_01/morningwood.rpy:212
 translate crowdin ev_073_769d2e65:
 
     # Lisa 09 "Макс, давай не будем об этом говорить!"
     Lisa 09 "Макс, давай не будем об этом говорить!"
 
-# game/scripts/story_01/morningwood.rpy:212
+# game/scripts/story_01/morningwood.rpy:213
 translate crowdin ev_073_4053cd27:
 
     # Max 13 "Почему?"
     Max 13 "Почему?"
 
-# game/scripts/story_01/morningwood.rpy:213
+# game/scripts/story_01/morningwood.rpy:214
 translate crowdin ev_073_69df72b0:
 
     # Lisa 10 "Мне стыдно! Вот, почему..."
     Lisa 10 "Мне стыдно! Вот, почему..."
 
-# game/scripts/story_01/morningwood.rpy:214
+# game/scripts/story_01/morningwood.rpy:215
 translate crowdin ev_073_6f674c6c:
 
     # Max 12 "В этом нет ничего постыдного! Хотя, тебе об этом должна была рассказать мама, но..."
     Max 12 "В этом нет ничего постыдного! Хотя, тебе об этом должна была рассказать мама, но..."
 
-# game/scripts/story_01/morningwood.rpy:215
+# game/scripts/story_01/morningwood.rpy:216
 translate crowdin ev_073_a4b7a0a7:
 
     # Lisa 16 "Вот именно! Она мне ничего не хочет рассказывать о взрослых вещах... А если я пойду к Алисе, то она станет надо мной прикалываться и смеяться."
     Lisa 16 "Вот именно! Она мне ничего не хочет рассказывать о взрослых вещах... А если я пойду к Алисе, то она станет надо мной прикалываться и смеяться."
 
-# game/scripts/story_01/morningwood.rpy:216
+# game/scripts/story_01/morningwood.rpy:217
 translate crowdin ev_073_d0a1b984:
 
     # Max 11 "Ну, а я тут для чего?!"
     Max 11 "Ну, а я тут для чего?!"
 
-# game/scripts/story_01/morningwood.rpy:220
+# game/scripts/story_01/morningwood.rpy:221
 translate crowdin ev_073_5c9cf27c:
 
     # Lisa 01 "Ах да, ты же у нас великий учитель!"
     Lisa 01 "Ах да, ты же у нас великий учитель!"
 
-# game/scripts/story_01/morningwood.rpy:221
+# game/scripts/story_01/morningwood.rpy:222
 translate crowdin ev_073_d485ad9d:
 
     # Max 01 "Великий - это вряд ли, но подготовить тебя ко взрослой жизни могу."
     Max 01 "Великий - это вряд ли, но подготовить тебя ко взрослой жизни могу."
 
-# game/scripts/story_01/morningwood.rpy:222
+# game/scripts/story_01/morningwood.rpy:223
 translate crowdin ev_073_a7d73b98:
 
     # Lisa 09 "Думаешь, меня надо готовить и сама я не справлюсь?"
     Lisa 09 "Думаешь, меня надо готовить и сама я не справлюсь?"
 
-# game/scripts/story_01/morningwood.rpy:223
+# game/scripts/story_01/morningwood.rpy:224
 translate crowdin ev_073_0e8a0756:
 
     # Max 12 "Ты многого не знаешь..."
     Max 12 "Ты многого не знаешь..."
 
-# game/scripts/story_01/morningwood.rpy:224
+# game/scripts/story_01/morningwood.rpy:225
 translate crowdin ev_073_276b1ea1:
 
     # Lisa 11 "Да ты тоже на эксперта не тянешь, Макс!"
     Lisa 11 "Да ты тоже на эксперта не тянешь, Макс!"
 
-# game/scripts/story_01/morningwood.rpy:225
+# game/scripts/story_01/morningwood.rpy:226
 translate crowdin ev_073_62720bb7:
 
     # Max 11 "Хотя бы подумай над этим."
     Max 11 "Хотя бы подумай над этим."
 
-# game/scripts/story_01/morningwood.rpy:226
+# game/scripts/story_01/morningwood.rpy:227
 translate crowdin ev_073_d6913efb:
 
     # Lisa 00 "Ладно, подумаю... Мне нужно в душ быстрее бежать. За мной не подглядывать, Макс!"
     Lisa 00 "Ладно, подумаю... Мне нужно в душ быстрее бежать. За мной не подглядывать, Макс!"
 
-# game/scripts/story_01/morningwood.rpy:230
+# game/scripts/story_01/morningwood.rpy:232
 translate crowdin ev_073_2e56edff:
 
     # tMax 01 "Ох, Лиза... Уже и ручки свои тянет к члену, пока я не вижу. Это очень хорошо! Значит, её интерес растёт."
     tMax 01 "Ох, Лиза... Уже и ручки свои тянет к члену, пока я не вижу. Это очень хорошо! Значит, её интерес растёт."
 
-# game/scripts/story_01/morningwood.rpy:231
+# game/scripts/story_01/morningwood.rpy:233
 translate crowdin ev_073_9f7ebb96:
 
     # tMax 13 "Правда, хоть она и сказала, что подумает над моим предложением, но это не означает, что она действительно подумает. Ну что ж, подожду ещё немного, а там будет видно..."
@@ -714,11 +714,11 @@ translate crowdin strings:
     old "Задание «Наставник» обновлено!"
     new "Задание «Наставник» обновлено!"
 
-    # game/scripts/story_01/morningwood.rpy:188
+    # game/scripts/story_01/morningwood.rpy:189
     old "{i}ждать...{/i}"
     new "{i}ждать...{/i}"
 
-    # game/scripts/story_01/morningwood.rpy:188
+    # game/scripts/story_01/morningwood.rpy:189
     old "Да трогай уже, он не кусается!"
     new "Да трогай уже, он не кусается!"
 

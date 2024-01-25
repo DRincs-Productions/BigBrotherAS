@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-01-09 23:01
 
 # game/scripts/story_01/shopping.rpy:10
 translate french ev_051_f2e28c50:
@@ -12,157 +12,157 @@ translate french ev_051_4369a813:
     # tMax 14 "А я, пока не забыл, сразу же помою посуду. Эх... как же её много! Ну да ладно, потерплю..." nointeract
     tMax 14 "Avant d'oublier, je vais faire la vaisselle tout de suite. Oh, c'est beaucoup de vaisselle ! ça fait beaucoup de vaisselle ! Je serai patient." nointeract
 
-# game/scripts/story_01/shopping.rpy:29
+# game/scripts/story_01/shopping.rpy:32
 translate french ev_051_75b6f860:
 
     # Ann 10 "Макс, а ты что это стоишь без дела? Если помнишь, то тебе нужно с кое-чем закончить... Причём сегодня!"
     ""
 
-# game/scripts/story_01/shopping.rpy:31
+# game/scripts/story_01/shopping.rpy:34
 translate french ev_051_f646d107:
 
     # Ann 14 "Макс, а ты что это стоишь без дела? Тебе же кучу всего нужно сделать, если помнишь... Причём сегодня!"
     ""
 
-# game/scripts/story_01/shopping.rpy:32
+# game/scripts/story_01/shopping.rpy:35
 translate french ev_051_683c727f:
 
     # Max 12 "Да, мам, помню. Скоро этим займусь..."
     ""
 
-# game/scripts/story_01/shopping.rpy:33
+# game/scripts/story_01/shopping.rpy:36
 translate french ev_051_c543e57c:
 
     # Ann 12 "Смотри, чтобы к нашему с девочками возвращению всё было сделано. Иначе, накажу!"
     ""
 
-# game/scripts/story_01/shopping.rpy:34
+# game/scripts/story_01/shopping.rpy:37
 translate french ev_051_ab2b9042:
 
     # Max 14 "Не придётся. Я всё сделаю."
     ""
 
-# game/scripts/story_01/shopping.rpy:38
+# game/scripts/story_01/shopping.rpy:41
 translate french ev_051_fe2855c8:
 
     # Ann 01 "Ну вот, все готовы, можно идти по магазинам. Максу тут есть чем заняться. Вернёмся часа через 3..."
     ""
 
-# game/scripts/story_01/shopping.rpy:40
+# game/scripts/story_01/shopping.rpy:43
 translate french ev_051_6632eb95:
 
     # Ann 01 "Ну вот, все готовы, можно идти по магазинам. Максу здесь будет не до скуки. Вернёмся часа через 3..."
     ""
 
-# game/scripts/story_01/shopping.rpy:41
+# game/scripts/story_01/shopping.rpy:44
 translate french ev_051_ba1a46eb:
 
     # Max 11 "Удачных вам покупок..."
     ""
 
-# game/scripts/story_01/shopping.rpy:45
+# game/scripts/story_01/shopping.rpy:48
 translate french ev_051_9a7345b1:
 
     # Max 14 "Первым делом сразу помою посуду. Эх... как же её много! Ну да ладно, потерплю..." nointeract
     ""
 
-# game/scripts/story_01/shopping.rpy:58
+# game/scripts/story_01/shopping.rpy:61
 translate french ev_052_821d01cd:
 
     # Lisa 01 "Эй, Макс, мы вернулись..."
     Lisa 01 "Max, nous sommes de retour."
 
-# game/scripts/story_01/shopping.rpy:59
+# game/scripts/story_01/shopping.rpy:62
 translate french ev_052_f1dd19bd:
 
     # Max 01 "Ну как, удачно сходили? Скупили всё, что только можно было?"
     Max 01 "Avez-vous passé un bon moment ? Avez-vous acheté tout ce qui vous tombait sous la main ?"
 
-# game/scripts/story_01/shopping.rpy:60
+# game/scripts/story_01/shopping.rpy:63
 translate french ev_052_b5afa272:
 
     # Lisa 02 "Да так, мне по мелочи. А вот себе мама прикупила кое-что основательное..."
     Lisa 02 "Juste des petites choses pour moi. Mais ma mère s'est offert quelque chose de grand."
 
-# game/scripts/story_01/shopping.rpy:61
+# game/scripts/story_01/shopping.rpy:64
 translate french ev_052_432ecc13:
 
     # Max 11 "А где Алису потеряли?"
     Max 11 "Où ont-ils perdu Alice ?"
 
-# game/scripts/story_01/shopping.rpy:62
+# game/scripts/story_01/shopping.rpy:65
 translate french ev_052_1ed8c3ac:
 
     # Ann 12 "Она не стала с нами возвращаться домой. Сказала, что больше видеть меня не хочет..."
     Ann 12 "Elle ne voulait pas rentrer à la maison avec nous. Elle a dit qu'elle ne voulait plus me voir....."
 
-# game/scripts/story_01/shopping.rpy:63
+# game/scripts/story_01/shopping.rpy:66
 translate french ev_052_2741e675:
 
     # Max 13 "В смысле? Вот этот момент не понял!"
     Max 13 "Que voulez-vous dire par là ? C'est la partie que je ne comprends pas !"
 
-# game/scripts/story_01/shopping.rpy:64
+# game/scripts/story_01/shopping.rpy:67
 translate french ev_052_f3b4f6ad:
 
     # Lisa 11 "Она обиделась и ушла. Всё из-за того, что мама купила себе очень классное платье. Ну... для сегодняшнего похода на рабочее мероприятие."
     Lisa 11 "Elle s'est sentie offensée et est partie. Tout ça parce que maman s'est acheté une très belle robe. Eh bien... pour la soirée de travail de ce soir."
 
-# game/scripts/story_01/shopping.rpy:65
+# game/scripts/story_01/shopping.rpy:68
 translate french ev_052_589174a8:
 
     # Max 03 "А-а-а-а... Я так понимаю, Алиса недовольна, что мама купила платье себе, а не ей."
     Max 03 "Ah-ah-ah-ah-ah-ah. J'en déduis qu'Alice n'est pas contente que maman ait acheté la robe pour elle et non pour elle."
 
-# game/scripts/story_01/shopping.rpy:66
+# game/scripts/story_01/shopping.rpy:69
 translate french ev_052_827e57d7:
 
     # Ann 11 "Вот именно, Макс. Мне важно произвести хорошее впечатление на этом мероприятии. Вдруг от этого будет зависеть моё дальнейшее положение на работе."
     Ann 11 "Exactement, Max. Il est important que je fasse bonne impression lors de cet événement. Cela pourrait déterminer mes futures perspectives d'emploi."
 
-# game/scripts/story_01/shopping.rpy:67
+# game/scripts/story_01/shopping.rpy:70
 translate french ev_052_99774588:
 
     # Max 12 "Произвести хорошее впечатление на Эрика, видимо?"
     Max 12 "Faire bonne impression à Eric, je suppose ?"
 
-# game/scripts/story_01/shopping.rpy:68
+# game/scripts/story_01/shopping.rpy:71
 translate french ev_052_19110403:
 
     # Ann 00 "Может быть. Он всё-таки высокую должность занимает в компании."
     Ann 00 "Peut-être. Il occupe une position élevée dans l'entreprise, après tout."
 
-# game/scripts/story_01/shopping.rpy:69
+# game/scripts/story_01/shopping.rpy:72
 translate french ev_052_f9f450ae:
 
     # Lisa 03 "Да, да, да... Именно так мы и подумали..."
     Lisa 03 "Oui, oui, oui. C'est exactement ce que nous pensions."
 
-# game/scripts/story_01/shopping.rpy:70
+# game/scripts/story_01/shopping.rpy:73
 translate french ev_052_e69e8bed:
 
     # Max 11 "Так что там за платье? Показывайте!"
     Max 11 "Quelle est la robe ? Montre-moi !"
 
-# game/scripts/story_01/shopping.rpy:74
+# game/scripts/story_01/shopping.rpy:77
 translate french ev_052_ab979eec:
 
     # Ann 02 "Если тебе так интересно, сынок, то сегодня вечером ты сможешь его увидеть. А пока, я хочу наконец-то отдохнуть и понежиться на солнышке. Устала что-то..."
     Ann 02 "Si cela t'intéresse, fils, tu pourras le voir ce soir. En attendant, je veux enfin me reposer et profiter du soleil. Je suis fatigué."
 
-# game/scripts/story_01/shopping.rpy:75
+# game/scripts/story_01/shopping.rpy:78
 translate french ev_052_2a6edfa7:
 
     # Max 12 "Это правильно. А что с Алисой?"
     Max 12 "C'est vrai. Et Alice ?"
 
-# game/scripts/story_01/shopping.rpy:76
+# game/scripts/story_01/shopping.rpy:79
 translate french ev_052_a30959fc:
 
     # Ann 10 "Да ничего. Рано или поздно вернётся и будет дуться на меня. Её проблемы..."
     Ann 10 "Ce n'est pas grave. Tôt ou tard, elle reviendra et me boudera. Ses problèmes."
 
-# game/scripts/story_01/shopping.rpy:77
+# game/scripts/story_01/shopping.rpy:80
 translate french ev_052_7fac4255:
 
     # Max 01 "Ага. Ладно, отдыхайте."

@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-01-09 23:01
 
 translate french strings:
 
@@ -234,11 +234,11 @@ translate french strings:
     old "настроение Алисы"
     new "L'humeur d'Alice"
 
-    # game/scripts/screens/tutorial.rpy:545
+    # game/scripts/screens/tutorial.rpy:568
     old "Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
     new "Vous trouverez ici des informations sur le déroulement du jeu..."
 
-    # game/scripts/screens/tutorial.rpy:547
+    # game/scripts/screens/tutorial.rpy:570
     old "Теперь вы управляете жизнью Макса! Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
     new "Tu es maintenant aux commandes de la vie de Max ! Vous trouverez ici des informations sur le fonctionnement de ce jeu..."
 

@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-01-09 23:01
 
 # game/scripts/story_01/sunscreen.rpy:7
 translate italian ev_011_03c9dcee:
@@ -391,144 +391,144 @@ translate italian ev_053_sunbathe_adc74b5d:
     Ann 03 "Mi fa piacere sentirlo, figliolo..."
 
 # game/scripts/story_01/sunscreen.rpy:388
-translate italian ev_053_sunbathe_9435166e:
+translate italian ev_053_sunbathe_e54cb173:
 
-    # tMax 04 "Когда мама одевает бикини, начинается самый настоящий праздник! Такие аппетитные формы, слегка блестящие на солнце... Ммм..." nointeract
-    tMax 04 "Quando la mamma indossa il bikini, iniziano i veri festeggiamenti! Forme così lussuose, leggermente scintillanti al sole... Mmm..." nointeract
+    # tMax 04 "Когда мама надевает бикини, начинается самый настоящий праздник! Такие аппетитные формы, слегка блестящие на солнце... Ммм..." nointeract
+    tMax 04 "Quando la mamma indossa un bikini, è una vera delizia! Forme così belle, che scintillano leggermente al sole... Mmm..." nointeract
 
-# game/scripts/story_01/sunscreen.rpy:401
+# game/scripts/story_01/sunscreen.rpy:402
 translate italian ev_053_first_apply_oil_d8e4e97c:
 
     # Ann 11 "Нет. Я даже и не подумала об этом. Раньше ведь таких условий у нас не было."
     Ann 11 "No, non ci avevo nemmeno pensato. Prima non c'erano condizioni del genere."
 
-# game/scripts/story_01/sunscreen.rpy:402
+# game/scripts/story_01/sunscreen.rpy:403
 translate italian ev_053_first_apply_oil_9ac91cb8:
 
     # Max 11 "Но теперь-то все условия есть. Я вот сразу себя озадачил, приобрести масло для загара."
     Max 11 "Ma ora ci sono tutte le condizioni. Mi sono subito messo in testa di comprare un olio abbronzante."
 
-# game/scripts/story_01/sunscreen.rpy:403
+# game/scripts/story_01/sunscreen.rpy:404
 translate italian ev_053_first_apply_oil_1d8473c5:
 
     # Ann 00 "И как, приобрёл?"
     Ann 00 "L'hai ricevuto?"
 
-# game/scripts/story_01/sunscreen.rpy:407
+# game/scripts/story_01/sunscreen.rpy:408
 translate italian ev_053_first_apply_oil_8a0e5098:
 
     # Max 12 "Увы, ещё нет. Но в другой раз обязательно будет..."
     Max 12 "Ahimè, non ancora. Ma ci sarà sicuramente un'altra volta..."
 
-# game/scripts/story_01/sunscreen.rpy:412
+# game/scripts/story_01/sunscreen.rpy:413
 translate italian ev_053_first_apply_oil_e7ea9016:
 
     # Max 12 "Увы, оно почти закончилось. Но в другой раз обязательно будет..."
     Max 12 "Ahimè, è quasi finito. Ma ci sarà sicuramente un'altra volta..."
 
-# game/scripts/story_01/sunscreen.rpy:416
+# game/scripts/story_01/sunscreen.rpy:417
 translate italian ev_053_first_apply_oil_59b6031c:
 
     # Max 01 "Конечно! Давай я тебя им натру..."
     Max 01 "Ma certo! Lascia che te lo spalmi addosso..."
 
-# game/scripts/story_01/sunscreen.rpy:421
+# game/scripts/story_01/sunscreen.rpy:422
 translate italian ev_053_first_apply_oil_d6a52d8c:
 
     # Ann 01 "Хорошо, приступай... Ты сможешь натереть мне спину лучше, чем я сделаю это сама." nointeract
     Ann 01 "Va bene, vai avanti... Puoi massaggiarmi la schiena meglio di quanto possa fare io stessa." nointeract
 
-# game/scripts/story_01/sunscreen.rpy:431
+# game/scripts/story_01/sunscreen.rpy:432
 translate italian ev_053_first_apply_oil_29a7fdb7:
 
     # tMax 02 "Какая же шикарная попка у моей мамы! Можно спокойно глазеть и вместе с этим растирать масло по её нежной спине, но нужно и про плечи с шеей не забыть... Вот и готово!"
     tMax 02 "Che bel sedere ha mia madre! Posso fissare e strofinare l'olio su tutta la sua schiena delicata, ma devo pensare alle sue spalle e al suo collo... Ecco!"
 
-# game/scripts/story_01/sunscreen.rpy:432
+# game/scripts/story_01/sunscreen.rpy:433
 translate italian ev_053_first_apply_oil_7a18d493:
 
     # Ann 04 "Ох, сынок, большое тебе спасибо! Может, ты ещё и ножки мне натрёшь? А то я что-то совсем не хочу двигаться."
     Ann 04 "Oh, figliolo, grazie mille! Perché non mi massaggi anche i piedi? Non ho voglia di muovermi."
 
-# game/scripts/story_01/sunscreen.rpy:433
+# game/scripts/story_01/sunscreen.rpy:434
 translate italian ev_053_first_apply_oil_782af8b5:
 
     # Max 04 "Без проблем. Я с радостью..."
     Max 04 "Non c'è problema. Sarei felice di..."
 
-# game/scripts/story_01/sunscreen.rpy:437
+# game/scripts/story_01/sunscreen.rpy:438
 translate italian ev_053_first_apply_oil_16efb762:
 
     # tMax 01 "Об этих стройных ножках обязательно нужно позаботиться. Они у мамы даже и без масла очень гладкие..."
     tMax 01 "Quelle gambe formose hanno sicuramente bisogno di essere curate. Anche senza olio, i piedi della mamma sono molto lisci..."
 
-# game/scripts/story_01/sunscreen.rpy:441
+# game/scripts/story_01/sunscreen.rpy:442
 translate italian ev_053_first_apply_oil_346e41c6:
 
     # Ann 06 "Молодец, Макс! Как хорошо, что ты у меня есть... Теперь можно загорать без всяких опасений!"
     Ann 06 "Ben fatto, Max! È bello averti con noi... Ora puoi prendere il sole senza preoccupazioni!"
 
-# game/scripts/story_01/sunscreen.rpy:443
+# game/scripts/story_01/sunscreen.rpy:444
 translate italian ev_053_first_apply_oil_fcc24445:
 
     # Max 03 "На здоровье, мам!" nointeract
     Max 03 "Non c'è di che, mamma!" nointeract
 
-# game/scripts/story_01/sunscreen.rpy:449
+# game/scripts/story_01/sunscreen.rpy:451
 translate italian ev_053_apply_oil_e22e7616:
 
     # Ann 11 "Ой, сынок, это было бы очень кстати. Я постоянно об этом забываю."
     Ann 11 "Oh, figliolo, sarebbe molto utile. Continuo a dimenticarlo."
 
-# game/scripts/story_01/sunscreen.rpy:453
+# game/scripts/story_01/sunscreen.rpy:455
 translate italian ev_053_apply_oil_060fad4e:
 
     # Max 12 "Увы, его нет. Но в другой раз обязательно будет..."
     Max 12 "Ahimè, non è qui. Ma ci sarà sicuramente un'altra volta..."
 
-# game/scripts/story_01/sunscreen.rpy:458
+# game/scripts/story_01/sunscreen.rpy:460
 translate italian ev_053_apply_oil_e7ea9016:
 
     # Max 12 "Увы, оно почти закончилось. Но в другой раз обязательно будет..."
     Max 12 "Ahimè, è quasi finito. Ma ci sarà sicuramente un'altra volta..."
 
-# game/scripts/story_01/sunscreen.rpy:462
+# game/scripts/story_01/sunscreen.rpy:464
 translate italian ev_053_apply_oil_ff527484:
 
     # Max 01 "Зато я прекрасно помню. Устраивайся поудобнее..."
     Max 01 "Ma mi ricordo perfettamente. Mettiti comoda..."
 
-# game/scripts/story_01/sunscreen.rpy:467
+# game/scripts/story_01/sunscreen.rpy:469
 translate italian ev_053_apply_oil_d6a52d8c:
 
     # Ann 01 "Хорошо, приступай... Ты сможешь натереть мне спину лучше, чем я сделаю это сама." nointeract
     Ann 01 "Va bene, vai avanti... Puoi massaggiarmi la schiena meglio di quanto possa fare io stessa." nointeract
 
-# game/scripts/story_01/sunscreen.rpy:477
+# game/scripts/story_01/sunscreen.rpy:479
 translate italian ev_053_apply_oil_29a7fdb7:
 
     # tMax 02 "Какая же шикарная попка у моей мамы! Можно спокойно глазеть и вместе с этим растирать масло по её нежной спине, но нужно и про плечи с шеей не забыть... Вот и готово!"
     tMax 02 "Che bel sedere ha mia madre! Posso fissare e strofinare l'olio su tutta la sua schiena delicata, ma devo pensare alle sue spalle e al suo collo... Ecco!"
 
-# game/scripts/story_01/sunscreen.rpy:479
+# game/scripts/story_01/sunscreen.rpy:481
 translate italian ev_053_apply_oil_860c2529:
 
     # Ann 04 "Ох, сынок, большое тебе спасибо! Можешь ещё мои ножки так же приятно натереть, если не сложно..." nointeract
     Ann 04 "Oh, figliolo, grazie mille! Potresti massaggiarmi i piedi altrettanto bene, se non è troppo disturbo..." nointeract
 
-# game/scripts/story_01/sunscreen.rpy:485
+# game/scripts/story_01/sunscreen.rpy:487
 translate italian ev_053_apply_oil_16efb762:
 
     # tMax 01 "Об этих стройных ножках обязательно нужно позаботиться. Они у мамы даже и без масла очень гладкие..."
     tMax 01 "Quelle gambe formose hanno sicuramente bisogno di essere curate. Anche senza olio, i piedi della mamma sono molto lisci..."
 
-# game/scripts/story_01/sunscreen.rpy:489
+# game/scripts/story_01/sunscreen.rpy:491
 translate italian ev_053_apply_oil_346e41c6:
 
     # Ann 06 "Молодец, Макс! Как хорошо, что ты у меня есть... Теперь можно загорать без всяких опасений!"
     Ann 06 "Ben fatto, Max! È bello averti con noi... Ora puoi prendere il sole senza preoccupazioni!"
 
-# game/scripts/story_01/sunscreen.rpy:491
+# game/scripts/story_01/sunscreen.rpy:493
 translate italian ev_053_apply_oil_fcc24445:
 
     # Max 03 "На здоровье, мам!" nointeract

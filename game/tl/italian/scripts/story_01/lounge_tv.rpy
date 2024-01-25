@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-01-09 23:01
 
 # game/scripts/story_01/lounge_tv.rpy:8
 translate italian ev_ann_tv_talk_df9c7313:
@@ -252,49 +252,55 @@ translate italian ev_038_d37de002:
     # tMax 01 "Интересно, а мама под халатом совсем голая или в трусиках? Эх, вот бы как-то умудриться подсмотреть..."
     tMax 01 "Mi chiedo se la mamma sia nuda sotto la vestaglia o in mutande. Vorrei riuscire in qualche modo a dare una sbirciatina..."
 
-# game/scripts/story_01/lounge_tv.rpy:175
+# game/scripts/story_01/lounge_tv.rpy:177
 translate italian ev_038_84161fdd:
 
     # tMax 12 "Вот зря я начал фантазировать, есть на маме трусики или нет! В джинсах стало прям очень тесно, член стоит как памятник! Хорошо, что из-за моей одежды она это не увидит..."
     tMax 12 "Non avrei mai dovuto fantasticare sul fatto che mia madre indossasse o meno le mutande! I miei jeans stavano diventando molto stretti, il mio cazzo si ergeva come un monumento! Meno male che non può vederlo da dietro i miei vestiti..."
 
 # game/scripts/story_01/lounge_tv.rpy:180
+translate italian ev_038_e541de06:
+
+    # tMax 12 "Вот зря я начал фантазировать, есть на маме трусики или нет! В этих шортах, хоть они и достаточно просторные, уже не так легко скрыть возбуждение, как в джинсах. Остаётся надеяться, что она это не увидит..."
+    tMax 12 "Non avrei dovuto iniziare a fantasticare sul fatto che la mamma indossasse o meno le mutandine! Con questi pantaloncini, anche se sono abbastanza spaziosi, non è facile nascondere la mia eccitazione come con i jeans. Spero solo che non lo veda..."
+
+# game/scripts/story_01/lounge_tv.rpy:185
 translate italian ev_038_83b78545:
 
     # Ann 04 "Ну что, отличный сериал, как мне кажется! А тебе понравилось, Макс?" nointeract
     Ann 04 "Beh, è un grande spettacolo, credo! Ti è piaciuto, Max?" nointeract
 
-# game/scripts/story_01/lounge_tv.rpy:182
+# game/scripts/story_01/lounge_tv.rpy:187
 translate italian ev_038_63b20a98:
 
     # Ann 02 "Ну, я рада. Ладно, спасибо что посидел со мной. Пойду в свою комнату, хватит глаза портить на сегодня..."
     Ann 02 "Beh, mi fa piacere. Va bene, grazie per esserti seduto con me. Vado in camera mia, smetto di rovinarmi gli occhi per oggi..."
 
-# game/scripts/story_01/lounge_tv.rpy:183
+# game/scripts/story_01/lounge_tv.rpy:188
 translate italian ev_038_80f5b0f1:
 
     # Max 01 "Ага, давай..."
     Max 01 "Sì, dai..."
 
-# game/scripts/story_01/lounge_tv.rpy:186
+# game/scripts/story_01/lounge_tv.rpy:191
 translate italian ev_038_7a5cb61d:
 
     # Ann 11 "Пофантазировать? Не поняла, ты о чём..."
     Ann 11 "Fantasticare? Non capisco cosa intendi..."
 
-# game/scripts/story_01/lounge_tv.rpy:187
+# game/scripts/story_01/lounge_tv.rpy:192
 translate italian ev_038_729c4d17:
 
     # Max 04 "Не бери в голову, это я так, пошутил..."
     Max 04 "Non importa, stavo solo scherzando..."
 
-# game/scripts/story_01/lounge_tv.rpy:188
+# game/scripts/story_01/lounge_tv.rpy:193
 translate italian ev_038_9f03cc4b:
 
     # Ann 02 "Ясно. Ну, спасибо за компанию. Пойду в свою комнату, хватит глаза портить на сегодня..."
     Ann 02 "Bene, grazie per la compagnia. Vado in camera mia, smetto di rovinarmi gli occhi per oggi..."
 
-# game/scripts/story_01/lounge_tv.rpy:189
+# game/scripts/story_01/lounge_tv.rpy:194
 translate italian ev_038_9c32b796:
 
     # Max 01 "Ага, хорошо посидели..."
@@ -346,11 +352,11 @@ translate italian strings:
     old "Мам, хочешь массаж?"
     new "Mamma, vuoi un massaggio?"
 
-    # game/scripts/story_01/lounge_tv.rpy:179
+    # game/scripts/story_01/lounge_tv.rpy:184
     old "Да, хорошо посидели!"
     new "Sì, ci siamo divertiti!"
 
-    # game/scripts/story_01/lounge_tv.rpy:179
+    # game/scripts/story_01/lounge_tv.rpy:184
     old "Да, было о чём пофантазировать!"
     new "Sì, c'era molto da fantasticare!"
 

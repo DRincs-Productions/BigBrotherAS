@@ -1,10 +1,10 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-01-09 23:01
 
 translate italian strings:
 
     # game/scripts/screens/notify.rpy:35
-    old "Нужно выполнить задания \"Любопытное содержимое\", \"Способ заработать\", а так же подбросить паука, натирая Алису маслом."
-    new "È necessario completare i compiti \"Contenuto curioso\", \"Un modo per fare soldi\" e rilasciare un ragno mentre stai mettendo l'olio ad Alice."
+    old "Нужно завершить следующие задания: «Любопытное содержимое», «Способ заработать», «Арахнофобия», «Стоит ли рисковать?», «Маслице для загара», «При делах»."
+    new "È necessario completare i seguenti compiti: «Contenuto curioso», «Un modo per fare soldi», «Aracnofobia», «Vale la pena rischiare?», «Olio abbronzante» e «Fare affari»."
 
     # game/scripts/screens/notify.rpy:39
     old "Ok"
