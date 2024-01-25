@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-15 14:10\n"
+"PO-Revision-Date: 2024-01-25 18:50\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/story_01/smoke.rpy:11 #-#-# translate crowdin ev_025_7cf4d55a:
 msgid "[_tMax_s_13_] Что это? Ну-ка, ну-ка... Вот чёрт! Алиса снова взялась курить травку! Это очень нехорошо... [nointeract]"
@@ -146,7 +146,7 @@ msgstr "[_Alice_s_12_] Hasta entonces, deja de molestarme. ¡Déjame fumar en pa
 
 # game/scripts/story_01/smoke.rpy:124 #-#-# translate crowdin ev_026_bacdb8a1:
 msgid "[_Alice_s_01_] Да я вообще-то и так без лифчика всё время хожу, только когда сплю надеваю..."
-msgstr ""
+msgstr "[_Alice_s_01_] Sí, de hecho ando sin sujetador todo el tiempo, solo me lo pongo cuando duermo..."
 
 # game/scripts/story_01/smoke.rpy:125 #-#-# translate crowdin ev_026_e23ab051:
 msgid "[_Max_s_01_] Значит, тогда просто спи без него."
@@ -342,7 +342,7 @@ msgstr "[_Alice_s_11_] ¡Tomaré lo que quiera! Y lo que no quiero que hagas es 
 
 # game/scripts/story_01/smoke.rpy:316 #-#-# translate crowdin ev_028_48c819a4:
 msgid "[_Alice_s_04_] Ах, вон оно что... Свою иди разглядывай в зеркале, а мне лучше не мешай. Хуже будет... [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_04_] Oh, ahí está... Ve a mirar el tuyo en el espejo, pero será mejor que no me molestes. Será peor... [nointeract]"
 
 # game/scripts/story_01/smoke.rpy:325 #-#-# translate crowdin ev_028_21e51b14:
 msgid "[_Alice_s_15_] Блин, Макс, напугал! Поглазеть что ли пришёл, извращенец мелкий? [nointeract]"
