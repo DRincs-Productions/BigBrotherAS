@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-01-25 08:56\n"
+"PO-Revision-Date: 2024-01-25 10:56\n"
 
 # TODO: Translation updated at 2024-01-24 03:02 #|#|# # game/scripts/story_01/schoolgirl.rpy:8 #-#-# translate crowdin ev_084_03562824:
 msgid "[_tMax_s_13_] Теперь нужно узнать у Лизы, чем я могу ей помочь по учёбе. Надеюсь, что от меня не так уж и много всего потребуется..."
@@ -1214,31 +1214,31 @@ msgstr "[_Max_s_11_] Certo, ti aiuterò. Non preoccuparti..."
 
 # game/scripts/story_01/schoolgirl.rpy:1064 #-#-# translate crowdin ev_089_ending_help_8ce2870f:
 msgid "[_Lisa_s_11_] Фух... Ты меня выручил... Спасибо, что не стал сильно глазеть!"
-msgstr ""
+msgstr "[_Lisa_s_11_] Uff… Mi hai salvata… Grazie per non aver guardato troppo!"
 
 # game/scripts/story_01/schoolgirl.rpy:1065 #-#-# translate crowdin ev_089_ending_help_c66f4bad:
 msgid "[_Max_s_03_] Не напрягайся ты так из-за этого, я же не побегу теперь на весь город в подробностях рассказывать, что видел."
-msgstr ""
+msgstr "[_Max_s_03_] Non stressarti così tanto per questo, non correrò in giro per la città a raccontare nei dettagli quello che ho visto."
 
 # game/scripts/story_01/schoolgirl.rpy:1066 #-#-# translate crowdin ev_089_ending_help_111c43cb:
 msgid "[_Lisa_s_09_] Я знаю, просто стесняюсь тебя."
-msgstr ""
+msgstr "[_Lisa_s_09_] Lo so, mi vergogno solo di te."
 
 # game/scripts/story_01/schoolgirl.rpy:1067 #-#-# translate crowdin ev_089_ending_help_4e2bcc82:
 msgid "[_Max_s_01_] Если тебя это немного успокоит, то ты очень краивая и милая девочка. Именно такое восхищение я испытываю, когда вижу тебя на мгновение голенькой. Да и когда ты одетая, тоже."
-msgstr ""
+msgstr "[_Max_s_01_] Se ti fa sentire meglio, sei una ragazza molto bella e dolce. Questo è il tipo di ammirazione che provo quando ti vedo nuda per un momento. E anche quando sei vestita."
 
 # game/scripts/story_01/schoolgirl.rpy:1068 #-#-# translate crowdin ev_089_ending_help_c5ae6fcd:
 msgid "[_Lisa_s_02_] Но когда голая, так особенно, да?"
-msgstr ""
+msgstr "[_Lisa_s_02_] Ma quando è nuda, è ancora più speciale, vero?"
 
 # game/scripts/story_01/schoolgirl.rpy:1069 #-#-# translate crowdin ev_089_ending_help_72c536d8:
 msgid "[_Max_s_04_] А что поделать? Так уж мы устроены. Привыкай, скромняшка..."
-msgstr ""
+msgstr "[_Max_s_04_] E tu cosa puoi fare? Siamo fatti così. Abituati, modesta ragazza..."
 
 # game/scripts/story_01/schoolgirl.rpy:1071 #-#-# translate crowdin ev_089_ending_help_2438430d:
 msgid "[_Lisa_s_11_] Да, похоже придётся, раз уж мы в одной комнате живём. Ладно, хватит меня укутывать в полотенце, как маленькую... Отвернись, пожалуйста, я переоденусь... [nointeract]"
-msgstr ""
+msgstr "[_Lisa_s_11_] Sì, sembra che dovremo, visto che viviamo nella stessa stanza. Va bene, smettila di avvolgermi nell’asciugamano, come una bambina… Per favore, voltati, mi cambio… [nointeract]"
 
 # game/scripts/story_01/schoolgirl.rpy:1074 #-#-# translate crowdin ev_089_ending_help_6025f711:
 msgid "[_Lisa_] {b}Лиза: {/b}\n"
@@ -1264,23 +1264,23 @@ msgstr "[_Max_s_01_] Sì, l'ho notato."
 
 # game/scripts/story_01/schoolgirl.rpy:1093 #-#-# translate crowdin ev_089_ending_help_d42fa007:
 msgid "[_Lisa_s_10_] Помоги его поднять, а то я стесняюсь перед тобой голая крутиться. И постарайся никуда не заглядывать, пожалуйста... [nointeract]"
-msgstr ""
+msgstr "[_Lisa_s_10_] Aiutami a sollevarlo, altrimenti mi vergogno di girare nuda davanti a te. E cerca di non guardare da nessuna parte, per favore... [nointeract]"
 
 # game/scripts/story_01/schoolgirl.rpy:1098 #-#-# translate crowdin ev_089_ending_help_5b3916c2:
 msgid "[_Lisa_s_09_] Фух... Ты меня выручил... Даже не знаю, как это у меня получается так терять полотенце!"
-msgstr ""
+msgstr "[_Lisa_s_09_] Uff... Mi hai salvata... Non so nemmeno come faccio a perdere così il telo!"
 
 # game/scripts/story_01/schoolgirl.rpy:1099 #-#-# translate crowdin ev_089_ending_help_3a04cc8b:
 msgid "[_Max_s_04_] Наверно ты меня задела, когда вставала со стула."
-msgstr ""
+msgstr "[_Max_s_04_] Devi avermi colpito quando ti sei alzata dalla sedia."
 
 # game/scripts/story_01/schoolgirl.rpy:1103 #-#-# translate crowdin ev_089_ending_help_8e717964:
 msgid "[_Lisa_s_11_] Ладно, хватит меня укутывать в полотенце, как маленькую... Отвернись, пожалуйста, я переоденусь... [nointeract]"
-msgstr ""
+msgstr "[_Lisa_s_11_] Va bene, basta avvolgermi nell'asciugamano come una bambina... Per favore, voltati, mi cambio... [nointeract]"
 
 # game/scripts/story_01/schoolgirl.rpy:1106 #-#-# translate crowdin ev_089_ending_help_08c8fba8:
 msgid "[_Lisa_s_11_] Ладно, хватит меня укутывать в полотенце, как маленькую... Погуляй где-нибудь, пожалуйста, пока я переодеваюсь... [nointeract]"
-msgstr ""
+msgstr "[_Lisa_s_11_] Ok, smettila di avvolgermi nell'asciugamano come una bambina... Vai da un'altra parte, per favore, mentre mi cambio... [nointeract]"
 
 # game/scripts/story_01/schoolgirl.rpy:1114 #-#-# translate crowdin ev_089_ending_help_f9de6323:
 msgid "[_Lisa_s_12_] Серьёзно? Думаешь, раз я закончила с уроками, то теперь можно мой зад лапать?"
@@ -1304,7 +1304,7 @@ msgstr "[_Lisa_s_10_] Forza, esci dalla stanza, devo cambiarmi per andare a lett
 
 # game/scripts/story_01/schoolgirl.rpy:1127 #-#-# translate crowdin ev_089_ending_help_c082cec2:
 msgid "[_Lisa_s_14_] Серьёзно? Думаешь, раз я закончила с уроками, то теперь можно мой зад лапать?"
-msgstr ""
+msgstr "[_Lisa_s_14_] Seriamente? Pensi che, siccome ho finito i compiti, ora puoi palpare il mio sedere?"
 
 # game/scripts/story_01/schoolgirl.rpy:1128 #-#-# translate crowdin ev_089_ending_help_fd784b7a_1:
 msgid "[_Max_s_01_] Это разве лапать? Так... легонько прикоснулся, чтобы настроение поднять."
@@ -1312,51 +1312,51 @@ msgstr "[_Max_s_01_] Sono palpeggiamenti? È solo... Solo un piccolo tocco per a
 
 # game/scripts/story_01/schoolgirl.rpy:1132 #-#-# translate crowdin ev_089_ending_help_a52430b1:
 msgid "[_Lisa_s_01_] Ну ага, я тебе прикоснусь сейчас! Если тебе это так нравится делать, то вон, свой зад трогай..."
-msgstr ""
+msgstr "[_Lisa_s_01_] Sì, certo, ora ti tocco io! Se ti piace tanto farlo, allora vai, tocca il tuo sedere..."
 
 # game/scripts/story_01/schoolgirl.rpy:1133 #-#-# translate crowdin ev_089_ending_help_d42eda79:
 msgid "[_Max_s_04_] Свой не интересно, он же не такой классный, как твой."
-msgstr ""
+msgstr "[_Max_s_04_] Il mio non è interessante, non è così figo come il tuo."
 
 # game/scripts/story_01/schoolgirl.rpy:1136 #-#-# translate crowdin ev_089_ending_help_ad016980:
 msgid "[_Lisa_s_14_] Нельзя просто так взять и не облапать мой зад, пока такая прекрасная возможность есть, да?"
-msgstr ""
+msgstr "[_Lisa_s_14_] Non si può lasciare il mio sedere intatto, quando c'è una così bella occasione, vero?"
 
 # game/scripts/story_01/schoolgirl.rpy:1137 #-#-# translate crowdin ev_089_ending_help_7a55b1fb:
 msgid "[_Max_s_01_] Даже не знаю, твоя попка прямо как-то сама под руку попала..."
-msgstr ""
+msgstr "[_Max_s_01_] Non so nemmeno come, il tuo sedere è finito proprio sotto la mia mano..."
 
 # game/scripts/story_01/schoolgirl.rpy:1141 #-#-# translate crowdin ev_089_ending_help_08b752c9:
 msgid "[_Lisa_s_02_] Ну да, ещё скажи, что она из неоткуда возникла и сразу в руке оказалась!"
-msgstr ""
+msgstr "[_Lisa_s_02_] Sì, certo, e poi dimmi che è apparso dal nulla ed è finito dritto nella tua mano!"
 
 # game/scripts/story_01/schoolgirl.rpy:1142 #-#-# translate crowdin ev_089_ending_help_ec14d216:
 msgid "[_Max_s_04_] Именно так и было! А мне оставалось её только потискать..."
-msgstr ""
+msgstr "[_Max_s_04_] Proprio così! E a me restava solo di coccolarlo..."
 
 # game/scripts/story_01/schoolgirl.rpy:1146 #-#-# translate crowdin ev_089_ending_help_be78bf9b:
 msgid "[_Lisa_s_11_] Всё равно, руки не распускай! Слушай, уже поздно, я хочу спать. Отвернись, пожалуйста, я переоденусь... [nointeract]"
-msgstr ""
+msgstr "[_Lisa_s_11_] Non importa, non lasciare le mani! Senti, è già tardi, voglio dormire. Per favore, voltati, mi cambio... [nointeract]"
 
 # game/scripts/story_01/schoolgirl.rpy:1149 #-#-# translate crowdin ev_089_ending_help_05facf1d:
 msgid "[_Lisa_s_11_] Всё равно, руки не распускай! Слушай, уже поздно, я хочу спать. Погуляй где-нибудь, пожалуйста, пока я переодеваюсь... [nointeract]"
-msgstr ""
+msgstr "[_Lisa_s_11_] Comunque, tieni le mani a posto! Senti, è tardi, ho sonno. Fai una passeggiata da qualche parte, per favore, mentre mi cambio... [nointeract]"
 
 # game/scripts/story_01/schoolgirl.rpy:1157 #-#-# translate crowdin ev_089_ending_help_3094124d:
 msgid "[_Lisa_s_14_] Макс, ты что?! Ну нельзя же до такой степени наглеть! Верни моё полотенце на место, пока я на тебя не обиделась..."
-msgstr ""
+msgstr "[_Lisa_s_14_] Max, ma che cosa?! Non puoi essere così sfacciato! Rimetti al suo posto il mio asciugamano, prima che mi arrabbio con te..."
 
 # game/scripts/story_01/schoolgirl.rpy:1158 #-#-# translate crowdin ev_089_ending_help_062d3ac6:
 msgid "[_Max_s_01_] Я просто проверял, действительно ли ты сняла трусики..."
-msgstr ""
+msgstr "[_Max_s_01_] Ho solo controllato se avevi davvero tolto le mutandine..."
 
 # game/scripts/story_01/schoolgirl.rpy:1162 #-#-# translate crowdin ev_089_ending_help_a5afb8e0:
 msgid "[_Lisa_s_15_] Конечно, сняла! Мы же договаривались и я всё честно исполняю!"
-msgstr ""
+msgstr "[_Lisa_s_15_] Certo, le ho tolte! Abbiamo fatto un accordo e io lo rispetto onestamente!"
 
 # game/scripts/story_01/schoolgirl.rpy:1163 #-#-# translate crowdin ev_089_ending_help_a7a5d902:
 msgid "[_Max_s_04_] Ну, мало ли..."
-msgstr ""
+msgstr "[_Max_s_04_] Beh, non si sa mai..."
 
 # game/scripts/story_01/schoolgirl.rpy:1167 #-#-# translate crowdin ev_089_ending_help_88c77091_1:
 msgid "[_Lisa_s_10_] Всё, давай шуруй из комнаты, мне нужно переодеться, чтобы лечь спать. [nointeract]"
@@ -1368,7 +1368,7 @@ msgstr "[_Lisa_s_11_] Senti, è tardi, ho sonno. Voltati, per favore, mi cambio.
 
 # game/scripts/story_01/schoolgirl.rpy:1185 #-#-# translate crowdin ev_089_ending_help_01280de4:
 msgid "[_Lisa_s_11_] Слушай, уже поздно, я хочу спать. Бери свою одежду и иди погуляй где-нибудь, пожалуйста, пока я переодеваюсь... [nointeract]"
-msgstr ""
+msgstr "[_Lisa_s_11_] Senti, è già tardi, voglio dormire. Prendi i tuoi vestiti e vai a fare una passeggiata da qualche parte, per favore, mentre mi cambio... [nointeract]"
 
 # game/scripts/story_01/schoolgirl.rpy:1191 #-#-# translate crowdin ev_089_ft_1_76ac2c7a:
 msgid "[_tMax_s_13_] Обниматься она значит не хочет со мной в нижнем белье! Ничего, это только пока... А вот что действительно так себе, так это то, сколько дней мне придётся сидеть с ней за уроками и скучать."
@@ -1384,15 +1384,15 @@ msgstr "[_tMax_s_01_] Mentre lei fa i compiti non otterrò nulla d'interessante 
 
 # game/scripts/story_01/schoolgirl.rpy:1200 #-#-# translate crowdin ev_089_ft_2_caa20515:
 msgid "[_tMax_s_15_] Блин, я совсем забыл, что можно было прижать полотенце Лизы, когда она встаёт со стула!"
-msgstr ""
+msgstr "[_tMax_s_15_] Cavolo, ho completamente dimenticato che potevo tenere l'asciugamano di Lisa quando si è alzata dalla sedia!"
 
 # game/scripts/story_01/schoolgirl.rpy:1201 #-#-# translate crowdin ev_089_ft_2_cbb50ed9:
 msgid "[_tMax_s_16_] Все мысли были заняты тем, что на ней кроме полотенца больше ничего нет, а я бы мог это не представлять, а увидеть..."
-msgstr ""
+msgstr "[_tMax_s_16_] Tutti i pensieri erano occupati dal fatto che non aveva nient'altro che un asciugamano addosso, e io avrei potuto non immaginare, ma vedere..."
 
 # game/scripts/story_01/schoolgirl.rpy:1202 #-#-# translate crowdin ev_089_ft_2_a46bb30d:
 msgid "[_tMax_s_01_] Ладно, теперь-то уже поздно. Но вот в следующий раз эту возможность упускать точно не стоит..."
-msgstr ""
+msgstr "[_tMax_s_01_] Ok, ormai è troppo tardi. Ma la prossima volta non mi lascerò sfuggire questa opportunità..."
 
 # §translate crowdin strings: #|#|# # game/scripts/story_01/schoolgirl.rpy:282
 msgid "Открыто новое задание «Школьница»!"
@@ -1424,7 +1424,7 @@ msgstr "{i}Non fare nulla"
 
 # game/scripts/story_01/schoolgirl.rpy:491
 msgid "Задание «Застенчивая школьница» обновлено!"
-msgstr ""
+msgstr "Il compito «Scolaretta timida» è stata aggiornata!"
 
 # game/scripts/story_01/schoolgirl.rpy:523
 msgid "Ага, давай снимай полотенце..."
@@ -1432,7 +1432,7 @@ msgstr "Sì, togliamo l'asciugamano..."
 
 # game/scripts/story_01/schoolgirl.rpy:523
 msgid "Ага, давай снимай трусики..."
-msgstr ""
+msgstr "Sì, togliti le mutande..."
 
 # game/scripts/story_01/schoolgirl.rpy:523
 msgid "Ага, давай показывай, что там у тебя..."
@@ -1444,15 +1444,15 @@ msgstr "Mi dispiace, non posso venire stasera!"
 
 # game/scripts/story_01/schoolgirl.rpy:575
 msgid "{i}раздеться до трусов{/i}"
-msgstr ""
+msgstr "{i}spogliati fino alle mutande{/i}"
 
 # game/scripts/story_01/schoolgirl.rpy:648
 msgid "Тогда просто снимай трусики. Если, конечно, хочешь..."
-msgstr ""
+msgstr "Allora togliti le mutande. Se lo desideri, naturalmente..."
 
 # game/scripts/story_01/schoolgirl.rpy:654
 msgid "Соглашайся, пока предлагаю..."
-msgstr ""
+msgstr "Accetta finché offro..."
 
 # game/scripts/story_01/schoolgirl.rpy:799
 msgid "Побудь без лифчика, пока делаешь уроки..."
@@ -1464,65 +1464,65 @@ msgstr "Fammi toccare il tuo seno..."
 
 # game/scripts/story_01/schoolgirl.rpy:824
 msgid "{i}трогать грудь Лизы{/i}"
-msgstr ""
+msgstr "{i}toccare il seno di Lisa{/i}"
 
 # game/scripts/story_01/schoolgirl.rpy:869
 msgid "Побудь без полотенца, пока делаешь уроки..."
-msgstr ""
+msgstr "Senza asciugamano mentre fai i compiti..."
 
 # game/scripts/story_01/schoolgirl.rpy:869
 msgid "Покажи грудь ненадолго..."
-msgstr ""
+msgstr "Mostra il seno per un po'..."
 
 # game/scripts/story_01/schoolgirl.rpy:887
 msgid "Это лучше, чем ничего. Давай так..."
-msgstr ""
+msgstr "È meglio di niente. Facciamo così..."
 
 # game/scripts/story_01/schoolgirl.rpy:887
 msgid "Не стесняйся ты так. Покажи всю..."
-msgstr ""
+msgstr "Non essere così timida. Mostra tutto..."
 
 # game/scripts/story_01/schoolgirl.rpy:895
 msgid "Я согласен! Показывай всю..."
-msgstr ""
+msgstr "Sono d’accordo! Mostrami tutto..."
 
 # game/scripts/story_01/schoolgirl.rpy:895
 msgid "Нет, так не пойдёт! Показывай наполовину..."
-msgstr ""
+msgstr "No, così non va! Mostra a metà..."
 
 # game/scripts/story_01/schoolgirl.rpy:978
 msgid "{i}расстегнуть лифчик Лизы{/i}"
-msgstr ""
+msgstr "{i}sganciare il reggiseno di Lisa{/i}"
 
 # game/scripts/story_01/schoolgirl.rpy:978
 msgid "{i}прижать полотенце Лизы, когда она встанет{/i}"
-msgstr ""
+msgstr "{i}tenere l'asciugamano di Lisa quando si alza{/i}"
 
 # game/scripts/story_01/schoolgirl.rpy:978
 msgid "{i}обнять Лизу за попку{/i}"
-msgstr ""
+msgstr "{i}abbracciare il sedere di Lisa{/i}"
 
 # game/scripts/story_01/schoolgirl.rpy:978
 msgid "{i}обнять Лизу за голую попку{/i}"
-msgstr ""
+msgstr "{i}abbracciare il sedere nudo di Lisa{/i}"
 
 # game/scripts/story_01/schoolgirl.rpy:978
 msgid "{i}ничего не делать{/i}"
-msgstr ""
+msgstr "{i}non fare nulla{/i}"
 
 # game/scripts/story_01/schoolgirl.rpy:984
 msgid "Ты же всё равно сейчас переодеваться будешь..."
-msgstr ""
+msgstr "Tanto devi cambiarti ora..."
 
 # game/scripts/story_01/schoolgirl.rpy:984
 msgid "Я как раз на это и надеялся!"
-msgstr ""
+msgstr "È proprio quello che speravo!"
 
 # game/scripts/story_01/schoolgirl.rpy:1077
 msgid "Задание «Застенчивая школьница» завершено!"
-msgstr ""
+msgstr "Il compito «Scolaretta timida» è completo!"
 
 # game/scripts/story_01/schoolgirl.rpy:1092
 msgid "{i}поднять полотенце Лизы{/i}"
-msgstr ""
+msgstr "{i}raccogliere l'asciugamano di Lisa{/i}"
 
