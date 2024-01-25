@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-24 14:02\n"
+"PO-Revision-Date: 2024-01-25 18:50\n"
 
 # TODO: Translation updated at 2024-01-24 03:02 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/navigation.rpy:130
 msgid "Ждать окончания часа"
@@ -106,7 +106,7 @@ msgstr "Menú del juego"
 
 # game/scripts/screens/navigation.rpy:374
 msgid "Галерея"
-msgstr ""
+msgstr "Galería"
 
 # game/scripts/screens/navigation.rpy:386
 msgid "Обучение"
