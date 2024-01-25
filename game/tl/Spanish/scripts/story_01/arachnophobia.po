@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-24 14:02\n"
+"PO-Revision-Date: 2024-01-25 18:50\n"
 
 # TODO: Translation updated at 2024-01-24 03:02 #|#|# # game/scripts/story_01/arachnophobia.rpy:7 #-#-# translate crowdin ev_032_247fb4c6:
 msgid "[_tMax_s_12_] Так... Пауки. Ох, сколько видов... Какие же тут у нас водятся..."
@@ -585,7 +585,7 @@ msgstr "[_Max_s_04_] ¡Tienes un culo estupendo, Alice! Vale, ¿dónde está esa
 
 # game/scripts/story_01/arachnophobia.rpy:569 #-#-# translate crowdin ev_070_ass_b109d666:
 msgid "[_Alice_s_16_] Да я тебя сейчас придушу с такими запросами! В отличие от пауков, тебя-то я не боюсь. Живо убрал его отсюда, пока я ещё добрая!!!"
-msgstr ""
+msgstr "[_Alice_s_16_] ¡Sí, ahora te estrangularé con tales solicitudes! A diferencia de las arañas, yo no te tengo miedo. ¡¡¡Lo saqué rápidamente de aquí mientras todavía soy amable!!!"
 
 # game/scripts/story_01/arachnophobia.rpy:570 #-#-# translate crowdin ev_070_ass_6a7583f8:
 msgid "[_Max_s_12_] Тише ты, разбудишь всех. Ладно, где этот твой паук..."
@@ -1033,7 +1033,7 @@ msgstr "[_Max_s_05_] ¿En serio?"
 
 # game/scripts/story_01/arachnophobia.rpy:920 #-#-# translate crowdin ev_076_lvl_0_2536cf0b:
 msgid "[_Alice_s_11_] Конечно нет! Ты дурак что ли, Макс?! Иди давай отсюда и дверь за собой закрой... [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_11_] ¡Por supuesto que no! ¿Eres tonto o qué, Max? Sal de aquí y cierra la puerta detrás de ti... [nointeract]"
 
 # game/scripts/story_01/arachnophobia.rpy:926 #-#-# translate crowdin ev_076_lvl_1_d4054a11:
 msgid "[_Alice_s_06_] Да? Ну, если очень хочется, то можешь остаться и посмотреть..."
