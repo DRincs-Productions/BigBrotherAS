@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-01-09 23:01
+# TODO: Translation updated at 2024-01-24 03:02
 
 translate italian strings:
 
@@ -131,12 +131,12 @@ translate italian strings:
     new "Mutandine che si sfilano (nere)"
 
     # game/scripts/engine/clothing.rpy:960
-    old "Приподнятая юбка делового костюма + нижнее бельё"
-    new "Gonna da lavoro alzata + biancheria intima"
+    old "Приподнятая строгая юбка + нижнее бельё"
+    new "Gonna formale rialzata + biancheria intima"
 
     # game/scripts/engine/clothing.rpy:960
-    old "Приподнятая юбка делового костюма + нижнее бельё, съехавшее сверху"
-    new "Gonna a ruota del tailleur d'affari + biancheria intima tirata giù sopra la parte superiore"
+    old "Приподнятая строгая юбка + нижнее бельё, съехавшее сверху"
+    new "Una gonna formale rialzata + biancheria intima scivolata giù dall'alto"
 
     # game/scripts/engine/clothing.rpy:960
     old "Бикини, съехавшее сверху (светлое)"
@@ -171,16 +171,16 @@ translate italian strings:
     new "Pantaloncini di jeans + biancheria intima con la parte superiore abbassata (colore chiaro)"
 
     # game/scripts/engine/clothing.rpy:960
-    old "Юбка школьной формы"
-    new "Gonna uniforme scolastica"
+    old "Школьная юбка"
+    new "Gonna scolastica"
 
     # game/scripts/engine/clothing.rpy:960
-    old "Юбка школьной формы + нижнее бельё (светлое)"
-    new "Gonna uniforme scolastica + biancheria intima (leggera)"
+    old "Школьная юбка + нижнее бельё (светлое)"
+    new "Gonna scolastica + biancheria intima (leggera)"
 
     # game/scripts/engine/clothing.rpy:960
-    old "Юбка школьной формы + нижнее бельё, съехавшее сверху (светлое)"
-    new "Gonna dell'uniforme scolastica + biancheria intima con il top abbassato (colore chiaro)"
+    old "Школьная юбка + нижнее бельё, съехавшее сверху (светлое)"
+    new "Gonna scolastica + biancheria intima con il top abbassato (colore chiaro)"
 
     # game/scripts/engine/clothing.rpy:960
     old "Нижнее бельё (светлое)"

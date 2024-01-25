@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-01-09 23:01
+# TODO: Translation updated at 2024-01-24 03:02
 
 # game/scripts/story_01/up_skills.rpy:9
 translate italian ev_086_176058a9:
@@ -42,37 +42,37 @@ translate italian ev_086_0fda04a2:
     # tMax 01 "Это значит, что теперь я смогу увидеть больше всякого интересного, да и шансов будет больше..."
     tMax 01 "Significa che ora sarò in grado di vedere più cose e ci saranno più occasioni..."
 
-# game/scripts/story_01/up_skills.rpy:52
+# game/scripts/story_01/up_skills.rpy:53
 translate italian ev_086_1d5fcc08:
 
     # tMax 13 "Нет, слишком опасно! Даже если повезёт и мама меня не увидит, то наверняка услышит. Может, в следующий раз, если таковой представится..." nointeract
     tMax 13 "No, è troppo pericoloso! Anche se sono fortunato e la mamma non mi vede, probabilmente mi sentirà. Forse la prossima volta, se c'è la possibilità..." nointeract
 
-# game/scripts/story_01/up_skills.rpy:57
+# game/scripts/story_01/up_skills.rpy:58
 translate italian ev_086_1d5fcc08_1:
 
     # tMax 13 "Нет, слишком опасно! Даже если повезёт и мама меня не увидит, то наверняка услышит. Может, в следующий раз, если таковой представится..." nointeract
     tMax 13 "No, è troppo pericoloso! Anche se sono fortunato e la mamma non mi vede, probabilmente mi sentirà. Forse la prossima volta, se c'è la possibilità..." nointeract
 
-# game/scripts/story_01/up_skills.rpy:64
+# game/scripts/story_01/up_skills.rpy:65
 translate italian ev_086_1d5fcc08_2:
 
     # tMax 13 "Нет, слишком опасно! Даже если повезёт и мама меня не увидит, то наверняка услышит. Может, в следующий раз, если таковой представится..." nointeract
     tMax 13 "No, è troppo pericoloso! Anche se sono fortunato e la mamma non mi vede, probabilmente mi sentirà. Forse la prossima volta, se c'è la possibilità..." nointeract
 
-# game/scripts/story_01/up_skills.rpy:69
+# game/scripts/story_01/up_skills.rpy:70
 translate italian ev_086_0d8f3da3:
 
     # tMax 11 "Да уж, таким не каждый день можно любоваться, к сожалению! Знать бы ещё, что на неё так повлияло или же она это просто так, под настроение..."
     tMax 11 "Non è una cosa che si vede tutti i giorni, purtroppo! Sarebbe bello sapere cosa l'ha influenzata in questo modo, o se l'ha fatto solo per l'umore..."
 
-# game/scripts/story_01/up_skills.rpy:70
+# game/scripts/story_01/up_skills.rpy:71
 translate italian ev_086_46168b84:
 
     # tMax 12 "Остаётся только заглядывать к ней почаще, чтобы ничего не пропустить."
     tMax 12 "Non resta che controllarla più spesso per non perdersi nulla."
 
-# game/scripts/story_01/up_skills.rpy:71
+# game/scripts/story_01/up_skills.rpy:72
 translate italian ev_086_bea58364:
 
     # tMax 13 "Если это снова повторится и я всё же смогу подкрасться к ней максимально близко, то после можно будет и в других местах за мамой попробовать подсмотреть."

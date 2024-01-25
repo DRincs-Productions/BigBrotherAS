@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-01-09 23:01
+# TODO: Translation updated at 2024-01-24 03:02
 
 translate italian strings:
 
@@ -30,35 +30,35 @@ translate italian strings:
     old "настроение"
     new "umore"
 
-    # game/scripts/engine/skils.rpy:189
+    # game/scripts/engine/skils.rpy:190
     old "Я остался незамеченным!"
     new "Non sono stato notato!"
 
-    # game/scripts/engine/skils.rpy:189
+    # game/scripts/engine/skils.rpy:190
     old "Убеждение удалось!"
     new "La persuasione è riuscita!"
 
-    # game/scripts/engine/skils.rpy:189
+    # game/scripts/engine/skils.rpy:190
     old "Паук найден!"
     new "Un ragno è stato trovato!"
 
-    # game/scripts/engine/skils.rpy:198
+    # game/scripts/engine/skils.rpy:199
     old "Я чуть не попался!"
     new "Mi hanno quasi scoperto!"
 
-    # game/scripts/engine/skils.rpy:198
+    # game/scripts/engine/skils.rpy:199
     old "Мне не стоит это делать!"
     new "Non dovrei farlo!"
 
-    # game/scripts/engine/skils.rpy:198
+    # game/scripts/engine/skils.rpy:199
     old "Вот чёрт, я попался!"
     new "Oh, merda, mi hanno beccato!"
 
-    # game/scripts/engine/skils.rpy:198
+    # game/scripts/engine/skils.rpy:199
     old "Убеждение не удалось!"
     new "La persuasione è fallita!"
 
-    # game/scripts/engine/skils.rpy:198
+    # game/scripts/engine/skils.rpy:199
     old "Безрезультатно!"
     new "Senza successo!"
 

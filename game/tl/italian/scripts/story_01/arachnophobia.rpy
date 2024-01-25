@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-01-09 23:01
+# TODO: Translation updated at 2024-01-24 03:02
 
 # game/scripts/story_01/arachnophobia.rpy:7
 translate italian ev_032_247fb4c6:
@@ -1494,55 +1494,55 @@ translate italian ev_074_playful_hands_6a9cfb51:
     # Alice 11 "Всё, давай, шуруй отсюда. Бегом! А то я живо тебе по заднице напинаю!" nointeract
     Alice 11 "Va bene, forza, esci di qui. Ora! O ti prendo a calci nel culo!" nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:890
+# game/scripts/story_01/arachnophobia.rpy:891
 translate italian ev_076_f2c1fea3:
 
     # Alice 01 "Спасибо, буду знать. А теперь кыш, я сейчас буду переодеваться к завтраку..." nointeract
     Alice 01 "Grazie, lo saprò. Ora sciò, vado a cambiarmi per la colazione..." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:895
+# game/scripts/story_01/arachnophobia.rpy:896
 translate italian ev_076_67a71c3f:
 
     # Alice 11 "Макс, ты слышал, что я сказала? Я сейчас буду переодеваться и ты мне тут совершенно не нужен." nointeract
     Alice 11 "Max, hai sentito cosa ho detto? Sto per cambiarmi e non ho bisogno di te qui." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:908
+# game/scripts/story_01/arachnophobia.rpy:909
 translate italian ev_076_3dfd4f9e:
 
     # Alice 02 "Вот и прекрасно. Дверь закрой!" nointeract
     Alice 02 "Non c'è problema. Chiudi la porta!" nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:916
+# game/scripts/story_01/arachnophobia.rpy:917
 translate italian ev_076_lvl_0_d4054a11:
 
     # Alice 06 "Да? Ну, если очень хочется, то можешь остаться и посмотреть..."
     Alice 06 "Sì? Beh, se proprio vuoi, puoi restare a guardare..."
 
-# game/scripts/story_01/arachnophobia.rpy:917
+# game/scripts/story_01/arachnophobia.rpy:918
 translate italian ev_076_lvl_0_a0d42b38:
 
     # Max 05 "Правда?!"
     Max 05 "Davvero?!"
 
-# game/scripts/story_01/arachnophobia.rpy:919
+# game/scripts/story_01/arachnophobia.rpy:920
 translate italian ev_076_lvl_0_2536cf0b:
 
     # Alice 11 "Конечно нет! Ты дурак что ли, Макс?! Иди давай отсюда и дверь за собой закрой..." nointeract
     Alice 11 "Certo che no! Sei stupido, Max?! Esci di qui e chiudi la porta dietro di te..." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:925
+# game/scripts/story_01/arachnophobia.rpy:926
 translate italian ev_076_lvl_1_d4054a11:
 
     # Alice 06 "Да? Ну, если очень хочется, то можешь остаться и посмотреть..."
     Alice 06 "Sì? Beh, se proprio vuoi, puoi restare a guardare..."
 
-# game/scripts/story_01/arachnophobia.rpy:926
+# game/scripts/story_01/arachnophobia.rpy:927
 translate italian ev_076_lvl_1_6bccd5bd:
 
     # Max 04 "Очень хочу!"
     Max 04 "Lo voglio veramente!"
 
-# game/scripts/story_01/arachnophobia.rpy:928
+# game/scripts/story_01/arachnophobia.rpy:929
 translate italian ev_076_lvl_1_3379a11e:
 
     # Alice 04 "А вот обойдёшься! Маленький ещё для такого. Иди давай отсюда и дверь за собой закрой..." nointeract
@@ -1638,7 +1638,7 @@ translate italian strings:
     old "{i}перестать лапать Алису{/i}"
     new "{i}smettila di palpare Alice{/i}"
 
-    # game/scripts/story_01/arachnophobia.rpy:716
+    # game/scripts/story_01/arachnophobia.rpy:715
     old "Задание «Арахнофобия» завершено!"
     new "La missione «Aracnofobia» è stata completata!"
 
@@ -1658,15 +1658,15 @@ translate italian strings:
     old "{i}лапать Алису дальше{/i}"
     new "{i}palpeggia ulteriormente Alice{/i}"
 
-    # game/scripts/story_01/arachnophobia.rpy:889
+    # game/scripts/story_01/arachnophobia.rpy:890
     old "{i}присесть на кровать{/i}"
     new "{i}Siediti sul letto{/i}"
 
-    # game/scripts/story_01/arachnophobia.rpy:894
+    # game/scripts/story_01/arachnophobia.rpy:895
     old "Жалко! А я бы на это посмотрел..."
     new "Patetico! Io lo guarderei..."
 
-    # game/scripts/story_01/arachnophobia.rpy:894
+    # game/scripts/story_01/arachnophobia.rpy:895
     old "Жалко! Тогда не буду мешать..."
     new "Peccato! Allora ti lascio in pace..."
 

@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-01-15 22:42
+# TODO: Translation updated at 2024-01-24 03:02
 
 translate italian strings:
 
@@ -291,8 +291,8 @@ translate italian strings:
     new "Occorre solo aspettare..."
 
     # game/scripts/engine/tasks.rpy:174
-    old "Школьница"
-    new "Scolara"
+    old "Застенчивая школьница"
+    new "Studentessa timida"
 
     # game/scripts/engine/tasks.rpy:174
     old "Ох, вот это я попал! Мама попросила меня помочь Лизе с уроками, чтобы она не отставала по разным предметам и хорошо училась. Теперь, если Лиза получит двойку, то влетит не только ей, но и мне. \nЕстественно, я намекнул Лизе, что моя помощь будет стоить ей полотенца, в котором она делает уроки. Она же, в свою очередь, решила потянуть время и хочет, чтобы я доказал свою полезность. Это не проблема..."
@@ -317,6 +317,18 @@ translate italian strings:
     # game/scripts/engine/tasks.rpy:174
     old "Это можно предложить только взамен нижнему белью Лизы..."
     new "Questo può essere offerto solo in cambio della biancheria intima di Lisa..."
+
+    # game/scripts/engine/tasks.rpy:174
+    old "Увидеть Лизу полностью голой, помогая ей с уроками"
+    new "Vedere Lisa completamente nuda mentre la aiuti a fare i compiti"
+
+    # game/scripts/engine/tasks.rpy:174
+    old "Нужно поприставать к Лизе определённым образом, когда она закончит с уроками..."
+    new "Dobbiamo provarci con Lisa in un certo modo quando avrà finito i suoi compiti..."
+
+    # game/scripts/engine/tasks.rpy:174
+    old "Улучшение взаимоотношений с Лизой!"
+    new "Migliora il rapporto con Lisa!"
 
     # game/scripts/engine/tasks.rpy:174
     old "Новый купальник"
