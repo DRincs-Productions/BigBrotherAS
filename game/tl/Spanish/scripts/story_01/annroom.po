@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-24 14:02\n"
+"PO-Revision-Date: 2024-01-25 18:50\n"
 
 # TODO: Translation updated at 2024-01-24 03:02 #|#|# # game/scripts/story_01/annroom.rpy:12 #-#-# translate crowdin ev_ann_dressed_d0c78fcb:
 msgid "[_tMax_s_11_] Сейчас мама должна собираться на работу... [nointeract]"
@@ -26,11 +26,11 @@ msgstr "[_tMax_s_11_] Mama tiene que arreglarse para el trabajo... [nointeract]"
 
 # game/scripts/story_01/annroom.rpy:60 #-#-# translate crowdin ev_ann_dressed_voy_01_6a80e4e3:
 msgid "[_tMax_s_03_] Ух ты! Пойти сюда было отличной идеей! Какая же шикарная фигура у моей мамы... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_03_] ¡Guau! ¡Venir aquí fue una gran idea! Que figura tan preciosa tiene mi madre... [nointeract]"
 
 # game/scripts/story_01/annroom.rpy:78 #-#-# translate crowdin ev_ann_dressed_fail_voy_01_bd9b272c:
 msgid "[_tMax_s_15_] Ой-ё-ёй! Ещё чуть-чуть и она бы меня заметила... Пора уносить ноги! [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_15_] ¡Oh-oh-oh! Un poco más y ella se habría fijado en mí... ¡Es hora de huir! [nointeract]"
 
 # game/scripts/story_01/annroom.rpy:105 #-#-# translate crowdin ev_ann_dressed_fail_voy_02_1ab6bb00:
 msgid "[_Ann_s_13_] Господи, Макс! Ты почему там стоишь? Неужели подглядываешь за тем, как я собираюсь на работу?! [nointeract]"
@@ -126,7 +126,7 @@ msgstr ""
 
 # game/scripts/story_01/annroom.rpy:356 #-#-# translate crowdin ev_ann_sleep_mast1_b991380b:
 msgid "[_tMax_s_12_] Ох, чёрт! Это очень рискованно... Понятия не имею, как я буду объясняться, если она меня заметит или услышит. Если и сваливать, то лучше сейчас, пока я ещё недалеко от окна... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_12_] ¡Oh, maldita sea! Esto es muy arriesgado... No tengo idea de cómo me explicaré si ella me nota o me escucha. Si me voy a ir, es mejor ahora, que todavía no estoy lejos de la ventana... [nointeract]"
 
 # game/scripts/story_01/annroom.rpy:364 #-#-# translate crowdin ev_ann_sleep_mast1_787ca7be:
 msgid "[_tMax_s_06_] Ухх... Наблюдая за тем, что происходит между этими раздвинутыми ножками, становится всё равно, что она моя мама..."
@@ -138,19 +138,19 @@ msgstr ""
 
 # game/scripts/story_01/annroom.rpy:370 #-#-# translate crowdin ev_ann_sleep_mast1_f34b8199:
 msgid "[_tMax_s_04_] Да уж, я увидел куда больше, чем думал! Со скрытностью у меня, похоже, полный порядок, раз я умудрился такое провернуть и не попасться!"
-msgstr ""
+msgstr "[_tMax_s_04_] ¡Sí, vi mucho más de lo que pensaba! ¡Parece que estoy completamente de acuerdo con el sigilo, ya que logré hacer esto sin que me atrapen!"
 
 # game/scripts/story_01/annroom.rpy:371 #-#-# translate crowdin ev_ann_sleep_mast1_0fda04a2:
 msgid "[_tMax_s_01_] Это значит, что теперь я смогу увидеть больше всякого интересного, да и шансов будет больше..."
-msgstr ""
+msgstr "[_tMax_s_01_] Esto significa que ahora podré ver cosas más interesantes y habrá más oportunidades..."
 
 # game/scripts/story_01/annroom.rpy:385 #-#-# translate crowdin ev_ann_sleep_mast1_1d5fcc08:
 msgid "[_tMax_s_13_] Нет, слишком опасно! Даже если повезёт и мама меня не увидит, то наверняка услышит. Может, в следующий раз, если таковой представится... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_13_] ¡No, demasiado peligroso! Incluso si tengo suerte y mi madre no me ve, probablemente me oirá. Quizás la próxima vez, si uno se presenta... [nointeract]"
 
 # game/scripts/story_01/annroom.rpy:389 #-#-# translate crowdin ev_ann_sleep_mast1_bea58364:
 msgid "[_tMax_s_13_] Если это снова повторится и я всё же смогу подкрасться к ней максимально близко, то после можно будет и в других местах за мамой попробовать подсмотреть."
-msgstr ""
+msgstr "[_tMax_s_13_] Si esto vuelve a suceder y aún puedo acercarme sigilosamente a ella lo más posible, entonces podré intentar espiar a mi madre en otros lugares."
 
 # game/scripts/story_01/annroom.rpy:399 #-#-# translate crowdin ev_ann_sleep_mast1_787ca7be_1:
 msgid "[_tMax_s_06_] Ухх... Наблюдая за тем, что происходит между этими раздвинутыми ножками, становится всё равно, что она моя мама..."
@@ -162,7 +162,7 @@ msgstr ""
 
 # game/scripts/story_01/annroom.rpy:408 #-#-# translate crowdin ev_ann_sleep_mast1_1d5fcc08_1:
 msgid "[_tMax_s_13_] Нет, слишком опасно! Даже если повезёт и мама меня не увидит, то наверняка услышит. Может, в следующий раз, если таковой представится... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_13_] ¡No, demasiado peligroso! Incluso si tengo suerte y mi madre no me ve, probablemente me oirá. Quizás la próxima vez, si uno se presenta... [nointeract]"
 
 # game/scripts/story_01/annroom.rpy:428 #-#-# translate crowdin ev_024_48cd1387:
 msgid "[_Ann_s_01_] Так, сынок, я отправляюсь на работу. Не безобразничайте тут, пока меня нет..."
