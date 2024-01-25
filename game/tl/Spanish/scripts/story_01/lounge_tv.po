@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-15 14:09\n"
+"PO-Revision-Date: 2024-01-25 18:50\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/story_01/lounge_tv.rpy:8 #-#-# translate crowdin ev_ann_tv_talk_df9c7313:
 msgid "[_Ann_s_01_] Да так, всякую ерунду. Хотела какой-нибудь фильм посмотреть. Садись рядом, если тоже делать нечего... [nointeract]"
@@ -186,7 +186,7 @@ msgstr "[_tMax_s_12_] No debería haber empezado a fantasear sobre si mamá llev
 
 # game/scripts/story_01/lounge_tv.rpy:180 #-#-# translate crowdin ev_038_e541de06:
 msgid "[_tMax_s_12_] Вот зря я начал фантазировать, есть на маме трусики или нет! В этих шортах, хоть они и достаточно просторные, уже не так легко скрыть возбуждение, как в джинсах. Остаётся надеяться, что она это не увидит..."
-msgstr ""
+msgstr "[_tMax_s_12_] ¡Fue en vano que comencé a fantasear sobre si mi madre llevaba bragas o no! Con estos pantalones cortos, aunque son bastante amplios, ya no es tan fácil ocultar la emoción como con unos jeans. Esperemos que ella no vea esto..."
 
 # game/scripts/story_01/lounge_tv.rpy:185 #-#-# translate crowdin ev_038_83b78545:
 msgid "[_Ann_s_04_] Ну что, отличный сериал, как мне кажется! А тебе понравилось, Макс? [nointeract]"
