@@ -622,7 +622,7 @@ translate spanish ev_078_8277ff83:
 translate spanish ev_078_3a62637b:
 
     # tMax 13 "Нужно обязательно иметь это в виду в следующий раз и ловить паука до того, как я стану подстригать газон..." nointeract
-    ""
+    tMax 13 "Definitivamente necesito tener esto en cuenta la próxima vez y atrapar la araña antes de cortar el césped..." nointeract
 
 # game/scripts/story_01/homework.rpy:418
 translate spanish ev_078_cc340716:

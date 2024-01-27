@@ -394,7 +394,7 @@ translate spanish ev_053_sunbathe_adc74b5d:
 translate spanish ev_053_sunbathe_e54cb173:
 
     # tMax 04 "Когда мама надевает бикини, начинается самый настоящий праздник! Такие аппетитные формы, слегка блестящие на солнце... Ммм..." nointeract
-    ""
+    tMax 04 "Cuando mamá se pone un bikini, ¡comienzan las verdaderas vacaciones! Qué formas tan apetitosas, ligeramente brillando al sol... Mmm..." nointeract
 
 # game/scripts/story_01/sunscreen.rpy:402
 translate spanish ev_053_first_apply_oil_d8e4e97c:

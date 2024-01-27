@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-01-09 23:01
+# TODO: Translation updated at 2024-01-24 03:02
 
 # game/scripts/story_01/arachnophobia.rpy:7
 translate spanish ev_032_247fb4c6:
@@ -856,7 +856,7 @@ translate spanish ev_070_ass_3d953ddd:
 translate spanish ev_070_ass_b109d666:
 
     # Alice 16 "Да я тебя сейчас придушу с такими запросами! В отличие от пауков, тебя-то я не боюсь. Живо убрал его отсюда, пока я ещё добрая!!!"
-    ""
+    Alice 16 "¡Sí, ahora te estrangularé con tales solicitudes! A diferencia de las arañas, yo no te tengo miedo. ¡¡¡Lo saqué rápidamente de aquí mientras todavía soy amable!!!"
 
 # game/scripts/story_01/arachnophobia.rpy:570
 translate spanish ev_070_ass_6a7583f8:
@@ -1494,55 +1494,55 @@ translate spanish ev_074_playful_hands_6a9cfb51:
     # Alice 11 "Всё, давай, шуруй отсюда. Бегом! А то я живо тебе по заднице напинаю!" nointeract
     Alice 11 "Muy bien, vamos, salgan de aquí. ¡Ahora mismo! ¡O te patearé el culo!" nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:890
+# game/scripts/story_01/arachnophobia.rpy:891
 translate spanish ev_076_f2c1fea3:
 
     # Alice 01 "Спасибо, буду знать. А теперь кыш, я сейчас буду переодеваться к завтраку..." nointeract
     Alice 01 "Gracias, lo sabré. Ahora shoo, me voy a cambiar para el desayuno ..." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:895
+# game/scripts/story_01/arachnophobia.rpy:896
 translate spanish ev_076_67a71c3f:
 
     # Alice 11 "Макс, ты слышал, что я сказала? Я сейчас буду переодеваться и ты мне тут совершенно не нужен." nointeract
     Alice 11 "Max, ¿escuchaste lo que dije? Voy a cambiarme y no te necesito aquí." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:908
+# game/scripts/story_01/arachnophobia.rpy:909
 translate spanish ev_076_3dfd4f9e:
 
     # Alice 02 "Вот и прекрасно. Дверь закрой!" nointeract
     Alice 02 "Eso es genial. ¡Cierre la puerta!" nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:916
+# game/scripts/story_01/arachnophobia.rpy:917
 translate spanish ev_076_lvl_0_d4054a11:
 
     # Alice 06 "Да? Ну, если очень хочется, то можешь остаться и посмотреть..."
     Alice 06 "¿Sí? Bueno, si realmente quieres, puedes quedarte y mirar....."
 
-# game/scripts/story_01/arachnophobia.rpy:917
+# game/scripts/story_01/arachnophobia.rpy:918
 translate spanish ev_076_lvl_0_a0d42b38:
 
     # Max 05 "Правда?!"
     Max 05 "¿En serio?"
 
-# game/scripts/story_01/arachnophobia.rpy:919
+# game/scripts/story_01/arachnophobia.rpy:920
 translate spanish ev_076_lvl_0_2536cf0b:
 
     # Alice 11 "Конечно нет! Ты дурак что ли, Макс?! Иди давай отсюда и дверь за собой закрой..." nointeract
-    ""
+    Alice 11 "¡Por supuesto que no! ¿Eres tonto o qué, Max? Sal de aquí y cierra la puerta detrás de ti..." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:925
+# game/scripts/story_01/arachnophobia.rpy:926
 translate spanish ev_076_lvl_1_d4054a11:
 
     # Alice 06 "Да? Ну, если очень хочется, то можешь остаться и посмотреть..."
     Alice 06 "¿Sí? Bueno, si realmente quieres, puedes quedarte y mirar....."
 
-# game/scripts/story_01/arachnophobia.rpy:926
+# game/scripts/story_01/arachnophobia.rpy:927
 translate spanish ev_076_lvl_1_6bccd5bd:
 
     # Max 04 "Очень хочу!"
     Max 04 "Tengo muchas ganas."
 
-# game/scripts/story_01/arachnophobia.rpy:928
+# game/scripts/story_01/arachnophobia.rpy:929
 translate spanish ev_076_lvl_1_3379a11e:
 
     # Alice 04 "А вот обойдёшься! Маленький ещё для такого. Иди давай отсюда и дверь за собой закрой..." nointeract
@@ -1638,7 +1638,7 @@ translate spanish strings:
     old "{i}перестать лапать Алису{/i}"
     new "{i}que deje de manosear a Alice.{/i}"
 
-    # game/scripts/story_01/arachnophobia.rpy:716
+    # game/scripts/story_01/arachnophobia.rpy:715
     old "Задание «Арахнофобия» завершено!"
     new "La tarea de Aracnofobia está completa."
 
@@ -1658,15 +1658,15 @@ translate spanish strings:
     old "{i}лапать Алису дальше{/i}"
     new "{i}tanteando más a Alice{/i}"
 
-    # game/scripts/story_01/arachnophobia.rpy:889
+    # game/scripts/story_01/arachnophobia.rpy:890
     old "{i}присесть на кровать{/i}"
     new "{i}Siéntate en la cama.{/i}"
 
-    # game/scripts/story_01/arachnophobia.rpy:894
+    # game/scripts/story_01/arachnophobia.rpy:895
     old "Жалко! А я бы на это посмотрел..."
     new "¡Patético! Yo miraría eso...."
 
-    # game/scripts/story_01/arachnophobia.rpy:894
+    # game/scripts/story_01/arachnophobia.rpy:895
     old "Жалко! Тогда не буду мешать..."
     new "¡Lástima! Entonces te dejaré en paz."
 

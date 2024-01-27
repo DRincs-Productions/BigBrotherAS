@@ -202,7 +202,7 @@ translate spanish ev_026_240bdbf6_1:
 translate spanish ev_026_bacdb8a1:
 
     # Alice 01 "Да я вообще-то и так без лифчика всё время хожу, только когда сплю надеваю..."
-    ""
+    Alice 01 "Sí, de hecho ando sin sujetador todo el tiempo, solo me lo pongo cuando duermo..."
 
 # game/scripts/story_01/smoke.rpy:125
 translate spanish ev_026_e23ab051:
@@ -496,7 +496,7 @@ translate spanish ev_028_e94cb0a9:
 translate spanish ev_028_48c819a4:
 
     # Alice 04 "Ах, вон оно что... Свою иди разглядывай в зеркале, а мне лучше не мешай. Хуже будет..." nointeract
-    ""
+    Alice 04 "Oh, ahí está... Ve a mirar el tuyo en el espejo, pero será mejor que no me molestes. Será peor..." nointeract
 
 # game/scripts/story_01/smoke.rpy:325
 translate spanish ev_028_21e51b14:

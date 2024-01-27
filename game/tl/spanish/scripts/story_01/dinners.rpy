@@ -814,73 +814,73 @@ translate spanish ev_067_71fc7978:
 translate spanish ev_067_a8a09d4e:
 
     # Lisa 02 "Да, я буду всю неделю готовиться к контрольной. Макс мне уже очень сильно помог в ней разобраться."
-    ""
+    Lisa 02 "Sí, estudiaré para el examen toda la semana. Max ya me ha ayudado mucho a entenderlo."
 
 # game/scripts/story_01/dinners.rpy:266
 translate spanish ev_067_e636bca1:
 
     # Ann 10 "Молодцы! Но я бы, Макс, тебя попросила ещё проконтролировать выполнение того, что Лизе задают в школе. А то я чувствую, что она с этой пересдачей начнёт отставать по каким-нибудь предметам."
-    ""
+    Ann 10 "¡Bien hecho! Pero Max, también te pediría que supervises la implementación de lo que le piden a Lisa en la escuela. De lo contrario, siento que con esta repetición comenzará a quedarse atrás en algunas materias."
 
 # game/scripts/story_01/dinners.rpy:267
 translate spanish ev_067_bb9b0766:
 
     # Max 13 "Проконтролировать?! Не знаю, не знаю..."
-    ""
+    Max 13 "¡¿Comprobar?! No lo sé..."
 
 # game/scripts/story_01/dinners.rpy:268
 translate spanish ev_067_0a8e3fca:
 
     # Ann 14 "Что это ещё за «не знаю», Макс?! Тебе что, сложно сестре помочь?"
-    ""
+    Ann 14 "¿Qué es eso de “No sé”, Max? ¿Te resulta difícil ayudar a tu hermana?"
 
 # game/scripts/story_01/dinners.rpy:269
 translate spanish ev_067_b7af8a11:
 
     # Max 16 "Но, мам! Как будто мне больше нечем заняться по вечерам, кроме как Лизе с домашними заданиями помогать!"
-    ""
+    Max 16 "¡Pero mamá! ¡Como si no tuviera nada más que hacer por las tardes excepto ayudar a Lisa con su tarea!"
 
 # game/scripts/story_01/dinners.rpy:270
 translate spanish ev_067_2d5c33ea:
 
     # Ann 10 "Да что ты, куча дел у тебя по вечерам, да? Ну и какие, например?"
-    ""
+    Ann 10 "¿De qué estás hablando? Tienes muchas cosas que hacer por las noches, ¿verdad? Bueno, ¿de qué tipo, por ejemplo?"
 
 # game/scripts/story_01/dinners.rpy:271
 translate spanish ev_067_53992974:
 
     # Max 14 "Я это... Чёрт..."
-    ""
+    Max 14 "Yo soy... Maldita sea..."
 
 # game/scripts/story_01/dinners.rpy:272
 translate spanish ev_067_6c194838:
 
     # Ann 14 "Вот именно, Макс. Я знаю, что у нас и Лиза девочка умная, и ты у нас прекрасно учился, так что учти, если Лиза и дальше будет получать двойки, то я буду наказывать не только её, но и тебя."
-    ""
+    Ann 14 "Así es, Max. Sé que Lisa y yo somos unas chicas inteligentes y tú estudiaste bien con nosotras, así que ten en cuenta que si Lisa continúa obteniendo malas notas, no solo la castigaré a ella, sino también a ti."
 
 # game/scripts/story_01/dinners.rpy:273
 translate spanish ev_067_067a869f:
 
     # Max 15 "Ничего себе новости! Мне прямо «нравится»!"
-    ""
+    Max 15 "¡Vaya noticias! ¡Me gusta mucho!"
 
 # game/scripts/story_01/dinners.rpy:274
 translate spanish ev_067_f96a71fd:
 
     # Alice 04 "Да, зрелище будет классное..."
-    ""
+    Alice 04 "Sí, será un gran espectáculo..."
 
 # game/scripts/story_01/dinners.rpy:275
 translate spanish ev_067_f8f68790:
 
     # Ann 00 "Лиза, вы с Максом уже сами решите, как часто он будет тебе помогать. Раз в неделю или каждый день, тебе там виднее, но мне важен конечный результат."
-    ""
+    Ann 00 "Lisa, tú y Max decidiréis por vosotros mismos con qué frecuencia os ayudará. Una vez a la semana o todos los días, ya sabes, pero el resultado final es importante para mí."
 
 # game/scripts/story_01/dinners.rpy:276
 translate spanish ev_067_3c4a17aa:
 
     # Lisa 11 "Хорошо, мам. Мы разберёмся."
-    ""
+    Lisa 11 "Está bien, mamá. Lo resolveremos."
 
 # game/scripts/story_01/dinners.rpy:277
 translate spanish ev_067_015eeaa0:

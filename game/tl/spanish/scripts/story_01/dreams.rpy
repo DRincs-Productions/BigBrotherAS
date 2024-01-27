@@ -472,7 +472,7 @@ translate spanish ev_072_56289adb:
 translate spanish ev_072_b78118d6:
 
     # Lisa 10 "Ой, нет! Я не это имела в виду!"
-    ""
+    Lisa 10 "¡Oh, no! ¡No me refería a eso!"
 
 # game/scripts/story_01/dreams.rpy:246
 translate spanish ev_072_a82d5b2f:
@@ -610,7 +610,7 @@ translate spanish ev_072_20d37169:
 translate spanish ev_072_a14edc8d:
 
     # Max 02 "Да, но сейчас я испытываю, вдобавок к этому, особое удовольствие."
-    ""
+    Max 02 "Sí, pero ahora siento, además de esto, un placer especial."
 
 # game/scripts/story_01/dreams.rpy:291
 translate spanish ev_072_2c066702:
@@ -706,7 +706,7 @@ translate spanish ev_072_9120982c:
 translate spanish ev_072_7bf37df8:
 
     # Lisa 06 "Ахх... Д-а-а-а... Я и не знала, что это ТАК приятно... Ммм... Как же мне нравится чувствовать тебя там..."
-    ""
+    Lisa 06 "Ahh... Y-ah-ah... No sabía que se sentía TAN lindo... Mmm... Cómo me gusta sentirte allí..."
 
 # game/scripts/story_01/dreams.rpy:326
 translate spanish ev_072_0ea30674:

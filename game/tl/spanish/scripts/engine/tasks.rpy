@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-01-15 22:42
+# TODO: Translation updated at 2024-01-24 03:02
 
 translate spanish strings:
 
@@ -200,7 +200,7 @@ translate spanish strings:
 
     # game/scripts/engine/tasks.rpy:174
     old "Стоит ли рисковать?"
-    new ""
+    new "¿Vale la pena correr el riesgo?"
 
     # game/scripts/engine/tasks.rpy:174
     old "Я в очередной раз подглядывал, как Алиса принимает душ и она меня заметила. \nПытаясь извиниться я пообещал купить ей какую-нибудь сладость, в обмен на то, чтобы она не рассказывала обо всём маме. \nНа удивление, я ещё жив, но времени у меня немного..."
@@ -291,32 +291,44 @@ translate spanish strings:
     new "Sólo tenemos que esperar..."
 
     # game/scripts/engine/tasks.rpy:174
-    old "Школьница"
-    new "Colegiala"
+    old "Застенчивая школьница"
+    new "Colegiala tímida"
 
     # game/scripts/engine/tasks.rpy:174
     old "Ох, вот это я попал! Мама попросила меня помочь Лизе с уроками, чтобы она не отставала по разным предметам и хорошо училась. Теперь, если Лиза получит двойку, то влетит не только ей, но и мне. \nЕстественно, я намекнул Лизе, что моя помощь будет стоить ей полотенца, в котором она делает уроки. Она же, в свою очередь, решила потянуть время и хочет, чтобы я доказал свою полезность. Это не проблема..."
-    new ""
+    new "¡Oh lo tengo! Mamá me pidió que ayudara a Lisa con su tarea para que no se retrasara en varias materias y estudiara bien. Ahora, si Lisa obtiene una mala nota, no solo le hará daño a ella, sino también a mí.\nNaturalmente, le insinué a Lisa que mi ayuda le costaría la toalla con la que hace su tarea. Ella, a su vez, decidió ganar tiempo y quiere que le demuestre mi utilidad. No es un problema..."
 
     # game/scripts/engine/tasks.rpy:174
     old "Помочь Лизе с уроками в период с воскресенья по четверг."
-    new ""
+    new "Ayuda a Lisa con su tarea de domingo a jueves."
 
     # game/scripts/engine/tasks.rpy:174
     old "Лиза делает уроки за час до полуночи. Во второй половине этого часа помогать уже будет поздно..."
-    new ""
+    new "Lisa hace su tarea una hora antes de la medianoche. En la segunda mitad de esta hora será demasiado tarde para ayudar..."
 
     # game/scripts/engine/tasks.rpy:174
     old "Поприставать к Лизе за уроками, когда на ней нижнее бельё."
-    new ""
+    new "Molestar a Lisa para hacer la tarea cuando está en ropa interior."
 
     # game/scripts/engine/tasks.rpy:174
     old "Убедить Лизу остаться в полотенце, но без трусиков."
-    new ""
+    new "Convence a Lisa para que se quede en toalla, pero sin bragas."
 
     # game/scripts/engine/tasks.rpy:174
     old "Это можно предложить только взамен нижнему белью Лизы..."
-    new ""
+    new "Esto sólo se puede ofrecer a cambio de la ropa interior de Lisa..."
+
+    # game/scripts/engine/tasks.rpy:174
+    old "Увидеть Лизу полностью голой, помогая ей с уроками"
+    new "Mira a Lisa completamente desnuda mientras la ayudas con su tarea"
+
+    # game/scripts/engine/tasks.rpy:174
+    old "Нужно поприставать к Лизе определённым образом, когда она закончит с уроками..."
+    new "Necesitas molestar a Lisa de cierta manera cuando termine su tarea..."
+
+    # game/scripts/engine/tasks.rpy:174
+    old "Улучшение взаимоотношений с Лизой!"
+    new "¡Mejorando tu relación con Lisa!"
 
     # game/scripts/engine/tasks.rpy:174
     old "Новый купальник"

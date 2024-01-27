@@ -4,13 +4,13 @@ translate spanish strings:
 
     # game/scripts/engine/memories.rpy:182
     old "Приобщение к кулинарии!"
-    new ""
+    new "Introducción a la cocina!"
 
     # game/scripts/engine/memories.rpy:182
     old "Возбуждающий массаж!"
-    new ""
+    new "¡Masaje emocionante!"
 
     # game/scripts/engine/memories.rpy:182
     old "Сексуальные уроки!"
-    new ""
+    new "¡Lecciones de sexo!"
 

@@ -186,5 +186,5 @@ translate spanish strings:
 
     # game/scripts/engine/interact.rpy:183
     old "Тебе помочь с домашним заданием?"
-    new ""
+    new "¿Necesitas ayuda con tu tarea?"
 

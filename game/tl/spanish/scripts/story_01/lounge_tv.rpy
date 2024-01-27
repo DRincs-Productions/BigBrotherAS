@@ -262,7 +262,7 @@ translate spanish ev_038_84161fdd:
 translate spanish ev_038_e541de06:
 
     # tMax 12 "Вот зря я начал фантазировать, есть на маме трусики или нет! В этих шортах, хоть они и достаточно просторные, уже не так легко скрыть возбуждение, как в джинсах. Остаётся надеяться, что она это не увидит..."
-    ""
+    tMax 12 "¡Fue en vano que comencé a fantasear sobre si mi madre llevaba bragas o no! Con estos pantalones cortos, aunque son bastante amplios, ya no es tan fácil ocultar la emoción como con unos jeans. Esperemos que ella no vea esto..."
 
 # game/scripts/story_01/lounge_tv.rpy:185
 translate spanish ev_038_83b78545:

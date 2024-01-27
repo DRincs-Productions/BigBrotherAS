@@ -106,7 +106,7 @@ translate spanish strings:
 
     # game/scripts/story_01/max_learning.rpy:62
     old "Получен навык «Массаж»!"
-    new ""
+    new "¡Obtuviste la habilidad \"Masaje\"!"
 
     # game/scripts/story_01/max_learning.rpy:63
     old "Задание «Домашнее обучение массажу» завершено!"
