@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-24 14:04\n"
+"PO-Revision-Date: 2024-01-25 18:50\n"
 
 # TODO: Translation updated at 2024-01-24 03:02 #|#|# # game/scripts/story_01/punishments.rpy:41 #-#-# translate crowdin punishments_allocation_d4a1750b:
 msgid "[_Ann_s_10_] Прежде, чем мы начнём, кое-кто заслуживает наказания и сейчас все на это посмотрят..."
@@ -98,35 +98,35 @@ msgstr "[_Lisa_s_12_] Mamá, no lo volveré a hacer. ¡Ay! Quiero decir, estudia
 
 # game/scripts/story_01/punishments.rpy:128 #-#-# translate crowdin lisa_punishment_e8019e30:
 msgid "[_Ann_s_15_] Поразительно! Тебе даже Макс помогает, а ты двойки хватаешь! Ведь помогал?"
-msgstr ""
+msgstr "[_Ann_s_15_] ¡Increíble! ¡Incluso Max te ayuda y aun así suspendes! ¿No ayudó?"
 
 # game/scripts/story_01/punishments.rpy:129 #-#-# translate crowdin lisa_punishment_33c7663a:
 msgid "[_Lisa_s_10_] Ай! Нет, мам, он вообще мне не помогал на этой неделе!"
-msgstr ""
+msgstr "[_Lisa_s_10_] ¡Ay! ¡No, mamá, él no me ayudó en nada esta semana!"
 
 # game/scripts/story_01/punishments.rpy:130 #-#-# translate crowdin lisa_punishment_c22033f1:
 msgid "[_Ann_s_16_] Что?! Макс, я же тебя просила ей помочь... Ох, сейчас я закончу с Лизой и возьмусь за тебя!"
-msgstr ""
+msgstr "[_Ann_s_16_] ¡¿Qué?! Max, te pedí que la ayudaras... ¡Oh, ahora terminaré con Lisa y me encargaré de ti!"
 
 # game/scripts/story_01/punishments.rpy:131 #-#-# translate crowdin lisa_punishment_a0918fc2:
 msgid "[_Max_s_15_] Упс..."
-msgstr ""
+msgstr "[_Max_s_15_] Ups..."
 
 # game/scripts/story_01/punishments.rpy:135 #-#-# translate crowdin lisa_punishment_e8019e30_1:
 msgid "[_Ann_s_15_] Поразительно! Тебе даже Макс помогает, а ты двойки хватаешь! Ведь помогал?"
-msgstr ""
+msgstr "[_Ann_s_15_] ¡Increíble! ¡Incluso Max te ayuda y aun así suspendes! ¿No ayudó?"
 
 # game/scripts/story_01/punishments.rpy:136 #-#-# translate crowdin lisa_punishment_e10da9a2:
 msgid "[_Lisa_s_10_] Ай! Мам, он помогал, но лишь пару вечеров на этой неделе!"
-msgstr ""
+msgstr "[_Lisa_s_10_] ¡Ay! Mamá, él ayudó, ¡pero solo un par de noches esta semana!"
 
 # game/scripts/story_01/punishments.rpy:137 #-#-# translate crowdin lisa_punishment_04286cd2:
 msgid "[_Ann_s_16_] Всего несколько вечеров?! Макс, ты что, думал этого достаточно? Ох, сейчас я закончу с Лизой и возьмусь за тебя!"
-msgstr ""
+msgstr "[_Ann_s_16_] ¡¿Sólo unas cuantas noches?! Max, ¿pensaste que esto era suficiente? ¡Oh, ahora terminaré con Lisa y me enfrentaré a ti!"
 
 # game/scripts/story_01/punishments.rpy:138 #-#-# translate crowdin lisa_punishment_a0918fc2_1:
 msgid "[_Max_s_15_] Упс..."
-msgstr ""
+msgstr "[_Max_s_15_] Ups..."
 
 # game/scripts/story_01/punishments.rpy:142 #-#-# translate crowdin lisa_punishment_e173af73:
 msgid "[_Ann_s_15_] Конечно, будешь. За ум берись, пока не поздно, а то совсем расслабилась."
@@ -146,15 +146,15 @@ msgstr "[_Ann_s_15_] ¡Ahora vas a ser castigado por ya sabes qué!"
 
 # game/scripts/story_01/punishments.rpy:163 #-#-# translate crowdin mgg_punishment_c891cd0b:
 msgid "[_Max_s_17_] Так я же ничего не сделал!"
-msgstr ""
+msgstr "[_Max_s_17_] ¡Así que no hice nada!"
 
 # game/scripts/story_01/punishments.rpy:166 #-#-# translate crowdin mgg_punishment_3b77a556:
 msgid "[_Ann_s_16_] Вот именно, Макс, что ничего! А должен был сестре помочь. Давай, снимай джинсы и подходи ко мне... [nointeract]"
-msgstr ""
+msgstr "[_Ann_s_16_] Así es, Max, ¡no es nada! Debería haber ayudado a tu hermana. Vamos, quítate los jeans y ven hacia mí... [nointeract]"
 
 # game/scripts/story_01/punishments.rpy:171 #-#-# translate crowdin mgg_punishment_3bff7a45:
 msgid "[_Ann_s_16_] Вот именно, Макс, что ничего! А должен был сестре помочь. Давай, снимай шорты и подходи ко мне... [nointeract]"
-msgstr ""
+msgstr "[_Ann_s_16_] Así es, Max, ¡no es nada! Deberías haber ayudado a tu hermana. Vamos, quítate los pantalones cortos y ven a mí... [nointeract]"
 
 # game/scripts/story_01/punishments.rpy:178 #-#-# translate crowdin mgg_punishment_ecdb8eb5:
 msgid "[_Ann_s_15_] Я вынуждена отчитать тебя перед всеми, так как у нас в семье не должно быть никаких секретов."
@@ -214,11 +214,11 @@ msgstr "[_Ann_s_10_] ¡¿Cuánto tiempo voy a esperar?! Ven aquí. [nointeract]"
 
 # game/scripts/story_01/punishments.rpy:239 #-#-# translate crowdin mgg_punishment_punish_626c39f8:
 msgid "[_Ann_s_10_] Макс у нас ещё в кое-чём провинился... Он прекрасно знает в чём, так что сейчас получит за все сразу!"
-msgstr ""
+msgstr "[_Ann_s_10_] Max ha cometido algo más... Él sabe perfectamente qué es, ¡así que ahora será castigado por todo de una vez!"
 
 # game/scripts/story_01/punishments.rpy:242 #-#-# translate crowdin mgg_punishment_punish_a6c9d88e:
 msgid "[_Ann_s_14_] Может хоть так до вас с Лизой дойдёт, что я тут шутить с вами не собираюсь. Если у неё плохие оценки, то получаете от меня по заднице вдвоём..."
-msgstr ""
+msgstr "[_Ann_s_14_] Tal vez al menos tú y Lisa se den cuenta de que no voy a bromear con ustedes aquí. Si ella tiene malas notas, entonces ambos recibirán en el culo..."
 
 # game/scripts/story_01/punishments.rpy:250 #-#-# translate crowdin mgg_punishment_punish_e3b42f5c:
 msgid "[_Ann_s_14_] У Макса несколько провинностей... Он их прекрасно знает и перечислять я их не стану. Сейчас он получит за все сразу!"
@@ -278,7 +278,7 @@ msgstr "[_Max_s_12_] Bueno, te vi duchándote, Mamá..."
 
 # game/scripts/story_01/punishments.rpy:293 #-#-# translate crowdin reprimanded_reason_4af8d164:
 msgid "[_Max_s_12_] Ну, я случайно увидел, как ты переодеваешься, мам..."
-msgstr ""
+msgstr "[_Max_s_12_] Bueno, por casualidad te vi cambiándote de ropa, mamá..."
 
 # game/scripts/story_01/punishments.rpy:294 #-#-# translate crowdin reprimanded_reason_3d133b7f:
 msgid "[_Ann_s_12_] Очень хочу надеяться, что это действительно было случайно. Тем не менее, ты пойман и как я уже сказала, получаешь предупреждение."
@@ -298,7 +298,7 @@ msgstr "[_Alice_s_15_] ¿Accidentalmente? ¡Está mintiendo, mamá! ¡Estaba ah�
 
 # game/scripts/story_01/punishments.rpy:300 #-#-# translate crowdin reprimanded_reason_8f72234a:
 msgid "[_Max_s_14_] Да я мимо проходил!"
-msgstr ""
+msgstr "[_Max_s_14_] ¡Sí, pasé por allí!"
 
 # game/scripts/story_01/punishments.rpy:306 #-#-# translate crowdin reprimanded_reason_0659dd02:
 msgid "[_Ann_s_10_] Ты не закончил, Макс. Продолжай..."

@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-15 14:10\n"
+"PO-Revision-Date: 2024-01-25 18:50\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/collection.rpy:27
 msgid "Переодевания"
-msgstr ""
+msgstr "Vestirse"
 
 # game/scripts/screens/collection.rpy:29
 msgid "Воспоминания"
-msgstr ""
+msgstr "Recuerdos"
 
 # game/scripts/screens/collection.rpy:31
 msgid "Сны"
-msgstr ""
+msgstr "Sueños"
 
 # game/scripts/screens/collection.rpy:33
 msgid "Вернуться"
@@ -34,27 +34,27 @@ msgstr "Anterior"
 
 # game/scripts/screens/collection.rpy:121
 msgid "Неподозревающая"
-msgstr ""
+msgstr "Nada suspicaz"
 
 # game/scripts/screens/collection.rpy:123
 msgid "Удивлённая"
-msgstr ""
+msgstr "Sorprendido"
 
 # game/scripts/screens/collection.rpy:125
 msgid "Сердитая"
-msgstr ""
+msgstr "Enojado"
 
 # game/scripts/screens/collection.rpy:127
 msgid "Сильно стесняющаяся"
-msgstr ""
+msgstr "Muy tímido"
 
 # game/scripts/screens/collection.rpy:129
 msgid "Стесняющаяся"
-msgstr ""
+msgstr "Tímido"
 
 # game/scripts/screens/collection.rpy:131
 msgid "!!! ОШИБКА !!!"
-msgstr ""
+msgstr "!!! ERROR !!!"
 
 # game/scripts/screens/collection.rpy:149
 msgid "Следующая"
@@ -62,17 +62,17 @@ msgstr "Siguiente"
 
 # game/scripts/screens/collection.rpy:180
 msgid "Макс ещё не видел Алису такой!"
-msgstr ""
+msgstr "¡Max nunca antes había visto a Alice así!"
 
 # game/scripts/screens/collection.rpy:182
 msgid "Макс ещё не видел маму такой!"
-msgstr ""
+msgstr "¡Max nunca había visto a su madre así!"
 
 # game/scripts/screens/collection.rpy:184
 msgid "Макс ещё не видел Лизу такой!"
-msgstr ""
+msgstr "¡Max nunca antes había visto a Lisa así!"
 
 # game/scripts/screens/collection.rpy:254
 msgid "Этот сон ещё не открыт."
-msgstr ""
+msgstr "Este sueño aún no ha sido descubierto."
 

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-15 14:09\n"
+"PO-Revision-Date: 2024-01-25 18:50\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/story_01/max_learning.rpy:8 #-#-# translate crowdin ev_029_47925c16:
 msgid "[_Max_s_00_] Пришло время почитать... [nointeract]"
@@ -94,7 +94,7 @@ msgstr "El curso se ha completado totalmente"
 
 # game/scripts/story_01/max_learning.rpy:62
 msgid "Получен навык «Массаж»!"
-msgstr ""
+msgstr "¡Obtuviste la habilidad \"Masaje\"!"
 
 # game/scripts/story_01/max_learning.rpy:63
 msgid "Задание «Домашнее обучение массажу» завершено!"

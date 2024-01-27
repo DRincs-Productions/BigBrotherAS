@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-24 14:02\n"
+"PO-Revision-Date: 2024-01-25 18:50\n"
 
 # TODO: Translation updated at 2024-01-24 03:02 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/inform.rpy:28
 msgid "Персонажи"
@@ -46,35 +46,35 @@ msgstr "Con Max."
 
 # game/scripts/screens/inform.rpy:166
 msgid "ДОГОВОРЁННОСТИ"
-msgstr ""
+msgstr "ACUERDOS"
 
 # game/scripts/screens/inform.rpy:169
 msgid "Будет спать топлес"
-msgstr ""
+msgstr "Dormirá en topless"
 
 # game/scripts/screens/inform.rpy:171
 msgid "Не использовалась"
-msgstr ""
+msgstr "No utilizado"
 
 # game/scripts/screens/inform.rpy:173
 msgid "Исполняется"
-msgstr ""
+msgstr "Realizado"
 
 # game/scripts/screens/inform.rpy:175
 msgid "Будет исполняться"
-msgstr ""
+msgstr "Se cumplirá"
 
 # game/scripts/screens/inform.rpy:177
 msgid "Не исполняется"
-msgstr ""
+msgstr "Sin ejecutar"
 
 # game/scripts/screens/inform.rpy:179
 msgid "Будет курить топлес"
-msgstr ""
+msgstr "Fumará en topless"
 
 # game/scripts/screens/inform.rpy:190
 msgid "Будет без трусиков"
-msgstr ""
+msgstr "Estará sin bragas"
 
 # game/scripts/screens/inform.rpy:213
 msgid "ПАРАМЕТРЫ"
@@ -130,11 +130,11 @@ msgstr "Experiencia de destreza"
 
 # game/scripts/screens/inform.rpy:284
 msgid "Ур. "
-msgstr ""
+msgstr "Lv. "
 
 # game/scripts/screens/inform.rpy:478
 msgid "ВИДЫ ОДЕЖДЫ"
-msgstr ""
+msgstr "TIPOS DE ROPA"
 
 # game/scripts/screens/inform.rpy:609
 msgid "В данный момент в инвентаре ничего нет"

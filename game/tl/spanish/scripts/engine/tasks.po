@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-24 14:01\n"
+"PO-Revision-Date: 2024-01-25 18:50\n"
 
 # TODO: Translation updated at 2024-01-24 03:02 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:174
 msgid "Любопытное содержимое"
@@ -222,7 +222,7 @@ msgstr "¡Mejora la relación con Alice!"
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Стоит ли рисковать?"
-msgstr ""
+msgstr "¿Vale la pena correr el riesgo?"
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Я в очередной раз подглядывал, как Алиса принимает душ и она меня заметила. \n"
@@ -320,44 +320,45 @@ msgstr "Sólo tenemos que esperar..."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Застенчивая школьница"
-msgstr ""
+msgstr "Colegiala tímida"
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Ох, вот это я попал! Мама попросила меня помочь Лизе с уроками, чтобы она не отставала по разным предметам и хорошо училась. Теперь, если Лиза получит двойку, то влетит не только ей, но и мне. \n"
 "Естественно, я намекнул Лизе, что моя помощь будет стоить ей полотенца, в котором она делает уроки. Она же, в свою очередь, решила потянуть время и хочет, чтобы я доказал свою полезность. Это не проблема..."
-msgstr ""
+msgstr "¡Oh lo tengo! Mamá me pidió que ayudara a Lisa con su tarea para que no se retrasara en varias materias y estudiara bien. Ahora, si Lisa obtiene una mala nota, no solo le hará daño a ella, sino también a mí.\n"
+"Naturalmente, le insinué a Lisa que mi ayuda le costaría la toalla con la que hace su tarea. Ella, a su vez, decidió ganar tiempo y quiere que le demuestre mi utilidad. No es un problema..."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Помочь Лизе с уроками в период с воскресенья по четверг."
-msgstr ""
+msgstr "Ayuda a Lisa con su tarea de domingo a jueves."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Лиза делает уроки за час до полуночи. Во второй половине этого часа помогать уже будет поздно..."
-msgstr ""
+msgstr "Lisa hace su tarea una hora antes de la medianoche. En la segunda mitad de esta hora será demasiado tarde para ayudar..."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Поприставать к Лизе за уроками, когда на ней нижнее бельё."
-msgstr ""
+msgstr "Molestar a Lisa para hacer la tarea cuando está en ropa interior."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Убедить Лизу остаться в полотенце, но без трусиков."
-msgstr ""
+msgstr "Convence a Lisa para que se quede en toalla, pero sin bragas."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Это можно предложить только взамен нижнему белью Лизы..."
-msgstr ""
+msgstr "Esto sólo se puede ofrecer a cambio de la ropa interior de Lisa..."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Увидеть Лизу полностью голой, помогая ей с уроками"
-msgstr ""
+msgstr "Mira a Lisa completamente desnuda mientras la ayudas con su tarea"
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Нужно поприставать к Лизе определённым образом, когда она закончит с уроками..."
-msgstr ""
+msgstr "Necesitas molestar a Lisa de cierta manera cuando termine su tarea..."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Улучшение взаимоотношений с Лизой!"
-msgstr ""
+msgstr "¡Mejorando tu relación con Lisa!"
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Новый купальник"
