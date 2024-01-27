@@ -58,7 +58,7 @@ translate spanish forced_phys_ed_first_time_a2e3bedb:
 translate spanish forced_phys_ed_first_time_afdb9873:
 
     # tMax 04 "Не переживай, мам, за твоей сочной попкой я буду смотреть ОЧЕНЬ внимательно. Чёрт, чуть вслух не сказал!"
-    ""
+    tMax 04 "No te preocupes mamá, cuidaré tu jugoso culo con MUCHO cuidado. ¡Maldita sea, casi lo digo en voz alta!"
 
 # game/scripts/story_01/yoga.rpy:40
 translate spanish forced_phys_ed_first_time_6e238774:

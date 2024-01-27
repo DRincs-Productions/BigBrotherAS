@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-01-09 23:01
+# TODO: Translation updated at 2024-01-24 03:02
 
 translate spanish strings:
 
@@ -22,31 +22,35 @@ translate spanish strings:
     old "ВСЕ"
     new "TODOS"
 
-    # game/scripts/screens/diary.rpy:139
+    # game/scripts/screens/diary.rpy:140
     old "Сейчас здесь нет заданий"
     new "No hay asignaciones aquí en este momento"
 
-    # game/scripts/screens/diary.rpy:182
+    # game/scripts/screens/diary.rpy:183
     old "Завершите задание, чтобы получить награду..."
     new "Completa la tarea para obtener la recompensa....."
 
-    # game/scripts/screens/diary.rpy:184
+    # game/scripts/screens/diary.rpy:185
     old "Нужно приблизиться к завершению задания, чтобы узнать о награде..."
     new "Hay que acercarse a completar la tarea para conocer la recompensa..."
 
-    # game/scripts/screens/diary.rpy:187
+    # game/scripts/screens/diary.rpy:188
     old "НАГРАДА:"
     new "PREMIO:"
 
-    # game/scripts/screens/diary.rpy:329
+    # game/scripts/screens/diary.rpy:331
     old "МОЯ СТАРШАЯ СЕСТРЁНКА"
     new "MI HERMANA MAYOR"
 
-    # game/scripts/screens/diary.rpy:337
+    # game/scripts/screens/diary.rpy:339
     old "МОЯ МАМА"
     new "MI MAMA"
 
-    # game/scripts/screens/diary.rpy:349
+    # game/scripts/screens/diary.rpy:345
+    old "МОЯ МЛАДШАЯ СЕСТРЁНКА"
+    new "MI HERMANA PEQUEÑA"
+
+    # game/scripts/screens/diary.rpy:360
     old "НАШИ ВЗАИМООТНОШЕНИЯ:"
     new "NUESTRA RELACIÓN:"
 

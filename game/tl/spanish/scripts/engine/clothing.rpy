@@ -1,10 +1,10 @@
-# TODO: Translation updated at 2024-01-09 23:01
+# TODO: Translation updated at 2024-01-24 03:02
 
 translate spanish strings:
 
     # game/scripts/engine/clothing.rpy:924
     old "Лонгслив + джинсы"
-    new ""
+    new "Manga larga + vaqueros"
 
     # game/scripts/engine/clothing.rpy:924
     old "Шорты"
@@ -12,31 +12,31 @@ translate spanish strings:
 
     # game/scripts/engine/clothing.rpy:960
     old "Обнажённая"
-    new ""
+    new "Desnudo"
 
     # game/scripts/engine/clothing.rpy:960
     old "Джинсы"
-    new ""
+    new "Vaqueros"
 
     # game/scripts/engine/clothing.rpy:960
     old "Съехавшая майка + джинсы"
-    new ""
+    new "Camiseta deslizada + vaqueros"
 
     # game/scripts/engine/clothing.rpy:960
     old "Майка + трусики"
-    new ""
+    new "Camiseta + bragas"
 
     # game/scripts/engine/clothing.rpy:960
     old "Майка + съехавшие трусики"
-    new ""
+    new "Camiseta + bragas deslizadas"
 
     # game/scripts/engine/clothing.rpy:960
     old "Съехавшая майка + трусики"
-    new ""
+    new "Camiseta deslizada + bragas"
 
     # game/scripts/engine/clothing.rpy:960
     old "Съехавшие майка и трусики"
-    new ""
+    new "Camisa y bragas deslizadas"
 
     # game/scripts/engine/clothing.rpy:960
     old "Трусики"
@@ -44,183 +44,183 @@ translate spanish strings:
 
     # game/scripts/engine/clothing.rpy:960
     old "Съехавшие трусики"
-    new ""
+    new "Las bragas se deslizaron hacia abajo"
 
     # game/scripts/engine/clothing.rpy:960
     old "Майка"
-    new ""
+    new "Camiseta sin mangas"
 
     # game/scripts/engine/clothing.rpy:960
     old "Съехавшая майка"
-    new ""
+    new "La camiseta sin mangas se ha caido"
 
     # game/scripts/engine/clothing.rpy:960
     old "Приподнятое выходное платье + трусики"
-    new ""
+    new "Vestido de fin de semana con vuelo + bragas"
 
     # game/scripts/engine/clothing.rpy:960
     old "Приподнятое и съехавшее выходное платье + трусики"
-    new ""
+    new "Vestido de fin de semana levantado y deslizado + bragas"
 
     # game/scripts/engine/clothing.rpy:960
     old "Приподнятое выходное платье"
-    new ""
+    new "Vestido de fin de semana con vuelo"
 
     # game/scripts/engine/clothing.rpy:960
     old "Приподнятое и съехавшее выходное платье"
-    new ""
+    new "Vestido de noche levantado y deslizado"
 
     # game/scripts/engine/clothing.rpy:960
     old "Нижнее бельё, съехавшее снизу (синее)"
-    new ""
+    new "La ropa interior se deslizó por la parte inferior (azul)"
 
     # game/scripts/engine/clothing.rpy:960
     old "Нижнее бельё, съехавшее сверху (синее)"
-    new ""
+    new "La ropa interior se deslizó hacia abajo en la parte superior (azul)"
 
     # game/scripts/engine/clothing.rpy:960
     old "Нижнее бельё, съехавшее сверху и снизу (синее)"
-    new ""
+    new "La ropa interior se desliza hacia abajo en la parte superior e inferior (azul)"
 
     # game/scripts/engine/clothing.rpy:960
     old "Трусики от нижнего белья (синие)"
-    new ""
+    new "Bragas de ropa interior (azul)"
 
     # game/scripts/engine/clothing.rpy:960
     old "Съехавшие трусики от нижнего белья (синие)"
-    new ""
+    new "Bragas de ropa interior deslizadas (azul)"
 
     # game/scripts/engine/clothing.rpy:960
     old "Бикини, съехавшее сверху (чёрное)"
-    new ""
+    new "Bikini deslizadas hacia abajo (negro)"
 
     # game/scripts/engine/clothing.rpy:960
     old "Трусики от бикини (чёрные)"
-    new ""
+    new "Bragas de bikini (negro)"
 
     # game/scripts/engine/clothing.rpy:960
     old "Распахнутый халат"
-    new ""
+    new "Bata abierta"
 
     # game/scripts/engine/clothing.rpy:960
     old "Распахнутый халат + трусики"
-    new ""
+    new "Bata abierta + bragas"
 
     # game/scripts/engine/clothing.rpy:960
     old "Нижнее бельё (чёрное)"
-    new ""
+    new "Ropa interior (negra)"
 
     # game/scripts/engine/clothing.rpy:960
     old "Нижнее бельё (чёрное), съехавшее снизу"
-    new ""
+    new "La ropa interior (negra) se deslizó por la parte inferior"
 
     # game/scripts/engine/clothing.rpy:960
     old "Нижнее бельё, съехавшее сверху (чёрное)"
-    new ""
+    new "La ropa interior se deslizó hacia abajo en la parte superior (negro)"
 
     # game/scripts/engine/clothing.rpy:960
     old "Нижнее бельё, съехавшее сверху и снизу (чёрное)"
-    new ""
+    new "La ropa interior se deslizó hacia abajo en la parte superior e inferior (negro)"
 
     # game/scripts/engine/clothing.rpy:960
     old "Трусики от нижнего белья (чёрные)"
-    new ""
+    new "Bragas de ropa interior (negro)"
 
     # game/scripts/engine/clothing.rpy:960
     old "Съехавшие трусики от нижнего белья (чёрные)"
-    new ""
+    new "Bragas de ropa interior deslizadas (negro)"
 
     # game/scripts/engine/clothing.rpy:960
-    old "Приподнятая юбка делового костюма + нижнее бельё"
-    new ""
+    old "Приподнятая строгая юбка + нижнее бельё"
+    new "Falda formal levantada + ropa interior"
 
     # game/scripts/engine/clothing.rpy:960
-    old "Приподнятая юбка делового костюма + нижнее бельё, съехавшее сверху"
-    new ""
+    old "Приподнятая строгая юбка + нижнее бельё, съехавшее сверху"
+    new "Falda formal levantada + ropa interior deslizada hacia abajo en la parte superior"
 
     # game/scripts/engine/clothing.rpy:960
     old "Бикини, съехавшее сверху (светлое)"
-    new ""
+    new "Bikini deslizado hacia abajo (ligero)"
 
     # game/scripts/engine/clothing.rpy:960
     old "Трусики от бикини (светлые)"
-    new ""
+    new "Bragas de bikini (ligeras)"
 
     # game/scripts/engine/clothing.rpy:960
     old "Съехавший халат"
-    new ""
+    new "Bata deslizada"
 
     # game/scripts/engine/clothing.rpy:960
     old "Съехавшая ночнушка"
-    new ""
+    new "Camisón que se ha movido"
 
     # game/scripts/engine/clothing.rpy:960
     old "Приподнятое и съехавшее вечернее платье"
-    new ""
+    new "Vestido de noche levantado y corredizo"
 
     # game/scripts/engine/clothing.rpy:960
     old "Джинсовые шорты"
-    new ""
+    new "Shorts vaqueros"
 
     # game/scripts/engine/clothing.rpy:960
     old "Джинсовые шорты + нижнее бельё (светлое)"
-    new ""
+    new "Shorts vaqueros + ropa interior (ligera)"
 
     # game/scripts/engine/clothing.rpy:960
     old "Джинсовые шорты + нижнее бельё, съехавшее сверху (светлое)"
-    new ""
+    new "Shorts vaqueros + ropa interior deslizada hacia abajo en la parte superior (ligera)"
 
     # game/scripts/engine/clothing.rpy:960
-    old "Юбка школьной формы"
-    new ""
+    old "Школьная юбка"
+    new "Falda escolar"
 
     # game/scripts/engine/clothing.rpy:960
-    old "Юбка школьной формы + нижнее бельё (светлое)"
-    new ""
+    old "Школьная юбка + нижнее бельё (светлое)"
+    new "Falda escolar + ropa interior (ligera)"
 
     # game/scripts/engine/clothing.rpy:960
-    old "Юбка школьной формы + нижнее бельё, съехавшее сверху (светлое)"
-    new ""
+    old "Школьная юбка + нижнее бельё, съехавшее сверху (светлое)"
+    new "Falda escolar + ropa interior deslizada hacia abajo (ligera)"
 
     # game/scripts/engine/clothing.rpy:960
     old "Нижнее бельё (светлое)"
-    new ""
+    new "Ropa interior (ligera)"
 
     # game/scripts/engine/clothing.rpy:960
     old "Нижнее бельё, съехавшее снизу (светлое)"
-    new ""
+    new "La ropa interior se deslizó hacia abajo (de color claro)"
 
     # game/scripts/engine/clothing.rpy:960
     old "Нижнее бельё, съехавшее сверху (светлое)"
-    new ""
+    new "La ropa interior se deslizó hacia abajo en la parte superior (ligera)"
 
     # game/scripts/engine/clothing.rpy:960
     old "Нижнее бельё, съехавшее сверху и снизу (светлое)"
-    new ""
+    new "Ropa interior que se ha deslizado hacia abajo en la parte superior e inferior (de color claro)"
 
     # game/scripts/engine/clothing.rpy:960
     old "Трусики от нижнего белья (светлые)"
-    new ""
+    new "Bragas de ropa interior (ligeras)"
 
     # game/scripts/engine/clothing.rpy:960
     old "Съехавшие трусики от нижнего белья (светлые)"
-    new ""
+    new "Bragas de ropa interior deslizadas (ligeras)"
 
     # game/scripts/engine/clothing.rpy:960
     old "Съехавшее выходное платье"
-    new ""
+    new "Vestido holgado de fin de semana"
 
     # game/scripts/engine/clothing.rpy:960
     old "Пижама, съехавшая сверху"
-    new ""
+    new "Pijamas que se ha caído"
 
     # game/scripts/engine/clothing.rpy:960
     old "Пижамные шорты"
-    new ""
+    new "Pantalones cortos de pijama"
 
     # game/scripts/engine/clothing.rpy:960
     old "Съехавший закрытый купальник"
-    new ""
+    new "Bañador de una pieza que se ha caído"
 
     # game/scripts/engine/clothing.rpy:1110
     old "Повседневная"

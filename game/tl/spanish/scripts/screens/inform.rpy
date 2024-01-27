@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-01-09 23:01
+# TODO: Translation updated at 2024-01-24 03:02
 
 translate spanish strings:
 
@@ -36,35 +36,35 @@ translate spanish strings:
 
     # game/scripts/screens/inform.rpy:166
     old "ДОГОВОРЁННОСТИ"
-    new ""
+    new "ACUERDOS"
 
     # game/scripts/screens/inform.rpy:169
     old "Будет спать топлес"
-    new ""
+    new "Dormirá en topless"
 
     # game/scripts/screens/inform.rpy:171
     old "Не использовалась"
-    new ""
+    new "No utilizado"
 
     # game/scripts/screens/inform.rpy:173
     old "Исполняется"
-    new ""
+    new "Realizado"
 
     # game/scripts/screens/inform.rpy:175
     old "Будет исполняться"
-    new ""
+    new "Se cumplirá"
 
     # game/scripts/screens/inform.rpy:177
     old "Не исполняется"
-    new ""
+    new "Sin ejecutar"
 
     # game/scripts/screens/inform.rpy:179
     old "Будет курить топлес"
-    new ""
+    new "Fumará en topless"
 
     # game/scripts/screens/inform.rpy:190
     old "Будет без трусиков"
-    new ""
+    new "Estará sin bragas"
 
     # game/scripts/screens/inform.rpy:213
     old "ПАРАМЕТРЫ"
@@ -118,9 +118,13 @@ translate spanish strings:
     old "Опыт применения навыка"
     new "Experiencia de destreza"
 
+    # game/scripts/screens/inform.rpy:284
+    old "Ур. "
+    new "Lv. "
+
     # game/scripts/screens/inform.rpy:478
     old "ВИДЫ ОДЕЖДЫ"
-    new ""
+    new "TIPOS DE ROPA"
 
     # game/scripts/screens/inform.rpy:609
     old "В данный момент в инвентаре ничего нет"

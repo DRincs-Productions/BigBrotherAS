@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-01-09 23:01
+# TODO: Translation updated at 2024-01-24 03:02
 
 # game/scripts/story_01/myroom.rpy:12
 translate spanish ev_lisa_dressed_79ffde85:
@@ -108,115 +108,115 @@ translate spanish ev_lisa_dressed_try_to_peek_abe6c5ae:
     # tMax 05 "Повезло! Лиза не видит, что я подглядываю... Ещё совсем юная, но уже такая сексуальная! Обожаю её..." nointeract
     tMax 05 "¡Qué suerte! Lisa no puede verme espiando. Todavía es muy joven, ¡pero ya es tan sexy! Me encanta." nointeract
 
-# game/scripts/story_01/myroom.rpy:248
+# game/scripts/story_01/myroom.rpy:250
 translate spanish ev_lisa_dressed_try_to_peek_7a70ecae:
 
     # Lisa 15 "Макс! Я же просила не подглядывать! Ну-ка быстро отвернись... Ещё раз так сделаешь и я всё маме расскажу! Понял?!" nointeract
     Lisa 15 "¡Max! ¡Te dije que no miraras! Date la vuelta rápido. ¡Si vuelves a hacer eso, se lo diré a mamá! ¡¿Entiendes?!" nointeract
 
-# game/scripts/story_01/myroom.rpy:255
+# game/scripts/story_01/myroom.rpy:257
 translate spanish ev_lisa_dressed_try_to_peek_21854b11:
 
     # Lisa 11 "Ой, Макс... Ты ещё больше меня засмущал! Не пялься так на меня, отвернись..." nointeract
     Lisa 11 "Oh, Max. ¡Me has avergonzado aún más! No me mires así, aparta la mirada." nointeract
 
-# game/scripts/story_01/myroom.rpy:263
+# game/scripts/story_01/myroom.rpy:267
 translate spanish ev_lisa_dressed_try_to_peek_6159e876:
 
     # Lisa 16 "Ага, только и жду, чтобы полураздетой покрасоваться перед тобой! Если не отвернёшься, то я сильно на тебя обижусь и больше разговаривать не буду..." nointeract
     Lisa 16 "Sí, ¡estoy esperando para exhibirme semidesnuda delante de ti! Si no apartas la mirada, me ofenderé mucho y no volveré a hablar contigo...." nointeract
 
-# game/scripts/story_01/myroom.rpy:274
+# game/scripts/story_01/myroom.rpy:280
 translate spanish ev_lisa_dressed_try_to_peek_fcf15010:
 
     # Lisa 01 "Ааа... Ну раз не удержался, чтобы это оценить, то мне приятно. Но это не значит, что на меня можно и дальше вот так бессовестно глазеть!" nointeract
     Lisa 01 "Ahh. Bueno, ya que no pudiste resistirte a apreciarlo, es un placer. ¡Pero eso no significa que puedas seguir mirándome así!" nointeract
 
-# game/scripts/story_01/myroom.rpy:282
+# game/scripts/story_01/myroom.rpy:290
 translate spanish ev_lisa_dressed_try_to_peek_c9b70f3a:
 
     # Lisa 15 "Ну и долго ты ещё пялиться на меня будешь?! Отвернись!" nointeract
     Lisa 15 "¡¿Cuánto tiempo más te vas a quedar mirándome?! ¡Date la vuelta!" nointeract
 
-# game/scripts/story_01/myroom.rpy:302
+# game/scripts/story_01/myroom.rpy:312
 translate spanish ev_lisa_dressed_voy_02_help_748f1830:
 
     # Lisa 01 "Спасибо, конечно, за заботу, но я же не маленькая, Макс. Сама уж как-нибудь справлюсь..." nointeract
     Lisa 01 "Gracias por preocuparte, pero no soy una niña pequeña, Max. Lo haré por mi cuenta." nointeract
 
-# game/scripts/story_01/myroom.rpy:312
+# game/scripts/story_01/myroom.rpy:322
 translate spanish ev_lisa_dressed_voy_02_help_6a93b97b:
 
     # Lisa 15 "Макс! Я что, похожа на маленькую что ли?! Или совсем глупенькую? Прекращай пялиться и уходи..." nointeract
     Lisa 15 "¡Max! ¡¿Parezco una niña pequeña?! ¿O estúpida? Deja de mirarme y vete." nointeract
 
-# game/scripts/story_01/myroom.rpy:333
+# game/scripts/story_01/myroom.rpy:343
 translate spanish ev_lisa_dressed_voy_02_beauti_1ba39635:
 
     # Lisa 02 "Правда?! Спасибо, что оценил, но я бы всё равно хотела закончить одеваться без свидетелей..." nointeract
     Lisa 02 "¿En serio? Gracias por apreciarlo, pero todavía me gustaría terminar vestirse sin testigos....." nointeract
 
-# game/scripts/story_01/myroom.rpy:344
+# game/scripts/story_01/myroom.rpy:354
 translate spanish ev_lisa_dressed_voy_02_beauti_c88b7a5d:
 
     # Lisa 16 "Ага, только и жду, чтобы полураздетой покрасоваться перед тобой! Я ведь маме на тебя нажалуюсь, если не уйдёшь!" nointeract
     Lisa 16 "¡Sí, esperando para mostrarme semidesnuda delante de ti! ¡Se lo diré a mamá si no te vas!" nointeract
 
-# game/scripts/story_01/myroom.rpy:409
+# game/scripts/story_01/myroom.rpy:419
 translate spanish ev_023_08cc0642:
 
     # Lisa 01 "Эй, любитель заглядывать куда не надо, я пошла в школу. Не скучай тут без меня..."
     Lisa 01 "Oye, mirón, me voy a la escuela. No me eches de menos..."
 
-# game/scripts/story_01/myroom.rpy:411
+# game/scripts/story_01/myroom.rpy:421
 translate spanish ev_023_ad8fc002:
 
     # Lisa 01 "Эй, любитель заглядывать куда не надо, я пошла гулять. Не скучай тут без меня..."
     Lisa 01 "Oye, mirón, voy a salir. No me eches de menos."
 
-# game/scripts/story_01/myroom.rpy:415
+# game/scripts/story_01/myroom.rpy:425
 translate spanish ev_023_131e32c4:
 
     # Lisa 01 "Эй, Макс, я пошла в школу. Не скучай тут без меня..."
     Lisa 01 "Oye, Max, me voy a la escuela. No me eches de menos..."
 
-# game/scripts/story_01/myroom.rpy:417
+# game/scripts/story_01/myroom.rpy:427
 translate spanish ev_023_284585e5:
 
     # Lisa 01 "Эй, Макс, я пошла гулять. Не скучай тут без меня..."
     Lisa 01 "Oye, Max, voy a salir. No me eches de menos."
 
-# game/scripts/story_01/myroom.rpy:419
+# game/scripts/story_01/myroom.rpy:429
 translate spanish ev_023_09f0ad91:
 
     # Max 01 "А я буду. Успехов тебе!"
     Max 01 "Lo haré. Buena suerte!"
 
-# game/scripts/story_01/myroom.rpy:421
+# game/scripts/story_01/myroom.rpy:431
 translate spanish ev_023_78942015:
 
     # Max 01 "А я буду. Не заблудись!"
     Max 01 "Lo haré. ¡No te pierdas!"
 
-# game/scripts/story_01/myroom.rpy:449
+# game/scripts/story_01/myroom.rpy:459
 translate spanish ev_mgg_sleep_d8912cea:
 
     # tMax 00 "Пожалуй, пора ложиться спать..." nointeract
     tMax 00 "Creo que es hora de ir a la cama...." nointeract
 
-# game/scripts/story_01/myroom.rpy:455
+# game/scripts/story_01/myroom.rpy:465
 translate spanish ev_mgg_sleep_8382df5e:
 
     # tMax 14 "Моя голова уже совсем не соображает. Нужно ложиться спать..." nointeract
     tMax 14 "Mi cabeza ya no piensa con claridad. Tengo que irme a la cama." nointeract
 
-# game/scripts/story_01/myroom.rpy:461
+# game/scripts/story_01/myroom.rpy:471
 translate spanish ev_mgg_sleep_fcf4bb83:
 
     # tMax 00 "Пожалуй, пора ложиться спать... В котором часу мне лучше проснуться?" nointeract
     tMax 00 "Creo que es hora de irse a la cama. ¿A qué hora debo levantarme?" nointeract
 
-# game/scripts/story_01/myroom.rpy:472
+# game/scripts/story_01/myroom.rpy:482
 translate spanish ev_mgg_sleep_35f6b440:
 
     # tMax 07 "Всем доброй ночи и приятных снов..."
@@ -248,27 +248,27 @@ translate spanish strings:
     old "{i}попробовать подглядеть{/i}"
     new "{i}tratar de espiar{/i}"
 
-    # game/scripts/story_01/myroom.rpy:247
+    # game/scripts/story_01/myroom.rpy:249
     old "Подумаешь, сестрёнку полуголую увидел. Смотришься очень мило..."
     new "Y qué si vi a mi hermana medio desnuda. Estás muy guapa..."
 
-    # game/scripts/story_01/myroom.rpy:247
+    # game/scripts/story_01/myroom.rpy:249
     old "Извини, не удержался... Хорошо выглядишь!"
     new "Lo siento, no pude resistirme... ¡Te ves bien!"
 
-    # game/scripts/story_01/myroom.rpy:448
+    # game/scripts/story_01/myroom.rpy:458
     old "{i}спать до утра{/i}"
     new "{i}dormir hasta la mañana."
 
-    # game/scripts/story_01/myroom.rpy:460
+    # game/scripts/story_01/myroom.rpy:470
     old "{i}в 6 утра{/i}"
     new "{i}6:00 a.m{/i}"
 
-    # game/scripts/story_01/myroom.rpy:460
+    # game/scripts/story_01/myroom.rpy:470
     old "{i}в 7 утра{/i}"
     new "{i}7:00 a.m{/i}"
 
-    # game/scripts/story_01/myroom.rpy:460
+    # game/scripts/story_01/myroom.rpy:470
     old "{i}в 8 утра{/i}"
     new "{i}8:00 a.m{/i}"
 

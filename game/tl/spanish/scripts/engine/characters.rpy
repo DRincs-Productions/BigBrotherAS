@@ -80,7 +80,7 @@ translate spanish strings:
 
     # game/scripts/engine/characters.rpy:388
     old "А многого мне и не нужно."
-    new ""
+    new "Y no necesito mucho."
 
     # game/scripts/engine/characters.rpy:396
     old "Макс"
