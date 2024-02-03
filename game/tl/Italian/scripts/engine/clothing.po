@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-01-25 10:56\n"
+"PO-Revision-Date: 2024-02-03 11:28\n"
 
 # TODO: Translation updated at 2024-01-24 03:02 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/clothing.rpy:924
 msgid "Лонгслив + джинсы"
@@ -126,7 +126,7 @@ msgstr "Biancheria intima (nera) spostata in basso"
 
 # game/scripts/engine/clothing.rpy:960
 msgid "Нижнее бельё, съехавшее сверху (чёрное)"
-msgstr "Biancheria intima spostata dall'alto (nero)"
+msgstr "Biancheria intima, reggiseno abbassato da un lato (nero)"
 
 # game/scripts/engine/clothing.rpy:960
 msgid "Нижнее бельё, съехавшее сверху и снизу (чёрное)"
