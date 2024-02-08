@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-01-24 14:01\n"
+"PO-Revision-Date: 2024-02-08 17:52\n"
 
 # TODO: Translation updated at 2024-01-24 03:02 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:174
 msgid "Любопытное содержимое"
@@ -222,7 +222,7 @@ msgstr "Amélioration de la relation avec Alice !"
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Стоит ли рисковать?"
-msgstr ""
+msgstr "Le jeu en vaut-il la chandelle ?"
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Я в очередной раз подглядывал, как Алиса принимает душ и она меня заметила. \n"
@@ -320,44 +320,45 @@ msgstr "Il ne nous reste plus qu'à attendre..."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Застенчивая школьница"
-msgstr ""
+msgstr "Écolière timide"
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Ох, вот это я попал! Мама попросила меня помочь Лизе с уроками, чтобы она не отставала по разным предметам и хорошо училась. Теперь, если Лиза получит двойку, то влетит не только ей, но и мне. \n"
 "Естественно, я намекнул Лизе, что моя помощь будет стоить ей полотенца, в котором она делает уроки. Она же, в свою очередь, решила потянуть время и хочет, чтобы я доказал свою полезность. Это не проблема..."
-msgstr ""
+msgstr "Oh, je suis vraiment dans la merde ! Maman m'a demandé d'aider Lisa à suivre ses cours pour qu'elle ne prenne pas de retard dans les différentes matières et qu'elle réussisse bien ses études. Maintenant, si Lisa obtient un \"F\", ce n'est pas seulement elle, c'est aussi moi. \n"
+"Naturellement, j'ai laissé entendre à Lisa que mon aide lui coûterait la serviette dans laquelle elle faisait ses devoirs. Elle, à son tour, a décidé de gagner du temps et veut que je prouve mon utilité. Ce n'est pas un problème..."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Помочь Лизе с уроками в период с воскресенья по четверг."
-msgstr ""
+msgstr "Aidez Lisa à suivre ses cours entre le dimanche et le jeudi."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Лиза делает уроки за час до полуночи. Во второй половине этого часа помогать уже будет поздно..."
-msgstr ""
+msgstr "Lisa fait ses devoirs une heure avant minuit. Dans la seconde moitié de cette heure, il sera trop tard pour aider..."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Поприставать к Лизе за уроками, когда на ней нижнее бельё."
-msgstr ""
+msgstr "Draguer Lisa en classe alors qu'elle porte des sous-vêtements."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Убедить Лизу остаться в полотенце, но без трусиков."
-msgstr ""
+msgstr "Convaincre Lisa de rester en serviette mais sans culotte."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Это можно предложить только взамен нижнему белью Лизы..."
-msgstr ""
+msgstr "Ceci ne peut être offert qu'en lieu et place des sous-vêtements de Lisa..."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Увидеть Лизу полностью голой, помогая ей с уроками"
-msgstr ""
+msgstr "Voir Lisa complètement nue en l'aidant à faire ses devoirs"
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Нужно поприставать к Лизе определённым образом, когда она закончит с уроками..."
-msgstr ""
+msgstr "Nous devons draguer Lisa d'une certaine manière lorsqu'elle aura terminé ses leçons..."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Улучшение взаимоотношений с Лизой!"
-msgstr ""
+msgstr "Améliorer ma relation avec Lisa !"
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Новый купальник"
@@ -495,50 +496,51 @@ msgstr "Tenir compagnie à maman en regardant plus souvent la télévision."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "При делах."
-msgstr ""
+msgstr "Les affaires."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Вот и выползли минусы большого и классного дома - за ним требуется много ухода. А так как финансово позволить себе дворецкого или хотя бы просто уборщицу мы не можем, то естественно кучу всего повесили на единственного мужчину в семье, то есть меня. \n"
 "Радует то, что мама подкинула деньжат за это, чтобы у меня был стимул выполнять новые обязанности, да ещё и каким-то бонусом соблазняет, если выполню всё вовремя..."
-msgstr ""
+msgstr "L'inconvénient d'une maison grande et fraîche qui sort de terre, c'est qu'elle nécessite beaucoup d'entretien. Et comme nous ne pouvons pas nous permettre d'avoir un majordome ou au moins une femme de ménage, tout repose sur le seul homme de la famille, c'est-à-dire moi. \n"
+"Je suis contente que ma mère m'ait donné un peu d'argent pour cela, afin que je sois motivée pour accomplir de nouvelles tâches, et qu'une prime me tente si je fais tout dans les temps..."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Выполнить все дела по дому до выходных."
-msgstr ""
+msgstr "Faites toutes les tâches ménagères avant le week-end."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Информацию о домашних обязанностях можно найти в окне «Персонажи»..."
-msgstr ""
+msgstr "Des informations sur les tâches ménagères sont disponibles dans la fenêtre \"Personnages\"..."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Я не справился и теперь нужно дождаться понедельника, чтобы получить карманные деньги от мамы после завтрака..."
-msgstr ""
+msgstr "J'ai échoué et je dois maintenant attendre jusqu'à lundi pour recevoir de l'argent de poche de ma mère après le petit déjeuner..."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Дождаться похвалы от мамы."
-msgstr ""
+msgstr "J'attends les éloges de ma mère."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Я справился и теперь нужно дождаться пятницы, чтобы отчитаться маме о проделанной на неделе работе по дому..."
-msgstr ""
+msgstr "J'ai réussi et je dois maintenant attendre jusqu'à vendredi pour rendre compte à ma mère des travaux ménagers de la semaine..."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Пройтись с мамой по магазинам за подарком."
-msgstr ""
+msgstr "Faire du shopping avec maman pour acheter un cadeau."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "После завтрака в субботу мама с моими сёстрами обычно идут прогуливаться по магазинам..."
-msgstr ""
+msgstr "Le samedi, après le petit-déjeuner, ma mère et mes sœurs ont l'habitude d'aller faire du shopping..."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Снова выполнить все дела по дому до выходных."
-msgstr ""
+msgstr "Refaire toutes les tâches ménagères avant le week-end."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Снова дождаться похвалы от мамы."
-msgstr ""
+msgstr "J'attends à nouveau les éloges de ma mère."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Улучшение взаимоотношений с мамой!"
-msgstr ""
+msgstr "Améliorez votre relation avec votre mère !"
 
