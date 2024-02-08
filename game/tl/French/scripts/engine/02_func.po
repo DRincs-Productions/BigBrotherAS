@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-01-24 14:01\n"
+"PO-Revision-Date: 2024-02-08 16:29\n"
 
 # TODO: Translation updated at 2024-01-24 03:02 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/02_func.rpy:379
 msgid "Скрытность"
@@ -22,7 +22,7 @@ msgstr "Persuasion"
 
 # game/scripts/engine/02_func.rpy:381
 msgid "Массаж"
-msgstr "Masser"
+msgstr "Massage"
 
 # game/scripts/engine/02_func.rpy:384
 msgid "Настроение {char_name}"
@@ -30,5 +30,5 @@ msgstr "Humeur {char_name}"
 
 # game/scripts/engine/02_func.rpy:384
 msgid "мамы"
-msgstr ""
+msgstr "mamans"
 
