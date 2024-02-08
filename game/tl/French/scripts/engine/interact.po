@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-01-15 14:06\n"
+"PO-Revision-Date: 2024-02-08 17:51\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/engine/interact.rpy:35 #-#-# translate crowdin talks_start_41e41361:
 msgid "[_Alice_s_00_] Ну же, Макс, что хотел? [nointeract]"
@@ -178,5 +178,5 @@ msgstr "J'ai sorti l'araignée de la salle de bain !"
 
 # game/scripts/engine/interact.rpy:183
 msgid "Тебе помочь с домашним заданием?"
-msgstr ""
+msgstr "Vous avez besoin d'aide pour vos devoirs ?"
 
