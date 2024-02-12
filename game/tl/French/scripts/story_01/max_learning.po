@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-01-15 14:09\n"
+"PO-Revision-Date: 2024-02-12 13:37\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/story_01/max_learning.rpy:8 #-#-# translate crowdin ev_029_47925c16:
 msgid "[_Max_s_00_] Пришло время почитать... [nointeract]"
@@ -58,7 +58,7 @@ msgstr "[_Max_s_11_] L'avantage de ces cours en ligne. Vous pouvez tout apprendr
 
 # §translate crowdin strings: #|#|# # game/scripts/story_01/max_learning.rpy:7
 msgid "{i}читать «Веб-стандарты»{/i}"
-msgstr "{i}lire \"Normes Web\"{/i}"
+msgstr "{i}lire «Normes Web«{/i}"
 
 # game/scripts/story_01/max_learning.rpy:15
 msgid "Книга изучена на 20%"
@@ -94,13 +94,13 @@ msgstr "Le cours a été entièrement exploré"
 
 # game/scripts/story_01/max_learning.rpy:62
 msgid "Получен навык «Массаж»!"
-msgstr ""
+msgstr "La compétence «Massage« a été obtenue !"
 
 # game/scripts/story_01/max_learning.rpy:63
 msgid "Задание «Домашнее обучение массажу» завершено!"
-msgstr "La mission \"Formation au massage à domicile\" est terminée !"
+msgstr "La mission «Formation au massage à domicile« est terminée !"
 
 # game/scripts/story_01/max_learning.rpy:64
 msgid "Открыто новое задание «Талантливый массажист»!"
-msgstr "Une nouvelle mission de \"massothérapeute de talent\" est ouverte !"
+msgstr "Une nouvelle mission de «massothérapeute de talent« est ouverte !"
 
