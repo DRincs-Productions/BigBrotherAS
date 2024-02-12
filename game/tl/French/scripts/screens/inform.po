@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-01-24 14:02\n"
+"PO-Revision-Date: 2024-02-12 13:36\n"
 
 # TODO: Translation updated at 2024-01-24 03:02 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/inform.rpy:28
 msgid "Персонажи"
@@ -46,35 +46,35 @@ msgstr "Avec Max."
 
 # game/scripts/screens/inform.rpy:166
 msgid "ДОГОВОРЁННОСТИ"
-msgstr ""
+msgstr "ACCORDS"
 
 # game/scripts/screens/inform.rpy:169
 msgid "Будет спать топлес"
-msgstr ""
+msgstr "Elle dormira seins nus"
 
 # game/scripts/screens/inform.rpy:171
 msgid "Не использовалась"
-msgstr ""
+msgstr "Non utilisé"
 
 # game/scripts/screens/inform.rpy:173
 msgid "Исполняется"
-msgstr ""
+msgstr "Exécuté"
 
 # game/scripts/screens/inform.rpy:175
 msgid "Будет исполняться"
-msgstr ""
+msgstr "A réaliser"
 
 # game/scripts/screens/inform.rpy:177
 msgid "Не исполняется"
-msgstr ""
+msgstr "Non exécuté"
 
 # game/scripts/screens/inform.rpy:179
 msgid "Будет курить топлес"
-msgstr ""
+msgstr "Il fumera torse nu"
 
 # game/scripts/screens/inform.rpy:190
 msgid "Будет без трусиков"
-msgstr ""
+msgstr "Ce sera sans culotte"
 
 # game/scripts/screens/inform.rpy:213
 msgid "ПАРАМЕТРЫ"
@@ -90,31 +90,31 @@ msgstr "Contamination "
 
 # game/scripts/screens/inform.rpy:225
 msgid "ДОМАШНИЕ ОБЯЗАННОСТИ"
-msgstr ""
+msgstr "TÂCHES MÉNAGÈRES"
 
 # game/scripts/screens/inform.rpy:228
 msgid "Чистка пола"
-msgstr ""
+msgstr "Nettoyage des sols"
 
 # game/scripts/screens/inform.rpy:230
 msgid "Выполнено"
-msgstr ""
+msgstr "Terminé"
 
 # game/scripts/screens/inform.rpy:234
 msgid "Не выполнено"
-msgstr ""
+msgstr "Non rempli"
 
 # game/scripts/screens/inform.rpy:238
 msgid "Чистка бассейна"
-msgstr ""
+msgstr "Nettoyage de la piscine"
 
 # game/scripts/screens/inform.rpy:248
 msgid "Стрижка газона"
-msgstr ""
+msgstr "Tonte du gazon"
 
 # game/scripts/screens/inform.rpy:258
 msgid "Покупка продуктов"
-msgstr ""
+msgstr "Faire ses courses"
 
 # game/scripts/screens/inform.rpy:269
 msgid "НАВЫКИ"
@@ -130,11 +130,11 @@ msgstr "Expérience de la compétence"
 
 # game/scripts/screens/inform.rpy:284
 msgid "Ур. "
-msgstr ""
+msgstr "Ur. "
 
 # game/scripts/screens/inform.rpy:478
 msgid "ВИДЫ ОДЕЖДЫ"
-msgstr ""
+msgstr "LES TYPES DE VÊTEMENTS"
 
 # game/scripts/screens/inform.rpy:609
 msgid "В данный момент в инвентаре ничего нет"
