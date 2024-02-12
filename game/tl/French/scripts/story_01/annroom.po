@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-12 13:36\n"
+"PO-Revision-Date: 2024-02-12 15:37\n"
 
 # TODO: Translation updated at 2024-01-24 03:02 #|#|# # game/scripts/story_01/annroom.rpy:12 #-#-# translate crowdin ev_ann_dressed_d0c78fcb:
 msgid "[_tMax_s_11_] Сейчас мама должна собираться на работу... [nointeract]"
@@ -142,7 +142,7 @@ msgstr "[_tMax_s_04_] Oui, j'en ai vu beaucoup plus que je ne le pensais ! Je su
 
 # game/scripts/story_01/annroom.rpy:371 #-#-# translate crowdin ev_ann_sleep_mast1_0fda04a2:
 msgid "[_tMax_s_01_] Это значит, что теперь я смогу увидеть больше всякого интересного, да и шансов будет больше..."
-msgstr "[Cela signifie que je pourrai voir plus de choses et que j'aurai plus de chances de..."
+msgstr "[_tMax_s_01_] Cela signifie que je pourrai voir plus de choses et que j'aurai plus de chances de..."
 
 # game/scripts/story_01/annroom.rpy:385 #-#-# translate crowdin ev_ann_sleep_mast1_1d5fcc08:
 msgid "[_tMax_s_13_] Нет, слишком опасно! Даже если повезёт и мама меня не увидит, то наверняка услышит. Может, в следующий раз, если таковой представится... [nointeract]"
@@ -182,7 +182,7 @@ msgstr "[_tMax_s_04_] C'est tellement agréable d'être serré dans les bras et 
 
 # game/scripts/story_01/annroom.rpy:445 #-#-# translate crowdin ev_024_873762ea:
 msgid "[_Ann_s_02_] До вечера, дорогой. Я побежала..."
-msgstr "[A ce soir, chérie. Je vais courir..."
+msgstr "[_Ann_s_02_] A ce soir, chérie. Je vais courir..."
 
 # §translate crowdin strings: #|#|# # game/scripts/story_01/annroom.rpy:77
 msgid "{i}убежать{/i}"
