@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-01-15 14:09\n"
+"PO-Revision-Date: 2024-02-12 13:38\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/story_01/morningwood.rpy:14 #-#-# translate crowdin ev_001_ef68f9ed:
 msgid "[_Lisa_s_14_] Я сейчас маму позову!"
@@ -78,7 +78,7 @@ msgstr "[_Max_s_17_] Je n'ai rien fait !"
 
 # game/scripts/story_01/morningwood.rpy:42 #-#-# translate crowdin ev_001_06ed2ca6:
 msgid "[_Ann_s_10_] Ты сама видела, чтобы Макс чем-то \"{b}таким{/b}\" занимался при тебе?"
-msgstr "[_Ann_s_10_] Avez-vous déjà vu Max faire quelque chose \"{b}tel{/b}\" devant vous ?"
+msgstr "[_Ann_s_10_] Avez-vous déjà vu Max faire quelque chose «{b}tel{/b}« devant vous ?"
 
 # game/scripts/story_01/morningwood.rpy:43 #-#-# translate crowdin ev_001_bd274cc4:
 msgid "[_Lisa_s_10_] Нет, но мам... Я просто испугалась."
@@ -270,7 +270,7 @@ msgstr "[_tMax_s_13_] Hmmm... Comment gagner la confiance de Lisa ?"
 
 # game/scripts/story_01/morningwood.rpy:117 #-#-# translate crowdin ev_021_70ca2760:
 msgid "[_tMax_s_11_] Может, если она станет чаще видеть меня в «приподнятом» состоянии по утрам, то это станет чем-то естественным... и даже любопытным для неё..."
-msgstr "[_tMax_s_11_] Peut-être que si elle commençait à me voir plus souvent dans un état \"élevé\" le matin, cela deviendrait quelque chose de naturel... et même curieux pour elle..."
+msgstr "[_tMax_s_11_] Peut-être que si elle commençait à me voir plus souvent dans un état «élevé« le matin, cela deviendrait quelque chose de naturel... et même curieux pour elle..."
 
 # game/scripts/story_01/morningwood.rpy:118 #-#-# translate crowdin ev_021_fbb6b67e:
 msgid "[_tMax_s_00_] Нужно попробовать, пусть привыкает. Только на это нужно время. И есть риск, что она станет маме жаловаться на меня. Надеюсь, обойдётся..."
@@ -338,7 +338,7 @@ msgstr "[_Lisa_s_11_] Aha ! J'ai raison ?! S'il a un nom, c'est qu'il a une vie.
 
 # game/scripts/story_01/morningwood.rpy:158 #-#-# translate crowdin ev_058_bb7b0913:
 msgid "[_Max_s_03_] Нет, не живёт... Просто «Большой Макс» звучит как-то получше, чем «эта штука»."
-msgstr "[_Max_s_03_] Non, ce n'est pas le cas. C'est juste que \"Big Max\" sonne mieux que \"cette chose\"."
+msgstr "[_Max_s_03_] Non, ce n'est pas le cas. C'est juste que «Big Max« sonne mieux que «cette chose«."
 
 # game/scripts/story_01/morningwood.rpy:159 #-#-# translate crowdin ev_058_b7671e51:
 msgid "[_Lisa_s_10_] Как ни называй, а у вас, мальчиков, там очень странная штука."
@@ -358,11 +358,11 @@ msgstr "[_Max_s_02_] Je pense qu'il est tout à fait normal que vous ne dormiez 
 
 # game/scripts/story_01/morningwood.rpy:166 #-#-# translate crowdin ev_058_c279d6b4:
 msgid "[_Lisa_s_09_] В смысле, честно?!"
-msgstr "[_Lisa_s_09_] Qu'est-ce que vous voulez dire par \"honnêtement\" ?"
+msgstr "[_Lisa_s_09_] Qu'est-ce que vous voulez dire par «honnêtement« ?"
 
 # game/scripts/story_01/morningwood.rpy:167 #-#-# translate crowdin ev_058_8f717bdd:
 msgid "[_Max_s_11_] В том смысле, что я сплю в трусах и ты теперь иногда видишь моего «Большого Макса», а вот я вижу тебя слишком одетой... Это не честно!"
-msgstr "[_Max_s_11_] Dans le sens où je dors en sous-vêtements et que tu vois parfois mon \"Big Max\", mais je te vois surdressé..... Ce n'est pas juste !"
+msgstr "[_Max_s_11_] Dans le sens où je dors en sous-vêtements et que tu vois parfois mon «Big Max«, mais je te vois surdressé..... Ce n'est pas juste !"
 
 # game/scripts/story_01/morningwood.rpy:168 #-#-# translate crowdin ev_058_a4034a9b:
 msgid "[_Lisa_s_01_] Для такого извращенца, как ты, Макс, это очень честно! Можешь только мечтать..."
@@ -374,7 +374,7 @@ msgstr "[_Max_s_01_] D'accord, mais rêver est aussi une option."
 
 # game/scripts/story_01/morningwood.rpy:174 #-#-# translate crowdin ev_058_1f42e9db:
 msgid "[_tMax_s_11_] Ну, что... На этот раз маму Лиза не позвала, что уже хорошо. Да и то, как вообще устроены мальчики и что это за «штука» такая у них между ног, ей очень интересно."
-msgstr "[_tMax_s_11_] Donc... Cette fois-ci, Lisa n'a pas appelé sa mère, ce qui est déjà bien. Et elle était très intéressée par la façon dont les garçons étaient organisés et par ce qu'était cette \"chose\" entre leurs jambes."
+msgstr "[_tMax_s_11_] Donc... Cette fois-ci, Lisa n'a pas appelé sa mère, ce qui est déjà bien. Et elle était très intéressée par la façon dont les garçons étaient organisés et par ce qu'était cette «chose« entre leurs jambes."
 
 # game/scripts/story_01/morningwood.rpy:175 #-#-# translate crowdin ev_058_a315abea:
 msgid "[_tMax_s_13_] Но ей явно пока неудобно говорить со мной об этом. Что ж, подожду... Может дело сдвинется в следующий раз, когда мне снова что-то приснится..."
@@ -490,7 +490,7 @@ msgstr "C'est censé être effrayant ?"
 
 # game/scripts/story_01/morningwood.rpy:119
 msgid "Задание «Наставник» обновлено!"
-msgstr "La mission \"Mentor\" a été mise à jour !"
+msgstr "La mission «Mentor« a été mise à jour !"
 
 # game/scripts/story_01/morningwood.rpy:189
 msgid "{i}ждать...{/i}"
