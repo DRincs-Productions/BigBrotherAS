@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-01-15 14:10\n"
+"PO-Revision-Date: 2024-02-12 13:38\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/story_01/smoke.rpy:11 #-#-# translate crowdin ev_025_7cf4d55a:
 msgid "[_tMax_s_13_] Что это? Ну-ка, ну-ка... Вот чёрт! Алиса снова взялась курить травку! Это очень нехорошо... [nointeract]"
@@ -146,7 +146,7 @@ msgstr "[_Alice_s_12_] En attendant, cessez de m'importuner. Laissez-moi fumer e
 
 # game/scripts/story_01/smoke.rpy:124 #-#-# translate crowdin ev_026_bacdb8a1:
 msgid "[_Alice_s_01_] Да я вообще-то и так без лифчика всё время хожу, только когда сплю надеваю..."
-msgstr ""
+msgstr "[Je ne porte pas de soutien-gorge tout le temps, seulement quand je dors..."
 
 # game/scripts/story_01/smoke.rpy:125 #-#-# translate crowdin ev_026_e23ab051:
 msgid "[_Max_s_01_] Значит, тогда просто спи без него."
@@ -342,7 +342,7 @@ msgstr "[_Alice_s_11_] Je prendrai ce que je veux ! Et je ne veux pas que vous v
 
 # game/scripts/story_01/smoke.rpy:316 #-#-# translate crowdin ev_028_48c819a4:
 msgid "[_Alice_s_04_] Ах, вон оно что... Свою иди разглядывай в зеркале, а мне лучше не мешай. Хуже будет... [nointeract]"
-msgstr ""
+msgstr "[Oh, c'est ça. Va regarder le tien dans le miroir, et ne me dérange pas. Ce sera pire. [nointeract]"
 
 # game/scripts/story_01/smoke.rpy:325 #-#-# translate crowdin ev_028_21e51b14:
 msgid "[_Alice_s_15_] Блин, Макс, напугал! Поглазеть что ли пришёл, извращенец мелкий? [nointeract]"
@@ -402,11 +402,11 @@ msgstr "[_Max_s_13_] Hey ! Je pensais que vous alliez commencer maintenant ?"
 
 # game/scripts/story_01/smoke.rpy:393 #-#-# translate crowdin ev_060_1f730573:
 msgid "[_Alice_s_16_] Я же тогда вечером тебя предупредила, чтобы ты был осторожнее с желаниями, помнишь? А ты сразу «дай сиськи потрогать, я озабоченный»! В следующий раз будешь думать, что несёшь..."
-msgstr "[_Alice_s_16_] Je t'ai dit l'autre soir de faire attention à ce que tu souhaites, tu te souviens ? Et tu es là, \"Laisse-moi toucher tes seins, je suis excité\" ! La prochaine fois, tu ferais mieux de faire attention à ce que tu dis."
+msgstr "[_Alice_s_16_] Je t'ai dit l'autre soir de faire attention à ce que tu souhaites, tu te souviens ? Et tu es là, «Laisse-moi toucher tes seins, je suis excité« ! La prochaine fois, tu ferais mieux de faire attention à ce que tu dis."
 
 # game/scripts/story_01/smoke.rpy:395 #-#-# translate crowdin ev_060_15b71227:
 msgid "[_Alice_s_16_] Я же тогда вечером тебя предупредила, чтобы ты был осторожнее с желаниями, помнишь? А ты сразу «поласкай себя, я озабоченный»! В следующий раз будешь думать, что несёшь..."
-msgstr "[_Alice_s_16_] Je t'ai dit l'autre soir de faire attention à ce que tu souhaites, tu te souviens ? Et tu es là, \"caresse-toi, je suis excité\" ! La prochaine fois, tu réfléchiras à deux fois à ce que tu dis."
+msgstr "[_Alice_s_16_] Je t'ai dit l'autre soir de faire attention à ce que tu souhaites, tu te souviens ? Et tu es là, «caresse-toi, je suis excité« ! La prochaine fois, tu réfléchiras à deux fois à ce que tu dis."
 
 # game/scripts/story_01/smoke.rpy:397 #-#-# translate crowdin ev_060_0515c06b:
 msgid "[_Max_s_17_] Блин! А сейчас покурить не хочешь?"
@@ -502,7 +502,7 @@ msgstr "Continuez à vous promener sans culotte et je continuerai à me taire...
 
 # game/scripts/story_01/smoke.rpy:264
 msgid "Задание «Вредная привычка Алисы» обновлено!"
-msgstr "Le devoir \"La mauvaise habitude d'Alice\" a été mis à jour !"
+msgstr "Le devoir «La mauvaise habitude d'Alice« a été mis à jour !"
 
 # game/scripts/story_01/smoke.rpy:281
 msgid "{i}подкрасться{/i}"
