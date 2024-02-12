@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-12 13:39\n"
+"PO-Revision-Date: 2024-02-12 15:37\n"
 
 # TODO: Translation updated at 2024-01-24 03:02 #|#|# # game/scripts/story_01/up_skills.rpy:9 #-#-# translate crowdin ev_086_176058a9:
 msgid "[_tMax_s_01_] Чем бы таким перед сном себя развлечь? Подглядеть что ли за мамой в ночнушке? Так классно с ней сегодня пообнимались, что все мысли заняты только её пышной грудью..."
@@ -18,7 +18,7 @@ msgstr "[_tMax_s_01_] Que feriez-vous pour vous divertir avant d'aller au lit ? 
 
 # game/scripts/story_01/up_skills.rpy:16 #-#-# translate crowdin ev_086_40c6b764:
 msgid "[_tMax_s_05_] Офигеть! Даже глазам не вериться, что я такое вижу... Мама ласкает себя! На {b}ТАКОЕ{/b} я раньше никогда не попадал, вот бы увидеть поближе... [nointeract]"
-msgstr "[Putain de merde ! Je n'arrive pas à croire que je vois ça... Maman en train de se caresser ! Je n'ai jamais été sur {b}THAT{/b} avant, j'aimerais pouvoir le voir de près.... [nointeract]"
+msgstr "[_tMax_s_05_] Putain de merde ! Je n'arrive pas à croire que je vois ça... Maman en train de se caresser ! Je n'ai jamais été sur {b}CA{/b} avant, j'aimerais pouvoir le voir de près.... [nointeract]"
 
 # game/scripts/story_01/up_skills.rpy:26 #-#-# translate crowdin ev_086_b991380b:
 msgid "[_tMax_s_12_] Ох, чёрт! Это очень рискованно... Понятия не имею, как я буду объясняться, если она меня заметит или услышит. Если и сваливать, то лучше сейчас, пока я ещё недалеко от окна... [nointeract]"
@@ -50,7 +50,7 @@ msgstr "[Non, c'est trop dangereux ! Même si j'ai de la chance et que ma mère 
 
 # game/scripts/story_01/up_skills.rpy:65 #-#-# translate crowdin ev_086_1d5fcc08_2:
 msgid "[_tMax_s_13_] Нет, слишком опасно! Даже если повезёт и мама меня не увидит, то наверняка услышит. Может, в следующий раз, если таковой представится... [nointeract]"
-msgstr "[Non, c'est trop dangereux ! Même si j'ai de la chance et que ma mère ne me voit pas, elle m'entendra sûrement. Peut-être que la prochaine fois, s'il y a une chance... [nointeract]"
+msgstr "[_tMax_s_13_] Non, c'est trop dangereux ! Même si j'ai de la chance et que ma mère ne me voit pas, elle m'entendra sûrement. Peut-être que la prochaine fois, s'il y a une chance... [nointeract]"
 
 # game/scripts/story_01/up_skills.rpy:70 #-#-# translate crowdin ev_086_0d8f3da3:
 msgid "[_tMax_s_11_] Да уж, таким не каждый день можно любоваться, к сожалению! Знать бы ещё, что на неё так повлияло или же она это просто так, под настроение..."
@@ -58,7 +58,7 @@ msgstr "[_tMax_s_11_] Oui, ce n'est pas quelque chose que l'on voit tous les jou
 
 # game/scripts/story_01/up_skills.rpy:71 #-#-# translate crowdin ev_086_46168b84:
 msgid "[_tMax_s_12_] Остаётся только заглядывать к ней почаще, чтобы ничего не пропустить."
-msgstr "[Il ne vous reste plus qu'à prendre de ses nouvelles plus souvent pour ne rien manquer."
+msgstr "[_tMax_s_12_] Il ne vous reste plus qu'à prendre de ses nouvelles plus souvent pour ne rien manquer."
 
 # game/scripts/story_01/up_skills.rpy:72 #-#-# translate crowdin ev_086_bea58364:
 msgid "[_tMax_s_13_] Если это снова повторится и я всё же смогу подкрасться к ней максимально близко, то после можно будет и в других местах за мамой попробовать подсмотреть."
