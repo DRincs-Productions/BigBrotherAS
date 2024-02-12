@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-15 15:44\n"
+"PO-Revision-Date: 2024-02-12 13:36\n"
 
 # TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/laptop.rpy:21
 msgid "ОНЛАЙН-КУРСЫ"
@@ -62,7 +62,7 @@ msgstr "ACHETER"
 
 # game/scripts/screens/laptop.rpy:208
 msgid "Приобрести \"{name}\" за ${price}?"
-msgstr "Achat \"{name}\" pour ${price}?"
+msgstr "Achat «{name}« pour ${price}?"
 
 # game/scripts/screens/laptop.rpy:238
 msgid "Скидка [item.sale_percent]%"
