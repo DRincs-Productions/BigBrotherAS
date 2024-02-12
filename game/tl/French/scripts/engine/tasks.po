@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-08 17:52\n"
+"PO-Revision-Date: 2024-02-12 13:35\n"
 
 # TODO: Translation updated at 2024-01-24 03:02 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:174
 msgid "Любопытное содержимое"
@@ -116,7 +116,7 @@ msgstr "Il faut relever le défi du contenu curieux !"
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Нужно завершить задание «Способ заработать»!"
-msgstr "Nous devons terminer la tâche \"comment gagner de l'argent\" !"
+msgstr "Nous devons terminer la tâche «comment gagner de l'argent« !"
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Купить стремянку"
@@ -210,7 +210,7 @@ msgstr "Lancez une araignée à Alice dans la cour."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Нужно завершить задание «Маслице для загара»!"
-msgstr "Nous devons relever le défi \"Huile de bronzage\" !"
+msgstr "Nous devons relever le défi «Huile de bronzage« !"
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Нужно начать натирать Алису маслом для загара, чтобы незаметно подбросить ей паука..."
@@ -308,7 +308,7 @@ msgstr "Pour voir comment Lisa réagirait à ma trique du lendemain matin."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Рано или поздно Лиза снова наткнётся на моё «приподнятое» утреннее состояние. Нужно просто ждать..."
-msgstr "Tôt ou tard, Lisa retrouvera mon état matinal \"enjoué\". Il ne nous reste plus qu'à attendre..."
+msgstr "Tôt ou tard, Lisa retrouvera mon état matinal «enjoué«. Il ne nous reste plus qu'à attendre..."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Дождаться следующего утреннего стояка и реакции Лизы на него."
@@ -325,7 +325,7 @@ msgstr "Écolière timide"
 # game/scripts/engine/tasks.rpy:174
 msgid "Ох, вот это я попал! Мама попросила меня помочь Лизе с уроками, чтобы она не отставала по разным предметам и хорошо училась. Теперь, если Лиза получит двойку, то влетит не только ей, но и мне. \n"
 "Естественно, я намекнул Лизе, что моя помощь будет стоить ей полотенца, в котором она делает уроки. Она же, в свою очередь, решила потянуть время и хочет, чтобы я доказал свою полезность. Это не проблема..."
-msgstr "Oh, je suis vraiment dans la merde ! Maman m'a demandé d'aider Lisa à suivre ses cours pour qu'elle ne prenne pas de retard dans les différentes matières et qu'elle réussisse bien ses études. Maintenant, si Lisa obtient un \"F\", ce n'est pas seulement elle, c'est aussi moi. \n"
+msgstr "Oh, je suis vraiment dans la merde ! Maman m'a demandé d'aider Lisa à suivre ses cours pour qu'elle ne prenne pas de retard dans les différentes matières et qu'elle réussisse bien ses études. Maintenant, si Lisa obtient un «F«, ce n'est pas seulement elle, c'est aussi moi. \n"
 "Naturellement, j'ai laissé entendre à Lisa que mon aide lui coûterait la serviette dans laquelle elle faisait ses devoirs. Elle, à son tour, a décidé de gagner du temps et veut que je prouve mon utilité. Ce n'est pas un problème..."
 
 # game/scripts/engine/tasks.rpy:174
@@ -510,7 +510,7 @@ msgstr "Faites toutes les tâches ménagères avant le week-end."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Информацию о домашних обязанностях можно найти в окне «Персонажи»..."
-msgstr "Des informations sur les tâches ménagères sont disponibles dans la fenêtre \"Personnages\"..."
+msgstr "Des informations sur les tâches ménagères sont disponibles dans la fenêtre «Personnages«..."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Я не справился и теперь нужно дождаться понедельника, чтобы получить карманные деньги от мамы после завтрака..."
