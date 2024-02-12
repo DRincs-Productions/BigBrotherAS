@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-15 15:44\n"
+"PO-Revision-Date: 2024-02-12 13:37\n"
 
 # TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/hidden_cams.rpy:12 #-#-# translate crowdin ev_003_089bb89e:
 msgid "[_tMax_s_13_] Так, мама попросила разобрать коробки. Сейчас глянем, что тут у нас..."
@@ -82,11 +82,11 @@ msgstr "La mission Curious Content a été mise à jour !"
 
 # game/scripts/story_01/hidden_cams.rpy:49
 msgid "Задание «Любопытное содержимое» завершено!"
-msgstr "La mission \"Curious Content\" est terminée !"
+msgstr "La mission «Curious Content« est terminée !"
 
 # game/scripts/story_01/hidden_cams.rpy:50
 msgid "Открыто новое задание «Способ заработать»!"
-msgstr "Une nouvelle mission \"Un moyen de gagner de l'argent\" est ouverte !"
+msgstr "Une nouvelle mission «Un moyen de gagner de l'argent« est ouverte !"
 
 # game/scripts/story_01/hidden_cams.rpy:75
 msgid "{i}Оплатить всё ($150){/i}"
@@ -102,9 +102,9 @@ msgstr "{i}mettre en place le site{/i}"
 
 # game/scripts/story_01/hidden_cams.rpy:90
 msgid "Задание «Способ заработать» завершено!"
-msgstr "La mission \"Un moyen de gagner de l'argent\" est terminée !"
+msgstr "La mission «Un moyen de gagner de l'argent« est terminée !"
 
 # game/scripts/story_01/hidden_cams.rpy:91
 msgid "Открыто новое задание «Приумножение заработка»!"
-msgstr "Une nouvelle mission \"Augmentez vos revenus\" est ouverte !"
+msgstr "Une nouvelle mission «Augmentez vos revenus« est ouverte !"
 
