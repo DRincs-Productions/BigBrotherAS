@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-01-24 14:02\n"
+"PO-Revision-Date: 2024-02-12 13:36\n"
 
 # TODO: Translation updated at 2024-01-24 03:02 #|#|# # game/scripts/story_01/arachnophobia.rpy:7 #-#-# translate crowdin ev_032_247fb4c6:
 msgid "[_tMax_s_12_] Так... Пауки. Ох, сколько видов... Какие же тут у нас водятся..."
@@ -38,7 +38,7 @@ msgstr "[_Max_s_13_] Ok, il faut qu'on regarde bien l'herbe..... [nointeract]"
 
 # game/scripts/story_01/arachnophobia.rpy:35 #-#-# translate crowdin ev_033_d3aa663f:
 msgid "[_Max_s_06_] Ага! Попался! Ты определённо «понравишься» Алисе..."
-msgstr "[_Max_s_06_] Aha ! J'ai compris ! Alice vous \"aimera\" sans aucun doute....."
+msgstr "[_Max_s_06_] Aha ! J'ai compris ! Alice vous «aimera« sans aucun doute....."
 
 # game/scripts/story_01/arachnophobia.rpy:37 #-#-# translate crowdin ev_033_c0f5a4b0:
 msgid "[_Max_s_06_] Есть! Вот и отлично! Скоро Алисе будет очень «весело»..."
@@ -450,7 +450,7 @@ msgstr "[_Alice_s_15_] Dépêche-toi d'aller à la porte et de jeter l'araignée
 
 # game/scripts/story_01/arachnophobia.rpy:402 #-#-# translate crowdin ev_066_f3141342:
 msgid "[_tMax_s_13_] Алиса даже спасибо не сказала. Никакого воспитания у девчонки! Но ничего, я ей устрою «весёлую» жизнь, как только очередного паука поймаю..."
-msgstr "[_tMax_s_13_] Alice n'a même pas dit merci. Cette fille n'a pas de manières ! Mais bon, je lui donnerai une vie \"amusante\", dès que j'aurai attrapé une autre araignée...."
+msgstr "[_tMax_s_13_] Alice n'a même pas dit merci. Cette fille n'a pas de manières ! Mais bon, je lui donnerai une vie «amusante«, dès que j'aurai attrapé une autre araignée...."
 
 # game/scripts/story_01/arachnophobia.rpy:403 #-#-# translate crowdin ev_066_94033189:
 msgid "[_tMax_s_04_] Думаю, её получится на многое развести под страхом ночёвки с пауком, так что я точно спасаю её не в последний раз!"
@@ -586,7 +586,7 @@ msgstr "[_Max_s_04_] Tu as un beau cul, Alice ! Ok, où est ton araignée ?"
 
 # game/scripts/story_01/arachnophobia.rpy:569 #-#-# translate crowdin ev_070_ass_b109d666:
 msgid "[_Alice_s_16_] Да я тебя сейчас придушу с такими запросами! В отличие от пауков, тебя-то я не боюсь. Живо убрал его отсюда, пока я ещё добрая!!!"
-msgstr ""
+msgstr "[Je vais t'étrangler avec de telles exigences ! Contrairement aux araignées, je n'ai pas peur de vous. Sortez-le d'ici pendant que je suis encore gentil ! !!"
 
 # game/scripts/story_01/arachnophobia.rpy:570 #-#-# translate crowdin ev_070_ass_6a7583f8:
 msgid "[_Max_s_12_] Тише ты, разбудишь всех. Ладно, где этот твой паук..."
@@ -1034,7 +1034,7 @@ msgstr "[_Max_s_05_] Vraiment ?!"
 
 # game/scripts/story_01/arachnophobia.rpy:920 #-#-# translate crowdin ev_076_lvl_0_2536cf0b:
 msgid "[_Alice_s_11_] Конечно нет! Ты дурак что ли, Макс?! Иди давай отсюда и дверь за собой закрой... [nointeract]"
-msgstr ""
+msgstr "[Bien sûr que non ! Es-tu stupide, Max ? ! Sors d'ici et ferme la porte derrière toi ! [nointeract]"
 
 # game/scripts/story_01/arachnophobia.rpy:926 #-#-# translate crowdin ev_076_lvl_1_d4054a11:
 msgid "[_Alice_s_06_] Да? Ну, если очень хочется, то можешь остаться и посмотреть..."
