@@ -11,11 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-01-15 14:07\n"
+"PO-Revision-Date: 2024-02-12 13:36\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/notify.rpy:35
 msgid "Нужно завершить следующие задания: «Любопытное содержимое», «Способ заработать», «Арахнофобия», «Стоит ли рисковать?», «Маслице для загара», «При делах»."
-msgstr ""
+msgstr "Vous devez accomplir les tâches suivantes : «Contenu curieux«, «Un moyen de gagner de l'argent«, «Arachnophobie«, «Le risque en vaut-il la peine ?«, «Huile de bronzage« et «Faire des affaires«."
 
 # game/scripts/screens/notify.rpy:39
 msgid "Ok"
