@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-12 13:38\n"
+"PO-Revision-Date: 2024-02-12 15:37\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/story_01/shopping.rpy:10 #-#-# translate crowdin ev_051_f2e28c50:
 msgid "[_Ann_s_01_] Макс, мы пошли по магазинам. Не скучай тут без нас, хорошо? Вернёмся часа через 3... [nointeract]"
@@ -26,7 +26,7 @@ msgstr "[Max, qu'est-ce que tu fais à rester là ? Si tu te souviens bien, il y
 
 # game/scripts/story_01/shopping.rpy:34 #-#-# translate crowdin ev_051_f646d107:
 msgid "[_Ann_s_14_] Макс, а ты что это стоишь без дела? Тебе же кучу всего нужно сделать, если помнишь... Причём сегодня!"
-msgstr "[Max, qu'est-ce que tu fais à rester là ? Tu as beaucoup de choses à faire, si tu te souviens... Aujourd'hui !"
+msgstr "[_Ann_s_14_] Max, qu'est-ce que tu fais à rester là ? Tu as beaucoup de choses à faire, si tu te souviens... Aujourd'hui !"
 
 # game/scripts/story_01/shopping.rpy:35 #-#-# translate crowdin ev_051_683c727f:
 msgid "[_Max_s_12_] Да, мам, помню. Скоро этим займусь..."
@@ -54,7 +54,7 @@ msgstr "[_Max_s_11_] Amusez-vous bien en faisant du shopping...."
 
 # game/scripts/story_01/shopping.rpy:48 #-#-# translate crowdin ev_051_9a7345b1:
 msgid "[_Max_s_14_] Первым делом сразу помою посуду. Эх... как же её много! Ну да ладно, потерплю... [nointeract]"
-msgstr "[Je vais d'abord faire la vaisselle. Eh... ça fait beaucoup de vaisselle ! Bon, je vais être patient... [nointeract]"
+msgstr "[_Max_s_14_] Je vais d'abord faire la vaisselle. Eh... ça fait beaucoup de vaisselle ! Bon, je vais être patient... [nointeract]"
 
 # game/scripts/story_01/shopping.rpy:61 #-#-# translate crowdin ev_052_821d01cd:
 msgid "[_Lisa_s_01_] Эй, Макс, мы вернулись..."
