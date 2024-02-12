@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-12 13:38\n"
+"PO-Revision-Date: 2024-02-12 15:37\n"
 
 # TODO: Translation updated at 2024-01-24 03:02 #|#|# # game/scripts/story_01/pool.rpy:10 #-#-# translate crowdin alice_swims_talk_2c2308f4:
 msgid "[_Alice_s_01_] Может быть. А что, тоже хочешь? Ну, присоединяйся... [nointeract]"
@@ -54,7 +54,7 @@ msgstr "[_tMax_s_04_] Mais ce que nous avons dans la cour maintenant semble plut
 
 # game/scripts/story_01/pool.rpy:70 #-#-# translate crowdin alice_swims_talk_swims_5986111d:
 msgid "[_Alice_s_14_] А-а-а!!! Чтоб тебя, Макс! Напугал, блин, я аж чуть из бассейна не выпрыгнула!"
-msgstr "[Aah ! !! Merde, Max ! Tu m'as fait peur, j'ai failli sauter de la piscine !"
+msgstr "[_Alice_s_14_] Aah !!! Merde, Max ! Tu m'as fait peur, j'ai failli sauter de la piscine !"
 
 # game/scripts/story_01/pool.rpy:71 #-#-# translate crowdin alice_swims_talk_swims_a7f3365e:
 msgid "[_Max_s_06_] Ха-ха! Классно я придумал, да?"
@@ -62,7 +62,7 @@ msgstr "[Ha ha ! C'était une bonne idée, n'est-ce pas ?"
 
 # game/scripts/story_01/pool.rpy:75 #-#-# translate crowdin alice_swims_talk_swims_a817133b:
 msgid "[_Alice_s_16_] Сейчас я тебе покажу! Ну как, классно тебе?! Запомни, нефиг меня пугать! Иначе огребёшь... Понял?"
-msgstr "[Je vais te montrer ! Qu'est-ce que ça fait ? N'oublie pas, ne me fais pas peur ! Si tu ne le fais pas, tu seras blessé. Est-ce que tu comprends ?"
+msgstr "[_Alice_s_16_] Je vais te montrer ! Qu'est-ce que ça fait ? N'oublie pas, ne me fais pas peur ! Si tu ne le fais pas, tu seras blessé. Est-ce que tu comprends ?"
 
 # game/scripts/story_01/pool.rpy:76 #-#-# translate crowdin alice_swims_talk_swims_ef5a773b:
 msgid "[_Max_s_15_] Да ладно тебе, Алиса, это же шутка была! Слезь с меня, а то я утону..."
@@ -222,11 +222,11 @@ msgstr "[_tMax_s_04_] Et sous l'eau, c'est un spectacle à voir ! Les formes app
 
 # game/scripts/story_01/pool.rpy:312 #-#-# translate crowdin ann_swim_talk_swims_613b3a40:
 msgid "[_Ann_s_11_] Ах ты... Вот что ты, Макс, делаешь? Взял и обрызгал меня, а ещё говоришь, что уже взрослый."
-msgstr "[Oh, tu... Qu'est-ce que tu fais, Max ? Tu m'as aspergé, et tu me dis que tu es un adulte."
+msgstr "[_Ann_s_11_] Oh, tu... Qu'est-ce que tu fais, Max ? Tu m'as aspergé, et tu me dis que tu es un adulte."
 
 # game/scripts/story_01/pool.rpy:313 #-#-# translate crowdin ann_swim_talk_swims_7446adaf:
 msgid "[_Max_s_06_] Как будто взрослые так делать не могут?"
-msgstr "[Comme si les adultes ne pouvaient pas faire ça ?"
+msgstr "[_Max_s_06_] Comme si les adultes ne pouvaient pas faire ça ?"
 
 # game/scripts/story_01/pool.rpy:317 #-#-# translate crowdin ann_swim_talk_swims_ede4485c:
 msgid "[_Ann_s_04_] Ха, ещё как могут! Вот так тебе... Будешь знать, как на маму волны пускать! Нравится баловаться, да?"
@@ -310,5 +310,5 @@ msgstr "C'est aussi mon avis !"
 
 # game/scripts/story_01/pool.rpy:306
 msgid "{i}вынырнуть и обрызгать маму"
-msgstr "{i}de plonger et d'éclabousser Mum."
+msgstr "{i}de plonger et d'éclabousser Mum.{/i}"
 
