@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-01-15 14:09\n"
+"PO-Revision-Date: 2024-02-12 13:37\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/story_01/lounge_tv.rpy:8 #-#-# translate crowdin ev_ann_tv_talk_df9c7313:
 msgid "[_Ann_s_01_] Да так, всякую ерунду. Хотела какой-нибудь фильм посмотреть. Садись рядом, если тоже делать нечего... [nointeract]"
@@ -186,7 +186,7 @@ msgstr "[_tMax_s_12_] Je n'aurais pas dû commencer à fantasmer sur le fait que
 
 # game/scripts/story_01/lounge_tv.rpy:180 #-#-# translate crowdin ev_038_e541de06:
 msgid "[_tMax_s_12_] Вот зря я начал фантазировать, есть на маме трусики или нет! В этих шортах, хоть они и достаточно просторные, уже не так легко скрыть возбуждение, как в джинсах. Остаётся надеяться, что она это не увидит..."
-msgstr ""
+msgstr "[Je n'aurais pas dû commencer à fantasmer sur le fait que maman portait une culotte ou non ! Dans ce short, même s'il est assez ample, il n'est plus aussi facile de cacher mon excitation que dans un jean. J'espère juste qu'elle ne le verra pas...."
 
 # game/scripts/story_01/lounge_tv.rpy:185 #-#-# translate crowdin ev_038_83b78545:
 msgid "[_Ann_s_04_] Ну что, отличный сериал, как мне кажется! А тебе понравилось, Макс? [nointeract]"
@@ -238,7 +238,7 @@ msgstr "{i}commencer à regarder{/i}"
 
 # game/scripts/story_01/lounge_tv.rpy:100
 msgid "Открыто новое задание «Что посмотрим, мам?»!"
-msgstr "Un nouveau défi \"Qu'allons-nous voir, maman ?\" est lancé !"
+msgstr "Un nouveau défi «Qu'allons-nous voir, maman ?« est lancé !"
 
 # game/scripts/story_01/lounge_tv.rpy:110
 msgid "Хорошо. Что смотришь?"
