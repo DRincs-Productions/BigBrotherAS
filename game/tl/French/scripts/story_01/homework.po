@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-12 13:37\n"
+"PO-Revision-Date: 2024-02-12 15:37\n"
 
 # TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/story_01/homework.rpy:9 #-#-# translate crowdin ev_034_38a2b149:
 msgid "[_Ann_s_10_] Так, Макс, а ну-ка постой! Я только сейчас вспомнила... Ты коробки разобрал?"
@@ -322,7 +322,7 @@ msgstr "[Ok, maman. Quoi que tu dises..."
 
 # game/scripts/story_01/homework.rpy:345 #-#-# translate crowdin ev_077_51d20737:
 msgid "[_Ann_s_01_] Итак, значит, что у нас получается... Тебе нужно пропылесосить дом, подстричь газон, почистить бассейн и сходить за продуктами."
-msgstr "[Donc, ce qu'on veut dire, c'est que... Vous devez passer l'aspirateur, tondre la pelouse, nettoyer la piscine et faire les courses."
+msgstr "[_Ann_s_01_] Donc, ce qu'on veut dire, c'est que... Vous devez passer l'aspirateur, tondre la pelouse, nettoyer la piscine et faire les courses."
 
 # game/scripts/story_01/homework.rpy:346 #-#-# translate crowdin ev_077_9253b668:
 msgid "[_Max_s_00_] Получается, да."
@@ -350,7 +350,7 @@ msgstr "[Merci, chérie. Allez, maman doit se préparer pour le travail. [nointe
 
 # game/scripts/story_01/homework.rpy:360 #-#-# translate crowdin ev_077_ae5f46e6:
 msgid "[_Ann_s_00_] Сейчас выдам тебе денежку. Дела по дому у тебя всё те же, что и до этого. Чистка пола, бассейна, а так же газон и продукты."
-msgstr "[Je vais vous donner l'argent maintenant. Vos tâches ménagères sont les mêmes qu'avant. Nettoyer le sol, la piscine, la pelouse et les courses."
+msgstr "[_Ann_s_00_] Je vais vous donner l'argent maintenant. Vos tâches ménagères sont les mêmes qu'avant. Nettoyer le sol, la piscine, la pelouse et les courses."
 
 # game/scripts/story_01/homework.rpy:361 #-#-# translate crowdin ev_077_47affb53:
 msgid "[_Max_s_11_] Да, мам, я помню. Всё будет сделано."
@@ -406,7 +406,7 @@ msgstr "[_Max_s_14_] C'est ma faute... Mais merci quand même ! Je vais faire en
 
 # game/scripts/story_01/homework.rpy:387 #-#-# translate crowdin ev_077_3c8f1557_1:
 msgid "[_Ann_s_12_] Надеюсь, в этот раз ты управишься со всеми делами до выходных, чтобы мне не пришлось тебе снова напоминать или ругаться."
-msgstr "[J'espère que tu auras fini toutes tes affaires avant le week-end cette fois-ci, pour que je n'aie pas à te le rappeler ou à te gronder à nouveau."
+msgstr "[Ann_s_12_] J'espère que tu auras fini toutes tes affaires avant le week-end cette fois-ci, pour que je n'aie pas à te le rappeler ou à te gronder à nouveau."
 
 # game/scripts/story_01/homework.rpy:388 #-#-# translate crowdin ev_077_21571792_2:
 msgid "[_Max_s_01_] Ладно, мам. Хорошего тебе дня на работе."
@@ -514,7 +514,7 @@ msgstr "[J'ai en fait plus ou moins terminé ici. Je vais aller au rez-de-chauss
 
 # game/scripts/story_01/homework.rpy:537 #-#-# translate crowdin ev_079_62044ff5_1:
 msgid "[_Alice_s_11_] Что говоришь? Я не слышу!"
-msgstr "[Qu'est-ce que tu dis ? Je ne t'entends pas !"
+msgstr "[_Alice_s_11_] Qu'est-ce que tu dis ? Je ne t'entends pas !"
 
 # game/scripts/story_01/homework.rpy:538 #-#-# translate crowdin ev_079_243a82d1:
 msgid "[_Max_s_11_] Говорю, я уже скоро уйду на первый этаж. Потерпи немного."
@@ -686,7 +686,7 @@ msgstr "[Toi aussi, Max. Tu es le meilleur ! [nointeract]"
 
 # game/scripts/story_01/homework.rpy:737 #-#-# translate crowdin ev_080_fully_after_failing2_c6103fd9:
 msgid "[_Ann_s_01_] Ну что, Макс... Ты всё сделал по дому из того, что был должен?"
-msgstr "[Alors, Max... As-tu fait tout ce que tu devais faire à la maison ?"
+msgstr "[_Ann_s_01_] Alors, Max... As-tu fait tout ce que tu devais faire à la maison ?"
 
 # game/scripts/story_01/homework.rpy:738 #-#-# translate crowdin ev_080_fully_after_failing2_745fcdec:
 msgid "[_Max_s_12_] Да, я всё сделал! А ты разве не заметила?"
@@ -742,7 +742,7 @@ msgstr "[Toi aussi, Max. Tu es le meilleur ! [nointeract]"
 
 # game/scripts/story_01/homework.rpy:784 #-#-# translate crowdin ev_080_done_7919f1cd:
 msgid "[_Ann_s_03_] И я тебя, Макс. Как бы там ни было, но спасибо, что помогаешь мне содержать этот дом в порядке. Я очень тебе признательна."
-msgstr "[Toi aussi, Max. Quoi qu'il en soit, merci de m'aider à garder cette maison en ordre. J'apprécie vraiment."
+msgstr "[_Ann_s_03_] Toi aussi, Max. Quoi qu'il en soit, merci de m'aider à garder cette maison en ordre. J'apprécie vraiment."
 
 # game/scripts/story_01/homework.rpy:785 #-#-# translate crowdin ev_080_done_94464279:
 msgid "[_Max_s_01_] Без проблем. Можешь на меня положиться."
