@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-12 13:37\n"
+"PO-Revision-Date: 2024-02-26 08:59\n"
 
-# TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/eric.rpy:10 #-#-# translate crowdin ev_055_e6d21536:
+# TODO: Translation updated at 2024-02-14 20:38 #|#|# # game/scripts/story_01/eric.rpy:10 #-#-# translate crowdin ev_055_e6d21536:
 msgid "[_Ann_s_02_] Макс, ты хотел увидеть платье? Вот оно..."
 msgstr "[_Ann_s_02_] Max, tu voulais voir la robe ? La voici."
 
@@ -288,23 +288,23 @@ msgstr "[_tMax_s_11_] Maman devrait être en train de se changer... Si vous ne r
 msgid "[_tMax_s_05_] Обалденно! Как же повезло, что у меня такая горячая мама... Почти голой она выглядит потрясающе, аж глаза отрывать не хочется! Но лучше потихоньку уходить, пока она меня не заметила... [nointeract]"
 msgstr "[_tMax_s_05_] Génial ! J'ai de la chance d'avoir une mère aussi sexy ! Elle est magnifique presque nue, je ne peux pas la quitter des yeux. Mais je ferais mieux de sortir d'ici avant qu'elle ne me voie. [nointeract]"
 
-# game/scripts/story_01/eric.rpy:195 #-#-# translate crowdin ev_056_dont_meet_4375512d:
+# game/scripts/story_01/eric.rpy:196 #-#-# translate crowdin ev_056_dont_meet_4375512d:
 msgid "[_Ann_s_13_] Макс! Я же учила тебя стучаться! {p=2}{nw}"
 msgstr "[_Ann_s_13_] Max ! Je t'ai appris à frapper ! {p=2}{nw}"
 
-# game/scripts/story_01/eric.rpy:200 #-#-# translate crowdin ev_056_dont_meet_1d5fe807:
+# game/scripts/story_01/eric.rpy:201 #-#-# translate crowdin ev_056_dont_meet_1d5fe807:
 msgid "[_Ann_s_14_] Нельзя вот так без предупреждения врываться в комнату! Ты почему не спишь?"
 msgstr "[_Ann_s_14_] Tu ne peux pas débarquer dans une pièce comme ça sans prévenir ! Qu'est-ce que tu fais là-haut ?"
 
-# game/scripts/story_01/eric.rpy:201 #-#-# translate crowdin ev_056_dont_meet_1e8bb066:
+# game/scripts/story_01/eric.rpy:202 #-#-# translate crowdin ev_056_dont_meet_1e8bb066:
 msgid "[_Max_s_12_] Извини! Хотел узнать, всё ли в порядке?"
 msgstr "[_Max_s_12_] Je suis désolée ! Je voulais juste voir si tout allait bien."
 
-# game/scripts/story_01/eric.rpy:202 #-#-# translate crowdin ev_056_dont_meet_f92e7b76:
+# game/scripts/story_01/eric.rpy:203 #-#-# translate crowdin ev_056_dont_meet_f92e7b76:
 msgid "[_Ann_s_11_] Сынок, я устала. Утром за завтраком обязательно всё расскажу. Беги спать."
 msgstr "[_Ann_s_11_] Fils, je suis fatigué. Je te raconterai tout ça au petit déjeuner demain matin. Va te coucher."
 
-# game/scripts/story_01/eric.rpy:204 #-#-# translate crowdin ev_056_dont_meet_b3fa4a4b:
+# game/scripts/story_01/eric.rpy:205 #-#-# translate crowdin ev_056_dont_meet_b3fa4a4b:
 msgid "[_Max_s_00_] Понял. Доброй ночи, мам. [nointeract]"
 msgstr "[_Max_s_00_] Je l'ai. Bonne nuit, maman. [nointeract]"
 
