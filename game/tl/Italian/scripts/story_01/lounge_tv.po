@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-02-26 15:27\n"
+"PO-Revision-Date: 2024-02-26 17:18\n"
 
 # TODO: Translation updated at 2024-02-14 20:38 #|#|# # game/scripts/story_01/lounge_tv.rpy:8 #-#-# translate crowdin ev_ann_tv_talk_df9c7313:
 msgid "[_Ann_s_01_] Да так, всякую ерунду. Хотела какой-нибудь фильм посмотреть. Садись рядом, если тоже делать нечего... [nointeract]"
@@ -382,55 +382,55 @@ msgstr "[_Max_s_01_] Per farmi felice! L’hai detto tu stessa..."
 
 # game/scripts/story_01/lounge_tv.rpy:374 #-#-# translate crowdin ev_092_jeans_off_9ac09558:
 msgid "[_Alice_s_01_] Ах ты хитрюга! Обманул меня и сидишь тут довольный... А ну кыш с моего дивана! [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_01_] Ah, sei un furbo! Mi hai ingannato e ora sei qui soddisfatto… Ora vai via dal mio divano! [nointeract]"
 
 # game/scripts/story_01/lounge_tv.rpy:382 #-#-# translate crowdin ev_092_jeans_off_614f5642:
 msgid "[_Alice_s_12_] Да, что-то жарковато стало. Хотя... Не-е-ет, нет, нет! Не буду я сейчас джинсы снимать. Не дождёшься!"
-msgstr ""
+msgstr "[_Alice_s_12_] Sì, è diventato un po’ caldo. Anche se… No, no, no! Non mi toglierò i jeans adesso. Non lo farò!"
 
 # game/scripts/story_01/lounge_tv.rpy:383 #-#-# translate crowdin ev_092_jeans_off_90916d56:
 msgid "[_Max_s_13_] А что такое случилось?!"
-msgstr ""
+msgstr "[_Max_s_13_] Ma cosa è successo?!"
 
 # game/scripts/story_01/lounge_tv.rpy:385 #-#-# translate crowdin ev_092_jeans_off_fb834006:
 msgid "[_Alice_s_04_] Фух... Вот не притворяйся глупеньким. Вовремя я вспомнила о нашей с тобой договорённости, а то сейчас засветила бы кое-что! Лучше, продолжай массаж... [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_04_] Uff... Non fare il finto tonto. Per fortuna mi sono ricordata del nostro accordo, altrimenti avrei mostrato qualcosa! Meglio, continua il massaggio… [nointeract]"
 
 # game/scripts/story_01/lounge_tv.rpy:396 #-#-# translate crowdin ev_092_jeans_off_01049fd6:
 msgid "[_Alice_s_11_] Я так полагаю, единственное чем они тебе мешают, это разглядывать меня там, где не надо, так ведь?"
-msgstr ""
+msgstr "[_Alice_s_11_] Presumo che l’unico modo in cui ti disturbano è impedirti di guardarmi dove non dovresti, giusto?"
 
 # game/scripts/story_01/lounge_tv.rpy:397 #-#-# translate crowdin ev_092_jeans_off_2312feeb:
 msgid "[_Max_s_11_] Нет, просто жарковато как-то, тебе не кажется?"
-msgstr ""
+msgstr "[_Max_s_11_] No, è solo un po’ caldo, non trovi?"
 
 # game/scripts/story_01/lounge_tv.rpy:399 #-#-# translate crowdin ev_092_jeans_off_85ffafbb:
 msgid "[_Alice_s_04_] Даже если и так, то я всё равно не хочу раздеваться. А то у тебя полные штаны радости от этого ещё будут! Обойдёшься... [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_04_] Anche se lo facessi, non vorrei comunque spogliarmi. Altrimenti i tuoi pantaloni saranno pieni di gioia per questo! Te la caverai... [nointeract]"
 
 # game/scripts/story_01/lounge_tv.rpy:401 #-#-# translate crowdin ev_092_jeans_off_8931c50b:
 msgid "[_Alice_s_04_] Даже если и так, то я всё равно не хочу раздеваться. А то у тебя полные шорты радости от этого ещё будут! Обойдёшься... [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_04_] Anche se lo facessi, non vorrei comunque spogliarmi. Avrai dei pantaloncini pieni di gioia! Starai bene... [nointeract]"
 
 # game/scripts/story_01/lounge_tv.rpy:419 #-#-# translate crowdin ev_092_next_massage_e5b800d3:
 msgid "[_Alice_s_07_] Ух, как хорошо... Макс, а ты сегодня молодец! В твоих руках столько чувственности и в то же время силы..."
-msgstr ""
+msgstr "[_Alice_s_07_] Ah, che bello… Max, sei stato bravissimo oggi! Le tue mani sono così sensibili e allo stesso tempo forti..."
 
 # game/scripts/story_01/lounge_tv.rpy:420 #-#-# translate crowdin ev_092_next_massage_7f4d33d9:
 msgid "[_Max_s_03_] Ну, так я же опыта всё больше и больше набираюсь."
-msgstr ""
+msgstr "[_Max_s_03_] Beh, sto acquisendo sempre più esperienza."
 
 # game/scripts/story_01/lounge_tv.rpy:424 #-#-# translate crowdin ev_092_next_massage_fc6936f5:
 msgid "[_Alice_s_02_] Ну всё, Макс, спасибо! Мне понравилось... Ощущения после массажа очень классные!"
-msgstr ""
+msgstr "[_Alice_s_02_] Questo è tutto, Max, grazie! Mi è piaciuto... La sensazione dopo il massaggio è davvero fantastica!"
 
 # game/scripts/story_01/lounge_tv.rpy:425 #-#-# translate crowdin ev_092_next_massage_c1a6b191:
 msgid "[_Max_s_01_] Не за что..."
-msgstr ""
+msgstr "[_Max_s_01_] Non c’è di che..."
 
 # game/scripts/story_01/lounge_tv.rpy:435 #-#-# translate crowdin ev_092_next_massage_bd730f19:
 msgid "[_Alice_s_15_] Ой, нет, что-то не то! Ты же так хорошо начал, но теперь стало уже неприятно. Так не пойдёт... Лучше иди и ещё поучись этому своему массажу на ютубе!"
-msgstr ""
+msgstr "[_Alice_s_15_] Oh no, qualcosa non va! Hai iniziato così bene, ma ora è diventato sgradevole. Questo non funzionerà… Sarebbe meglio se andassi a studiare ancora un po’ il tuo massaggio su YouTube!"
 
 # game/scripts/story_01/lounge_tv.rpy:436 #-#-# translate crowdin ev_092_next_massage_0f28aae0:
 msgid "[_Max_s_12_] Ладно, пойду..."
@@ -502,7 +502,7 @@ msgstr "Sì, c'era molto da fantasticare!"
 
 # game/scripts/story_01/lounge_tv.rpy:219
 msgid "Хорошо. Ложись на спину и я начну массаж..."
-msgstr ""
+msgstr "Va bene. Sdraiati sulla schiena e inizierò il massaggio..."
 
 # game/scripts/story_01/lounge_tv.rpy:226
 msgid "{i}продолжить массаж{/i}"
@@ -510,11 +510,11 @@ msgstr "{i}continuare il massaggio{/i}"
 
 # game/scripts/story_01/lounge_tv.rpy:263
 msgid "Задание «Талантливый массажист» обновлено!"
-msgstr ""
+msgstr "La missione «Massaggiatore di talento» è stata aggiornata!"
 
 # game/scripts/story_01/lounge_tv.rpy:279
 msgid "Хорошо. Ложись на живот и я начну массаж..."
-msgstr ""
+msgstr "Ok. Sdraiati a pancia in giù e inizierò il massaggio..."
 
 # game/scripts/story_01/lounge_tv.rpy:289
 msgid "Тебе понравится!"
@@ -522,7 +522,7 @@ msgstr "Ti piacerà!"
 
 # game/scripts/story_01/lounge_tv.rpy:325
 msgid "Мне твои джинсы мешают. Снять не хочешь?"
-msgstr ""
+msgstr "I tuoi jeans mi stanno intralciando. Non vuoi toglierlo?"
 
 # game/scripts/story_01/lounge_tv.rpy:325
 msgid "{i}закончить массаж{/i}"
