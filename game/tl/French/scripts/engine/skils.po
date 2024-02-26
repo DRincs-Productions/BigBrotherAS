@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-01-24 14:01\n"
+"PO-Revision-Date: 2024-02-26 08:57\n"
 
-# TODO: Translation updated at 2024-01-24 03:02 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/skils.rpy:14
+# TODO: Translation updated at 2024-02-14 20:38 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/skils.rpy:14
 msgid "скрытность"
 msgstr "furtivité"
 
@@ -52,23 +52,31 @@ msgstr "Persuasion réussie !"
 msgid "Паук найден!"
 msgstr "L'araignée a été retrouvée !"
 
-# game/scripts/engine/skils.rpy:199
+# game/scripts/engine/skils.rpy:190
+msgid "Ей понравился массаж!"
+msgstr ""
+
+# game/scripts/engine/skils.rpy:200
 msgid "Я чуть не попался!"
 msgstr "J'ai failli me faire prendre !"
 
-# game/scripts/engine/skils.rpy:199
+# game/scripts/engine/skils.rpy:200
 msgid "Мне не стоит это делать!"
 msgstr "Je ne devrais pas faire ça !"
 
-# game/scripts/engine/skils.rpy:199
+# game/scripts/engine/skils.rpy:200
 msgid "Вот чёрт, я попался!"
 msgstr "Oh, merde, je suis foutu !"
 
-# game/scripts/engine/skils.rpy:199
+# game/scripts/engine/skils.rpy:200
 msgid "Убеждение не удалось!"
 msgstr "La persuasion a échoué !"
 
-# game/scripts/engine/skils.rpy:199
+# game/scripts/engine/skils.rpy:200
 msgid "Безрезультатно!"
 msgstr "En vain !"
+
+# game/scripts/engine/skils.rpy:200
+msgid "Ей не понравился массаж!"
+msgstr ""
 
