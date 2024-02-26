@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-12 13:38\n"
+"PO-Revision-Date: 2024-02-26 09:01\n"
 
-# TODO: Translation updated at 2024-01-09 23:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/collection.rpy:27
+# TODO: Translation updated at 2024-02-14 20:38 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/collection.rpy:27
 msgid "Переодевания"
 msgstr "Vêtements de rechange"
 
@@ -28,51 +28,51 @@ msgstr "Rêves"
 msgid "Вернуться"
 msgstr "Retourner"
 
-# game/scripts/screens/collection.rpy:118
+# game/scripts/screens/collection.rpy:122
 msgid "Предыдущая"
 msgstr "Précédent"
 
-# game/scripts/screens/collection.rpy:121
+# game/scripts/screens/collection.rpy:125
 msgid "Неподозревающая"
 msgstr "Sans méfiance"
 
-# game/scripts/screens/collection.rpy:123
+# game/scripts/screens/collection.rpy:127
 msgid "Удивлённая"
 msgstr "Surpris"
 
-# game/scripts/screens/collection.rpy:125
+# game/scripts/screens/collection.rpy:129
 msgid "Сердитая"
 msgstr "En colère"
 
-# game/scripts/screens/collection.rpy:127
+# game/scripts/screens/collection.rpy:131
 msgid "Сильно стесняющаяся"
 msgstr "Très conscient de soi"
 
-# game/scripts/screens/collection.rpy:129
+# game/scripts/screens/collection.rpy:133
 msgid "Стесняющаяся"
 msgstr "Timide"
 
-# game/scripts/screens/collection.rpy:131
+# game/scripts/screens/collection.rpy:135
 msgid "!!! ОШИБКА !!!"
 msgstr "! !! ERREUR ! !!"
 
-# game/scripts/screens/collection.rpy:149
+# game/scripts/screens/collection.rpy:154
 msgid "Следующая"
 msgstr "Suivant"
 
-# game/scripts/screens/collection.rpy:180
+# game/scripts/screens/collection.rpy:185
 msgid "Макс ещё не видел Алису такой!"
 msgstr "Max n'avait jamais vu Alice comme ça !"
 
-# game/scripts/screens/collection.rpy:182
+# game/scripts/screens/collection.rpy:187
 msgid "Макс ещё не видел маму такой!"
 msgstr "Max n'a jamais vu sa mère dans cet état !"
 
-# game/scripts/screens/collection.rpy:184
+# game/scripts/screens/collection.rpy:189
 msgid "Макс ещё не видел Лизу такой!"
 msgstr "Max n'avait jamais vu Lisa comme ça !"
 
-# game/scripts/screens/collection.rpy:254
-msgid "Этот сон ещё не открыт."
-msgstr "Ce rêve reste à découvrir."
+# game/scripts/screens/collection.rpy:259
+msgid "Этот сон ещё не открыт!"
+msgstr ""
 
