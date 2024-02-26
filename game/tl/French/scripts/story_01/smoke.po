@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-12 15:37\n"
+"PO-Revision-Date: 2024-02-26 09:00\n"
 
-# TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/story_01/smoke.rpy:11 #-#-# translate crowdin ev_025_7cf4d55a:
+# TODO: Translation updated at 2024-02-14 20:38 #|#|# # game/scripts/story_01/smoke.rpy:11 #-#-# translate crowdin ev_025_7cf4d55a:
 msgid "[_tMax_s_13_] Что это? Ну-ка, ну-ка... Вот чёрт! Алиса снова взялась курить травку! Это очень нехорошо... [nointeract]"
 msgstr "[_tMax_s_13_] Qu'est-ce que c'est ? Eh bien, eh bien, eh bien. Oh, merde ! Alice fume encore de l'herbe ! Ce n'est pas bon signe. [nointeract]"
 
@@ -324,9 +324,9 @@ msgstr "[_tMax_s_01_] Eh bien, elle continuera certainement à fumer de l'herbe.
 msgid "[_tMax_s_03_] А вот и голые сисечки Алисы загорают! Жаль их не видно... [nointeract]"
 msgstr "[_tMax_s_03_] Voici les seins nus d'Alice qui prennent un bain de soleil ! Dommage qu'on ne puisse pas les voir. [nointeract]"
 
-# game/scripts/story_01/smoke.rpy:292 #-#-# translate crowdin ev_028_4028a28b:
-msgid "[_Alice_s_14_] Чёрт побери, Макс! Напугал!"
-msgstr "[_Alice_s_14_] Bon sang, Max ! Tu m'as fait peur !"
+# game/scripts/story_01/smoke.rpy:292 #-#-# translate crowdin ev_028_fbde9dc6:
+msgid "[_Alice_s_14_] Чёрт побери, Макс! Напугал! {p=2}{nw}"
+msgstr ""
 
 # game/scripts/story_01/smoke.rpy:298 #-#-# translate crowdin ev_028_ccc6a72c:
 msgid "[_Alice_s_15_] И давно ты тут стоишь и пялишься на меня? [nointeract]"
