@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-10-14 21:25
+﻿# TODO: Translation updated at 2024-02-14 20:38
 
 # game/scripts/story_01/morning_mischief.rpy:14
 translate crowdin ev_039_12731b84:
@@ -222,13 +222,13 @@ translate crowdin ev_040_pull_off_top_bc0b6491:
     # tMax 15 "Ох, это было опасно! Лиза может проснуться в любую секунду..." nointeract
     tMax 15 "Ох, это было опасно! Лиза может проснуться в любую секунду..." nointeract
 
-# game/scripts/story_01/morning_mischief.rpy:217
+# game/scripts/story_01/morning_mischief.rpy:218
 translate crowdin ev_040_cooldown_0601ec98:
 
     # tMax 12 "Лиза совсем недавно уже просыпалась от того, что я стягивал с неё одежду. Лучше не рисковать лишний раз и подождать хотя бы несколько дней..." nointeract
     tMax 12 "Лиза совсем недавно уже просыпалась от того, что я стягивал с неё одежду. Лучше не рисковать лишний раз и подождать хотя бы несколько дней..." nointeract
 
-# game/scripts/story_01/morning_mischief.rpy:219
+# game/scripts/story_01/morning_mischief.rpy:220
 translate crowdin ev_040_cooldown_4130bb8a:
 
     # tMax 12 "Лиза совсем недавно уже просыпалась от того, что я стягивал с неё одежду. Лучше не рисковать лишний раз и подождать хотя бы ещё денёк..." nointeract

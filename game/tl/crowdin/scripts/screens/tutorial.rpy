@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-01-09 23:01
+﻿# TODO: Translation updated at 2024-02-14 20:38
 
 translate crowdin strings:
 
@@ -162,83 +162,83 @@ translate crowdin strings:
     old "По пятницам Макс будет отчитываться Анне о своих успехах и если он что-то не успел сделать, то будет делать это принудительно в субботу."
     new "По пятницам Макс будет отчитываться Анне о своих успехах и если он что-то не успел сделать, то будет делать это принудительно в субботу."
 
-    # game/scripts/screens/tutorial.rpy:159
+    # game/scripts/screens/tutorial.rpy:162
     old "Управление"
     new "Управление"
 
-    # game/scripts/screens/tutorial.rpy:163
+    # game/scripts/screens/tutorial.rpy:166
     old "Навыки"
     new "Навыки"
 
-    # game/scripts/screens/tutorial.rpy:165
+    # game/scripts/screens/tutorial.rpy:168
     old "Настроение"
     new "Настроение"
 
-    # game/scripts/screens/tutorial.rpy:168
+    # game/scripts/screens/tutorial.rpy:171
     old "Обязанности по дому"
     new "Обязанности по дому"
 
-    # game/scripts/screens/tutorial.rpy:321
+    # game/scripts/screens/tutorial.rpy:324
     old "Сейчас Лиза должна собираться в школу..."
     new "Сейчас Лиза должна собираться в школу..."
 
-    # game/scripts/screens/tutorial.rpy:324
+    # game/scripts/screens/tutorial.rpy:327
     old "{i}заглянуть в окно{/i}"
     new "{i}заглянуть в окно{/i}"
 
-    # game/scripts/screens/tutorial.rpy:324
+    # game/scripts/screens/tutorial.rpy:327
     old "Шанс"
     new "Шанс"
 
-    # game/scripts/screens/tutorial.rpy:329
+    # game/scripts/screens/tutorial.rpy:332
     old "опыт применения навыка"
     new "опыт применения навыка"
 
-    # game/scripts/screens/tutorial.rpy:335
+    # game/scripts/screens/tutorial.rpy:338
     old "Ой, Макс! Я не одета!!! Не мешай мне собираться в школу!"
     new "Ой, Макс! Я не одета!!! Не мешай мне собираться в школу!"
 
-    # game/scripts/screens/tutorial.rpy:339
+    # game/scripts/screens/tutorial.rpy:342
     old "Не стесняйся, без одежды ты очень красиво смотришься!"
     new "Не стесняйся, без одежды ты очень красиво смотришься!"
 
-    # game/scripts/screens/tutorial.rpy:343
+    # game/scripts/screens/tutorial.rpy:346
     old "Я наоборот, помочь хотел..."
     new "Я наоборот, помочь хотел..."
 
-    # game/scripts/screens/tutorial.rpy:351
+    # game/scripts/screens/tutorial.rpy:354
     old "настроение Лизы"
     new "настроение Лизы"
 
-    # game/scripts/screens/tutorial.rpy:417
+    # game/scripts/screens/tutorial.rpy:420
     old "Неужели тебе надоело бездельничать и ты пришёл мне помочь?"
     new "Неужели тебе надоело бездельничать и ты пришёл мне помочь?"
 
-    # game/scripts/screens/tutorial.rpy:420
+    # game/scripts/screens/tutorial.rpy:423
     old "Ага. Давай, я домою остальное..."
     new "Ага. Давай, я домою остальное..."
 
-    # game/scripts/screens/tutorial.rpy:421
+    # game/scripts/screens/tutorial.rpy:424
     old "Нет, просто хотел поглазеть..."
     new "Нет, просто хотел поглазеть..."
 
-    # game/scripts/screens/tutorial.rpy:425
+    # game/scripts/screens/tutorial.rpy:428
     old "Макс! Ты офигел что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла!"
     new "Макс! Ты офигел что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла!"
 
-    # game/scripts/screens/tutorial.rpy:428
+    # game/scripts/screens/tutorial.rpy:431
     old "Ты бы классно смотрелась на обложке журнала!"
     new "Ты бы классно смотрелась на обложке журнала!"
 
-    # game/scripts/screens/tutorial.rpy:432
+    # game/scripts/screens/tutorial.rpy:435
     old "настроение Алисы"
     new "настроение Алисы"
 
-    # game/scripts/screens/tutorial.rpy:568
+    # game/scripts/screens/tutorial.rpy:571
     old "Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
     new "Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
 
-    # game/scripts/screens/tutorial.rpy:570
+    # game/scripts/screens/tutorial.rpy:573
     old "Теперь вы управляете жизнью Макса! Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
     new "Теперь вы управляете жизнью Макса! Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
 

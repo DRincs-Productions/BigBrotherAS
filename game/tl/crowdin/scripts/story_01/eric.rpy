@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-10-14 21:25
+﻿# TODO: Translation updated at 2024-02-14 20:38
 
 # game/scripts/story_01/eric.rpy:10
 translate crowdin ev_055_e6d21536:
@@ -414,31 +414,31 @@ translate crowdin ev_056_dont_meet_7de786c8:
     # tMax 05 "Обалденно! Как же повезло, что у меня такая горячая мама... Почти голой она выглядит потрясающе, аж глаза отрывать не хочется! Но лучше потихоньку уходить, пока она меня не заметила..." nointeract
     tMax 05 "Обалденно! Как же повезло, что у меня такая горячая мама... Почти голой она выглядит потрясающе, аж глаза отрывать не хочется! Но лучше потихоньку уходить, пока она меня не заметила..." nointeract
 
-# game/scripts/story_01/eric.rpy:195
+# game/scripts/story_01/eric.rpy:196
 translate crowdin ev_056_dont_meet_4375512d:
 
     # Ann 13 "Макс! Я же учила тебя стучаться! {p=2}{nw}"
     Ann 13 "Макс! Я же учила тебя стучаться! {p=2}{nw}"
 
-# game/scripts/story_01/eric.rpy:200
+# game/scripts/story_01/eric.rpy:201
 translate crowdin ev_056_dont_meet_1d5fe807:
 
     # Ann 14 "Нельзя вот так без предупреждения врываться в комнату! Ты почему не спишь?"
     Ann 14 "Нельзя вот так без предупреждения врываться в комнату! Ты почему не спишь?"
 
-# game/scripts/story_01/eric.rpy:201
+# game/scripts/story_01/eric.rpy:202
 translate crowdin ev_056_dont_meet_1e8bb066:
 
     # Max 12 "Извини! Хотел узнать, всё ли в порядке?"
     Max 12 "Извини! Хотел узнать, всё ли в порядке?"
 
-# game/scripts/story_01/eric.rpy:202
+# game/scripts/story_01/eric.rpy:203
 translate crowdin ev_056_dont_meet_f92e7b76:
 
     # Ann 11 "Сынок, я устала. Утром за завтраком обязательно всё расскажу. Беги спать."
     Ann 11 "Сынок, я устала. Утром за завтраком обязательно всё расскажу. Беги спать."
 
-# game/scripts/story_01/eric.rpy:204
+# game/scripts/story_01/eric.rpy:205
 translate crowdin ev_056_dont_meet_b3fa4a4b:
 
     # Max 00 "Понял. Доброй ночи, мам." nointeract

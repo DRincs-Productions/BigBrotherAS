@@ -1,12 +1,12 @@
-﻿# TODO: Translation updated at 2024-01-09 23:01
+﻿# TODO: Translation updated at 2024-02-14 20:38
 
 translate crowdin strings:
 
-    # game/scripts/screens/notify.rpy:35
-    old "Нужно завершить следующие задания: «Любопытное содержимое», «Способ заработать», «Арахнофобия», «Стоит ли рисковать?», «Маслице для загара», «При делах»."
-    new "Нужно завершить следующие задания: «Любопытное содержимое», «Способ заработать», «Арахнофобия», «Стоит ли рисковать?», «Маслице для загара», «При делах»."
+    # game/scripts/screens/notify.rpy:36
+    old "Нужно завершить следующие задания:"
+    new "Нужно завершить следующие задания:"
 
-    # game/scripts/screens/notify.rpy:39
+    # game/scripts/screens/notify.rpy:51
     old "Ok"
     new "Ok"
 

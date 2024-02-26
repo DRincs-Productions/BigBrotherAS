@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-01-09 23:01
+﻿# TODO: Translation updated at 2024-02-14 20:38
 
 # game/scripts/story_01/smoke.rpy:11
 translate crowdin ev_025_7cf4d55a:
@@ -469,10 +469,10 @@ translate crowdin ev_028_2949475f:
     tMax 03 "А вот и голые сисечки Алисы загорают! Жаль их не видно..." nointeract
 
 # game/scripts/story_01/smoke.rpy:292
-translate crowdin ev_028_4028a28b:
+translate crowdin ev_028_fbde9dc6:
 
-    # Alice 14 "Чёрт побери, Макс! Напугал!"
-    Alice 14 "Чёрт побери, Макс! Напугал!"
+    # Alice 14 "Чёрт побери, Макс! Напугал! {p=2}{nw}"
+    Alice 14 "Чёрт побери, Макс! Напугал! {p=2}{nw}"
 
 # game/scripts/story_01/smoke.rpy:298
 translate crowdin ev_028_ccc6a72c:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-01-24 03:02
+﻿# TODO: Translation updated at 2024-02-14 20:38
 
 # game/scripts/story_01/arachnophobia.rpy:7
 translate crowdin ev_032_247fb4c6:
@@ -684,865 +684,865 @@ translate crowdin ev_066_8ade03d5:
     # tMax 00 "Значит, попробую ей что-то предложить, когда она будет в очередной раз загорать..." nointeract
     tMax 00 "Значит, попробую ей что-то предложить, когда она будет в очередной раз загорать..." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:432
+# game/scripts/story_01/arachnophobia.rpy:433
 translate crowdin ev_spider_cooldown_1bbb14cf:
 
     # tMax 12 "Совсем недавно я уже пугал Алису с помощью паука, так что она может что-то заподозрить. Лучше не рисковать лишний раз и подождать хотя бы ещё денёк..."
     tMax 12 "Совсем недавно я уже пугал Алису с помощью паука, так что она может что-то заподозрить. Лучше не рисковать лишний раз и подождать хотя бы ещё денёк..."
 
-# game/scripts/story_01/arachnophobia.rpy:434
+# game/scripts/story_01/arachnophobia.rpy:435
 translate crowdin ev_spider_cooldown_adb3af0d:
 
     # tMax 12 "Совсем недавно я уже пугал Алису с помощью паука, так что она может что-то заподозрить. Лучше не рисковать лишний раз и подождать хотя бы несколько дней..."
     tMax 12 "Совсем недавно я уже пугал Алису с помощью паука, так что она может что-то заподозрить. Лучше не рисковать лишний раз и подождать хотя бы несколько дней..."
 
-# game/scripts/story_01/arachnophobia.rpy:447
+# game/scripts/story_01/arachnophobia.rpy:448
 translate crowdin ev_070_87a69247:
 
     # tMax 11 "Будь осторожнее, паучок! Не торопись сразу же щекотать мою сестрёнку. Чуть подожди, пока я не лягу в свою кровать..." nointeract
     tMax 11 "Будь осторожнее, паучок! Не торопись сразу же щекотать мою сестрёнку. Чуть подожди, пока я не лягу в свою кровать..." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:452
+# game/scripts/story_01/arachnophobia.rpy:453
 translate crowdin ev_070_12cf4e49:
 
     # tMax 01 "Теперь нужно сделать вид, как будто я сплю и ждать криков Алисы..."
     tMax 01 "Теперь нужно сделать вид, как будто я сплю и ждать криков Алисы..."
 
-# game/scripts/story_01/arachnophobia.rpy:456
+# game/scripts/story_01/arachnophobia.rpy:457
 translate crowdin ev_070_b5262a60:
 
     # tMax 07 "Кажется, я уже что-то слышал! Да, бежит кто-то и прямо сюда..."
     tMax 07 "Кажется, я уже что-то слышал! Да, бежит кто-то и прямо сюда..."
 
-# game/scripts/story_01/arachnophobia.rpy:461
+# game/scripts/story_01/arachnophobia.rpy:462
 translate crowdin ev_070_7d4ce296:
 
     # Alice 15 "Макс! Макс! Вставай быстрее! Мне нужна помощь!"
     Alice 15 "Макс! Макс! Вставай быстрее! Мне нужна помощь!"
 
-# game/scripts/story_01/arachnophobia.rpy:462
+# game/scripts/story_01/arachnophobia.rpy:463
 translate crowdin ev_070_ebb56425:
 
     # Max 14 "Что случилось?"
     Max 14 "Что случилось?"
 
-# game/scripts/story_01/arachnophobia.rpy:467
+# game/scripts/story_01/arachnophobia.rpy:468
 translate crowdin ev_070_2a4f70f3:
 
     # Alice 12 "Макс, помоги! В моей комнате огромный такой, просто гигантский паук! Убери его, пожалуйста!"
     Alice 12 "Макс, помоги! В моей комнате огромный такой, просто гигантский паук! Убери его, пожалуйста!"
 
-# game/scripts/story_01/arachnophobia.rpy:468
+# game/scripts/story_01/arachnophobia.rpy:469
 translate crowdin ev_070_eecd6573:
 
     # Max 13 "Ну, пойдём посмотрим..."
     Max 13 "Ну, пойдём посмотрим..."
 
-# game/scripts/story_01/arachnophobia.rpy:473
+# game/scripts/story_01/arachnophobia.rpy:474
 translate crowdin ev_070_9f0c928b:
 
     # Alice 14 "Макс, Макс! Вот он! Видишь? Прямо на моей кровати за подушками! Убери его, скорее!!!"
     Alice 14 "Макс, Макс! Вот он! Видишь? Прямо на моей кровати за подушками! Убери его, скорее!!!"
 
-# game/scripts/story_01/arachnophobia.rpy:474
+# game/scripts/story_01/arachnophobia.rpy:475
 translate crowdin ev_070_80831619:
 
     # Max 11 "А что я за это получу?"
     Max 11 "А что я за это получу?"
 
-# game/scripts/story_01/arachnophobia.rpy:480
+# game/scripts/story_01/arachnophobia.rpy:481
 translate crowdin ev_070_3a8dfdab:
 
     # Alice 11 "Макс, какой же ты... И что ты опять хочешь за то, чтобы этот паук оказался за нашей оградой?" nointeract
     Alice 11 "Макс, какой же ты... И что ты опять хочешь за то, чтобы этот паук оказался за нашей оградой?" nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:502
+# game/scripts/story_01/arachnophobia.rpy:503
 translate crowdin ev_070_money_ce136314:
 
     # Alice 14 "Вот ты паршивец, Макс! Знаешь же, что у меня сейчас туго с деньгами и всё равно просишь!"
     Alice 14 "Вот ты паршивец, Макс! Знаешь же, что у меня сейчас туго с деньгами и всё равно просишь!"
 
-# game/scripts/story_01/arachnophobia.rpy:503
+# game/scripts/story_01/arachnophobia.rpy:504
 translate crowdin ev_070_money_6f555264:
 
     # Max 16 "А нечего было меня будить..."
     Max 16 "А нечего было меня будить..."
 
-# game/scripts/story_01/arachnophobia.rpy:508
+# game/scripts/story_01/arachnophobia.rpy:509
 translate crowdin ev_070_money_0d35b189:
 
     # Alice 11 "Ладно, держи $10, только убери его быстрее!!!"
     Alice 11 "Ладно, держи $10, только убери его быстрее!!!"
 
-# game/scripts/story_01/arachnophobia.rpy:509
+# game/scripts/story_01/arachnophobia.rpy:510
 translate crowdin ev_070_money_58be5cd7:
 
     # Max 04 "Деньги всегда пригодятся! Ладно, где этот твой паук..."
     Max 04 "Деньги всегда пригодятся! Ладно, где этот твой паук..."
 
-# game/scripts/story_01/arachnophobia.rpy:518
+# game/scripts/story_01/arachnophobia.rpy:519
 translate crowdin ev_070_money_037bb2a0:
 
     # Alice 16 "Нет у меня сейчас денег, понятно?! Значит так... Ты сейчас возьмёшь этого паука и либо ПОЙДЁШЬ его выкидывать за ворота, либо ПОПОЛЗЁШЬ его выкидывать за ворота. Дать подсказку, что я сделаю с твоими ногами?"
     Alice 16 "Нет у меня сейчас денег, понятно?! Значит так... Ты сейчас возьмёшь этого паука и либо ПОЙДЁШЬ его выкидывать за ворота, либо ПОПОЛЗЁШЬ его выкидывать за ворота. Дать подсказку, что я сделаю с твоими ногами?"
 
-# game/scripts/story_01/arachnophobia.rpy:519
+# game/scripts/story_01/arachnophobia.rpy:520
 translate crowdin ev_070_money_d718a4ed:
 
     # Max 12 "Ясно, ты не в настроении. Ладно, где этот твой паук..."
     Max 12 "Ясно, ты не в настроении. Ладно, где этот твой паук..."
 
-# game/scripts/story_01/arachnophobia.rpy:528
+# game/scripts/story_01/arachnophobia.rpy:529
 translate crowdin ev_070_bust_b552e0d7:
 
     # Alice 14 "Ах! Ну и хам же ты, Макс... Нельзя же так нагло пользоваться тем, что я боюсь пауков!"
     Alice 14 "Ах! Ну и хам же ты, Макс... Нельзя же так нагло пользоваться тем, что я боюсь пауков!"
 
-# game/scripts/story_01/arachnophobia.rpy:529
+# game/scripts/story_01/arachnophobia.rpy:530
 translate crowdin ev_070_bust_43fab80a:
 
     # Max 16 "Давай вот без этого. Сиськи, пожалуйста..."
     Max 16 "Давай вот без этого. Сиськи, пожалуйста..."
 
-# game/scripts/story_01/arachnophobia.rpy:534
+# game/scripts/story_01/arachnophobia.rpy:535
 translate crowdin ev_070_bust_246ca5f6:
 
     # Alice 11 "Ладно, морда нахальная, любуйся... Я сегодня добрая. И убери уже наконец этого паука!!!"
     Alice 11 "Ладно, морда нахальная, любуйся... Я сегодня добрая. И убери уже наконец этого паука!!!"
 
-# game/scripts/story_01/arachnophobia.rpy:535
+# game/scripts/story_01/arachnophobia.rpy:536
 translate crowdin ev_070_bust_f8780e0b:
 
     # Max 04 "О да! Благодарю, сиськи - что надо! Ладно, где этот твой паук..."
     Max 04 "О да! Благодарю, сиськи - что надо! Ладно, где этот твой паук..."
 
-# game/scripts/story_01/arachnophobia.rpy:543
+# game/scripts/story_01/arachnophobia.rpy:544
 translate crowdin ev_070_bust_1afc8065:
 
     # Alice 16 "Сиськи тебе значит подавай, да?! Значит так... Иди-ка ты спать, а паука я как-нибудь сама вышвырну. И не вздумай больше ко мне подходить, потому что я на тебя буду сильно обижена."
     Alice 16 "Сиськи тебе значит подавай, да?! Значит так... Иди-ка ты спать, а паука я как-нибудь сама вышвырну. И не вздумай больше ко мне подходить, потому что я на тебя буду сильно обижена."
 
-# game/scripts/story_01/arachnophobia.rpy:544
+# game/scripts/story_01/arachnophobia.rpy:545
 translate crowdin ev_070_bust_d718a4ed:
 
     # Max 12 "Ясно, ты не в настроении. Ладно, где этот твой паук..."
     Max 12 "Ясно, ты не в настроении. Ладно, где этот твой паук..."
 
-# game/scripts/story_01/arachnophobia.rpy:553
+# game/scripts/story_01/arachnophobia.rpy:554
 translate crowdin ev_070_ass_ac593ea8:
 
     # Alice 14 "Какой же ты извращенец, Макс! Я тебе стриптизёрша что ли тут полуголым задом крутить? Не стыдно такое просить у родной сестры?!"
     Alice 14 "Какой же ты извращенец, Макс! Я тебе стриптизёрша что ли тут полуголым задом крутить? Не стыдно такое просить у родной сестры?!"
 
-# game/scripts/story_01/arachnophobia.rpy:554
+# game/scripts/story_01/arachnophobia.rpy:555
 translate crowdin ev_070_ass_7a8f4159:
 
     # Max 03 "Если у неё отпадный зад, то точно не стыдно! Давай уже, показывай..."
     Max 03 "Если у неё отпадный зад, то точно не стыдно! Давай уже, показывай..."
 
-# game/scripts/story_01/arachnophobia.rpy:560
+# game/scripts/story_01/arachnophobia.rpy:561
 translate crowdin ev_070_ass_cd90df84:
 
     # Alice 12 "Да пожалуйста, смотри... И не говори, что этого мало! Большего не покажу! Давай убирай уже наконец этого паука отсюда!!!"
     Alice 12 "Да пожалуйста, смотри... И не говори, что этого мало! Большего не покажу! Давай убирай уже наконец этого паука отсюда!!!"
 
-# game/scripts/story_01/arachnophobia.rpy:561
+# game/scripts/story_01/arachnophobia.rpy:562
 translate crowdin ev_070_ass_3d953ddd:
 
     # Max 04 "Попка у тебя просто супер, Алиса! Ладно, где этот твой паук..."
     Max 04 "Попка у тебя просто супер, Алиса! Ладно, где этот твой паук..."
 
-# game/scripts/story_01/arachnophobia.rpy:569
+# game/scripts/story_01/arachnophobia.rpy:570
 translate crowdin ev_070_ass_b109d666:
 
     # Alice 16 "Да я тебя сейчас придушу с такими запросами! В отличие от пауков, тебя-то я не боюсь. Живо убрал его отсюда, пока я ещё добрая!!!"
     Alice 16 "Да я тебя сейчас придушу с такими запросами! В отличие от пауков, тебя-то я не боюсь. Живо убрал его отсюда, пока я ещё добрая!!!"
 
-# game/scripts/story_01/arachnophobia.rpy:570
+# game/scripts/story_01/arachnophobia.rpy:571
 translate crowdin ev_070_ass_6a7583f8:
 
     # Max 12 "Тише ты, разбудишь всех. Ладно, где этот твой паук..."
     Max 12 "Тише ты, разбудишь всех. Ладно, где этот твой паук..."
 
-# game/scripts/story_01/arachnophobia.rpy:575
+# game/scripts/story_01/arachnophobia.rpy:576
 translate crowdin ev_070_spider_28398585:
 
     # Alice 15 "Да всё там же на кровати за подушками! Лови его..."
     Alice 15 "Да всё там же на кровати за подушками! Лови его..."
 
-# game/scripts/story_01/arachnophobia.rpy:580
+# game/scripts/story_01/arachnophobia.rpy:581
 translate crowdin ev_070_spider_ff00698c:
 
     # Max 11 "Вот он и попался! Пойду выпущу его в ближайшую траву во дворе..."
     Max 11 "Вот он и попался! Пойду выпущу его в ближайшую траву во дворе..."
 
-# game/scripts/story_01/arachnophobia.rpy:581
+# game/scripts/story_01/arachnophobia.rpy:582
 translate crowdin ev_070_spider_287c0ff3:
 
     # Alice 14 "Во дворе?! Нет уж, Макс! Ты должен выкинуть его за ограду, иначе я просто не смогу заснуть!"
     Alice 14 "Во дворе?! Нет уж, Макс! Ты должен выкинуть его за ограду, иначе я просто не смогу заснуть!"
 
-# game/scripts/story_01/arachnophobia.rpy:582
+# game/scripts/story_01/arachnophobia.rpy:583
 translate crowdin ev_070_spider_0fad188b:
 
     # Max 13 "Как скажешь. За ограду, так за ограду..."
     Max 13 "Как скажешь. За ограду, так за ограду..."
 
-# game/scripts/story_01/arachnophobia.rpy:586
+# game/scripts/story_01/arachnophobia.rpy:587
 translate crowdin ev_070_spider_740197c6:
 
     # tMax 16 "Эх, если бы Алиса не стала снова смотреть с балкона, как я выбрасываю паука за ворота, то можно было бы оставить его себе..."
     tMax 16 "Эх, если бы Алиса не стала снова смотреть с балкона, как я выбрасываю паука за ворота, то можно было бы оставить его себе..."
 
-# game/scripts/story_01/arachnophobia.rpy:591
+# game/scripts/story_01/arachnophobia.rpy:592
 translate crowdin ev_070_spider_e7a251cd:
 
     # tMax 17 "Но не выйдет. Глаз с меня не сводит, пока я с пауком."
     tMax 17 "Но не выйдет. Глаз с меня не сводит, пока я с пауком."
 
-# game/scripts/story_01/arachnophobia.rpy:593
+# game/scripts/story_01/arachnophobia.rpy:594
 translate crowdin ev_070_spider_e5c8be86:
 
     # Alice 11 "И что стоим?! Давай шуруй быстрее к воротам и выбрасывай паука! Я спать хочу и не успокоюсь, пока он у нас на участке." nointeract
     Alice 11 "И что стоим?! Давай шуруй быстрее к воротам и выбрасывай паука! Я спать хочу и не успокоюсь, пока он у нас на участке." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:601
+# game/scripts/story_01/arachnophobia.rpy:602
 translate crowdin ev_070_spider_2b0436e2:
 
     # Alice 12 "Да серьёзно что ли, Макс?! Это что, так сложно сделать без всего этого ребячества?"
     Alice 12 "Да серьёзно что ли, Макс?! Это что, так сложно сделать без всего этого ребячества?"
 
-# game/scripts/story_01/arachnophobia.rpy:602
+# game/scripts/story_01/arachnophobia.rpy:603
 translate crowdin ev_070_spider_d1259b63:
 
     # Max 11 "Не сложно, а опасно! Кто знает, что на меня там за воротами из темноты может напасть..."
     Max 11 "Не сложно, а опасно! Кто знает, что на меня там за воротами из темноты может напасть..."
 
-# game/scripts/story_01/arachnophobia.rpy:607
+# game/scripts/story_01/arachnophobia.rpy:608
 translate crowdin ev_070_spider_df9c637b:
 
     # Alice 11 "Ой, всё понятно с тобой! Вот тебе, на здоровье, любуйся... И выкидывай уже наконец этого долбанного паука!!!"
     Alice 11 "Ой, всё понятно с тобой! Вот тебе, на здоровье, любуйся... И выкидывай уже наконец этого долбанного паука!!!"
 
-# game/scripts/story_01/arachnophobia.rpy:609
+# game/scripts/story_01/arachnophobia.rpy:610
 translate crowdin ev_070_spider_a5d1e9d4:
 
     # Max 04 "Ммм... Какие красивые сиськи! Спасибо! После такого мне уже ничего не страшно..." nointeract
     Max 04 "Ммм... Какие красивые сиськи! Спасибо! После такого мне уже ничего не страшно..." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:615
+# game/scripts/story_01/arachnophobia.rpy:616
 translate crowdin ev_070_spider_782b85bf:
 
     # Alice 16 "Ты сейчас у меня вместе с этим пауком останешься ночевать на улице, понял? Если нет, то я сейчас спущусь и выпну вас обоих за ворота..."
     Alice 16 "Ты сейчас у меня вместе с этим пауком останешься ночевать на улице, понял? Если нет, то я сейчас спущусь и выпну вас обоих за ворота..."
 
-# game/scripts/story_01/arachnophobia.rpy:617
+# game/scripts/story_01/arachnophobia.rpy:618
 translate crowdin ev_070_spider_8f0adfee:
 
     # Max 12 "Нет-нет! Не надо. Всё понятно..." nointeract
     Max 12 "Нет-нет! Не надо. Всё понятно..." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:627
+# game/scripts/story_01/arachnophobia.rpy:628
 translate crowdin ev_070_spider_2291fc7c:
 
     # tMax 01 "Не зря я всё-таки паука в комнату Алисы подкинул! Пускай, доброй ночи она словами и не пожелала, но зато пожелала своими голыми сисечками... А это куда лучше!" nointeract
     tMax 01 "Не зря я всё-таки паука в комнату Алисы подкинул! Пускай, доброй ночи она словами и не пожелала, но зато пожелала своими голыми сисечками... А это куда лучше!" nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:629
+# game/scripts/story_01/arachnophobia.rpy:630
 translate crowdin ev_070_spider_568bb8da:
 
     # tMax 01 "Не зря я всё-таки паука в комнату Алисы подкинул! Теперь и засыпать приятнее будет..." nointeract
     tMax 01 "Не зря я всё-таки паука в комнату Алисы подкинул! Теперь и засыпать приятнее будет..." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:631
+# game/scripts/story_01/arachnophobia.rpy:632
 translate crowdin ev_070_spider_20d13ebb:
 
     # tMax 13 "И зачем я вообще подкинул этого паука в комнату Алисы?! Ведь можно было столько всего у неё выпросить, а я..." nointeract
     tMax 13 "И зачем я вообще подкинул этого паука в комнату Алисы?! Ведь можно было столько всего у неё выпросить, а я..." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:651
+# game/scripts/story_01/arachnophobia.rpy:652
 translate crowdin ev_071_581ae9b0:
 
     # Max 11 "Э-э-э... Алиса, ты только не пугайся, просто лежи, как лежала..."
     Max 11 "Э-э-э... Алиса, ты только не пугайся, просто лежи, как лежала..."
 
-# game/scripts/story_01/arachnophobia.rpy:652
+# game/scripts/story_01/arachnophobia.rpy:653
 translate crowdin ev_071_bb9b5795:
 
     # Alice 11 "А что такое? Чего мне не нужно пугаться?"
     Alice 11 "А что такое? Чего мне не нужно пугаться?"
 
-# game/scripts/story_01/arachnophobia.rpy:653
+# game/scripts/story_01/arachnophobia.rpy:654
 translate crowdin ev_071_bfb74207:
 
     # Max 01 "Просто у нас тут одна проблемка подкралась..."
     Max 01 "Просто у нас тут одна проблемка подкралась..."
 
-# game/scripts/story_01/arachnophobia.rpy:656
+# game/scripts/story_01/arachnophobia.rpy:657
 translate crowdin ev_071_6b14c591:
 
     # Alice 12 "Что? Подкралась?! Это же не то, о чём я подумала?"
     Alice 12 "Что? Подкралась?! Это же не то, о чём я подумала?"
 
-# game/scripts/story_01/arachnophobia.rpy:657
+# game/scripts/story_01/arachnophobia.rpy:658
 translate crowdin ev_071_6fbf3e27:
 
     # Max 01 "Ну... Ты лучше не дёргайся!"
     Max 01 "Ну... Ты лучше не дёргайся!"
 
-# game/scripts/story_01/arachnophobia.rpy:661
+# game/scripts/story_01/arachnophobia.rpy:662
 translate crowdin ev_071_1f65ac07:
 
     # Alice 14 "А-а-а! Макс! Вот чёрт! Какой он здоровенный!"
     Alice 14 "А-а-а! Макс! Вот чёрт! Какой он здоровенный!"
 
-# game/scripts/story_01/arachnophobia.rpy:662
+# game/scripts/story_01/arachnophobia.rpy:663
 translate crowdin ev_071_6b66e73b:
 
     # Max 11 "И не говори!"
     Max 11 "И не говори!"
 
-# game/scripts/story_01/arachnophobia.rpy:663
+# game/scripts/story_01/arachnophobia.rpy:664
 translate crowdin ev_071_80cec4c7:
 
     # Alice 15 "Макс, и что ты встал-то?! Убери его отсюда! Быстро!!!"
     Alice 15 "Макс, и что ты встал-то?! Убери его отсюда! Быстро!!!"
 
-# game/scripts/story_01/arachnophobia.rpy:664
+# game/scripts/story_01/arachnophobia.rpy:665
 translate crowdin ev_071_0d8880fd:
 
     # Max 02 "Да мне как-то не хочется."
     Max 02 "Да мне как-то не хочется."
 
-# game/scripts/story_01/arachnophobia.rpy:668
+# game/scripts/story_01/arachnophobia.rpy:669
 translate crowdin ev_071_48f0d31b:
 
     # Alice 14 "В смысле, не хочется?! Охренеть, он страшный!!!"
     Alice 14 "В смысле, не хочется?! Охренеть, он страшный!!!"
 
-# game/scripts/story_01/arachnophobia.rpy:669
+# game/scripts/story_01/arachnophobia.rpy:670
 translate crowdin ev_071_1339ed5c:
 
     # Max 04 "А мне нравится, как ты устроилась. К тому же он, похоже, сваливает отсюда. Ну да, вон он в сторону пополз..."
     Max 04 "А мне нравится, как ты устроилась. К тому же он, похоже, сваливает отсюда. Ну да, вон он в сторону пополз..."
 
-# game/scripts/story_01/arachnophobia.rpy:670
+# game/scripts/story_01/arachnophobia.rpy:671
 translate crowdin ev_071_901bd064:
 
     # Alice 12 "Да плевать мне, куда он ползёт! Я хочу, чтобы его не было!"
     Alice 12 "Да плевать мне, куда он ползёт! Я хочу, чтобы его не было!"
 
-# game/scripts/story_01/arachnophobia.rpy:671
+# game/scripts/story_01/arachnophobia.rpy:672
 translate crowdin ev_071_1ced2dc6:
 
     # Max 01 "Ладно, тогда слезай, я с ним разберусь."
     Max 01 "Ладно, тогда слезай, я с ним разберусь."
 
-# game/scripts/story_01/arachnophobia.rpy:672
+# game/scripts/story_01/arachnophobia.rpy:673
 translate crowdin ev_071_c733b5b5:
 
     # Alice 15 "Не-е-ет, он тогда сразу ко мне поползёт! Что я их, не знаю что ли..."
     Alice 15 "Не-е-ет, он тогда сразу ко мне поползёт! Что я их, не знаю что ли..."
 
-# game/scripts/story_01/arachnophobia.rpy:673
+# game/scripts/story_01/arachnophobia.rpy:674
 translate crowdin ev_071_8df5ce4c:
 
     # Max 13 "Ты определись уже, чего хочешь? Я бы просто немного подождал, он должен в траву спрятаться от такой жары..."
     Max 13 "Ты определись уже, чего хочешь? Я бы просто немного подождал, он должен в траву спрятаться от такой жары..."
 
-# game/scripts/story_01/arachnophobia.rpy:677
+# game/scripts/story_01/arachnophobia.rpy:678
 translate crowdin ev_071_06bd7e25:
 
     # Alice 12 "Ты уверен?!"
     Alice 12 "Ты уверен?!"
 
-# game/scripts/story_01/arachnophobia.rpy:678
+# game/scripts/story_01/arachnophobia.rpy:679
 translate crowdin ev_071_ef5265c4:
 
     # Max 03 "Ага. Видишь? Он уже там, около газона..."
     Max 03 "Ага. Видишь? Он уже там, около газона..."
 
-# game/scripts/story_01/arachnophobia.rpy:679
+# game/scripts/story_01/arachnophobia.rpy:680
 translate crowdin ev_071_1e150a64:
 
     # Alice 11 "Вижу... А ещё я вижу, что твои руки совсем обнаглели!"
     Alice 11 "Вижу... А ещё я вижу, что твои руки совсем обнаглели!"
 
-# game/scripts/story_01/arachnophobia.rpy:680
+# game/scripts/story_01/arachnophobia.rpy:681
 translate crowdin ev_071_0108b58c:
 
     # Max 04 "Так ты же слезать не хотела, вот я и держу твою... тебя..."
     Max 04 "Так ты же слезать не хотела, вот я и держу твою... тебя..."
 
-# game/scripts/story_01/arachnophobia.rpy:682
+# game/scripts/story_01/arachnophobia.rpy:683
 translate crowdin ev_071_957ed10a:
 
     # Alice 16 "Отцепись от моей задницы, Макс! Пока я..." nointeract
     Alice 16 "Отцепись от моей задницы, Макс! Пока я..." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:687
+# game/scripts/story_01/arachnophobia.rpy:688
 translate crowdin ev_071_abea4a7a:
 
     # Alice 04 "Какой ты послушный! Раз так, то ещё посматривай временами, чтобы в мою сторону никто больше не полз."
     Alice 04 "Какой ты послушный! Раз так, то ещё посматривай временами, чтобы в мою сторону никто больше не полз."
 
-# game/scripts/story_01/arachnophobia.rpy:688
+# game/scripts/story_01/arachnophobia.rpy:689
 translate crowdin ev_071_caa4933d:
 
     # Max 03 "Хорошо. А ты, если соскучишься, зови. На меня можно хоть весь день запрыгивать."
     Max 03 "Хорошо. А ты, если соскучишься, зови. На меня можно хоть весь день запрыгивать."
 
-# game/scripts/story_01/arachnophobia.rpy:695
+# game/scripts/story_01/arachnophobia.rpy:696
 translate crowdin ev_071_b0c0e906:
 
     # Alice 02 "Тебе хватит. Не обольщайся..."
     Alice 02 "Тебе хватит. Не обольщайся..."
 
-# game/scripts/story_01/arachnophobia.rpy:696
+# game/scripts/story_01/arachnophobia.rpy:697
 translate crowdin ev_071_fa9bb1de:
 
     # Max 01 "Как хочешь."
     Max 01 "Как хочешь."
 
-# game/scripts/story_01/arachnophobia.rpy:697
+# game/scripts/story_01/arachnophobia.rpy:698
 translate crowdin ev_071_4eb85f27:
 
     # Alice 01 "Слушай, Макс... Спасибо, что спасаешь меня от этих монстров. Не знаю даже, чтобы я без тебя делала."
     Alice 01 "Слушай, Макс... Спасибо, что спасаешь меня от этих монстров. Не знаю даже, чтобы я без тебя делала."
 
-# game/scripts/story_01/arachnophobia.rpy:698
+# game/scripts/story_01/arachnophobia.rpy:699
 translate crowdin ev_071_f74e101b:
 
     # Max 02 "Не за что. Это пустяк."
     Max 02 "Не за что. Это пустяк."
 
-# game/scripts/story_01/arachnophobia.rpy:699
+# game/scripts/story_01/arachnophobia.rpy:700
 translate crowdin ev_071_3b253987:
 
     # Alice 11 "И почему они лезут именно ко мне?"
     Alice 11 "И почему они лезут именно ко мне?"
 
-# game/scripts/story_01/arachnophobia.rpy:700
+# game/scripts/story_01/arachnophobia.rpy:701
 translate crowdin ev_071_53142c30:
 
     # Max 11 "Может они чувствуют, что ты их боишься или пахнешь как-нибудь приятно..."
     Max 11 "Может они чувствуют, что ты их боишься или пахнешь как-нибудь приятно..."
 
-# game/scripts/story_01/arachnophobia.rpy:701
+# game/scripts/story_01/arachnophobia.rpy:702
 translate crowdin ev_071_fb7bad3e:
 
     # Alice 12 "Если ты прав, то спасу от них, видимо, не будет."
     Alice 12 "Если ты прав, то спасу от них, видимо, не будет."
 
-# game/scripts/story_01/arachnophobia.rpy:702
+# game/scripts/story_01/arachnophobia.rpy:703
 translate crowdin ev_071_740f4788:
 
     # Max 13 "Просто сразу зови меня, как тогда ночью и всё. Я разберусь."
     Max 13 "Просто сразу зови меня, как тогда ночью и всё. Я разберусь."
 
-# game/scripts/story_01/arachnophobia.rpy:703
+# game/scripts/story_01/arachnophobia.rpy:704
 translate crowdin ev_071_005cef43:
 
     # Alice 15 "То, что ты разберёшься, я знаю. Вот только я всё время оказываюсь в крайне неудобном положении при этом..."
     Alice 15 "То, что ты разберёшься, я знаю. Вот только я всё время оказываюсь в крайне неудобном положении при этом..."
 
-# game/scripts/story_01/arachnophobia.rpy:704
+# game/scripts/story_01/arachnophobia.rpy:705
 translate crowdin ev_071_fa11ed73:
 
     # Max 11 "Ой, подумаешь... Зато потом всё спокойно!"
     Max 11 "Ой, подумаешь... Зато потом всё спокойно!"
 
-# game/scripts/story_01/arachnophobia.rpy:705
+# game/scripts/story_01/arachnophobia.rpy:706
 translate crowdin ev_071_9da4397f:
 
     # Alice 02 "Да, одно утешение. Как бы там ни было, я тебе признательна за помощь."
     Alice 02 "Да, одно утешение. Как бы там ни было, я тебе признательна за помощь."
 
-# game/scripts/story_01/arachnophobia.rpy:709
+# game/scripts/story_01/arachnophobia.rpy:710
 translate crowdin ev_071_88435f22:
 
     # tMax 04 "Вот и хорошо! Как раз этого я и добивался. Теперь можно попробовать быть понахальнее с Алисой не боясь, что она меня прибьёт."
     tMax 04 "Вот и хорошо! Как раз этого я и добивался. Теперь можно попробовать быть понахальнее с Алисой не боясь, что она меня прибьёт."
 
-# game/scripts/story_01/arachnophobia.rpy:711
+# game/scripts/story_01/arachnophobia.rpy:712
 translate crowdin ev_071_9b8f70fa:
 
     # tMax 11 "Конечно, нахальнее до относительно разумных пределов. Вроде, я где-то слышал, что стервозные девчонки именно такое и любят отношение к себе..." nointeract
     tMax 11 "Конечно, нахальнее до относительно разумных пределов. Вроде, я где-то слышал, что стервозные девчонки именно такое и любят отношение к себе..." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:731
+# game/scripts/story_01/arachnophobia.rpy:732
 translate crowdin ev_074_6346f7cd:
 
     # Max 11 "Э-э-э... Алиса, ты только не пугайся, но у нас тут одна проблемка подкралась..."
     Max 11 "Э-э-э... Алиса, ты только не пугайся, но у нас тут одна проблемка подкралась..."
 
-# game/scripts/story_01/arachnophobia.rpy:732
+# game/scripts/story_01/arachnophobia.rpy:733
 translate crowdin ev_074_6b14c591:
 
     # Alice 12 "Что? Подкралась?! Это же не то, о чём я подумала?"
     Alice 12 "Что? Подкралась?! Это же не то, о чём я подумала?"
 
-# game/scripts/story_01/arachnophobia.rpy:733
+# game/scripts/story_01/arachnophobia.rpy:734
 translate crowdin ev_074_6fbf3e27:
 
     # Max 01 "Ну... Ты лучше не дёргайся!"
     Max 01 "Ну... Ты лучше не дёргайся!"
 
-# game/scripts/story_01/arachnophobia.rpy:746
+# game/scripts/story_01/arachnophobia.rpy:747
 translate crowdin ev_074_jumps_1f65ac07:
 
     # Alice 14 "А-а-а! Макс! Вот чёрт! Какой он здоровенный!"
     Alice 14 "А-а-а! Макс! Вот чёрт! Какой он здоровенный!"
 
-# game/scripts/story_01/arachnophobia.rpy:747
+# game/scripts/story_01/arachnophobia.rpy:748
 translate crowdin ev_074_jumps_6b66e73b:
 
     # Max 11 "И не говори!"
     Max 11 "И не говори!"
 
-# game/scripts/story_01/arachnophobia.rpy:748
+# game/scripts/story_01/arachnophobia.rpy:749
 translate crowdin ev_074_jumps_80cec4c7:
 
     # Alice 15 "Макс, и что ты встал-то?! Убери его отсюда! Быстро!!!"
     Alice 15 "Макс, и что ты встал-то?! Убери его отсюда! Быстро!!!"
 
-# game/scripts/story_01/arachnophobia.rpy:749
+# game/scripts/story_01/arachnophobia.rpy:750
 translate crowdin ev_074_jumps_0d8880fd:
 
     # Max 02 "Да мне как-то не хочется."
     Max 02 "Да мне как-то не хочется."
 
-# game/scripts/story_01/arachnophobia.rpy:753
+# game/scripts/story_01/arachnophobia.rpy:754
 translate crowdin ev_074_jumps_48f0d31b:
 
     # Alice 14 "В смысле, не хочется?! Охренеть, он страшный!!!"
     Alice 14 "В смысле, не хочется?! Охренеть, он страшный!!!"
 
-# game/scripts/story_01/arachnophobia.rpy:754
+# game/scripts/story_01/arachnophobia.rpy:755
 translate crowdin ev_074_jumps_1339ed5c:
 
     # Max 04 "А мне нравится, как ты устроилась. К тому же он, похоже, сваливает отсюда. Ну да, вон он в сторону пополз..."
     Max 04 "А мне нравится, как ты устроилась. К тому же он, похоже, сваливает отсюда. Ну да, вон он в сторону пополз..."
 
-# game/scripts/story_01/arachnophobia.rpy:756
+# game/scripts/story_01/arachnophobia.rpy:757
 translate crowdin ev_074_jumps_120111ae:
 
     # Alice 12 "Да плевать мне, куда он ползёт! Я хочу, чтобы его не было!" nointeract
     Alice 12 "Да плевать мне, куда он ползёт! Я хочу, чтобы его не было!" nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:765
+# game/scripts/story_01/arachnophobia.rpy:766
 translate crowdin ev_074_jumps_b7795481:
 
     # Alice 14 "Ой-ё-ёй! Может, если мы будем просто стоять и не двигаться, то он свалит?"
     Alice 14 "Ой-ё-ёй! Может, если мы будем просто стоять и не двигаться, то он свалит?"
 
-# game/scripts/story_01/arachnophobia.rpy:766
+# game/scripts/story_01/arachnophobia.rpy:767
 translate crowdin ev_074_jumps_8df5ce4c:
 
     # Max 13 "Ты определись уже, чего хочешь? Я бы просто немного подождал, он должен в траву спрятаться от такой жары..."
     Max 13 "Ты определись уже, чего хочешь? Я бы просто немного подождал, он должен в траву спрятаться от такой жары..."
 
-# game/scripts/story_01/arachnophobia.rpy:770
+# game/scripts/story_01/arachnophobia.rpy:771
 translate crowdin ev_074_jumps_06bd7e25:
 
     # Alice 12 "Ты уверен?!"
     Alice 12 "Ты уверен?!"
 
-# game/scripts/story_01/arachnophobia.rpy:771
+# game/scripts/story_01/arachnophobia.rpy:772
 translate crowdin ev_074_jumps_ef5265c4:
 
     # Max 03 "Ага. Видишь? Он уже там, около газона..."
     Max 03 "Ага. Видишь? Он уже там, около газона..."
 
-# game/scripts/story_01/arachnophobia.rpy:772
+# game/scripts/story_01/arachnophobia.rpy:773
 translate crowdin ev_074_jumps_b0a3b170:
 
     # Alice 11 "Вижу... А ещё я вижу, что твои руки совсем обнаглели! Отцепись от моей груди, Макс! Пока я тебе не устроила..." nointeract
     Alice 11 "Вижу... А ещё я вижу, что твои руки совсем обнаглели! Отцепись от моей груди, Макс! Пока я тебе не устроила..." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:778
+# game/scripts/story_01/arachnophobia.rpy:779
 translate crowdin ev_074_jumps_c733b5b5:
 
     # Alice 15 "Не-е-ет, он тогда сразу ко мне поползёт! Что я их, не знаю что ли..."
     Alice 15 "Не-е-ет, он тогда сразу ко мне поползёт! Что я их, не знаю что ли..."
 
-# game/scripts/story_01/arachnophobia.rpy:779
+# game/scripts/story_01/arachnophobia.rpy:780
 translate crowdin ev_074_jumps_8df5ce4c_1:
 
     # Max 13 "Ты определись уже, чего хочешь? Я бы просто немного подождал, он должен в траву спрятаться от такой жары..."
     Max 13 "Ты определись уже, чего хочешь? Я бы просто немного подождал, он должен в траву спрятаться от такой жары..."
 
-# game/scripts/story_01/arachnophobia.rpy:783
+# game/scripts/story_01/arachnophobia.rpy:784
 translate crowdin ev_074_jumps_06bd7e25_1:
 
     # Alice 12 "Ты уверен?!"
     Alice 12 "Ты уверен?!"
 
-# game/scripts/story_01/arachnophobia.rpy:784
+# game/scripts/story_01/arachnophobia.rpy:785
 translate crowdin ev_074_jumps_ef5265c4_1:
 
     # Max 03 "Ага. Видишь? Он уже там, около газона..."
     Max 03 "Ага. Видишь? Он уже там, около газона..."
 
-# game/scripts/story_01/arachnophobia.rpy:785
+# game/scripts/story_01/arachnophobia.rpy:786
 translate crowdin ev_074_jumps_a4fad0d6:
 
     # Alice 11 "Вижу... А ещё я вижу, что твои руки совсем обнаглели! Отцепись от моей задницы, Макс! Пока я тебе не устроила..." nointeract
     Alice 11 "Вижу... А ещё я вижу, что твои руки совсем обнаглели! Отцепись от моей задницы, Макс! Пока я тебе не устроила..." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:791
+# game/scripts/story_01/arachnophobia.rpy:792
 translate crowdin ev_074_jumps_fe787fef:
 
     # Alice 15 "Да уж конечно! Ведь тогда можно будет и дальше меня за попу держать, да?"
     Alice 15 "Да уж конечно! Ведь тогда можно будет и дальше меня за попу держать, да?"
 
-# game/scripts/story_01/arachnophobia.rpy:792
+# game/scripts/story_01/arachnophobia.rpy:793
 translate crowdin ev_074_jumps_9a639e51:
 
     # Max 01 "Мы же с тобой не хотим, чтобы до неё паук допрыгнул?"
     Max 01 "Мы же с тобой не хотим, чтобы до неё паук допрыгнул?"
 
-# game/scripts/story_01/arachnophobia.rpy:793
+# game/scripts/story_01/arachnophobia.rpy:794
 translate crowdin ev_074_jumps_9b052b88:
 
     # Alice 14 "Так он же, вроде, куда-то в сторону уползал?! Разве нет?"
     Alice 14 "Так он же, вроде, куда-то в сторону уползал?! Разве нет?"
 
-# game/scripts/story_01/arachnophobia.rpy:794
+# game/scripts/story_01/arachnophobia.rpy:795
 translate crowdin ev_074_jumps_23a4a7fd:
 
     # Max 04 "Ах да, точно! Он же уже в траву спрятался от такой жары... Видишь?"
     Max 04 "Ах да, точно! Он же уже в траву спрятался от такой жары... Видишь?"
 
-# game/scripts/story_01/arachnophobia.rpy:795
+# game/scripts/story_01/arachnophobia.rpy:796
 translate crowdin ev_074_jumps_a4fad0d6_1:
 
     # Alice 11 "Вижу... А ещё я вижу, что твои руки совсем обнаглели! Отцепись от моей задницы, Макс! Пока я тебе не устроила..." nointeract
     Alice 11 "Вижу... А ещё я вижу, что твои руки совсем обнаглели! Отцепись от моей задницы, Макс! Пока я тебе не устроила..." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:803
+# game/scripts/story_01/arachnophobia.rpy:804
 translate crowdin ev_074_back_1f65ac07:
 
     # Alice 14 "А-а-а! Макс! Вот чёрт! Какой он здоровенный!"
     Alice 14 "А-а-а! Макс! Вот чёрт! Какой он здоровенный!"
 
-# game/scripts/story_01/arachnophobia.rpy:804
+# game/scripts/story_01/arachnophobia.rpy:805
 translate crowdin ev_074_back_6b66e73b:
 
     # Max 11 "И не говори!"
     Max 11 "И не говори!"
 
-# game/scripts/story_01/arachnophobia.rpy:805
+# game/scripts/story_01/arachnophobia.rpy:806
 translate crowdin ev_074_back_80cec4c7:
 
     # Alice 15 "Макс, и что ты встал-то?! Убери его отсюда! Быстро!!!"
     Alice 15 "Макс, и что ты встал-то?! Убери его отсюда! Быстро!!!"
 
-# game/scripts/story_01/arachnophobia.rpy:806
+# game/scripts/story_01/arachnophobia.rpy:807
 translate crowdin ev_074_back_0d8880fd:
 
     # Max 02 "Да мне как-то не хочется."
     Max 02 "Да мне как-то не хочется."
 
-# game/scripts/story_01/arachnophobia.rpy:810
+# game/scripts/story_01/arachnophobia.rpy:811
 translate crowdin ev_074_back_48f0d31b:
 
     # Alice 14 "В смысле, не хочется?! Охренеть, он страшный!!!"
     Alice 14 "В смысле, не хочется?! Охренеть, он страшный!!!"
 
-# game/scripts/story_01/arachnophobia.rpy:811
+# game/scripts/story_01/arachnophobia.rpy:812
 translate crowdin ev_074_back_b0966d9e:
 
     # Max 04 "А смысл мне его ловить, когда он и так сваливает отсюда? По крайней мере, мне так кажется. Ну да, вон он в сторону пополз..."
     Max 04 "А смысл мне его ловить, когда он и так сваливает отсюда? По крайней мере, мне так кажется. Ну да, вон он в сторону пополз..."
 
-# game/scripts/story_01/arachnophobia.rpy:813
+# game/scripts/story_01/arachnophobia.rpy:814
 translate crowdin ev_074_back_120111ae:
 
     # Alice 12 "Да плевать мне, куда он ползёт! Я хочу, чтобы его не было!" nointeract
     Alice 12 "Да плевать мне, куда он ползёт! Я хочу, чтобы его не было!" nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:821
+# game/scripts/story_01/arachnophobia.rpy:822
 translate crowdin ev_074_back_c9ec1c9a:
 
     # Alice 14 "Не-е-ет, только не это! Сделай с ним что-нибудь, Макс!"
     Alice 14 "Не-е-ет, только не это! Сделай с ним что-нибудь, Макс!"
 
-# game/scripts/story_01/arachnophobia.rpy:822
+# game/scripts/story_01/arachnophobia.rpy:823
 translate crowdin ev_074_back_126a468b:
 
     # Max 13 "И как ты себе это представляешь? Я бы просто немного подождал, он должен в траву спрятаться от такой жары..."
     Max 13 "И как ты себе это представляешь? Я бы просто немного подождал, он должен в траву спрятаться от такой жары..."
 
-# game/scripts/story_01/arachnophobia.rpy:826
+# game/scripts/story_01/arachnophobia.rpy:827
 translate crowdin ev_074_back_06bd7e25:
 
     # Alice 12 "Ты уверен?!"
     Alice 12 "Ты уверен?!"
 
-# game/scripts/story_01/arachnophobia.rpy:827
+# game/scripts/story_01/arachnophobia.rpy:828
 translate crowdin ev_074_back_ef5265c4:
 
     # Max 03 "Ага. Видишь? Он уже там, около газона..."
     Max 03 "Ага. Видишь? Он уже там, около газона..."
 
-# game/scripts/story_01/arachnophobia.rpy:828
+# game/scripts/story_01/arachnophobia.rpy:829
 translate crowdin ev_074_back_a4fad0d6:
 
     # Alice 11 "Вижу... А ещё я вижу, что твои руки совсем обнаглели! Отцепись от моей задницы, Макс! Пока я тебе не устроила..." nointeract
     Alice 11 "Вижу... А ещё я вижу, что твои руки совсем обнаглели! Отцепись от моей задницы, Макс! Пока я тебе не устроила..." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:834
+# game/scripts/story_01/arachnophobia.rpy:835
 translate crowdin ev_074_back_b7795481:
 
     # Alice 14 "Ой-ё-ёй! Может, если мы будем просто стоять и не двигаться, то он свалит?"
     Alice 14 "Ой-ё-ёй! Может, если мы будем просто стоять и не двигаться, то он свалит?"
 
-# game/scripts/story_01/arachnophobia.rpy:835
+# game/scripts/story_01/arachnophobia.rpy:836
 translate crowdin ev_074_back_16166030:
 
     # Max 13 "Сейчас узнаем. Он должен в траву спрятаться от такой жары..."
     Max 13 "Сейчас узнаем. Он должен в траву спрятаться от такой жары..."
 
-# game/scripts/story_01/arachnophobia.rpy:839
+# game/scripts/story_01/arachnophobia.rpy:840
 translate crowdin ev_074_back_06bd7e25_1:
 
     # Alice 12 "Ты уверен?!"
     Alice 12 "Ты уверен?!"
 
-# game/scripts/story_01/arachnophobia.rpy:840
+# game/scripts/story_01/arachnophobia.rpy:841
 translate crowdin ev_074_back_ef5265c4_1:
 
     # Max 03 "Ага. Видишь? Он уже там, около газона..."
     Max 03 "Ага. Видишь? Он уже там, около газона..."
 
-# game/scripts/story_01/arachnophobia.rpy:841
+# game/scripts/story_01/arachnophobia.rpy:842
 translate crowdin ev_074_back_b0a3b170:
 
     # Alice 11 "Вижу... А ещё я вижу, что твои руки совсем обнаглели! Отцепись от моей груди, Макс! Пока я тебе не устроила..." nointeract
     Alice 11 "Вижу... А ещё я вижу, что твои руки совсем обнаглели! Отцепись от моей груди, Макс! Пока я тебе не устроила..." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:847
+# game/scripts/story_01/arachnophobia.rpy:848
 translate crowdin ev_074_back_b14068bc:
 
     # Alice 15 "А я вот смотрю руки твои ждать не стали и лапают меня везде, куда только дотягиваются!"
     Alice 15 "А я вот смотрю руки твои ждать не стали и лапают меня везде, куда только дотягиваются!"
 
-# game/scripts/story_01/arachnophobia.rpy:848
+# game/scripts/story_01/arachnophobia.rpy:849
 translate crowdin ev_074_back_ebf2a4fd:
 
     # Max 01 "Я прикрываю всё то, что паук может посчитать соблазнительным для нападения."
     Max 01 "Я прикрываю всё то, что паук может посчитать соблазнительным для нападения."
 
-# game/scripts/story_01/arachnophobia.rpy:849
+# game/scripts/story_01/arachnophobia.rpy:850
 translate crowdin ev_074_back_9b052b88:
 
     # Alice 14 "Так он же, вроде, куда-то в сторону уползал?! Разве нет?"
     Alice 14 "Так он же, вроде, куда-то в сторону уползал?! Разве нет?"
 
-# game/scripts/story_01/arachnophobia.rpy:850
+# game/scripts/story_01/arachnophobia.rpy:851
 translate crowdin ev_074_back_23a4a7fd:
 
     # Max 04 "Ах да, точно! Он же уже в траву спрятался от такой жары... Видишь?"
     Max 04 "Ах да, точно! Он же уже в траву спрятался от такой жары... Видишь?"
 
-# game/scripts/story_01/arachnophobia.rpy:851
+# game/scripts/story_01/arachnophobia.rpy:852
 translate crowdin ev_074_back_b0a3b170_1:
 
     # Alice 11 "Вижу... А ещё я вижу, что твои руки совсем обнаглели! Отцепись от моей груди, Макс! Пока я тебе не устроила..." nointeract
     Alice 11 "Вижу... А ещё я вижу, что твои руки совсем обнаглели! Отцепись от моей груди, Макс! Пока я тебе не устроила..." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:862
+# game/scripts/story_01/arachnophobia.rpy:863
 translate crowdin ev_074_playful_hands_abea4a7a:
 
     # Alice 04 "Какой ты послушный! Раз так, то ещё посматривай временами, чтобы в мою сторону никто больше не полз."
     Alice 04 "Какой ты послушный! Раз так, то ещё посматривай временами, чтобы в мою сторону никто больше не полз."
 
-# game/scripts/story_01/arachnophobia.rpy:863
+# game/scripts/story_01/arachnophobia.rpy:864
 translate crowdin ev_074_playful_hands_caa4933d:
 
     # Max 03 "Хорошо. А ты, если соскучишься, зови. На меня можно хоть весь день запрыгивать."
     Max 03 "Хорошо. А ты, если соскучишься, зови. На меня можно хоть весь день запрыгивать."
 
-# game/scripts/story_01/arachnophobia.rpy:864
+# game/scripts/story_01/arachnophobia.rpy:865
 translate crowdin ev_074_playful_hands_b0c0e906:
 
     # Alice 02 "Тебе хватит. Не обольщайся..."
     Alice 02 "Тебе хватит. Не обольщайся..."
 
-# game/scripts/story_01/arachnophobia.rpy:866
+# game/scripts/story_01/arachnophobia.rpy:867
 translate crowdin ev_074_playful_hands_226028e6:
 
     # Max 01 "Как хочешь." nointeract
     Max 01 "Как хочешь." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:873
+# game/scripts/story_01/arachnophobia.rpy:874
 translate crowdin ev_074_playful_hands_2a24dbf8:
 
     # Alice 16 "Я ведь тебя предупреждала! Наверно, раз до тебя не дошло, то нужно крутануть ухо посильнее..."
     Alice 16 "Я ведь тебя предупреждала! Наверно, раз до тебя не дошло, то нужно крутануть ухо посильнее..."
 
-# game/scripts/story_01/arachnophobia.rpy:874
+# game/scripts/story_01/arachnophobia.rpy:875
 translate crowdin ev_074_playful_hands_ad924ddc:
 
     # Max 15 "А-а-ай! Мне же больно, Алиса! Перестань!"
     Max 15 "А-а-ай! Мне же больно, Алиса! Перестань!"
 
-# game/scripts/story_01/arachnophobia.rpy:876
+# game/scripts/story_01/arachnophobia.rpy:877
 translate crowdin ev_074_playful_hands_6a9cfb51:
 
     # Alice 11 "Всё, давай, шуруй отсюда. Бегом! А то я живо тебе по заднице напинаю!" nointeract
     Alice 11 "Всё, давай, шуруй отсюда. Бегом! А то я живо тебе по заднице напинаю!" nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:891
+# game/scripts/story_01/arachnophobia.rpy:892
 translate crowdin ev_076_f2c1fea3:
 
     # Alice 01 "Спасибо, буду знать. А теперь кыш, я сейчас буду переодеваться к завтраку..." nointeract
     Alice 01 "Спасибо, буду знать. А теперь кыш, я сейчас буду переодеваться к завтраку..." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:896
+# game/scripts/story_01/arachnophobia.rpy:897
 translate crowdin ev_076_67a71c3f:
 
     # Alice 11 "Макс, ты слышал, что я сказала? Я сейчас буду переодеваться и ты мне тут совершенно не нужен." nointeract
     Alice 11 "Макс, ты слышал, что я сказала? Я сейчас буду переодеваться и ты мне тут совершенно не нужен." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:909
+# game/scripts/story_01/arachnophobia.rpy:910
 translate crowdin ev_076_3dfd4f9e:
 
     # Alice 02 "Вот и прекрасно. Дверь закрой!" nointeract
     Alice 02 "Вот и прекрасно. Дверь закрой!" nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:917
+# game/scripts/story_01/arachnophobia.rpy:918
 translate crowdin ev_076_lvl_0_d4054a11:
 
     # Alice 06 "Да? Ну, если очень хочется, то можешь остаться и посмотреть..."
     Alice 06 "Да? Ну, если очень хочется, то можешь остаться и посмотреть..."
 
-# game/scripts/story_01/arachnophobia.rpy:918
+# game/scripts/story_01/arachnophobia.rpy:919
 translate crowdin ev_076_lvl_0_a0d42b38:
 
     # Max 05 "Правда?!"
     Max 05 "Правда?!"
 
-# game/scripts/story_01/arachnophobia.rpy:920
+# game/scripts/story_01/arachnophobia.rpy:921
 translate crowdin ev_076_lvl_0_2536cf0b:
 
     # Alice 11 "Конечно нет! Ты дурак что ли, Макс?! Иди давай отсюда и дверь за собой закрой..." nointeract
     Alice 11 "Конечно нет! Ты дурак что ли, Макс?! Иди давай отсюда и дверь за собой закрой..." nointeract
 
-# game/scripts/story_01/arachnophobia.rpy:926
+# game/scripts/story_01/arachnophobia.rpy:927
 translate crowdin ev_076_lvl_1_d4054a11:
 
     # Alice 06 "Да? Ну, если очень хочется, то можешь остаться и посмотреть..."
     Alice 06 "Да? Ну, если очень хочется, то можешь остаться и посмотреть..."
 
-# game/scripts/story_01/arachnophobia.rpy:927
+# game/scripts/story_01/arachnophobia.rpy:928
 translate crowdin ev_076_lvl_1_6bccd5bd:
 
     # Max 04 "Очень хочу!"
     Max 04 "Очень хочу!"
 
-# game/scripts/story_01/arachnophobia.rpy:929
+# game/scripts/story_01/arachnophobia.rpy:930
 translate crowdin ev_076_lvl_1_3379a11e:
 
     # Alice 04 "А вот обойдёшься! Маленький ещё для такого. Иди давай отсюда и дверь за собой закрой..." nointeract
@@ -1618,55 +1618,55 @@ translate crowdin strings:
     old "{i}идти спать{/i}"
     new "{i}идти спать{/i}"
 
-    # game/scripts/story_01/arachnophobia.rpy:479
+    # game/scripts/story_01/arachnophobia.rpy:480
     old "Покажи свою грудь и я его уберу!"
     new "Покажи свою грудь и я его уберу!"
 
-    # game/scripts/story_01/arachnophobia.rpy:479
+    # game/scripts/story_01/arachnophobia.rpy:480
     old "Приспусти трусики на своей попке и я его уберу!"
     new "Приспусти трусики на своей попке и я его уберу!"
 
-    # game/scripts/story_01/arachnophobia.rpy:479
+    # game/scripts/story_01/arachnophobia.rpy:480
     old "Знаешь, ничего. Я сегодня добрый, так поймаю..."
     new "Знаешь, ничего. Я сегодня добрый, так поймаю..."
 
-    # game/scripts/story_01/arachnophobia.rpy:592
+    # game/scripts/story_01/arachnophobia.rpy:593
     old "А сиськи за это покажешь?"
     new "А сиськи за это покажешь?"
 
-    # game/scripts/story_01/arachnophobia.rpy:681
+    # game/scripts/story_01/arachnophobia.rpy:682
     old "{i}перестать лапать Алису{/i}"
     new "{i}перестать лапать Алису{/i}"
 
-    # game/scripts/story_01/arachnophobia.rpy:715
+    # game/scripts/story_01/arachnophobia.rpy:716
     old "Задание «Арахнофобия» завершено!"
     new "Задание «Арахнофобия» завершено!"
 
-    # game/scripts/story_01/arachnophobia.rpy:755
+    # game/scripts/story_01/arachnophobia.rpy:756
     old "Ладно, тогда слезай, я с ним разберусь..."
     new "Ладно, тогда слезай, я с ним разберусь..."
 
-    # game/scripts/story_01/arachnophobia.rpy:755
+    # game/scripts/story_01/arachnophobia.rpy:756
     old "Я бы просто немного подождал..."
     new "Я бы просто немного подождал..."
 
-    # game/scripts/story_01/arachnophobia.rpy:812
+    # game/scripts/story_01/arachnophobia.rpy:813
     old "Он остановился! Сейчас может развернуться и на нас побежать..."
     new "Он остановился! Сейчас может развернуться и на нас побежать..."
 
-    # game/scripts/story_01/arachnophobia.rpy:854
+    # game/scripts/story_01/arachnophobia.rpy:855
     old "{i}лапать Алису дальше{/i}"
     new "{i}лапать Алису дальше{/i}"
 
-    # game/scripts/story_01/arachnophobia.rpy:890
+    # game/scripts/story_01/arachnophobia.rpy:891
     old "{i}присесть на кровать{/i}"
     new "{i}присесть на кровать{/i}"
 
-    # game/scripts/story_01/arachnophobia.rpy:895
+    # game/scripts/story_01/arachnophobia.rpy:896
     old "Жалко! А я бы на это посмотрел..."
     new "Жалко! А я бы на это посмотрел..."
 
-    # game/scripts/story_01/arachnophobia.rpy:895
+    # game/scripts/story_01/arachnophobia.rpy:896
     old "Жалко! Тогда не буду мешать..."
     new "Жалко! Тогда не буду мешать..."
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-01-24 03:02
+﻿# TODO: Translation updated at 2024-02-14 20:38
 
 translate crowdin strings:
 
@@ -42,23 +42,31 @@ translate crowdin strings:
     old "Паук найден!"
     new "Паук найден!"
 
-    # game/scripts/engine/skils.rpy:199
+    # game/scripts/engine/skils.rpy:190
+    old "Ей понравился массаж!"
+    new "Ей понравился массаж!"
+
+    # game/scripts/engine/skils.rpy:200
     old "Я чуть не попался!"
     new "Я чуть не попался!"
 
-    # game/scripts/engine/skils.rpy:199
+    # game/scripts/engine/skils.rpy:200
     old "Мне не стоит это делать!"
     new "Мне не стоит это делать!"
 
-    # game/scripts/engine/skils.rpy:199
+    # game/scripts/engine/skils.rpy:200
     old "Вот чёрт, я попался!"
     new "Вот чёрт, я попался!"
 
-    # game/scripts/engine/skils.rpy:199
+    # game/scripts/engine/skils.rpy:200
     old "Убеждение не удалось!"
     new "Убеждение не удалось!"
 
-    # game/scripts/engine/skils.rpy:199
+    # game/scripts/engine/skils.rpy:200
     old "Безрезультатно!"
     new "Безрезультатно!"
+
+    # game/scripts/engine/skils.rpy:200
+    old "Ей не понравился массаж!"
+    new "Ей не понравился массаж!"
 

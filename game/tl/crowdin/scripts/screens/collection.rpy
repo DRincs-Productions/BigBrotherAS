@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-01-09 23:01
+﻿# TODO: Translation updated at 2024-02-14 20:38
 
 translate crowdin strings:
 
@@ -18,51 +18,51 @@ translate crowdin strings:
     old "Вернуться"
     new "Вернуться"
 
-    # game/scripts/screens/collection.rpy:118
+    # game/scripts/screens/collection.rpy:122
     old "Предыдущая"
     new "Предыдущая"
 
-    # game/scripts/screens/collection.rpy:121
+    # game/scripts/screens/collection.rpy:125
     old "Неподозревающая"
     new "Неподозревающая"
 
-    # game/scripts/screens/collection.rpy:123
+    # game/scripts/screens/collection.rpy:127
     old "Удивлённая"
     new "Удивлённая"
 
-    # game/scripts/screens/collection.rpy:125
+    # game/scripts/screens/collection.rpy:129
     old "Сердитая"
     new "Сердитая"
 
-    # game/scripts/screens/collection.rpy:127
+    # game/scripts/screens/collection.rpy:131
     old "Сильно стесняющаяся"
     new "Сильно стесняющаяся"
 
-    # game/scripts/screens/collection.rpy:129
+    # game/scripts/screens/collection.rpy:133
     old "Стесняющаяся"
     new "Стесняющаяся"
 
-    # game/scripts/screens/collection.rpy:131
+    # game/scripts/screens/collection.rpy:135
     old "!!! ОШИБКА !!!"
     new "!!! ОШИБКА !!!"
 
-    # game/scripts/screens/collection.rpy:149
+    # game/scripts/screens/collection.rpy:154
     old "Следующая"
     new "Следующая"
 
-    # game/scripts/screens/collection.rpy:180
+    # game/scripts/screens/collection.rpy:185
     old "Макс ещё не видел Алису такой!"
     new "Макс ещё не видел Алису такой!"
 
-    # game/scripts/screens/collection.rpy:182
+    # game/scripts/screens/collection.rpy:187
     old "Макс ещё не видел маму такой!"
     new "Макс ещё не видел маму такой!"
 
-    # game/scripts/screens/collection.rpy:184
+    # game/scripts/screens/collection.rpy:189
     old "Макс ещё не видел Лизу такой!"
     new "Макс ещё не видел Лизу такой!"
 
-    # game/scripts/screens/collection.rpy:254
-    old "Этот сон ещё не открыт."
-    new "Этот сон ещё не открыт."
+    # game/scripts/screens/collection.rpy:259
+    old "Этот сон ещё не открыт!"
+    new "Этот сон ещё не открыт!"
 
