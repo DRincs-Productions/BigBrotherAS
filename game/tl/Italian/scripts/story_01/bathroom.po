@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-02-26 08:58\n"
+"PO-Revision-Date: 2024-02-26 11:47\n"
 
 # TODO: Translation updated at 2024-02-14 20:38 #|#|# # game/scripts/story_01/bathroom.rpy:10 #-#-# translate crowdin ev_ann_shower_c167172f:
 msgid "[_tMax_s_11_] Сейчас ванная комната должна быть занята мамой... [nointeract]"
@@ -886,7 +886,7 @@ msgstr "[_tMax_s_11_] Forse, visto che Alice ha molta paura dei ragni, potrei in
 
 # game/scripts/story_01/bathroom.rpy:1559 #-#-# translate crowdin ev_090_c033adf1:
 msgid "[_tMax_s_11_] Эх, я уже третий день живу в доме с такими большими окнами и до сих пор не попробовал подсмотреть через одно из них за кем-нибудь в ванной. А ведь там сейчас мама... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_11_] Eh, vivo già da tre giorni in una casa con delle finestre così grandi e non ho ancora provato a sbirciare attraverso una di esse qualcuno nel bagno. E lì c’è ora mia madre… [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:1566 #-#-# translate crowdin ev_090_4540e23f:
 msgid "[_tMax_s_14_] Эх... Жаль, что на стеклах есть эти скрывающие полоски. Самое интересное не разглядеть. А если подобраться ближе, то мама наверняка меня заметит..."
@@ -1019,5 +1019,5 @@ msgstr "Scusa... Volevo solo guardare le tette!"
 
 # game/scripts/story_01/bathroom.rpy:1558
 msgid "{i}заглянуть в ванную комнату со двора{/i}"
-msgstr ""
+msgstr "{i}guardare il bagno dal cortile{/i}"
 
