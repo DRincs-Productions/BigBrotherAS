@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-15 15:45\n"
+"PO-Revision-Date: 2024-02-26 08:59\n"
 
-# TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/hidden_cams.rpy:12 #-#-# translate crowdin ev_003_089bb89e:
+# TODO: Translation updated at 2024-02-14 20:38 #|#|# # game/scripts/story_01/hidden_cams.rpy:12 #-#-# translate crowdin ev_003_089bb89e:
 msgid "[_tMax_s_13_] Так, мама попросила разобрать коробки. Сейчас глянем, что тут у нас..."
 msgstr "[_tMax_s_13_] Vale, mamá me ha pedido que deshaga las cajas. Vamos a ver lo que tenemos aquí..."
 
@@ -76,6 +76,46 @@ msgstr "[_tMax_s_11_] Pero es poco probable que gane mucho dinero emitiendo desd
 msgid "[_tMax_s_13_] И я знаю, в первую очередь, куда! Что меня сильно расстраивает, так это то, что мама занимается йогой в то же время, что и Лиза принимает душ. Подглядывать в это время за моей младшей сестрёнкой вдвойне опасно. Вот туда-то я и поставлю скрытую камеру!"
 msgstr "[_tMax_s_13_] ¡Y ya sé a dónde ir antes que nada! Lo realmente molesto es que mamá está haciendo yoga al mismo tiempo que Lisa se está duchando. Es doblemente peligroso espiar a mi hermana pequeña. ¡Ahí es donde voy a poner la cámara oculta!"
 
+# game/scripts/story_01/hidden_cams.rpy:88 #-#-# translate crowdin ev_030_71d509bc:
+msgid "[_tMax_s_16_] Правда, если придётся устанавливать камеру под потолок, как это сделано в гостиной, то мне понадобится ещё и стремянка. Ох, придётся подкопить немало деньжат..."
+msgstr ""
+
+# game/scripts/story_01/hidden_cams.rpy:120 #-#-# translate crowdin ev_install_cam_not_time_de1b0ce2:
+msgid "[_tMax_s_13_] Сейчас не лучшее время, чтобы устанавливать скрытую камеру!"
+msgstr ""
+
+# game/scripts/story_01/hidden_cams.rpy:124 #-#-# translate crowdin ev_install_cam_many_people_28c0be59:
+msgid "[_tMax_s_13_] Сейчас не лучшее время, чтобы устанавливать скрытую камеру! В доме слишком много народа..."
+msgstr ""
+
+# game/scripts/story_01/hidden_cams.rpy:133 #-#-# translate crowdin ev_install_cam_bathroom_1_b838c286:
+msgid "[_tMax_s_12_] Сейчас постараюсь спрятать эту камеру как можно лучше, пока Алиса не спустилась во двор. Вроде, получается..."
+msgstr ""
+
+# game/scripts/story_01/hidden_cams.rpy:135 #-#-# translate crowdin ev_install_cam_bathroom_1_e68feba9:
+msgid "[_tMax_s_12_] Сейчас постараюсь спрятать эту камеру как можно лучше, пока дома никого нет. Вроде, получается..."
+msgstr ""
+
+# game/scripts/story_01/hidden_cams.rpy:136 #-#-# translate crowdin ev_install_cam_bathroom_1_5aac82a5:
+msgid "[_tMax_s_03_] В кадр как раз будет попадать то, что происходит в душе и ванне, да и мне не обязательно будет теперь рисковать, чтобы увидеть голеньких и мокрых сестёр или маму. Готово!"
+msgstr ""
+
+# game/scripts/story_01/hidden_cams.rpy:141 #-#-# translate crowdin ev_install_cam_bathroom_1_71ff42cb:
+msgid "[_tMax_s_11_] Конечно, с точки зрения морали ставить камеру в ванной комнате сомнительно. Однако, тут и так окно во всю стену. Так что, формально я лишь приоткрыл это окно... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/hidden_cams.rpy:146 #-#-# translate crowdin ev_install_cam_bathroom_1_d1974012:
+msgid "[_tMax_s_12_] Ещё надо подключить эту камеру и разобраться во всех настройках. Сложного тут ничего нет, но немного повозиться придётся..."
+msgstr ""
+
+# game/scripts/story_01/hidden_cams.rpy:150 #-#-# translate crowdin ev_install_cam_bathroom_1_6d1a29c9:
+msgid "[_tMax_s_04_] Вот всё и заработало! Теперь, благодаря камере в ванной комнате, мой сайт должен приносить побольше дохода, чем было. Да и на мокрые сисечки всегда приятно посмотреть, теперь ещё и с комфортом."
+msgstr ""
+
+# game/scripts/story_01/hidden_cams.rpy:151 #-#-# translate crowdin ev_install_cam_bathroom_1_7c9e4204:
+msgid "[_tMax_s_13_] Правда, подглядывать в окна или заглядывать в комнаты всё равно временами нужно, а то я всю сноровку растеряю и меня станут ловить на раз-два..."
+msgstr ""
+
 # §translate crowdin strings: #|#|# # game/scripts/story_01/hidden_cams.rpy:28
 msgid "Задание «Любопытное содержимое» обновлено!"
 msgstr "Se ha actualizado la oportunidad de «Contenidos curiosos»!"
@@ -100,11 +140,15 @@ msgstr "{i}En otro momento..."
 msgid "{i}настроить работу сайта{/i}"
 msgstr "{i}configurar el sitio{/i}"
 
-# game/scripts/story_01/hidden_cams.rpy:90
+# game/scripts/story_01/hidden_cams.rpy:91
 msgid "Задание «Способ заработать» завершено!"
 msgstr "La oportunidad «Una forma de ganar dinero» está terminada!"
 
-# game/scripts/story_01/hidden_cams.rpy:91
+# game/scripts/story_01/hidden_cams.rpy:92
 msgid "Открыто новое задание «Приумножение заработка»!"
 msgstr "Una nueva oportunidad «Aumente sus ingresos» está abierta!"
+
+# game/scripts/story_01/hidden_cams.rpy:140
+msgid "{i}пойти настроить камеру{/i}"
+msgstr ""
 
