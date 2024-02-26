@@ -1,148 +1,152 @@
-﻿# TODO: Translation updated at 2024-01-24 03:02 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/navigation.rpy:130
+﻿# TODO: Translation updated at 2024-02-14 20:38 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/navigation.rpy:134
 msgid "Ждать окончания часа"
 msgstr "Ждать окончания часа"
 
-# game/scripts/screens/navigation.rpy:145
+# game/scripts/screens/navigation.rpy:149
 msgid "Поговорить"
 msgstr "Поговорить"
 
-# game/scripts/screens/navigation.rpy:162
+# game/scripts/screens/navigation.rpy:166
 msgid "Принять ванну"
 msgstr "Принять ванну"
 
-# game/scripts/screens/navigation.rpy:170
+# game/scripts/screens/navigation.rpy:174
 msgid "Принять душ"
 msgstr "Принять душ"
 
-# game/scripts/screens/navigation.rpy:178
+# game/scripts/screens/navigation.rpy:182
 msgid "Лечь спать"
 msgstr "Лечь спать"
 
-# game/scripts/screens/navigation.rpy:186
+# game/scripts/screens/navigation.rpy:190
 msgid "Сесть за ноутбук"
 msgstr "Сесть за ноутбук"
 
-# game/scripts/screens/navigation.rpy:194
+# game/scripts/screens/navigation.rpy:198
 msgid "Разобрать коробки"
 msgstr "Разобрать коробки"
 
-# game/scripts/screens/navigation.rpy:204
+# game/scripts/screens/navigation.rpy:208
 msgid "Искать камеру"
 msgstr "Искать камеру"
 
-# game/scripts/screens/navigation.rpy:212
+# game/scripts/screens/navigation.rpy:216
 msgid "Читать"
 msgstr "Читать"
 
-# game/scripts/screens/navigation.rpy:220
+# game/scripts/screens/navigation.rpy:224
 msgid "Пылесосить дом"
 msgstr "Пылесосить дом"
 
-# game/scripts/screens/navigation.rpy:220
+# game/scripts/screens/navigation.rpy:224
 msgid "нужен отдых"
 msgstr "нужен отдых"
 
-# game/scripts/screens/navigation.rpy:232
+# game/scripts/screens/navigation.rpy:236
 msgid "Чистить бассейн"
 msgstr "Чистить бассейн"
 
-# game/scripts/screens/navigation.rpy:243
+# game/scripts/screens/navigation.rpy:247
 msgid "Подстричь газон"
 msgstr "Подстричь газон"
 
-# game/scripts/screens/navigation.rpy:254
+# game/scripts/screens/navigation.rpy:258
 msgid "Выйти в город"
 msgstr "Выйти в город"
 
-# game/scripts/screens/navigation.rpy:261
+# game/scripts/screens/navigation.rpy:265
 msgid "Покинуть виллу"
 msgstr "Покинуть виллу"
 
-# game/scripts/screens/navigation.rpy:268
+# game/scripts/screens/navigation.rpy:272
 msgid "Искать книгу"
 msgstr "Искать книгу"
 
-# game/scripts/screens/navigation.rpy:278
+# game/scripts/screens/navigation.rpy:282
 msgid "Искать пауков"
 msgstr "Искать пауков"
 
-# game/scripts/screens/navigation.rpy:301
+# game/scripts/screens/navigation.rpy:291
+msgid "Установить камеру"
+msgstr "Установить камеру"
+
+# game/scripts/screens/navigation.rpy:311
 msgid "Развернуть"
 msgstr "Развернуть"
 
-# game/scripts/screens/navigation.rpy:309
+# game/scripts/screens/navigation.rpy:319
 msgid "Ждать 30 минут"
 msgstr "Ждать 30 минут"
 
-# game/scripts/screens/navigation.rpy:321
+# game/scripts/screens/navigation.rpy:331
 msgid "Свернуть"
 msgstr "Свернуть"
 
-# game/scripts/screens/navigation.rpy:354
+# game/scripts/screens/navigation.rpy:364
 msgid "Поддержать игру на Boosty"
 msgstr "Поддержать игру на Boosty"
 
-# game/scripts/screens/navigation.rpy:360
+# game/scripts/screens/navigation.rpy:370
 msgid "Поддержать игру на Patreon"
 msgstr "Поддержать игру на Patreon"
 
-# game/scripts/screens/navigation.rpy:366
+# game/scripts/screens/navigation.rpy:376
 msgid "Меню игры"
 msgstr "Меню игры"
 
-# game/scripts/screens/navigation.rpy:374
+# game/scripts/screens/navigation.rpy:384
 msgid "Галерея"
 msgstr "Галерея"
 
-# game/scripts/screens/navigation.rpy:386
+# game/scripts/screens/navigation.rpy:396
 msgid "Обучение"
 msgstr "Обучение"
 
-# game/scripts/screens/navigation.rpy:396
+# game/scripts/screens/navigation.rpy:406
 msgid "Личный дневник"
 msgstr "Личный дневник"
 
-# game/scripts/screens/navigation.rpy:508
+# game/scripts/screens/navigation.rpy:518
 msgid "Скрыть"
 msgstr "Скрыть"
 
-# game/scripts/screens/navigation.rpy:546
+# game/scripts/screens/navigation.rpy:556
 msgid "Продолжение следует..."
 msgstr "Продолжение следует..."
 
-# game/scripts/screens/navigation.rpy:605
+# game/scripts/screens/navigation.rpy:615
 msgid "Что бы выбрать?"
 msgstr "Что бы выбрать?"
 
-# game/scripts/screens/navigation.rpy:617
+# game/scripts/screens/navigation.rpy:627
 msgid "(куплено)"
 msgstr "(куплено)"
 
-# game/scripts/screens/navigation.rpy:628
+# game/scripts/screens/navigation.rpy:638
 msgid "{i}готово{/i}"
 msgstr "{i}готово{/i}"
 
-# game/scripts/screens/navigation.rpy:683
+# game/scripts/screens/navigation.rpy:693
 msgid "ВНИМАНИЕ"
 msgstr "ВНИМАНИЕ"
 
-# game/scripts/screens/navigation.rpy:684
+# game/scripts/screens/navigation.rpy:694
 msgid "КОНТЕНТ ДЛЯ ВЗРОСЛЫХ"
 msgstr "КОНТЕНТ ДЛЯ ВЗРОСЛЫХ"
 
-# game/scripts/screens/navigation.rpy:688
+# game/scripts/screens/navigation.rpy:698
 msgid "Эта игра содержит контент сексуального характера"
 msgstr "Эта игра содержит контент сексуального характера"
 
-# game/scripts/screens/navigation.rpy:689
+# game/scripts/screens/navigation.rpy:699
 msgid "Продолжая, ты подтверждаешь, что достаточно взрослый для такого контента"
 msgstr "Продолжая, ты подтверждаешь, что достаточно взрослый для такого контента"
 
-# game/scripts/screens/navigation.rpy:691
+# game/scripts/screens/navigation.rpy:701
 msgid "Все персонажи, изображённые в этой игре, вымышлены и старше 18 лет"
 msgstr "Все персонажи, изображённые в этой игре, вымышлены и старше 18 лет"
 
-# game/scripts/screens/navigation.rpy:693
+# game/scripts/screens/navigation.rpy:703
 msgid "Продолжить"
 msgstr "Продолжить"
 

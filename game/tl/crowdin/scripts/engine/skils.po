@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-01-24 03:02 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/skils.rpy:14
+﻿# TODO: Translation updated at 2024-02-14 20:38 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/skils.rpy:14
 msgid "скрытность"
 msgstr "скрытность"
 
@@ -38,23 +38,31 @@ msgstr "Убеждение удалось!"
 msgid "Паук найден!"
 msgstr "Паук найден!"
 
-# game/scripts/engine/skils.rpy:199
+# game/scripts/engine/skils.rpy:190
+msgid "Ей понравился массаж!"
+msgstr "Ей понравился массаж!"
+
+# game/scripts/engine/skils.rpy:200
 msgid "Я чуть не попался!"
 msgstr "Я чуть не попался!"
 
-# game/scripts/engine/skils.rpy:199
+# game/scripts/engine/skils.rpy:200
 msgid "Мне не стоит это делать!"
 msgstr "Мне не стоит это делать!"
 
-# game/scripts/engine/skils.rpy:199
+# game/scripts/engine/skils.rpy:200
 msgid "Вот чёрт, я попался!"
 msgstr "Вот чёрт, я попался!"
 
-# game/scripts/engine/skils.rpy:199
+# game/scripts/engine/skils.rpy:200
 msgid "Убеждение не удалось!"
 msgstr "Убеждение не удалось!"
 
-# game/scripts/engine/skils.rpy:199
+# game/scripts/engine/skils.rpy:200
 msgid "Безрезультатно!"
 msgstr "Безрезультатно!"
+
+# game/scripts/engine/skils.rpy:200
+msgid "Ей не понравился массаж!"
+msgstr "Ей не понравился массаж!"
 
