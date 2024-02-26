@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-02-26 14:19\n"
+"PO-Revision-Date: 2024-02-26 15:27\n"
 
 # TODO: Translation updated at 2024-02-14 20:38 #|#|# # game/scripts/story_01/lounge_tv.rpy:8 #-#-# translate crowdin ev_ann_tv_talk_df9c7313:
 msgid "[_Ann_s_01_] Да так, всякую ерунду. Хотела какой-нибудь фильм посмотреть. Садись рядом, если тоже делать нечего... [nointeract]"
@@ -366,19 +366,19 @@ msgstr "[_Alice_s_04_] Sì, è diventato un po’ caldo. Forse ti farò un po’
 
 # game/scripts/story_01/lounge_tv.rpy:360 #-#-# translate crowdin ev_092_jeans_off_2ededd41:
 msgid "[_Max_s_04_] Эй, помедленнее! Снимать джинсы нужно не спеша, ведь во время массажа и после него не должно быть много активности."
-msgstr ""
+msgstr "[_Max_s_04_] Ehi, più lentamente! Devi toglierti i jeans senza fretta, perché durante e dopo il massaggio non dovrebbe esserci molta attività."
 
 # game/scripts/story_01/lounge_tv.rpy:362 #-#-# translate crowdin ev_092_jeans_off_3996760a:
 msgid "[_Alice_s_02_] Удобно ты устроился... Только не пялься, куда не надо. Лучше, продолжай массаж... [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_02_] Sei comodo… Ma non fissare dove non dovresti. Meglio, continua il massaggio… [nointeract]"
 
 # game/scripts/story_01/lounge_tv.rpy:371 #-#-# translate crowdin ev_092_jeans_off_8f90476a:
 msgid "[_Alice_s_03_] Как, всё что ли? Как-то быстро... Мне, конечно, понравилось, но зачем я тогда раздевалась?"
-msgstr ""
+msgstr "[_Alice_s_03_] Come, è tutto? Un po’ troppo veloce… Mi è piaciuto, certo, ma perché mi sono dovuta spogliare?"
 
 # game/scripts/story_01/lounge_tv.rpy:372 #-#-# translate crowdin ev_092_jeans_off_7da43434:
 msgid "[_Max_s_01_] Чтобы меня порадовать! Сама же сказала..."
-msgstr ""
+msgstr "[_Max_s_01_] Per farmi felice! L’hai detto tu stessa..."
 
 # game/scripts/story_01/lounge_tv.rpy:374 #-#-# translate crowdin ev_092_jeans_off_9ac09558:
 msgid "[_Alice_s_01_] Ах ты хитрюга! Обманул меня и сидишь тут довольный... А ну кыш с моего дивана! [nointeract]"
