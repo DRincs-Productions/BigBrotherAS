@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-02-26 08:59\n"
+"PO-Revision-Date: 2024-02-26 12:59\n"
 
 # TODO: Translation updated at 2024-02-14 20:38 #|#|# # game/scripts/story_01/lounge_tv.rpy:8 #-#-# translate crowdin ev_ann_tv_talk_df9c7313:
 msgid "[_Ann_s_01_] Да так, всякую ерунду. Хотела какой-нибудь фильм посмотреть. Садись рядом, если тоже делать нечего... [nointeract]"
@@ -218,11 +218,11 @@ msgstr "[_Max_s_01_] Sì, ci siamo divertiti..."
 
 # game/scripts/story_01/lounge_tv.rpy:211 #-#-# translate crowdin ev_091_f1c77e04:
 msgid "[_Alice_s_04_] Что-то новенькое! Как будто ты умеешь это делать..."
-msgstr ""
+msgstr "[_Alice_s_04_] Qualcosa di nuovo! Come se sapessi come farlo..."
 
 # game/scripts/story_01/lounge_tv.rpy:212 #-#-# translate crowdin ev_091_e89401d5:
 msgid "[_Max_s_11_] Само собой. Стал бы я тогда предлагать?"
-msgstr ""
+msgstr "[_Max_s_11_] Ovviamente. Altrimenti perché lo avrei proposto?"
 
 # game/scripts/story_01/lounge_tv.rpy:213 #-#-# translate crowdin ev_091_b7318e96:
 msgid "[_Alice_s_11_] Правда?! Могу я спросить откуда? Раньше ты, вроде бы, не умел. Да и не представляю, где бы ты успел этому научиться..."
