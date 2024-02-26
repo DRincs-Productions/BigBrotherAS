@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-10-15 15:47\n"
+"PO-Revision-Date: 2024-02-26 09:00\n"
 
-# TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/morning_mischief.rpy:14 #-#-# translate crowdin ev_039_12731b84:
+# TODO: Translation updated at 2024-02-14 20:38 #|#|# # game/scripts/story_01/morning_mischief.rpy:14 #-#-# translate crowdin ev_039_12731b84:
 msgid "[_tMax_s_01_] Сегодня я проснулся раньше Лизы. Можно полюбоваться..."
 msgstr "[_tMax_s_01_] Oggi mi sono svegliato prima di Lisa. Potete ammirare..."
 
@@ -160,11 +160,11 @@ msgstr "[_Max_s_01_] Ma dai..."
 msgid "[_tMax_s_15_] Ох, это было опасно! Лиза может проснуться в любую секунду... [nointeract]"
 msgstr "[_tMax_s_15_] Oh, era pericoloso! Lisa poteva svegliarsi da un momento all'altro... [nointeract]"
 
-# game/scripts/story_01/morning_mischief.rpy:217 #-#-# translate crowdin ev_040_cooldown_0601ec98:
+# game/scripts/story_01/morning_mischief.rpy:218 #-#-# translate crowdin ev_040_cooldown_0601ec98:
 msgid "[_tMax_s_12_] Лиза совсем недавно уже просыпалась от того, что я стягивал с неё одежду. Лучше не рисковать лишний раз и подождать хотя бы несколько дней... [nointeract]"
 msgstr "[_tMax_s_12_] Lisa si è svegliata da poco quando le ho tolto i vestiti. Meglio non correre rischi inutili e aspettare almeno qualche giorno... [nointeract]"
 
-# game/scripts/story_01/morning_mischief.rpy:219 #-#-# translate crowdin ev_040_cooldown_4130bb8a:
+# game/scripts/story_01/morning_mischief.rpy:220 #-#-# translate crowdin ev_040_cooldown_4130bb8a:
 msgid "[_tMax_s_12_] Лиза совсем недавно уже просыпалась от того, что я стягивал с неё одежду. Лучше не рисковать лишний раз и подождать хотя бы ещё денёк... [nointeract]"
 msgstr "[_tMax_s_12_] Lisa era stata recentemente svegliata da me che le avevo tolto i vestiti. Era meglio non correre rischi e aspettare almeno un altro giorno... [nointeract]"
 
