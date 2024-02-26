@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-12 13:38\n"
+"PO-Revision-Date: 2024-02-26 08:59\n"
 
-# TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/morning_mischief.rpy:14 #-#-# translate crowdin ev_039_12731b84:
+# TODO: Translation updated at 2024-02-14 20:38 #|#|# # game/scripts/story_01/morning_mischief.rpy:14 #-#-# translate crowdin ev_039_12731b84:
 msgid "[_tMax_s_01_] Сегодня я проснулся раньше Лизы. Можно полюбоваться..."
 msgstr "[_tMax_s_01_] Je me suis réveillé avant Lisa aujourd'hui. Vous pouvez admirer..."
 
@@ -160,11 +160,11 @@ msgstr "[_Max_s_01_] Allez..."
 msgid "[_tMax_s_15_] Ох, это было опасно! Лиза может проснуться в любую секунду... [nointeract]"
 msgstr "[_tMax_s_15_] Oh, c'était dangereux ! Lisa pouvait se réveiller à tout moment..... [nointeract]"
 
-# game/scripts/story_01/morning_mischief.rpy:217 #-#-# translate crowdin ev_040_cooldown_0601ec98:
+# game/scripts/story_01/morning_mischief.rpy:218 #-#-# translate crowdin ev_040_cooldown_0601ec98:
 msgid "[_tMax_s_12_] Лиза совсем недавно уже просыпалась от того, что я стягивал с неё одежду. Лучше не рисковать лишний раз и подождать хотя бы несколько дней... [nointeract]"
 msgstr "[_tMax_s_12_] Lisa s'était récemment réveillée lorsque je lui avais retiré ses vêtements. Il valait mieux ne pas prendre de risques inutiles et attendre au moins quelques jours.... [nointeract]"
 
-# game/scripts/story_01/morning_mischief.rpy:219 #-#-# translate crowdin ev_040_cooldown_4130bb8a:
+# game/scripts/story_01/morning_mischief.rpy:220 #-#-# translate crowdin ev_040_cooldown_4130bb8a:
 msgid "[_tMax_s_12_] Лиза совсем недавно уже просыпалась от того, что я стягивал с неё одежду. Лучше не рисковать лишний раз и подождать хотя бы ещё денёк... [nointeract]"
 msgstr "[_tMax_s_12_] Lisa avait été récemment réveillée par moi qui lui enlevait ses vêtements. Il valait mieux ne pas prendre de risque et attendre au moins un jour de plus..... [nointeract]"
 
