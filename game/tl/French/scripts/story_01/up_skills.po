@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-12 15:37\n"
+"PO-Revision-Date: 2024-02-26 09:01\n"
 
-# TODO: Translation updated at 2024-01-24 03:02 #|#|# # game/scripts/story_01/up_skills.rpy:9 #-#-# translate crowdin ev_086_176058a9:
+# TODO: Translation updated at 2024-02-14 20:38 #|#|# # game/scripts/story_01/up_skills.rpy:9 #-#-# translate crowdin ev_086_176058a9:
 msgid "[_tMax_s_01_] Чем бы таким перед сном себя развлечь? Подглядеть что ли за мамой в ночнушке? Так классно с ней сегодня пообнимались, что все мысли заняты только её пышной грудью..."
 msgstr "[_tMax_s_01_] Que feriez-vous pour vous divertir avant d'aller au lit ? Tu espionnes ma mère en nuisette ? J'ai eu tellement de bons câlins avec elle aujourd'hui que je ne pense plus qu'à ses seins généreux..."
 
@@ -40,27 +40,27 @@ msgstr "[_tMax_s_04_] Oui, j'en ai vu beaucoup plus que je ne le pensais ! Je su
 msgid "[_tMax_s_01_] Это значит, что теперь я смогу увидеть больше всякого интересного, да и шансов будет больше..."
 msgstr "[Cela signifie que je pourrai voir plus de choses et que j'aurai plus de chances de..."
 
-# game/scripts/story_01/up_skills.rpy:53 #-#-# translate crowdin ev_086_1d5fcc08:
+# game/scripts/story_01/up_skills.rpy:54 #-#-# translate crowdin ev_086_1d5fcc08:
 msgid "[_tMax_s_13_] Нет, слишком опасно! Даже если повезёт и мама меня не увидит, то наверняка услышит. Может, в следующий раз, если таковой представится... [nointeract]"
 msgstr "[Non, c'est trop dangereux ! Même si j'ai de la chance et que ma mère ne me voit pas, elle m'entendra sûrement. Peut-être que la prochaine fois, s'il y a une chance... [nointeract]"
 
-# game/scripts/story_01/up_skills.rpy:58 #-#-# translate crowdin ev_086_1d5fcc08_1:
+# game/scripts/story_01/up_skills.rpy:59 #-#-# translate crowdin ev_086_1d5fcc08_1:
 msgid "[_tMax_s_13_] Нет, слишком опасно! Даже если повезёт и мама меня не увидит, то наверняка услышит. Может, в следующий раз, если таковой представится... [nointeract]"
 msgstr "[Non, c'est trop dangereux ! Même si j'ai de la chance et que ma mère ne me voit pas, elle m'entendra sûrement. Peut-être que la prochaine fois, s'il y a une chance... [nointeract]"
 
-# game/scripts/story_01/up_skills.rpy:65 #-#-# translate crowdin ev_086_1d5fcc08_2:
+# game/scripts/story_01/up_skills.rpy:66 #-#-# translate crowdin ev_086_1d5fcc08_2:
 msgid "[_tMax_s_13_] Нет, слишком опасно! Даже если повезёт и мама меня не увидит, то наверняка услышит. Может, в следующий раз, если таковой представится... [nointeract]"
 msgstr "[_tMax_s_13_] Non, c'est trop dangereux ! Même si j'ai de la chance et que ma mère ne me voit pas, elle m'entendra sûrement. Peut-être que la prochaine fois, s'il y a une chance... [nointeract]"
 
-# game/scripts/story_01/up_skills.rpy:70 #-#-# translate crowdin ev_086_0d8f3da3:
+# game/scripts/story_01/up_skills.rpy:71 #-#-# translate crowdin ev_086_0d8f3da3:
 msgid "[_tMax_s_11_] Да уж, таким не каждый день можно любоваться, к сожалению! Знать бы ещё, что на неё так повлияло или же она это просто так, под настроение..."
 msgstr "[_tMax_s_11_] Oui, ce n'est pas quelque chose que l'on voit tous les jours, malheureusement ! J'aimerais savoir ce qui l'a poussée à faire ça, ou si c'est juste une humeur...."
 
-# game/scripts/story_01/up_skills.rpy:71 #-#-# translate crowdin ev_086_46168b84:
+# game/scripts/story_01/up_skills.rpy:72 #-#-# translate crowdin ev_086_46168b84:
 msgid "[_tMax_s_12_] Остаётся только заглядывать к ней почаще, чтобы ничего не пропустить."
 msgstr "[_tMax_s_12_] Il ne vous reste plus qu'à prendre de ses nouvelles plus souvent pour ne rien manquer."
 
-# game/scripts/story_01/up_skills.rpy:72 #-#-# translate crowdin ev_086_bea58364:
+# game/scripts/story_01/up_skills.rpy:73 #-#-# translate crowdin ev_086_bea58364:
 msgid "[_tMax_s_13_] Если это снова повторится и я всё же смогу подкрасться к ней максимально близко, то после можно будет и в других местах за мамой попробовать подсмотреть."
 msgstr "[_tMax_s_13_] Si cela se reproduit et que je peux encore me faufiler au plus près d'elle, je pourrai essayer d'espionner ma mère dans d'autres endroits par la suite."
 
