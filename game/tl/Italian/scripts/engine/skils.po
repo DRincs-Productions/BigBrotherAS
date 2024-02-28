@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/engine/skils.po\n"
+"X-Crowdin-File-ID: 9079\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2024-02-26 11:46\n"
+
+# TODO: Translation updated at 2024-02-14 20:38 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/skils.rpy:14
+msgid "скрытность"
+msgstr "furtività"
+
+# game/scripts/engine/skils.rpy:14
+msgid "убеждение"
+msgstr "convinzione"
+
+# game/scripts/engine/skils.rpy:14
+msgid "удача"
+msgstr "fortuna"
+
+# game/scripts/engine/skils.rpy:14
+msgid "массаж"
+msgstr "massaggio"
+
+# game/scripts/engine/skils.rpy:14
+msgid "поцелуи"
+msgstr "baci"
+
+# game/scripts/engine/skils.rpy:14
+msgid "сексуальный опыт"
+msgstr "esperienza sessuale"
+
+# game/scripts/engine/skils.rpy:51
+msgid "настроение"
+msgstr "umore"
+
+# game/scripts/engine/skils.rpy:190
+msgid "Я остался незамеченным!"
+msgstr "Non sono stato notato!"
+
+# game/scripts/engine/skils.rpy:190
+msgid "Убеждение удалось!"
+msgstr "La persuasione è riuscita!"
+
+# game/scripts/engine/skils.rpy:190
+msgid "Паук найден!"
+msgstr "Un ragno è stato trovato!"
+
+# game/scripts/engine/skils.rpy:190
+msgid "Ей понравился массаж!"
+msgstr "Il massaggio le è piaciuto molto!"
+
+# game/scripts/engine/skils.rpy:200
+msgid "Я чуть не попался!"
+msgstr "Mi hanno quasi scoperto!"
+
+# game/scripts/engine/skils.rpy:200
+msgid "Мне не стоит это делать!"
+msgstr "Non dovrei farlo!"
+
+# game/scripts/engine/skils.rpy:200
+msgid "Вот чёрт, я попался!"
+msgstr "Oh, merda, mi hanno beccato!"
+
+# game/scripts/engine/skils.rpy:200
+msgid "Убеждение не удалось!"
+msgstr "La persuasione è fallita!"
+
+# game/scripts/engine/skils.rpy:200
+msgid "Безрезультатно!"
+msgstr "Senza successo!"
+
+# game/scripts/engine/skils.rpy:200
+msgid "Ей не понравился массаж!"
+msgstr "Non le è piaciuto il massaggio!"
+
