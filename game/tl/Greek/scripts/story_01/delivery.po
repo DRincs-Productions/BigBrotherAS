@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2023-10-15 15:46\n"
+"PO-Revision-Date: 2024-04-18 08:10\n"
 
-# TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/delivery.rpy:27 #-#-# translate crowdin ev_delivery_eb6a6385:
+# TODO: Translation updated at 2024-04-17 23:25 #|#|# # game/scripts/story_01/delivery.rpy:27 #-#-# translate crowdin ev_delivery_eb6a6385:
 msgid "[_tMax_s_11_] Звонок в ворота! Похоже, к нам кто-то приехал..."
 msgstr ""
 
@@ -20,11 +20,19 @@ msgstr ""
 msgid "[_tMax_s_03_] Отлично! Привезли то, что я заказывал. Это [txt]."
 msgstr ""
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/delivery.rpy:36
+# §translate crowdin strings: #|#|# # game/scripts/story_01/delivery.rpy:35
 msgid "Задание «Способ заработать» обновлено!"
 msgstr ""
 
-# game/scripts/story_01/delivery.rpy:41
+# game/scripts/story_01/delivery.rpy:39
 msgid "Задание «Маслице для загара» обновлено!"
+msgstr ""
+
+# game/scripts/story_01/delivery.rpy:42
+msgid "Задание «Стремянка» обновлено!"
+msgstr ""
+
+# game/scripts/story_01/delivery.rpy:44
+msgid "Задание «Приумножение заработка» обновлено!"
 msgstr ""
 
