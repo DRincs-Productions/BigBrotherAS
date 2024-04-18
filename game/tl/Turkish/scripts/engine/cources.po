@@ -10,15 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-10-15 15:47\n"
+"PO-Revision-Date: 2024-04-18 08:13\n"
 
-# TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/cources.rpy:93
+# TODO: Translation updated at 2024-04-17 23:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/cources.rpy:93
 msgid "Массаж ступней"
 msgstr "Ayak masajı"
 
 # game/scripts/engine/cources.rpy:93
-msgid "Это уникальная методика массажа с целью оказания оздоравливающего воздействия на организм. Она эффективна и в тоже время несложна в исполнении."
-msgstr "Bu, vücutta iyileştirici bir etki sağlamayı amaçlayan benzersiz bir masaj tekniğidir. Etkilidir ve aynı zamanda uygulanması kolaydır."
+msgid "Это уникальная методика массажа с целью оказания оздоравливающего воздействия на организм. \n"
+"Она эффективна и в тоже время несложна в исполнении."
+msgstr "Bu, vücut üzerinde iyileştirici bir etki sağlamayı amaçlayan benzersiz bir masaj yöntemidir. \n"
+"Etkilidir ve aynı zamanda uygulanması zor değildir."
 
 # game/scripts/engine/cources.rpy:93
 msgid "Массаж кистей рук"
@@ -37,14 +39,18 @@ msgid "Навыки общения: Основы коммуникации"
 msgstr "İletişim Becerileri: İletişimin Temelleri"
 
 # game/scripts/engine/cources.rpy:93
-msgid "Это второй курс обучения навыкам общения. Из него вы узнаете как повлиять на решение человека без слов, как подобрать правильный слова в нужной ситуации для достижения своей цели."
-msgstr "Bu iletişim becerileri eğitimindeki ikinci derstir. Buradan, bir kişinin kararını kelimeler olmadan nasıl etkileyeceğinizi, hedefinize ulaşmak için doğru durumda doğru kelimeleri nasıl seçeceğinizi öğreneceksiniz."
+msgid "Это второй курс обучения навыкам общения. \n"
+"Из него вы узнаете как повлиять на решение человека без слов, как подобрать правильный слова в нужной ситуации для достижения своей цели."
+msgstr "Bu, iletişim becerilerindeki ikinci derstir. \n"
+"Bir kişinin kararını kelimeler olmadan nasıl etkileyeceğinizi, hedefinize ulaşmak için doğru durumda doğru kelimeleri nasıl seçeceğinizi öğreneceksiniz."
 
 # game/scripts/engine/cources.rpy:93
 msgid "Навыки общения: Без границ"
 msgstr "İletişim Becerileri: Sınır Tanımayan"
 
 # game/scripts/engine/cources.rpy:93
-msgid "Это продвинутый длительный курс, предназначенный для тех, кто хочет постоянно обучаться и совершенствоваться. На данный момент это последний доступный курс."
-msgstr "Bu, sürekli öğrenmek ve gelişmek isteyenler için tasarlanmış ileri düzey, uzun vadeli bir kurstur. Bu şu anda mevcut olan son kurstur."
+msgid "Это продвинутый длительный курс, предназначенный для тех, кто хочет постоянно обучаться и совершенствоваться. \n"
+"На данный момент это последний доступный курс."
+msgstr "Bu, sürekli öğrenmek ve gelişmek isteyenler için tasarlanmış ileri düzey uzun bir kurstur. \n"
+"Bu, şu anda mevcut olan son kurstur."
 
