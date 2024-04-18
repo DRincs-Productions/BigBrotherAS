@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-02-26 08:57\n"
+"PO-Revision-Date: 2024-04-18 08:12\n"
 
-# TODO: Translation updated at 2024-02-14 20:38 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:174
+# TODO: Translation updated at 2024-04-17 23:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:174
 msgid "Любопытное содержимое"
 msgstr ""
 
@@ -111,6 +111,10 @@ msgid "Это можно сделать, если Алиса находится 
 msgstr ""
 
 # game/scripts/engine/tasks.rpy:174
+msgid "В следующих версиях..."
+msgstr ""
+
+# game/scripts/engine/tasks.rpy:174
 msgid "Может это и не очень правильно, но мне очень хотелось бы иметь возможность подсматривать за тем, как женская часть моей семьи принимает ванну. К сожалению, этому мешают полоски на стеклах в ванной комнате, которые скрывают самое интересное... \n"
 "Зато, если прикупить не очень высокую стремянку, то можно будет подглядывать через заднее окно..."
 msgstr ""
@@ -133,12 +137,55 @@ msgstr ""
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Алиса рассказала о своём блоге, а так же о своей проблеме, связанной с потерей вещей во время переезда. Теперь ей нечего показывать, не в чем вести блог и, вообще, она в печали. \n"
-"Но чтобы ей хоть как-то помочь, сперва нужно разжиться деньгами..."
+"Но чтобы ей хоть как-то помочь с блогом, сперва нужно разжиться лишними деньгами, а это дело небыстрое.\n"
+"Пока же можно поработать над нашими взаимоотношениями, ведь там есть куда расти. Вопрос только, как этого добиться?"
+msgstr "Alice falou sobre o seu blogue e também sobre o problema de ter perdido as suas coisas durante a mudança. Agora não tem nada para mostrar, nada para escrever no blogue e, de um modo geral, está triste. \n"
+"Mas para a ajudar com o seu blogue de alguma forma, precisamos de arranjar algum dinheiro extra primeiro, e isso não é uma solução rápida.\n"
+"Entretanto, podemos trabalhar na nossa relação, porque há espaço para crescer. A única questão é: como é que o vamos fazer?"
+
+# game/scripts/engine/tasks.rpy:174
+msgid "Найти способ улучшить взаимоотношения с Алисой."
+msgstr "Encontrar uma forma de melhorar a relação com a Alice."
+
+# game/scripts/engine/tasks.rpy:174
+msgid "Возможно, какой-нибудь способ скоро подвернётся..."
+msgstr "Talvez surja alguma forma de o fazer em breve....."
+
+# game/scripts/engine/tasks.rpy:174
+msgid "Нужно завершить задание «Арахнофобия»!"
 msgstr ""
 
 # game/scripts/engine/tasks.rpy:174
-msgid "В следующих версиях..."
+msgid "Убедить Алису заняться эротическими вэб-трансляциями."
+msgstr "Convencer a Alice a participar em webcasting erótico."
+
+# game/scripts/engine/tasks.rpy:174
+msgid "Нужно подойти к Алисе и поговорить с ней на эту тему..."
+msgstr "Temos de ir ter com a Alice e falar com ela sobre isso...."
+
+# game/scripts/engine/tasks.rpy:174
+msgid "Нужно купить курс по эффективному общению..."
+msgstr "Necessidade de adquirir um curso sobre comunicação eficaz...."
+
+# game/scripts/engine/tasks.rpy:174
+msgid "Нужно изучить весь курс по эффективному общению..."
+msgstr "Necessidade de estudar todo o curso sobre comunicação eficaz....."
+
+# game/scripts/engine/tasks.rpy:174
+msgid "Пойти с Алисой в магазин одежды."
+msgstr "Ir à loja de roupa com a Alice."
+
+# game/scripts/engine/tasks.rpy:174
+msgid "Нужно просто ждать..."
 msgstr ""
+
+# game/scripts/engine/tasks.rpy:174
+msgid "Купить для Алисы тёмное нижнее бельё"
+msgstr "Compra lingerie escura para a Alice."
+
+# game/scripts/engine/tasks.rpy:174
+msgid "Нужно вручить Алисе подарок, когда она находится в своей комнате..."
+msgstr "É preciso dar uma prenda à Alice quando ela estiver no seu quarto...."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Вредная привычка"
@@ -318,10 +365,6 @@ msgid "Дождаться следующего утреннего стояка �
 msgstr ""
 
 # game/scripts/engine/tasks.rpy:174
-msgid "Нужно просто ждать..."
-msgstr ""
-
-# game/scripts/engine/tasks.rpy:174
 msgid "Застенчивая школьница"
 msgstr ""
 
@@ -472,10 +515,6 @@ msgstr ""
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Убедить Алису снять джинсы."
-msgstr ""
-
-# game/scripts/engine/tasks.rpy:174
-msgid "Нужно завершить задание «Арахнофобия»!"
 msgstr ""
 
 # game/scripts/engine/tasks.rpy:174
