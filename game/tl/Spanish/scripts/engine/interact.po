@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-25 18:50\n"
+"PO-Revision-Date: 2024-04-18 08:09\n"
 
-# TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/engine/interact.rpy:35 #-#-# translate crowdin talks_start_41e41361:
+# TODO: Translation updated at 2024-04-17 23:25 #|#|# # game/scripts/engine/interact.rpy:35 #-#-# translate crowdin talks_start_41e41361:
 msgid "[_Alice_s_00_] Ну же, Макс, что хотел? [nointeract]"
 msgstr "[_Alice_s_00_] Vamos, Max, ¿qué querías? [nointeract]"
 
@@ -179,4 +179,16 @@ msgstr "¡Saqué la araña del baño!"
 # game/scripts/engine/interact.rpy:183
 msgid "Тебе помочь с домашним заданием?"
 msgstr "¿Necesitas ayuda con tu tarea?"
+
+# game/scripts/engine/interact.rpy:183
+msgid "Я тут подумал о твоём блоге..."
+msgstr "He estado pensando en tu blog....."
+
+# game/scripts/engine/interact.rpy:183
+msgid "Ты подумала о том, что я предлагал?"
+msgstr "¿Has pensado en lo que te sugería?"
+
+# game/scripts/engine/interact.rpy:183
+msgid "Я кое-что купил для тебя..."
+msgstr "Compré algo para ti."
 
