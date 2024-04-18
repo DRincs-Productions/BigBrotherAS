@@ -10,15 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-15 15:44\n"
+"PO-Revision-Date: 2024-04-18 08:08\n"
 
-# TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/cources.rpy:93
+# TODO: Translation updated at 2024-04-17 23:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/cources.rpy:93
 msgid "Массаж ступней"
 msgstr "Massage des pieds"
 
 # game/scripts/engine/cources.rpy:93
-msgid "Это уникальная методика массажа с целью оказания оздоравливающего воздействия на организм. Она эффективна и в тоже время несложна в исполнении."
-msgstr "Il s'agit d'une technique de massage unique qui a pour but d'apporter un effet revitalisant sur le corps. Elle est efficace et en même temps facile à réaliser."
+msgid "Это уникальная методика массажа с целью оказания оздоравливающего воздействия на организм. \n"
+"Она эффективна и в тоже время несложна в исполнении."
+msgstr "Il s'agit d'une méthode de massage unique dont l'objectif est d'obtenir un effet curatif sur le corps. \n"
+"Elle est efficace et en même temps facile à réaliser."
 
 # game/scripts/engine/cources.rpy:93
 msgid "Массаж кистей рук"
@@ -37,14 +39,18 @@ msgid "Навыки общения: Основы коммуникации"
 msgstr "Compétences en communication : Notions de base en communication"
 
 # game/scripts/engine/cources.rpy:93
-msgid "Это второй курс обучения навыкам общения. Из него вы узнаете как повлиять на решение человека без слов, как подобрать правильный слова в нужной ситуации для достижения своей цели."
-msgstr "Il s’agit du deuxième cours de formation en communication. À partir de là, vous apprendrez comment influencer la décision d’une personne sans mots, comment choisir les bons mots dans la bonne situation pour atteindre votre objectif."
+msgid "Это второй курс обучения навыкам общения. \n"
+"Из него вы узнаете как повлиять на решение человека без слов, как подобрать правильный слова в нужной ситуации для достижения своей цели."
+msgstr "Il s'agit du deuxième cours sur les compétences en communication. \n"
+"Vous y apprendrez comment influencer la décision d'une personne sans mots, comment choisir les bons mots dans la bonne situation pour atteindre votre objectif."
 
 # game/scripts/engine/cources.rpy:93
 msgid "Навыки общения: Без границ"
 msgstr "Compétences en communication : Sans limites"
 
 # game/scripts/engine/cources.rpy:93
-msgid "Это продвинутый длительный курс, предназначенный для тех, кто хочет постоянно обучаться и совершенствоваться. На данный момент это последний доступный курс."
-msgstr "Il s’agit d’un cours avancé conçu pour ceux qui veulent constamment apprendre et s’améliorer. C’est le dernier cours disponible pour le moment."
+msgid "Это продвинутый длительный курс, предназначенный для тех, кто хочет постоянно обучаться и совершенствоваться. \n"
+"На данный момент это последний доступный курс."
+msgstr "Il s'agit d'un cours avancé de longue durée conçu pour ceux qui veulent continuellement apprendre et s'améliorer. \n"
+"Il s'agit du dernier cours disponible à ce jour."
 
