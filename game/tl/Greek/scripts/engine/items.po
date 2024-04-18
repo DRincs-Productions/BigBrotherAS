@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2023-10-15 15:46\n"
+"PO-Revision-Date: 2024-04-18 08:10\n"
 
-# TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/items.rpy:216
+# TODO: Translation updated at 2024-04-17 23:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/items.rpy:216
 msgid "Одежда"
 msgstr "Confecções"
 
@@ -229,8 +229,8 @@ msgid "Комплект тёмного нижнего белья"
 msgstr ""
 
 # game/scripts/engine/items.rpy:227
-msgid "Отличное нижнее бельё тёмного цвета. Отличный подарок для любимой девушки."
-msgstr ""
+msgid "Нижнее бельё тёмного цвета и отличного качества. Прекрасный подарок для любимой девушки, который предаст ей ещё больше сексуальности."
+msgstr "Εσώρουχα σκούρου χρώματος και εξαιρετικής ποιότητας. Ένα τέλειο δώρο για την αγαπημένη σας κοπέλα, που θα την κάνει ακόμα πιο σέξι."
 
 # game/scripts/engine/items.rpy:227
 msgid "Секс-образование"
