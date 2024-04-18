@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-18 08:11\n"
+"PO-Revision-Date: 2024-04-18 11:28\n"
 
 # TODO: Translation updated at 2024-04-17 23:25 #|#|# # game/scripts/story_01/bathroom.rpy:10 #-#-# translate crowdin ev_ann_shower_c167172f:
 msgid "[_tMax_s_11_] Сейчас ванная комната должна быть занята мамой... [nointeract]"
@@ -830,7 +830,7 @@ msgstr "[_Alice_s_17_] Oh, merda, Max! Che ci fai qui? Esci di qui, sto facendo 
 
 # game/scripts/story_01/bathroom.rpy:1547 #-#-# translate crowdin ev_075_10689b3e:
 msgid "[_Max_s_02_] Так вот как её надо принимать! Не знал..."
-msgstr "[E' così che la prendi! Non sapevo..."
+msgstr "[_Max_s_02_] Quindi è così che deve essere presa! Non lo sapevo..."
 
 # game/scripts/story_01/bathroom.rpy:1548 #-#-# translate crowdin ev_075_600f28d5:
 msgid "[_Alice_s_16_] Ты ещё и ехидничаешь! Ну всё... За такую наглость я сдам тебя маме завтра. Пусть все знают, какой ты придурок!"
@@ -878,7 +878,7 @@ msgstr "[_tMax_s_01_] La gente pagherà volentieri se riuscirà ad accarezzarsi 
 
 # game/scripts/story_01/bathroom.rpy:1566 #-#-# translate crowdin ev_075_21ce2aab:
 msgid "[_tMax_s_13_] Как бы мне умудриться её надоумить на это? Хотя, надоумить-то легко, а вот убедить... Это будет непросто при наших нынешних взаимоотношениях. Это уж точно..."
-msgstr "[Come posso convincerla a farlo? È facile convincerla, ma convincerla... Non sarà facile con la nostra attuale relazione. Questo è certo..."
+msgstr "[_tMax_s_13_] Come faccio a convincerla a farlo? Beh, è facile persuaderla, ma convincerla... Non sarà facile con il nostro attuale rapporto. Questo è certo..."
 
 # game/scripts/story_01/bathroom.rpy:1567 #-#-# translate crowdin ev_075_aa9e97a1:
 msgid "[_tMax_s_11_] Может, раз Алиса сильно боится пауков, то я мог бы как-то использовать это знание, чтобы улучшить наши взаимоотношения? Стоит попробовать..."
@@ -886,11 +886,11 @@ msgstr "[_tMax_s_11_] Forse, visto che Alice ha molta paura dei ragni, potrei in
 
 # game/scripts/story_01/bathroom.rpy:1568 #-#-# translate crowdin ev_075_3879094e:
 msgid "[_tMax_s_12_] И даже если всё получится, то я не исключаю, что мне потребуется изучить какие-нибудь курсы эффективного общения, чтобы она прониклась моей идеей с вэб-трансляциями."
-msgstr "[E anche se dovesse funzionare, non escludo che dovrò seguire qualche corso di comunicazione efficace per convincerla ad accettare la mia idea di webcasting."
+msgstr "[_tMax_s_12_] E anche se tutto va bene, non escludo che potrei dover studiare qualche corso di comunicazione efficace per farla appassionare alla mia idea di webcasting."
 
 # game/scripts/story_01/bathroom.rpy:1569 #-#-# translate crowdin ev_075_c23ab65b:
 msgid "[_tMax_s_13_] Такие курсы в любом случае пойдут мне на пользу, но только если появятся лишние деньги..."
-msgstr "[_tMax_s_13_] Questi corsi mi farebbero bene in ogni caso, ma solo se ci sono soldi in più...."
+msgstr "[_tMax_s_13_] Tali corsi sarebbero comunque utili per me, ma solo se ci sono soldi extra..."
 
 # game/scripts/story_01/bathroom.rpy:1581 #-#-# translate crowdin ev_090_c033adf1:
 msgid "[_tMax_s_11_] Эх, я уже третий день живу в доме с такими большими окнами и до сих пор не попробовал подсмотреть через одно из них за кем-нибудь в ванной. А ведь там сейчас мама... [nointeract]"
