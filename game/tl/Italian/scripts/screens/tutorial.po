@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-18 08:11\n"
+"PO-Revision-Date: 2024-04-18 10:21\n"
 
 # TODO: Translation updated at 2024-04-17 23:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/tutorial.rpy:14
 msgid "Главная панель игры располагается внизу."
@@ -102,11 +102,11 @@ msgstr "Max può aumentare i suoi livelli di abilità completando importanti eve
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "Во время этих событий Максу нужно несколько раз подряд успешно применить тот или иной навык, но требования по опыту его применения будут завышены."
-msgstr ""
+msgstr "Durante questi eventi, Max deve applicare con successo un'abilità più volte di seguito, ma i requisiti di esperienza per la sua applicazione saranno gonfiati."
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "Если ему не удалось повысить уровень навыка в этом событии, то он сможет сделать это снова в повторяющейся версии этого события. Оно будет отмечено подсказкой на иконках главной панели игры."
-msgstr ""
+msgstr "Se non è riuscito ad aumentare il suo livello di abilità in questo evento, potrà farlo di nuovo in una versione ripetuta di questo evento. Sarà contrassegnato da un suggerimento sulle icone del pannello di gioco principale."
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "Переход на новый уровень может разблокировать варианты действий Макса, которые ранее имели ограничения, а так же открыть новые возможности и повысить шансы на успешное применение навыка."
@@ -130,7 +130,7 @@ msgstr "Questa possibilità è solitamente influenzata dal livello dell'abilità
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "Если Макс никак не будет задействовать свои навыки в течение нескольких дней, то опыт применения этих навыков будет снижаться."
-msgstr ""
+msgstr "Se Max non si impegna in alcun modo per alcuni giorni, l'esperienza di utilizzo di tali abilità diminuirà."
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "Макс так же может оказаться в ситуациях, которые потребуют от него выбрать между «безопасным» и «рискованным» вариантом ответов."
