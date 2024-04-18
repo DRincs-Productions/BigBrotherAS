@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-10-14 21:25
+﻿# TODO: Translation updated at 2024-04-17 23:25
 
 # game/scripts/story_01/delivery.rpy:27
 translate crowdin ev_delivery_eb6a6385:
@@ -14,11 +14,19 @@ translate crowdin ev_delivery_56e163cf:
 
 translate crowdin strings:
 
-    # game/scripts/story_01/delivery.rpy:36
+    # game/scripts/story_01/delivery.rpy:35
     old "Задание «Способ заработать» обновлено!"
     new "Задание «Способ заработать» обновлено!"
 
-    # game/scripts/story_01/delivery.rpy:41
+    # game/scripts/story_01/delivery.rpy:39
     old "Задание «Маслице для загара» обновлено!"
     new "Задание «Маслице для загара» обновлено!"
+
+    # game/scripts/story_01/delivery.rpy:42
+    old "Задание «Стремянка» обновлено!"
+    new "Задание «Стремянка» обновлено!"
+
+    # game/scripts/story_01/delivery.rpy:44
+    old "Задание «Приумножение заработка» обновлено!"
+    new "Задание «Приумножение заработка» обновлено!"
 

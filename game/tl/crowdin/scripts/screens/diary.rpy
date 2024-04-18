@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-01-24 03:02
+﻿# TODO: Translation updated at 2024-04-17 23:25
 
 translate crowdin strings:
 
@@ -46,11 +46,11 @@ translate crowdin strings:
     old "МОЯ МАМА"
     new "МОЯ МАМА"
 
-    # game/scripts/screens/diary.rpy:345
+    # game/scripts/screens/diary.rpy:346
     old "МОЯ МЛАДШАЯ СЕСТРЁНКА"
     new "МОЯ МЛАДШАЯ СЕСТРЁНКА"
 
-    # game/scripts/screens/diary.rpy:360
+    # game/scripts/screens/diary.rpy:361
     old "НАШИ ВЗАИМООТНОШЕНИЯ:"
     new "НАШИ ВЗАИМООТНОШЕНИЯ:"
 

@@ -1,24 +1,24 @@
-﻿# TODO: Translation updated at 2024-02-14 20:38
+﻿# TODO: Translation updated at 2024-04-17 23:25
 
 translate crowdin strings:
 
-    # game/scripts/engine/02_func.rpy:403
+    # game/scripts/engine/02_func.rpy:408
     old "Скрытность"
     new "Скрытность"
 
-    # game/scripts/engine/02_func.rpy:404
+    # game/scripts/engine/02_func.rpy:409
     old "Убеждение"
     new "Убеждение"
 
-    # game/scripts/engine/02_func.rpy:405
+    # game/scripts/engine/02_func.rpy:410
     old "Массаж"
     new "Массаж"
 
-    # game/scripts/engine/02_func.rpy:408
+    # game/scripts/engine/02_func.rpy:413
     old "Настроение {char_name}"
     new "Настроение {char_name}"
 
-    # game/scripts/engine/02_func.rpy:408
+    # game/scripts/engine/02_func.rpy:413
     old "мамы"
     new "мамы"
 

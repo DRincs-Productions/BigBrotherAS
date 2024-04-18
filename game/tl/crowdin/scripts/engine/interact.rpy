@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-01-09 23:01
+﻿# TODO: Translation updated at 2024-04-17 23:25
 
 # game/scripts/engine/interact.rpy:35
 translate crowdin talks_start_41e41361:
@@ -187,4 +187,16 @@ translate crowdin strings:
     # game/scripts/engine/interact.rpy:183
     old "Тебе помочь с домашним заданием?"
     new "Тебе помочь с домашним заданием?"
+
+    # game/scripts/engine/interact.rpy:183
+    old "Я тут подумал о твоём блоге..."
+    new "Я тут подумал о твоём блоге..."
+
+    # game/scripts/engine/interact.rpy:183
+    old "Ты подумала о том, что я предлагал?"
+    new "Ты подумала о том, что я предлагал?"
+
+    # game/scripts/engine/interact.rpy:183
+    old "Я кое-что купил для тебя..."
+    new "Я кое-что купил для тебя..."
 
