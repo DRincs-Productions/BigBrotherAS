@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-18 08:10\n"
+"PO-Revision-Date: 2024-04-18 10:20\n"
 
 # TODO: Translation updated at 2024-04-17 23:25 #|#|# # game/scripts/story_01/lounge_tv.rpy:8 #-#-# translate crowdin ev_ann_tv_talk_df9c7313:
 msgid "[_Ann_s_01_] Да так, всякую ерунду. Хотела какой-нибудь фильм посмотреть. Садись рядом, если тоже делать нечего... [nointeract]"
@@ -166,7 +166,7 @@ msgstr "[_Ann_s_02_] Hay una película por cable que está a punto de empezar. Y
 
 # game/scripts/story_01/lounge_tv.rpy:169 #-#-# translate crowdin ev_038_f601ffe0:
 msgid "[_Ann_s_03_] Я бы вот это посмотрела. Вроде, что-то интересное тут происходит. Если не понравится, то что-нибудь ещё найдём... [nointeract]"
-msgstr ""
+msgstr "[Me gustaría ver esto. Parece que algo interesante está pasando aquí. Si no nos gusta, encontraremos otra cosa... [nointeract]"
 
 # game/scripts/story_01/lounge_tv.rpy:174 #-#-# translate crowdin ev_038_b9efffc7:
 msgid "[_tMax_s_01_] Интересно, а мама под полотенцем совсем голая или в трусиках? Эх, вот бы как-то умудриться подсмотреть..."
@@ -214,7 +214,7 @@ msgstr "[_Max_s_01_] Sí, lo pasamos bien..."
 
 # game/scripts/story_01/lounge_tv.rpy:204 #-#-# translate crowdin ev_038_2bbcc4d6:
 msgid "[_Ann_s_04_] Что, Макс, уморился? Полежи... Я бы и сама с удовольствием легла, но уже отдохнула принимая ванну..."
-msgstr ""
+msgstr "[¿Qué, Max, estás cansado? Acuéstate... Me encantaría tumbarme yo también, pero ya he descansado tomando un baño...."
 
 # game/scripts/story_01/lounge_tv.rpy:206 #-#-# translate crowdin ev_038_b9efffc7_1:
 msgid "[_tMax_s_01_] Интересно, а мама под полотенцем совсем голая или в трусиках? Эх, вот бы как-то умудриться подсмотреть..."
@@ -222,7 +222,7 @@ msgstr "[_tMax_s_01_] Me pregunto si mamá está desnuda bajo la toalla o en bra
 
 # game/scripts/story_01/lounge_tv.rpy:209 #-#-# translate crowdin ev_038_25c68555:
 msgid "[_tMax_s_11_] Хотя, отсюда открывается весьма неплохой вид на её роскошную грудь! Было бы круто как-то незаметно умудриться сдвинуть с неё полотенце. Может и сосочки получилось бы увидеть... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_11_] Aunque, ¡hay una muy buena vista de sus magníficos pechos desde aquí arriba! Sería genial poder quitarle la toalla. A lo mejor también se le ven los pezones... [nointeract]"
 
 # game/scripts/story_01/lounge_tv.rpy:211 #-#-# translate crowdin ev_038_d37de002_1:
 msgid "[_tMax_s_01_] Интересно, а мама под халатом совсем голая или в трусиках? Эх, вот бы как-то умудриться подсмотреть..."
@@ -230,63 +230,63 @@ msgstr "[_tMax_s_01_] Me pregunto si mamá estará desnuda bajo la bata o en bra
 
 # game/scripts/story_01/lounge_tv.rpy:214 #-#-# translate crowdin ev_038_303b9dd9:
 msgid "[_tMax_s_11_] Хотя, отсюда открывается весьма неплохой вид на её роскошную грудь! Было бы круто как-то незаметно умудриться сдвинуть с неё халат. Может и сосочки получилось бы увидеть... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_11_] Aunque, ¡hay una muy buena vista de sus magníficos pechos desde aquí arriba! Sería genial poder quitarle la bata sin que se dieran cuenta. Tal vez podría ver sus pezones también... [nointeract]"
 
 # game/scripts/story_01/lounge_tv.rpy:223 #-#-# translate crowdin ev_038_6e671f76:
 msgid "[_tMax_s_05_] Да! У меня получилось... Она ещё не заметила, но её полотенце сползло и теперь я могу любоваться её потрясающими голыми сисечками! Да ещё и так близко..."
-msgstr ""
+msgstr "[¡Sí! ¡Lo hice! ¡Todavía no se ha dado cuenta, pero su toalla se ha deslizado y ahora puedo admirar sus increíbles tetas desnudas! Y tan cerca..."
 
 # game/scripts/story_01/lounge_tv.rpy:225 #-#-# translate crowdin ev_038_8442a8c7:
 msgid "[_tMax_s_05_] Да! У меня получилось... Она ещё не заметила, но её халат сполз и теперь я могу любоваться её потрясающими голыми сисечками! Да ещё и так близко..."
-msgstr ""
+msgstr "[¡Sí! ¡Lo hice! ¡Todavía no se ha dado cuenta, pero se le ha caído la bata y ahora puedo admirar sus increíbles tetas desnudas! Y tan cerca..."
 
 # game/scripts/story_01/lounge_tv.rpy:226 #-#-# translate crowdin ev_038_6b0ac396:
 msgid "[_Ann_s_13_] Боже мой, Макс! Только не смотри..."
-msgstr ""
+msgstr "[¡Dios mío, Max! No mires..."
 
 # game/scripts/story_01/lounge_tv.rpy:227 #-#-# translate crowdin ev_038_eb35254c:
 msgid "[_Max_s_11_] Что?! Куда?"
-msgstr ""
+msgstr "[¡¿Qué?! ¿A dónde?"
 
 # game/scripts/story_01/lounge_tv.rpy:231 #-#-# translate crowdin ev_038_6b056811:
 msgid "[_Ann_s_11_] Куда-куда, на меня! Полотенце сползло от того, что ты своей головой всё никак у меня на ногах не устроишься."
-msgstr ""
+msgstr "[_Ann_s_11_] ¡Adónde vas, encima de mí! La toalla se deslizó porque usted no puede conseguir su cabeza en mis piernas."
 
 # game/scripts/story_01/lounge_tv.rpy:233 #-#-# translate crowdin ev_038_1b8a60d8:
 msgid "[_Ann_s_11_] Куда-куда, на меня! Халат сполз от того, что ты своей головой всё никак у меня на ногах не устроишься."
-msgstr ""
+msgstr "[_Ann_s_11_] ¡Adónde vas, encima de mí! La bata se cayó porque no puedes poner tu cabeza sobre mis piernas."
 
 # game/scripts/story_01/lounge_tv.rpy:240 #-#-# translate crowdin ev_038_4bc53572:
 msgid "[_Ann_s_14_] Макс! Что ты своей головой всё никак у меня на ногах не устроишься? У меня уже полотенце от тебя начало сползать. Еле прикрыться успела!"
-msgstr ""
+msgstr "[¡Max! ¿Por qué no puedes poner tu cabeza en mis pies? Mi toalla estaba empezando a resbalar de ti. ¡Apenas tuve tiempo de cubrirme!"
 
 # game/scripts/story_01/lounge_tv.rpy:242 #-#-# translate crowdin ev_038_e4cf62c4:
 msgid "[_Ann_s_14_] Макс! Что ты своей головой всё никак у меня на ногах не устроишься? У меня уже халат от тебя начал сползать. Еле прикрыться успела!"
-msgstr ""
+msgstr "[¡Max! ¿Por qué no puedes poner tu cabeza sobre mis piernas? Estás haciendo que se me resbale la bata. ¡Apenas tuve tiempo de cubrirme!"
 
 # game/scripts/story_01/lounge_tv.rpy:244 #-#-# translate crowdin ev_038_9fa71e8c:
 msgid "[_Max_s_01_] Да? А я и не заметил..."
-msgstr ""
+msgstr "[¿Sí? No me había dado cuenta..."
 
 # game/scripts/story_01/lounge_tv.rpy:245 #-#-# translate crowdin ev_038_0ae4ed70:
 msgid "[_Ann_s_10_] Вот и хорошо! Чтобы больше такого не было, понял? Если уж положил голову мне на ноги, то будь добр - не крутись и лежи спокойно."
-msgstr ""
+msgstr "[¡Qué bien! Que no vuelva a pasar, ¿vale? Si vas a poner tu cabeza en mis piernas, entonces no te des la vuelta y quédate quieta."
 
 # game/scripts/story_01/lounge_tv.rpy:246 #-#-# translate crowdin ev_038_a865c100:
 msgid "[_Max_s_12_] Ладно, я постараюсь..."
-msgstr ""
+msgstr "[Vale, lo intentaré..."
 
 # game/scripts/story_01/lounge_tv.rpy:248 #-#-# translate crowdin ev_038_8da284a7:
 msgid "[_Ann_s_12_] Теперь иди займись чем-нибудь, дай мне без происшествий досмотреть сериал. [nointeract]"
-msgstr ""
+msgstr "[_Ann_s_12_] Ahora vete a hacer algo, déjame terminar el programa sin incidentes. [nointeractúa]"
 
 # game/scripts/story_01/lounge_tv.rpy:256 #-#-# translate crowdin ev_038_cad2abbe:
 msgid "[_tMax_s_12_] Совсем недавно мама уже ругала меня за это. Лучше не расстраивать её лишний раз и подождать хотя бы несколько дней... [nointeract]"
-msgstr ""
+msgstr "[Mi madre ya me ha regañado hace poco. Es mejor no disgustarla innecesariamente y esperar al menos unos días... [nointeract]"
 
 # game/scripts/story_01/lounge_tv.rpy:258 #-#-# translate crowdin ev_038_aca779af:
 msgid "[_tMax_s_12_] Совсем недавно мама уже ругала меня за это. Лучше не расстраивать её лишний раз и подождать хотя бы ещё денёк... [nointeract]"
-msgstr ""
+msgstr "[Mamá me regañó por eso hace poco. Mejor no molestarla innecesariamente y esperar al menos otro día.... [nointeract]"
 
 # game/scripts/story_01/lounge_tv.rpy:268 #-#-# translate crowdin ev_038_no_risk_83b78545:
 msgid "[_Ann_s_04_] Ну что, отличный сериал, как мне кажется! А тебе понравилось, Макс? [nointeract]"
@@ -294,7 +294,7 @@ msgstr "[_Ann_s_04_] Bueno, creo que es una gran serie. ¿Te ha gustado, Max? [n
 
 # game/scripts/story_01/lounge_tv.rpy:270 #-#-# translate crowdin ev_038_no_risk_364aa97a:
 msgid "[_Ann_s_02_] Ну, я рада. Ладно, спасибо что составил мне компанию. Пойду в свою комнату, хватит глаза портить на сегодня..."
-msgstr ""
+msgstr "[Me alegro. Vale, gracias por hacerme compañía. Me voy a mi habitación, ya he terminado de estropearme los ojos por hoy...."
 
 # game/scripts/story_01/lounge_tv.rpy:271 #-#-# translate crowdin ev_038_no_risk_80f5b0f1:
 msgid "[_Max_s_01_] Ага, давай..."
@@ -314,7 +314,7 @@ msgstr "[_Ann_s_02_] Bien. Bueno, gracias por la compañía. Voy a ir a mi habit
 
 # game/scripts/story_01/lounge_tv.rpy:277 #-#-# translate crowdin ev_038_no_risk_68fe7a10:
 msgid "[_Max_s_01_] Ага, с тобой было очень уютно..."
-msgstr ""
+msgstr "[_Max_s_01_] Sí, fue muy acogedor contigo....."
 
 # game/scripts/story_01/lounge_tv.rpy:290 #-#-# translate crowdin ev_091_f1c77e04:
 msgid "[_Alice_s_04_] Что-то новенькое! Как будто ты умеешь это делать..."
@@ -594,11 +594,11 @@ msgstr "Mamá, ¿quieres un masaje?"
 
 # game/scripts/story_01/lounge_tv.rpy:168
 msgid "{i}смотреть ТВ сидя{/i}"
-msgstr ""
+msgstr "{i}ver la televisión sentado{/i}"
 
 # game/scripts/story_01/lounge_tv.rpy:168
 msgid "{i}смотреть ТВ положив голову маме на ноги{/i}"
-msgstr ""
+msgstr "{i}viendo la tele con la cabeza de mi madre sobre mis piernas."
 
 # game/scripts/story_01/lounge_tv.rpy:187
 msgid "Да, хорошо посидели!"
@@ -610,7 +610,7 @@ msgstr "Sí, ¡había mucho con lo que fantasear!"
 
 # game/scripts/story_01/lounge_tv.rpy:215
 msgid "{i}тихонько поёрзать головой{/i}"
-msgstr ""
+msgstr "{i}sacude la cabeza en silencio."
 
 # game/scripts/story_01/lounge_tv.rpy:215
 msgid "{i}не рисковать{/i}"
@@ -618,7 +618,7 @@ msgstr "{i}no correr riesgos{/i}"
 
 # game/scripts/story_01/lounge_tv.rpy:267
 msgid "Да, с тобой было очень уютно!"
-msgstr ""
+msgstr "¡Sí, fue muy acogedor contigo!"
 
 # game/scripts/story_01/lounge_tv.rpy:298
 msgid "Хорошо. Ложись на спину и я начну массаж..."
