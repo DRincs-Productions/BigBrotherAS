@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2024-02-26 08:59\n"
+"PO-Revision-Date: 2024-04-18 08:10\n"
 
-# TODO: Translation updated at 2024-02-14 20:38 #|#|# # game/scripts/story_01/hidden_cams.rpy:12 #-#-# translate crowdin ev_003_089bb89e:
+# TODO: Translation updated at 2024-04-17 23:25 #|#|# # game/scripts/story_01/hidden_cams.rpy:12 #-#-# translate crowdin ev_003_089bb89e:
 msgid "[_tMax_s_13_] Так, мама попросила разобрать коробки. Сейчас глянем, что тут у нас..."
 msgstr "[Εντάξει, η μαμά μου ζήτησε να ξεπακετάρω τα κουτιά. Ας δούμε τι έχουμε εδώ..."
 
@@ -80,39 +80,39 @@ msgstr "[_tMax_s_13_] Και ξέρω πού να πάω πρώτα! Αυτό π
 msgid "[_tMax_s_16_] Правда, если придётся устанавливать камеру под потолок, как это сделано в гостиной, то мне понадобится ещё и стремянка. Ох, придётся подкопить немало деньжат..."
 msgstr ""
 
-# game/scripts/story_01/hidden_cams.rpy:120 #-#-# translate crowdin ev_install_cam_not_time_de1b0ce2:
+# game/scripts/story_01/hidden_cams.rpy:122 #-#-# translate crowdin ev_install_cam_not_time_de1b0ce2:
 msgid "[_tMax_s_13_] Сейчас не лучшее время, чтобы устанавливать скрытую камеру!"
 msgstr ""
 
-# game/scripts/story_01/hidden_cams.rpy:124 #-#-# translate crowdin ev_install_cam_many_people_28c0be59:
+# game/scripts/story_01/hidden_cams.rpy:126 #-#-# translate crowdin ev_install_cam_many_people_28c0be59:
 msgid "[_tMax_s_13_] Сейчас не лучшее время, чтобы устанавливать скрытую камеру! В доме слишком много народа..."
 msgstr ""
 
-# game/scripts/story_01/hidden_cams.rpy:133 #-#-# translate crowdin ev_install_cam_bathroom_1_b838c286:
+# game/scripts/story_01/hidden_cams.rpy:135 #-#-# translate crowdin ev_install_cam_bathroom_1_b838c286:
 msgid "[_tMax_s_12_] Сейчас постараюсь спрятать эту камеру как можно лучше, пока Алиса не спустилась во двор. Вроде, получается..."
 msgstr ""
 
-# game/scripts/story_01/hidden_cams.rpy:135 #-#-# translate crowdin ev_install_cam_bathroom_1_e68feba9:
+# game/scripts/story_01/hidden_cams.rpy:137 #-#-# translate crowdin ev_install_cam_bathroom_1_e68feba9:
 msgid "[_tMax_s_12_] Сейчас постараюсь спрятать эту камеру как можно лучше, пока дома никого нет. Вроде, получается..."
 msgstr ""
 
-# game/scripts/story_01/hidden_cams.rpy:136 #-#-# translate crowdin ev_install_cam_bathroom_1_5aac82a5:
+# game/scripts/story_01/hidden_cams.rpy:138 #-#-# translate crowdin ev_install_cam_bathroom_1_5aac82a5:
 msgid "[_tMax_s_03_] В кадр как раз будет попадать то, что происходит в душе и ванне, да и мне не обязательно будет теперь рисковать, чтобы увидеть голеньких и мокрых сестёр или маму. Готово!"
 msgstr ""
 
-# game/scripts/story_01/hidden_cams.rpy:141 #-#-# translate crowdin ev_install_cam_bathroom_1_71ff42cb:
+# game/scripts/story_01/hidden_cams.rpy:143 #-#-# translate crowdin ev_install_cam_bathroom_1_71ff42cb:
 msgid "[_tMax_s_11_] Конечно, с точки зрения морали ставить камеру в ванной комнате сомнительно. Однако, тут и так окно во всю стену. Так что, формально я лишь приоткрыл это окно... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/hidden_cams.rpy:146 #-#-# translate crowdin ev_install_cam_bathroom_1_d1974012:
+# game/scripts/story_01/hidden_cams.rpy:148 #-#-# translate crowdin ev_install_cam_bathroom_1_d1974012:
 msgid "[_tMax_s_12_] Ещё надо подключить эту камеру и разобраться во всех настройках. Сложного тут ничего нет, но немного повозиться придётся..."
 msgstr ""
 
-# game/scripts/story_01/hidden_cams.rpy:150 #-#-# translate crowdin ev_install_cam_bathroom_1_6d1a29c9:
+# game/scripts/story_01/hidden_cams.rpy:152 #-#-# translate crowdin ev_install_cam_bathroom_1_6d1a29c9:
 msgid "[_tMax_s_04_] Вот всё и заработало! Теперь, благодаря камере в ванной комнате, мой сайт должен приносить побольше дохода, чем было. Да и на мокрые сисечки всегда приятно посмотреть, теперь ещё и с комфортом."
 msgstr ""
 
-# game/scripts/story_01/hidden_cams.rpy:151 #-#-# translate crowdin ev_install_cam_bathroom_1_7c9e4204:
+# game/scripts/story_01/hidden_cams.rpy:153 #-#-# translate crowdin ev_install_cam_bathroom_1_7c9e4204:
 msgid "[_tMax_s_13_] Правда, подглядывать в окна или заглядывать в комнаты всё равно временами нужно, а то я всю сноровку растеряю и меня станут ловить на раз-два..."
 msgstr ""
 
@@ -148,7 +148,7 @@ msgstr "Η εργασία \"Ένας τρόπος για να βγάλεις χ�
 msgid "Открыто новое задание «Приумножение заработка»!"
 msgstr "Μια νέα αποστολή \"Αυξήστε τα κέρδη σας\" είναι ανοιχτή!"
 
-# game/scripts/story_01/hidden_cams.rpy:140
+# game/scripts/story_01/hidden_cams.rpy:142
 msgid "{i}пойти настроить камеру{/i}"
 msgstr ""
 
