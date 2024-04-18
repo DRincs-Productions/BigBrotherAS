@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-18 08:11\n"
+"PO-Revision-Date: 2024-04-18 11:28\n"
 
 # TODO: Translation updated at 2024-04-17 23:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/screens.rpy:277
 msgid "Нужно подождать дней: {cooldown}"
@@ -52,7 +52,7 @@ msgstr "Richiesto: {skill_name}...{min_lvl}"
 
 # game/scripts/screens/screens.rpy:308
 msgid "Мин. опыт применения навыка: {min_progress}%"
-msgstr "Esperienza minima nell'applicazione delle competenze: {min_progress}%."
+msgstr "Esperienza minima nell'applicazione delle competenze: {min_progress}%"
 
 # game/scripts/screens/screens.rpy:449
 msgid "История"
