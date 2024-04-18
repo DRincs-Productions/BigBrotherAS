@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-02-26 08:57\n"
+"PO-Revision-Date: 2024-04-18 08:13\n"
 
-# TODO: Translation updated at 2024-02-14 20:38 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/02_func.rpy:403
+# TODO: Translation updated at 2024-04-17 23:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/02_func.rpy:408
 msgid "Скрытность"
 msgstr "Gizlilik"
 
-# game/scripts/engine/02_func.rpy:404
+# game/scripts/engine/02_func.rpy:409
 msgid "Убеждение"
 msgstr "Inanç"
 
-# game/scripts/engine/02_func.rpy:405
+# game/scripts/engine/02_func.rpy:410
 msgid "Массаж"
 msgstr ""
 
-# game/scripts/engine/02_func.rpy:408
+# game/scripts/engine/02_func.rpy:413
 msgid "Настроение {char_name}"
 msgstr "Ruh hali {char_name}"
 
-# game/scripts/engine/02_func.rpy:408
+# game/scripts/engine/02_func.rpy:413
 msgid "мамы"
 msgstr "anneler"
 
