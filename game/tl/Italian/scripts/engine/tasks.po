@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-02-26 11:46\n"
+"PO-Revision-Date: 2024-04-18 08:11\n"
 
-# TODO: Translation updated at 2024-02-14 20:38 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:174
+# TODO: Translation updated at 2024-04-17 23:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:174
 msgid "Любопытное содержимое"
 msgstr "Contenuto curioso"
 
@@ -112,6 +112,10 @@ msgid "Это можно сделать, если Алиса находится 
 msgstr "Questo può essere fatto se Alice è al 2° piano e gli altri non sono in casa..."
 
 # game/scripts/engine/tasks.rpy:174
+msgid "В следующих версиях..."
+msgstr "Nelle versioni successive..."
+
+# game/scripts/engine/tasks.rpy:174
 msgid "Может это и не очень правильно, но мне очень хотелось бы иметь возможность подсматривать за тем, как женская часть моей семьи принимает ванну. К сожалению, этому мешают полоски на стеклах в ванной комнате, которые скрывают самое интересное... \n"
 "Зато, если прикупить не очень высокую стремянку, то можно будет подглядывать через заднее окно..."
 msgstr "Forse non è la cosa giusta da fare, ma mi piacerebbe davvero poter sbirciare la parte femminile della mia famiglia che fa il bagno. Purtroppo questo è ostacolato dalle strisce sul vetro del bagno, che nascondono le parti più interessanti... \n"
@@ -135,13 +139,55 @@ msgstr "Streaming"
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Алиса рассказала о своём блоге, а так же о своей проблеме, связанной с потерей вещей во время переезда. Теперь ей нечего показывать, не в чем вести блог и, вообще, она в печали. \n"
-"Но чтобы ей хоть как-то помочь, сперва нужно разжиться деньгами..."
-msgstr "Alice ha parlato del suo blog e del problema della perdita degli oggetti durante il trasloco. Ora non ha nulla da mostrare, nulla da scrivere nel suo blog ed è triste. \n"
-"Ma per poterla aiutare in qualche modo, dovrò prima procurarmi un po' di soldi..."
+"Но чтобы ей хоть как-то помочь с блогом, сперва нужно разжиться лишними деньгами, а это дело небыстрое.\n"
+"Пока же можно поработать над нашими взаимоотношениями, ведь там есть куда расти. Вопрос только, как этого добиться?"
+msgstr "Alice ha parlato del suo blog e anche del problema di aver perso le sue cose durante il trasloco. Ora non ha nulla da mostrare, nulla in cui scrivere sul blog ed è generalmente triste. \n"
+"Ma per aiutarla in qualche modo con il suo blog, dobbiamo prima ottenere un po' di soldi in più, e non è una soluzione rapida.\n"
+"Nel frattempo, possiamo lavorare sul nostro rapporto, perché c'è spazio per crescere. L'unica domanda è: come lo facciamo?"
 
 # game/scripts/engine/tasks.rpy:174
-msgid "В следующих версиях..."
-msgstr "Nelle versioni successive..."
+msgid "Найти способ улучшить взаимоотношения с Алисой."
+msgstr "Trovare un modo per migliorare il rapporto con Alice."
+
+# game/scripts/engine/tasks.rpy:174
+msgid "Возможно, какой-нибудь способ скоро подвернётся..."
+msgstr "Forse presto salterà fuori qualche modo....."
+
+# game/scripts/engine/tasks.rpy:174
+msgid "Нужно завершить задание «Арахнофобия»!"
+msgstr "Dobbiamo completare la missione «Aracnofobia»!"
+
+# game/scripts/engine/tasks.rpy:174
+msgid "Убедить Алису заняться эротическими вэб-трансляциями."
+msgstr "Convincere Alice a fare webcasting erotico."
+
+# game/scripts/engine/tasks.rpy:174
+msgid "Нужно подойти к Алисе и поговорить с ней на эту тему..."
+msgstr "Dobbiamo andare da Alice e parlarne con lei...."
+
+# game/scripts/engine/tasks.rpy:174
+msgid "Нужно купить курс по эффективному общению..."
+msgstr "Necessità di acquistare un corso sulla comunicazione efficace...."
+
+# game/scripts/engine/tasks.rpy:174
+msgid "Нужно изучить весь курс по эффективному общению..."
+msgstr "Necessità di studiare l'intero corso sulla comunicazione efficace....."
+
+# game/scripts/engine/tasks.rpy:174
+msgid "Пойти с Алисой в магазин одежды."
+msgstr "Andare al negozio di vestiti con Alice."
+
+# game/scripts/engine/tasks.rpy:174
+msgid "Нужно просто ждать..."
+msgstr "Occorre solo aspettare..."
+
+# game/scripts/engine/tasks.rpy:174
+msgid "Купить для Алисы тёмное нижнее бельё"
+msgstr "Compra ad Alice della lingerie scura."
+
+# game/scripts/engine/tasks.rpy:174
+msgid "Нужно вручить Алисе подарок, когда она находится в своей комнате..."
+msgstr "È necessario fare un regalo ad Alice quando si trova nella sua stanza...."
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Вредная привычка"
@@ -326,10 +372,6 @@ msgid "Дождаться следующего утреннего стояка �
 msgstr "In attesa dell'erezione del mattino successivo e della reazione di Lisa."
 
 # game/scripts/engine/tasks.rpy:174
-msgid "Нужно просто ждать..."
-msgstr "Occorre solo aspettare..."
-
-# game/scripts/engine/tasks.rpy:174
 msgid "Застенчивая школьница"
 msgstr "Studentessa timida"
 
@@ -486,10 +528,6 @@ msgstr "Per questo, bisogna evitare di fare errori durante il massaggio dei suoi
 # game/scripts/engine/tasks.rpy:174
 msgid "Убедить Алису снять джинсы."
 msgstr "Convinci Alice a togliersi i jeans."
-
-# game/scripts/engine/tasks.rpy:174
-msgid "Нужно завершить задание «Арахнофобия»!"
-msgstr "Dobbiamo completare la missione «Aracnofobia»!"
 
 # game/scripts/engine/tasks.rpy:174
 msgid "Это можно будет сделать во время массажа ног Алисы у ТВ..."
