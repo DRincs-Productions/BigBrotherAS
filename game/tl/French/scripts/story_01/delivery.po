@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-18 08:09\n"
+"PO-Revision-Date: 2024-04-18 10:19\n"
 
 # TODO: Translation updated at 2024-04-17 23:25 #|#|# # game/scripts/story_01/delivery.rpy:27 #-#-# translate crowdin ev_delivery_eb6a6385:
 msgid "[_tMax_s_11_] Звонок в ворота! Похоже, к нам кто-то приехал..."
@@ -30,9 +30,9 @@ msgstr "L'affectation «Huile de bronzage« a été mise à jour !"
 
 # game/scripts/story_01/delivery.rpy:42
 msgid "Задание «Стремянка» обновлено!"
-msgstr ""
+msgstr "L'affectation \"escabeau\" a été mise à jour !"
 
 # game/scripts/story_01/delivery.rpy:44
 msgid "Задание «Приумножение заработка» обновлено!"
-msgstr ""
+msgstr "Le devoir de multiplication des gains a été mis à jour !"
 
