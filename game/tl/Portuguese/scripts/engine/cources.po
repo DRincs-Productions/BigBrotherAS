@@ -10,15 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2023-10-15 15:47\n"
+"PO-Revision-Date: 2024-04-18 08:12\n"
 
-# TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/cources.rpy:93
+# TODO: Translation updated at 2024-04-17 23:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/cources.rpy:93
 msgid "Массаж ступней"
 msgstr ""
 
 # game/scripts/engine/cources.rpy:93
-msgid "Это уникальная методика массажа с целью оказания оздоравливающего воздействия на организм. Она эффективна и в тоже время несложна в исполнении."
-msgstr ""
+msgid "Это уникальная методика массажа с целью оказания оздоравливающего воздействия на организм. \n"
+"Она эффективна и в тоже время несложна в исполнении."
+msgstr "Este é um método único de massagem com o objetivo de proporcionar um efeito curativo no corpo. \n"
+"É eficaz e, ao mesmo tempo, não é difícil de executar."
 
 # game/scripts/engine/cources.rpy:93
 msgid "Массаж кистей рук"
@@ -37,14 +39,18 @@ msgid "Навыки общения: Основы коммуникации"
 msgstr ""
 
 # game/scripts/engine/cources.rpy:93
-msgid "Это второй курс обучения навыкам общения. Из него вы узнаете как повлиять на решение человека без слов, как подобрать правильный слова в нужной ситуации для достижения своей цели."
-msgstr ""
+msgid "Это второй курс обучения навыкам общения. \n"
+"Из него вы узнаете как повлиять на решение человека без слов, как подобрать правильный слова в нужной ситуации для достижения своей цели."
+msgstr "Este é o segundo curso de competências de comunicação. \n"
+"Nele aprenderá como influenciar a decisão de uma pessoa sem palavras, como escolher as palavras certas na situação certa para atingir o seu objetivo."
 
 # game/scripts/engine/cources.rpy:93
 msgid "Навыки общения: Без границ"
 msgstr ""
 
 # game/scripts/engine/cources.rpy:93
-msgid "Это продвинутый длительный курс, предназначенный для тех, кто хочет постоянно обучаться и совершенствоваться. На данный момент это последний доступный курс."
-msgstr ""
+msgid "Это продвинутый длительный курс, предназначенный для тех, кто хочет постоянно обучаться и совершенствоваться. \n"
+"На данный момент это последний доступный курс."
+msgstr "Este é um curso avançado de longa duração concebido para aqueles que querem aprender e melhorar continuamente. \n"
+"Este é o último curso disponível neste momento."
 
