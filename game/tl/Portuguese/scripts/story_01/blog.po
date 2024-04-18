@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-04-18 08:12\n"
+"PO-Revision-Date: 2024-04-18 10:21\n"
 
 # TODO: Translation updated at 2024-04-17 23:25 #|#|# # game/scripts/story_01/blog.rpy:11 #-#-# translate crowdin ev_017_423a776a:
 msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
@@ -1132,7 +1132,7 @@ msgstr "{i}pagar a compra e esperar pela Alice{/i}"
 
 # game/scripts/story_01/blog.rpy:536
 msgid "{i}вернуться на виллу{/i}"
-msgstr ""
+msgstr "{i}para regressar à villa{/i}"
 
 # game/scripts/story_01/blog.rpy:557
 msgid "{i}подождать Алису и вернуться на виллу{/i}"
