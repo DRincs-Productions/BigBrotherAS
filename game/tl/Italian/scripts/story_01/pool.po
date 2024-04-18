@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-18 08:11\n"
+"PO-Revision-Date: 2024-04-18 10:21\n"
 
 # TODO: Translation updated at 2024-04-17 23:25 #|#|# # game/scripts/story_01/pool.rpy:10 #-#-# translate crowdin alice_swims_talk_2c2308f4:
 msgid "[_Alice_s_01_] Может быть. А что, тоже хочешь? Ну, присоединяйся... [nointeract]"
@@ -170,7 +170,7 @@ msgstr "[_Ann_s_02_] Perché no? Non ci sarà il sole, ma l'acqua è ancora cald
 
 # game/scripts/story_01/pool.rpy:226 #-#-# translate crowdin ann_night_swim_talk_296cd094:
 msgid "[_tMax_s_03_] Правильно, такую сногсшибательную фигуру нужно держать в тонусе и красиво подвигаться в воде перед сном самое то... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_03_] Esatto, un fisico così splendido va tonificato e un bel movimento in acqua prima di andare a letto è proprio quello che ci vuole... [nointeract]"
 
 # game/scripts/story_01/pool.rpy:237 #-#-# translate crowdin ann_night_swim_talk_7c507641:
 msgid "[_Ann_s_02_] Немного, чтобы спалось крепче. Ложиться скоро, а сна ни в одном глазу... [nointeract]"
@@ -178,7 +178,7 @@ msgstr "[_Ann_s_02_] Un po' per aiutarmi a dormire meglio. È quasi ora di andar
 
 # game/scripts/story_01/pool.rpy:246 #-#-# translate crowdin ann_night_swim_talk_296cd094_1:
 msgid "[_tMax_s_03_] Правильно, такую сногсшибательную фигуру нужно держать в тонусе и красиво подвигаться в воде перед сном самое то... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_03_] Esatto, un fisico così splendido va tonificato e un bel movimento in acqua prima di andare a letto è proprio quello che ci vuole... [nointeract]"
 
 # game/scripts/story_01/pool.rpy:266 #-#-# translate crowdin ann_swim_talk_7b0614e9:
 msgid "[_Ann_s_02_] Обязательно! Если хочешь, присоединяйся? Поплаваем вместе... [nointeract]"
