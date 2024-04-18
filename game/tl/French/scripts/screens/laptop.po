@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-12 13:36\n"
+"PO-Revision-Date: 2024-04-18 08:08\n"
 
-# TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/laptop.rpy:21
+# TODO: Translation updated at 2024-04-17 23:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/laptop.rpy:21
 msgid "ОНЛАЙН-КУРСЫ"
 msgstr "COURS EN LIGNE"
 
@@ -36,91 +36,91 @@ msgstr "CYBER-BANK"
 msgid "ЧИТ-МЕНЮ"
 msgstr "CHIT MENU"
 
-# game/scripts/screens/laptop.rpy:42
+# game/scripts/screens/laptop.rpy:43
 msgid "Назад"
 msgstr "Précédent"
 
-# game/scripts/screens/laptop.rpy:46
+# game/scripts/screens/laptop.rpy:47
 msgid "Выключить"
 msgstr "Éteindre"
 
-# game/scripts/screens/laptop.rpy:52
+# game/scripts/screens/laptop.rpy:57
 msgid "Ждать 10 минут"
 msgstr "Attendre 10 minutes"
 
-# game/scripts/screens/laptop.rpy:197
+# game/scripts/screens/laptop.rpy:202
 msgid "КУПЛЕНО"
 msgstr "ACHETÉ"
 
-# game/scripts/screens/laptop.rpy:202
+# game/scripts/screens/laptop.rpy:207
 msgid "КУПИТЬ (недостаточно средств)"
 msgstr "BUY (fonds insuffisants)"
 
-# game/scripts/screens/laptop.rpy:207
+# game/scripts/screens/laptop.rpy:212
 msgid "КУПИТЬ"
 msgstr "ACHETER"
 
-# game/scripts/screens/laptop.rpy:208
+# game/scripts/screens/laptop.rpy:213
 msgid "Приобрести \"{name}\" за ${price}?"
 msgstr "Achat «{name}« pour ${price}?"
 
-# game/scripts/screens/laptop.rpy:238
+# game/scripts/screens/laptop.rpy:243
 msgid "Скидка [item.sale_percent]%"
 msgstr "Remise [item.sale_percent]%"
 
-# game/scripts/screens/laptop.rpy:259
+# game/scripts/screens/laptop.rpy:264
 msgid "В данный момент нет доступных товаров. Загляните позже."
 msgstr "Il n'y a pas de produits disponibles pour le moment. Revenez plus tard."
 
-# game/scripts/screens/laptop.rpy:419
+# game/scripts/screens/laptop.rpy:424
 msgid "Что будем искать?"
 msgstr "Qu'est ce que je recherche?"
 
-# game/scripts/screens/laptop.rpy:470
+# game/scripts/screens/laptop.rpy:475
 msgid "ВЫГОДНЫЕ ЗАЙМЫ ИНТЕРНЕТ-ПРЕДПРИНИМАТЕЛЯМ"
 msgstr "PRÊTS INTERESSANT POUR LES ENTREPRENEURS D'INTERNET"
 
-# game/scripts/screens/laptop.rpy:474
+# game/scripts/screens/laptop.rpy:479
 msgid "ВЗЯТЬ КРЕДИТ"
 msgstr "CONTRACTER UN PRÊT"
 
-# game/scripts/screens/laptop.rpy:510
+# game/scripts/screens/laptop.rpy:515
 msgid "Общий доход:"
 msgstr "Revenu total:"
 
-# game/scripts/screens/laptop.rpy:511
+# game/scripts/screens/laptop.rpy:516
 msgid "Последнее начисление:"
 msgstr "Dernière régularisation :"
 
-# game/scripts/screens/laptop.rpy:588
+# game/scripts/screens/laptop.rpy:594
 msgid "Общение"
 msgstr "Réseaux Sociaux"
 
-# game/scripts/screens/laptop.rpy:603
+# game/scripts/screens/laptop.rpy:609
 msgid "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
 msgstr "Vous avez terminé tous les leçons et cours disponibles dans cette catégorie. Peut-être que de nouvelles leçons apparaîtront dans la prochaine version du jeu."
 
-# game/scripts/screens/laptop.rpy:611
+# game/scripts/screens/laptop.rpy:617
 msgid "Вы уже оплатили этот курс и можете в любой момент включить следующий доступный видеоурок."
 msgstr "Vous avez déjà payé pour ce cours et pouvez activer le prochain didacticiel vidéo disponible à tout moment."
 
-# game/scripts/screens/laptop.rpy:612
+# game/scripts/screens/laptop.rpy:618
 msgid "Занятие [learn] из 3"
 msgstr "Classe [learn] de 3"
 
-# game/scripts/screens/laptop.rpy:615
+# game/scripts/screens/laptop.rpy:621
 msgid "НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА"
 msgstr "COMMENCER À REGARDER LA LEÇON VIDÉO"
 
-# game/scripts/screens/laptop.rpy:619
+# game/scripts/screens/laptop.rpy:625
 msgid "ВЫ УЧИЛИСЬ СОВСЕМ НЕДАВНО. СДЕЛАЙТЕ ПЕРЕРЫВ!"
 msgstr "QUE VOUS AVEZ ÉTUDIÉS RÉCEMMENT. FAITES UNE PAUSE !"
 
-# game/scripts/screens/laptop.rpy:627
+# game/scripts/screens/laptop.rpy:633
 msgid "Количество занятий: 3"
 msgstr "Nombre de classes : 3"
 
-# game/scripts/screens/laptop.rpy:629
+# game/scripts/screens/laptop.rpy:635
 msgid "ПРИОБРЕСТИ ЭТОТ КУРС ЗА $[cource.price]"
 msgstr "POUR ACHETER CE COURS AU PRIX DE[cource.price]"
 
