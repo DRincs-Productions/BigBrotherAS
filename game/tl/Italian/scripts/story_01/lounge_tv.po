@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-18 10:21\n"
+"PO-Revision-Date: 2024-04-19 16:15\n"
 
 # TODO: Translation updated at 2024-04-17 23:25 #|#|# # game/scripts/story_01/lounge_tv.rpy:8 #-#-# translate crowdin ev_ann_tv_talk_df9c7313:
 msgid "[_Ann_s_01_] Да так, всякую ерунду. Хотела какой-нибудь фильм посмотреть. Садись рядом, если тоже делать нечего... [nointeract]"
@@ -166,7 +166,7 @@ msgstr "[_Ann_s_02_] Sì, c'è un film sulla tv via cavo che sta per iniziare. E
 
 # game/scripts/story_01/lounge_tv.rpy:169 #-#-# translate crowdin ev_038_f601ffe0:
 msgid "[_Ann_s_03_] Я бы вот это посмотрела. Вроде, что-то интересное тут происходит. Если не понравится, то что-нибудь ещё найдём... [nointeract]"
-msgstr "[Mi piacerebbe vederlo. Sembra che qui ci sia qualcosa di interessante. Se non ci piace, troveremo qualcos'altro... [nointeract]"
+msgstr "[_Ann_s_03_] Mi piacerebbe vedere questo. Sembra che qualcosa di interessante stia succedendo qui. Se non ci piace, troveremo qualcos’altro... [nointeract]"
 
 # game/scripts/story_01/lounge_tv.rpy:174 #-#-# translate crowdin ev_038_b9efffc7:
 msgid "[_tMax_s_01_] Интересно, а мама под полотенцем совсем голая или в трусиках? Эх, вот бы как-то умудриться подсмотреть..."
@@ -214,7 +214,7 @@ msgstr "[_Max_s_01_] Sì, ci siamo divertiti..."
 
 # game/scripts/story_01/lounge_tv.rpy:204 #-#-# translate crowdin ev_038_2bbcc4d6:
 msgid "[_Ann_s_04_] Что, Макс, уморился? Полежи... Я бы и сама с удовольствием легла, но уже отдохнула принимая ванну..."
-msgstr "[Che c'è, Max, sei stanco? Sdraiati... Mi piacerebbe sdraiarmi anch'io, ma mi sono già riposato facendo un bagno...."
+msgstr "[_Ann_s_04_] Cosa, Max, sei stanco? Riposa un po’... Anche io mi sarei volentieri sdraiata, ma ho già riposato facendo il bagno..."
 
 # game/scripts/story_01/lounge_tv.rpy:206 #-#-# translate crowdin ev_038_b9efffc7_1:
 msgid "[_tMax_s_01_] Интересно, а мама под полотенцем совсем голая или в трусиках? Эх, вот бы как-то умудриться подсмотреть..."
@@ -222,7 +222,7 @@ msgstr "[_tMax_s_01_] Mi chiedo se la mamma sia completamente nuda sotto l'asciu
 
 # game/scripts/story_01/lounge_tv.rpy:209 #-#-# translate crowdin ev_038_25c68555:
 msgid "[_tMax_s_11_] Хотя, отсюда открывается весьма неплохой вид на её роскошную грудь! Было бы круто как-то незаметно умудриться сдвинуть с неё полотенце. Может и сосочки получилось бы увидеть... [nointeract]"
-msgstr "[Anche se da quassù si vede bene il suo magnifico seno! Sarebbe bello poterle sfilare l'asciugamano di dosso. Forse si potrebbero vedere anche i capezzoli... [nointeract]"
+msgstr "[_tMax_s_11_] Anche se da quassù si vede bene il suo magnifico seno! Sarebbe bello se potessi toglierle di nascosto l'asciugamano. Forse si potrebbero vedere i suoi capezzoli... [nointeract]"
 
 # game/scripts/story_01/lounge_tv.rpy:211 #-#-# translate crowdin ev_038_d37de002_1:
 msgid "[_tMax_s_01_] Интересно, а мама под халатом совсем голая или в трусиках? Эх, вот бы как-то умудриться подсмотреть..."
@@ -230,7 +230,7 @@ msgstr "[_tMax_s_01_] Mi chiedo se la mamma sia nuda sotto la vestaglia o in mut
 
 # game/scripts/story_01/lounge_tv.rpy:214 #-#-# translate crowdin ev_038_303b9dd9:
 msgid "[_tMax_s_11_] Хотя, отсюда открывается весьма неплохой вид на её роскошную грудь! Было бы круто как-то незаметно умудриться сдвинуть с неё халат. Может и сосочки получилось бы увидеть... [nointeract]"
-msgstr "[Anche se da quassù si vede bene il suo magnifico seno! Sarebbe bello poterle sfilare la vestaglia senza farsi notare. Forse potrei vedere anche i suoi capezzoli... [nointeract]"
+msgstr "[_tMax_s_11_] Anche se da quassù si vede bene il suo magnifico seno! Sarebbe bello poterle sfilare la vestaglia. Forse si potrebbero vedere i suoi capezzoli... [nointeract]"
 
 # game/scripts/story_01/lounge_tv.rpy:223 #-#-# translate crowdin ev_038_6e671f76:
 msgid "[_tMax_s_05_] Да! У меня получилось... Она ещё не заметила, но её полотенце сползло и теперь я могу любоваться её потрясающими голыми сисечками! Да ещё и так близко..."
