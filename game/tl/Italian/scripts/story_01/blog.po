@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-19 12:50\n"
+"PO-Revision-Date: 2024-04-19 13:59\n"
 
 # TODO: Translation updated at 2024-04-17 23:25 #|#|# # game/scripts/story_01/blog.rpy:11 #-#-# translate crowdin ev_017_423a776a:
 msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
@@ -945,8 +945,8 @@ msgstr "[_Alice_s_02_] Davvero?! Quanto è ancora ingenua. Va bene, rimani in ca
 # game/scripts/story_01/blog.rpy:603 #-#-# translate crowdin ev_098_42837c4e:
 msgid "[_Alice_] {b}Алиса:{/b} \n"
 "И глаза закрой, а то ещё моё отражение где-нибудь увидишь... [nointeract]"
-msgstr "[ {b}Alice:{/b} \n"
-"E chiudi gli occhi, o vedrai il mio riflesso da qualche parte... [nointeract]"
+msgstr "[_Alice_] {b}Аlice:{/b} \n"
+"E chiudi gli occhi, altrimenti potresti vedere il mio riflesso da qualche parte... [nointeract]"
 
 # game/scripts/story_01/blog.rpy:605 #-#-# translate crowdin ev_098_74c9f743:
 msgid "[_tMax_s_13_] Эх, она ведь там сейчас наверняка голыми сиськами светит, а я тут стою без дела и просто жду. Зря не стал подглядывать..."
@@ -954,11 +954,11 @@ msgstr "[_tMax_s_13_] Oh, probabilmente adesso è lì con il suo seno nudo in be
 
 # game/scripts/story_01/blog.rpy:612 #-#-# translate crowdin ev_098_7a72444c:
 msgid "[_tMax_s_03_] О, вот это класс! Очень хочется присвистнуть от восхищения, как Алиса переодевается, но это чревато переломами..."
-msgstr "[Oh, e' fantastico! Vorrei davvero fischiettare con ammirazione mentre Alice si cambia d'abito, ma questo è irto di fratture...."
+msgstr "[_tMax_s_03_] Oh, questo è fantastico! Vorrei davvero fischiare di ammirazione mentre Alice si cambia, ma questo potrebbe portare a fratture..."
 
 # game/scripts/story_01/blog.rpy:619 #-#-# translate crowdin ev_098_5e8063b3:
 msgid "[_Alice_s_15_] Макс! Ты офигел что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда за дверь, пока я тебя не позову... [nointeract]"
-msgstr "[Max! Sei fuori di testa? Sei fuori di testa? Esci di qui prima che ti chiami. [nointeract]"
+msgstr "[_Alice_s_15_] Max! Sei impazzito?! Hai perso completamente la paura? Ora, scappa da qui dietro la porta, finché non ti chiamo... [nointeract]"
 
 # game/scripts/story_01/blog.rpy:622 #-#-# translate crowdin ev_098_95bb396d:
 msgid "[_tMax_s_16_] Какая она глазастая... Теперь мне лучше даже не пытаться подглядеть за ней, чтобы окончательно всё не испортить."
@@ -967,8 +967,8 @@ msgstr "[_tMax_s_16_] Ha degli occhi così grandi… Ora è meglio per me non ce
 # game/scripts/story_01/blog.rpy:623 #-#-# translate crowdin ev_098_349690fe:
 msgid "[_Alice_] {b}Алиса:{/b} \n"
 "Всё, Макс. Можешь заглянуть в комнату..."
-msgstr "[ {b}Alice:{/b} \n"
-"Ecco, Max. Puoi guardare nella stanza..."
+msgstr "[_Alice_] {b}Аlice:{/b} \n"
+"Tutto a posto, Max. Puoi dare un’occhiata nella stanza..."
 
 # game/scripts/story_01/blog.rpy:624 #-#-# translate crowdin ev_098_592ee63c:
 msgid "[_Max_s_11_] А ты быстро!"
@@ -1027,8 +1027,8 @@ msgstr "[_tMax_s_13_] In realtà mi piacerebbe vedere mia sorella indossare ques
 # game/scripts/story_01/blog.rpy:655 #-#-# translate crowdin ev_098_349690fe_1:
 msgid "[_Alice_] {b}Алиса:{/b} \n"
 "Всё, Макс. Можешь заглянуть в комнату..."
-msgstr "[ {b}Alice:{/b} \n"
-"Ecco, Max. Puoi guardare nella stanza..."
+msgstr "[_Alice_] {b}Аlice:{/b} \n"
+"Tutto a posto, Max. Puoi dare un’occhiata nella stanza..."
 
 # game/scripts/story_01/blog.rpy:656 #-#-# translate crowdin ev_098_592ee63c_2:
 msgid "[_Max_s_11_] А ты быстро!"
@@ -1076,15 +1076,15 @@ msgstr "È aperto un nuovo incarico per la \"Streamer Girl\"!"
 
 # game/scripts/story_01/blog.rpy:112
 msgid "Так можно же делать что-то менее развратное..."
-msgstr "Si può fare qualcosa di meno osceno....."
+msgstr "Ma si può fare qualcosa di meno depravato..."
 
 # game/scripts/story_01/blog.rpy:126
 msgid "Как знаешь, но лучше подумай над этим ещё..."
-msgstr "Fai come vuoi, ma è meglio che ci pensi ancora un po'....."
+msgstr "Come vuoi, ma sarebbe meglio pensarci ancora..."
 
 # game/scripts/story_01/blog.rpy:203
 msgid "Навык «Убеждение» повышен до уровня 2!"
-msgstr "L'abilità Persuasione è stata portata al livello 2!"
+msgstr "L'abilità «Persuasione» è stata portata al livello 2!"
 
 # game/scripts/story_01/blog.rpy:215
 msgid "{i}одеться и подождать Алису{/i}"
@@ -1096,7 +1096,7 @@ msgstr "{i}Andare nel negozio di abbigliamento{/i}"
 
 # game/scripts/story_01/blog.rpy:245
 msgid "{i}подсмотреть за Алисой{/i}"
-msgstr "{i}per spiare Alice."
+msgstr "{i}spiare Alice{/i}"
 
 # game/scripts/story_01/blog.rpy:245
 msgid "{i}ждать{/i}"
@@ -1104,11 +1104,11 @@ msgstr "{i}aspetta{/i}"
 
 # game/scripts/story_01/blog.rpy:305
 msgid "Сейчас-то я не подглядываю. Попозируй для меня хоть немного!"
-msgstr "Non sto sbirciando ora. Mettiti in posa per me un po'!"
+msgstr "Adesso non sto spiando. Poserei un po’ per me!"
 
 # game/scripts/story_01/blog.rpy:323
 msgid "{i}снова подсмотреть за Алисой{/i}"
-msgstr "{i}per spiare di nuovo Alice."
+msgstr "{i}guardare di nuovo Alice{/i}"
 
 # game/scripts/story_01/blog.rpy:346
 msgid "{i}снова ждать{/i}"
@@ -1120,11 +1120,11 @@ msgstr "{i}aspettando ancora una volta{/i}"
 
 # game/scripts/story_01/blog.rpy:518
 msgid "Столько потратить я вполне могу..."
-msgstr "È un bel po' da spendere...."
+msgstr "Posso permettermi di spendere tanto..."
 
 # game/scripts/story_01/blog.rpy:518
 msgid "Это не страшно, но подкопить немного деньжат придётся..."
-msgstr "Non è un grosso problema, ma dovrete risparmiare un po' di soldi..."
+msgstr "Non è un problema, ma dovrò risparmiare un po’ di soldi..."
 
 # game/scripts/story_01/blog.rpy:525
 msgid "{i}оплатить покупку и подождать Алису{/i}"
@@ -1136,11 +1136,11 @@ msgstr "{i}tornare alla villa{/i}"
 
 # game/scripts/story_01/blog.rpy:557
 msgid "{i}подождать Алису и вернуться на виллу{/i}"
-msgstr "{i}per aspettare Alice e tornare alla villa."
+msgstr "{i}aspettare Alice e tornare alla villa{/i}"
 
 # game/scripts/story_01/blog.rpy:591
 msgid "Не стану. Мы с Лизой всегда так делаем!"
-msgstr "Non lo farò. Io e Lisa lo facciamo sempre!"
+msgstr "Non lo farò. Io e Lisa lo facciamo sempre così!"
 
 # game/scripts/story_01/blog.rpy:602
 msgid "{i}не подглядывать{/i}"
