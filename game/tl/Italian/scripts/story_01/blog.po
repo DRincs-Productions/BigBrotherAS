@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-18 15:21\n"
+"PO-Revision-Date: 2024-04-19 08:21\n"
 
 # TODO: Translation updated at 2024-04-17 23:25 #|#|# # game/scripts/story_01/blog.rpy:11 #-#-# translate crowdin ev_017_423a776a:
 msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
@@ -344,17 +344,17 @@ msgstr "[_Max_s_04_] Vai avanti! Se necessario, sono disposto a rimanere qui a l
 
 # game/scripts/story_01/blog.rpy:239 #-#-# translate crowdin ev_097_ff363198:
 msgid "[_Alice_s_04_] Кто бы сомневался, но мы сюда пришли не ради того, чтобы тебя развлекать, Макс! Сосредоточься на деле."
-msgstr "[Chi lo dubiterebbe, ma non siamo venuti qui per intrattenerti, Max! Concentrati sul caso."
+msgstr "[_Alice_s_04_] Non c’è dubbio, ma non siamo venuti qui per divertirti, Max! Concentrati sul compito."
 
 # game/scripts/story_01/blog.rpy:240 #-#-# translate crowdin ev_097_3ec8c486:
 msgid "[_Max_s_13_] Ну, раз по делу, то давай бери что-нибудь быстрее и пошли примерять..."
-msgstr "[_Max_s_13_] Beh, visto che si tratta di affari, prendiamo qualcosa di veloce e andiamo a provarlo...."
+msgstr "[_Max_s_13_] Beh, visto che si tratta di affari, prendiamo qualcosa di veloce e andiamo a provarlo..."
 
 # game/scripts/story_01/blog.rpy:244 #-#-# translate crowdin ev_097_746b652b:
 msgid "[_Alice_] {b}Алиса:{/b} \n"
 "Макс, только не вздумай подглядывать! Я знаю, что ты можешь вести себя, как нормальный человек. Когда можно будет смотреть, я тебя позову..."
-msgstr "[ {b}Alice:{/b} \n"
-"Max, non sbirciare! So che puoi comportarti come una persona normale. Quando sarà sicuro guardare, ti chiamerò...."
+msgstr "[_Alice_]{b}Alice:{/b} \n"
+"Max, non osare spiare! So che puoi comportarti come una persona normale. Quando sarà possibile guardare, ti chiamerò..."
 
 # game/scripts/story_01/blog.rpy:246 #-#-# translate crowdin ev_097_34c20247:
 msgid "[_tMax_s_11_] Хм... Какие-то странные заявления... Мне кажется наоборот, если ты нормальный, то надо подглядывать в подобных-то обстоятельствах. Или нет? [nointeract]"
@@ -366,7 +366,7 @@ msgstr "[_tMax_s_05_] Ugh... Per fortuna mi sono fermato proprio mentre le tette
 
 # game/scripts/story_01/blog.rpy:255 #-#-# translate crowdin ev_097_4d72b5d8:
 msgid "[_tMax_s_13_] На самом деле, дальше лучше с этим не заигрываться, а то неизвестно, как отреагирует Алиса, если увидит, что я подглядываю. От силы можно будет ещё разок подсмотреть, но не больше..."
-msgstr "[Anzi, è meglio che non ci giochi più, o non so come reagirebbe Alice se mi vedesse sbirciare. Al massimo potrò sbirciare ancora una volta, ma non di più...."
+msgstr "[_tMax_s_13_] In realtà, è meglio non giocare con questo ulteriormente, perché non si sa come reagirà Alice se vede che sto spiando. Al massimo, potrò dare un’occhiata un’altra volta, ma non di più..."
 
 # game/scripts/story_01/blog.rpy:261 #-#-# translate crowdin ev_097_6349aa0c:
 msgid "[_Alice_s_14_] Макс! Ты офигел что ли?! {p=2}{nw}"
@@ -374,33 +374,33 @@ msgstr "[_Alice_s_14_] Max! Sei fuori di testa? {p=2}{nw}"
 
 # game/scripts/story_01/blog.rpy:264 #-#-# translate crowdin ev_097_d3d9ef0c:
 msgid "[_Alice_s_15_] Совсем страх потерял? Я же сказала, что позову, когда можно будет смотреть! Ну-ка свали за шторку..."
-msgstr "[Hai perso la tua paura? Ti ho detto che ti chiamerò quando potrò guardare! Vai dietro la tenda."
+msgstr "[_Alice_s_15_] Hai perso completamente la paura? Ho detto che ti chiamerò quando sarà possibile guardare! Ora vai dietro la tenda..."
 
 # game/scripts/story_01/blog.rpy:265 #-#-# translate crowdin ev_097_d717e48d:
 msgid "[_Max_s_13_] Э-э-э... Я и так за шторкой."
-msgstr "[Um... Sono già dietro le quinte."
+msgstr "[_Max_s_13_] Ehm... Sono già dietro la tenda."
 
 # game/scripts/story_01/blog.rpy:266 #-#-# translate crowdin ev_097_203ddb8a:
 msgid "[_Alice_s_11_] Ты прекрасно понял, что я имела ввиду! Ещё раз попробуешь заглянуть в примерочную без разрешения и пойдёшь домой, а бельё я выберу сама, понял?"
-msgstr "[Sai bene cosa intendo! Se provi di nuovo a guardare nel camerino senza permesso, vai a casa e sceglierò io stesso la tua biancheria intima, capito?"
+msgstr "[_Alice_s_11_] Hai capito perfettamente cosa intendevo! Se provi ancora una volta a guardare nel camerino senza permesso, andrai a casa, e sceglierò la biancheria da sola, capito?"
 
 # game/scripts/story_01/blog.rpy:267 #-#-# translate crowdin ev_097_6ea3f3f7:
 msgid "[_Max_s_12_] Всё-всё, не горячись..."
-msgstr "[_Max_s_12_] Tutto sommato, prendetevela comoda...."
+msgstr "[_Max_s_12_] Va bene, va bene, non arrabbiarti..."
 
 # game/scripts/story_01/blog.rpy:270 #-#-# translate crowdin ev_097_95bb396d:
 msgid "[_tMax_s_16_] Какая она глазастая... Теперь мне лучше даже не пытаться подглядеть за ней, чтобы окончательно всё не испортить."
-msgstr "[Ha un occhio così... Ora è meglio che non provi nemmeno a sbirciarla, per non rovinare tutto."
+msgstr "[_tMax_s_16_] Ha degli occhi così grandi… Ora è meglio per me non cercare nemmeno di spiare dietro di lei, per non rovinare tutto definitivamente."
 
 # game/scripts/story_01/blog.rpy:271 #-#-# translate crowdin ev_097_99bc9428:
 msgid "[_Alice_] {b}Алиса:{/b} \n"
 "Ну, что... Я примерила первый комплект нижнего белья и оно мне не особо нравится. Удобное, но скромноватое. Да и цвет мне не нравится."
-msgstr "[ {b}Alice:{/b} \n"
-"Beh... Ho provato il mio primo set di biancheria intima e non mi piace molto. È comodo, ma è un po' modesto. Non mi piace nemmeno il colore."
+msgstr "[_Alice_] {b}Аlice:{/b} \n"
+"Allora... Ho provato il primo set di biancheria intima e non mi piace molto. È comodo, ma un po’ troppo modesto. E nemmeno il colore mi piace."
 
 # game/scripts/story_01/blog.rpy:272 #-#-# translate crowdin ev_097_d8611735:
 msgid "[_Max_s_13_] Посмотреть-то можно?"
-msgstr "[Posso vederlo?"
+msgstr "[_Max_s_13_] Posso dare un’occhiata?"
 
 # game/scripts/story_01/blog.rpy:273 #-#-# translate crowdin ev_097_54716f89:
 msgid "[_Alice_] {b}Алиса:{/b} \n"
@@ -522,7 +522,7 @@ msgstr "[_tMax_s_03_] Wow! C'è anche una fascia in questo set... Meno male che 
 
 # game/scripts/story_01/blog.rpy:355 #-#-# translate crowdin ev_097_second_4d72b5d8:
 msgid "[_tMax_s_13_] На самом деле, дальше лучше с этим не заигрываться, а то неизвестно, как отреагирует Алиса, если увидит, что я подглядываю. От силы можно будет ещё разок подсмотреть, но не больше..."
-msgstr "[Anzi, è meglio che non ci giochi più, o non so come reagirebbe Alice se mi vedesse sbirciare. Al massimo potrò sbirciare ancora una volta, ma non di più...."
+msgstr "[_tMax_s_13_] In realtà, è meglio non giocare con questo ulteriormente, perché non si sa come reagirà Alice se vede che sto spiando. Al massimo, potrò dare un’occhiata un’altra volta, ma non di più..."
 
 # game/scripts/story_01/blog.rpy:363 #-#-# translate crowdin ev_097_second_6da10c0a:
 msgid "[_tMax_s_12_] Нет, не буду рисковать, а то неизвестно, как отреагирует Алиса, если увидит, что я подглядываю."
@@ -568,23 +568,23 @@ msgstr "[_Alice_s_14_] Max! Sei fuori di testa? {p=2}{nw}"
 
 # game/scripts/story_01/blog.rpy:386 #-#-# translate crowdin ev_097_second_fail_d3d9ef0c:
 msgid "[_Alice_s_15_] Совсем страх потерял? Я же сказала, что позову, когда можно будет смотреть! Ну-ка свали за шторку..."
-msgstr "[Hai perso la tua paura? Ti ho detto che ti chiamerò quando potrò guardare! Vai dietro la tenda."
+msgstr "[_Alice_s_15_] Hai perso completamente la paura? Ho detto che ti chiamerò quando sarà possibile guardare! Ora vai dietro la tenda..."
 
 # game/scripts/story_01/blog.rpy:387 #-#-# translate crowdin ev_097_second_fail_d717e48d:
 msgid "[_Max_s_13_] Э-э-э... Я и так за шторкой."
-msgstr "[Um... Sono già dietro le quinte."
+msgstr "[_Max_s_13_] Ehm... Sono già dietro la tenda."
 
 # game/scripts/story_01/blog.rpy:388 #-#-# translate crowdin ev_097_second_fail_203ddb8a:
 msgid "[_Alice_s_11_] Ты прекрасно понял, что я имела ввиду! Ещё раз попробуешь заглянуть в примерочную без разрешения и пойдёшь домой, а бельё я выберу сама, понял?"
-msgstr "[Sai bene cosa intendo! Se provi di nuovo a guardare nel camerino senza permesso, vai a casa e sceglierò io stesso la tua biancheria intima, capito?"
+msgstr "[_Alice_s_11_] Hai capito perfettamente cosa intendevo! Se provi ancora una volta a guardare nel camerino senza permesso, andrai a casa, e sceglierò la biancheria da sola, capito?"
 
 # game/scripts/story_01/blog.rpy:389 #-#-# translate crowdin ev_097_second_fail_6ea3f3f7:
 msgid "[_Max_s_12_] Всё-всё, не горячись..."
-msgstr "[_Max_s_12_] Tutto sommato, prendetevela comoda...."
+msgstr "[_Max_s_12_] Va bene, va bene, non arrabbiarti..."
 
 # game/scripts/story_01/blog.rpy:392 #-#-# translate crowdin ev_097_second_fail_95bb396d:
 msgid "[_tMax_s_16_] Какая она глазастая... Теперь мне лучше даже не пытаться подглядеть за ней, чтобы окончательно всё не испортить."
-msgstr "[Ha un occhio così... Ora è meglio che non provi nemmeno a sbirciarla, per non rovinare tutto."
+msgstr "[_tMax_s_16_] Ha degli occhi così grandi… Ora è meglio per me non cercare nemmeno di spiare dietro di lei, per non rovinare tutto definitivamente."
 
 # game/scripts/story_01/blog.rpy:393 #-#-# translate crowdin ev_097_second_fail_33408d90:
 msgid "[_Alice_] {b}Алиса:{/b} \n"
@@ -594,7 +594,7 @@ msgstr "[_Alice_] {b}Alice:{/b} \n"
 
 # game/scripts/story_01/blog.rpy:394 #-#-# translate crowdin ev_097_second_fail_d8611735:
 msgid "[_Max_s_13_] Посмотреть-то можно?"
-msgstr "[Posso vederlo?"
+msgstr "[_Max_s_13_] Posso dare un’occhiata?"
 
 # game/scripts/story_01/blog.rpy:395 #-#-# translate crowdin ev_097_second_fail_9279341a:
 msgid "[_Alice_] {b}Алиса:{/b} \n"
@@ -742,23 +742,23 @@ msgstr "[Max! Sei fuori di testa?"
 
 # game/scripts/story_01/blog.rpy:488 #-#-# translate crowdin ev_097_third_fail_d3d9ef0c:
 msgid "[_Alice_s_15_] Совсем страх потерял? Я же сказала, что позову, когда можно будет смотреть! Ну-ка свали за шторку..."
-msgstr "[Hai perso la tua paura? Ti ho detto che ti chiamerò quando potrò guardare! Vai dietro la tenda."
+msgstr "[_Alice_s_15_] Hai perso completamente la paura? Ho detto che ti chiamerò quando sarà possibile guardare! Ora vai dietro la tenda..."
 
 # game/scripts/story_01/blog.rpy:489 #-#-# translate crowdin ev_097_third_fail_d717e48d:
 msgid "[_Max_s_13_] Э-э-э... Я и так за шторкой."
-msgstr "[Um... Sono già dietro le quinte."
+msgstr "[_Max_s_13_] Ehm... Sono già dietro la tenda."
 
 # game/scripts/story_01/blog.rpy:490 #-#-# translate crowdin ev_097_third_fail_203ddb8a:
 msgid "[_Alice_s_11_] Ты прекрасно понял, что я имела ввиду! Ещё раз попробуешь заглянуть в примерочную без разрешения и пойдёшь домой, а бельё я выберу сама, понял?"
-msgstr "[Sai bene cosa intendo! Se provi di nuovo a guardare nel camerino senza permesso, vai a casa e sceglierò io stesso la tua biancheria intima, capito?"
+msgstr "[_Alice_s_11_] Hai capito perfettamente cosa intendevo! Se provi ancora una volta a guardare nel camerino senza permesso, andrai a casa, e sceglierò la biancheria da sola, capito?"
 
 # game/scripts/story_01/blog.rpy:491 #-#-# translate crowdin ev_097_third_fail_6ea3f3f7:
 msgid "[_Max_s_12_] Всё-всё, не горячись..."
-msgstr "[_Max_s_12_] Tutto sommato, prendetevela comoda...."
+msgstr "[_Max_s_12_] Va bene, va bene, non arrabbiarti..."
 
 # game/scripts/story_01/blog.rpy:494 #-#-# translate crowdin ev_097_third_fail_95bb396d:
 msgid "[_tMax_s_16_] Какая она глазастая... Теперь мне лучше даже не пытаться подглядеть за ней, чтобы окончательно всё не испортить."
-msgstr "[Ha un occhio così... Ora è meglio che non provi nemmeno a sbirciarla, per non rovinare tutto."
+msgstr "[_tMax_s_16_] Ha degli occhi così grandi… Ora è meglio per me non cercare nemmeno di spiare dietro di lei, per non rovinare tutto definitivamente."
 
 # game/scripts/story_01/blog.rpy:495 #-#-# translate crowdin ev_097_third_fail_b920317d:
 msgid "[_Alice_] {b}Алиса:{/b} \n"
@@ -962,7 +962,7 @@ msgstr "[Max! Sei fuori di testa? Sei fuori di testa? Esci di qui prima che ti c
 
 # game/scripts/story_01/blog.rpy:622 #-#-# translate crowdin ev_098_95bb396d:
 msgid "[_tMax_s_16_] Какая она глазастая... Теперь мне лучше даже не пытаться подглядеть за ней, чтобы окончательно всё не испортить."
-msgstr "[Ha un occhio così... Ora è meglio che non provi nemmeno a sbirciarla, per non rovinare tutto."
+msgstr "[_tMax_s_16_] Ha degli occhi così grandi… Ora è meglio per me non cercare nemmeno di spiare dietro di lei, per non rovinare tutto definitivamente."
 
 # game/scripts/story_01/blog.rpy:623 #-#-# translate crowdin ev_098_349690fe:
 msgid "[_Alice_] {b}Алиса:{/b} \n"
