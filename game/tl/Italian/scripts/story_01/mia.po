@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-19 18:11\n"
+"PO-Revision-Date: 2024-04-20 15:11\n"
 
 # TODO: Translation updated at 2024-04-17 23:25 #|#|# # game/scripts/story_01/mia.rpy:7 #-#-# translate crowdin ev_063_eb6a6385:
 msgid "[_tMax_s_11_] Звонок в ворота! Похоже, к нам кто-то приехал..."
@@ -358,21 +358,21 @@ msgstr "[_tMax_s_05_] Mmm... Che bel culo! Wow! Il top le è scivolato dalla spa
 
 # game/scripts/story_01/mia.rpy:179 #-#-# translate crowdin ev_093_141d721d:
 msgid "[_tMax_s_16_] Ах, да... Мне же напитки нужно делать... [nointeract]"
-msgstr "[Oh, sì. Ho dei drink da preparare... [nointeract]"
+msgstr "[_tMax_s_16_] Oh, sì. Devo preparare da bere... [nointeract]"
 
 # game/scripts/story_01/mia.rpy:187 #-#-# translate crowdin ev_093_5a697ddf:
 msgid "[_Max_s_02_] Мам, Мия попросила сделать прохладительных напитков. Ты будешь?"
-msgstr "[Mamma, Mia mi ha chiesto di preparare un rinfresco. Ne vuoi uno?"
+msgstr "[_Max_s_02_] Mamma, Mia mi ha chiesto di preparare qualcosa da bere. Ne vuoi uno?"
 
 # game/scripts/story_01/mia.rpy:188 #-#-# translate crowdin ev_093_11a8583e:
 msgid "[_Ann_] {b}Анна:{/b} \n"
 "Да, сынок, не откажусь!"
 msgstr "[_Ann_] {b}Anna:{/b} \n"
-"Sì, figliolo, non ti dico di no!"
+"Sì, figliolo, lo voglio!"
 
 # game/scripts/story_01/mia.rpy:189 #-#-# translate crowdin ev_093_9333f189:
 msgid "[_Max_s_11_] Сейчас сделаю..."
-msgstr "[Lo farò ora..."
+msgstr "[_Max_s_11_] Lo farò subito..."
 
 # game/scripts/story_01/mia.rpy:193 #-#-# translate crowdin ev_093_9995104c:
 msgid "[_Ann_] {b}Анна:{/b} \n"
@@ -382,59 +382,59 @@ msgstr "[ {b}Anna:{/b} \n"
 
 # game/scripts/story_01/mia.rpy:194 #-#-# translate crowdin ev_093_55513cbf:
 msgid "[_Max_s_01_] Тётя Кира научила, когда мы гостили у неё лет пять назад. Помню до сих пор, ведь рецепт простой."
-msgstr "[Me l'ha insegnata la zia Kira quando siamo andati a trovarla circa cinque anni fa. Me la ricordo ancora, perché è una ricetta semplice."
+msgstr "[_Max_s_01_] Zia Kira mi ha insegnato quando siamo stati ospiti da lei circa cinque anni fa. Mi ricordo ancora, perché la ricetta è semplice."
 
 # game/scripts/story_01/mia.rpy:198 #-#-# translate crowdin ev_093_b4104b23:
 msgid "[_Ann_s_11_] Что-то я не помню, чтобы она разливала нам такой лимонад..."
-msgstr "[Non ricordo che ci abbia versato quel tipo di limonata..."
+msgstr "[_Ann_s_11_] Non ricordo che ci abbia mai servito una limonata del genere..."
 
 # game/scripts/story_01/mia.rpy:199 #-#-# translate crowdin ev_093_f698c7f3:
 msgid "[_Max_s_03_] Она это делала в твоё отсутствие, чтобы нас побаловать. Меня, Лизу, и Алису..."
-msgstr "[L'ha fatto in tua assenza per viziarci. Io, Lisa e Alice."
+msgstr "[_Max_s_03_] Lo faceva in tua assenza, per viziarci. Me, Lisa e Alice..."
 
 # game/scripts/story_01/mia.rpy:203 #-#-# translate crowdin ev_093_dcff0a7d:
 msgid "[_Ann_s_12_] Вот она какая... Хотя, чему я вообще удивляюсь? Как она вам ещё зубы не испортила..."
-msgstr "[Eccola... Anche se, perché mi sorprende? Come mai non ti ha ancora rovinato i denti...."
+msgstr "[_Ann_s_12_] Ecco come è… Ma perché mi sorprendo? Come non vi ha ancora rovinato i denti..."
 
 # game/scripts/story_01/mia.rpy:204 #-#-# translate crowdin ev_093_16be29eb:
 msgid "[_Max_s_12_] Она угощала нас всего раза два, так что не переживай."
-msgstr "[Ci ha curato solo due volte, quindi non preoccuparti."
+msgstr "[_Max_s_12_] Ce l'ha offerto solo un paio di volte, quindi non preoccuparti."
 
 # game/scripts/story_01/mia.rpy:209 #-#-# translate crowdin ev_093_660ab06b:
 msgid "[_Mia_s_01_] Ну как, не заждались меня? Я засмотрелась на вид с вашего балкона, вот и задержалась..."
-msgstr "[_Mia_s_01_] Beh, non mi stai aspettando? Stavo guardando il panorama dal tuo balcone, così sono rimasta un po'...."
+msgstr "[_Mia_s_01_] Allora, non mi avete aspettato? Mi sono persa nella vista dal vostro balcone, ecco perché mi sono trattenuta..."
 
 # game/scripts/story_01/mia.rpy:210 #-#-# translate crowdin ev_093_0fb5acea:
 msgid "[_Ann_s_01_] Нет, Мия, вы как раз вовремя. Макс ещё делает напитки, но уже недолго осталось ждать, так ведь?"
-msgstr "[No, Mia, sei appena in tempo. Max sta ancora preparando i drink, ma non ci vorrà molto, vero?"
+msgstr "[_Ann_s_01_] No, Mia, sei arrivata proprio in tempo. Max sta ancora preparando le bevande, ma non dovremmo aspettare molto, giusto?"
 
 # game/scripts/story_01/mia.rpy:211 #-#-# translate crowdin ev_093_069678fc:
 msgid "[_Max_s_11_] Да, я скоро закончу..."
-msgstr "[Si', avro' finito presto..."
+msgstr "[_Max_s_11_] Sì, finirò presto..."
 
 # game/scripts/story_01/mia.rpy:215 #-#-# translate crowdin ev_093_4caeea08:
 msgid "[_Mia_s_02_] Что-то мы всё на «вы», да на «вы»... На работе это добавляет солидности, а вот в остальное время я начинаю чувствовать себя слишком возрастной женщиной. Давайте уже перейдём на «ты»?"
-msgstr "[Stiamo usando il \"tu\" e il \"voi\". Al lavoro mi fa sembrare rispettabile, ma per il resto del tempo comincio a sentirmi una donna anziana. Non possiamo tornare al \"tu\"?"
+msgstr "[_Mia_s_02_] Sembra che ci diamo sempre del «lei»... Al lavoro, questo aggiunge formalità, ma nel tempo libero inizio a sentirmi come una donna troppo anziana. Possiamo passare al «tu»?"
 
 # game/scripts/story_01/mia.rpy:217 #-#-# translate crowdin ev_093_abcfe2b9:
 msgid "[_Ann_s_02_] Будет непривычно, но мы постараемся. На счёт Макса, правда, не знаю... [nointeract]"
-msgstr "[Sarà un po' una sfida, ma ci proveremo. Per quanto riguarda Max, non so davvero... [nointeract]"
+msgstr "[_Ann_s_02_] Sarà insolito, ma ci proveremo. Per quanto riguarda Max, non ne sono sicura... [nointeract]"
 
 # game/scripts/story_01/mia.rpy:226 #-#-# translate crowdin ev_093_6215a63d:
 msgid "[_tMax_s_04_] Ох, я бы так «позажигал» с этими двумя красотками... Почему с обеими? Да потому что проигнорировать одну из них просто совесть не позволит!"
-msgstr "[Oh, mi divertirei un sacco con queste due bellezze.... Perché tutte e due? Perche' non si puo' ignorare in coscienza una di loro!"
+msgstr "[_tMax_s_04_] Oh, mi piacerebbe davvero «divertirmi» con queste due bellezze... Perché con entrambe? Perché la mia coscienza semplicemente non mi permetterebbe d'ignorarne una!"
 
 # game/scripts/story_01/mia.rpy:232 #-#-# translate crowdin ev_093_b033baf0:
 msgid "[_tMax_s_13_] Чёрт! Отсюда толком ничего и не получится поразглядывать. А очень хочется..."
-msgstr "[Merda! Non riesco a vedere nulla da quassù. Mi piacerebbe molto."
+msgstr "[_tMax_s_13_] Dannazione! Da qui non si riesce a vedere bene nulla. E ho davvero voglia di farlo..."
 
 # game/scripts/story_01/mia.rpy:234 #-#-# translate crowdin ev_093_c8f38c77:
 msgid "[_Mia_s_04_] Анна, как дела на работе? Получилось освоиться на новом месте?"
-msgstr "[Anna, come vanno le cose al lavoro? Sei riuscita ad ambientarti?"
+msgstr "[_Mia_s_04_] Anna, come va al lavoro? Sei riuscita ad ambientarti nel nuovo posto?"
 
 # game/scripts/story_01/mia.rpy:235 #-#-# translate crowdin ev_093_f8ea3957:
 msgid "[_Ann_s_03_] Да, вполне. Ещё нужно со многими коллегами сработаться, но это просто дело времени."
-msgstr "[Sì, certo. Devo ancora andare d'accordo con molti colleghi, ma è solo questione di tempo."
+msgstr "[_Ann_s_03_] Sì, abbastanza. Devo ancora lavorare con molti colleghi, ma è solo questione di tempo."
 
 # game/scripts/story_01/mia.rpy:236 #-#-# translate crowdin ev_093_0a4fdd18:
 msgid "[_Max_s_00_] Дамы, напитки готовы. Пробуйте!"
@@ -442,11 +442,11 @@ msgstr "[_Max_s_00_] Signore, i drink sono pronti. Assaggiate!"
 
 # game/scripts/story_01/mia.rpy:240 #-#-# translate crowdin ev_093_075eb11d:
 msgid "[_Mia_s_05_] Благодарю, Макс! Такой напиток, как раз то что нужно в жаркую погоду. Действительно освежает!"
-msgstr "[Grazie, Max! Una bevanda come questa è proprio quello che ci vuole nella stagione calda. Davvero rinfrescante!"
+msgstr "[_Mia_s_05_] Grazie, Max! Questa bevanda è proprio quello che ci vuole con questo caldo. Rinfresca davvero!"
 
 # game/scripts/story_01/mia.rpy:241 #-#-# translate crowdin ev_093_6fb36948:
 msgid "[_Ann_s_04_] Это точно... Спасибо, сынок. Ты у меня молодец!"
-msgstr "[Esatto... Grazie, figliolo. Sei un bravo ragazzo!"
+msgstr "[_Ann_s_04_] È proprio così... Grazie, figliolo. Sei un bravo ragazzo!"
 
 # game/scripts/story_01/mia.rpy:242 #-#-# translate crowdin ev_093_c3d99d8e:
 msgid "[_Max_s_01_] Не за что. Наслаждайтесь."
@@ -454,51 +454,51 @@ msgstr "[_Max_s_01_] Non c'è di che. Buon divertimento."
 
 # game/scripts/story_01/mia.rpy:246 #-#-# translate crowdin ev_093_5a2453f5:
 msgid "[_Mia_s_02_] Макс, было вкусно! Спасибо тебе ещё раз за эти коктейли! Я думаю, теперь можно и позагорать пойти..."
-msgstr "[Max, era delizioso! Grazie ancora per quei cocktail! Penso che ora possiamo andare a prendere il sole....."
+msgstr "[_Mia_s_02_] Max, era delizioso! Grazie ancora per questi cocktail! Penso che ora possiamo andare a prendere il sole..."
 
 # game/scripts/story_01/mia.rpy:247 #-#-# translate crowdin ev_093_9e50a3b3:
 msgid "[_Ann_s_01_] Обязательно! Сынок, мы с Мией пойдём поболтаем о всяком во дворе. Постарайся не мешать взрослым отдыхать без острой необходимости, хорошо?"
-msgstr "[Lo farò! Figliolo, io e Mia parleremo di cose in giardino. Cerca di non disturbare il riposo degli adulti se non è assolutamente necessario, ok?"
+msgstr "[_Ann_s_01_] Certo! Figliolo, io e Mia andremo a chiacchierare un po’ nel cortile. Cerca di non disturbare gli adulti a meno che non sia strettamente necessario, va bene?"
 
 # game/scripts/story_01/mia.rpy:248 #-#-# translate crowdin ev_093_2bd47a5c:
 msgid "[_Max_s_00_] Понял, не лезу..."
-msgstr "[Capito, ne resto fuori..."
+msgstr "[_Max_s_00_] Ho capito, non mi intrometto..."
 
 # game/scripts/story_01/mia.rpy:259 #-#-# translate crowdin ev_094_5d504d29:
 msgid "[_tMax_s_04_] Красотки загорают на солнышке. Можно немного полюбоваться со стороны, но лезть к ним пока рановато. Пусть отдохнут..."
-msgstr "[Belle ragazze che prendono il sole. Si possono ammirare un po' di lato, ma è un po' presto per entrare in contatto con loro. Lasciatele riposare..."
+msgstr "[_tMax_s_04_] Le bellezze stanno prendendo il sole. Posso ammirarle da lontano, ma è ancora troppo presto per avvicinarmi. Lasciamole riposare..."
 
 # game/scripts/story_01/mia.rpy:269 #-#-# translate crowdin ev_095_46522e26:
 msgid "[_Mia_s_01_] Что, Макс, поплавать пришёл?"
-msgstr "[Che c'è, Max, vieni a fare una nuotata?"
+msgstr "[_Mia_s_01_] Allora, Max, sei venuto a fare un bagno?"
 
 # game/scripts/story_01/mia.rpy:270 #-#-# translate crowdin ev_095_5eacbbde:
 msgid "[_Max_s_11_] Пока не знаю. Может быть... А вы почему не плаваете?"
-msgstr "[Non lo so ancora. Forse... Perché non nuoti?"
+msgstr "[_Max_s_11_] Non lo so ancora. Forse... E voi perché non nuotate?"
 
 # game/scripts/story_01/mia.rpy:271 #-#-# translate crowdin ev_095_812f31bc:
 msgid "[_Mia_s_00_] Мой купальник не совсем для этого подходит."
-msgstr "[Il mio costume da bagno non è adatto per questo."
+msgstr "[_Mia_s_00_] Il mio costume da bagno non è proprio adatto a questo."
 
 # game/scripts/story_01/mia.rpy:272 #-#-# translate crowdin ev_095_f81e9970:
 msgid "[_Max_s_03_] Зачем же тогда вы его надели? Снимайте скорее..."
-msgstr "[Allora perché l'hai messo? Toglilo in fretta..."
+msgstr "[_Max_s_03_] Allora perché l’hai indossato? Toglilo subito..."
 
 # game/scripts/story_01/mia.rpy:273 #-#-# translate crowdin ev_095_872cf0d7:
 msgid "[_Ann_s_12_] Макс, опять ты начинаешь!"
-msgstr "[Max, lo stai facendo di nuovo!"
+msgstr "[_Ann_s_12_] Max, stai ricominciando!"
 
 # game/scripts/story_01/mia.rpy:274 #-#-# translate crowdin ev_095_3eb53d3b:
 msgid "[_Mia_s_02_] Ничего страшного. Я не собиралась плавать, поэтому и надела такой купальник."
-msgstr "[Non è niente di grave. Non avevo intenzione di nuotare, ecco perché ho indossato un costume come quello."
+msgstr "[_Mia_s_02_] Non c’è problema. Non avevo intenzione di nuotare, ecco perché ho indossato questo costume da bagno."
 
 # game/scripts/story_01/mia.rpy:275 #-#-# translate crowdin ev_095_73c957cf:
 msgid "[_Max_s_13_] Так ведь не интересно! Смысл только загорать, когда рядом есть бассейн? Его же создавали не только для красоты."
-msgstr "[Non è divertente! Che senso ha prendere il sole quando c'è una piscina nelle vicinanze? Non è solo per bellezza."
+msgstr "[_Max_s_13_] Ma non è interessante! Qual è il senso di prendere il sole solo quando c’è una piscina nelle vicinanze? Non è stata creata solo per la bellezza."
 
 # game/scripts/story_01/mia.rpy:279 #-#-# translate crowdin ev_095_23f4d2b2:
 msgid "[_Mia_s_12_] Я не умею плавать, Макс. Немного стыдно в таком признаваться, но уж как есть."
-msgstr "[Non so nuotare, Max. È un po' imbarazzante ammetterlo, ma le cose stanno così."
+msgstr "[_Mia_s_12_] Non so nuotare, Max. È un po’ imbarazzante ammetterlo, ma è così com’è."
 
 # game/scripts/story_01/mia.rpy:280 #-#-# translate crowdin ev_095_dae849b5:
 msgid "[_Max_s_15_] Как это так?! Почему?"
@@ -506,43 +506,43 @@ msgstr "[_Max_s_15_] Come mai?! Perché?"
 
 # game/scripts/story_01/mia.rpy:281 #-#-# translate crowdin ev_095_aadef372:
 msgid "[_Mia_s_11_] У меня был не очень хороший опыт с этим в детстве. С тех пор я боюсь глубины и того, что там может быть."
-msgstr "[Ho avuto una brutta esperienza da bambina. Da allora ho sempre avuto paura delle profondità e di quello che potrebbe esserci."
+msgstr "[_Mia_s_11_] Ho avuto una brutta esperienza con questo da bambina. Da allora ho paura della profondità e di ciò che potrebbe esserci."
 
 # game/scripts/story_01/mia.rpy:282 #-#-# translate crowdin ev_095_2437a923:
 msgid "[_Max_s_12_] Так в бассейне же не глубоко! Да и нет в нём ничего, кроме воды. Спросите мою маму, я за этим слежу..."
-msgstr "[La piscina non è profonda! E c'è solo acqua. Chiedi a mia madre, io la tengo d'occhio..."
+msgstr "[_Max_s_12_] Ma la piscina non è profonda! E non c’è niente in essa, tranne l’acqua. Chiedi a mia madre, io me ne occupo..."
 
 # game/scripts/story_01/mia.rpy:283 #-#-# translate crowdin ev_095_132681c0:
 msgid "[_Ann_s_10_] Макс, что ты пристал к человеку? Где твои манеры?"
-msgstr "[Max, perché te la prendi con un uomo? Dove sono le tue buone maniere?"
+msgstr "[_Ann_s_10_] Max, perché stai infastidendo gli ospiti? Dove sono le tue buone maniere?"
 
 # game/scripts/story_01/mia.rpy:284 #-#-# translate crowdin ev_095_4fba27d7:
 msgid "[_Mia_s_12_] Всё нормально. Несколько раз я пыталась взять себя в руки и побороть этот страх, но не вышло. Скорее всего, я не слишком сильно и хотела..."
-msgstr "[Va tutto bene. Ho provato un paio di volte a riprendermi e a vincere questa paura, ma non ha funzionato. Probabilmente non lo volevo troppo..."
+msgstr "[_Mia_s_12_] Va tutto bene. Ho provato diverse volte a riprendermi e a superare questa paura, ma non ci sono riuscita. Probabilmente, non volevo farlo troppo..."
 
 # game/scripts/story_01/mia.rpy:285 #-#-# translate crowdin ev_095_78bd028c:
 msgid "[_Max_s_11_] Я могу научить вас плавать! Вообще легко..."
-msgstr "[Posso insegnarti a nuotare! In realtà è facile..."
+msgstr "[_Max_s_11_] Posso insegnarti a nuotare! È davvero facile..."
 
 # game/scripts/story_01/mia.rpy:286 #-#-# translate crowdin ev_095_03500c63:
 msgid "[_Mia_s_13_] Ой, Макс, нет... В вашем бассейне я точно не смогу... Он такой глубокий. Мне куда комфортнее в моём бассейне, ведь там есть мелководная зона."
-msgstr "[Oh, Max, no. Non posso assolutamente farlo nella tua piscina... È così profonda. Mi sento molto più a mio agio nella mia piscina, perché ha una zona poco profonda."
+msgstr "[_Mia_s_13_] Oh, Max, no... Non posso proprio nella tua piscina... È così profonda. Mi sento molto più a mio agio nella mia piscina, perché c’è una zona poco profonda."
 
 # game/scripts/story_01/mia.rpy:287 #-#-# translate crowdin ev_095_ad1af258:
 msgid "[_Max_s_01_] Отлично! Там я вас и научу. Поехали..."
-msgstr "[Va bene! È lì che ti insegnerò. Andiamo..."
+msgstr "[_Max_s_01_] Benissimo! Lì ti insegnerò. Andiamo..."
 
 # game/scripts/story_01/mia.rpy:291 #-#-# translate crowdin ev_095_d20180fa:
 msgid "[_Ann_s_11_] Макс, вообще-то, сперва нужно спросить человека, хочет ли он этого! А уже после..."
-msgstr "[Max, devi prima chiedere alla persona se lo vuole! E poi..."
+msgstr "[_Ann_s_11_] Max, in realtà, dovresti prima chiedere alla persona se lo vuole! E poi..."
 
 # game/scripts/story_01/mia.rpy:292 #-#-# translate crowdin ev_095_7ba91c85:
 msgid "[_Max_s_02_] Да, да, да... Дорого не возьму, просто на машине покатаете. Что скажите?"
-msgstr "[Si', si', si'. Non accetto soldi, solo un passaggio in macchina. Che ne dici?"
+msgstr "[_Max_s_02_] Sì, sì, sì... Non chiederò molto, basta un giro in macchina. Che ne dici?"
 
 # game/scripts/story_01/mia.rpy:293 #-#-# translate crowdin ev_095_d7ba2959:
 msgid "[_Mia_s_04_] Хм... Скажу, что такому настойчивому мальчику сложно отказать. Надеюсь, сам-то ты плаваешь хорошо, а то получится смешно..."
-msgstr "[_Mia_s_04_] Hmm... Direi che è difficile dire di no a un ragazzo così insistente. Spero che anche tu sia un buon nuotatore, o questo sarà ridicolo...."
+msgstr "[_Mia_s_04_] Hmm... Dirò che è difficile dire di no a un ragazzo così insistente. Spero che tu sappia nuotare bene, altrimenti sarà divertente..."
 
 # game/scripts/story_01/mia.rpy:294 #-#-# translate crowdin ev_095_852cbb13:
 msgid "[_Ann_s_03_] Нет, Макс у меня очень хорошо и плавает, и ныряет."
