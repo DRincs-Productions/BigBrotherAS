@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-20 15:11\n"
+"PO-Revision-Date: 2024-04-20 16:24\n"
 
 # TODO: Translation updated at 2024-04-17 23:25 #|#|# # game/scripts/story_01/mia.rpy:7 #-#-# translate crowdin ev_063_eb6a6385:
 msgid "[_tMax_s_11_] Звонок в ворота! Похоже, к нам кто-то приехал..."
@@ -546,27 +546,27 @@ msgstr "[_Mia_s_04_] Hmm... Dirò che è difficile dire di no a un ragazzo così
 
 # game/scripts/story_01/mia.rpy:294 #-#-# translate crowdin ev_095_852cbb13:
 msgid "[_Ann_s_03_] Нет, Макс у меня очень хорошо и плавает, и ныряет."
-msgstr "[No, Max è un ottimo nuotatore e sommozzatore."
+msgstr "[_Ann_s_03_] No, Max nuota e si immerge molto bene per me."
 
 # game/scripts/story_01/mia.rpy:295 #-#-# translate crowdin ev_095_a97b6ae5:
 msgid "[_Max_s_12_] А ты, мам, не против?"
-msgstr "[Ti dispiace, mamma?"
+msgstr "[_Max_s_12_] E tu, mamma, non sei contraria?"
 
 # game/scripts/story_01/mia.rpy:296 #-#-# translate crowdin ev_095_3547ac4e:
 msgid "[_Ann_s_10_] Я-то не против. Главное, чтобы это не слишком напрягало тебя, Мия. Если что, только скажи и я его мигом отчитаю..."
-msgstr "[Non mi dispiace. Basta che non ti dia troppo fastidio, Mia. Semmai, basta che tu lo dica e lo manderò a quel paese in un attimo...."
+msgstr "[_Ann_s_10_] Non mi dispiace. L’importante è che non ti stressi troppo, Mia. Se c’è qualcosa, dimmelo e lo rimprovererò subito..."
 
 # game/scripts/story_01/mia.rpy:297 #-#-# translate crowdin ev_095_4622069f:
 msgid "[_Mia_s_02_] Нет, Анна, не нужно. Мне даже интересно, вдруг у него всё получится. Пусть попробует... Только не сегодня, я ещё собиралась поехать по делам после вас. Может, на следующих выходных, Макс?"
-msgstr "[No, Anna, non devi farlo. Mi chiedo persino se ci riuscirà. Lascialo provare. Non stasera, ho delle commissioni da fare dopo di te. Magari il prossimo fine settimana, Max?"
+msgstr "[_Mia_s_02_] No, Anna, non è necessario. Sono anche curiosa, magari ci riesce. Lascia che provi... Ma non oggi, avevo ancora intenzione di fare delle commissioni dopo di voi. Forse il prossimo fine settimana, Max?"
 
 # game/scripts/story_01/mia.rpy:298 #-#-# translate crowdin ev_095_747b6464:
 msgid "[_Max_s_11_] Не вопрос. Давайте на следующих. Заодно, успеете морально подготовиться к борьбе со своими страхами."
-msgstr "[Nessun problema. Facciamo la prossima volta. Allo stesso tempo, preparatevi mentalmente a combattere le vostre paure."
+msgstr "[_Max_s_11_] Nessun problema. Facciamo il prossimo. Nel frattempo, avrai il tempo di prepararti mentalmente a combattere le tue paure."
 
 # game/scripts/story_01/mia.rpy:299 #-#-# translate crowdin ev_095_662f0f2c:
 msgid "[_Mia_s_12_] Ухх... Это ты точно подметил. Значит, я заеду за тобой в следующее воскресенье, если буду свободна. А сейчас, мне пора ехать, так что пойду за своими брюками..."
-msgstr "[_Mia_s_12_] Uhhh... Ottima osservazione. Allora, passo a prenderti domenica prossima, se sono libero. Ora devo andare, quindi vado a prendere i miei pantaloni ...."
+msgstr "[_Mia_s_12_] Uhhh... Hai proprio ragione. Quindi, passerò a prenderti la prossima domenica, se sarò libera. Ora, devo andare, quindi andrò a prendere i miei pantaloni..."
 
 # game/scripts/story_01/mia.rpy:300 #-#-# translate crowdin ev_095_032251bb:
 msgid "[_Max_s_04_] Давайте, ждём вас..."
