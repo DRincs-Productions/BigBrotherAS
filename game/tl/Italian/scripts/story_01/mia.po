@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-21 08:08\n"
+"PO-Revision-Date: 2024-04-21 09:33\n"
 
 # TODO: Translation updated at 2024-04-17 23:25 #|#|# # game/scripts/story_01/mia.rpy:7 #-#-# translate crowdin ev_063_eb6a6385:
 msgid "[_tMax_s_11_] Звонок в ворота! Похоже, к нам кто-то приехал..."
@@ -586,39 +586,39 @@ msgstr "[_Ann_s_01_] Spero che sarà così. Penso che nuoterò ancora un po’, 
 
 # game/scripts/story_01/mia.rpy:307 #-#-# translate crowdin ev_095_77d16d10:
 msgid "[_Max_s_03_] У тебя же выходной, наслаждайся отдыхом!"
-msgstr "[E' il tuo giorno libero, goditi le vacanze!"
+msgstr "[_Max_s_03_] È il tuo giorno libero, goditi il riposo!"
 
 # game/scripts/story_01/mia.rpy:311 #-#-# translate crowdin ev_095_c2b0d774:
 msgid "[_Mia_s_00_] Ну что, я поехала... Была рада провести свободное время у вас в гостях и пообщаться. Спасибо за ваше гостеприимство."
-msgstr "[Beh, io me ne vado... È stato un piacere passare un po' di tempo libero a visitare e socializzare con voi. Grazie per la vostra ospitalità."
+msgstr "[_Mia_s_00_] Allora, me ne vado... Sono stata felice di passare del tempo libero con voi e di fare due chiacchiere. Grazie per la vostra ospitalità."
 
 # game/scripts/story_01/mia.rpy:312 #-#-# translate crowdin ev_095_cab47391:
 msgid "[_Ann_s_04_] И тебе спасибо, что заехала. До встречи, Мия. Всего хорошего..."
-msgstr "[E grazie per essere passati. A dopo, Mia. Tanti auguri..."
+msgstr "[_Ann_s_04_] E grazie anche a te per essere passata. Ci vediamo, Mia. Tutto il meglio...\n\n\n\n\n"
 
 # game/scripts/story_01/mia.rpy:313 #-#-# translate crowdin ev_095_6dc09797:
 msgid "[_Max_s_02_] Всегда рады вам, Мия! Я вас провожу..."
-msgstr "[Sei sempre la benvenuta, Mia! Ci vediamo fuori..."
+msgstr "[_Max_s_02_] Siamo sempre felici di averti, Mia! Ti accompagno..."
 
 # game/scripts/story_01/mia.rpy:317 #-#-# translate crowdin ev_095_933535de:
 msgid "[_Mia_s_02_] До следующих выходных, Макс. Не гарантирую, что осмелюсь учиться плавать с твоей помощью, но попробую."
-msgstr "[Ci vediamo il prossimo fine settimana, Max. Non posso garantire che avrò il coraggio di imparare a nuotare con il tuo aiuto, ma ci proverò."
+msgstr "[_Mia_s_02_] Ci vediamo il prossimo fine settimana, Max. Non posso garantire che avrò il coraggio di imparare a nuotare con il tuo aiuto, ma ci proverò."
 
 # game/scripts/story_01/mia.rpy:318 #-#-# translate crowdin ev_095_e81f9986:
 msgid "[_Max_s_03_] Ловлю на слове. Осторожнее на дорогах и берегите задний бампер!"
-msgstr "[Mi fido della sua parola. Fate attenzione sulle strade e prendetevi cura del vostro paraurti posteriore!"
+msgstr "[_Max_s_03_] Ti prendo in parola. Fai attenzione sulla strada e proteggi il paraurti posteriore!"
 
 # game/scripts/story_01/mia.rpy:319 #-#-# translate crowdin ev_095_da5b55c1:
 msgid "[_Mia_s_01_] Не переживай, Макс, я опытный водитель."
-msgstr "[Non preoccuparti, Max, sono un autista esperto."
+msgstr "[_Mia_s_01_] Non preoccuparti, Max, sono un guidatore esperto."
 
 # game/scripts/story_01/mia.rpy:320 #-#-# translate crowdin ev_095_022ea23e:
 msgid "[_Max_s_11_] Я вообще-то не про машину."
-msgstr "[Non sto parlando dell'auto."
+msgstr "[_Max_s_11_] In realtà, non stavo parlando della macchina."
 
 # game/scripts/story_01/mia.rpy:321 #-#-# translate crowdin ev_095_8434ea68:
 msgid "[_Mia_s_04_] Ах, вот оно что... Я тебя поняла. Ещё увидимся, не скучай..."
-msgstr "[Ah, ecco... Ho capito cosa intendi. Ci rivedremo, non mancare...."
+msgstr "[_Mia_s_04_] Ah, ecco cosa... Ti ho capito. Ci vediamo, non ti annoiare..."
 
 # game/scripts/story_01/mia.rpy:322 #-#-# translate crowdin ev_095_d28ed25f:
 msgid "[_Max_s_04_] До свидания!"
@@ -630,7 +630,7 @@ msgstr "{i}guardare l'ospite mentre si preparano i drink{/i}"
 
 # game/scripts/story_01/mia.rpy:153
 msgid "{i}отвести Мию в мамину комнату{/i}"
-msgstr "{i}per portare Mia nella stanza della mamma."
+msgstr "{i}portare Mia nella stanza della mamma{/i}"
 
 # game/scripts/story_01/mia.rpy:165
 msgid "{i}идти делать напитки{/i}"
@@ -638,13 +638,13 @@ msgstr "{i}andare a preparare da bere{/i}"
 
 # game/scripts/story_01/mia.rpy:165
 msgid "{i}подсмотреть за Мией в окно{/i}"
-msgstr "{i}sbirciando Mia attraverso la finestra."
+msgstr "{i}guardare Mia dalla finestra{/i}"
 
 # game/scripts/story_01/mia.rpy:178
 msgid "{i}скорее идти делать напитки{/i}"
-msgstr "{i}Piuttosto vai a preparare da bere{/i}"
+msgstr "{i}meglio andare a preparare le bevande{/i}"
 
 # game/scripts/story_01/mia.rpy:216
 msgid "{i}любоваться мамой и Мией, делая напитки{/i}"
-msgstr "{i}ammirando mamma e Mia mentre preparano i drink{/i}"
+msgstr "{i}ammirare mamma e Mia mentre prepari le bevande{/i}"
 
