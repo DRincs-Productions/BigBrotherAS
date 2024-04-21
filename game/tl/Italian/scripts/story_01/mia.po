@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-20 16:24\n"
+"PO-Revision-Date: 2024-04-21 08:08\n"
 
 # TODO: Translation updated at 2024-04-17 23:25 #|#|# # game/scripts/story_01/mia.rpy:7 #-#-# translate crowdin ev_063_eb6a6385:
 msgid "[_tMax_s_11_] Звонок в ворота! Похоже, к нам кто-то приехал..."
@@ -570,19 +570,19 @@ msgstr "[_Mia_s_12_] Uhhh... Hai proprio ragione. Quindi, passerò a prenderti l
 
 # game/scripts/story_01/mia.rpy:300 #-#-# translate crowdin ev_095_032251bb:
 msgid "[_Max_s_04_] Давайте, ждём вас..."
-msgstr "[Andiamo, ti stiamo aspettando..."
+msgstr "[_Max_s_04_] Va bene, vi aspettiamo..."
 
 # game/scripts/story_01/mia.rpy:304 #-#-# translate crowdin ev_095_7e8451d3:
 msgid "[_Ann_s_12_] Сынок, ты только давай будь поскромнее. Я не хочу потом из-за твоего поведения краснеть перед Мией."
-msgstr "[Figliolo, sii modesto. Non voglio essere messo in imbarazzo davanti a Mia a causa del tuo comportamento."
+msgstr "[_Ann_s_12_] Figlio mio, cerca solo di essere più modesto. Non voglio poi arrossire davanti a Mia a causa del tuo comportamento."
 
 # game/scripts/story_01/mia.rpy:305 #-#-# translate crowdin ev_095_99ec7585:
 msgid "[_Max_s_01_] Всё будет нормально, мам. Ещё гордиться будешь."
-msgstr "[Andrà tutto bene, mamma. Sarai orgogliosa di te stessa."
+msgstr "[_Max_s_01_] Andrà tutto bene, mamma. Sarai ancora orgogliosa."
 
 # game/scripts/story_01/mia.rpy:306 #-#-# translate crowdin ev_095_cb7c752c:
 msgid "[_Ann_s_01_] Надеюсь, так и будет. Я, пожалуй, ещё немного поплаваю, если никто не против..."
-msgstr "[Spero di sì. Credo che nuoterò ancora un po', se nessuno ci fa caso...."
+msgstr "[_Ann_s_01_] Spero che sarà così. Penso che nuoterò ancora un po’, se a nessuno dispiace..."
 
 # game/scripts/story_01/mia.rpy:307 #-#-# translate crowdin ev_095_77d16d10:
 msgid "[_Max_s_03_] У тебя же выходной, наслаждайся отдыхом!"
