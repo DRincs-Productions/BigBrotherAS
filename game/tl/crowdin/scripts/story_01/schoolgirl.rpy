@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-04-17 23:25
+﻿# TODO: Translation updated at 2024-05-12 15:48
 
 # game/scripts/story_01/schoolgirl.rpy:8
 translate crowdin ev_084_03562824:
@@ -1524,535 +1524,541 @@ translate crowdin ev_089_molest_7e587092_1:
     # Max 00 "Обещаю!"
     Max 00 "Обещаю!"
 
-# game/scripts/story_01/schoolgirl.rpy:901
+# game/scripts/story_01/schoolgirl.rpy:897
+translate crowdin ev_089_molest_8356692f:
+
+    # Lisa 09 "Хм... Ладно, я покажу, но не полностью. Только наполовину. А то я стесняюсь..." nointeract
+    Lisa 09 "Хм... Ладно, я покажу, но не полностью. Только наполовину. А то я стесняюсь..." nointeract
+
+# game/scripts/story_01/schoolgirl.rpy:902
 translate crowdin ev_089_molest_82122d81:
 
     # Lisa 12 "Ну, Макс! Я не хочу. Хотя, если ты согласишься помогать мне без приставаний семь вечеров, а не пять, то я покажу её полностью..." nointeract
     Lisa 12 "Ну, Макс! Я не хочу. Хотя, если ты согласишься помогать мне без приставаний семь вечеров, а не пять, то я покажу её полностью..." nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:903
+# game/scripts/story_01/schoolgirl.rpy:904
 translate crowdin ev_089_molest_e71fb37b:
 
     # Lisa 12 "Ну, Макс! Я не хочу. Хотя, если ты согласишься помогать мне без приставаний пять вечеров, а не три, то я покажу её полностью..." nointeract
     Lisa 12 "Ну, Макс! Я не хочу. Хотя, если ты согласишься помогать мне без приставаний пять вечеров, а не три, то я покажу её полностью..." nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:908
+# game/scripts/story_01/schoolgirl.rpy:909
 translate crowdin ev_089_molest_033b0e88:
 
     # Lisa 10 "Ой, а я думала, ты откажешься! Тогда наслаждайся, пока я от стыда вся сгораю..."
     Lisa 10 "Ой, а я думала, ты откажешься! Тогда наслаждайся, пока я от стыда вся сгораю..."
 
-# game/scripts/story_01/schoolgirl.rpy:909
+# game/scripts/story_01/schoolgirl.rpy:910
 translate crowdin ev_089_molest_c6c77edb:
 
     # Max 04 "Уфф... Какая же у тебя прекрасная грудь! Не знаю, почему ты так стесняешься её показывать."
     Max 04 "Уфф... Какая же у тебя прекрасная грудь! Не знаю, почему ты так стесняешься её показывать."
 
-# game/scripts/story_01/schoolgirl.rpy:910
+# game/scripts/story_01/schoolgirl.rpy:911
 translate crowdin ev_089_molest_022e0afd:
 
     # Lisa 00 "Насмотрелся? Доволен? Теперь наконец-то я смогу спокойно доделать уроки ни на что не отвлекаясь..."
     Lisa 00 "Насмотрелся? Доволен? Теперь наконец-то я смогу спокойно доделать уроки ни на что не отвлекаясь..."
 
-# game/scripts/story_01/schoolgirl.rpy:922
+# game/scripts/story_01/schoolgirl.rpy:923
 translate crowdin ev_089_molest_9afe3414:
 
     # Lisa 10 "Ой, ну вот, пожалуйста... Смотри, пока я от стыда вся сгораю..."
     Lisa 10 "Ой, ну вот, пожалуйста... Смотри, пока я от стыда вся сгораю..."
 
-# game/scripts/story_01/schoolgirl.rpy:923
+# game/scripts/story_01/schoolgirl.rpy:924
 translate crowdin ev_089_molest_80d0648d:
 
     # Max 03 "Ммм... Красивая она у тебя! Не знаю, почему ты так стесняешься её показывать."
     Max 03 "Ммм... Красивая она у тебя! Не знаю, почему ты так стесняешься её показывать."
 
-# game/scripts/story_01/schoolgirl.rpy:924
+# game/scripts/story_01/schoolgirl.rpy:925
 translate crowdin ev_089_molest_022e0afd_1:
 
     # Lisa 00 "Насмотрелся? Доволен? Теперь наконец-то я смогу спокойно доделать уроки ни на что не отвлекаясь..."
     Lisa 00 "Насмотрелся? Доволен? Теперь наконец-то я смогу спокойно доделать уроки ни на что не отвлекаясь..."
 
-# game/scripts/story_01/schoolgirl.rpy:932
+# game/scripts/story_01/schoolgirl.rpy:933
 translate crowdin ev_089_next_help_70fda845:
 
     # Lisa 10 "Макс, помоги мне вот с этим... Я что-то не могу сообразить, как это решить?"
     Lisa 10 "Макс, помоги мне вот с этим... Я что-то не могу сообразить, как это решить?"
 
-# game/scripts/story_01/schoolgirl.rpy:933
+# game/scripts/story_01/schoolgirl.rpy:934
 translate crowdin ev_089_next_help_26424f1c:
 
     # Max 13 "Хм... Вообще-то, тут всё просто, если обратить внимание вот на этот момент..."
     Max 13 "Хм... Вообще-то, тут всё просто, если обратить внимание вот на этот момент..."
 
-# game/scripts/story_01/schoolgirl.rpy:934
+# game/scripts/story_01/schoolgirl.rpy:935
 translate crowdin ev_089_next_help_753d13ff:
 
     # Lisa 11 "Ой, точно! Я это проглядела. Сейчас всё решу..."
     Lisa 11 "Ой, точно! Я это проглядела. Сейчас всё решу..."
 
-# game/scripts/story_01/schoolgirl.rpy:935
+# game/scripts/story_01/schoolgirl.rpy:936
 translate crowdin ev_089_next_help_7d1c8e68:
 
     # Max 01 "Дерзай."
     Max 01 "Дерзай."
 
-# game/scripts/story_01/schoolgirl.rpy:939
+# game/scripts/story_01/schoolgirl.rpy:940
 translate crowdin ev_089_next_help_444cbbe7:
 
     # tMax 16 "Фух... Лиза, наконец-то, и заканчивает с уроками на сегодня. Как же долго тянется время, когда сидишь почти без дела."
     tMax 16 "Фух... Лиза, наконец-то, и заканчивает с уроками на сегодня. Как же долго тянется время, когда сидишь почти без дела."
 
-# game/scripts/story_01/schoolgirl.rpy:943
+# game/scripts/story_01/schoolgirl.rpy:944
 translate crowdin ev_089_next_help_095ff98a:
 
     # Lisa 02 "Ну вот, я всё сделала! Спасибо тебе огромное за помощь..."
     Lisa 02 "Ну вот, я всё сделала! Спасибо тебе огромное за помощь..."
 
-# game/scripts/story_01/schoolgirl.rpy:944
+# game/scripts/story_01/schoolgirl.rpy:945
 translate crowdin ev_089_next_help_4f363c93:
 
     # Max 02 "Не за что. Ты умничка, Лиза! Почти со всем справилась сама."
     Max 02 "Не за что. Ты умничка, Лиза! Почти со всем справилась сама."
 
-# game/scripts/story_01/schoolgirl.rpy:961
+# game/scripts/story_01/schoolgirl.rpy:962
 translate crowdin ev_089_ending_help_bfcd7441:
 
     # Lisa 11 "Слушай, уже поздно, я хочу спать. Отвернись, пожалуйста, я переоденусь..."
     Lisa 11 "Слушай, уже поздно, я хочу спать. Отвернись, пожалуйста, я переоденусь..."
 
-# game/scripts/story_01/schoolgirl.rpy:963
+# game/scripts/story_01/schoolgirl.rpy:964
 translate crowdin ev_089_ending_help_b9863ca4:
 
     # Lisa 11 "Слушай, уже поздно, я хочу спать. Бери свою одежду и иди погуляй где-нибудь, пожалуйста, пока я переодеваюсь..."
     Lisa 11 "Слушай, уже поздно, я хочу спать. Бери свою одежду и иди погуляй где-нибудь, пожалуйста, пока я переодеваюсь..."
 
-# game/scripts/story_01/schoolgirl.rpy:964
+# game/scripts/story_01/schoolgirl.rpy:965
 translate crowdin ev_089_ending_help_426928bd:
 
     # Max 12 "Подожди, а мы что, обниматься не будем?"
     Max 12 "Подожди, а мы что, обниматься не будем?"
 
-# game/scripts/story_01/schoolgirl.rpy:965
+# game/scripts/story_01/schoolgirl.rpy:966
 translate crowdin ev_089_ending_help_be9306f3:
 
     # Lisa 12 "Ты и так сегодня натрогался больше некуда! Я с тобой в нижнем белье обниматься не буду..." nointeract
     Lisa 12 "Ты и так сегодня натрогался больше некуда! Я с тобой в нижнем белье обниматься не буду..." nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:976
+# game/scripts/story_01/schoolgirl.rpy:977
 translate crowdin ev_089_ending_help_8643110a:
 
     # Lisa 11 "Всё равно, спасибо! Слушай, уже поздно, я хочу спать. Отвернись, пожалуйста, я переоденусь..." nointeract
     Lisa 11 "Всё равно, спасибо! Слушай, уже поздно, я хочу спать. Отвернись, пожалуйста, я переоденусь..." nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:979
+# game/scripts/story_01/schoolgirl.rpy:980
 translate crowdin ev_089_ending_help_cf5325a2:
 
     # Lisa 11 "Всё равно, спасибо! Слушай, уже поздно, я хочу спать. Бери свою одежду и иди погуляй где-нибудь, пожалуйста, пока я переодеваюсь..." nointeract
     Lisa 11 "Всё равно, спасибо! Слушай, уже поздно, я хочу спать. Бери свою одежду и иди погуляй где-нибудь, пожалуйста, пока я переодеваюсь..." nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:987
+# game/scripts/story_01/schoolgirl.rpy:988
 translate crowdin ev_089_ending_help_4c01eb68:
 
     # Lisa 04 "Всё равно, спасибо! С тобой я себя как-то поувереннее чувствую."
     Lisa 04 "Всё равно, спасибо! С тобой я себя как-то поувереннее чувствую."
 
-# game/scripts/story_01/schoolgirl.rpy:990
+# game/scripts/story_01/schoolgirl.rpy:991
 translate crowdin ev_089_ending_help_da70c9e4:
 
     # Lisa 04 "Всё равно, спасибо! С тобой я себя как-то поувереннее чувствую. И особенно, когда ты меня ничем не отвлекаешь." nointeract
     Lisa 04 "Всё равно, спасибо! С тобой я себя как-то поувереннее чувствую. И особенно, когда ты меня ничем не отвлекаешь." nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:996
+# game/scripts/story_01/schoolgirl.rpy:997
 translate crowdin ev_089_ending_help_de2dc553:
 
     # Lisa 14 "Макс, ну зачем эти шуточки с моим лифчиком?! А если бы он у меня с груди слетел?" nointeract
     Lisa 14 "Макс, ну зачем эти шуточки с моим лифчиком?! А если бы он у меня с груди слетел?" nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:1002
+# game/scripts/story_01/schoolgirl.rpy:1003
 translate crowdin ev_089_ending_help_bbcb2328:
 
     # Lisa 11 "Такая себе помощь тогда получается, Макс! Давай отворачивайся, я переоденусь..." nointeract
     Lisa 11 "Такая себе помощь тогда получается, Макс! Давай отворачивайся, я переоденусь..." nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:1005
+# game/scripts/story_01/schoolgirl.rpy:1006
 translate crowdin ev_089_ending_help_cb3a4305:
 
     # Lisa 11 "Такая себе помощь тогда получается, Макс! Бери свою одежду и иди гуляй отсюда, пока я переодеваюсь..." nointeract
     Lisa 11 "Такая себе помощь тогда получается, Макс! Бери свою одежду и иди гуляй отсюда, пока я переодеваюсь..." nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:1013
+# game/scripts/story_01/schoolgirl.rpy:1014
 translate crowdin ev_089_ending_help_e9355b4c:
 
     # Lisa 15 "Обломись, тогда! Бери свою одежду и иди гуляй отсюда, пока я переодеваюсь..." nointeract
     Lisa 15 "Обломись, тогда! Бери свою одежду и иди гуляй отсюда, пока я переодеваюсь..." nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:1023
+# game/scripts/story_01/schoolgirl.rpy:1024
 translate crowdin ev_089_ending_help_9a84fcd4:
 
     # Lisa 14 "Ой, полотенце! Да что же это..."
     Lisa 14 "Ой, полотенце! Да что же это..."
 
-# game/scripts/story_01/schoolgirl.rpy:1024
+# game/scripts/story_01/schoolgirl.rpy:1025
 translate crowdin ev_089_ending_help_775d3776:
 
     # Max 05 "Ого, я не просил, но за голые сисечки спасибо!"
     Max 05 "Ого, я не просил, но за голые сисечки спасибо!"
 
-# game/scripts/story_01/schoolgirl.rpy:1028
+# game/scripts/story_01/schoolgirl.rpy:1029
 translate crowdin ev_089_ending_help_bd3cab05:
 
     # Lisa 10 "Блин, Макс! Ты специально задел моё полотенце, когда я вставала со стула?"
     Lisa 10 "Блин, Макс! Ты специально задел моё полотенце, когда я вставала со стула?"
 
-# game/scripts/story_01/schoolgirl.rpy:1029
+# game/scripts/story_01/schoolgirl.rpy:1030
 translate crowdin ev_089_ending_help_e8042380:
 
     # Max 11 "Нет, так уж получилось."
     Max 11 "Нет, так уж получилось."
 
-# game/scripts/story_01/schoolgirl.rpy:1031
+# game/scripts/story_01/schoolgirl.rpy:1032
 translate crowdin ev_089_ending_help_764cbaf3:
 
     # Lisa 15 "Ну ага, получилось у него... Всё, выйди из комнаты, мне нужно переодеться, чтобы лечь спать." nointeract
     Lisa 15 "Ну ага, получилось у него... Всё, выйди из комнаты, мне нужно переодеться, чтобы лечь спать." nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:1038
+# game/scripts/story_01/schoolgirl.rpy:1039
 translate crowdin ev_089_ending_help_2fd4277c:
 
     # Lisa 14 "Ой, моё полотенце! Как же так?!"
     Lisa 14 "Ой, моё полотенце! Как же так?!"
 
-# game/scripts/story_01/schoolgirl.rpy:1039
+# game/scripts/story_01/schoolgirl.rpy:1040
 translate crowdin ev_089_ending_help_e63bfa2a:
 
     # Max 05 "Это было не обязательно, сестрёнка, но за голые сисечки я всегда благодарен!"
     Max 05 "Это было не обязательно, сестрёнка, но за голые сисечки я всегда благодарен!"
 
-# game/scripts/story_01/schoolgirl.rpy:1043
+# game/scripts/story_01/schoolgirl.rpy:1044
 translate crowdin ev_089_ending_help_f5122f50:
 
     # Lisa 10 "Блин, Макс! Что я такое задела, что с меня полотенце в миг слетело? Или это ты сделал?!"
     Lisa 10 "Блин, Макс! Что я такое задела, что с меня полотенце в миг слетело? Или это ты сделал?!"
 
-# game/scripts/story_01/schoolgirl.rpy:1044
+# game/scripts/story_01/schoolgirl.rpy:1045
 translate crowdin ev_089_ending_help_3ddd89af:
 
     # Max 11 "Не знаю, наверно ты меня задела, когда вставала со стула."
     Max 11 "Не знаю, наверно ты меня задела, когда вставала со стула."
 
-# game/scripts/story_01/schoolgirl.rpy:1050
+# game/scripts/story_01/schoolgirl.rpy:1051
 translate crowdin ev_089_ending_help_bb55551a:
 
     # Lisa 11 "Неужели я такая неуклюжая? Слушай, уже поздно, я хочу спать. Отвернись, пожалуйста, я переоденусь..." nointeract
     Lisa 11 "Неужели я такая неуклюжая? Слушай, уже поздно, я хочу спать. Отвернись, пожалуйста, я переоденусь..." nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:1053
+# game/scripts/story_01/schoolgirl.rpy:1054
 translate crowdin ev_089_ending_help_d1838c78:
 
     # Lisa 11 "Неужели я такая неуклюжая? Слушай, уже поздно, я хочу спать. Погуляй где-нибудь, пожалуйста, пока я переодеваюсь..." nointeract
     Lisa 11 "Неужели я такая неуклюжая? Слушай, уже поздно, я хочу спать. Погуляй где-нибудь, пожалуйста, пока я переодеваюсь..." nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:1063
+# game/scripts/story_01/schoolgirl.rpy:1064
 translate crowdin ev_089_ending_help_9a84fcd4_1:
 
     # Lisa 14 "Ой, полотенце! Да что же это..."
     Lisa 14 "Ой, полотенце! Да что же это..."
 
-# game/scripts/story_01/schoolgirl.rpy:1064
+# game/scripts/story_01/schoolgirl.rpy:1065
 translate crowdin ev_089_ending_help_12cdde05:
 
     # Max 05 "Ничего себе!!!"
     Max 05 "Ничего себе!!!"
 
-# game/scripts/story_01/schoolgirl.rpy:1068
+# game/scripts/story_01/schoolgirl.rpy:1069
 translate crowdin ev_089_ending_help_db1ab0c6:
 
     # Lisa 12 "Блин, Макс! С меня полотенце свалилось, когда я встала со стула и оно теперь на полу..."
     Lisa 12 "Блин, Макс! С меня полотенце свалилось, когда я встала со стула и оно теперь на полу..."
 
-# game/scripts/story_01/schoolgirl.rpy:1069
+# game/scripts/story_01/schoolgirl.rpy:1070
 translate crowdin ev_089_ending_help_1c943047:
 
     # Max 01 "Ага, я заметил."
     Max 01 "Ага, я заметил."
 
-# game/scripts/story_01/schoolgirl.rpy:1070
+# game/scripts/story_01/schoolgirl.rpy:1071
 translate crowdin ev_089_ending_help_94287f4b:
 
     # Lisa 10 "Помоги его поднять, а то я стесняюсь перед тобой голая крутиться. И постарайся никуда не заглядывать, пожалуйста..."
     Lisa 10 "Помоги его поднять, а то я стесняюсь перед тобой голая крутиться. И постарайся никуда не заглядывать, пожалуйста..."
 
-# game/scripts/story_01/schoolgirl.rpy:1071
+# game/scripts/story_01/schoolgirl.rpy:1072
 translate crowdin ev_089_ending_help_c7638fbe:
 
     # Max 11 "Конечно, помогу. Не переживай..."
     Max 11 "Конечно, помогу. Не переживай..."
 
-# game/scripts/story_01/schoolgirl.rpy:1075
+# game/scripts/story_01/schoolgirl.rpy:1076
 translate crowdin ev_089_ending_help_8ce2870f:
 
     # Lisa 11 "Фух... Ты меня выручил... Спасибо, что не стал сильно глазеть!"
     Lisa 11 "Фух... Ты меня выручил... Спасибо, что не стал сильно глазеть!"
 
-# game/scripts/story_01/schoolgirl.rpy:1076
+# game/scripts/story_01/schoolgirl.rpy:1077
 translate crowdin ev_089_ending_help_c66f4bad:
 
     # Max 03 "Не напрягайся ты так из-за этого, я же не побегу теперь на весь город в подробностях рассказывать, что видел."
     Max 03 "Не напрягайся ты так из-за этого, я же не побегу теперь на весь город в подробностях рассказывать, что видел."
 
-# game/scripts/story_01/schoolgirl.rpy:1077
+# game/scripts/story_01/schoolgirl.rpy:1078
 translate crowdin ev_089_ending_help_111c43cb:
 
     # Lisa 09 "Я знаю, просто стесняюсь тебя."
     Lisa 09 "Я знаю, просто стесняюсь тебя."
 
-# game/scripts/story_01/schoolgirl.rpy:1078
+# game/scripts/story_01/schoolgirl.rpy:1079
 translate crowdin ev_089_ending_help_4e2bcc82:
 
     # Max 01 "Если тебя это немного успокоит, то ты очень краивая и милая девочка. Именно такое восхищение я испытываю, когда вижу тебя на мгновение голенькой. Да и когда ты одетая, тоже."
     Max 01 "Если тебя это немного успокоит, то ты очень краивая и милая девочка. Именно такое восхищение я испытываю, когда вижу тебя на мгновение голенькой. Да и когда ты одетая, тоже."
 
-# game/scripts/story_01/schoolgirl.rpy:1079
+# game/scripts/story_01/schoolgirl.rpy:1080
 translate crowdin ev_089_ending_help_c5ae6fcd:
 
     # Lisa 02 "Но когда голая, так особенно, да?"
     Lisa 02 "Но когда голая, так особенно, да?"
 
-# game/scripts/story_01/schoolgirl.rpy:1080
+# game/scripts/story_01/schoolgirl.rpy:1081
 translate crowdin ev_089_ending_help_72c536d8:
 
     # Max 04 "А что поделать? Так уж мы устроены. Привыкай, скромняшка..."
     Max 04 "А что поделать? Так уж мы устроены. Привыкай, скромняшка..."
 
-# game/scripts/story_01/schoolgirl.rpy:1082
+# game/scripts/story_01/schoolgirl.rpy:1083
 translate crowdin ev_089_ending_help_2438430d:
 
     # Lisa 11 "Да, похоже придётся, раз уж мы в одной комнате живём. Ладно, хватит меня укутывать в полотенце, как маленькую... Отвернись, пожалуйста, я переоденусь..." nointeract
     Lisa 11 "Да, похоже придётся, раз уж мы в одной комнате живём. Ладно, хватит меня укутывать в полотенце, как маленькую... Отвернись, пожалуйста, я переоденусь..." nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:1087
+# game/scripts/story_01/schoolgirl.rpy:1088
 translate crowdin ev_089_ending_help_6025f711:
 
     # Lisa "{b}Лиза: {/b}\nЯ быстро... Главное, не подглядывай! Надеюсь, тебе это по силам..." nointeract
     Lisa "{b}Лиза: {/b}\nЯ быстро... Главное, не подглядывай! Надеюсь, тебе это по силам..." nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:1098
+# game/scripts/story_01/schoolgirl.rpy:1099
 translate crowdin ev_089_ending_help_2fd4277c_1:
 
     # Lisa 14 "Ой, моё полотенце! Как же так?!"
     Lisa 14 "Ой, моё полотенце! Как же так?!"
 
-# game/scripts/story_01/schoolgirl.rpy:1099
+# game/scripts/story_01/schoolgirl.rpy:1100
 translate crowdin ev_089_ending_help_12cdde05_1:
 
     # Max 05 "Ничего себе!!!"
     Max 05 "Ничего себе!!!"
 
-# game/scripts/story_01/schoolgirl.rpy:1103
+# game/scripts/story_01/schoolgirl.rpy:1104
 translate crowdin ev_089_ending_help_db1ab0c6_1:
 
     # Lisa 12 "Блин, Макс! С меня полотенце свалилось, когда я встала со стула и оно теперь на полу..."
     Lisa 12 "Блин, Макс! С меня полотенце свалилось, когда я встала со стула и оно теперь на полу..."
 
-# game/scripts/story_01/schoolgirl.rpy:1104
+# game/scripts/story_01/schoolgirl.rpy:1105
 translate crowdin ev_089_ending_help_1c943047_1:
 
     # Max 01 "Ага, я заметил."
     Max 01 "Ага, я заметил."
 
-# game/scripts/story_01/schoolgirl.rpy:1106
+# game/scripts/story_01/schoolgirl.rpy:1107
 translate crowdin ev_089_ending_help_d42fa007:
 
     # Lisa 10 "Помоги его поднять, а то я стесняюсь перед тобой голая крутиться. И постарайся никуда не заглядывать, пожалуйста..." nointeract
     Lisa 10 "Помоги его поднять, а то я стесняюсь перед тобой голая крутиться. И постарайся никуда не заглядывать, пожалуйста..." nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:1111
+# game/scripts/story_01/schoolgirl.rpy:1112
 translate crowdin ev_089_ending_help_5b3916c2:
 
     # Lisa 09 "Фух... Ты меня выручил... Даже не знаю, как это у меня получается так терять полотенце!"
     Lisa 09 "Фух... Ты меня выручил... Даже не знаю, как это у меня получается так терять полотенце!"
 
-# game/scripts/story_01/schoolgirl.rpy:1112
+# game/scripts/story_01/schoolgirl.rpy:1113
 translate crowdin ev_089_ending_help_3a04cc8b:
 
     # Max 04 "Наверно ты меня задела, когда вставала со стула."
     Max 04 "Наверно ты меня задела, когда вставала со стула."
 
-# game/scripts/story_01/schoolgirl.rpy:1116
+# game/scripts/story_01/schoolgirl.rpy:1117
 translate crowdin ev_089_ending_help_8e717964:
 
     # Lisa 11 "Ладно, хватит меня укутывать в полотенце, как маленькую... Отвернись, пожалуйста, я переоденусь..." nointeract
     Lisa 11 "Ладно, хватит меня укутывать в полотенце, как маленькую... Отвернись, пожалуйста, я переоденусь..." nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:1119
+# game/scripts/story_01/schoolgirl.rpy:1120
 translate crowdin ev_089_ending_help_08c8fba8:
 
     # Lisa 11 "Ладно, хватит меня укутывать в полотенце, как маленькую... Погуляй где-нибудь, пожалуйста, пока я переодеваюсь..." nointeract
     Lisa 11 "Ладно, хватит меня укутывать в полотенце, как маленькую... Погуляй где-нибудь, пожалуйста, пока я переодеваюсь..." nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:1127
+# game/scripts/story_01/schoolgirl.rpy:1128
 translate crowdin ev_089_ending_help_f9de6323:
 
     # Lisa 12 "Серьёзно? Думаешь, раз я закончила с уроками, то теперь можно мой зад лапать?"
     Lisa 12 "Серьёзно? Думаешь, раз я закончила с уроками, то теперь можно мой зад лапать?"
 
-# game/scripts/story_01/schoolgirl.rpy:1128
+# game/scripts/story_01/schoolgirl.rpy:1129
 translate crowdin ev_089_ending_help_fd784b7a:
 
     # Max 01 "Это разве лапать? Так... легонько прикоснулся, чтобы настроение поднять."
     Max 01 "Это разве лапать? Так... легонько прикоснулся, чтобы настроение поднять."
 
-# game/scripts/story_01/schoolgirl.rpy:1132
+# game/scripts/story_01/schoolgirl.rpy:1133
 translate crowdin ev_089_ending_help_d76a5a6a:
 
     # Lisa 15 "Ну ага, я тебе прикоснусь сейчас!"
     Lisa 15 "Ну ага, я тебе прикоснусь сейчас!"
 
-# game/scripts/story_01/schoolgirl.rpy:1133
+# game/scripts/story_01/schoolgirl.rpy:1134
 translate crowdin ev_089_ending_help_cbf67bef:
 
     # Max 04 "Давай, я весь в предвкушении..."
     Max 04 "Давай, я весь в предвкушении..."
 
-# game/scripts/story_01/schoolgirl.rpy:1135
+# game/scripts/story_01/schoolgirl.rpy:1136
 translate crowdin ev_089_ending_help_88c77091:
 
     # Lisa 10 "Всё, давай шуруй из комнаты, мне нужно переодеться, чтобы лечь спать." nointeract
     Lisa 10 "Всё, давай шуруй из комнаты, мне нужно переодеться, чтобы лечь спать." nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:1140
+# game/scripts/story_01/schoolgirl.rpy:1141
 translate crowdin ev_089_ending_help_c082cec2:
 
     # Lisa 14 "Серьёзно? Думаешь, раз я закончила с уроками, то теперь можно мой зад лапать?"
     Lisa 14 "Серьёзно? Думаешь, раз я закончила с уроками, то теперь можно мой зад лапать?"
 
-# game/scripts/story_01/schoolgirl.rpy:1141
+# game/scripts/story_01/schoolgirl.rpy:1142
 translate crowdin ev_089_ending_help_fd784b7a_1:
 
     # Max 01 "Это разве лапать? Так... легонько прикоснулся, чтобы настроение поднять."
     Max 01 "Это разве лапать? Так... легонько прикоснулся, чтобы настроение поднять."
 
-# game/scripts/story_01/schoolgirl.rpy:1145
+# game/scripts/story_01/schoolgirl.rpy:1146
 translate crowdin ev_089_ending_help_a52430b1:
 
     # Lisa 01 "Ну ага, я тебе прикоснусь сейчас! Если тебе это так нравится делать, то вон, свой зад трогай..."
     Lisa 01 "Ну ага, я тебе прикоснусь сейчас! Если тебе это так нравится делать, то вон, свой зад трогай..."
 
-# game/scripts/story_01/schoolgirl.rpy:1146
+# game/scripts/story_01/schoolgirl.rpy:1147
 translate crowdin ev_089_ending_help_d42eda79:
 
     # Max 04 "Свой не интересно, он же не такой классный, как твой."
     Max 04 "Свой не интересно, он же не такой классный, как твой."
 
-# game/scripts/story_01/schoolgirl.rpy:1149
+# game/scripts/story_01/schoolgirl.rpy:1150
 translate crowdin ev_089_ending_help_ad016980:
 
     # Lisa 14 "Нельзя просто так взять и не облапать мой зад, пока такая прекрасная возможность есть, да?"
     Lisa 14 "Нельзя просто так взять и не облапать мой зад, пока такая прекрасная возможность есть, да?"
 
-# game/scripts/story_01/schoolgirl.rpy:1150
+# game/scripts/story_01/schoolgirl.rpy:1151
 translate crowdin ev_089_ending_help_7a55b1fb:
 
     # Max 01 "Даже не знаю, твоя попка прямо как-то сама под руку попала..."
     Max 01 "Даже не знаю, твоя попка прямо как-то сама под руку попала..."
 
-# game/scripts/story_01/schoolgirl.rpy:1154
+# game/scripts/story_01/schoolgirl.rpy:1155
 translate crowdin ev_089_ending_help_08b752c9:
 
     # Lisa 02 "Ну да, ещё скажи, что она из неоткуда возникла и сразу в руке оказалась!"
     Lisa 02 "Ну да, ещё скажи, что она из неоткуда возникла и сразу в руке оказалась!"
 
-# game/scripts/story_01/schoolgirl.rpy:1155
+# game/scripts/story_01/schoolgirl.rpy:1156
 translate crowdin ev_089_ending_help_ec14d216:
 
     # Max 04 "Именно так и было! А мне оставалось её только потискать..."
     Max 04 "Именно так и было! А мне оставалось её только потискать..."
 
-# game/scripts/story_01/schoolgirl.rpy:1159
+# game/scripts/story_01/schoolgirl.rpy:1160
 translate crowdin ev_089_ending_help_be78bf9b:
 
     # Lisa 11 "Всё равно, руки не распускай! Слушай, уже поздно, я хочу спать. Отвернись, пожалуйста, я переоденусь..." nointeract
     Lisa 11 "Всё равно, руки не распускай! Слушай, уже поздно, я хочу спать. Отвернись, пожалуйста, я переоденусь..." nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:1162
+# game/scripts/story_01/schoolgirl.rpy:1163
 translate crowdin ev_089_ending_help_05facf1d:
 
     # Lisa 11 "Всё равно, руки не распускай! Слушай, уже поздно, я хочу спать. Погуляй где-нибудь, пожалуйста, пока я переодеваюсь..." nointeract
     Lisa 11 "Всё равно, руки не распускай! Слушай, уже поздно, я хочу спать. Погуляй где-нибудь, пожалуйста, пока я переодеваюсь..." nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:1170
+# game/scripts/story_01/schoolgirl.rpy:1171
 translate crowdin ev_089_ending_help_3094124d:
 
     # Lisa 14 "Макс, ты что?! Ну нельзя же до такой степени наглеть! Верни моё полотенце на место, пока я на тебя не обиделась..."
     Lisa 14 "Макс, ты что?! Ну нельзя же до такой степени наглеть! Верни моё полотенце на место, пока я на тебя не обиделась..."
 
-# game/scripts/story_01/schoolgirl.rpy:1171
+# game/scripts/story_01/schoolgirl.rpy:1172
 translate crowdin ev_089_ending_help_062d3ac6:
 
     # Max 01 "Я просто проверял, действительно ли ты сняла трусики..."
     Max 01 "Я просто проверял, действительно ли ты сняла трусики..."
 
-# game/scripts/story_01/schoolgirl.rpy:1175
+# game/scripts/story_01/schoolgirl.rpy:1176
 translate crowdin ev_089_ending_help_a5afb8e0:
 
     # Lisa 15 "Конечно, сняла! Мы же договаривались и я всё честно исполняю!"
     Lisa 15 "Конечно, сняла! Мы же договаривались и я всё честно исполняю!"
 
-# game/scripts/story_01/schoolgirl.rpy:1176
+# game/scripts/story_01/schoolgirl.rpy:1177
 translate crowdin ev_089_ending_help_a7a5d902:
 
     # Max 04 "Ну, мало ли..."
     Max 04 "Ну, мало ли..."
 
-# game/scripts/story_01/schoolgirl.rpy:1180
+# game/scripts/story_01/schoolgirl.rpy:1181
 translate crowdin ev_089_ending_help_88c77091_1:
 
     # Lisa 10 "Всё, давай шуруй из комнаты, мне нужно переодеться, чтобы лечь спать." nointeract
     Lisa 10 "Всё, давай шуруй из комнаты, мне нужно переодеться, чтобы лечь спать." nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:1195
+# game/scripts/story_01/schoolgirl.rpy:1196
 translate crowdin ev_089_ending_help_0d234e0c:
 
     # Lisa 11 "Слушай, уже поздно, я хочу спать. Отвернись, пожалуйста, я переоденусь..." nointeract
     Lisa 11 "Слушай, уже поздно, я хочу спать. Отвернись, пожалуйста, я переоденусь..." nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:1198
+# game/scripts/story_01/schoolgirl.rpy:1199
 translate crowdin ev_089_ending_help_01280de4:
 
     # Lisa 11 "Слушай, уже поздно, я хочу спать. Бери свою одежду и иди погуляй где-нибудь, пожалуйста, пока я переодеваюсь..." nointeract
     Lisa 11 "Слушай, уже поздно, я хочу спать. Бери свою одежду и иди погуляй где-нибудь, пожалуйста, пока я переодеваюсь..." nointeract
 
-# game/scripts/story_01/schoolgirl.rpy:1204
+# game/scripts/story_01/schoolgirl.rpy:1205
 translate crowdin ev_089_ft_1_76ac2c7a:
 
     # tMax 13 "Обниматься она значит не хочет со мной в нижнем белье! Ничего, это только пока... А вот что действительно так себе, так это то, сколько дней мне придётся сидеть с ней за уроками и скучать."
     tMax 13 "Обниматься она значит не хочет со мной в нижнем белье! Ничего, это только пока... А вот что действительно так себе, так это то, сколько дней мне придётся сидеть с ней за уроками и скучать."
 
-# game/scripts/story_01/schoolgirl.rpy:1205
+# game/scripts/story_01/schoolgirl.rpy:1206
 translate crowdin ev_089_ft_1_7f424b6a:
 
     # tMax 11 "С этим нужно что-то делать... Приставать к Лизе я не стану, всё таки обещал не мешать, поэтому нужно заходить с другого края. Например, можно попробовать убедить её вместо нижнего белья остаться в полотенце, но только если она снимет трусики!"
     tMax 11 "С этим нужно что-то делать... Приставать к Лизе я не стану, всё таки обещал не мешать, поэтому нужно заходить с другого края. Например, можно попробовать убедить её вместо нижнего белья остаться в полотенце, но только если она снимет трусики!"
 
-# game/scripts/story_01/schoolgirl.rpy:1206
+# game/scripts/story_01/schoolgirl.rpy:1207
 translate crowdin ev_089_ft_1_6fed81ee:
 
     # tMax 01 "Пускай, пока она делает уроки я ничего интересного для себя и не получу, но вот в самом конце можно будет этим нюансом воспользоваться с умом..."
     tMax 01 "Пускай, пока она делает уроки я ничего интересного для себя и не получу, но вот в самом конце можно будет этим нюансом воспользоваться с умом..."
 
-# game/scripts/story_01/schoolgirl.rpy:1213
+# game/scripts/story_01/schoolgirl.rpy:1214
 translate crowdin ev_089_ft_2_caa20515:
 
     # tMax 15 "Блин, я совсем забыл, что можно было прижать полотенце Лизы, когда она встаёт со стула!"
     tMax 15 "Блин, я совсем забыл, что можно было прижать полотенце Лизы, когда она встаёт со стула!"
 
-# game/scripts/story_01/schoolgirl.rpy:1214
+# game/scripts/story_01/schoolgirl.rpy:1215
 translate crowdin ev_089_ft_2_cbb50ed9:
 
     # tMax 16 "Все мысли были заняты тем, что на ней кроме полотенца больше ничего нет, а я бы мог это не представлять, а увидеть..."
     tMax 16 "Все мысли были заняты тем, что на ней кроме полотенца больше ничего нет, а я бы мог это не представлять, а увидеть..."
 
-# game/scripts/story_01/schoolgirl.rpy:1215
+# game/scripts/story_01/schoolgirl.rpy:1216
 translate crowdin ev_089_ft_2_a46bb30d:
 
     # tMax 01 "Ладно, теперь-то уже поздно. Но вот в следующий раз эту возможность упускать точно не стоит..."
@@ -2148,35 +2154,35 @@ translate crowdin strings:
     old "Не стесняйся ты так. Покажи всю..."
     new "Не стесняйся ты так. Покажи всю..."
 
-    # game/scripts/story_01/schoolgirl.rpy:904
+    # game/scripts/story_01/schoolgirl.rpy:905
     old "Я согласен! Показывай всю..."
     new "Я согласен! Показывай всю..."
 
-    # game/scripts/story_01/schoolgirl.rpy:904
+    # game/scripts/story_01/schoolgirl.rpy:905
     old "Нет, так не пойдёт! Показывай наполовину..."
     new "Нет, так не пойдёт! Показывай наполовину..."
 
-    # game/scripts/story_01/schoolgirl.rpy:989
+    # game/scripts/story_01/schoolgirl.rpy:990
     old "{i}расстегнуть лифчик Лизы{/i}"
     new "{i}расстегнуть лифчик Лизы{/i}"
 
-    # game/scripts/story_01/schoolgirl.rpy:989
+    # game/scripts/story_01/schoolgirl.rpy:990
     old "{i}обнять Лизу за голую попку{/i}"
     new "{i}обнять Лизу за голую попку{/i}"
 
-    # game/scripts/story_01/schoolgirl.rpy:995
+    # game/scripts/story_01/schoolgirl.rpy:996
     old "Ты же всё равно сейчас переодеваться будешь..."
     new "Ты же всё равно сейчас переодеваться будешь..."
 
-    # game/scripts/story_01/schoolgirl.rpy:995
+    # game/scripts/story_01/schoolgirl.rpy:996
     old "Я как раз на это и надеялся!"
     new "Я как раз на это и надеялся!"
 
-    # game/scripts/story_01/schoolgirl.rpy:1090
+    # game/scripts/story_01/schoolgirl.rpy:1091
     old "Задание «Застенчивая школьница» завершено!"
     new "Задание «Застенчивая школьница» завершено!"
 
-    # game/scripts/story_01/schoolgirl.rpy:1105
+    # game/scripts/story_01/schoolgirl.rpy:1106
     old "{i}поднять полотенце Лизы{/i}"
     new "{i}поднять полотенце Лизы{/i}"
 

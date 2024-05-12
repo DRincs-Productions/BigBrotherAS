@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-04-17 23:25
+﻿# TODO: Translation updated at 2024-05-12 15:48
 
 translate crowdin strings:
 
@@ -189,6 +189,10 @@ translate crowdin strings:
     # game/scripts/screens/tutorial.rpy:181
     old "Обязанности по дому"
     new "Обязанности по дому"
+
+    # game/scripts/screens/tutorial.rpy:319
+    old "Ур.1"
+    new "Ур.1"
 
     # game/scripts/screens/tutorial.rpy:334
     old "Сейчас Лиза должна собираться в школу..."

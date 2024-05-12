@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-14 20:38
+﻿# TODO: Translation updated at 2024-05-12 15:48
 
 translate crowdin strings:
 
@@ -111,16 +111,12 @@ translate crowdin strings:
     new "НАВЫКИ"
 
     # game/scripts/screens/inform.rpy:278
-    old "Ур.1"
-    new "Ур.1"
+    old "Ур."
+    new "Ур."
 
     # game/scripts/screens/inform.rpy:281
     old "Опыт применения навыка"
     new "Опыт применения навыка"
-
-    # game/scripts/screens/inform.rpy:287
-    old "Ур."
-    new "Ур."
 
     # game/scripts/screens/inform.rpy:481
     old "ВИДЫ ОДЕЖДЫ"
