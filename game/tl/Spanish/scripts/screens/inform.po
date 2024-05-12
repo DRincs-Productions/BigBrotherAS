@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-26 08:57\n"
+"PO-Revision-Date: 2024-05-12 13:38\n"
 
-# TODO: Translation updated at 2024-02-14 20:38 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/inform.rpy:28
+# TODO: Translation updated at 2024-05-12 15:48 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/inform.rpy:28
 msgid "Персонажи"
 msgstr "Personajes"
 
@@ -121,16 +121,12 @@ msgid "НАВЫКИ"
 msgstr "HABILIDADES"
 
 # game/scripts/screens/inform.rpy:278
-msgid "Ур.1"
-msgstr "Nivel 1"
+msgid "Ур."
+msgstr ""
 
 # game/scripts/screens/inform.rpy:281
 msgid "Опыт применения навыка"
 msgstr "Experiencia de destreza"
-
-# game/scripts/screens/inform.rpy:287
-msgid "Ур."
-msgstr ""
 
 # game/scripts/screens/inform.rpy:481
 msgid "ВИДЫ ОДЕЖДЫ"
