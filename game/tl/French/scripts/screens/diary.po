@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-18 08:08\n"
+"PO-Revision-Date: 2024-05-12 13:38\n"
 
-# TODO: Translation updated at 2024-04-17 23:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/diary.rpy:24
+# TODO: Translation updated at 2024-05-12 15:48 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/diary.rpy:24
 msgid "Задания"
 msgstr "Tâches"
 
@@ -36,31 +36,31 @@ msgstr "TOUS"
 msgid "Сейчас здесь нет заданий"
 msgstr "Il n'y a pas de tâches ici pour le moment"
 
-# game/scripts/screens/diary.rpy:183
+# game/scripts/screens/diary.rpy:185
 msgid "Завершите задание, чтобы получить награду..."
 msgstr "Terminez la tâche pour obtenir la récompense....."
 
-# game/scripts/screens/diary.rpy:185
+# game/scripts/screens/diary.rpy:187
 msgid "Нужно приблизиться к завершению задания, чтобы узнать о награде..."
 msgstr "Il faut se rapprocher de la fin de la tâche pour découvrir la récompense..."
 
-# game/scripts/screens/diary.rpy:188
+# game/scripts/screens/diary.rpy:190
 msgid "НАГРАДА:"
 msgstr "PRIX :"
 
-# game/scripts/screens/diary.rpy:331
+# game/scripts/screens/diary.rpy:337
 msgid "МОЯ СТАРШАЯ СЕСТРЁНКА"
 msgstr "MA GRANDE SŒUR"
 
-# game/scripts/screens/diary.rpy:339
+# game/scripts/screens/diary.rpy:345
 msgid "МОЯ МАМА"
 msgstr "MA MAMA"
 
-# game/scripts/screens/diary.rpy:346
+# game/scripts/screens/diary.rpy:352
 msgid "МОЯ МЛАДШАЯ СЕСТРЁНКА"
 msgstr "MA PETITE SŒUR"
 
-# game/scripts/screens/diary.rpy:361
+# game/scripts/screens/diary.rpy:367
 msgid "НАШИ ВЗАИМООТНОШЕНИЯ:"
 msgstr "NOTRE RELATION :"
 
