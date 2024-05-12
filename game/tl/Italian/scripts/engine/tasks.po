@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-05-12 14:46\n"
+"PO-Revision-Date: 2024-05-12 16:38\n"
 
 # TODO: Translation updated at 2024-05-12 15:48 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:175
 msgid "Любопытное содержимое"
@@ -183,7 +183,7 @@ msgstr "Occorre solo aspettare..."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Подарить Алисе тёмное нижнее бельё."
-msgstr ""
+msgstr "Regalare ad Alice della biancheria intima scura."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Нужно вручить Алисе подарок, когда она находится в своей комнате..."
@@ -569,47 +569,47 @@ msgstr "Sono andato da mia madre per vedere cosa stesse guardando, e proprio l'a
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Прислушиваться к маминым просьбам и исполнять их."
-msgstr ""
+msgstr "Ascoltare le richieste di mamma e adempiere a esse."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Если мама попросит что-то сделать, то лучше это сделать..."
-msgstr ""
+msgstr "Se mamma chiede di fare qualcosa, sarebbe meglio farlo..."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Добиться похвалы от мамы за исполнение домашних обязанностей."
-msgstr ""
+msgstr "Ottenere lodi da mamma per l’adempimento dei doveri domestici."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Нужно выполнить все домашние обязанности вовремя..."
-msgstr ""
+msgstr "Bisogna svolgere tutti i compiti domestici in tempo..."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Посмотреть ТВ с мамой, положив голову ей на ноги."
-msgstr ""
+msgstr "Guardare la TV con mamma, appoggiando la testa sulle sue gambe."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Это можно делать, если домашние обязанности выполняются вовремя..."
-msgstr ""
+msgstr "Questo si può fare, se i compiti domestici vengono svolti in tempo..."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Найти способ улучшить навык Скрытности до уровня 2."
-msgstr ""
+msgstr "Trovare un modo per migliorare l’abilità di Furtività al livello 2."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Нужно завершить задание «При делах»!"
-msgstr ""
+msgstr "Bisogna completare la missione «Affari»!"
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Дождаться подходящего события, чтобы улучшить навык..."
-msgstr ""
+msgstr "Aspetta l’evento adatto per migliorare la competenza..."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Сделать так, чтобы с мамы сползла одежда во время просмотра ТВ."
-msgstr ""
+msgstr "Far scivolare via i vestiti di mia madre mentre guarda la TV."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Это одно из Х заданий, необходимых для доступа к следующей главе!"
-msgstr ""
+msgstr "Questo è uno dei compiti X necessari per accedere al prossimo capitolo!"
 
 # game/scripts/engine/tasks.rpy:175
 msgid "При делах."
