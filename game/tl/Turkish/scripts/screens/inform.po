@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-02-26 08:58\n"
+"PO-Revision-Date: 2024-05-12 13:39\n"
 
-# TODO: Translation updated at 2024-02-14 20:38 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/inform.rpy:28
+# TODO: Translation updated at 2024-05-12 15:48 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/inform.rpy:28
 msgid "Персонажи"
 msgstr "Karakterler"
 
@@ -121,16 +121,12 @@ msgid "НАВЫКИ"
 msgstr "BECERİLER"
 
 # game/scripts/screens/inform.rpy:278
-msgid "Ур.1"
-msgstr "Sv.1"
+msgid "Ур."
+msgstr ""
 
 # game/scripts/screens/inform.rpy:281
 msgid "Опыт применения навыка"
 msgstr "Beceriyi uygulama deneyimi"
-
-# game/scripts/screens/inform.rpy:287
-msgid "Ур."
-msgstr ""
 
 # game/scripts/screens/inform.rpy:481
 msgid "ВИДЫ ОДЕЖДЫ"
