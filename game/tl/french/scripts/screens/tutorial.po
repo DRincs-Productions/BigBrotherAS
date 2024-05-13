@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-01-15 14:07\n"
+"PO-Revision-Date: 2024-05-12 14:46\n"
 
-# TODO: Translation updated at 2024-01-09 23:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/tutorial.rpy:14
+# TODO: Translation updated at 2024-05-12 15:48 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/tutorial.rpy:14
 msgid "Главная панель игры располагается внизу."
 msgstr "Le panneau principal du jeu se trouve en bas."
 
@@ -24,13 +24,13 @@ msgstr "Sur la gauche, il comprend des icônes pour les différents endroits où
 msgid "Справа расположены иконки действий Макса, которые применимы к выбранным участкам на локациях. \n"
 "На вилле, где живёт Макс, имеется универсальное действие «Ждать окончания часа», клавиша [[Space] на клавиатуре."
 msgstr "À droite se trouvent les icônes d'action de Max qui s'appliquent aux zones sélectionnées dans les lieux. \n"
-"Dans la villa où vit Max, il y a une action universelle \"Attendre la fin de l'heure\", touche [[Space] du clavier."
+"Dans la villa où vit Max, il y a une action universelle «Attendre la fin de l'heure«, touche [[Space] du clavier."
 
 # game/scripts/screens/tutorial.rpy:14
 msgid "У этого действия есть несколько вариаций, а именно «Ждать 10 минут» и «Ждать 30 минут», так как в течение часа персонажи могут находиться на разных стадиях своих занятий. \n"
 "Эти иконки можно увидеть, нажав на соответствующую иконку «Развернуть»."
-msgstr "Cette action a plusieurs variantes, à savoir \"Attendre 10 minutes\" et \"Attendre 30 minutes\", car les personnages peuvent se trouver à différents stades de leurs activités au cours de l'heure. \n"
-"Ces icônes sont visibles en cliquant sur l'icône \"Déplier\" correspondante."
+msgstr "Cette action a plusieurs variantes, à savoir «Attendre 10 minutes« et «Attendre 30 minutes«, car les personnages peuvent se trouver à différents stades de leurs activités au cours de l'heure. \n"
+"Ces icônes sont visibles en cliquant sur l'icône «Déplier« correspondante."
 
 # game/scripts/screens/tutorial.rpy:14
 msgid "Наличие других иконок действий может зависеть от того, где Макс находится, его возможностей и есть ли там другие персонажи."
@@ -46,7 +46,7 @@ msgstr "En principe, il contient des icônes contenant diverses informations uti
 
 # game/scripts/screens/tutorial.rpy:14
 msgid "Вы можете сохранить или загрузить свой прогресс в игре через иконку «Меню игры», либо с помощью клавиш ( [[F5] - сохранение / [[F8] - загрузка ) на клавиатуре."
-msgstr "Vous pouvez sauvegarder ou télécharger votre progression dans le jeu via l'icône \"Menu du jeu\", ou en utilisant les touches ( [[F5] - sauvegarder / [[F8] - télécharger ) de votre clavier."
+msgstr "Vous pouvez sauvegarder ou télécharger votre progression dans le jeu via l'icône «Menu du jeu«, ou en utilisant les touches ( [[F5] - sauvegarder / [[F8] - télécharger ) de votre clavier."
 
 # game/scripts/screens/tutorial.rpy:14
 msgid "Во время диалогов между персонажами и выполнения некоторых заданий, у Макса может быть выбор в действиях. \n"
@@ -74,7 +74,7 @@ msgstr "Les entrées du journal apparaissent au fur et à mesure que vous progre
 
 # game/scripts/screens/tutorial.rpy:43
 msgid "Когда вы выполните задание, которое себе поставил Макс, оно получит отметку {color=#008000}«выполнено»{/color} и следом появится новое задание."
-msgstr "Lorsque vous terminez une tâche que Max s'est fixée, elle est marquée {color=#008000}\"terminée\"{/color} et une nouvelle tâche apparaît ensuite."
+msgstr "Lorsque vous terminez une tâche que Max s'est fixée, elle est marquée {color=#008000}«terminée«{/color} et une nouvelle tâche apparaît ensuite."
 
 # game/scripts/screens/tutorial.rpy:43
 msgid "Многие задания будут иметь подсказку для их выполнения. Эту подсказку можно увидеть просто наведя курсор на само задание в дневнике."
@@ -101,6 +101,14 @@ msgid "Повысить уровни навыков Макс сможет чер
 msgstr "Max peut augmenter ses niveaux de compétences en accomplissant des événements importants de l'histoire."
 
 # game/scripts/screens/tutorial.rpy:68
+msgid "Во время этих событий Максу нужно несколько раз подряд успешно применить тот или иной навык, но требования по опыту его применения будут завышены."
+msgstr "Au cours de ces événements, Max doit appliquer avec succès une compétence plusieurs fois de suite, mais les exigences d'expérience pour son application seront gonflées."
+
+# game/scripts/screens/tutorial.rpy:68
+msgid "Если ему не удалось повысить уровень навыка в этом событии, то он сможет сделать это снова в повторяющейся версии этого события. Оно будет отмечено подсказкой на иконках главной панели игры."
+msgstr "S'il n'a pas réussi à augmenter son niveau de compétence lors de cet événement, il pourra le faire à nouveau dans une version répétée de cet événement. Celle-ci sera signalée par un indice sur les icônes du panneau principal du jeu."
+
+# game/scripts/screens/tutorial.rpy:68
 msgid "Переход на новый уровень может разблокировать варианты действий Макса, которые ранее имели ограничения, а так же открыть новые возможности и повысить шансы на успешное применение навыка."
 msgstr "Le passage à un nouveau niveau peut débloquer les options de Max qui étaient auparavant limitées, ainsi que de nouvelles opportunités et augmenter les chances d'appliquer la compétence avec succès."
 
@@ -121,8 +129,12 @@ msgid "На этот шанс, как правило, влияет уровен�
 msgstr "Cette chance est généralement influencée par le niveau de la compétence, l'expérience acquise lors de son application et, dans certains cas, par l'humeur du personnage ciblé par la compétence."
 
 # game/scripts/screens/tutorial.rpy:68
+msgid "Если Макс никак не будет задействовать свои навыки в течение нескольких дней, то опыт применения этих навыков будет снижаться."
+msgstr "Si Max n'utilise pas ses compétences d'une manière ou d'une autre pendant quelques jours, l'expérience de l'utilisation de ces compétences diminuera."
+
+# game/scripts/screens/tutorial.rpy:68
 msgid "Макс так же может оказаться в ситуациях, которые потребуют от него выбрать между «безопасным» и «рискованным» вариантом ответов."
-msgstr "Max peut également se retrouver dans des situations qui l'obligent à choisir entre des réponses \"sûres\" et des réponses \"risquées\"."
+msgstr "Max peut également se retrouver dans des situations qui l'obligent à choisir entre des réponses «sûres« et des réponses «risquées«."
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "Если навести на эти варианты курсор, вы увидите различие по цвету, а так же в шансах на успех."
@@ -130,135 +142,139 @@ msgstr "Si vous passez votre curseur sur ces options, vous verrez une différenc
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "При выборе «безопасного» варианта ответа, Макс ничего не теряет при провале, а при успехе немного повышает опыт применения навыка и настроение персонажа, с которым контактирует."
-msgstr "En choisissant l'option de réponse \"sûre\", Max ne perd rien s'il échoue, et s'il réussit, il augmente légèrement l'expérience de la compétence et l'humeur du personnage avec lequel il entre en contact."
+msgstr "En choisissant l'option de réponse «sûre«, Max ne perd rien s'il échoue, et s'il réussit, il augmente légèrement l'expérience de la compétence et l'humeur du personnage avec lequel il entre en contact."
 
 # game/scripts/screens/tutorial.rpy:68
 msgid "При выборе «рискованного» варианта ответа, Макс теряет немного опыта применения навыка и слегка ухудшает настроение персонажа, с которым контактирует. \n"
 "А при успехе повышает это больше, чем в «безопасном» варианте."
-msgstr "Si vous choisissez la réponse \"risquée\", Max perd de l'expérience de compétence et détériore légèrement l'humeur du personnage avec lequel il entre en contact. \n"
-"Et si vous réussissez, cela augmente encore plus que dans le cas de l'option \"sûre\"."
+msgstr "Si vous choisissez la réponse «risquée«, Max perd de l'expérience de compétence et détériore légèrement l'humeur du personnage avec lequel il entre en contact. \n"
+"Et si vous réussissez, cela augmente encore plus que dans le cas de l'option «sûre«."
 
-# game/scripts/screens/tutorial.rpy:99
+# game/scripts/screens/tutorial.rpy:109
 msgid "Показатель настроения можно увидеть в окне информации о персонажах, иконка которого находится на вспомогательной панели игры."
 msgstr "L'indicateur d'humeur est visible dans la fenêtre d'information du personnage, dont l'icône se trouve sur le panneau auxiliaire du jeu."
 
-# game/scripts/screens/tutorial.rpy:99
+# game/scripts/screens/tutorial.rpy:109
 msgid "При наведении курсора на показатель настроения того или иного персонажа, игрок получит подсказку о текущем положении настроения, а так же о том, сколько процентов остаётся до смены настроения."
 msgstr "En passant le curseur sur l'indicateur d'humeur d'un personnage, le joueur reçoit un indice sur l'humeur actuelle et le nombre de pourcentages restants avant que l'humeur ne change."
 
-# game/scripts/screens/tutorial.rpy:99
+# game/scripts/screens/tutorial.rpy:109
 msgid "Повышать настроение персонажей можно различными действиями, вроде помощи с мытьём посуды, накрытием на стол, совместным просмотром ТВ и т.д."
 msgstr "L'humeur des personnages peut être stimulée par diverses activités, comme aider à faire la vaisselle, mettre la table, regarder la télévision ensemble, etc."
 
-# game/scripts/screens/tutorial.rpy:99
+# game/scripts/screens/tutorial.rpy:109
 msgid "Настроение персонажей, с которыми контактирует Макс, может слегка влиять на исход некоторых событий."
 msgstr "L'humeur des personnages avec lesquels Max entre en contact peut légèrement influencer l'issue de certains événements."
 
-# game/scripts/screens/tutorial.rpy:114
+# game/scripts/screens/tutorial.rpy:124
 msgid "По понедельникам, после завтрака, Анна будет выдавать Максу карманные деньги на неделю, как и надбавку за выполнение различных дел по дому."
-msgstr ""
+msgstr "Le lundi, après le petit-déjeuner, Anna donne à Max de l'argent de poche pour la semaine, ainsi qu'une allocation pour diverses tâches ménagères."
 
-# game/scripts/screens/tutorial.rpy:114
+# game/scripts/screens/tutorial.rpy:124
 msgid "Максу лучше выполнить эти дела до выходных, чтобы не расстраивать Анну и не потерять в надбавке к карманным."
-msgstr ""
+msgstr "Max ferait mieux d'accomplir ces tâches avant le week-end pour ne pas contrarier Anna et perdre l'argent de poche."
 
-# game/scripts/screens/tutorial.rpy:114
+# game/scripts/screens/tutorial.rpy:124
 msgid "Ему нужно выполнить следующее: пропылесосить пол в доме, подрезать траву на газоне, почистить воду в бассейне и сходить за продуктами в магазин."
-msgstr ""
+msgstr "Il doit faire ce qui suit : passer l'aspirateur sur le sol de la maison, couper l'herbe de la pelouse, nettoyer l'eau de la piscine et faire les courses."
 
-# game/scripts/screens/tutorial.rpy:114
+# game/scripts/screens/tutorial.rpy:124
 msgid "Соответствующие иконки действий появятся в комнате Макса (пылесосить дом) и во дворе (подстричь газон, чистить бассейн, покинуть виллу) между завтраком и ужином, с понедельника по пятницу."
-msgstr ""
+msgstr "Les icônes d'action correspondantes apparaîtront dans la chambre de Max (passer l'aspirateur) et dans la cour (tondre la pelouse, nettoyer la piscine, quitter la villa) entre le petit-déjeuner et le dîner, du lundi au vendredi."
 
-# game/scripts/screens/tutorial.rpy:114
+# game/scripts/screens/tutorial.rpy:124
 msgid "Каждое из этих дел отнимет у Макса около часа времени и скажется на показателе его чистоты."
-msgstr ""
+msgstr "Chacun de ces cas prendrait environ une heure du temps de Max et affecterait son score de propreté."
 
-# game/scripts/screens/tutorial.rpy:114
+# game/scripts/screens/tutorial.rpy:124
 msgid "Так же не забывайте, что после каждого выполненного дела Максу нужно отдохнуть несколько часов, прежде чем он сможет приступить к выполнению других дел по дому."
-msgstr ""
+msgstr "N'oubliez pas non plus qu'après chaque tâche accomplie, Max a besoin de se reposer pendant quelques heures avant de pouvoir s'atteler à d'autres tâches dans la maison."
 
-# game/scripts/screens/tutorial.rpy:114
+# game/scripts/screens/tutorial.rpy:124
 msgid "По пятницам Макс будет отчитываться Анне о своих успехах и если он что-то не успел сделать, то будет делать это принудительно в субботу."
-msgstr ""
+msgstr "Le vendredi, Max rend compte à Anna de ses progrès et s'il n'a pas fait quelque chose à temps, il le fera de force le samedi."
 
-# game/scripts/screens/tutorial.rpy:159
+# game/scripts/screens/tutorial.rpy:172
 msgid "Управление"
 msgstr "Essayer"
 
-# game/scripts/screens/tutorial.rpy:163
+# game/scripts/screens/tutorial.rpy:176
 msgid "Навыки"
 msgstr "Compétences"
 
-# game/scripts/screens/tutorial.rpy:165
+# game/scripts/screens/tutorial.rpy:178
 msgid "Настроение"
 msgstr "Humeur"
 
-# game/scripts/screens/tutorial.rpy:168
+# game/scripts/screens/tutorial.rpy:181
 msgid "Обязанности по дому"
+msgstr "Tâches ménagères"
+
+# game/scripts/screens/tutorial.rpy:319
+msgid "Ур.1"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:321
+# game/scripts/screens/tutorial.rpy:334
 msgid "Сейчас Лиза должна собираться в школу..."
 msgstr "Maintenant, Lisa doit se préparer pour l'école..."
 
-# game/scripts/screens/tutorial.rpy:324
+# game/scripts/screens/tutorial.rpy:337
 msgid "{i}заглянуть в окно{/i}"
 msgstr "{i}regarder par la fenêtre{/i}"
 
-# game/scripts/screens/tutorial.rpy:324
+# game/scripts/screens/tutorial.rpy:337
 msgid "Шанс"
 msgstr "Le hasard"
 
-# game/scripts/screens/tutorial.rpy:329
+# game/scripts/screens/tutorial.rpy:342
 msgid "опыт применения навыка"
 msgstr "l'expérience de l'utilisation de la compétence"
 
-# game/scripts/screens/tutorial.rpy:335
+# game/scripts/screens/tutorial.rpy:348
 msgid "Ой, Макс! Я не одета!!! Не мешай мне собираться в школу!"
 msgstr "Oh, Max ! Je ne suis pas habillée ! !! Ne m'empêche pas de me préparer pour l'école !"
 
-# game/scripts/screens/tutorial.rpy:339
+# game/scripts/screens/tutorial.rpy:352
 msgid "Не стесняйся, без одежды ты очень красиво смотришься!"
 msgstr "Ne soyez pas timide, vous êtes très jolie sans vos vêtements !"
 
-# game/scripts/screens/tutorial.rpy:343
+# game/scripts/screens/tutorial.rpy:356
 msgid "Я наоборот, помочь хотел..."
 msgstr "Au contraire, je voulais aider..."
 
-# game/scripts/screens/tutorial.rpy:351
+# game/scripts/screens/tutorial.rpy:364
 msgid "настроение Лизы"
 msgstr "L'humeur de Lisa"
 
-# game/scripts/screens/tutorial.rpy:417
+# game/scripts/screens/tutorial.rpy:430
 msgid "Неужели тебе надоело бездельничать и ты пришёл мне помочь?"
 msgstr "Tu en as eu assez de ne rien faire et tu es venu m'aider ?"
 
-# game/scripts/screens/tutorial.rpy:420
+# game/scripts/screens/tutorial.rpy:433
 msgid "Ага. Давай, я домою остальное..."
 msgstr "Oui. Laissez-moi faire le reste..."
 
-# game/scripts/screens/tutorial.rpy:421
+# game/scripts/screens/tutorial.rpy:434
 msgid "Нет, просто хотел поглазеть..."
 msgstr "Non, je voulais juste regarder..."
 
-# game/scripts/screens/tutorial.rpy:425
+# game/scripts/screens/tutorial.rpy:438
 msgid "Макс! Ты офигел что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла!"
 msgstr "Max ! Tu as perdu la tête ? As-tu perdu ta peur ? Sors d'ici avant que je ne te frappe avec la porte !"
 
-# game/scripts/screens/tutorial.rpy:428
+# game/scripts/screens/tutorial.rpy:441
 msgid "Ты бы классно смотрелась на обложке журнала!"
 msgstr "Vous seriez parfaite sur la couverture d'un magazine !"
 
-# game/scripts/screens/tutorial.rpy:432
+# game/scripts/screens/tutorial.rpy:445
 msgid "настроение Алисы"
 msgstr "L'humeur d'Alice"
 
-# game/scripts/screens/tutorial.rpy:568
+# game/scripts/screens/tutorial.rpy:581
 msgid "Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
 msgstr "Vous trouverez ici des informations sur le déroulement du jeu..."
 
-# game/scripts/screens/tutorial.rpy:570
+# game/scripts/screens/tutorial.rpy:583
 msgid "Теперь вы управляете жизнью Макса! Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
 msgstr "Tu es maintenant aux commandes de la vie de Max ! Vous trouverez ici des informations sur le fonctionnement de ce jeu..."
 

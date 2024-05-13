@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2023-10-15 15:48\n"
+"PO-Revision-Date: 2024-04-18 08:12\n"
 
-# TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/kitchen.rpy:15 #-#-# translate crowdin ev_alice_clean_e2fdb3e5:
+# TODO: Translation updated at 2024-04-17 23:25 #|#|# # game/scripts/story_01/kitchen.rpy:15 #-#-# translate crowdin ev_alice_clean_e2fdb3e5:
 msgid "[_Alice_s_01_] Неужели тебе надоело бездельничать и ты пришёл мне помочь? [nointeract]"
 msgstr ""
 
@@ -56,63 +56,63 @@ msgstr ""
 msgid "[_Alice_s_02_] На это я, на самом деле, и надеялась. Пара лишних рук мне точно не помешает... Пока я здесь со всем закончу и наведу порядок, ты можешь отнести тарелки с едой на веранду. [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:104 #-#-# translate crowdin ev_alice_cooking_5e4de809:
+# game/scripts/story_01/kitchen.rpy:105 #-#-# translate crowdin ev_alice_cooking_5e4de809:
 msgid "[_tMax_s_11_] Блин! Теперь я хочу съесть не только своё, но и макароны Лизы. Уж слишком аппетитно они выглядят и пахнут... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:106 #-#-# translate crowdin ev_alice_cooking_864b1b34:
+# game/scripts/story_01/kitchen.rpy:107 #-#-# translate crowdin ev_alice_cooking_864b1b34:
 msgid "[_tMax_s_11_] Ну вот! Алиса себе самые большие котлеты положила... Надо будет хотя бы одной, да поменяться. [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:108 #-#-# translate crowdin ev_alice_cooking_4becd663:
+# game/scripts/story_01/kitchen.rpy:109 #-#-# translate crowdin ev_alice_cooking_4becd663:
 msgid "[_tMax_s_11_] А вот это не хорошо! У мамы в тарелке слишком много углеводов. Нужно приглядывать за её фигурой, поэтому отложу немного себе... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:115 #-#-# translate crowdin ev_alice_cooking_7d3850f3:
+# game/scripts/story_01/kitchen.rpy:116 #-#-# translate crowdin ev_alice_cooking_7d3850f3:
 msgid "[_Alice_s_11_] Вот ты козлина, Макс! Отвали тогда и не мешай... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:128 #-#-# translate crowdin ev_ann_cooking_b9602300:
+# game/scripts/story_01/kitchen.rpy:129 #-#-# translate crowdin ev_ann_cooking_b9602300:
 msgid "[_Ann_s_02_] Правда поможешь?! О, это замечательно, сейчас помощник мне будет очень кстати. [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:130 #-#-# translate crowdin ev_ann_cooking_8bd0ffb2:
+# game/scripts/story_01/kitchen.rpy:131 #-#-# translate crowdin ev_ann_cooking_8bd0ffb2:
 msgid "[_Ann_s_02_] Отлично! Я буду только рада, если поможешь. [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:142 #-#-# translate crowdin ev_ann_cooking_c75d83f0:
+# game/scripts/story_01/kitchen.rpy:144 #-#-# translate crowdin ev_ann_cooking_c75d83f0:
 msgid "[_Ann_s_03_] С готовкой я почти закончила, осталось только немного прибраться, но некоторые тарелки с едой ты уже можешь нести на веранду."
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:143 #-#-# translate crowdin ev_ann_cooking_69f0d5e1:
+# game/scripts/story_01/kitchen.rpy:145 #-#-# translate crowdin ev_ann_cooking_69f0d5e1:
 msgid "[_Max_s_01_] Конечно, мам. Я сейчас всё унесу..."
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:149 #-#-# translate crowdin ev_ann_cooking_5e4de809:
+# game/scripts/story_01/kitchen.rpy:151 #-#-# translate crowdin ev_ann_cooking_5e4de809:
 msgid "[_tMax_s_11_] Блин! Теперь я хочу съесть не только своё, но и макароны Лизы. Уж слишком аппетитно они выглядят и пахнут... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:151 #-#-# translate crowdin ev_ann_cooking_864b1b34:
+# game/scripts/story_01/kitchen.rpy:153 #-#-# translate crowdin ev_ann_cooking_864b1b34:
 msgid "[_tMax_s_11_] Ну вот! Алиса себе самые большие котлеты положила... Надо будет хотя бы одной, да поменяться. [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:153 #-#-# translate crowdin ev_ann_cooking_4becd663:
+# game/scripts/story_01/kitchen.rpy:155 #-#-# translate crowdin ev_ann_cooking_4becd663:
 msgid "[_tMax_s_11_] А вот это не хорошо! У мамы в тарелке слишком много углеводов. Нужно приглядывать за её фигурой, поэтому отложу немного себе... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:162 #-#-# translate crowdin ev_ann_cooking_ab32928e:
+# game/scripts/story_01/kitchen.rpy:164 #-#-# translate crowdin ev_ann_cooking_ab32928e:
 msgid "[_tMax_s_11_] Вот бы ещё вспомнить, кому что ставить?! Что-то из этого должно достаться Лизе, но это не точно... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:164 #-#-# translate crowdin ev_ann_cooking_a515b062:
+# game/scripts/story_01/kitchen.rpy:166 #-#-# translate crowdin ev_ann_cooking_a515b062:
 msgid "[_tMax_s_11_] Как Алиса столько ест и не толстеет?! Может, потому что часть я перекладываю к себе в тарелку... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:166 #-#-# translate crowdin ev_ann_cooking_401cc600:
+# game/scripts/story_01/kitchen.rpy:168 #-#-# translate crowdin ev_ann_cooking_401cc600:
 msgid "[_tMax_s_11_] Можно ли вообще удержаться и не съесть всё это не дожидаясь остальных?! Вкуснее мамы никто не готовит... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:173 #-#-# translate crowdin ev_ann_cooking_97e8fc22:
+# game/scripts/story_01/kitchen.rpy:175 #-#-# translate crowdin ev_ann_cooking_97e8fc22:
 msgid "[_Ann_s_12_] Ну вот, а я уже понадеялась! Тогда не мешай... [nointeract]"
 msgstr ""
 
@@ -132,19 +132,19 @@ msgstr ""
 msgid "Нет, лучше давай сама..."
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:109
+# game/scripts/story_01/kitchen.rpy:110
 msgid "{i}приступить к ужину{/i}"
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:132
+# game/scripts/story_01/kitchen.rpy:133
 msgid "{i}подойти и помочь{/i}"
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:132
+# game/scripts/story_01/kitchen.rpy:133
 msgid "Хотя, нет, сейчас не могу..."
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:167
+# game/scripts/story_01/kitchen.rpy:169
 msgid "{i}приступить к завтраку{/i}"
 msgstr ""
 

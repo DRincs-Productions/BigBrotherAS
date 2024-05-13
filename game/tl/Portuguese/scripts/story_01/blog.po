@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2023-10-15 15:47\n"
+"PO-Revision-Date: 2024-05-12 13:39\n"
 
-# TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/blog.rpy:11 #-#-# translate crowdin ev_017_423a776a:
+# TODO: Translation updated at 2024-05-12 15:48 #|#|# # game/scripts/story_01/blog.rpy:11 #-#-# translate crowdin ev_017_423a776a:
 msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
 msgstr ""
 
@@ -116,6 +116,956 @@ msgstr ""
 msgid "[_Max_s_11_] Ещё посмотрим..."
 msgstr ""
 
+# game/scripts/story_01/blog.rpy:84 #-#-# translate crowdin ev_096_bf61d029:
+msgid "[_Alice_s_04_] Ничего себе! Ты даже такое умеешь делать? Не ожидала..."
+msgstr "[Uau! Sabes mesmo como fazer isso? Não estava à espera..."
+
+# game/scripts/story_01/blog.rpy:85 #-#-# translate crowdin ev_096_674ac872:
+msgid "[_Max_s_16_] Понял, разбирайся сама..."
+msgstr "[_Max_s_16_] Entendi, lide com isso..."
+
+# game/scripts/story_01/blog.rpy:86 #-#-# translate crowdin ev_096_3f6893b9:
+msgid "[_Alice_s_01_] Ладно, ладно... Не буду издеваться. Я тебя внимательно слушаю..."
+msgstr "[Está bem, está bem, está bem. Não vou gozar contigo. Estou a ouvi-la com muita atenção..."
+
+# game/scripts/story_01/blog.rpy:87 #-#-# translate crowdin ev_096_bc01ebf5:
+msgid "[_Max_s_13_] Ты не думала, пока у тебя нет всех этих бьюти-тюбиков, сделать акцент на форме, а не на содержании?"
+msgstr "[Já pensaste, até teres todos aqueles tubos de beleza, em dar mais importância à forma do que à substância?"
+
+# game/scripts/story_01/blog.rpy:88 #-#-# translate crowdin ev_096_a0b13eea:
+msgid "[_Alice_s_11_] Ты хочешь сказать, что не важно о чём мой блог, важно как я его веду? Я об этом думала... И если ты помнишь, проблема всё ещё в одежде. Я не могу в одном и том же появляться постоянно, если это бьюти-блог..."
+msgstr "[Está a dizer que não importa o tema do meu blogue, mas sim a forma como o faço? Estive a pensar nisso... E, se bem te lembras, o problema continua a ser a roupa. Não posso aparecer sempre com a mesma coisa se for um blogue de beleza...."
+
+# game/scripts/story_01/blog.rpy:89 #-#-# translate crowdin ev_096_7edcfb0e:
+msgid "[_Max_s_11_] А если это будет не бьюти-блог?"
+msgstr "[_Max_s_11_] E se não for um blogue de beleza?"
+
+# game/scripts/story_01/blog.rpy:90 #-#-# translate crowdin ev_096_cfd30f9c:
+msgid "[_Alice_s_12_] А что тогда? Я больше ничего не умею... Это значит, что придётся на что-то сперва учиться. Или ты что-то придумал для меня?"
+msgstr "[E depois? Não sei fazer mais nada... Isso significa que tenho de aprender alguma coisa primeiro. Ou tens alguma coisa em mente para mim?"
+
+# game/scripts/story_01/blog.rpy:91 #-#-# translate crowdin ev_096_60899165:
+msgid "[_Max_s_01_] Как у тебя обстоят дела со скромностью?"
+msgstr "[Como é que se está a sair em termos de modéstia?"
+
+# game/scripts/story_01/blog.rpy:92 #-#-# translate crowdin ev_096_13665e7a:
+msgid "[_Alice_s_15_] Кажется, я знаю о чём ты, Макс. Наверняка, насмотрелся каких-нибудь девочек, которые крутят задницами перед камерами за деньги?"
+msgstr "[Acho que sei do que está a falar, Max. Aposto que já viu algumas dessas raparigas que rodam o rabo em frente às câmaras por dinheiro, não viu?"
+
+# game/scripts/story_01/blog.rpy:93 #-#-# translate crowdin ev_096_cf6210d5:
+msgid "[_Max_s_04_] Зачем мне эти девочки, когда можно без особых проблем поймать тебя в ванной комнате за кое-чем?"
+msgstr "[Para que é que eu preciso destas raparigas quando posso apanhá-lo na casa de banho a fazer alguma coisa sem grande problema?"
+
+# game/scripts/story_01/blog.rpy:94 #-#-# translate crowdin ev_096_4797f5db:
+msgid "[_Alice_s_11_] Все мы люди, что тут такого? И вообще, нефиг по ночам шариться по дому в поисках приключений!"
+msgstr "[Somos todos humanos, qual é o problema? Na verdade, não devias andar a esgueirar-te pela casa à noite à procura de aventura!"
+
+# game/scripts/story_01/blog.rpy:95 #-#-# translate crowdin ev_096_8f3c5b02:
+msgid "[_Max_s_03_] Как бы там ни было, но если говорить не как ехидный брат, а как зритель, то смотришься ты за этим делом в ванне очень даже классно..."
+msgstr "[_Max_s_03_] De qualquer forma, mas falando não como um irmão acerbo, mas como um espetador, ficas muito fixe na banheira nesta coisa...."
+
+# game/scripts/story_01/blog.rpy:96 #-#-# translate crowdin ev_096_6125d9e5:
+msgid "[_Alice_s_16_] Ага, и ты подумал, а не предложить ли своей сестре делать это на камеру для всего мира, да?"
+msgstr "[_Alice_s_16_] Sim, e pensou se deveria sugerir à sua irmã que o fizesse para ser filmado para o mundo inteiro ver, certo?"
+
+# game/scripts/story_01/blog.rpy:97 #-#-# translate crowdin ev_096_177a53b8:
+msgid "[_Max_s_11_] Вроде того..."
+msgstr "[_Max_s_11_] Mais ou menos..."
+
+# game/scripts/story_01/blog.rpy:98 #-#-# translate crowdin ev_096_c6f9bf7f:
+msgid "[_Alice_s_12_] Ну вот и кто ты, как не извращенец, Макс? Я знаю, что на этом можно много заработать, но меня же рано или поздно увидит кто-то из моих знакомых... Нет, я на это не пойду."
+msgstr "[Bem, o que é que tu és senão um pervertido, Max? Sei que há muito dinheiro a ganhar com isto, mas vou ser vista por alguém que conheço, mais cedo ou mais tarde.... Não, não o vou fazer."
+
+# game/scripts/story_01/blog.rpy:99 #-#-# translate crowdin ev_096_e51c8911:
+msgid "[_Max_s_13_] Понятное дело, но это, если ты не в курсе, решаемо. Ты ведь не первая, кто об этом заволновалась."
+msgstr "[Compreensível, mas caso não saibas, tem solução. Não é a primeira pessoa a preocupar-se com isso."
+
+# game/scripts/story_01/blog.rpy:108 #-#-# translate crowdin ev_096_75b5fc46:
+msgid "[_Alice_s_11_] Да?! Это как?"
+msgstr "[Sim?! Como é que é isso?"
+
+# game/scripts/story_01/blog.rpy:109 #-#-# translate crowdin ev_096_352a4c24:
+msgid "[_Max_s_11_] Всё просто... Можно же выставить ограничения по трансляции. Например, запретить её на территории нашего региона или даже страны."
+msgstr "[_Max_s_11_] É simples... Pode estabelecer restrições à emissão. Por exemplo, proibi-la no território da nossa região ou mesmo do nosso país."
+
+# game/scripts/story_01/blog.rpy:110 #-#-# translate crowdin ev_096_3fd3b657:
+msgid "[_Alice_s_02_] Хм... Я о таком и не подумала... Ты откуда это знаешь?"
+msgstr "[_Alice_s_02_] Hmm... Não tinha pensado nisso... Como é que sabes isso?"
+
+# game/scripts/story_01/blog.rpy:111 #-#-# translate crowdin ev_096_02835d70:
+msgid "[_Max_s_12_] Вообще-то, не знаю. Просто думаю, что такая возможность есть."
+msgstr "[Na verdade, não sei. Só acho que a possibilidade existe."
+
+# game/scripts/story_01/blog.rpy:113 #-#-# translate crowdin ev_096_f6beb3f2:
+msgid "[_Alice_s_15_] Даже если и так, то я всё равно не готова заниматься таким на камеру и уж тем более транслировать это. [nointeract]"
+msgstr "[_Alice_s_15_] Mesmo que o fizesse, não estou disposto a fazê-lo perante as câmaras, muito menos a transmiti-lo. [nointeract]"
+
+# game/scripts/story_01/blog.rpy:128 #-#-# translate crowdin ev_096_next_trying_12068298:
+msgid "[_Alice_s_00_] Насчёт той изобретательной порнографии с моим участием? Не особо хочется, знаешь ли... [nointeract]"
+msgstr "[Sobre aquela pornografia imaginativa que fiz? Não me apetece muito, sabe... [nointeract]"
+
+# game/scripts/story_01/blog.rpy:143 #-#-# translate crowdin ev_096_failed_e3fc25a8:
+msgid "[_Alice_s_11_] Пока я не хочу даже обсуждать это, Макс! Может быть, я ещё подумаю о чём-то таком, но ничего не обещаю..."
+msgstr "[Ainda nem sequer quero falar sobre isso, Max! Talvez volte a pensar numa coisa dessas, mas não prometo nada..."
+
+# game/scripts/story_01/blog.rpy:144 #-#-# translate crowdin ev_096_failed_81a5629d:
+msgid "[_Max_s_00_] Думай, я не буду тебя торопить..."
+msgstr "[_Max_s_00_] Pensa, não te vou apressar...."
+
+# game/scripts/story_01/blog.rpy:156 #-#-# translate crowdin ev_096_failed_ead73c8c:
+msgid "[_tMax_s_13_] Пожалуй, нужно будет снова заговорить об этом с Алисой через несколько дней. А пока, пусть думает..."
+msgstr "[Talvez eu deva voltar a falar com a Alice sobre isso daqui a uns dias. Entretanto, deixe-a pensar..."
+
+# game/scripts/story_01/blog.rpy:159 #-#-# translate crowdin ev_096_failed_a8f99dac:
+msgid "[_tMax_s_13_] Пожалуй, курсы общения мне всё же придётся пройти, если я действительно хочу уговорить Алису заняться развратными вэб-трансляциями..."
+msgstr "[_tMax_s_13_] Afinal, acho que vou ter de tirar um curso de comunicação, se quero mesmo que a Alice faça um webcasting lascivo...."
+
+# game/scripts/story_01/blog.rpy:174 #-#-# translate crowdin ev_096_success_d2df5976:
+msgid "[_Alice_s_11_] Например? Стриптиз показывать или что-то вроде этого?"
+msgstr "[Como o quê? Fazer um espetáculo de striptease ou algo do género?"
+
+# game/scripts/story_01/blog.rpy:175 #-#-# translate crowdin ev_096_success_90d0095a:
+msgid "[_Max_s_02_] Ой, знаешь, да было бы желание, а придумать что-то всегда можно! Например, можно бы было собирать деньги на красивое нижнее бельё, а потом покупать его и красоваться в нём..."
+msgstr "[_Max_s_02_] Oh, sabes, se quisesses, podias sempre pensar em alguma coisa! Por exemplo, seria possível juntar dinheiro para comprar roupa interior bonita e depois comprá-la e exibir-se com ela..."
+
+# game/scripts/story_01/blog.rpy:176 #-#-# translate crowdin ev_096_success_c01c7069:
+msgid "[_Alice_s_04_] Хм... Возможно, в этом что-то есть..."
+msgstr "[_Alice_s_04_] Hmm... Pode haver alguma coisa nisso..."
+
+# game/scripts/story_01/blog.rpy:177 #-#-# translate crowdin ev_096_success_ca39c6bd:
+msgid "[_Max_s_04_] Ещё бы! Девушка ты очень даже привлекательная, а если начнёшь позировать в каком-нибудь обалденном нижнем белье, да ещё и с чулочками, так от желающих на это посмотреть отбоя не будет."
+msgstr "[És uma rapariga muito atraente e, se começares a posar com lingerie e meias bonitas, não faltará quem queira ver."
+
+# game/scripts/story_01/blog.rpy:178 #-#-# translate crowdin ev_096_success_55b0dc86:
+msgid "[_Alice_s_15_] Ну, что я скажу... Можно было бы и попробовать. Однако, главная проблема остаётся в силе, у меня нет никакой одежды, в которой можно было бы покрасоваться перед зрителями, чтобы собрать деньги на нижнее бельё..."
+msgstr "[Bem, o que é que eu posso dizer? Podias tentar. No entanto, o principal problema é que não tenho roupa para mostrar ao público e angariar dinheiro para roupa interior..."
+
+# game/scripts/story_01/blog.rpy:179 #-#-# translate crowdin ev_096_success_d03c53d2:
+msgid "[_Max_s_11_] Давай тогда сходим в магазин и посмотрим, вдруг найдём для тебя что-то подходящее и не сильно дорогое?"
+msgstr "[Vamos à loja ver se conseguimos encontrar algo adequado e não muito caro para ti, sim?"
+
+# game/scripts/story_01/blog.rpy:180 #-#-# translate crowdin ev_096_success_8eeb02db:
+msgid "[_Alice_s_12_] Макс, мне даже на такое не хватит денег!"
+msgstr "[Max, eu nem sequer tenho dinheiro suficiente para isso!"
+
+# game/scripts/story_01/blog.rpy:181 #-#-# translate crowdin ev_096_success_29ff0d8c:
+msgid "[_Max_s_13_] Ну, может моих деньжат хватит... И вообще, зачем раньше времени руки опускать? Для начала нужно сходить и что-то присмотреть, а уже потом делать выводы."
+msgstr "[_Max_s_13_] Bem, talvez o meu dinheiro seja suficiente... E, de um modo geral, porquê desistir antes do tempo? Primeiro é preciso ir à procura de algo e depois tirar conclusões."
+
+# game/scripts/story_01/blog.rpy:182 #-#-# translate crowdin ev_096_success_b845460f:
+msgid "[_Alice_s_04_] Знаю я, почему ты меня так настойчиво туда зазываешь. Хочешь, чтобы я перед тобой всякое развратное нижнее бельё примерила, извращуга!"
+msgstr "[Eu sei porque é que queres tanto que eu vá lá. Queres que eu experimente todo o tipo de lingerie ordinária à tua frente, seu pervertido!"
+
+# game/scripts/story_01/blog.rpy:183 #-#-# translate crowdin ev_096_success_1bbfce78:
+msgid "[_Max_s_03_] По-моему, это ты какая-то озабоченная... Что не предложи тебе, на всё какая-то похотливая реакция! Я же хотел присмотреть для тебя что-то, что подчеркнёт твою фигуру, но без разврата, который ты предложила."
+msgstr "[_Max_s_03_] Acho que tu é que estás excitado... O que quer que ofereça, obtém uma reação luxuriosa! Queria encontrar-te algo que acentuasse a tua figura, mas sem a devassidão que sugeriste."
+
+# game/scripts/story_01/blog.rpy:184 #-#-# translate crowdin ev_096_success_bcb1f381:
+msgid "[_Alice_s_02_] Эй, я ничего такого не предлагала! А вот то, что предлагаешь ты меня вполне устраивает, так что давай попробуем, но ты же понимаешь, что эти вложения могут оказаться бесполезными..."
+msgstr "[Eu não sugeri nada disso! Mas o que estás a sugerir está bem para mim, por isso vamos tentar, mas tens noção de que este investimento pode ser inútil..."
+
+# game/scripts/story_01/blog.rpy:185 #-#-# translate crowdin ev_096_success_1f4e53c1:
+msgid "[_Max_s_12_] Не думаю. В худшем случае, мы ничего не купим. А если купим, то как минимум твой гардероб пополнится ещё одной вещью."
+msgstr "[Acho que não. Na pior das hipóteses, não compramos nada. E se comprarmos, pelo menos terás mais uma coisa para acrescentar ao teu guarda-roupa."
+
+# game/scripts/story_01/blog.rpy:188 #-#-# translate crowdin ev_096_success_af658ba1:
+msgid "[_Alice_s_01_] Это точно! Для меня ничего катастрофичного не случится. Но, Макс, чтобы избежать лишних вопросов, в магазин лучше пойти уже сегодня, пока никого не будет дома. Согласен?"
+msgstr "[É isso mesmo! Não me vai acontecer nada de catastrófico. Mas, Max, para evitar perguntas desnecessárias, é melhor ir à loja hoje, enquanto não estiver ninguém em casa. De acordo?"
+
+# game/scripts/story_01/blog.rpy:190 #-#-# translate crowdin ev_096_success_85d05205:
+msgid "[_Alice_s_01_] Это точно! Для меня ничего катастрофичного не случится. Но, Макс, чтобы избежать лишних вопросов, в магазин лучше пойти уже завтра, пока никого не будет дома. Согласен?"
+msgstr "[É isso mesmo! Não me vai acontecer nada de catastrófico. Mas, Max, para evitar perguntas desnecessárias, é melhor ir à loja amanhã, enquanto não estiver ninguém em casa. De acordo?"
+
+# game/scripts/story_01/blog.rpy:192 #-#-# translate crowdin ev_096_success_0dba8f52:
+msgid "[_Alice_s_01_] Это точно! Для меня ничего катастрофичного не случится. Но, Макс, чтобы избежать лишних вопросов, в магазин нужно будет пойти только в понедельник, пока никого не будет дома. Согласен?"
+msgstr "[É isso mesmo! Não me vai acontecer nada de catastrófico. Mas, Max, para evitar perguntas desnecessárias, teremos de ir à loja apenas na segunda-feira, quando não estiver ninguém em casa. De acordo?"
+
+# game/scripts/story_01/blog.rpy:194 #-#-# translate crowdin ev_096_success_68779ba7:
+msgid "[_Max_s_11_] Легко. Значит выдвинемся в 11 часов. Надеюсь, ты не будешь долго собираться."
+msgstr "[Calma. Então, vamos mudar-nos às 11:00. Espero que não demorem muito tempo a fazer as malas."
+
+# game/scripts/story_01/blog.rpy:195 #-#-# translate crowdin ev_096_success_73409c96:
+msgid "[_Alice_s_03_] Постараюсь..."
+msgstr "[_Alice_s_03_] Vou tentar..."
+
+# game/scripts/story_01/blog.rpy:204 #-#-# translate crowdin ev_096_success_50a4a7a2:
+msgid "[_tMax_s_04_] Вот это я молодец! Кто бы мог подумать, но курсы общения, в сочетании с мотивацией, всё-таки творят чудеса!"
+msgstr "[É isso que estou a fazer! Quem diria, mas os cursos de socialização, aliados à motivação, afinal fazem maravilhas!"
+
+# game/scripts/story_01/blog.rpy:205 #-#-# translate crowdin ev_096_success_6af6e8a4:
+msgid "[_tMax_s_01_] Полагаю, теперь мне даже станет проще оправдываться за все мои косяки, да и в целом буду звучать увереннее в любых разговорах..."
+msgstr "[_tMax_s_01_] Acho que agora até me vai ser mais fácil justificar todas as minhas asneiras e, de um modo geral, parecer mais confiante em qualquer conversa..."
+
+# game/scripts/story_01/blog.rpy:221 #-#-# translate crowdin ev_097_5b7f205f:
+msgid "[_Max_s_13_] Эй, Алиса, мы же идём в магазин?"
+msgstr "[Alice, não vamos à loja?"
+
+# game/scripts/story_01/blog.rpy:223 #-#-# translate crowdin ev_097_7652fbaa:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Да, я сейчас переоденусь и пойдём. Ты тоже не медли и одевайся. [nointeract]"
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Sim, vou só mudar de roupa e vamos embora. Tu também não hesitas e vestes-te. [nointeract]."
+
+# game/scripts/story_01/blog.rpy:229 #-#-# translate crowdin ev_097_5bcc208e:
+msgid "[_tMax_s_01_] Ох, надеюсь сегодня получится увидеть Алису в чём-нибудь сексуальном..."
+msgstr "[_tMax_s_01_] Oh, espero ver a Alice em algo sexy esta noite....."
+
+# game/scripts/story_01/blog.rpy:230 #-#-# translate crowdin ev_097_bc0c1c32:
+msgid "[_tMax_s_12_] Можно было бы и уже сейчас за ней подсмотреть, но лучше не рисковать, а то ещё разорётся и не пойдёт в магазин или пойдёт без меня."
+msgstr "[Podia tomar conta dela agora mesmo, mas prefiro não correr o risco de ela ficar sem dinheiro e não ir à loja ou ir sem mim."
+
+# game/scripts/story_01/blog.rpy:235 #-#-# translate crowdin ev_097_53ced7f9:
+msgid "[_Alice_s_02_] Ты почему так долго? Давай, пошли уже... [nointeract]"
+msgstr "[Porque demoraste tanto tempo? Vá lá, vamos embora... [nointeract]"
+
+# game/scripts/story_01/blog.rpy:240 #-#-# translate crowdin ev_097_3a454075:
+msgid "[_Alice_s_04_] Сегодня, Макс, мне понадобится твоё похотливое и озабоченное мнение, когда я буду подбирать себе одежду."
+msgstr "[Esta noite, Max, vou precisar da tua opinião luxuriosa e excitada quando escolher a minha roupa."
+
+# game/scripts/story_01/blog.rpy:241 #-#-# translate crowdin ev_097_d06a314a:
+msgid "[_Max_s_11_] О как! Это я всегда пожалуйста! Но для начала нам всё равно нужно выбрать что-то и не слишком откровенное, но и не слишком скромное."
+msgstr "[_Max_s_11_] Oh, sim! Sou sempre bem-vindo! Mas ainda precisamos de escolher algo para começar e que não seja demasiado evidente, mas também não demasiado modesto."
+
+# game/scripts/story_01/blog.rpy:242 #-#-# translate crowdin ev_097_5d184707:
+msgid "[_Alice_s_06_] Ну да, мне же нужно создать впечатление некоторой скромницы, а не распутной девки без тормозов."
+msgstr "[_Alice_s_06_] Sim, bem, preciso de dar a impressão de alguma modéstia, não de uma rapariga vadia sem travões."
+
+# game/scripts/story_01/blog.rpy:243 #-#-# translate crowdin ev_097_65659f88:
+msgid "[_Max_s_16_] Только бы этот выбор одежды не занял весь день..."
+msgstr "[_Max_s_16_] Desde que esta escolha de roupa não lhe tire o dia todo...."
+
+# game/scripts/story_01/blog.rpy:247 #-#-# translate crowdin ev_097_d767e0d9:
+msgid "[_Alice_s_01_] Не волнуйся, я думаю, мы ограничимся всего несколькими нарядами. Дай мне немного времени и я подберу что-нибудь для себя..."
+msgstr "[Não te preocupes, acho que nos vamos limitar a apenas algumas roupas. Dêem-me um pouco de tempo e eu vou buscar algo para mim...."
+
+# game/scripts/story_01/blog.rpy:248 #-#-# translate crowdin ev_097_3822ad19:
+msgid "[_Max_s_04_] Действуй! Если что, то я согласен задержаться здесь надолго, если ты помимо необходимого ещё и примеришь что-то очень развратное."
+msgstr "[Força! Se alguma coisa, estou disposto a ficar por cá durante muito tempo se experimentares algo muito lascivo para além do essencial."
+
+# game/scripts/story_01/blog.rpy:252 #-#-# translate crowdin ev_097_ff363198:
+msgid "[_Alice_s_04_] Кто бы сомневался, но мы сюда пришли не ради того, чтобы тебя развлекать, Макс! Сосредоточься на деле."
+msgstr "[Quem duvidaria, mas não viemos aqui para o entreter, Max! Concentrem-se no caso."
+
+# game/scripts/story_01/blog.rpy:253 #-#-# translate crowdin ev_097_3ec8c486:
+msgid "[_Max_s_13_] Ну, раз по делу, то давай бери что-нибудь быстрее и пошли примерять..."
+msgstr "[_Max_s_13_] Bem, já que estamos em negócios, vamos comprar algo rápido e vamos experimentar...."
+
+# game/scripts/story_01/blog.rpy:258 #-#-# translate crowdin ev_097_746b652b:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Макс, только не вздумай подглядывать! Я знаю, что ты можешь вести себя, как нормальный человек. Когда можно будет смотреть, я тебя позову..."
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Max, não espreites! Eu sei que podes agir como uma pessoa normal. Quando for seguro ver, eu ligo-te...."
+
+# game/scripts/story_01/blog.rpy:260 #-#-# translate crowdin ev_097_34c20247:
+msgid "[_tMax_s_11_] Хм... Какие-то странные заявления... Мне кажется наоборот, если ты нормальный, то надо подглядывать в подобных-то обстоятельствах. Или нет? [nointeract]"
+msgstr "[_tMax_s_11_] Hmm... Essa é uma afirmação um bocado estranha... Parece-me o contrário, se fores normal, deverias estar a espreitar em circunstâncias semelhantes. Ou será que é? [nointeract]"
+
+# game/scripts/story_01/blog.rpy:268 #-#-# translate crowdin ev_097_4d48fd86:
+msgid "[_tMax_s_05_] Уфф... Повезло, что я заглянул именно тогда, когда Алиса и голыми сисечками ещё пока светит, и только-только начала натягивать трусики!"
+msgstr "[_tMax_s_05_] Ugh... Felizmente passei por cá quando as mamas nuas da Alice ainda brilhavam e ela estava a começar a puxar as cuecas para cima!"
+
+# game/scripts/story_01/blog.rpy:272 #-#-# translate crowdin ev_097_4d72b5d8:
+msgid "[_tMax_s_13_] На самом деле, дальше лучше с этим не заигрываться, а то неизвестно, как отреагирует Алиса, если увидит, что я подглядываю. От силы можно будет ещё разок подсмотреть, но не больше..."
+msgstr "[De facto, é melhor não brincar mais com ele, ou não sei como é que a Alice reagiria se me visse a espreitar. No máximo, poderei espreitar mais uma vez, mas não mais...."
+
+# game/scripts/story_01/blog.rpy:280 #-#-# translate crowdin ev_097_6349aa0c:
+msgid "[_Alice_s_14_] Макс! Ты офигел что ли?! {p=2}{nw}"
+msgstr ""
+
+# game/scripts/story_01/blog.rpy:284 #-#-# translate crowdin ev_097_d3d9ef0c:
+msgid "[_Alice_s_15_] Совсем страх потерял? Я же сказала, что позову, когда можно будет смотреть! Ну-ка свали за шторку..."
+msgstr "[Perdeste o teu medo? Eu disse-te que te chamava quando pudesse ver! Vai para trás da cortina."
+
+# game/scripts/story_01/blog.rpy:285 #-#-# translate crowdin ev_097_d717e48d:
+msgid "[_Max_s_13_] Э-э-э... Я и так за шторкой."
+msgstr "[_Max_s_13_] Hum... Já estou atrás da cortina."
+
+# game/scripts/story_01/blog.rpy:286 #-#-# translate crowdin ev_097_203ddb8a:
+msgid "[_Alice_s_11_] Ты прекрасно понял, что я имела ввиду! Ещё раз попробуешь заглянуть в примерочную без разрешения и пойдёшь домой, а бельё я выберу сама, понял?"
+msgstr "[Sabes exatamente o que quero dizer! Se voltares a tentar olhar para o provador sem autorização, vais para casa e eu própria escolho a tua roupa interior, percebeste?"
+
+# game/scripts/story_01/blog.rpy:287 #-#-# translate crowdin ev_097_6ea3f3f7:
+msgid "[_Max_s_12_] Всё-всё, не горячись..."
+msgstr "[_Max_s_12_] Em suma, calma...."
+
+# game/scripts/story_01/blog.rpy:291 #-#-# translate crowdin ev_097_95bb396d:
+msgid "[_tMax_s_16_] Какая она глазастая... Теперь мне лучше даже не пытаться подглядеть за ней, чтобы окончательно всё не испортить."
+msgstr "[_tMax_s_16_] Ela tem cá um olho... Agora é melhor nem sequer tentar espreitá-la, para não estragar tudo."
+
+# game/scripts/story_01/blog.rpy:292 #-#-# translate crowdin ev_097_99bc9428:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Ну, что... Я примерила первый комплект нижнего белья и оно мне не особо нравится. Удобное, но скромноватое. Да и цвет мне не нравится."
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Bem... Experimentei o meu primeiro conjunto de roupa interior e não gostei muito. É confortável, mas é um pouco modesta. Também não gosto da cor."
+
+# game/scripts/story_01/blog.rpy:293 #-#-# translate crowdin ev_097_d8611735:
+msgid "[_Max_s_13_] Посмотреть-то можно?"
+msgstr "[Posso vê-lo?"
+
+# game/scripts/story_01/blog.rpy:294 #-#-# translate crowdin ev_097_54716f89:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Фигушки тебе, Макс! Не подглядывал бы за мной, сейчас бы смог оценить, а так скажу лишь, что оно почти как то бельё, в котором я сплю. Зачем нам почти то же самое, верно?"
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Nem pensar, Max! Se não tivesses estado a espreitar-me, podias apreciar agora, mas como está, vou apenas dizer que é quase como a roupa interior com que durmo. Porque é que havíamos de querer quase a mesma coisa, certo?"
+
+# game/scripts/story_01/blog.rpy:295 #-#-# translate crowdin ev_097_b37d05e7:
+msgid "[_Max_s_14_] Ага. Тогда примеряй следующее..."
+msgstr "[_Max_s_14_] Sim. Então experimenta o seguinte..."
+
+# game/scripts/story_01/blog.rpy:302 #-#-# translate crowdin ev_097_74c9f743:
+msgid "[_tMax_s_13_] Эх, она ведь там сейчас наверняка голыми сиськами светит, а я тут стою без дела и просто жду. Зря не стал подглядывать..."
+msgstr "[Oh, ela deve estar lá fora neste momento com as mamas à mostra, e eu estou aqui à espera. Devia ter espreitado."
+
+# game/scripts/story_01/blog.rpy:305 #-#-# translate crowdin ev_097_f7d06860:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Макс, ты что там молчишь? Я примерила первый комплект нижнего белья, так что если хочешь, то можешь заглянуть в примерочную..."
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Max, porque não estás a falar? Experimentei o meu primeiro conjunto de lingerie, por isso, se quiseres, podes ver no provador...."
+
+# game/scripts/story_01/blog.rpy:306 #-#-# translate crowdin ev_097_f35522e8:
+msgid "[_Max_s_02_] Конечно хочу!"
+msgstr "[Claro que sim!"
+
+# game/scripts/story_01/blog.rpy:310 #-#-# translate crowdin ev_097_496e2f49:
+msgid "[_Alice_s_02_] Вот такое бельё... Что скажешь?"
+msgstr "[_Alice_s_02_] Este é o tipo de roupa interior.... O que é que acha?"
+
+# game/scripts/story_01/blog.rpy:311 #-#-# translate crowdin ev_097_5f579b06:
+msgid "[_Max_s_11_] Слушай, в целом оно ничего, но не совсем то, что нам нужно. Тебе не кажется, что оно слишком скромное?"
+msgstr "[Olha, está tudo bem, mas não é exatamente o que precisamos. Não achas que é um pouco modesto demais?"
+
+# game/scripts/story_01/blog.rpy:312 #-#-# translate crowdin ev_097_5dc9c296:
+msgid "[_Alice_s_11_] В нём довольно удобно, но я с тобой соглашусь, оно скромноватое. И, честно говоря, мне цвет не нравится."
+msgstr "[É bastante confortável, mas concordo consigo, é um pouco modesto. E, para ser sincera, não gosto da cor."
+
+# game/scripts/story_01/blog.rpy:313 #-#-# translate crowdin ev_097_be4abea8:
+msgid "[_Max_s_03_] А сзади покажи, как оно смотрится..."
+msgstr "[_Max_s_03_] E de trás, mostra-me como fica...."
+
+# game/scripts/story_01/blog.rpy:317 #-#-# translate crowdin ev_097_6b9b82ab:
+msgid "[_Alice_s_04_] Собственно, так же, как и спереди. Я бы даже сказала, что оно почти как то бельё, в котором я сплю. Зачем нам почти то же самое, верно?"
+msgstr "[Na verdade, é como a parte da frente. Diria até que é quase como a roupa interior com que durmo. Porque é que havíamos de querer quase a mesma coisa, certo?"
+
+# game/scripts/story_01/blog.rpy:318 #-#-# translate crowdin ev_097_030c7b95:
+msgid "[_Max_s_01_] Ага. Давай посмотрим на следующее..."
+msgstr "[_Max_s_01_] Sim. Vejamos o seguinte..."
+
+# game/scripts/story_01/blog.rpy:326 #-#-# translate crowdin ev_097_second_c56097c9:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Я уже начала... Если тебе интересно, то со вторым бельём в комплекте и поясок идёт с чулками. Чулки я, понятное дело, не надела, а вот всё остальное, конечно же, да. Жаль, что ты этого не увидишь..."
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Já comecei... Caso queiram saber, a segunda lingerie vem com uma cinta e meias. Não usei as meias, obviamente, mas tudo o resto, claro que usei. É uma pena que não a vejas..."
+
+# game/scripts/story_01/blog.rpy:327 #-#-# translate crowdin ev_097_second_7951f972:
+msgid "[_Max_s_15_] В смысле?! Я и этот комплект тоже не увижу? Так не пойдёт!"
+msgstr "[O que queres dizer?! Eu também não vou ver este conjunto? Isso não é bom!"
+
+# game/scripts/story_01/blog.rpy:328 #-#-# translate crowdin ev_097_second_7b875e6e:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"А как ты хотел? Думал, что сможешь в тихую подглядывать и наслаждаться тем, как я надеваю всё это бельё, а после делать удивлённый вид, что ещё не видел его на мне?"
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"O que é que querias? Pensavas que podias espreitar discretamente e apreciar o facto de eu vestir toda esta lingerie e depois fingir-te surpreendida por ainda não a teres visto em mim?"
+
+# game/scripts/story_01/blog.rpy:329 #-#-# translate crowdin ev_097_second_4c4dd0f9:
+msgid "[_Max_s_13_] Да ладно тебе, Алиса! Ну, соблазнился разок, подумаешь... Ещё скажи, что ты этого не ожидала..."
+msgstr "[Vá lá, Alice! Então, já foste tentada uma vez, e depois... Diz-me que não estavas à espera..."
+
+# game/scripts/story_01/blog.rpy:331 #-#-# translate crowdin ev_097_second_e8ffedce:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Естественно, ожидала! Потому сразу и заметила твои бесстыжие глаза, которые на меня пялились. [nointeract]"
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Claro que sim! Foi por isso que reparei nos teus olhos sem vergonha a olharem para mim. [nointeract]"
+
+# game/scripts/story_01/blog.rpy:337 #-#-# translate crowdin ev_097_second_9203f890:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Ладно уж, сжалюсь, а то ещё заплачешь и убежишь, как маленький. Можешь заглянуть в примерочную..."
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Está bem, vou ter pena, ou vais chorar e fugir como um rapazinho. Podes ver no provador...."
+
+# game/scripts/story_01/blog.rpy:338 #-#-# translate crowdin ev_097_second_275ecb3e:
+msgid "[_Max_s_11_] Вот это другое дело."
+msgstr "[Isso é outra coisa."
+
+# game/scripts/story_01/blog.rpy:343 #-#-# translate crowdin ev_097_second_b659cea2:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Думаю, нет смысла в нём показываться. Может это бельё мне и нравится, и сидит прекрасно, но комплект довольно дорогой. Я его и близко по деньгам не потяну, да и ты, скорее всего, тоже."
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Acho que não vale a pena aparecer com ela. Posso gostar desta lingerie e fica-me muito bem, mas é muito cara. Não tenho dinheiro para ela e provavelmente tu também não terás."
+
+# game/scripts/story_01/blog.rpy:344 #-#-# translate crowdin ev_097_second_dc09da84:
+msgid "[_Max_s_12_] Обидно. Давай ещё третий комплект посмотрим и тогда уже будем думать..."
+msgstr "[É uma pena. Vamos dar outra vista de olhos ao terceiro conjunto e depois já pensamos...."
+
+# game/scripts/story_01/blog.rpy:352 #-#-# translate crowdin ev_097_second_1cddeb04:
+msgid "[_tMax_s_13_] Если сейчас и подглядывать за Алисой, то точно в последний раз. Но тогда я не увижу, как она будет примерять последний комплект белья. Что же делать? [nointeract]"
+msgstr "[Se vou espreitar a Alice agora, é definitivamente pela última vez. Mas depois não a vou poder ver a experimentar o seu último conjunto de lingerie. O que é que eu faço? [nointeract]"
+
+# game/scripts/story_01/blog.rpy:360 #-#-# translate crowdin ev_097_second_ad58de34:
+msgid "[_tMax_s_03_] Ничего себе! В этом комплекте ещё и поясок есть... Хорошо, что внимание Алисы сосредоточено на замках лифчика, иначе она почти наверняка бы сейчас меня заметила."
+msgstr "[_tMax_s_03_] Uau! Também há uma faixa neste conjunto... Ainda bem que a atenção da Alice está concentrada nos fechos do soutien, senão quase de certeza que reparava em mim agora."
+
+# game/scripts/story_01/blog.rpy:364 #-#-# translate crowdin ev_097_second_6cc6d501:
+msgid "[_tMax_s_12_] Всё, больше не подглядываю. Мне и так сегодня слишком много раз везло..."
+msgstr "[Estou farto de espreitar. Já tive demasiada sorte hoje..."
+
+# game/scripts/story_01/blog.rpy:373 #-#-# translate crowdin ev_097_second_74c9f743:
+msgid "[_tMax_s_13_] Эх, она ведь там сейчас наверняка голыми сиськами светит, а я тут стою без дела и просто жду. Зря не стал подглядывать..."
+msgstr "[Oh, ela deve estar lá fora neste momento com as mamas à mostra, e eu estou aqui à espera. Devia ter espreitado."
+
+# game/scripts/story_01/blog.rpy:381 #-#-# translate crowdin ev_097_second_82dba69c:
+msgid "[_tMax_s_13_] Вообще-то, я бы с удовольствием посмотрел на то, как сестрёнка надевает это бельё, прежде чем попозирует для меня. Может, всё-таки подсмотреть? [nointeract]"
+msgstr "[Na verdade, gostava de ver a minha irmã vestir esta roupa interior antes de posar para mim. Afinal, talvez uma espreitadela. [nointeract]"
+
+# game/scripts/story_01/blog.rpy:389 #-#-# translate crowdin ev_097_second_ad58de34_1:
+msgid "[_tMax_s_03_] Ничего себе! В этом комплекте ещё и поясок есть... Хорошо, что внимание Алисы сосредоточено на замках лифчика, иначе она почти наверняка бы сейчас меня заметила."
+msgstr "[_tMax_s_03_] Uau! Também há uma faixa neste conjunto... Ainda bem que a atenção da Alice está concentrada nos fechos do soutien, senão quase de certeza que reparava em mim agora."
+
+# game/scripts/story_01/blog.rpy:393 #-#-# translate crowdin ev_097_second_4d72b5d8:
+msgid "[_tMax_s_13_] На самом деле, дальше лучше с этим не заигрываться, а то неизвестно, как отреагирует Алиса, если увидит, что я подглядываю. От силы можно будет ещё разок подсмотреть, но не больше..."
+msgstr "[De facto, é melhor não brincar mais com ele, ou não sei como é que a Alice reagiria se me visse a espreitar. No máximo, poderei espreitar mais uma vez, mas não mais...."
+
+# game/scripts/story_01/blog.rpy:402 #-#-# translate crowdin ev_097_second_6da10c0a:
+msgid "[_tMax_s_12_] Нет, не буду рисковать, а то неизвестно, как отреагирует Алиса, если увидит, что я подглядываю."
+msgstr "[Não, não vou arriscar, ou não se sabe como é que a Alice vai reagir se me vir a espreitar."
+
+# game/scripts/story_01/blog.rpy:405 #-#-# translate crowdin ev_097_second_7596b138:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Макс, если тебе интересно, то со вторым бельём в комплекте и поясок идёт с чулками. Чулки я, понятное дело, не надела, а вот всё остальное, конечно же, да. Можешь заглянуть в примерочную..."
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Max, se estiveres interessado, a segunda roupa interior vem com uma cinta e meias. Eu não usei as meias, claro, mas tudo o resto, claro que usei. Pode ver no provador..."
+
+# game/scripts/story_01/blog.rpy:406 #-#-# translate crowdin ev_097_second_9544c783:
+msgid "[_Max_s_02_] Обязательно!"
+msgstr "[Eu vou!"
+
+# game/scripts/story_01/blog.rpy:411 #-#-# translate crowdin ev_097_second_fitting_318f446b:
+msgid "[_Alice_s_02_] Не знаю, как тебе, а мне это бельё нравится. Тут немного намудрили с замками на нём, но в целом оно обалденное."
+msgstr "[Não sei quanto a ti, mas eu adoro esta roupa interior. É um pouco complicada com os fechos, mas no geral é espetacular."
+
+# game/scripts/story_01/blog.rpy:412 #-#-# translate crowdin ev_097_second_fitting_4cd2fb86:
+msgid "[_Max_s_05_] Ого! И правда шикарное! Покажи-ка сзади..."
+msgstr "[Uau! É mesmo lindo! Mostra-me a parte de trás..."
+
+# game/scripts/story_01/blog.rpy:416 #-#-# translate crowdin ev_097_second_fitting_d2ba41ac:
+msgid "[_Alice_s_04_] Правда ведь оно сидит на мне прекрасно, да? И это я ещё чулки не надевала..."
+msgstr "[Não me assenta na perfeição? E ainda nem sequer usei meias."
+
+# game/scripts/story_01/blog.rpy:417 #-#-# translate crowdin ev_097_second_fitting_33b88429:
+msgid "[_Max_s_04_] Да, с ними вообще огонь будет!"
+msgstr "[_Max_s_04_] Sim, vai ser um espetáculo com eles!"
+
+# game/scripts/story_01/blog.rpy:418 #-#-# translate crowdin ev_097_second_fitting_672b45bc:
+msgid "[_Alice_s_12_] Только вот есть нюанс... Этот комплект довольно дорогой. Я его и близко по деньгам не потяну, да и ты, скорее всего, тоже."
+msgstr "[_Alice_s_12_] Só que há um senão... Este kit é bastante caro. Eu não o posso pagar, e provavelmente tu também não."
+
+# game/scripts/story_01/blog.rpy:419 #-#-# translate crowdin ev_097_second_fitting_dc09da84:
+msgid "[_Max_s_12_] Обидно. Давай ещё третий комплект посмотрим и тогда уже будем думать..."
+msgstr "[É uma pena. Vamos dar outra vista de olhos ao terceiro conjunto e depois já pensamos...."
+
+# game/scripts/story_01/blog.rpy:425 #-#-# translate crowdin ev_097_second_fail_6349aa0c:
+msgid "[_Alice_s_14_] Макс! Ты офигел что ли?! {p=2}{nw}"
+msgstr ""
+
+# game/scripts/story_01/blog.rpy:429 #-#-# translate crowdin ev_097_second_fail_d3d9ef0c:
+msgid "[_Alice_s_15_] Совсем страх потерял? Я же сказала, что позову, когда можно будет смотреть! Ну-ка свали за шторку..."
+msgstr "[Perdeste o teu medo? Eu disse-te que te chamava quando pudesse ver! Vai para trás da cortina."
+
+# game/scripts/story_01/blog.rpy:430 #-#-# translate crowdin ev_097_second_fail_d717e48d:
+msgid "[_Max_s_13_] Э-э-э... Я и так за шторкой."
+msgstr "[_Max_s_13_] Hum... Já estou atrás da cortina."
+
+# game/scripts/story_01/blog.rpy:431 #-#-# translate crowdin ev_097_second_fail_203ddb8a:
+msgid "[_Alice_s_11_] Ты прекрасно понял, что я имела ввиду! Ещё раз попробуешь заглянуть в примерочную без разрешения и пойдёшь домой, а бельё я выберу сама, понял?"
+msgstr "[Sabes exatamente o que quero dizer! Se voltares a tentar olhar para o provador sem autorização, vais para casa e eu própria escolho a tua roupa interior, percebeste?"
+
+# game/scripts/story_01/blog.rpy:432 #-#-# translate crowdin ev_097_second_fail_6ea3f3f7:
+msgid "[_Max_s_12_] Всё-всё, не горячись..."
+msgstr "[_Max_s_12_] Em suma, calma...."
+
+# game/scripts/story_01/blog.rpy:436 #-#-# translate crowdin ev_097_second_fail_95bb396d:
+msgid "[_tMax_s_16_] Какая она глазастая... Теперь мне лучше даже не пытаться подглядеть за ней, чтобы окончательно всё не испортить."
+msgstr "[_tMax_s_16_] Ela tem cá um olho... Agora é melhor nem sequer tentar espreitá-la, para não estragar tudo."
+
+# game/scripts/story_01/blog.rpy:437 #-#-# translate crowdin ev_097_second_fail_33408d90:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Ну, что... Может это бельё мне и нравится, и сидит прекрасно, но комплект довольно дорогой. Я его и близко по деньгам не потяну, да и ты, скорее всего, тоже."
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Bem... Eu posso gostar desta lingerie e fica-me muito bem, mas o conjunto é muito caro. Não tenho dinheiro para o comprar e provavelmente tu também não terás."
+
+# game/scripts/story_01/blog.rpy:438 #-#-# translate crowdin ev_097_second_fail_d8611735:
+msgid "[_Max_s_13_] Посмотреть-то можно?"
+msgstr "[Posso vê-lo?"
+
+# game/scripts/story_01/blog.rpy:439 #-#-# translate crowdin ev_097_second_fail_9279341a:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Фигушки тебе, Макс! Не подглядывал бы за мной, сейчас бы смог оценить, а так скажу лишь, что я его и близко по деньгам не потяну, да и ты, скорее всего, тоже."
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Nem pensar, Max! Se não estivesses a espreitar-me, poderias avaliá-lo agora, mas direi apenas que não tenho dinheiro para isso e, provavelmente, tu também não terás."
+
+# game/scripts/story_01/blog.rpy:440 #-#-# translate crowdin ev_097_second_fail_dc09da84:
+msgid "[_Max_s_12_] Обидно. Давай ещё третий комплект посмотрим и тогда уже будем думать..."
+msgstr "[É uma pena. Vamos dar outra vista de olhos ao terceiro conjunto e depois já pensamos...."
+
+# game/scripts/story_01/blog.rpy:449 #-#-# translate crowdin ev_097_third_3893fadb:
+msgid "[_tMax_s_13_] Эх... Очень хочется снова подсмотреть за Алисой, но лучше больше не рисковать. Просто подожду..."
+msgstr "[_tMax_s_13_] Eh... Quero mesmo espreitar a Alice outra vez, mas é melhor não correr mais riscos. Vou esperar..."
+
+# game/scripts/story_01/blog.rpy:450 #-#-# translate crowdin ev_097_third_98bbde40:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Макс, мне кажется, что третий комплект нижнего белья - это как раз то, что нам нужно! Загляни ко мне в примерочную скорее..."
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Max, acho que um terceiro conjunto de roupa interior é exatamente o que precisamos! Passa pelo meu provador em breve...."
+
+# game/scripts/story_01/blog.rpy:451 #-#-# translate crowdin ev_097_third_3ca682d0:
+msgid "[_Max_s_02_] С удовольствием!"
+msgstr "[O prazer é meu!"
+
+# game/scripts/story_01/blog.rpy:458 #-#-# translate crowdin ev_097_third_3893fadb_1:
+msgid "[_tMax_s_13_] Эх... Очень хочется снова подсмотреть за Алисой, но лучше больше не рисковать. Просто подожду..."
+msgstr "[_tMax_s_13_] Eh... Quero mesmo espreitar a Alice outra vez, mas é melhor não correr mais riscos. Vou esperar..."
+
+# game/scripts/story_01/blog.rpy:459 #-#-# translate crowdin ev_097_third_4fda8a83:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Макс, мне кажется, что третий комплект нижнего белья - это как раз то, что нам нужно! Жаль, правда, что придётся обойтись без твоей оценки..."
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Max, acho que o terceiro conjunto de roupa interior é exatamente o que precisamos! Mas é pena, vou ter de passar sem a tua avaliação....."
+
+# game/scripts/story_01/blog.rpy:460 #-#-# translate crowdin ev_097_third_7951f972:
+msgid "[_Max_s_15_] В смысле?! Я и этот комплект тоже не увижу? Так не пойдёт!"
+msgstr "[O que queres dizer?! Eu também não vou ver este conjunto? Isso não é bom!"
+
+# game/scripts/story_01/blog.rpy:461 #-#-# translate crowdin ev_097_third_7b875e6e:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"А как ты хотел? Думал, что сможешь в тихую подглядывать и наслаждаться тем, как я надеваю всё это бельё, а после делать удивлённый вид, что ещё не видел его на мне?"
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"O que é que querias? Pensavas que podias espreitar discretamente e apreciar o facto de eu vestir toda esta lingerie e depois fingir-te surpreendida por ainda não a teres visto em mim?"
+
+# game/scripts/story_01/blog.rpy:462 #-#-# translate crowdin ev_097_third_4c4dd0f9:
+msgid "[_Max_s_13_] Да ладно тебе, Алиса! Ну, соблазнился разок, подумаешь... Ещё скажи, что ты этого не ожидала..."
+msgstr "[Vá lá, Alice! Então, já foste tentada uma vez, e depois... Diz-me que não estavas à espera..."
+
+# game/scripts/story_01/blog.rpy:463 #-#-# translate crowdin ev_097_third_6b190076:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Естественно, ожидала! Потому сразу и заметила твои бесстыжие глаза, которые на меня пялились."
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Claro que sim! Foi por isso que reparei logo nos teus olhos sem vergonha a olhar para mim."
+
+# game/scripts/story_01/blog.rpy:464 #-#-# translate crowdin ev_097_third_18f5a1a4:
+msgid "[_Max_s_16_] Сейчас-то я не подглядываю. К тому же, я не стану покупать тебе бельё, которое не видел. Так что давай позируй!"
+msgstr "[Não estou a espreitar agora. Além disso, não te vou comprar roupa interior que não tenha visto. Por isso, faz pose!"
+
+# game/scripts/story_01/blog.rpy:465 #-#-# translate crowdin ev_097_third_9203f890:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Ладно уж, сжалюсь, а то ещё заплачешь и убежишь, как маленький. Можешь заглянуть в примерочную..."
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Está bem, vou ter pena, ou vais chorar e fugir como um rapazinho. Podes ver no provador...."
+
+# game/scripts/story_01/blog.rpy:466 #-#-# translate crowdin ev_097_third_275ecb3e:
+msgid "[_Max_s_11_] Вот это другое дело."
+msgstr "[Isso é outra coisa."
+
+# game/scripts/story_01/blog.rpy:474 #-#-# translate crowdin ev_097_third_57f4f470:
+msgid "[_tMax_s_13_] Сестрёнка сейчас примеряет последний комплект нижнего белья. Может, всё-таки рискнуть и подсмотреть, пока ещё не поздно? [nointeract]"
+msgstr "[A mana está a experimentar o último conjunto de roupa interior. Mais vale arriscar e espreitar antes que seja tarde demais. [nointeract]"
+
+# game/scripts/story_01/blog.rpy:482 #-#-# translate crowdin ev_097_third_d3e9ade1:
+msgid "[_tMax_s_03_] Ого! Симпатичное бельишко, надо сказать... Ещё и полупрозрачное местами, что не может не радовать! Сложно от такого оторвать взгляд, но надо..."
+msgstr "[_tMax_s_03_] Uau! Bela roupa interior, devo dizer... Também é semi-transparente em alguns sítios, o que é ótimo! É difícil tirar os olhos de cima dela, mas tenho de o fazer...."
+
+# game/scripts/story_01/blog.rpy:486 #-#-# translate crowdin ev_097_third_65c47b34:
+msgid "[_tMax_s_04_] Надо же как мне сегодня повезло! Алиса ни разу не заметила, что я подглядывал за ней. Или заметила, но не подала виду? Да ну, вряд ли заметила..."
+msgstr "[Estou com tanta sorte hoje! A Alice nunca reparou que eu a estava a espreitar. Ou será que ela reparou, mas não deixou transparecer? Acho que ela não reparou."
+
+# game/scripts/story_01/blog.rpy:487 #-#-# translate crowdin ev_097_third_98bbde40_1:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Макс, мне кажется, что третий комплект нижнего белья - это как раз то, что нам нужно! Загляни ко мне в примерочную скорее..."
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Max, acho que um terceiro conjunto de roupa interior é exatamente o que precisamos! Passa pelo meu provador em breve...."
+
+# game/scripts/story_01/blog.rpy:488 #-#-# translate crowdin ev_097_third_3ca682d0_1:
+msgid "[_Max_s_02_] С удовольствием!"
+msgstr "[O prazer é meu!"
+
+# game/scripts/story_01/blog.rpy:498 #-#-# translate crowdin ev_097_third_6da10c0a:
+msgid "[_tMax_s_12_] Нет, не буду рисковать, а то неизвестно, как отреагирует Алиса, если увидит, что я подглядываю."
+msgstr "[Não, não vou arriscar, ou não se sabe como é que a Alice vai reagir se me vir a espreitar."
+
+# game/scripts/story_01/blog.rpy:499 #-#-# translate crowdin ev_097_third_98bbde40_2:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Макс, мне кажется, что третий комплект нижнего белья - это как раз то, что нам нужно! Загляни ко мне в примерочную скорее..."
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Max, acho que um terceiro conjunto de roupa interior é exatamente o que precisamos! Passa pelo meu provador em breve...."
+
+# game/scripts/story_01/blog.rpy:500 #-#-# translate crowdin ev_097_third_3ca682d0_2:
+msgid "[_Max_s_02_] С удовольствием!"
+msgstr "[O prazer é meu!"
+
+# game/scripts/story_01/blog.rpy:509 #-#-# translate crowdin ev_097_third_57f4f470_1:
+msgid "[_tMax_s_13_] Сестрёнка сейчас примеряет последний комплект нижнего белья. Может, всё-таки рискнуть и подсмотреть, пока ещё не поздно? [nointeract]"
+msgstr "[A mana está a experimentar o último conjunto de roupa interior. Mais vale arriscar e espreitar antes que seja tarde demais. [nointeract]"
+
+# game/scripts/story_01/blog.rpy:517 #-#-# translate crowdin ev_097_third_d3e9ade1_1:
+msgid "[_tMax_s_03_] Ого! Симпатичное бельишко, надо сказать... Ещё и полупрозрачное местами, что не может не радовать! Сложно от такого оторвать взгляд, но надо..."
+msgstr "[_tMax_s_03_] Uau! Bela roupa interior, devo dizer... Também é semi-transparente em alguns sítios, o que é ótimo! É difícil tirar os olhos de cima dela, mas tenho de o fazer...."
+
+# game/scripts/story_01/blog.rpy:520 #-#-# translate crowdin ev_097_third_06a54c61:
+msgid "[_tMax_s_04_] Хорошо, что я и дальше не стал стоять без дела! Хоть на полуголую Алису одним глазком посмотрел, а то всё в белье, да в белье..."
+msgstr "[Ainda bem que não fiquei mais tempo parado! Pelo menos na Alice seminua um olho olhou, e depois tudo em cuecas, e em cuecas ..."
+
+# game/scripts/story_01/blog.rpy:521 #-#-# translate crowdin ev_097_third_98bbde40_3:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Макс, мне кажется, что третий комплект нижнего белья - это как раз то, что нам нужно! Загляни ко мне в примерочную скорее..."
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Max, acho que um terceiro conjunto de roupa interior é exatamente o que precisamos! Passa pelo meu provador em breve...."
+
+# game/scripts/story_01/blog.rpy:522 #-#-# translate crowdin ev_097_third_3ca682d0_3:
+msgid "[_Max_s_02_] С удовольствием!"
+msgstr "[O prazer é meu!"
+
+# game/scripts/story_01/blog.rpy:533 #-#-# translate crowdin ev_097_third_86f504f3:
+msgid "[_tMax_s_01_] Нет, я лучше подсмотрю в самом конце, когда Алиса будет переодеваться в своё платье. Ведь с выбором белья мы уже должны будем определиться, а потому и риска, как такового, не будет."
+msgstr "[Não, prefiro ver no fim, quando a Alice estiver a vestir o vestido. Afinal de contas, já teremos de decidir sobre a lingerie, por isso não haverá qualquer risco."
+
+# game/scripts/story_01/blog.rpy:534 #-#-# translate crowdin ev_097_third_98bbde40_4:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Макс, мне кажется, что третий комплект нижнего белья - это как раз то, что нам нужно! Загляни ко мне в примерочную скорее..."
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Max, acho que um terceiro conjunto de roupa interior é exatamente o que precisamos! Passa pelo meu provador em breve...."
+
+# game/scripts/story_01/blog.rpy:535 #-#-# translate crowdin ev_097_third_3ca682d0_4:
+msgid "[_Max_s_02_] С удовольствием!"
+msgstr "[O prazer é meu!"
+
+# game/scripts/story_01/blog.rpy:542 #-#-# translate crowdin ev_097_third_fail_6349aa0c:
+msgid "[_Alice_s_14_] Макс! Ты офигел что ли?! {p=2}{nw}"
+msgstr ""
+
+# game/scripts/story_01/blog.rpy:546 #-#-# translate crowdin ev_097_third_fail_d3d9ef0c:
+msgid "[_Alice_s_15_] Совсем страх потерял? Я же сказала, что позову, когда можно будет смотреть! Ну-ка свали за шторку..."
+msgstr "[Perdeste o teu medo? Eu disse-te que te chamava quando pudesse ver! Vai para trás da cortina."
+
+# game/scripts/story_01/blog.rpy:547 #-#-# translate crowdin ev_097_third_fail_d717e48d:
+msgid "[_Max_s_13_] Э-э-э... Я и так за шторкой."
+msgstr "[_Max_s_13_] Hum... Já estou atrás da cortina."
+
+# game/scripts/story_01/blog.rpy:548 #-#-# translate crowdin ev_097_third_fail_203ddb8a:
+msgid "[_Alice_s_11_] Ты прекрасно понял, что я имела ввиду! Ещё раз попробуешь заглянуть в примерочную без разрешения и пойдёшь домой, а бельё я выберу сама, понял?"
+msgstr "[Sabes exatamente o que quero dizer! Se voltares a tentar olhar para o provador sem autorização, vais para casa e eu própria escolho a tua roupa interior, percebeste?"
+
+# game/scripts/story_01/blog.rpy:549 #-#-# translate crowdin ev_097_third_fail_6ea3f3f7:
+msgid "[_Max_s_12_] Всё-всё, не горячись..."
+msgstr "[_Max_s_12_] Em suma, calma...."
+
+# game/scripts/story_01/blog.rpy:553 #-#-# translate crowdin ev_097_third_fail_95bb396d:
+msgid "[_tMax_s_16_] Какая она глазастая... Теперь мне лучше даже не пытаться подглядеть за ней, чтобы окончательно всё не испортить."
+msgstr "[_tMax_s_16_] Ela tem cá um olho... Agora é melhor nem sequer tentar espreitá-la, para não estragar tudo."
+
+# game/scripts/story_01/blog.rpy:554 #-#-# translate crowdin ev_097_third_fail_b920317d:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Макс, мне кажется, что третий комплект нижнего белья - это как раз то, что нам нужно! Собственно, ты же подглядывал, так что видел..."
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Max, acho que um terceiro conjunto de roupa interior é exatamente o que precisamos! Na verdade, estavas a espreitar, por isso viste....."
+
+# game/scripts/story_01/blog.rpy:555 #-#-# translate crowdin ev_097_third_fail_e85685b8:
+msgid "[_Max_s_15_] Я видел тебя меньше секунды! Мне нужно увидеть снова..."
+msgstr "[Eu vi-te por menos de um segundo! Preciso de te ver outra vez..."
+
+# game/scripts/story_01/blog.rpy:556 #-#-# translate crowdin ev_097_third_fail_562dd16a:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Фигушки тебе, Макс! Не подглядывал бы за мной, сейчас бы смог оценить, а так могу лишь сказать, сколько оно стоит."
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Nem pensar, Max! Se não me tivesses espreitado, já podias fazer uma estimativa, mas como está, só te posso dizer quanto vale."
+
+# game/scripts/story_01/blog.rpy:557 #-#-# translate crowdin ev_097_third_fail_3ec6c1e8:
+msgid "[_Max_s_13_] Не угадала, это тебе фигушки, Алиса! Я не стану покупать тебе бельё, которое не видел. Так что давай позируй!"
+msgstr "[Nem pensar, isso é impossível, Alice! Não te vou comprar roupa interior que não tenha visto. Por isso, vamos lá, faz pose!"
+
+# game/scripts/story_01/blog.rpy:558 #-#-# translate crowdin ev_097_third_fail_9203f890:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Ладно уж, сжалюсь, а то ещё заплачешь и убежишь, как маленький. Можешь заглянуть в примерочную..."
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Está bem, vou ter pena, ou vais chorar e fugir como um rapazinho. Podes ver no provador...."
+
+# game/scripts/story_01/blog.rpy:559 #-#-# translate crowdin ev_097_third_fail_275ecb3e:
+msgid "[_Max_s_11_] Вот это другое дело."
+msgstr "[Isso é outra coisa."
+
+# game/scripts/story_01/blog.rpy:566 #-#-# translate crowdin ev_097_third_fitting_cc44a0dd:
+msgid "[_Alice_s_03_] Ну, как тебе? Сразу скажу, что сидит отлично! Я сперва подумала, что лифчик не того размера, но видимо он так задуман, чтобы сосочки слегка было видно..."
+msgstr "[O que é que acha? Deixem-me dizer-vos desde já que fica muito bem! Primeiro pensei que o sutiã era do tamanho errado, mas aparentemente foi concebido para que os mamilos fiquem ligeiramente visíveis...."
+
+# game/scripts/story_01/blog.rpy:567 #-#-# translate crowdin ev_097_third_fitting_6218e51b:
+msgid "[_Max_s_01_] Это как раз первое, на что я обратил внимание!"
+msgstr "[Foi exatamente a primeira coisa em que reparei!"
+
+# game/scripts/story_01/blog.rpy:568 #-#-# translate crowdin ev_097_third_fitting_3e67a703:
+msgid "[_Alice_s_11_] Ты сильно не вглядывайся в мою грудь. И вниз тоже. А то трусики малость полупрозрачные. Хорошо, что хоть затемнённые..."
+msgstr "[Não olhes muito de perto para os meus seios. E lá em baixo também. Porque as minhas cuecas são um pouco translúcidas. Ainda bem que estão tapadas."
+
+# game/scripts/story_01/blog.rpy:572 #-#-# translate crowdin ev_097_third_fitting_bed4c8d3:
+msgid "[_Max_s_12_] Тебе может и хорошо, а вот для твоих будущих зрителей... Хотя, мы же не стремимся к максимальному разврату."
+msgstr "[Pode ser bom para ti, mas para os teus futuros espectadores... No entanto, não é que estejamos a apontar para a depravação máxima."
+
+# game/scripts/story_01/blog.rpy:573 #-#-# translate crowdin ev_097_third_fitting_173dc45c:
+msgid "[_Alice_s_04_] Именно! Потому мне и кажется, что это бельё подходит лучше всего для тех трансляций, о которых мы говорили. Не слишком откровенно, но в то же время очень сексуально, так ведь?"
+msgstr "[Exatamente! É por isso que acho que esta lingerie funciona melhor para aquelas transmissões de que estávamos a falar. Não é demasiado reveladora, mas também é muito sexy, certo?"
+
+# game/scripts/story_01/blog.rpy:574 #-#-# translate crowdin ev_097_third_fitting_7127ee88:
+msgid "[_Max_s_11_] Тут не поспоришь. А что по цене?"
+msgstr "[Não se pode argumentar com isso. E quanto ao preço?"
+
+# game/scripts/story_01/blog.rpy:578 #-#-# translate crowdin ev_097_third_fitting_be001930:
+msgid "[_Alice_s_01_] Этот тёмный комплект дешевле того красного, само собой. Первый комплект я даже рассматривать не хочу. Итого, я бы купила этот тёмный, будь у меня деньги."
+msgstr "[Este conjunto escuro é mais barato do que o vermelho, obviamente. O primeiro conjunto nem sequer quero considerar. Resumindo, eu compraria o escuro se tivesse o dinheiro."
+
+# game/scripts/story_01/blog.rpy:579 #-#-# translate crowdin ev_097_third_fitting_2b5054db:
+msgid "[_Max_s_13_] И сколько он стоит?"
+msgstr "[E quanto é que vale?"
+
+# game/scripts/story_01/blog.rpy:581 #-#-# translate crowdin ev_097_third_fitting_24327056:
+msgid "[_Alice_s_12_] Ну... Надеюсь, тебя не сильно испугает цена в $199? После потери всех вещей для меня такие деньги неподъёмны. [nointeract]"
+msgstr "[_Alice_s_12_] Bem... Espero que o preço de 199 dólares não te assuste muito? Depois de perder todas as minhas coisas, não me posso dar a esse luxo. [nointeract]"
+
+# game/scripts/story_01/blog.rpy:583 #-#-# translate crowdin ev_097_third_fitting_3c77b5dd:
+msgid "[_Alice_s_13_] Правда?! Хочешь сказать, ты сможешь купить его прямо сейчас? Фантастика! У тебя откуда столько денег?"
+msgstr "[A sério?! Quer dizer que o podes comprar agora mesmo? Isso é fantástico! Onde é que arranjaste esse dinheiro todo?"
+
+# game/scripts/story_01/blog.rpy:584 #-#-# translate crowdin ev_097_third_fitting_73ff07c7:
+msgid "[_Max_s_11_] Считай, накопил. Переодевайся в своё платье, а я пока пойду оплачу твоё новое бельё."
+msgstr "[Considera-o salvo. Vai vestir o teu vestido, que eu vou pagar a tua roupa interior nova."
+
+# game/scripts/story_01/blog.rpy:585 #-#-# translate crowdin ev_097_third_fitting_6faf67b9:
+msgid "[_Alice_s_03_] Супер! Спасибо тебе. Я быстро..."
+msgstr "[Ótimo! Muito obrigado. Vou ser rápido..."
+
+# game/scripts/story_01/blog.rpy:589 #-#-# translate crowdin ev_097_third_fitting_01e3818f:
+msgid "[_tMax_s_01_] Отлично! С нижним бельём для Алисы определились, теперь дело за малым... [nointeract]"
+msgstr "[Muito bem! A roupa interior da Alice já foi decidida, agora é só uma questão de... [nointeract]"
+
+# game/scripts/story_01/blog.rpy:594 #-#-# translate crowdin ev_097_third_fitting_5695bbfc:
+msgid "[_tMax_s_06_] Ух ты! Я заглянул прямо в самый подходящий момент, когда на Алисе вообще ничего нет из одежды! И это моя сексуальная сестрёнка, которая скоро будет стримить в сексуальном белье... [nointeract]"
+msgstr "[Uau, espreitei mesmo no momento perfeito em que a Alice não está a usar nada. E esta é a minha irmã sexy, que vai estar a transmitir em lingerie sexy em breve.... [nointeract]"
+
+# game/scripts/story_01/blog.rpy:608 #-#-# translate crowdin ev_097_third_fitting_4caf7480:
+msgid "[_Alice_s_02_] Как же я обожаю новые покупки, ты даже не представляешь! Пойдём скорее домой, пока наши не вернулись. [nointeract]"
+msgstr "[Adoro fazer compras, não fazes ideia! Vamos despachar-nos para casa antes que a nossa gente volte. [nointeract]"
+
+# game/scripts/story_01/blog.rpy:613 #-#-# translate crowdin ev_097_third_fitting_8d05bd05:
+msgid "[_Alice_s_04_] Слушай... А у тебя случайно нет денег ещё и на новое платье для меня? Я даже могу добавить $20 или $30..."
+msgstr "[Ouve... Por acaso não tens dinheiro para um vestido novo para mim, pois não? Eu até podia juntar 20 ou 30 dólares..."
+
+# game/scripts/story_01/blog.rpy:614 #-#-# translate crowdin ev_097_third_fitting_b346c66e:
+msgid "[_Max_s_13_] Алиса, не наглей, на платье денег нет. Тебе сейчас важнее свои доходы приумножить, а не тратить деньги направо-налево. Тем более мои..."
+msgstr "[Alice, não sejas atrevida, não há dinheiro para o vestido. É mais importante para ti aumentares o teu rendimento do que gastares dinheiro a torto e a direito. Especialmente o meu."
+
+# game/scripts/story_01/blog.rpy:618 #-#-# translate crowdin ev_097_third_fitting_e2f80f25:
+msgid "[_Alice_s_02_] Всё равно, спасибо, Макс! Бельё, чтобы покрасоваться перед зрителями теперь есть, а это значит надо будет создать себе страничку. Настроить её и попробовать провести трансляцию."
+msgstr "[Obrigado na mesma, Max! A roupa interior para exibir em frente ao público está agora no sítio, o que significa que tenho de criar uma página para mim. Prepará-la e tentar transmitir."
+
+# game/scripts/story_01/blog.rpy:619 #-#-# translate crowdin ev_097_third_fitting_f9819eb4:
+msgid "[_Max_s_02_] Зови, если нужно будет чем-то помочь."
+msgstr "[Telefona-me se precisares de ajuda."
+
+# game/scripts/story_01/blog.rpy:620 #-#-# translate crowdin ev_097_third_fitting_58a4034f:
+msgid "[_Alice_s_01_] Хорошо. И да, никому ни слова о том, что ты мне купил! Это будет нашим маленьким секретом, как и вся эта затея с трансляциями."
+msgstr "[Está bem. E sim, nem uma palavra a ninguém sobre o que me compraste! Vai ser o nosso pequeno segredo, tal como esta coisa da emissão."
+
+# game/scripts/story_01/blog.rpy:621 #-#-# translate crowdin ev_097_third_fitting_aa19f1cc:
+msgid "[_Max_s_01_] Конечно, сестрёнка."
+msgstr "[Claro que sim, mana."
+
+# game/scripts/story_01/blog.rpy:625 #-#-# translate crowdin ev_097_third_fitting_97932d33:
+msgid "[_Alice_s_05_] То, что немного - сильно обнадёживает, Макс! Ты очень мне поможешь, если купишь это бельё. Пускай даже через какое-то время."
+msgstr "[Um bocadinho é muito reconfortante, Max! Ajudar-me-ia muito se comprasse esta roupa interior. Mesmo que seja só daqui a pouco tempo."
+
+# game/scripts/story_01/blog.rpy:626 #-#-# translate crowdin ev_097_third_fitting_3b5c5b58:
+msgid "[_Max_s_11_] Переодевайся, да пойдём домой. Я запомнил, какое бельё мы выбрали, через некоторое время куплю."
+msgstr "[Muda de roupa, vamos para casa. Memorizei a roupa interior que escolhemos, vou comprar alguma daqui a pouco."
+
+# game/scripts/story_01/blog.rpy:627 #-#-# translate crowdin ev_097_third_fitting_6faf67b9_1:
+msgid "[_Alice_s_03_] Супер! Спасибо тебе. Я быстро..."
+msgstr "[Ótimo! Muito obrigado. Vou ser rápido..."
+
+# game/scripts/story_01/blog.rpy:632 #-#-# translate crowdin ev_097_third_fitting_ceadf919:
+msgid "[_tMax_s_01_] Отлично! С нижним бельём для Алисы определились, теперь дело за малым - купить его... [nointeract]"
+msgstr "[Muito bem! A roupa interior para a Alice já está decidida, agora é só uma questão de a comprar... [nointeract]"
+
+# game/scripts/story_01/blog.rpy:637 #-#-# translate crowdin ev_097_third_fitting_5695bbfc_1:
+msgid "[_tMax_s_06_] Ух ты! Я заглянул прямо в самый подходящий момент, когда на Алисе вообще ничего нет из одежды! И это моя сексуальная сестрёнка, которая скоро будет стримить в сексуальном белье... [nointeract]"
+msgstr "[Uau, espreitei mesmo no momento perfeito em que a Alice não está a usar nada. E esta é a minha irmã sexy, que vai estar a transmitir em lingerie sexy em breve.... [nointeract]"
+
+# game/scripts/story_01/blog.rpy:650 #-#-# translate crowdin ev_097_third_fitting_abd2d4f7:
+msgid "[_Alice_s_04_] Слушай... Может, ты заодно накопишь и на новое платье для меня? Я даже могу добавить $20 или $30..."
+msgstr "[Ouve... Porque é que não poupas para comprar um vestido novo para mim? Até podia juntar 20 ou 30 dólares..."
+
+# game/scripts/story_01/blog.rpy:651 #-#-# translate crowdin ev_097_third_fitting_b346c66e_1:
+msgid "[_Max_s_13_] Алиса, не наглей, на платье денег нет. Тебе сейчас важнее свои доходы приумножить, а не тратить деньги направо-налево. Тем более мои..."
+msgstr "[Alice, não sejas atrevida, não há dinheiro para o vestido. É mais importante para ti aumentares o teu rendimento do que gastares dinheiro a torto e a direito. Especialmente o meu."
+
+# game/scripts/story_01/blog.rpy:655 #-#-# translate crowdin ev_097_third_fitting_945a6815:
+msgid "[_Alice_s_02_] Ладно, поняла. Буду ждать от тебя подарка, может что-то там дальше и выгорит у нас благодаря этому белью..."
+msgstr "[Está bem, já percebi. Vou esperar que me dês um presente, e talvez aconteça alguma coisa a seguir, graças a esta roupa interior...."
+
+# game/scripts/story_01/blog.rpy:656 #-#-# translate crowdin ev_097_third_fitting_aa19f1cc_1:
+msgid "[_Max_s_01_] Конечно, сестрёнка."
+msgstr "[Claro que sim, mana."
+
+# game/scripts/story_01/blog.rpy:666 #-#-# translate crowdin ev_098_cff32484:
+msgid "[_Alice_s_04_] И что же это? Я должна угадать?"
+msgstr "[O que é? É suposto eu adivinhar?"
+
+# game/scripts/story_01/blog.rpy:667 #-#-# translate crowdin ev_098_bfe82b37:
+msgid "[_Max_s_04_] То самое тёмное нижнее бельё..."
+msgstr "[_Max_s_04_] Aquela roupa interior escura ..."
+
+# game/scripts/story_01/blog.rpy:668 #-#-# translate crowdin ev_098_d71de59b:
+msgid "[_Alice_s_13_] Ой, супер! Ты всё-таки его купил! Надеюсь, ты ничего с размером не напутал и оно точно такое же, как то, которое я мерила в магазине?"
+msgstr "[Oh, ótimo! Afinal compraste-o! Espero que não tenhas feito asneira com o tamanho e que seja exatamente igual ao que experimentei na loja?"
+
+# game/scripts/story_01/blog.rpy:669 #-#-# translate crowdin ev_098_119b6b90:
+msgid "[_Max_s_01_] Думаю, это то самое бельё, но для полной уверенности его бы стоило примерить..."
+msgstr "[_Max_s_01_] Acho que é a mesma roupa interior, mas valeria a pena experimentar para ter a certeza...."
+
+# game/scripts/story_01/blog.rpy:670 #-#-# translate crowdin ev_098_532540e9:
+msgid "[_Alice_s_03_] Естественно, я его примерю! И, в качестве огромной благодарности, даже снова покажусь тебе в нём. Только подожди за дверью..."
+msgstr "[Claro que o vou experimentar! E, como grande agradecimento, até me mostro outra vez com ele. É só esperar à porta."
+
+# game/scripts/story_01/blog.rpy:671 #-#-# translate crowdin ev_098_9c0b21c5:
+msgid "[_Max_s_11_] А зачем ходить туда-сюда? Я просто отвернусь и всё!"
+msgstr "[Porquê andar para trás e para a frente? Viro-me de costas e já está!"
+
+# game/scripts/story_01/blog.rpy:676 #-#-# translate crowdin ev_098_357fc314:
+msgid "[_Alice_s_11_] Хм... Ты же подглядывать станешь. Что я тебя, не знаю что ли? [nointeract]"
+msgstr "[_Alice_s_11_] Hmm. Vais espreitar. Não te conheço? [nointeract]"
+
+# game/scripts/story_01/blog.rpy:683 #-#-# translate crowdin ev_098_ab7a72c0:
+msgid "[_Alice_s_02_] Неужели?! Какая же она у нас ещё наивная. Хорошо, оставайся в комнате, но смотри... Чуть что и ты у меня мигом полетишь отсюда в бассейн вниз головой! [nointeract]"
+msgstr "[A sério?! Ela ainda é tão ingénua. Está bem, fica no teu quarto, mas tem cuidado. Daqui faço-te voar de cabeça para a piscina! [nointeract]"
+
+# game/scripts/story_01/blog.rpy:689 #-#-# translate crowdin ev_098_42837c4e:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"И глаза закрой, а то ещё моё отражение где-нибудь увидишь... [nointeract]"
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"E fecha os olhos, ou verás o meu reflexo algures... [nointeract]"
+
+# game/scripts/story_01/blog.rpy:691 #-#-# translate crowdin ev_098_74c9f743:
+msgid "[_tMax_s_13_] Эх, она ведь там сейчас наверняка голыми сиськами светит, а я тут стою без дела и просто жду. Зря не стал подглядывать..."
+msgstr "[Oh, ela deve estar lá fora neste momento com as mamas à mostra, e eu estou aqui à espera. Devia ter espreitado."
+
+# game/scripts/story_01/blog.rpy:702 #-#-# translate crowdin ev_098_7a72444c:
+msgid "[_tMax_s_03_] О, вот это класс! Очень хочется присвистнуть от восхищения, как Алиса переодевается, но это чревато переломами..."
+msgstr "[Oh, isso é ótimo! Apetece-me mesmo assobiar de admiração quando a Alice muda de roupa, mas isso é cheio de fracturas...."
+
+# game/scripts/story_01/blog.rpy:715 #-#-# translate crowdin ev_098_5e8063b3:
+msgid "[_Alice_s_15_] Макс! Ты офигел что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда за дверь, пока я тебя не позову... [nointeract]"
+msgstr "[Max! Estás doido?! Estás doido? Sai daqui antes que eu te chame. [nointeract]"
+
+# game/scripts/story_01/blog.rpy:719 #-#-# translate crowdin ev_098_95bb396d:
+msgid "[_tMax_s_16_] Какая она глазастая... Теперь мне лучше даже не пытаться подглядеть за ней, чтобы окончательно всё не испортить."
+msgstr "[_tMax_s_16_] Ela tem cá um olho... Agora é melhor nem sequer tentar espreitá-la, para não estragar tudo."
+
+# game/scripts/story_01/blog.rpy:720 #-#-# translate crowdin ev_098_349690fe:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Всё, Макс. Можешь заглянуть в комнату..."
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"É isso, Max. Podes olhar para o quarto..."
+
+# game/scripts/story_01/blog.rpy:721 #-#-# translate crowdin ev_098_592ee63c:
+msgid "[_Max_s_11_] А ты быстро!"
+msgstr "[És rápido!"
+
+# game/scripts/story_01/blog.rpy:726 #-#-# translate crowdin ev_098_0d263cd7:
+msgid "[_Alice_s_04_] Оно достаточно легко надевается. Что скажешь, хорошо же сидит? Хотя, по твоим оживлённым глазкам видно, что хорошо."
+msgstr "[É bastante fácil de vestir. O que achas, assenta bem, não é? Embora eu consiga ver pelos teus olhos vivos que sim."
+
+# game/scripts/story_01/blog.rpy:727 #-#-# translate crowdin ev_098_ba1bea0b:
+msgid "[_Max_s_03_] Ага, полный порядок! Ещё бы сзади посмотреть..."
+msgstr "[Sim, está tudo bem! Eu também gostava de ver a parte de trás..."
+
+# game/scripts/story_01/blog.rpy:728 #-#-# translate crowdin ev_098_d0934f57:
+msgid "[_Alice_s_11_] А то ты не видел! Не подглядывал бы за мной, сейчас смог бы оценить и сзади, а так, довольствуйся тем, что сейчас видишь."
+msgstr "[Não o viste! Se não estivesses a espreitar-me, poderias apreciá-lo por detrás, mas como é, contenta-te com o que vês agora."
+
+# game/scripts/story_01/blog.rpy:729 #-#-# translate crowdin ev_098_17d4a3a8:
+msgid "[_Max_s_04_] Мне всё нравится. Какие теперь планы?"
+msgstr "[Gosto de tudo. Quais são os teus planos agora?"
+
+# game/scripts/story_01/blog.rpy:732 #-#-# translate crowdin ev_098_6d45501a:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Всё, Макс. Можешь повернуться..."
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"É isso, Max. Podes dar a volta..."
+
+# game/scripts/story_01/blog.rpy:733 #-#-# translate crowdin ev_098_592ee63c_1:
+msgid "[_Max_s_11_] А ты быстро!"
+msgstr "[És rápido!"
+
+# game/scripts/story_01/blog.rpy:737 #-#-# translate crowdin ev_098_0d263cd7_1:
+msgid "[_Alice_s_04_] Оно достаточно легко надевается. Что скажешь, хорошо же сидит? Хотя, по твоим оживлённым глазкам видно, что хорошо."
+msgstr "[É bastante fácil de vestir. O que achas, assenta bem, não é? Embora eu consiga ver pelos teus olhos vivos que sim."
+
+# game/scripts/story_01/blog.rpy:738 #-#-# translate crowdin ev_098_ba1bea0b_1:
+msgid "[_Max_s_03_] Ага, полный порядок! Ещё бы сзади посмотреть..."
+msgstr "[Sim, está tudo bem! Eu também gostava de ver a parte de trás..."
+
+# game/scripts/story_01/blog.rpy:742 #-#-# translate crowdin ev_098_314b339e:
+msgid "[_Alice_s_03_] А то ты в тот раз не насмотрелся! Вот, любуйся, пока я добрая... Ты же всё-таки оплатил этот показ, так что порадую своего братика, правда, это звучит как-то грязновато."
+msgstr "[Não o viste dessa vez! Toma, aproveita enquanto estou a ser simpática... Afinal, pagaste por este espetáculo, por isso vou fazer o meu irmão feliz, mas parece um pouco sujo."
+
+# game/scripts/story_01/blog.rpy:743 #-#-# translate crowdin ev_098_17d4a3a8_1:
+msgid "[_Max_s_04_] Мне всё нравится. Какие теперь планы?"
+msgstr "[Gosto de tudo. Quais são os teus planos agora?"
+
+# game/scripts/story_01/blog.rpy:754 #-#-# translate crowdin ev_098_a93c314f:
+msgid "[_Alice_s_15_] Неужели?! Может, мою наивную сестрёнку и можно так развести, но вот со мной такой номер не пройдёт. А если будешь и дальше упрашивать, то вообще ничего не увидишь! Понял? [nointeract]"
+msgstr "[A sério?! Talvez a minha irmã ingénua possa ser enganada assim, mas eu não vou ser enganada assim. Se continuares a implorar-me, nunca verás nada! Percebeste? [nointeract]"
+
+# game/scripts/story_01/blog.rpy:759 #-#-# translate crowdin ev_098_2c25ff43:
+msgid "[_tMax_s_13_] Вообще-то, я бы с удовольствием посмотрел на то, как сестрёнка надевает это бельё, прежде чем попозирует для меня. Но лучше просто подожду..."
+msgstr "[Na verdade, gostava de ver a minha irmã a vestir aquela lingerie antes de posar para mim. Mas prefiro esperar..."
+
+# game/scripts/story_01/blog.rpy:760 #-#-# translate crowdin ev_098_349690fe_1:
+msgid "[_Alice_] {b}Алиса:{/b} \n"
+"Всё, Макс. Можешь заглянуть в комнату..."
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"É isso, Max. Podes olhar para o quarto..."
+
+# game/scripts/story_01/blog.rpy:761 #-#-# translate crowdin ev_098_592ee63c_2:
+msgid "[_Max_s_11_] А ты быстро!"
+msgstr "[És rápido!"
+
+# game/scripts/story_01/blog.rpy:765 #-#-# translate crowdin ev_098_0d263cd7_2:
+msgid "[_Alice_s_04_] Оно достаточно легко надевается. Что скажешь, хорошо же сидит? Хотя, по твоим оживлённым глазкам видно, что хорошо."
+msgstr "[É bastante fácil de vestir. O que achas, assenta bem, não é? Embora eu consiga ver pelos teus olhos vivos que sim."
+
+# game/scripts/story_01/blog.rpy:766 #-#-# translate crowdin ev_098_ba1bea0b_2:
+msgid "[_Max_s_03_] Ага, полный порядок! Ещё бы сзади посмотреть..."
+msgstr "[Sim, está tudo bem! Eu também gostava de ver a parte de trás..."
+
+# game/scripts/story_01/blog.rpy:770 #-#-# translate crowdin ev_098_314b339e_1:
+msgid "[_Alice_s_03_] А то ты в тот раз не насмотрелся! Вот, любуйся, пока я добрая... Ты же всё-таки оплатил этот показ, так что порадую своего братика, правда, это звучит как-то грязновато."
+msgstr "[Não o viste dessa vez! Toma, aproveita enquanto estou a ser simpática... Afinal, pagaste por este espetáculo, por isso vou fazer o meu irmão feliz, mas parece um pouco sujo."
+
+# game/scripts/story_01/blog.rpy:771 #-#-# translate crowdin ev_098_17d4a3a8_2:
+msgid "[_Max_s_04_] Мне всё нравится. Какие теперь планы?"
+msgstr "[Gosto de tudo. Quais são os teus planos agora?"
+
+# game/scripts/story_01/blog.rpy:778 #-#-# translate crowdin ev_098_end_40ecf2ac:
+msgid "[_Alice_s_02_] Бельё, чтобы покрасоваться перед зрителями теперь есть, а это значит надо будет создать себе страничку. Настроить её и попробовать провести трансляцию."
+msgstr "[A lingerie para se exibir em frente a um público está agora pronta, o que significa que precisa de criar uma página. Cria-a e tenta transmitir."
+
+# game/scripts/story_01/blog.rpy:779 #-#-# translate crowdin ev_098_end_f9819eb4:
+msgid "[_Max_s_02_] Зови, если нужно будет чем-то помочь."
+msgstr "[Telefona-me se precisares de ajuda."
+
+# game/scripts/story_01/blog.rpy:780 #-#-# translate crowdin ev_098_end_58a4034f:
+msgid "[_Alice_s_01_] Хорошо. И да, никому ни слова о том, что ты мне купил! Это будет нашим маленьким секретом, как и вся эта затея с трансляциями."
+msgstr "[Está bem. E sim, nem uma palavra a ninguém sobre o que me compraste! Vai ser o nosso pequeno segredo, tal como esta coisa da emissão."
+
+# game/scripts/story_01/blog.rpy:781 #-#-# translate crowdin ev_098_end_aa19f1cc:
+msgid "[_Max_s_01_] Конечно, сестрёнка."
+msgstr "[Claro que sim, mana."
+
 # §translate crowdin strings: #|#|# # game/scripts/story_01/blog.rpy:15
 msgid "{i}отвлечь Алису{/i}"
 msgstr ""
@@ -123,4 +1073,80 @@ msgstr ""
 # game/scripts/story_01/blog.rpy:67
 msgid "Открыто новое задание «Стримерша»!"
 msgstr ""
+
+# game/scripts/story_01/blog.rpy:112
+msgid "Так можно же делать что-то менее развратное..."
+msgstr "Pode fazer algo menos lascivo....."
+
+# game/scripts/story_01/blog.rpy:127
+msgid "Как знаешь, но лучше подумай над этим ещё..."
+msgstr "Como queiras, mas é melhor pensares mais um pouco....."
+
+# game/scripts/story_01/blog.rpy:208
+msgid "Навык «Убеждение» повышен до уровня 2!"
+msgstr "A habilidade Persuasão foi actualizada para o nível 2!"
+
+# game/scripts/story_01/blog.rpy:222
+msgid "{i}одеться и подождать Алису{/i}"
+msgstr ""
+
+# game/scripts/story_01/blog.rpy:234
+msgid "{i}идти в магазин одежды{/i}"
+msgstr ""
+
+# game/scripts/story_01/blog.rpy:259
+msgid "{i}подсмотреть за Алисой{/i}"
+msgstr "{i}para espiar a Alice."
+
+# game/scripts/story_01/blog.rpy:259
+msgid "{i}ждать{/i}"
+msgstr ""
+
+# game/scripts/story_01/blog.rpy:330
+msgid "Сейчас-то я не подглядываю. Попозируй для меня хоть немного!"
+msgstr "Não estou a espreitar agora. Faz uma pose para mim um bocadinho!"
+
+# game/scripts/story_01/blog.rpy:351
+msgid "{i}снова подсмотреть за Алисой{/i}"
+msgstr "{i}para espiar a Alice outra vez."
+
+# game/scripts/story_01/blog.rpy:380
+msgid "{i}снова ждать{/i}"
+msgstr "{i}esperar novamente{/i}"
+
+# game/scripts/story_01/blog.rpy:508
+msgid "{i}в очередной раз ждать{/i}"
+msgstr "{i}esperando mais uma vez{/i}"
+
+# game/scripts/story_01/blog.rpy:580
+msgid "Столько потратить я вполне могу..."
+msgstr "É muito para gastar...."
+
+# game/scripts/story_01/blog.rpy:580
+msgid "Это не страшно, но подкопить немного деньжат придётся..."
+msgstr "Não é nada de especial, mas terá de poupar algum dinheiro..."
+
+# game/scripts/story_01/blog.rpy:588
+msgid "{i}оплатить покупку и подождать Алису{/i}"
+msgstr "{i}pagar a compra e esperar pela Alice{/i}"
+
+# game/scripts/story_01/blog.rpy:607
+msgid "{i}вернуться на виллу{/i}"
+msgstr "{i}para regressar à villa{/i}"
+
+# game/scripts/story_01/blog.rpy:631
+msgid "{i}подождать Алису и вернуться на виллу{/i}"
+msgstr "{i}para esperar pela Alice e regressar à villa."
+
+# game/scripts/story_01/blog.rpy:675
+msgid "Не стану. Мы с Лизой всегда так делаем!"
+msgstr "Não vou fazer isso. A Lisa e eu estamos sempre a fazer isto!"
+
+# game/scripts/story_01/blog.rpy:688
+msgid "{i}не подглядывать{/i}"
+msgstr "{i}não espreitar{/i}"
+
+# game/scripts/story_01/blog.rpy:688
+msgid "{i}попробовать подглядеть{/i}"
+msgstr "{i}tentar espreitar{/i}"
 

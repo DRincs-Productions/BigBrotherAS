@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-15 15:44\n"
+"PO-Revision-Date: 2024-05-12 13:38\n"
 
-# TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/items.rpy:216
+# TODO: Translation updated at 2024-05-12 15:48 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/items.rpy:216
 msgid "Одежда"
 msgstr "Vêtements"
 
@@ -59,6 +59,66 @@ msgstr "Caméra cachée"
 # game/scripts/engine/items.rpy:227
 msgid "Высокотехнологичная микро-камера, предназначенная для скрытного наблюдения. Имеет радиомодуль для беспроводной передачи зашифрованного цифрового видеосигнала."
 msgstr "Micro-caméra de haute technologie conçue pour la surveillance discrète. Elle dispose d’un module radio pour la transmission sans fil d’un signal vidéo numérique crypté."
+
+# game/scripts/engine/items.rpy:227
+msgid "Стремянка"
+msgstr "Escabeau"
+
+# game/scripts/engine/items.rpy:227
+msgid "Небольшая стремянка, позволяющая достать то, для чего не хватает роста"
+msgstr "Un petit escabeau qui vous permet d’obtenir ce pour quoi vous n’avez pas assez de hauteur"
+
+# game/scripts/engine/items.rpy:227
+msgid "Масло для загара"
+msgstr "Huile de bronzage"
+
+# game/scripts/engine/items.rpy:227
+msgid "Лёгкий, хорошо впитывающийся препарат для ускорения загара обладает увлажняющими и защитными свойствами. Рекомендуется для применения на пляже и в солярии."
+msgstr "Booster de bronzage léger, bien absorbé, aux propriétés hydratantes et protectrices. Recommandé pour une utilisation sur la plage et dans le solarium."
+
+# game/scripts/engine/items.rpy:227
+msgid "Комплект тёмного нижнего белья"
+msgstr "Ensemble de sous-vêtements foncés"
+
+# game/scripts/engine/items.rpy:227
+msgid "Нижнее бельё тёмного цвета и отличного качества. Прекрасный подарок для любимой девушки, который предаст ей ещё больше сексуальности."
+msgstr "Lingerie de couleur foncée et d'excellente qualité. Un cadeau parfait pour votre fille préférée, qui la rendra encore plus sexy."
+
+# game/scripts/engine/items.rpy:227
+msgid "Шоколад \"Ritter Sport\" mini (9 штук)"
+msgstr "Chocolat 'Ritter Sport' mini (9 pièces)"
+
+# game/scripts/engine/items.rpy:227
+msgid "Шоколадное наслаждение для каждого случая... Множество лакомых сортов с лучшими ингредиентами со всего мира."
+msgstr "Un délice chocolaté pour toutes les occasions... Beaucoup de variétés savoureuses avec les meilleurs ingrédients du monde entier."
+
+# game/scripts/engine/items.rpy:227
+msgid "Шоколад \"Ritter Sport\" (4 штуки)"
+msgstr "Chocolat 'Ritter Sport' (4 pièces)"
+
+# game/scripts/engine/items.rpy:227
+msgid "Конфеты \"Raffaello\" (16 штук)"
+msgstr "Douceurs 'Raffaello' (16 pcs)"
+
+# game/scripts/engine/items.rpy:227
+msgid "Хрустящие кокосовые конфеты с цельным миндальным орехом. Вместо тысячи слов..."
+msgstr "Douceur croustillante à la noix de coco avec des amandes entières. Au lieu de mille mots..."
+
+# game/scripts/engine/items.rpy:227
+msgid "Конфеты \"Raffaello\" (24 штуки)"
+msgstr "Douceur 'Raffaello' (24 pièces)"
+
+# game/scripts/engine/items.rpy:227
+msgid "Конфеты \"Ferrero Rocher\" (16 штук)"
+msgstr "Chocolat 'Ferrero Rocher' (16 pièces)"
+
+# game/scripts/engine/items.rpy:227
+msgid "Сочетание цельного фундука и восхитительного сливочно-орехового крема в хрустящей вафельной оболочке подарит вам неповторимые вкусовые ощущения."
+msgstr "La combinaison de noisettes entières et de délicieuse crème chocolat aux noix dans une coquille de gaufre croustillante vous donnera une sensation gustative unique."
+
+# game/scripts/engine/items.rpy:227
+msgid "Конфеты \"Ferrero Rocher\" (24 штуки)"
+msgstr "Chocolat 'Ferrero Rocher' (24 pièces)"
 
 # game/scripts/engine/items.rpy:227
 msgid "Шёлковый халат"
@@ -133,14 +193,6 @@ msgid "Это история о доминировании и подчинени
 msgstr "C’est une histoire de domination et de soumission. L’histoire d’une belle fille nommée O."
 
 # game/scripts/engine/items.rpy:227
-msgid "Стремянка"
-msgstr "Escabeau"
-
-# game/scripts/engine/items.rpy:227
-msgid "Небольшая стремянка, позволяющая достать то, для чего не хватает роста"
-msgstr "Un petit escabeau qui vous permet d’obtenir ce pour quoi vous n’avez pas assez de hauteur"
-
-# game/scripts/engine/items.rpy:227
 msgid "Веб-стандарты"
 msgstr "Normes du web"
 
@@ -173,64 +225,12 @@ msgid "Небольшой набор косметики для повседне�
 msgstr "Un petit ensemble de cosmétiques pour un usage quotidien. Pour les femmes - seulement le meilleur..."
 
 # game/scripts/engine/items.rpy:227
-msgid "Шоколад \"Ritter Sport\" mini (9 штук)"
-msgstr "Chocolat 'Ritter Sport' mini (9 pièces)"
-
-# game/scripts/engine/items.rpy:227
-msgid "Шоколадное наслаждение для каждого случая... Множество лакомых сортов с лучшими ингредиентами со всего мира."
-msgstr "Un délice chocolaté pour toutes les occasions... Beaucoup de variétés savoureuses avec les meilleurs ingrédients du monde entier."
-
-# game/scripts/engine/items.rpy:227
-msgid "Шоколад \"Ritter Sport\" (4 штуки)"
-msgstr "Chocolat 'Ritter Sport' (4 pièces)"
-
-# game/scripts/engine/items.rpy:227
-msgid "Конфеты \"Raffaello\" (16 штук)"
-msgstr "Douceurs 'Raffaello' (16 pcs)"
-
-# game/scripts/engine/items.rpy:227
-msgid "Хрустящие кокосовые конфеты с цельным миндальным орехом. Вместо тысячи слов..."
-msgstr "Douceur croustillante à la noix de coco avec des amandes entières. Au lieu de mille mots..."
-
-# game/scripts/engine/items.rpy:227
-msgid "Конфеты \"Raffaello\" (24 штуки)"
-msgstr "Douceur 'Raffaello' (24 pièces)"
-
-# game/scripts/engine/items.rpy:227
-msgid "Конфеты \"Ferrero Rocher\" (16 штук)"
-msgstr "Chocolat 'Ferrero Rocher' (16 pièces)"
-
-# game/scripts/engine/items.rpy:227
-msgid "Сочетание цельного фундука и восхитительного сливочно-орехового крема в хрустящей вафельной оболочке подарит вам неповторимые вкусовые ощущения."
-msgstr "La combinaison de noisettes entières et de délicieuse crème chocolat aux noix dans une coquille de gaufre croustillante vous donnera une sensation gustative unique."
-
-# game/scripts/engine/items.rpy:227
-msgid "Конфеты \"Ferrero Rocher\" (24 штуки)"
-msgstr "Chocolat 'Ferrero Rocher' (24 pièces)"
-
-# game/scripts/engine/items.rpy:227
-msgid "Масло для загара"
-msgstr "Huile de bronzage"
-
-# game/scripts/engine/items.rpy:227
-msgid "Лёгкий, хорошо впитывающийся препарат для ускорения загара обладает увлажняющими и защитными свойствами. Рекомендуется для применения на пляже и в солярии."
-msgstr "Booster de bronzage léger, bien absorbé, aux propriétés hydratantes et protectrices. Recommandé pour une utilisation sur la plage et dans le solarium."
-
-# game/scripts/engine/items.rpy:227
 msgid "Конфеты с ликёром"
 msgstr "Bonbons à la liqueur"
 
 # game/scripts/engine/items.rpy:227
 msgid "Шоколадные конфеты с ликёром. Уникальные ароматизаторы скрывают вкус алкоголя. Отлично поднимают настроение. Очень крепкие."
 msgstr "Chocolats à la liqueur. Des saveurs uniques cachent le goût de l’alcool. Remonte parfaitement le moral. Très fort."
-
-# game/scripts/engine/items.rpy:227
-msgid "Комплект тёмного нижнего белья"
-msgstr "Ensemble de sous-vêtements foncés"
-
-# game/scripts/engine/items.rpy:227
-msgid "Отличное нижнее бельё тёмного цвета. Отличный подарок для любимой девушки."
-msgstr "Excellent sous-vêtements de couleur sombre. Un excellent cadeau pour votre petite amie."
 
 # game/scripts/engine/items.rpy:227
 msgid "Секс-образование"

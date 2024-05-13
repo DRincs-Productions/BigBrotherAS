@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Нужно завершить следующие задания: «Любопытное содержимое», «Способ заработать», «Арахнофобия», «Стоит ли рисковать?», «Маслице для загара», «При делах».\n"
+"Нужно завершить следующие задания:\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: big-brother-as\n"
 "X-Crowdin-Project-ID: 461654\n"
@@ -11,13 +11,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-25 18:50\n"
+"PO-Revision-Date: 2024-02-26 08:58\n"
 
-# TODO: Translation updated at 2024-01-09 23:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/notify.rpy:35
-msgid "Нужно завершить следующие задания: «Любопытное содержимое», «Способ заработать», «Арахнофобия», «Стоит ли рисковать?», «Маслице для загара», «При делах»."
-msgstr "Debe completar las siguientes tareas: \"Contenidos curiosos\", \"Una forma de ganar dinero\", \"Aracnofobia\", \"¿Vale la pena correr el riesgo?\", \"Aceite bronceador\", \"En negocios\"."
+# TODO: Translation updated at 2024-02-14 20:38 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/notify.rpy:36
+msgid "Нужно завершить следующие задания:"
+msgstr ""
 
-# game/scripts/screens/notify.rpy:39
+# game/scripts/screens/notify.rpy:51
 msgid "Ok"
 msgstr "Ok"
 

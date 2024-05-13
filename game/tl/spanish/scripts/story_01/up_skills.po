@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-25 18:50\n"
+"PO-Revision-Date: 2024-02-26 09:01\n"
 
-# TODO: Translation updated at 2024-01-24 03:02 #|#|# # game/scripts/story_01/up_skills.rpy:9 #-#-# translate crowdin ev_086_176058a9:
+# TODO: Translation updated at 2024-02-14 20:38 #|#|# # game/scripts/story_01/up_skills.rpy:9 #-#-# translate crowdin ev_086_176058a9:
 msgid "[_tMax_s_01_] Чем бы таким перед сном себя развлечь? Подглядеть что ли за мамой в ночнушке? Так классно с ней сегодня пообнимались, что все мысли заняты только её пышной грудью..."
 msgstr "[_tMax_s_01_] ¿Cómo puedo entretenerme antes de dormir? ¿Debería espiar a mi madre en camisón? Nos lo pasamos tan bien abrazándola hoy que todos los pensamientos están ocupados sólo con sus magníficos pechos..."
 
@@ -40,27 +40,27 @@ msgstr "[_tMax_s_04_] ¡Sí, vi mucho más de lo que pensaba! ¡Parece que estoy
 msgid "[_tMax_s_01_] Это значит, что теперь я смогу увидеть больше всякого интересного, да и шансов будет больше..."
 msgstr "[_tMax_s_01_] Esto significa que ahora podré ver cosas más interesantes y habrá más oportunidades..."
 
-# game/scripts/story_01/up_skills.rpy:53 #-#-# translate crowdin ev_086_1d5fcc08:
+# game/scripts/story_01/up_skills.rpy:54 #-#-# translate crowdin ev_086_1d5fcc08:
 msgid "[_tMax_s_13_] Нет, слишком опасно! Даже если повезёт и мама меня не увидит, то наверняка услышит. Может, в следующий раз, если таковой представится... [nointeract]"
 msgstr "[_tMax_s_13_] ¡No, demasiado peligroso! Incluso si tengo suerte y mi madre no me ve, probablemente me oirá. Quizás la próxima vez, si uno se presenta... [nointeract]"
 
-# game/scripts/story_01/up_skills.rpy:58 #-#-# translate crowdin ev_086_1d5fcc08_1:
+# game/scripts/story_01/up_skills.rpy:59 #-#-# translate crowdin ev_086_1d5fcc08_1:
 msgid "[_tMax_s_13_] Нет, слишком опасно! Даже если повезёт и мама меня не увидит, то наверняка услышит. Может, в следующий раз, если таковой представится... [nointeract]"
 msgstr "[_tMax_s_13_] ¡No, demasiado peligroso! Incluso si tengo suerte y mi madre no me ve, probablemente me oirá. Quizás la próxima vez, si uno se presenta... [nointeract]"
 
-# game/scripts/story_01/up_skills.rpy:65 #-#-# translate crowdin ev_086_1d5fcc08_2:
+# game/scripts/story_01/up_skills.rpy:66 #-#-# translate crowdin ev_086_1d5fcc08_2:
 msgid "[_tMax_s_13_] Нет, слишком опасно! Даже если повезёт и мама меня не увидит, то наверняка услышит. Может, в следующий раз, если таковой представится... [nointeract]"
 msgstr "[_tMax_s_13_] ¡No, demasiado peligroso! Incluso si tengo suerte y mi madre no me ve, probablemente me oirá. Quizás la próxima vez, si uno se presenta... [nointeract]"
 
-# game/scripts/story_01/up_skills.rpy:70 #-#-# translate crowdin ev_086_0d8f3da3:
+# game/scripts/story_01/up_skills.rpy:71 #-#-# translate crowdin ev_086_0d8f3da3:
 msgid "[_tMax_s_11_] Да уж, таким не каждый день можно любоваться, к сожалению! Знать бы ещё, что на неё так повлияло или же она это просто так, под настроение..."
 msgstr "[_tMax_s_11_] Sí, ¡desafortunadamente no todos los días puedes admirar algo como esto! También me gustaría saber qué la influyó tanto o si simplemente lo hizo por humor..."
 
-# game/scripts/story_01/up_skills.rpy:71 #-#-# translate crowdin ev_086_46168b84:
+# game/scripts/story_01/up_skills.rpy:72 #-#-# translate crowdin ev_086_46168b84:
 msgid "[_tMax_s_12_] Остаётся только заглядывать к ней почаще, чтобы ничего не пропустить."
 msgstr "[_tMax_s_12_] Sólo queda mirarla más seguido para no perdernos nada."
 
-# game/scripts/story_01/up_skills.rpy:72 #-#-# translate crowdin ev_086_bea58364:
+# game/scripts/story_01/up_skills.rpy:73 #-#-# translate crowdin ev_086_bea58364:
 msgid "[_tMax_s_13_] Если это снова повторится и я всё же смогу подкрасться к ней максимально близко, то после можно будет и в других местах за мамой попробовать подсмотреть."
 msgstr "[_tMax_s_13_] Si esto vuelve a suceder y aún puedo acercarme sigilosamente a ella lo más posible, entonces podré intentar espiar a mi madre en otros lugares."
 

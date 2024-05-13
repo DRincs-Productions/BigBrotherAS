@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-11-26 18:51\n"
+"PO-Revision-Date: 2024-04-18 10:22\n"
 
-# TODO: Translation updated at 2023-10-14 21:25 #|#|# # game/scripts/story_01/delivery.rpy:27 #-#-# translate crowdin ev_delivery_eb6a6385:
+# TODO: Translation updated at 2024-04-17 23:25 #|#|# # game/scripts/story_01/delivery.rpy:27 #-#-# translate crowdin ev_delivery_eb6a6385:
 msgid "[_tMax_s_11_] Звонок в ворота! Похоже, к нам кто-то приехал..."
 msgstr "[_tMax_s_11_] Kapı zili! Görünüşe göre birileri bizi görmeye gelmiş..."
 
@@ -20,11 +20,19 @@ msgstr "[_tMax_s_11_] Kapı zili! Görünüşe göre birileri bizi görmeye gelm
 msgid "[_tMax_s_03_] Отлично! Привезли то, что я заказывал. Это [txt]."
 msgstr "[_tMax_s_03_] Harika! Sipariş ettiğim şeyi getirdiler. Bu [txt]."
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/delivery.rpy:36
+# §translate crowdin strings: #|#|# # game/scripts/story_01/delivery.rpy:35
 msgid "Задание «Способ заработать» обновлено!"
 msgstr "\"Para kazanmanın bir yolu\" ödevi güncellendi!"
 
-# game/scripts/story_01/delivery.rpy:41
+# game/scripts/story_01/delivery.rpy:39
 msgid "Задание «Маслице для загара» обновлено!"
 msgstr "\"Bronzlaştırıcı yağ\" ataması güncellendi!"
+
+# game/scripts/story_01/delivery.rpy:42
+msgid "Задание «Стремянка» обновлено!"
+msgstr "\"Stepladder\" görevi güncellendi!"
+
+# game/scripts/story_01/delivery.rpy:44
+msgid "Задание «Приумножение заработка» обновлено!"
+msgstr "Kazanç çarpma ödevi güncellendi!"
 

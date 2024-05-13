@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2024-01-24 14:02\n"
+"PO-Revision-Date: 2024-05-12 13:38\n"
 
-# TODO: Translation updated at 2024-01-24 03:02 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/diary.rpy:24
+# TODO: Translation updated at 2024-05-12 15:48 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/diary.rpy:24
 msgid "Задания"
 msgstr ""
 
@@ -36,31 +36,31 @@ msgstr ""
 msgid "Сейчас здесь нет заданий"
 msgstr ""
 
-# game/scripts/screens/diary.rpy:183
+# game/scripts/screens/diary.rpy:185
 msgid "Завершите задание, чтобы получить награду..."
 msgstr ""
 
-# game/scripts/screens/diary.rpy:185
+# game/scripts/screens/diary.rpy:187
 msgid "Нужно приблизиться к завершению задания, чтобы узнать о награде..."
 msgstr ""
 
-# game/scripts/screens/diary.rpy:188
+# game/scripts/screens/diary.rpy:190
 msgid "НАГРАДА:"
 msgstr ""
 
-# game/scripts/screens/diary.rpy:331
+# game/scripts/screens/diary.rpy:337
 msgid "МОЯ СТАРШАЯ СЕСТРЁНКА"
 msgstr ""
 
-# game/scripts/screens/diary.rpy:339
+# game/scripts/screens/diary.rpy:345
 msgid "МОЯ МАМА"
 msgstr "Η ΜΑΜΑ ΜΟΥ"
 
-# game/scripts/screens/diary.rpy:345
+# game/scripts/screens/diary.rpy:352
 msgid "МОЯ МЛАДШАЯ СЕСТРЁНКА"
 msgstr ""
 
-# game/scripts/screens/diary.rpy:360
+# game/scripts/screens/diary.rpy:367
 msgid "НАШИ ВЗАИМООТНОШЕНИЯ:"
 msgstr ""
 

@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-01-19 12:56\n"
+"PO-Revision-Date: 2024-04-18 08:12\n"
 
-# TODO: Translation updated at 2024-01-09 23:01 #|#|# # game/scripts/story_01/smoke.rpy:11 #-#-# translate crowdin ev_025_7cf4d55a:
+# TODO: Translation updated at 2024-04-17 23:25 #|#|# # game/scripts/story_01/smoke.rpy:11 #-#-# translate crowdin ev_025_7cf4d55a:
 msgid "[_tMax_s_13_] Что это? Ну-ка, ну-ка... Вот чёрт! Алиса снова взялась курить травку! Это очень нехорошо... [nointeract]"
 msgstr "[_tMax_s_13_] Che cos'è? Bene, bene, bene... Oh, merda! Alice sta fumando di nuovo erba! Non va bene... [nointeract]"
 
@@ -320,131 +320,131 @@ msgstr "[_tMax_s_13_] Lo stress significa che è stressata... Ricordo che la mam
 msgid "[_tMax_s_01_] Ну, а травку она точно ещё будет покуривать. И вот когда я снова поймаю её за этим делом, то можно будет попробовать выпросить что-то намного интереснее денег..."
 msgstr "[_tMax_s_01_] Beh, sicuramente continuerà a fumare erba. E quando la beccherò di nuovo a farlo, potrò provare a chiederle qualcosa di molto più interessante dei soldi..."
 
-# game/scripts/story_01/smoke.rpy:282 #-#-# translate crowdin ev_028_2949475f:
+# game/scripts/story_01/smoke.rpy:283 #-#-# translate crowdin ev_028_2949475f:
 msgid "[_tMax_s_03_] А вот и голые сисечки Алисы загорают! Жаль их не видно... [nointeract]"
 msgstr "[_tMax_s_03_] Ecco le tette nude di Alice che prendono il sole! Peccato che non si possano toccare... [nointeract]"
 
-# game/scripts/story_01/smoke.rpy:292 #-#-# translate crowdin ev_028_4028a28b:
-msgid "[_Alice_s_14_] Чёрт побери, Макс! Напугал!"
-msgstr "[_Alice_s_14_] Dannazione, Max! Mi hai spaventata!"
+# game/scripts/story_01/smoke.rpy:294 #-#-# translate crowdin ev_028_fbde9dc6:
+msgid "[_Alice_s_14_] Чёрт побери, Макс! Напугал! {p=2}{nw}"
+msgstr "[_Alice_s_14_] Dannazione, Max! Mi hai spaventata! {p=2}{nw}"
 
-# game/scripts/story_01/smoke.rpy:298 #-#-# translate crowdin ev_028_ccc6a72c:
+# game/scripts/story_01/smoke.rpy:300 #-#-# translate crowdin ev_028_ccc6a72c:
 msgid "[_Alice_s_15_] И давно ты тут стоишь и пялишься на меня? [nointeract]"
 msgstr "[_Alice_s_15_] Da quanto tempo sei lì a fissarmi? [nointeract]"
 
-# game/scripts/story_01/smoke.rpy:307 #-#-# translate crowdin ev_028_0c744b95:
+# game/scripts/story_01/smoke.rpy:310 #-#-# translate crowdin ev_028_0c744b95:
 msgid "[_Alice_s_15_] Чёрт побери, Макс! Напугал! И давно ты тут стоишь и пялишься на меня? [nointeract]"
 msgstr "[_Alice_s_15_] Dannazione, Max! Mi hai spaventata! Da quanto tempo sei lì a fissarmi? [nointeract]"
 
-# game/scripts/story_01/smoke.rpy:311 #-#-# translate crowdin ev_028_e94cb0a9:
+# game/scripts/story_01/smoke.rpy:314 #-#-# translate crowdin ev_028_e94cb0a9:
 msgid "[_Alice_s_11_] Вот что хочу, то и беру! И что я тебе не советую делать, так это мешать мне. Всё, брысь отсюда! [nointeract]"
 msgstr "[_Alice_s_11_] Prenderò quello che voglio! E quello che non voglio che tu faccia è metterti sulla mia strada. Vattene da qui! [nointeract]"
 
-# game/scripts/story_01/smoke.rpy:316 #-#-# translate crowdin ev_028_48c819a4:
+# game/scripts/story_01/smoke.rpy:319 #-#-# translate crowdin ev_028_48c819a4:
 msgid "[_Alice_s_04_] Ах, вон оно что... Свою иди разглядывай в зеркале, а мне лучше не мешай. Хуже будет... [nointeract]"
 msgstr "[_Alice_s_04_] Ah, ecco cosa… Vai a guardarti allo specchio, e sarebbe meglio se non mi disturbassi. Sarà peggio… [nointeract]"
 
-# game/scripts/story_01/smoke.rpy:325 #-#-# translate crowdin ev_028_21e51b14:
+# game/scripts/story_01/smoke.rpy:329 #-#-# translate crowdin ev_028_21e51b14:
 msgid "[_Alice_s_15_] Блин, Макс, напугал! Поглазеть что ли пришёл, извращенец мелкий? [nointeract]"
 msgstr "[_Alice_s_15_] Merda, Max, mi hai spaventata! Sei venuto a guardare, piccolo pervertito? [nointeract]"
 
-# game/scripts/story_01/smoke.rpy:332 #-#-# translate crowdin ev_028_a96fabcd:
+# game/scripts/story_01/smoke.rpy:336 #-#-# translate crowdin ev_028_a96fabcd:
 msgid "[_Alice_s_02_] Спасибо, нет! Я и так наслышана, чем ты там нашу маленькую сестрёнку пугаешь по утрам. Просто иди, куда шёл... [nointeract]"
 msgstr "[_Alice_s_02_] Grazie, no! Ho sentito abbastanza di come spaventi la nostra sorellina al mattino. Vai dove devi andare... [nointeract]"
 
-# game/scripts/story_01/smoke.rpy:339 #-#-# translate crowdin ev_028_3e6195d5:
+# game/scripts/story_01/smoke.rpy:343 #-#-# translate crowdin ev_028_3e6195d5:
 msgid "[_Alice_s_16_] Ты дурак что ли, Макс?! Как ляпнешь что-нибудь... Или ты из этих... которые любят ходить и всем свой стручок показывать? Проваливай давай... [nointeract]"
 msgstr "[_Alice_s_16_] Sei stupido, Max? Dimmi qualcosa... O sei uno di quelli... Che ama andare in giro e mostrare a tutti il suo baccello? Vattene da qui... [nointeract]"
 
-# game/scripts/story_01/smoke.rpy:348 #-#-# translate crowdin ev_028_f6c74fd5:
+# game/scripts/story_01/smoke.rpy:352 #-#-# translate crowdin ev_028_f6c74fd5:
 msgid "[_Alice_s_01_] Да что ты говоришь... В каком несправедливом мире мы живём. Не дают на сиськи смотреть бедному нашему Максу и всё. Гуляй, несчастный... [nointeract]"
 msgstr "[_Alice_s_01_] Cosa stai dicendo... In che mondo ingiusto viviamo. Non permettono al povero Max di guardare le tette, tutto qui. Fatti un giro, miserabile... [nointeract]"
 
-# game/scripts/story_01/smoke.rpy:355 #-#-# translate crowdin ev_028_7c8206a2:
+# game/scripts/story_01/smoke.rpy:359 #-#-# translate crowdin ev_028_7c8206a2:
 msgid "[_Alice_s_15_] Вот я ещё сиськи напоказ здесь не выставляла для тебя! Шуруй отсюда, пока я ещё более-менее добрая... [nointeract]"
 msgstr "[_Alice_s_15_] Non ho ancora mostrato le mie tette qui per te! Vattene da qui finché sono ancora più o meno gentile... [nointeract]"
 
-# game/scripts/story_01/smoke.rpy:371 #-#-# translate crowdin ev_060_f53b1584:
+# game/scripts/story_01/smoke.rpy:375 #-#-# translate crowdin ev_060_f53b1584:
 msgid "[_Alice_s_02_] Эй, Макс... Спасибо, что спас меня от наказания... Я это ценю."
 msgstr "[_Alice_s_02_] Ciao, Max. Grazie per avermi salvato dalla punizione. Lo apprezzo molto."
 
-# game/scripts/story_01/smoke.rpy:372 #-#-# translate crowdin ev_060_723a5737:
+# game/scripts/story_01/smoke.rpy:376 #-#-# translate crowdin ev_060_723a5737:
 msgid "[_Max_s_01_] Обращайся, Алиса. Но мы с тобой договаривались о кое-чём особенном для меня..."
 msgstr "[_Max_s_01_] Non c'è di che, Alice. Ma io e te abbiamo concordato qualcosa di speciale per me..."
 
-# game/scripts/story_01/smoke.rpy:377 #-#-# translate crowdin ev_060_ed270007:
+# game/scripts/story_01/smoke.rpy:381 #-#-# translate crowdin ev_060_ed270007:
 msgid "[_Alice_s_11_] Что тут сказать... К сожалению, я на такое согласилась. Ну, и... Что ты хочешь? [nointeract]"
 msgstr "[_Alice_s_11_] Cosa posso dire? Purtroppo è quello che ho accettato. Quindi... Cosa vuoi? [nointeract]"
 
-# game/scripts/story_01/smoke.rpy:385 #-#-# translate crowdin ev_060_b869972f:
+# game/scripts/story_01/smoke.rpy:389 #-#-# translate crowdin ev_060_b869972f:
 msgid "[_Alice_s_15_] Макс! Ты невыносим. Я уже подумала, что ты нормальный брат, но как видно зря..."
 msgstr "[_Alice_s_15_] Max! Sei insopportabile. Pensavo fossi un fratello normale, ma credo che non lo sia..."
 
-# game/scripts/story_01/smoke.rpy:386 #-#-# translate crowdin ev_060_1cd98888:
+# game/scripts/story_01/smoke.rpy:390 #-#-# translate crowdin ev_060_1cd98888:
 msgid "[_Max_s_14_] Да я пошутил!"
 msgstr "[_Max_s_14_] Stavo scherzando!"
 
-# game/scripts/story_01/smoke.rpy:387 #-#-# translate crowdin ev_060_dc28839e:
+# game/scripts/story_01/smoke.rpy:391 #-#-# translate crowdin ev_060_dc28839e:
 msgid "[_Alice_s_11_] Шутник, блин... В общем, я сейчас чисто из благодарности за спасение представлю, что не слышала этой твоей просьбы. И спрошу в последний раз... Что ты хочешь?"
 msgstr "[_Alice_s_11_] Sei un fottuto idiota. Comunque, per gratitudine per avermi salvato, farò finta di non averti sentito. E te lo chiederò un'ultima volta. Che cosa vuoi?"
 
-# game/scripts/story_01/smoke.rpy:388 #-#-# translate crowdin ev_060_d7129a5a:
+# game/scripts/story_01/smoke.rpy:392 #-#-# translate crowdin ev_060_d7129a5a:
 msgid "[_Max_s_12_] Эээ... Раз так, то хотя бы перестань носить трусики..."
 msgstr "[_Max_s_12_] Ehm... Se è così, almeno smetti di indossare le mutandine..."
 
-# game/scripts/story_01/smoke.rpy:389 #-#-# translate crowdin ev_060_34545854:
+# game/scripts/story_01/smoke.rpy:393 #-#-# translate crowdin ev_060_34545854:
 msgid "[_Alice_s_04_] Хм... Это... пожалуй, приемлемо. Я согласна. Если я снова стану курить травку и ты это заметишь, то буду ходить без трусиков и виноватая."
 msgstr "[_Alice_s_04_] Hmm. È... Credo che sia accettabile. Lo farò. Se ricomincio a fumare erba e te ne accorgi, andrò in giro senza mutandine e mi sentirò in colpa."
 
-# game/scripts/story_01/smoke.rpy:390 #-#-# translate crowdin ev_060_a1a14eb0:
+# game/scripts/story_01/smoke.rpy:394 #-#-# translate crowdin ev_060_a1a14eb0:
 msgid "[_Max_s_13_] Эй! А я думал уже сейчас начнёшь?"
 msgstr "[_Max_s_13_] Ehi! Credevo che a quest'ora avresti già iniziato?"
 
-# game/scripts/story_01/smoke.rpy:393 #-#-# translate crowdin ev_060_1f730573:
+# game/scripts/story_01/smoke.rpy:397 #-#-# translate crowdin ev_060_1f730573:
 msgid "[_Alice_s_16_] Я же тогда вечером тебя предупредила, чтобы ты был осторожнее с желаниями, помнишь? А ты сразу «дай сиськи потрогать, я озабоченный»! В следующий раз будешь думать, что несёшь..."
 msgstr "[_Alice_s_16_] L'altra sera ti avevo avvertito di stare attento a ciò che desideri, ricordi? E tu mi dici: \"Fammi toccare le tette, sono arrapato\"! La prossima volta fai attenzione a quello che dici..."
 
-# game/scripts/story_01/smoke.rpy:395 #-#-# translate crowdin ev_060_15b71227:
+# game/scripts/story_01/smoke.rpy:399 #-#-# translate crowdin ev_060_15b71227:
 msgid "[_Alice_s_16_] Я же тогда вечером тебя предупредила, чтобы ты был осторожнее с желаниями, помнишь? А ты сразу «поласкай себя, я озабоченный»! В следующий раз будешь думать, что несёшь..."
 msgstr "[_Alice_s_16_] L'altra sera ti avevo avvertito di stare attento a ciò che desideri, ricordi? E tu dici: \"Accarezzati, sono arrapato\"! La prossima volta penserai due volte a quello che dici..."
 
-# game/scripts/story_01/smoke.rpy:397 #-#-# translate crowdin ev_060_0515c06b:
+# game/scripts/story_01/smoke.rpy:401 #-#-# translate crowdin ev_060_0515c06b:
 msgid "[_Max_s_17_] Блин! А сейчас покурить не хочешь?"
 msgstr "[_Max_s_17_] Merda! Vuoi fumare adesso?"
 
-# game/scripts/story_01/smoke.rpy:398 #-#-# translate crowdin ev_060_1964aedc:
+# game/scripts/story_01/smoke.rpy:402 #-#-# translate crowdin ev_060_1964aedc:
 msgid "[_Alice_s_14_] Ты что, сдурел?! Мама дома. Я может со злости и напакостила вчера, но пока мне больше не хочется."
 msgstr "[_Alice_s_14_] Ma sei impazzito?! Mamma è a casa. Forse ieri sera ero arrabbiata, ma non ne ho voglia."
 
-# game/scripts/story_01/smoke.rpy:399 #-#-# translate crowdin ev_060_a960b890:
+# game/scripts/story_01/smoke.rpy:403 #-#-# translate crowdin ev_060_a960b890:
 msgid "[_Max_s_16_] Жалко. Но я тебя понял."
 msgstr "[_Max_s_16_] È un peccato. Ma ti capisco."
 
-# game/scripts/story_01/smoke.rpy:400 #-#-# translate crowdin ev_060_dcfce15d:
+# game/scripts/story_01/smoke.rpy:404 #-#-# translate crowdin ev_060_dcfce15d:
 msgid "[_Alice_s_04_] О чудо, Макс что-то понял! Ладно, я просто веселюсь, не обижайся. Хорошего дня, Макс."
 msgstr "[_Alice_s_04_] Oh, mio Dio, Max ha capito qualcosa! Ok, mi sto solo divertendo, senza offesa. Buona giornata, Max."
 
-# game/scripts/story_01/smoke.rpy:404 #-#-# translate crowdin ev_060_5409a3b8:
+# game/scripts/story_01/smoke.rpy:408 #-#-# translate crowdin ev_060_5409a3b8:
 msgid "[_tMax_s_13_] Мне обязательно нужно будет поймать эту вертихвостку за курением травки! И вот тогда она у меня как миленькая будет без трусиков жить..."
 msgstr "[_tMax_s_13_] Dovrò beccare quella bella gnocca a fumare erba! E poi la farò vivere in mutande come una ragazzina..."
 
-# game/scripts/story_01/smoke.rpy:405 #-#-# translate crowdin ev_060_2daeee0f:
+# game/scripts/story_01/smoke.rpy:409 #-#-# translate crowdin ev_060_2daeee0f:
 msgid "[_tMax_s_04_] И за этим я с удовольствием понаблюдаю. Да и помимо этого мне есть, что попросить. Главное поймать и уговорить..."
 msgstr "[_tMax_s_04_] E questo è qualcosa che mi piacerebbe vedere. E oltre a questo, ho molto da chiedere. Si tratta solo di catturarla e di convincerla..."
 
-# game/scripts/story_01/smoke.rpy:419 #-#-# translate crowdin ev_061_e661db54:
+# game/scripts/story_01/smoke.rpy:423 #-#-# translate crowdin ev_061_e661db54:
 msgid "[_Alice_s_16_] Ты, Макс, сволочь! Вообще никак не попытался меня оправдать, а ведь обещал!"
 msgstr "[_Alice_s_16_] Tu, Max, bastardo! Non hai cercato di giustificarmi affatto, e l'avevi promesso!"
 
-# game/scripts/story_01/smoke.rpy:420 #-#-# translate crowdin ev_061_bb6a9d54:
+# game/scripts/story_01/smoke.rpy:424 #-#-# translate crowdin ev_061_bb6a9d54:
 msgid "[_Max_s_12_] Я пытался! Прямо перед тем, как ты пришла. Просто мама не поверила..."
 msgstr "[_Max_s_12_] Ci ho provato! Proprio prima che tu arrivassi. Mamma non ci credeva..."
 
-# game/scripts/story_01/smoke.rpy:421 #-#-# translate crowdin ev_061_a094bd04:
+# game/scripts/story_01/smoke.rpy:425 #-#-# translate crowdin ev_061_a094bd04:
 msgid "[_Alice_s_15_] Иди ты нафиг! Помощничек, блин, нашёлся!"
 msgstr "[_Alice_s_15_] Fanculo a te! Sei un maledetto aiutante!"
 
-# game/scripts/story_01/smoke.rpy:422 #-#-# translate crowdin ev_061_55ac670d:
+# game/scripts/story_01/smoke.rpy:426 #-#-# translate crowdin ev_061_55ac670d:
 msgid "[_Max_s_16_] Извини. Так уж получилось."
 msgstr "[_Max_s_16_] Mi dispiace. È così e basta."
 
@@ -504,31 +504,31 @@ msgstr "Continua ad andare in giro senza mutandine e io rimarrò in silenzio..."
 msgid "Задание «Вредная привычка Алисы» обновлено!"
 msgstr "La missione «La cattiva abitudine di Alice» è stata aggiornata!"
 
-# game/scripts/story_01/smoke.rpy:281
+# game/scripts/story_01/smoke.rpy:282
 msgid "{i}подкрасться{/i}"
 msgstr "{i}sgattaiolare{/i}"
 
-# game/scripts/story_01/smoke.rpy:308
+# game/scripts/story_01/smoke.rpy:311
 msgid "Я же должен знать, что ты тут в рот берёшь..."
 msgstr "Dovrei sapere cosa stai mettendo in bocca..."
 
-# game/scripts/story_01/smoke.rpy:308
+# game/scripts/story_01/smoke.rpy:311
 msgid "Нельзя просто взять и пройти мимо такой попки!"
 msgstr "Non si può passare davanti a un sedere così!"
 
-# game/scripts/story_01/smoke.rpy:324
+# game/scripts/story_01/smoke.rpy:328
 msgid "Я {b}БОЛЬШОЙ{/b} извращенец! Показать?"
 msgstr "Io {b}sono un grande{/b} pervertito! Te lo faccio vedere?"
 
-# game/scripts/story_01/smoke.rpy:324
+# game/scripts/story_01/smoke.rpy:328
 msgid "Нельзя прикрываться! Так нечестно!"
 msgstr "Non puoi coprirti! Non è giusto!"
 
-# game/scripts/story_01/smoke.rpy:376
+# game/scripts/story_01/smoke.rpy:380
 msgid "Дай потрогать твои сиськи..."
 msgstr "Fammi toccare le tette..."
 
-# game/scripts/story_01/smoke.rpy:376
+# game/scripts/story_01/smoke.rpy:380
 msgid "Хочу посмотреть, как ты ласкаешь себя..."
 msgstr "Voglio guardarti mentre ti accarezzi..."
 
