@@ -1,12 +1,12 @@
-# TODO: Translation updated at 2024-01-09 23:01
+# TODO: Translation updated at 2024-02-14 20:38
 
 translate italian strings:
 
-    # game/scripts/screens/notify.rpy:35
-    old "Нужно завершить следующие задания: «Любопытное содержимое», «Способ заработать», «Арахнофобия», «Стоит ли рисковать?», «Маслице для загара», «При делах»."
-    new "È necessario completare i seguenti compiti: «Contenuto curioso», «Un modo per fare soldi», «Aracnofobia», «Vale la pena rischiare?», «Olio abbronzante» e «Fare affari»."
+    # game/scripts/screens/notify.rpy:36
+    old "Нужно завершить следующие задания:"
+    new "Bisogna completare i seguenti compiti:"
 
-    # game/scripts/screens/notify.rpy:39
+    # game/scripts/screens/notify.rpy:51
     old "Ok"
     new "Ok"
 

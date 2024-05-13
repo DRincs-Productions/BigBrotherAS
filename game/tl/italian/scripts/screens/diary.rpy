@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-01-24 03:02
+# TODO: Translation updated at 2024-05-12 15:48
 
 translate italian strings:
 
@@ -26,31 +26,31 @@ translate italian strings:
     old "Сейчас здесь нет заданий"
     new "Al momento non ci sono missioni da svolgere"
 
-    # game/scripts/screens/diary.rpy:183
+    # game/scripts/screens/diary.rpy:185
     old "Завершите задание, чтобы получить награду..."
     new "Completa la missione per ricevere la tua ricompensa..."
 
-    # game/scripts/screens/diary.rpy:185
+    # game/scripts/screens/diary.rpy:187
     old "Нужно приблизиться к завершению задания, чтобы узнать о награде..."
     new "È necessario avvicinarsi al completamento della missione per scoprire la ricompensa..."
 
-    # game/scripts/screens/diary.rpy:188
+    # game/scripts/screens/diary.rpy:190
     old "НАГРАДА:"
     new "RICOMPENSA:"
 
-    # game/scripts/screens/diary.rpy:331
+    # game/scripts/screens/diary.rpy:337
     old "МОЯ СТАРШАЯ СЕСТРЁНКА"
     new "MIA SORELLA MAGGIORE"
 
-    # game/scripts/screens/diary.rpy:339
+    # game/scripts/screens/diary.rpy:345
     old "МОЯ МАМА"
     new "MIA MAMMA"
 
-    # game/scripts/screens/diary.rpy:345
+    # game/scripts/screens/diary.rpy:352
     old "МОЯ МЛАДШАЯ СЕСТРЁНКА"
     new "LA MIA SORELLINA"
 
-    # game/scripts/screens/diary.rpy:360
+    # game/scripts/screens/diary.rpy:367
     old "НАШИ ВЗАИМООТНОШЕНИЯ:"
     new "LA NOSTRA RELAZIONE:"
 

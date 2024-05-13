@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-04-17 23:25
 
 # game/scripts/story_01/hidden_cams.rpy:12
 translate italian ev_003_089bb89e:
@@ -96,6 +96,66 @@ translate italian ev_030_b6914fd6:
     # tMax 13 "И я знаю, в первую очередь, куда! Что меня сильно расстраивает, так это то, что мама занимается йогой в то же время, что и Лиза принимает душ. Подглядывать в это время за моей младшей сестрёнкой вдвойне опасно. Вот туда-то я и поставлю скрытую камеру!"
     tMax 13 "E so, prima di tutto, dove! Quello che mi turba molto è che la mamma fa yoga nello stesso momento in cui Lisa fa la doccia. Sbirciare la mia sorellina in questo momento è doppiamente pericoloso. È lì che metterò la telecamera nascosta!"
 
+# game/scripts/story_01/hidden_cams.rpy:88
+translate italian ev_030_71d509bc:
+
+    # tMax 16 "Правда, если придётся устанавливать камеру под потолок, как это сделано в гостиной, то мне понадобится ещё и стремянка. Ох, придётся подкопить немало деньжат..."
+    tMax 16 "È vero, se dovrò installare la telecamera sotto il soffitto, come è fatto nel soggiorno, mi servirà anche una scala. Oh, dovrò risparmiare un bel po’ di soldi..."
+
+# game/scripts/story_01/hidden_cams.rpy:122
+translate italian ev_install_cam_not_time_de1b0ce2:
+
+    # tMax 13 "Сейчас не лучшее время, чтобы устанавливать скрытую камеру!"
+    tMax 13 "Non è un buon momento per installare una telecamera nascosta!"
+
+# game/scripts/story_01/hidden_cams.rpy:126
+translate italian ev_install_cam_many_people_28c0be59:
+
+    # tMax 13 "Сейчас не лучшее время, чтобы устанавливать скрытую камеру! В доме слишком много народа..."
+    tMax 13 "Non è un buon momento per installare una telecamera nascosta! Ci sono troppe persone in casa..."
+
+# game/scripts/story_01/hidden_cams.rpy:135
+translate italian ev_install_cam_bathroom_1_b838c286:
+
+    # tMax 12 "Сейчас постараюсь спрятать эту камеру как можно лучше, пока Алиса не спустилась во двор. Вроде, получается..."
+    tMax 12 "Adesso cercherò di nascondere questa telecamera nel miglior modo possibile, finché Alice non scende nel cortile. Sembra che stia funzionando..."
+
+# game/scripts/story_01/hidden_cams.rpy:137
+translate italian ev_install_cam_bathroom_1_e68feba9:
+
+    # tMax 12 "Сейчас постараюсь спрятать эту камеру как можно лучше, пока дома никого нет. Вроде, получается..."
+    tMax 12 "Adesso cercherò di nascondere questa telecamera nel miglior modo possibile, finché non c'è nessuno in casa. Sembra che stia funzionando..."
+
+# game/scripts/story_01/hidden_cams.rpy:138
+translate italian ev_install_cam_bathroom_1_5aac82a5:
+
+    # tMax 03 "В кадр как раз будет попадать то, что происходит в душе и ванне, да и мне не обязательно будет теперь рисковать, чтобы увидеть голеньких и мокрых сестёр или маму. Готово!"
+    tMax 03 "L'inquadratura catturerà quasi tutto ciò che accade nella doccia e nella vasca da bagno, e ora non dovrò correre rischi per vedere le mie sorelle o mia madre nude e bagnate. Fatto!"
+
+# game/scripts/story_01/hidden_cams.rpy:143
+translate italian ev_install_cam_bathroom_1_71ff42cb:
+
+    # tMax 11 "Конечно, с точки зрения морали ставить камеру в ванной комнате сомнительно. Однако, тут и так окно во всю стену. Так что, формально я лишь приоткрыл это окно..." nointeract
+    tMax 11 "Certo, dal punto di vista morale, mettere una telecamera nel bagno è discutibile. Tuttavia, c'è già una finestra che copre l'intera parete. Quindi, formalmente, ho solo aperto un po' questa finestra..." nointeract
+
+# game/scripts/story_01/hidden_cams.rpy:148
+translate italian ev_install_cam_bathroom_1_d1974012:
+
+    # tMax 12 "Ещё надо подключить эту камеру и разобраться во всех настройках. Сложного тут ничего нет, но немного повозиться придётся..."
+    tMax 12 "Devo ancora collegare questa telecamera e capire tutte le impostazioni. Non c'è nulla di complicato, ma dovrei smanettare un po'..."
+
+# game/scripts/story_01/hidden_cams.rpy:152
+translate italian ev_install_cam_bathroom_1_6d1a29c9:
+
+    # tMax 04 "Вот всё и заработало! Теперь, благодаря камере в ванной комнате, мой сайт должен приносить побольше дохода, чем было. Да и на мокрые сисечки всегда приятно посмотреть, теперь ещё и с комфортом."
+    tMax 04 "È tutto funzionante! Ora, grazie alla telecamera del bagno, il mio sito dovrebbe avere più entrate rispetto a prima. Ed è sempre bello guardare le tette bagnate, ora con comodità."
+
+# game/scripts/story_01/hidden_cams.rpy:153
+translate italian ev_install_cam_bathroom_1_7c9e4204:
+
+    # tMax 13 "Правда, подглядывать в окна или заглядывать в комнаты всё равно временами нужно, а то я всю сноровку растеряю и меня станут ловить на раз-два..."
+    tMax 13 "È vero, a volte bisogna comunque sbirciare dalle finestre o guardare nelle stanze, altrimenti perderò tutta la mia abilità e mi prenderanno in un attimo..."
+
 translate italian strings:
 
     # game/scripts/story_01/hidden_cams.rpy:28
@@ -122,11 +182,15 @@ translate italian strings:
     old "{i}настроить работу сайта{/i}"
     new "{i}avviare il sito{/i}"
 
-    # game/scripts/story_01/hidden_cams.rpy:90
+    # game/scripts/story_01/hidden_cams.rpy:91
     old "Задание «Способ заработать» завершено!"
     new "Il compito \"Un modo per fare soldi\" è terminato!"
 
-    # game/scripts/story_01/hidden_cams.rpy:91
+    # game/scripts/story_01/hidden_cams.rpy:92
     old "Открыто новое задание «Приумножение заработка»!"
     new "È aperto un nuovo incarico \"Aumenta i tuoi guadagni\"!"
+
+    # game/scripts/story_01/hidden_cams.rpy:142
+    old "{i}пойти настроить камеру{/i}"
+    new "{i}andare a configurare la telecamera{/i}"
 

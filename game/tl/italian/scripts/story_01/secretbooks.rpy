@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-04-17 23:25
 
 # game/scripts/story_01/secretbooks.rpy:7
 translate italian ev_013_2ca4e9e8:
@@ -84,25 +84,25 @@ translate italian ev_014_search_start_198bdcdf:
     # tMax 02 "Вот же она! И зачем её так прятать? Любопытная обложка. Запомню-ка я название. Интересно, о чём эта книга? Может быть, погуглить? Так, всё, надо уходить..."
     tMax 02 "Ma eccolo! Perché nasconderlo in questo modo? È una copertina curiosa. Mi ricorderò il titolo. Mi chiedo di cosa si tratti. Forse dovrei cercarlo su Google. Va bene, devo andare..."
 
-# game/scripts/story_01/secretbooks.rpy:66
+# game/scripts/story_01/secretbooks.rpy:65
 translate italian ev_014_search_start_30b1268d:
 
     # tMax 13 "Может быть, её здесь нет? Или попытаться ещё поискать, на свой страх и риск? Но, вроде, пусто..."
     tMax 13 "Forse non è qui? Provo a fare un'altra ricerca, a proprio rischio e pericolo? Ma sembra essere vuoto..."
 
-# game/scripts/story_01/secretbooks.rpy:78
+# game/scripts/story_01/secretbooks.rpy:77
 translate italian ev_015_223c63a9:
 
     # tMax 13 "Так... Сейчас погуглим. Как там она называлась? \"Сладкие папики\"... Любовный роман? И что в нём такого может быть? Сейчас почитаю обзор..."
     tMax 13 "Quindi... Cerchiamo su Google. Come si chiamava? \"Sugar Daddy\"... Un romanzo d'amore? Cosa potrebbe essere? Fammi leggere la recensione..."
 
-# game/scripts/story_01/secretbooks.rpy:79
+# game/scripts/story_01/secretbooks.rpy:78
 translate italian ev_015_83a9bef0:
 
     # tMax 11 "Ого! Да это не простой любовный роман... Это же эротика. Да ещё какая! Теперь понятно, почему Алиса не хотела рассказывать, что читает..."
     tMax 11 "Wow! Questa non è una semplice storia d'amore... Questo è erotismo. E lo è! Capisco perché Alice non voleva dirmi cosa stava leggendo..."
 
-# game/scripts/story_01/secretbooks.rpy:80
+# game/scripts/story_01/secretbooks.rpy:79
 translate italian ev_015_d49245e3:
 
     # tMax 01 "Видимо, моей сестрёнке нравятся любовные романы с эротическими оттенками, так сказать. Может быть, стоит ей подарить подобную книгу и посмотреть на её реакцию?"

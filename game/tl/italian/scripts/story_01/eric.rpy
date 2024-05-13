@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-04-17 23:25
 
 # game/scripts/story_01/eric.rpy:10
 translate italian ev_055_e6d21536:
@@ -408,37 +408,37 @@ translate italian ev_056_dont_meet_cd25b863:
     # tMax 11 "Мама там во всю уже должна переодеваться... Если не тормозить, то можно увидеть её без нижнего белья. Рискнуть или нет?" nointeract
     tMax 11 "La mamma dovrebbe già essersi vestita... Se non rallento, potrei vederla senza biancheria intima. Devo rischiare o no?[nointeract]"
 
-# game/scripts/story_01/eric.rpy:185
+# game/scripts/story_01/eric.rpy:186
 translate italian ev_056_dont_meet_7de786c8:
 
     # tMax 05 "Обалденно! Как же повезло, что у меня такая горячая мама... Почти голой она выглядит потрясающе, аж глаза отрывать не хочется! Но лучше потихоньку уходить, пока она меня не заметила..." nointeract
     tMax 05 "Fantastico! Come sono fortunato ad avere una mamma così sexy... Quasi nuda, è fantastica, non riesco a distogliere lo sguardo da lei! Ma è meglio che vada prima che si accorga di me..." nointeract
 
-# game/scripts/story_01/eric.rpy:195
+# game/scripts/story_01/eric.rpy:198
 translate italian ev_056_dont_meet_4375512d:
 
     # Ann 13 "Макс! Я же учила тебя стучаться! {p=2}{nw}"
     Ann 13 "Max! Ti ho insegnato a bussare! {p=2}{nw}"
 
-# game/scripts/story_01/eric.rpy:200
+# game/scripts/story_01/eric.rpy:203
 translate italian ev_056_dont_meet_1d5fe807:
 
     # Ann 14 "Нельзя вот так без предупреждения врываться в комнату! Ты почему не спишь?"
     Ann 14 "Non puoi irrompere nella stanza senza preavviso in questo modo! Cosa ci fai in piedi?"
 
-# game/scripts/story_01/eric.rpy:201
+# game/scripts/story_01/eric.rpy:204
 translate italian ev_056_dont_meet_1e8bb066:
 
     # Max 12 "Извини! Хотел узнать, всё ли в порядке?"
     Max 12 "Mi dispiace! Volevo sapere se era tutto a posto?"
 
-# game/scripts/story_01/eric.rpy:202
+# game/scripts/story_01/eric.rpy:205
 translate italian ev_056_dont_meet_f92e7b76:
 
     # Ann 11 "Сынок, я устала. Утром за завтраком обязательно всё расскажу. Беги спать."
     Ann 11 "Figliolo, sono stanca. Ti racconterò tutto domattina a colazione. Torna a dormire."
 
-# game/scripts/story_01/eric.rpy:204
+# game/scripts/story_01/eric.rpy:207
 translate italian ev_056_dont_meet_b3fa4a4b:
 
     # Max 00 "Понял. Доброй ночи, мам." nointeract

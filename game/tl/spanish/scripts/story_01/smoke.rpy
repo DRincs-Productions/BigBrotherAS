@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-01-09 23:01
+# TODO: Translation updated at 2024-04-17 23:25
 
 # game/scripts/story_01/smoke.rpy:11
 translate spanish ev_025_7cf4d55a:
@@ -462,193 +462,193 @@ translate spanish ev_027_7dcda811:
     # tMax 01 "Ну, а травку она точно ещё будет покуривать. И вот когда я снова поймаю её за этим делом, то можно будет попробовать выпросить что-то намного интереснее денег..."
     tMax 01 "Bueno, definitivamente seguirá fumando marihuana. Y cuando la pille haciéndolo otra vez, entonces podré intentar pedirle algo mucho más interesante que dinero..."
 
-# game/scripts/story_01/smoke.rpy:282
+# game/scripts/story_01/smoke.rpy:283
 translate spanish ev_028_2949475f:
 
     # tMax 03 "А вот и голые сисечки Алисы загорают! Жаль их не видно..." nointeract
     tMax 03 "¡Aquí están las tetas desnudas de Alice tomando el sol! Lástima que no se puedan ver." nointeract
 
-# game/scripts/story_01/smoke.rpy:292
-translate spanish ev_028_4028a28b:
+# game/scripts/story_01/smoke.rpy:294
+translate spanish ev_028_fbde9dc6:
 
-    # Alice 14 "Чёрт побери, Макс! Напугал!"
-    Alice 14 "¡Maldita sea, Max! ¡Me asustaste!"
+    # Alice 14 "Чёрт побери, Макс! Напугал! {p=2}{nw}"
+    ""
 
-# game/scripts/story_01/smoke.rpy:298
+# game/scripts/story_01/smoke.rpy:300
 translate spanish ev_028_ccc6a72c:
 
     # Alice 15 "И давно ты тут стоишь и пялишься на меня?" nointeract
     Alice 15 "¿Cuánto tiempo llevas ahí mirándome?" nointeract
 
-# game/scripts/story_01/smoke.rpy:307
+# game/scripts/story_01/smoke.rpy:310
 translate spanish ev_028_0c744b95:
 
     # Alice 15 "Чёрт побери, Макс! Напугал! И давно ты тут стоишь и пялишься на меня?" nointeract
     Alice 15 "¡Maldita sea, Max! ¡Me has asustado! ¿Cuánto tiempo has estado ahí mirándome?" nointeract
 
-# game/scripts/story_01/smoke.rpy:311
+# game/scripts/story_01/smoke.rpy:314
 translate spanish ev_028_e94cb0a9:
 
     # Alice 11 "Вот что хочу, то и беру! И что я тебе не советую делать, так это мешать мне. Всё, брысь отсюда!" nointeract
     Alice 11 "¡Tomaré lo que quiera! Y lo que no quiero que hagas es interponerte en mi camino. ¡Fuera de aquí!" nointeract
 
-# game/scripts/story_01/smoke.rpy:316
+# game/scripts/story_01/smoke.rpy:319
 translate spanish ev_028_48c819a4:
 
     # Alice 04 "Ах, вон оно что... Свою иди разглядывай в зеркале, а мне лучше не мешай. Хуже будет..." nointeract
     Alice 04 "Oh, ahí está... Ve a mirar el tuyo en el espejo, pero será mejor que no me molestes. Será peor..." nointeract
 
-# game/scripts/story_01/smoke.rpy:325
+# game/scripts/story_01/smoke.rpy:329
 translate spanish ev_028_21e51b14:
 
     # Alice 15 "Блин, Макс, напугал! Поглазеть что ли пришёл, извращенец мелкий?" nointeract
     Alice 15 "¡Mierda, Max, me asustaste! ¿Has venido a mirarme, pequeño pervertido?" nointeract
 
-# game/scripts/story_01/smoke.rpy:332
+# game/scripts/story_01/smoke.rpy:336
 translate spanish ev_028_a96fabcd:
 
     # Alice 02 "Спасибо, нет! Я и так наслышана, чем ты там нашу маленькую сестрёнку пугаешь по утрам. Просто иди, куда шёл..." nointeract
     Alice 02 "¡Gracias, no! Ya he oído bastante de lo que le haces a nuestra hermanita por la mañana. Sólo ve a donde ibas." nointeract
 
-# game/scripts/story_01/smoke.rpy:339
+# game/scripts/story_01/smoke.rpy:343
 translate spanish ev_028_3e6195d5:
 
     # Alice 16 "Ты дурак что ли, Макс?! Как ляпнешь что-нибудь... Или ты из этих... которые любят ходить и всем свой стручок показывать? Проваливай давай..." nointeract
     Alice 16 "¿Eres estúpido, Max? Cuéntame algo… ¿O eres uno de esos… a los que les encanta andar por ahí y mostrarles a todos su pene? Sal de aquí..." nointeract
 
-# game/scripts/story_01/smoke.rpy:348
+# game/scripts/story_01/smoke.rpy:352
 translate spanish ev_028_f6c74fd5:
 
     # Alice 01 "Да что ты говоришь... В каком несправедливом мире мы живём. Не дают на сиськи смотреть бедному нашему Максу и всё. Гуляй, несчастный..." nointeract
     Alice 01 "No me digas. En qué mundo tan injusto vivimos. No dejan que nuestro pobre Max mire tetas, eso es todo. Date un paseo, pobre bastardo." nointeract
 
-# game/scripts/story_01/smoke.rpy:355
+# game/scripts/story_01/smoke.rpy:359
 translate spanish ev_028_7c8206a2:
 
     # Alice 15 "Вот я ещё сиськи напоказ здесь не выставляла для тебя! Шуруй отсюда, пока я ещё более-менее добрая..." nointeract
     Alice 15 "¡Aún no te he enseñado las tetas! Sal de aquí mientras sigo siendo amable." nointeract
 
-# game/scripts/story_01/smoke.rpy:371
+# game/scripts/story_01/smoke.rpy:375
 translate spanish ev_060_f53b1584:
 
     # Alice 02 "Эй, Макс... Спасибо, что спас меня от наказания... Я это ценю."
     Alice 02 "Hola, Max. Gracias por salvarme de ser castigada. Te lo agradezco."
 
-# game/scripts/story_01/smoke.rpy:372
+# game/scripts/story_01/smoke.rpy:376
 translate spanish ev_060_723a5737:
 
     # Max 01 "Обращайся, Алиса. Но мы с тобой договаривались о кое-чём особенном для меня..."
     Max 01 "De nada, Alice. Pero tú y yo acordamos algo especial para mí..."
 
-# game/scripts/story_01/smoke.rpy:377
+# game/scripts/story_01/smoke.rpy:381
 translate spanish ev_060_ed270007:
 
     # Alice 11 "Что тут сказать... К сожалению, я на такое согласилась. Ну, и... Что ты хочешь?" nointeract
     Alice 11 "¿Qué puedo decir? Por desgracia, es lo que acordé. Así que... ¿Qué es lo que quieres?" nointeract
 
-# game/scripts/story_01/smoke.rpy:385
+# game/scripts/story_01/smoke.rpy:389
 translate spanish ev_060_b869972f:
 
     # Alice 15 "Макс! Ты невыносим. Я уже подумала, что ты нормальный брат, но как видно зря..."
     Alice 15 "¡Max! Eres insoportable. Pensé que eras un hermano normal, pero supongo que no lo eres..."
 
-# game/scripts/story_01/smoke.rpy:386
+# game/scripts/story_01/smoke.rpy:390
 translate spanish ev_060_1cd98888:
 
     # Max 14 "Да я пошутил!"
     Max 14 "¡Estaba bromeando!"
 
-# game/scripts/story_01/smoke.rpy:387
+# game/scripts/story_01/smoke.rpy:391
 translate spanish ev_060_dc28839e:
 
     # Alice 11 "Шутник, блин... В общем, я сейчас чисто из благодарности за спасение представлю, что не слышала этой твоей просьбы. И спрошу в последний раз... Что ты хочешь?"
     Alice 11 "Eres un maldito bromista. De todos modos, por la gratitud por salvarme, voy a fingir que no te oí decir eso. Y voy a preguntarte por última vez. ¿Qué es lo que quieres?"
 
-# game/scripts/story_01/smoke.rpy:388
+# game/scripts/story_01/smoke.rpy:392
 translate spanish ev_060_d7129a5a:
 
     # Max 12 "Эээ... Раз так, то хотя бы перестань носить трусики..."
     Max 12 "Eh... Si ese es el caso, al menos deja de llevar bragas..."
 
-# game/scripts/story_01/smoke.rpy:389
+# game/scripts/story_01/smoke.rpy:393
 translate spanish ev_060_34545854:
 
     # Alice 04 "Хм... Это... пожалуй, приемлемо. Я согласна. Если я снова стану курить травку и ты это заметишь, то буду ходить без трусиков и виноватая."
     Alice 04 "Hmm. Eso es, um. Supongo que es aceptable. Lo haré. Si empiezo a fumar hierba otra vez y te das cuenta, andaré por ahí sin bragas y a lo loco."
 
-# game/scripts/story_01/smoke.rpy:390
+# game/scripts/story_01/smoke.rpy:394
 translate spanish ev_060_a1a14eb0:
 
     # Max 13 "Эй! А я думал уже сейчас начнёшь?"
     Max 13 "¡Hey! ¿Pensé que ya habrías empezando?"
 
-# game/scripts/story_01/smoke.rpy:393
+# game/scripts/story_01/smoke.rpy:397
 translate spanish ev_060_1f730573:
 
     # Alice 16 "Я же тогда вечером тебя предупредила, чтобы ты был осторожнее с желаниями, помнишь? А ты сразу «дай сиськи потрогать, я озабоченный»! В следующий раз будешь думать, что несёшь..."
     Alice 16 "Te advertí la otra noche que tuvieras cuidado con lo que deseas, ¿recuerdas? Y tú dices: \"Déjame tocarte las tetas, estoy caliente\". La próxima vez, será mejor que tengas cuidado con lo que dices..."
 
-# game/scripts/story_01/smoke.rpy:395
+# game/scripts/story_01/smoke.rpy:399
 translate spanish ev_060_15b71227:
 
     # Alice 16 "Я же тогда вечером тебя предупредила, чтобы ты был осторожнее с желаниями, помнишь? А ты сразу «поласкай себя, я озабоченный»! В следующий раз будешь думать, что несёшь..."
     Alice 16 "Te advertí la otra noche que tuvieras cuidado con lo que deseas, ¿recuerdas? Y tú dices, \"acaríciate, ¡estoy caliente!\" La próxima vez pensarás dos veces lo que dices..."
 
-# game/scripts/story_01/smoke.rpy:397
+# game/scripts/story_01/smoke.rpy:401
 translate spanish ev_060_0515c06b:
 
     # Max 17 "Блин! А сейчас покурить не хочешь?"
     Max 17 "¡Mierda! ¿Quieres fumar ahora?"
 
-# game/scripts/story_01/smoke.rpy:398
+# game/scripts/story_01/smoke.rpy:402
 translate spanish ev_060_1964aedc:
 
     # Alice 14 "Ты что, сдурел?! Мама дома. Я может со злости и напакостила вчера, но пока мне больше не хочется."
     Alice 14 "¡¿Estás loco?! Mamá está en casa. Puede que estuviera enfadada anoche, pero no tengo ganas."
 
-# game/scripts/story_01/smoke.rpy:399
+# game/scripts/story_01/smoke.rpy:403
 translate spanish ev_060_a960b890:
 
     # Max 16 "Жалко. Но я тебя понял."
     Max 16 "Es una pena. Pero te escucho."
 
-# game/scripts/story_01/smoke.rpy:400
+# game/scripts/story_01/smoke.rpy:404
 translate spanish ev_060_dcfce15d:
 
     # Alice 04 "О чудо, Макс что-то понял! Ладно, я просто веселюсь, не обижайся. Хорошего дня, Макс."
     Alice 04 "¡Dios mío, Max se dio cuenta de algo! Vale, sólo me estoy divirtiendo, no te ofendas. Que tengas un buen día, Max."
 
-# game/scripts/story_01/smoke.rpy:404
+# game/scripts/story_01/smoke.rpy:408
 translate spanish ev_060_5409a3b8:
 
     # tMax 13 "Мне обязательно нужно будет поймать эту вертихвостку за курением травки! И вот тогда она у меня как миленькая будет без трусиков жить..."
     tMax 13 "¡Voy a tener que pillar a esa tía buena fumando porros! Y entonces la tendré viviendo sin sus bragas como una niña pequeña..."
 
-# game/scripts/story_01/smoke.rpy:405
+# game/scripts/story_01/smoke.rpy:409
 translate spanish ev_060_2daeee0f:
 
     # tMax 04 "И за этим я с удовольствием понаблюдаю. Да и помимо этого мне есть, что попросить. Главное поймать и уговорить..."
     tMax 04 "Y eso es algo que me encantaría ver. Y más allá de eso, tengo mucho que pedir. Sólo es cuestión de atraparla y persuadirla..."
 
-# game/scripts/story_01/smoke.rpy:419
+# game/scripts/story_01/smoke.rpy:423
 translate spanish ev_061_e661db54:
 
     # Alice 16 "Ты, Макс, сволочь! Вообще никак не попытался меня оправдать, а ведь обещал!"
     Alice 16 "¡Tú, Max, bastardo! ¡No intentaste salvarme en absoluto, y lo prometiste!"
 
-# game/scripts/story_01/smoke.rpy:420
+# game/scripts/story_01/smoke.rpy:424
 translate spanish ev_061_bb6a9d54:
 
     # Max 12 "Я пытался! Прямо перед тем, как ты пришла. Просто мама не поверила..."
     Max 12 "¡Lo intenté! Justo antes de que vinieras. Mamá no se lo creía..."
 
-# game/scripts/story_01/smoke.rpy:421
+# game/scripts/story_01/smoke.rpy:425
 translate spanish ev_061_a094bd04:
 
     # Alice 15 "Иди ты нафиг! Помощничек, блин, нашёлся!"
     Alice 15 "¡Que te jodan! ¡Eres un pésimo ayudante!"
 
-# game/scripts/story_01/smoke.rpy:422
+# game/scripts/story_01/smoke.rpy:426
 translate spanish ev_061_55ac670d:
 
     # Max 16 "Извини. Так уж получилось."
@@ -712,31 +712,31 @@ translate spanish strings:
     old "Задание «Вредная привычка Алисы» обновлено!"
     new "La oportunidad «El mal hábito de Alice» ha sido actualizada!"
 
-    # game/scripts/story_01/smoke.rpy:281
+    # game/scripts/story_01/smoke.rpy:282
     old "{i}подкрасться{/i}"
     new "{i}espiar{/i}"
 
-    # game/scripts/story_01/smoke.rpy:308
+    # game/scripts/story_01/smoke.rpy:311
     old "Я же должен знать, что ты тут в рот берёшь..."
     new "Necesito saber lo que estás poniendo en tu boca..."
 
-    # game/scripts/story_01/smoke.rpy:308
+    # game/scripts/story_01/smoke.rpy:311
     old "Нельзя просто взять и пройти мимо такой попки!"
     new "¡No puedes pasar por delante de un tesoro como ese!"
 
-    # game/scripts/story_01/smoke.rpy:324
+    # game/scripts/story_01/smoke.rpy:328
     old "Я {b}БОЛЬШОЙ{/b} извращенец! Показать?"
     new "¡Soy un {b}GRAN{/b} pervertido! ¿Te lo demuestro?"
 
-    # game/scripts/story_01/smoke.rpy:324
+    # game/scripts/story_01/smoke.rpy:328
     old "Нельзя прикрываться! Так нечестно!"
     new "¡No puedes encubrirte! ¡No es justo!"
 
-    # game/scripts/story_01/smoke.rpy:376
+    # game/scripts/story_01/smoke.rpy:380
     old "Дай потрогать твои сиськи..."
     new "Déjame tocarte las tetas..."
 
-    # game/scripts/story_01/smoke.rpy:376
+    # game/scripts/story_01/smoke.rpy:380
     old "Хочу посмотреть, как ты ласкаешь себя..."
     new "Quiero verte acariciarte..."
 
