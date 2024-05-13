@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-04-17 23:25
 
 # game/scripts/story_01/school.rpy:10
 translate spanish ev_004_1fe4b55c:
@@ -300,463 +300,463 @@ translate spanish ev_005_c680a9de:
     # Lisa 02 "Ты что, Макс, уже наплавался?" nointeract
     Lisa 02 "¿Ya te cansaste de nadar, Max?" nointeract
 
-# game/scripts/story_01/school.rpy:122
+# game/scripts/story_01/school.rpy:123
 translate spanish ev_005_2888b1b8:
 
     # tMax 01 "Приятно наблюдать, как Лиза плавает. Так задорно своими стройными ножками двигает..." nointeract
     tMax 01 "Es agradable ver nadar a Lisa. Mueve sus torneadas piernas tan alegremente...." nointeract
 
-# game/scripts/story_01/school.rpy:129
+# game/scripts/story_01/school.rpy:131
 translate spanish ev_005_706e6985:
 
     # tMax 04 "А как она под водой красиво смотрится! Так и хочется сделать что-нибудь эдакое..." nointeract
     tMax 04 "¡Y qué bonito se ve bajo el agua! Me dan ganas de hacer algo especial...." nointeract
 
-# game/scripts/story_01/school.rpy:135
+# game/scripts/story_01/school.rpy:138
 translate spanish ev_005_a599bccd:
 
     # Lisa 02 "Фух, я наплавалась. Теперь буду загорать!"
     Lisa 02 "Uf, ya me he bañado. Ahora voy a tomar el sol!"
 
-# game/scripts/story_01/school.rpy:136
+# game/scripts/story_01/school.rpy:139
 translate spanish ev_005_7d0014e5:
 
     # Max 01 "А мне пора делами заниматься..."
     Max 01 "Tengo cosas que hacer..."
 
-# game/scripts/story_01/school.rpy:155
+# game/scripts/story_01/school.rpy:158
 translate spanish ev_010_c7b37111:
 
     # Lisa 09 "Ну да. А что?"
     Lisa 09 "Sí. ¿Por qué?"
 
-# game/scripts/story_01/school.rpy:156
+# game/scripts/story_01/school.rpy:159
 translate spanish ev_010_9268df61:
 
     # Max 13 "А как же подробности?"
     Max 13 "¿Y los detalles?"
 
-# game/scripts/story_01/school.rpy:157
+# game/scripts/story_01/school.rpy:160
 translate spanish ev_010_7ed3aac6:
 
     # Lisa 01 "Просто мальчик, который мне понравился. Он со мной заговорил... Так и познакомились."
     Lisa 01 "Sólo un chico que me gustaba. Empezó a hablarme. Así nos conocimos."
 
-# game/scripts/story_01/school.rpy:158
+# game/scripts/story_01/school.rpy:161
 translate spanish ev_010_f5dbdfe7:
 
     # Max 01 "Да не стесняйся, расскажи о нём!"
     Max 01 "¡No seas tímida, háblame de él!"
 
-# game/scripts/story_01/school.rpy:159
+# game/scripts/story_01/school.rpy:162
 translate spanish ev_010_1e7193d0:
 
     # Lisa 11 "Ну, парень как парень. Вот как ты, только не такой зануда и красивый."
     Lisa 11 "Bueno, un tío es como un tío. Como tú, sólo que no tan aburrido y mas guapo."
 
-# game/scripts/story_01/school.rpy:160
+# game/scripts/story_01/school.rpy:163
 translate spanish ev_010_c01df258:
 
     # Max 15 "Эй, я не зануда!"
     Max 15 "¡Eh, no soy un aburrido!"
 
-# game/scripts/story_01/school.rpy:161
+# game/scripts/story_01/school.rpy:164
 translate spanish ev_010_52ea2c8d:
 
     # Lisa 03 "Ещё какой зануда! Достаёшь меня допросами о моём парне..."
     Lisa 03 "¡Qué aburrimiento! Interrogándome sobre mi novio..."
 
-# game/scripts/story_01/school.rpy:162
+# game/scripts/story_01/school.rpy:165
 translate spanish ev_010_b1a193c4:
 
     # Max 11 "Ого, так он уже твой парень?!"
     Max 11 "Vaya, ¿así que ya es tu novio?!"
 
-# game/scripts/story_01/school.rpy:163
+# game/scripts/story_01/school.rpy:166
 translate spanish ev_010_24d10f89:
 
     # Lisa 09 "Нет, ну... я не так выразилась. Мы просто познакомились и, конечно, он не мой парень!"
     Lisa 09 "No, bueno. no, es así como lo digo. Acabamos de conocernos, ¡y por supuesto que no es mi novio!"
 
-# game/scripts/story_01/school.rpy:164
+# game/scripts/story_01/school.rpy:167
 translate spanish ev_010_c170b505:
 
     # Max 04 "Я, между прочим, тоже ничего. Получше него буду."
     Max 04 "Yo también soy bastante bueno, por cierto. Soy mejor que él."
 
-# game/scripts/story_01/school.rpy:165
+# game/scripts/story_01/school.rpy:168
 translate spanish ev_010_e5ccc4ca:
 
     # Lisa 03 "Ты мой братишка! Не говори ерунду. Мы и так с тобой спим вместе. Ну, в одной комнате!"
     Lisa 03 "¡Eres mi hermano pequeño! No digas tonterías. Dormimos juntos de todos modos. Bueno, ¡en la misma habitación!"
 
-# game/scripts/story_01/school.rpy:166
+# game/scripts/story_01/school.rpy:169
 translate spanish ev_010_d2481207:
 
     # Max 03 "Думаю, твой парень должен знать, что мы спим вместе."
     Max 03 "Creo que tu novio debería saber que nos acostamos."
 
-# game/scripts/story_01/school.rpy:167
+# game/scripts/story_01/school.rpy:170
 translate spanish ev_010_4d69ec2f:
 
     # Lisa 02 "Дурак! Я же в шутку это сказала. И, вообще, прекращай меня доставать!"
     Lisa 02 "¡Tonto! Sólo estaba bromeando. Y de todos modos, ¡deja de molestarme!"
 
-# game/scripts/story_01/school.rpy:168
+# game/scripts/story_01/school.rpy:171
 translate spanish ev_010_858df039:
 
     # Max 13 "Я вообще-то переживаю за свою младшую сестрёнку! Поэтому мне и интересно..."
     Max 13 "¡En realidad estoy preocupado por mi hermana pequeña! Por eso te pregunto..."
 
-# game/scripts/story_01/school.rpy:169
+# game/scripts/story_01/school.rpy:172
 translate spanish ev_010_078ed1ff:
 
     # Lisa 11 "Извини. Я не подумала. Кстати, спасибо, что со мной болтаешь. Я обычно о таком Алисе рассказывала, но она стала слишком взрослой и мы как-то отдалились..."
     Lisa 11 "Perdóname. No estaba pensando. Gracias por hablar conmigo, por cierto. Solía contárselo a Alice, pero se hizo demasiado mayor y nos distanciamos un poco..."
 
-# game/scripts/story_01/school.rpy:170
+# game/scripts/story_01/school.rpy:173
 translate spanish ev_010_3940925d:
 
     # Max 11 "Ну, со мной ты всегда можешь поболтать."
     Max 11 "Bueno, siempre puedes hablar conmigo."
 
-# game/scripts/story_01/school.rpy:171
+# game/scripts/story_01/school.rpy:174
 translate spanish ev_010_1f647314:
 
     # Lisa 01 "Ладно, буду иметь в виду!"
     Lisa 01 "Vale, ¡lo tendré en cuenta!"
 
-# game/scripts/story_01/school.rpy:172
+# game/scripts/story_01/school.rpy:175
 translate spanish ev_010_b04f82cc:
 
     # Max 00 "Что дальше думаешь делать?"
     Max 00 "¿Qué crees que vas a hacer ahora?"
 
-# game/scripts/story_01/school.rpy:173
+# game/scripts/story_01/school.rpy:176
 translate spanish ev_010_c84dc01f:
 
     # Lisa 10 "Я не знаю. Посмотрим, как всё пойдёт. Может быть, он уже с кем-то встречается, а тут пришла я такая красивая..."
     Lisa 10 "No lo sé. Ya veremos cómo va. Tal vez él ya está viendo a alguien, y luego llego yo y soy tan bonita..."
 
-# game/scripts/story_01/school.rpy:174
+# game/scripts/story_01/school.rpy:177
 translate spanish ev_010_9361a998:
 
     # Max 13 "А не рано тебе с кем-то встречаться?"
     Max 13 "¿No es un poco pronto para que salgas con alguien?"
 
-# game/scripts/story_01/school.rpy:175
+# game/scripts/story_01/school.rpy:178
 translate spanish ev_010_302be40c:
 
     # Lisa 11 "Ты в моём возрасте уже тусил с этой своей, как её... Правда, она тебя бросила..."
     Lisa 11 "Cuando tenías mi edad, ya salías con como se llamaba. Pero ella te dejó..."
 
-# game/scripts/story_01/school.rpy:176
+# game/scripts/story_01/school.rpy:179
 translate spanish ev_010_52ff5bac:
 
     # Max 12 "Это я её бросил!"
     Max 12 "¡Yo fui quien la dejó!"
 
-# game/scripts/story_01/school.rpy:177
+# game/scripts/story_01/school.rpy:180
 translate spanish ev_010_dfed2c77:
 
     # Lisa 02 "Ну да, потом её караулил под окнами, чтобы сказать, как ты её не любишь..."
     Lisa 02 "Sí, entonces por eso te pusiste fuera de su ventana para decirle lo mucho que no la querías..."
 
-# game/scripts/story_01/school.rpy:178
+# game/scripts/story_01/school.rpy:181
 translate spanish ev_010_357ba6cc:
 
     # Max 01 "В любом случае, у меня опыта больше."
     Max 01 "De todos modos, tengo más experiencia."
 
-# game/scripts/story_01/school.rpy:179
+# game/scripts/story_01/school.rpy:182
 translate spanish ev_010_434b8364:
 
     # Lisa 03 "Да уж, ты у нас опытный любовник!"
     Lisa 03 "¡Sí, eres un amante experimentado!"
 
-# game/scripts/story_01/school.rpy:180
+# game/scripts/story_01/school.rpy:183
 translate spanish ev_010_95aeb60b:
 
     # Max 11 "Я же не обо всём рассказывал..."
     Max 11 "No es que te lo haya contado todo..."
 
-# game/scripts/story_01/school.rpy:181
+# game/scripts/story_01/school.rpy:184
 translate spanish ev_010_e9eb7927:
 
     # Lisa 01 "Любопытно... И о чём же ты умолчал?"
     Lisa 01 "Curioso... ¿Qué no me contaste?"
 
-# game/scripts/story_01/school.rpy:182
+# game/scripts/story_01/school.rpy:185
 translate spanish ev_010_305725b0:
 
     # Max 04 "В школе по мне все девчонки с ума сходили! И со многими я встречался."
     Max 04 "¡Todas las chicas de la escuela estaban locas por mí! Y salí con muchas chicas."
 
-# game/scripts/story_01/school.rpy:183
+# game/scripts/story_01/school.rpy:186
 translate spanish ev_010_942ba2cf:
 
     # Lisa 02 "Так я тебе и поверила..."
     Lisa 02 "Así y yo me lo creo..."
 
-# game/scripts/story_01/school.rpy:184
+# game/scripts/story_01/school.rpy:187
 translate spanish ev_010_3203ad5d:
 
     # Max 11 "Хочешь верь, хочешь нет, но опыт у меня в этих делах есть. Так что, если будет нужна помощь, обращайся."
     Max 11 "Lo creas o no, tengo experiencia en estos asuntos. Así que, si necesitas ayuda, aquí me tienes."
 
-# game/scripts/story_01/school.rpy:185
+# game/scripts/story_01/school.rpy:188
 translate spanish ev_010_c0e27f39:
 
     # Lisa 01 "Хорошо, Макс, буду иметь в виду. И спасибо, что поболтал со мной."
     Lisa 01 "Vale, Max, lo tendré en cuenta. Y gracias por hablar conmigo."
 
-# game/scripts/story_01/school.rpy:186
+# game/scripts/story_01/school.rpy:189
 translate spanish ev_010_63a2b4c3:
 
     # Max 02 "Да не за что..."
     Max 02 "De nada..."
 
-# game/scripts/story_01/school.rpy:199
+# game/scripts/story_01/school.rpy:202
 translate spanish ev_041_713a11a8:
 
     # Lisa 09 "Макс, давай сменим тему..."
     Lisa 09 "Max, cambiemos de tema..."
 
-# game/scripts/story_01/school.rpy:200
+# game/scripts/story_01/school.rpy:203
 translate spanish ev_041_a568a0dc:
 
     # Max 13 "Ну Лиза..."
     Max 13 "Bueno, Lisa..."
 
-# game/scripts/story_01/school.rpy:201
+# game/scripts/story_01/school.rpy:204
 translate spanish ev_041_133ab5ed:
 
     # Lisa 00 "Ну ладно, Макс. Так чего ты хотел узнать?"
     Lisa 00 "Muy bien, Max. ¿Qué querías saber?"
 
-# game/scripts/story_01/school.rpy:202
+# game/scripts/story_01/school.rpy:205
 translate spanish ev_041_8a244529:
 
     # Max 11 "Да всё! Что тебе удалось выяснить?"
     Max 11 "¡Ya está! ¿Qué has averiguado?"
 
-# game/scripts/story_01/school.rpy:203
+# game/scripts/story_01/school.rpy:206
 translate spanish ev_041_c2795d1e:
 
     # Lisa 10 "Об Алексе? Ну, у него есть подружка, оказывается. Самая красивая девочка в школе, говорят..."
     Lisa 10 "¿Sobre Alex? Bueno, resulta que tiene novia. La chica más guapa de la escuela, dicen..."
 
-# game/scripts/story_01/school.rpy:204
+# game/scripts/story_01/school.rpy:207
 translate spanish ev_041_76348c30:
 
     # Max 03 "Они всё врут. Теперь ты самая красивая девочка в школе!"
     Max 03 "Están mintiendo. ¡Ahora eres la chica más guapa de la escuela!"
 
-# game/scripts/story_01/school.rpy:205
+# game/scripts/story_01/school.rpy:208
 translate spanish ev_041_12dd4137:
 
     # Lisa 01 "Макс, ты такой сегодня... Спасибо за комплимент, но все мальчики без ума от подружки Алекса..."
     Lisa 01 "Max, estás tan amable hoy... Gracias por el cumplido, pero todos los chicos están locos por la novia de Alex..."
 
-# game/scripts/story_01/school.rpy:206
+# game/scripts/story_01/school.rpy:209
 translate spanish ev_041_eb268488:
 
     # Max 12 "А ты её сама видела?"
     Max 12 "¿La has visto tú misma?"
 
-# game/scripts/story_01/school.rpy:207
+# game/scripts/story_01/school.rpy:210
 translate spanish ev_041_78d40cd8:
 
     # Lisa 11 "Конечно! Мы же в одном классе учимся. Её зовут Оливия."
     Lisa 11 "¡Claro que sí! Estamos en la misma clase. Se llama Olivia."
 
-# game/scripts/story_01/school.rpy:208
+# game/scripts/story_01/school.rpy:211
 translate spanish ev_041_6f16ad8c:
 
     # Max 11 "И какая она?"
     Max 11 "¿Cómo es ella?"
 
-# game/scripts/story_01/school.rpy:209
+# game/scripts/story_01/school.rpy:212
 translate spanish ev_041_5d6dc0ad:
 
     # Lisa 02 "Ну, она такая хорошая, тихая, скромная. И очень симпатичная..."
     Lisa 02 "Bueno, ella es muy agradable, tranquila, modesta. Y muy guapa..."
 
-# game/scripts/story_01/school.rpy:210
+# game/scripts/story_01/school.rpy:213
 translate spanish ev_041_71f61efd:
 
     # Max 01 "Так тебе и девочки тоже нравятся?"
     Max 01 "¿Así que también te gustan las chicas?"
 
-# game/scripts/story_01/school.rpy:211
+# game/scripts/story_01/school.rpy:214
 translate spanish ev_041_69d2d70e:
 
     # Lisa 03 "В смысле? Мне мальчики нравятся, я же говорила уже. Но да, мне она кажется симпатичной..."
     Lisa 03 "¿Qué quieres decir? Me gustan los chicos, te lo dije antes. Pero sí, creo que es linda..."
 
-# game/scripts/story_01/school.rpy:212
+# game/scripts/story_01/school.rpy:215
 translate spanish ev_041_ffa76775:
 
     # Max 04 "Понятно..."
     Max 04 "Ya veo..."
 
-# game/scripts/story_01/school.rpy:213
+# game/scripts/story_01/school.rpy:216
 translate spanish ev_041_d4676d1b:
 
     # Lisa 12 "А мне вот не понятно, что теперь делать... Кажется, у меня нет никаких шансов..."
     Lisa 12 "No sé qué hacer ahora. No creo que tenga ninguna posibilidad..."
 
-# game/scripts/story_01/school.rpy:214
+# game/scripts/story_01/school.rpy:217
 translate spanish ev_041_a8c4657f:
 
     # Max 11 "Подожди, а он сильно в неё влюблён?"
     Max 11 "Espera, ¿está realmente enamorado de ella?"
 
-# game/scripts/story_01/school.rpy:215
+# game/scripts/story_01/school.rpy:218
 translate spanish ev_041_46de64fb:
 
     # Lisa 11 "Ну, мы не очень много общались, но она ему нравится, это точно. Хотя, я ему тоже нравлюсь, похоже... Чуть-чуть..."
     Lisa 11 "Bueno, no hemos hablado mucho, pero le gusta, eso seguro. Aunque parece que yo también le gusto. Un poco..."
 
-# game/scripts/story_01/school.rpy:216
+# game/scripts/story_01/school.rpy:219
 translate spanish ev_041_3acfa0cc:
 
     # Max 01 "Вот видишь, не всё потеряно!"
     Max 01 "Como ves, ¡no todo está perdido!"
 
-# game/scripts/story_01/school.rpy:217
+# game/scripts/story_01/school.rpy:220
 translate spanish ev_041_06452fc9:
 
     # Lisa 10 "Ну да, не всё. Но около того. Я даже не представляю, что мне делать. Он мне так нравится..."
     Lisa 10 "Sí, bueno, no todo. Pero está cerca. No tengo ni idea de lo que voy a hacer. Me gusta tanto..."
 
-# game/scripts/story_01/school.rpy:218
+# game/scripts/story_01/school.rpy:221
 translate spanish ev_041_bfdf484e:
 
     # Max 02 "Надо думать... Как только в моей голове созреет какой-нибудь коварный план, я с тобой поделюсь, хорошо?"
     Max 02 "Tengo que pensar. En cuanto se me ocurra un plan astuto, lo compartiré contigo, ¿vale?"
 
-# game/scripts/story_01/school.rpy:219
+# game/scripts/story_01/school.rpy:222
 translate spanish ev_041_d6771769:
 
     # Lisa 11 "Хорошо. Спасибо, Макс, что поговорил. Мне это было нужно..."
     Lisa 11 "Gracias. Gracias, Max, por hablar conmigo. Lo necesitaba..."
 
-# game/scripts/story_01/school.rpy:220
+# game/scripts/story_01/school.rpy:223
 translate spanish ev_041_27dab893:
 
     # Max 01 "Всегда пожалуйста!"
     Max 01 "De nada!"
 
-# game/scripts/story_01/school.rpy:227
+# game/scripts/story_01/school.rpy:230
 translate spanish ev_041_128da81b:
 
     # tMax 13 "Что же мне предложить Лизе? С одной стороны хочется ей помочь дельным советом, а с другой, не хочется отдавать младшую сестрёнку в руки какому-то там Алексу."
     tMax 13 "¿Qué le sugiero a Lisa? Por un lado, quiero ayudarla con consejos, pero por otro, no quiero poner a mi hermana pequeña en manos de Alex."
 
-# game/scripts/story_01/school.rpy:228
+# game/scripts/story_01/school.rpy:231
 translate spanish ev_041_a4f6fca1:
 
     # tMax 11 "Может, поступить хитро и предложить ей подружиться с Оливией? Таким образом Лиза сможет узнать от неё, действительно ли Алекс так хорош, как ей кажется."
     tMax 11 "Tal vez debería ser astuto y pedirle que sea amiga de Olivia. De ese modo, Lisa podría averiguar por ella si Alex es realmente tan bueno como cree."
 
-# game/scripts/story_01/school.rpy:229
+# game/scripts/story_01/school.rpy:232
 translate spanish ev_041_f6382e5d:
 
     # tMax 01 "Наверняка ведь, он не слишком идеален... А может и ещё хуже... К тому же, если Лиза сможет сдружиться с Оливией, то рано или поздно приведёт её к нам в гости."
     tMax 01 "Seguro que no es demasiado perfecto. O tal vez incluso peor. Además, si Lisa puede hacerse amiga de Olivia, la traerá a nuestra casa tarde o temprano."
 
-# game/scripts/story_01/school.rpy:230
+# game/scripts/story_01/school.rpy:233
 translate spanish ev_041_2567aac1:
 
     # tMax 00 "Но далеко загадывать не буду... Сегодня ещё подумаю, как мне убедить Лизу в том, что это хороший план, а уже завтра можно будет предлагать..."
     tMax 00 "Pero no voy a adelantarme demasiado... Hoy pensaré en cómo convencer a Lisa de que es un buen plan, y mañana podré proponérselo..."
 
-# game/scripts/story_01/school.rpy:245
+# game/scripts/story_01/school.rpy:248
 translate spanish ev_044_df2c9a67:
 
     # Lisa 11 "Да, что насчёт него? Появились какие-то мысли?"
     Lisa 11 "Sí, ¿qué pasa con él? ¿Alguna idea?"
 
-# game/scripts/story_01/school.rpy:246
+# game/scripts/story_01/school.rpy:249
 translate spanish ev_044_54637f7c:
 
     # Max 01 "Ага, могу предложить кое-что..."
     Max 01 "Sí, puedo sugerirte algo..."
 
-# game/scripts/story_01/school.rpy:247
+# game/scripts/story_01/school.rpy:250
 translate spanish ev_044_dd34248c:
 
     # Lisa 01 "Супер! Я тебя слушаю..."
     Lisa 01 "¡Genial! Te estoy escuchando..."
 
-# game/scripts/story_01/school.rpy:248
+# game/scripts/story_01/school.rpy:251
 translate spanish ev_044_22f43551:
 
     # Max 11 "Думаю, тебе стоит попробовать подружиться с Оливией."
     Max 11 "Creo que deberías intentar ser amiga de Olivia."
 
-# game/scripts/story_01/school.rpy:249
+# game/scripts/story_01/school.rpy:252
 translate spanish ev_044_97c7fda2:
 
     # Lisa 10 "С Оливией?! Дружить? По-моему, дружить с девочкой, которая встречается с парнем, который мне интересен, не самая лучшая идея."
     Lisa 10 "¡¿Olivia?! ¿Amigas? No creo que sea buena idea ser amiga de una chica que está saliendo con el chico que me interesa."
 
-# game/scripts/story_01/school.rpy:250
+# game/scripts/story_01/school.rpy:253
 translate spanish ev_044_aa56ac8e:
 
     # Max 00 "Разве?"
     Max 00 "¿Lo es?"
 
-# game/scripts/story_01/school.rpy:251
+# game/scripts/story_01/school.rpy:254
 translate spanish ev_044_a7c54bc0:
 
     # Lisa 12 "Ну, как своей подружке, она ведь явно будет рассказывать, чем они с Алексом занимаются... А я не уверена, что хочу знать! Особенно в подробностях..."
     Lisa 12 "Bueno, como su novia, obviamente va a decirme lo que ella y Alex están haciendo.... No estoy seguro de querer saberlo. Especialmente en detalle..."
 
-# game/scripts/story_01/school.rpy:252
+# game/scripts/story_01/school.rpy:255
 translate spanish ev_044_54f4c962:
 
     # Max 03 "В том и смысл! Если ты будешь общаться с Алексом сама, то ещё не известно, каким он себя покажет. А вот через дружбу с Оливией ты сможешь узнать, действительно ли он так хорош, как тебе кажется."
     Max 03 "¡Esa es la cuestión! Si hablas con Alex por tu cuenta, no sabes cómo va a ser. Pero a través de la amistad con Olivia, puedes averiguar si realmente es tan bueno como crees."
 
-# game/scripts/story_01/school.rpy:253
+# game/scripts/story_01/school.rpy:256
 translate spanish ev_044_29f3a5d0:
 
     # Lisa 00 "А знаешь, может быть ты и прав. Есть правда одно но... Даже если мы с ней подружимся, она ведь не выдаст о нём всё, что только знает и думает. Для такой дружбы нужно время..."
     Lisa 00 "Sabes, tal vez tengas razón. Sólo hay una cosa, sin embargo. Incluso si nos hacemos amigas, ella no va a contarme todo lo que sabe y piensa de él. Ese tipo de amistad lleva tiempo..."
 
-# game/scripts/story_01/school.rpy:254
+# game/scripts/story_01/school.rpy:257
 translate spanish ev_044_71dc7c29:
 
     # Max 12 "Да, но это лучше, чем попытаться их, например, рассорить или ещё чего... Если Оливия очень нравится Алексу и из-за тебя они расстанутся, он вообще тебя может возненавидеть."
     Max 12 "Sí, pero es mejor que intentar que rompan o algo así... Si a Alex le gusta Olivia y rompe con ella, podría odiarte."
 
-# game/scripts/story_01/school.rpy:255
+# game/scripts/story_01/school.rpy:258
 translate spanish ev_044_132dca04:
 
     # Lisa 09 "Нет, врагов я себе наживать в школе не собираюсь."
     Lisa 09 "No, no voy a hacer enemigos en la escuela."
 
-# game/scripts/story_01/school.rpy:256
+# game/scripts/story_01/school.rpy:259
 translate spanish ev_044_c96056f5:
 
     # Max 11 "Тогда наберись терпения и попробуй подружиться с Оливией. И если всё выйдет, то и об Алексе сможешь узнать всякого... А там и поймёшь, надо ли оно тебе..."
     Max 11 "Entonces ten paciencia e intenta ser amiga de Olivia. Y si funciona, llegarás a saber mucho sobre Alex. Y entonces verás si es lo correcto para ti..."
 
-# game/scripts/story_01/school.rpy:257
+# game/scripts/story_01/school.rpy:260
 translate spanish ev_044_2f75e811:
 
     # Lisa 02 "Значит, так и сделаю. Спасибо за совет, Макс!"
     Lisa 02 "Entonces eso es lo que haré. Gracias por el consejo, Max!"
 
-# game/scripts/story_01/school.rpy:258
+# game/scripts/story_01/school.rpy:261
 translate spanish ev_044_e69dd43f:
 
     # Max 01 "Обращайся, если что... И удачи тебе."
     Max 01 "Ponte en contacto si necesitas algo... Y buena suerte."
 
-# game/scripts/story_01/school.rpy:265
+# game/scripts/story_01/school.rpy:268
 translate spanish ev_044_2b5641cb:
 
     # tMax 13 "Не знаю, сколько времени понадобится, чтобы у Лизы получилось ненавязчиво подружиться с Оливией. Пожалуй, мне стоит интересоваться её успехами время от времени..."
@@ -780,7 +780,7 @@ translate spanish strings:
     old "Ага. Пора делами заниматься..."
     new "Sí. Hora de ponerse a trabajar..."
 
-    # game/scripts/story_01/school.rpy:189
+    # game/scripts/story_01/school.rpy:192
     old "Задание «Школьный секретик Лизы» обновлено!"
     new "¡La oportunidad de «El secreto escolar de Lisa» ha sido actualizada!"
 

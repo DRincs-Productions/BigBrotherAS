@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-05-12 15:48
 
 translate spanish strings:
 
@@ -49,6 +49,66 @@ translate spanish strings:
     # game/scripts/engine/items.rpy:227
     old "Высокотехнологичная микро-камера, предназначенная для скрытного наблюдения. Имеет радиомодуль для беспроводной передачи зашифрованного цифрового видеосигнала."
     new "Microcámara de alta tecnología diseñada para la vigilancia sigilosa. Tiene un radiomódulo para la transmisión inalámbrica de señal de video digital encriptada."
+
+    # game/scripts/engine/items.rpy:227
+    old "Стремянка"
+    new "Escalera de mano"
+
+    # game/scripts/engine/items.rpy:227
+    old "Небольшая стремянка, позволяющая достать то, для чего не хватает роста"
+    new "Una pequeña escalera de mano que te permita alcanzar cosas para las que no eres lo suficientemente alto"
+
+    # game/scripts/engine/items.rpy:227
+    old "Масло для загара"
+    new "Aceite bronceador"
+
+    # game/scripts/engine/items.rpy:227
+    old "Лёгкий, хорошо впитывающийся препарат для ускорения загара обладает увлажняющими и защитными свойствами. Рекомендуется для применения на пляже и в солярии."
+    new "Acelerador del bronceado ligero y muy absorbente, con propiedades hidratantes y protectoras. Recomendado para su uso en la playa y en el solárium."
+
+    # game/scripts/engine/items.rpy:227
+    old "Комплект тёмного нижнего белья"
+    new "Conjunto de lencería negra"
+
+    # game/scripts/engine/items.rpy:227
+    old "Нижнее бельё тёмного цвета и отличного качества. Прекрасный подарок для любимой девушки, который предаст ей ещё больше сексуальности."
+    new "Lencería de color oscuro y excelente calidad. Un regalo perfecto para tu chica favorita, que la hará aún más sexy."
+
+    # game/scripts/engine/items.rpy:227
+    old "Шоколад \"Ritter Sport\" mini (9 штук)"
+    new "Chocolate \"Ritter Sport\" mini (9 uds)"
+
+    # game/scripts/engine/items.rpy:227
+    old "Шоколадное наслаждение для каждого случая... Множество лакомых сортов с лучшими ингредиентами со всего мира."
+    new "Delicia de chocolate para cada ocasión... Muchas variedades sabrosas con los mejores ingredientes de todo el mundo."
+
+    # game/scripts/engine/items.rpy:227
+    old "Шоколад \"Ritter Sport\" (4 штуки)"
+    new "Chocolate \"Ritter Sport\" (4 uds)"
+
+    # game/scripts/engine/items.rpy:227
+    old "Конфеты \"Raffaello\" (16 штук)"
+    new "Dulces \"Raffaello\" (16 uds)"
+
+    # game/scripts/engine/items.rpy:227
+    old "Хрустящие кокосовые конфеты с цельным миндальным орехом. Вместо тысячи слов..."
+    new "Crujiente caramelo de coco con almendras enteras. En lugar de mil palabras..."
+
+    # game/scripts/engine/items.rpy:227
+    old "Конфеты \"Raffaello\" (24 штуки)"
+    new "Dulces \"Raffaello\" (24 uds)"
+
+    # game/scripts/engine/items.rpy:227
+    old "Конфеты \"Ferrero Rocher\" (16 штук)"
+    new "Dulces \"Ferrero Rocher\" (16 uds)"
+
+    # game/scripts/engine/items.rpy:227
+    old "Сочетание цельного фундука и восхитительного сливочно-орехового крема в хрустящей вафельной оболочке подарит вам неповторимые вкусовые ощущения."
+    new "La combinación de avellanas enteras y deliciosa crema cremosa de nueces en una crujiente cáscara de gofre le dará una sensación de sabor única."
+
+    # game/scripts/engine/items.rpy:227
+    old "Конфеты \"Ferrero Rocher\" (24 штуки)"
+    new "Dulces \"Ferrero Rocher\" (24 uds)"
 
     # game/scripts/engine/items.rpy:227
     old "Шёлковый халат"
@@ -123,14 +183,6 @@ translate spanish strings:
     new "Esta es una historia sobre la dominación y la sumisión. La historia trata de una hermosa chica llamada O."
 
     # game/scripts/engine/items.rpy:227
-    old "Стремянка"
-    new "Escalera de mano"
-
-    # game/scripts/engine/items.rpy:227
-    old "Небольшая стремянка, позволяющая достать то, для чего не хватает роста"
-    new "Una pequeña escalera de mano que te permita alcanzar cosas para las que no eres lo suficientemente alto"
-
-    # game/scripts/engine/items.rpy:227
     old "Веб-стандарты"
     new "Estándares web"
 
@@ -163,64 +215,12 @@ translate spanish strings:
     new "Un pequeño set de cosméticos para uso diario. Para las mujeres, sólo lo mejor..."
 
     # game/scripts/engine/items.rpy:227
-    old "Шоколад \"Ritter Sport\" mini (9 штук)"
-    new "Chocolate \"Ritter Sport\" mini (9 uds)"
-
-    # game/scripts/engine/items.rpy:227
-    old "Шоколадное наслаждение для каждого случая... Множество лакомых сортов с лучшими ингредиентами со всего мира."
-    new "Delicia de chocolate para cada ocasión... Muchas variedades sabrosas con los mejores ingredientes de todo el mundo."
-
-    # game/scripts/engine/items.rpy:227
-    old "Шоколад \"Ritter Sport\" (4 штуки)"
-    new "Chocolate \"Ritter Sport\" (4 uds)"
-
-    # game/scripts/engine/items.rpy:227
-    old "Конфеты \"Raffaello\" (16 штук)"
-    new "Dulces \"Raffaello\" (16 uds)"
-
-    # game/scripts/engine/items.rpy:227
-    old "Хрустящие кокосовые конфеты с цельным миндальным орехом. Вместо тысячи слов..."
-    new "Crujiente caramelo de coco con almendras enteras. En lugar de mil palabras..."
-
-    # game/scripts/engine/items.rpy:227
-    old "Конфеты \"Raffaello\" (24 штуки)"
-    new "Dulces \"Raffaello\" (24 uds)"
-
-    # game/scripts/engine/items.rpy:227
-    old "Конфеты \"Ferrero Rocher\" (16 штук)"
-    new "Dulces \"Ferrero Rocher\" (16 uds)"
-
-    # game/scripts/engine/items.rpy:227
-    old "Сочетание цельного фундука и восхитительного сливочно-орехового крема в хрустящей вафельной оболочке подарит вам неповторимые вкусовые ощущения."
-    new "La combinación de avellanas enteras y deliciosa crema cremosa de nueces en una crujiente cáscara de gofre le dará una sensación de sabor única."
-
-    # game/scripts/engine/items.rpy:227
-    old "Конфеты \"Ferrero Rocher\" (24 штуки)"
-    new "Dulces \"Ferrero Rocher\" (24 uds)"
-
-    # game/scripts/engine/items.rpy:227
-    old "Масло для загара"
-    new "Aceite bronceador"
-
-    # game/scripts/engine/items.rpy:227
-    old "Лёгкий, хорошо впитывающийся препарат для ускорения загара обладает увлажняющими и защитными свойствами. Рекомендуется для применения на пляже и в солярии."
-    new "Acelerador del bronceado ligero y muy absorbente, con propiedades hidratantes y protectoras. Recomendado para su uso en la playa y en el solárium."
-
-    # game/scripts/engine/items.rpy:227
     old "Конфеты с ликёром"
     new "Bombones con licor"
 
     # game/scripts/engine/items.rpy:227
     old "Шоколадные конфеты с ликёром. Уникальные ароматизаторы скрывают вкус алкоголя. Отлично поднимают настроение. Очень крепкие."
     new "Caramelos de chocolate con licor. Sus aromas únicos ocultan el sabor del alcohol. Levantan el ánimo. Muy fuertes."
-
-    # game/scripts/engine/items.rpy:227
-    old "Комплект тёмного нижнего белья"
-    new "Conjunto de lencería negra"
-
-    # game/scripts/engine/items.rpy:227
-    old "Отличное нижнее бельё тёмного цвета. Отличный подарок для любимой девушки."
-    new "Excelente ropa interior en color oscuro. Un gran regalo para tu chica favorita."
 
     # game/scripts/engine/items.rpy:227
     old "Секс-образование"

@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-04-17 23:25
 
 # game/scripts/story_01/hidden_cams.rpy:12
 translate spanish ev_003_089bb89e:
@@ -96,6 +96,66 @@ translate spanish ev_030_b6914fd6:
     # tMax 13 "И я знаю, в первую очередь, куда! Что меня сильно расстраивает, так это то, что мама занимается йогой в то же время, что и Лиза принимает душ. Подглядывать в это время за моей младшей сестрёнкой вдвойне опасно. Вот туда-то я и поставлю скрытую камеру!"
     tMax 13 "¡Y ya sé a dónde ir antes que nada! Lo realmente molesto es que mamá está haciendo yoga al mismo tiempo que Lisa se está duchando. Es doblemente peligroso espiar a mi hermana pequeña. ¡Ahí es donde voy a poner la cámara oculta!"
 
+# game/scripts/story_01/hidden_cams.rpy:88
+translate spanish ev_030_71d509bc:
+
+    # tMax 16 "Правда, если придётся устанавливать камеру под потолок, как это сделано в гостиной, то мне понадобится ещё и стремянка. Ох, придётся подкопить немало деньжат..."
+    ""
+
+# game/scripts/story_01/hidden_cams.rpy:122
+translate spanish ev_install_cam_not_time_de1b0ce2:
+
+    # tMax 13 "Сейчас не лучшее время, чтобы устанавливать скрытую камеру!"
+    ""
+
+# game/scripts/story_01/hidden_cams.rpy:126
+translate spanish ev_install_cam_many_people_28c0be59:
+
+    # tMax 13 "Сейчас не лучшее время, чтобы устанавливать скрытую камеру! В доме слишком много народа..."
+    ""
+
+# game/scripts/story_01/hidden_cams.rpy:135
+translate spanish ev_install_cam_bathroom_1_b838c286:
+
+    # tMax 12 "Сейчас постараюсь спрятать эту камеру как можно лучше, пока Алиса не спустилась во двор. Вроде, получается..."
+    ""
+
+# game/scripts/story_01/hidden_cams.rpy:137
+translate spanish ev_install_cam_bathroom_1_e68feba9:
+
+    # tMax 12 "Сейчас постараюсь спрятать эту камеру как можно лучше, пока дома никого нет. Вроде, получается..."
+    ""
+
+# game/scripts/story_01/hidden_cams.rpy:138
+translate spanish ev_install_cam_bathroom_1_5aac82a5:
+
+    # tMax 03 "В кадр как раз будет попадать то, что происходит в душе и ванне, да и мне не обязательно будет теперь рисковать, чтобы увидеть голеньких и мокрых сестёр или маму. Готово!"
+    ""
+
+# game/scripts/story_01/hidden_cams.rpy:143
+translate spanish ev_install_cam_bathroom_1_71ff42cb:
+
+    # tMax 11 "Конечно, с точки зрения морали ставить камеру в ванной комнате сомнительно. Однако, тут и так окно во всю стену. Так что, формально я лишь приоткрыл это окно..." nointeract
+    ""
+
+# game/scripts/story_01/hidden_cams.rpy:148
+translate spanish ev_install_cam_bathroom_1_d1974012:
+
+    # tMax 12 "Ещё надо подключить эту камеру и разобраться во всех настройках. Сложного тут ничего нет, но немного повозиться придётся..."
+    ""
+
+# game/scripts/story_01/hidden_cams.rpy:152
+translate spanish ev_install_cam_bathroom_1_6d1a29c9:
+
+    # tMax 04 "Вот всё и заработало! Теперь, благодаря камере в ванной комнате, мой сайт должен приносить побольше дохода, чем было. Да и на мокрые сисечки всегда приятно посмотреть, теперь ещё и с комфортом."
+    ""
+
+# game/scripts/story_01/hidden_cams.rpy:153
+translate spanish ev_install_cam_bathroom_1_7c9e4204:
+
+    # tMax 13 "Правда, подглядывать в окна или заглядывать в комнаты всё равно временами нужно, а то я всю сноровку растеряю и меня станут ловить на раз-два..."
+    ""
+
 translate spanish strings:
 
     # game/scripts/story_01/hidden_cams.rpy:28
@@ -122,11 +182,15 @@ translate spanish strings:
     old "{i}настроить работу сайта{/i}"
     new "{i}configurar el sitio{/i}"
 
-    # game/scripts/story_01/hidden_cams.rpy:90
+    # game/scripts/story_01/hidden_cams.rpy:91
     old "Задание «Способ заработать» завершено!"
     new "La oportunidad «Una forma de ganar dinero» está terminada!"
 
-    # game/scripts/story_01/hidden_cams.rpy:91
+    # game/scripts/story_01/hidden_cams.rpy:92
     old "Открыто новое задание «Приумножение заработка»!"
     new "Una nueva oportunidad «Aumente sus ingresos» está abierta!"
+
+    # game/scripts/story_01/hidden_cams.rpy:142
+    old "{i}пойти настроить камеру{/i}"
+    new ""
 

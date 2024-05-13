@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-01-09 23:01
+# TODO: Translation updated at 2024-02-14 20:38
 
 translate spanish strings:
 
@@ -18,51 +18,51 @@ translate spanish strings:
     old "Вернуться"
     new "Volver"
 
-    # game/scripts/screens/collection.rpy:118
+    # game/scripts/screens/collection.rpy:122
     old "Предыдущая"
     new "Anterior"
 
-    # game/scripts/screens/collection.rpy:121
+    # game/scripts/screens/collection.rpy:125
     old "Неподозревающая"
     new "Nada suspicaz"
 
-    # game/scripts/screens/collection.rpy:123
+    # game/scripts/screens/collection.rpy:127
     old "Удивлённая"
     new "Sorprendido"
 
-    # game/scripts/screens/collection.rpy:125
+    # game/scripts/screens/collection.rpy:129
     old "Сердитая"
     new "Enojado"
 
-    # game/scripts/screens/collection.rpy:127
+    # game/scripts/screens/collection.rpy:131
     old "Сильно стесняющаяся"
     new "Muy tímido"
 
-    # game/scripts/screens/collection.rpy:129
+    # game/scripts/screens/collection.rpy:133
     old "Стесняющаяся"
     new "Tímido"
 
-    # game/scripts/screens/collection.rpy:131
+    # game/scripts/screens/collection.rpy:135
     old "!!! ОШИБКА !!!"
     new "!!! ERROR !!!"
 
-    # game/scripts/screens/collection.rpy:149
+    # game/scripts/screens/collection.rpy:154
     old "Следующая"
     new "Siguiente"
 
-    # game/scripts/screens/collection.rpy:180
+    # game/scripts/screens/collection.rpy:185
     old "Макс ещё не видел Алису такой!"
     new "¡Max nunca antes había visto a Alice así!"
 
-    # game/scripts/screens/collection.rpy:182
+    # game/scripts/screens/collection.rpy:187
     old "Макс ещё не видел маму такой!"
     new "¡Max nunca había visto a su madre así!"
 
-    # game/scripts/screens/collection.rpy:184
+    # game/scripts/screens/collection.rpy:189
     old "Макс ещё не видел Лизу такой!"
     new "¡Max nunca antes había visto a Lisa así!"
 
-    # game/scripts/screens/collection.rpy:254
-    old "Этот сон ещё не открыт."
-    new "Este sueño aún no ha sido descubierto."
+    # game/scripts/screens/collection.rpy:259
+    old "Этот сон ещё не открыт!"
+    new ""
 

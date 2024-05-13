@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-04-17 23:25
 
 translate italian strings:
 
@@ -7,8 +7,8 @@ translate italian strings:
     new "Massaggio ai piedi"
 
     # game/scripts/engine/cources.rpy:93
-    old "Это уникальная методика массажа с целью оказания оздоравливающего воздействия на организм. Она эффективна и в тоже время несложна в исполнении."
-    new "Questo è un metodo unico di massaggio per avere un effetto curativo sul corpo. È efficace e allo stesso tempo semplice da eseguire."
+    old "Это уникальная методика массажа с целью оказания оздоравливающего воздействия на организм. \nОна эффективна и в тоже время несложна в исполнении."
+    new "Si tratta di un metodo di massaggio unico nel suo genere, con l'obiettivo di fornire un effetto curativo al corpo. \nÈ efficace e allo stesso tempo non è difficile da eseguire."
 
     # game/scripts/engine/cources.rpy:93
     old "Массаж кистей рук"
@@ -27,14 +27,14 @@ translate italian strings:
     new "Abilità comunicative: nozioni di base sulla comunicazione"
 
     # game/scripts/engine/cources.rpy:93
-    old "Это второй курс обучения навыкам общения. Из него вы узнаете как повлиять на решение человека без слов, как подобрать правильный слова в нужной ситуации для достижения своей цели."
-    new "Questo è il secondo corso di formazione sulle abilità comunicative. Da esso imparerai come influenzare la decisione di una persona senza parole, come scegliere le parole giuste nella giusta situazione per raggiungere il tuo obiettivo."
+    old "Это второй курс обучения навыкам общения. \nИз него вы узнаете как повлиять на решение человека без слов, как подобрать правильный слова в нужной ситуации для достижения своей цели."
+    new "Questo è il secondo corso sulle abilità comunicative. \nImparerete come influenzare la decisione di una persona senza parole, come scegliere le parole giuste nella situazione giusta per raggiungere il vostro obiettivo."
 
     # game/scripts/engine/cources.rpy:93
     old "Навыки общения: Без границ"
     new "Abilità comunicative: Senza frontiere"
 
     # game/scripts/engine/cources.rpy:93
-    old "Это продвинутый длительный курс, предназначенный для тех, кто хочет постоянно обучаться и совершенствоваться. На данный момент это последний доступный курс."
-    new "Questo è un corso avanzato a lungo termine progettato per coloro che vogliono imparare e migliorare costantemente. È l'ultimo corso disponibile al momento."
+    old "Это продвинутый длительный курс, предназначенный для тех, кто хочет постоянно обучаться и совершенствоваться. \nНа данный момент это последний доступный курс."
+    new "Si tratta di un corso avanzato di lunga durata progettato per coloro che vogliono imparare e migliorare continuamente. \nQuesto è l'ultimo corso disponibile al momento."
 

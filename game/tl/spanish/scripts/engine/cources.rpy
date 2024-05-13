@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-04-17 23:25
 
 translate spanish strings:
 
@@ -7,8 +7,8 @@ translate spanish strings:
     new "Masaje de pies"
 
     # game/scripts/engine/cources.rpy:93
-    old "Это уникальная методика массажа с целью оказания оздоравливающего воздействия на организм. Она эффективна и в тоже время несложна в исполнении."
-    new "Se trata de un método único de masaje cuyo objetivo es proporcionar un efecto curativo en el cuerpo. Es eficaz y al mismo tiempo no es difícil de realizar."
+    old "Это уникальная методика массажа с целью оказания оздоравливающего воздействия на организм. \nОна эффективна и в тоже время несложна в исполнении."
+    new "Se trata de un método único de masaje cuyo objetivo es proporcionar un efecto curativo en el cuerpo. \nEs eficaz y al mismo tiempo no es difícil de realizar."
 
     # game/scripts/engine/cources.rpy:93
     old "Массаж кистей рук"
@@ -27,14 +27,14 @@ translate spanish strings:
     new "Habilidades de comunicación: Fundamentos de la comunicación"
 
     # game/scripts/engine/cources.rpy:93
-    old "Это второй курс обучения навыкам общения. Из него вы узнаете как повлиять на решение человека без слов, как подобрать правильный слова в нужной ситуации для достижения своей цели."
-    new "Este es el segundo curso de habilidades de comunicación. En él aprenderás a influir en la decisión de una persona sin palabras, a elegir las palabras adecuadas en la situación adecuada para lograr tu objetivo."
+    old "Это второй курс обучения навыкам общения. \nИз него вы узнаете как повлиять на решение человека без слов, как подобрать правильный слова в нужной ситуации для достижения своей цели."
+    new "Este es el segundo curso de habilidades de comunicación. \nEn él aprenderás a influir en la decisión de una persona sin palabras, a elegir las palabras adecuadas en la situación adecuada para lograr tu objetivo."
 
     # game/scripts/engine/cources.rpy:93
     old "Навыки общения: Без границ"
     new "Habilidades de comunicación: Sin límites"
 
     # game/scripts/engine/cources.rpy:93
-    old "Это продвинутый длительный курс, предназначенный для тех, кто хочет постоянно обучаться и совершенствоваться. На данный момент это последний доступный курс."
-    new "Se trata de un curso avanzado de larga duración diseñado para quienes desean aprender y mejorar continuamente. Este es el último curso disponible en este momento."
+    old "Это продвинутый длительный курс, предназначенный для тех, кто хочет постоянно обучаться и совершенствоваться. \nНа данный момент это последний доступный курс."
+    new "Se trata de un curso avanzado de larga duración diseñado para quienes desean aprender y mejorar continuamente. \nEste es el último curso disponible en este momento."
 
