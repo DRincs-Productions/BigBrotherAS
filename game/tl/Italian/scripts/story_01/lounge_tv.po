@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-05-12 13:40\n"
+"PO-Revision-Date: 2024-05-14 14:53\n"
 
 # TODO: Translation updated at 2024-05-12 15:48 #|#|# # game/scripts/story_01/lounge_tv.rpy:8 #-#-# translate crowdin ev_ann_tv_talk_df9c7313:
 msgid "[_Ann_s_01_] Да так, всякую ерунду. Хотела какой-нибудь фильм посмотреть. Садись рядом, если тоже делать нечего... [nointeract]"
@@ -274,7 +274,7 @@ msgstr "[_Ann_s_10_] Ecco, bene! Perché non succeda più, capito? Se hai già a
 
 # game/scripts/story_01/lounge_tv.rpy:248 #-#-# translate crowdin ev_038_a865c100:
 msgid "[_Max_s_12_] Ладно, я постараюсь..."
-msgstr "[_Max_s_12_] Ладно, я постараюсь..."
+msgstr "[_Max_s_12_] Ok, ci proverò..."
 
 # game/scripts/story_01/lounge_tv.rpy:250 #-#-# translate crowdin ev_038_8da284a7:
 msgid "[_Ann_s_12_] Теперь иди займись чем-нибудь, дай мне без происшествий досмотреть сериал. [nointeract]"
