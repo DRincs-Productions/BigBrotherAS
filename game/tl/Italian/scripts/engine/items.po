@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-05-12 13:38\n"
+"PO-Revision-Date: 2024-06-19 06:54\n"
 
-# TODO: Translation updated at 2024-05-12 15:48 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/items.rpy:216
+# TODO: Translation updated at 2024-06-18 22:58 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/items.rpy:216
 msgid "Одежда"
 msgstr "Abbigliamento"
 
@@ -331,4 +331,12 @@ msgstr "Sedativo"
 # game/scripts/engine/items.rpy:227
 msgid "Отлично подойдёт тем, кто не хочет перевозбуждаться. Только спокойствие и безмятежность. Перед применением следует обязательно проконсультироваться с врачом для определения нужной дозировки."
 msgstr "Ottimo per chi non vuole essere sovraeccitato. Solo calma e serenità. Consultare sempre un medico prima dell'uso per determinare il corretto dosaggio."
+
+# game/scripts/engine/items.rpy:227
+msgid "USB-флешка"
+msgstr "Chiave USB"
+
+# game/scripts/engine/items.rpy:227
+msgid "Устройство для хранения и переноса цифровых данных. В данный момент, может быть использована для достижения некоторых целей."
+msgstr "Dispositivo per la memorizzazione e il trasferimento di dati digitali. Al momento, può essere utilizzato per soddisfare alcuni scopi."
 
