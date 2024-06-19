@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-01-15 22:41
+﻿# TODO: Translation updated at 2024-06-18 22:58
 
 # game/scripts/story_01/dinners.rpy:31
 translate crowdin ev_dinner_r1_24ac51ec:

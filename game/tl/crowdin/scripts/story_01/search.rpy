@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-10-14 21:25
+﻿# TODO: Translation updated at 2024-06-18 22:58
 
 translate crowdin strings:
 
@@ -13,4 +13,16 @@ translate crowdin strings:
     # game/scripts/story_01/search.rpy:2
     old "читать о пауках"
     new "читать о пауках"
+
+    # game/scripts/story_01/search.rpy:2
+    old "как обойти ограничения в вэб-трансляциях?"
+    new "как обойти ограничения в вэб-трансляциях?"
+
+    # game/scripts/story_01/search.rpy:2
+    old "почитать о защите личных данных на компьютере"
+    new "почитать о защите личных данных на компьютере"
+
+    # game/scripts/story_01/search.rpy:2
+    old "узнать о взломе паролей на компьютерах"
+    new "узнать о взломе паролей на компьютерах"
 
