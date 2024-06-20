@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-06-19 06:55\n"
+"PO-Revision-Date: 2024-06-20 15:00\n"
 
 # TODO: Translation updated at 2024-06-18 22:58 #|#|# # §translate crowdin strings: #|#|# # game/scripts/mini-games/hack.rpy:91
 msgid "Инструкция по взлому пароля"
@@ -30,7 +30,7 @@ msgstr "Inserire la password"
 
 # game/scripts/mini-games/hack.rpy:166
 msgid "Упорядочить"
-msgstr "Organizzare"
+msgstr "Ordinare"
 
 # game/scripts/mini-games/hack.rpy:186
 msgid "Пароль, который вы хотите взломать, состоит из [hack.len] символов. Вам нужно вводить различные символы и проверять, верна ли их последовательность."
