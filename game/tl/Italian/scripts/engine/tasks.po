@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-06-19 06:54\n"
+"PO-Revision-Date: 2024-06-20 12:35\n"
 
 # TODO: Translation updated at 2024-06-18 22:58 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:175
 msgid "Любопытное содержимое"
@@ -217,7 +217,7 @@ msgstr "Trovare un modo per aggirare la restrizione di trasmissione di Alice."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Оплата VPN-сервера будет стоить $25..."
-msgstr "Il costo di un server VPN è di 25 dollari..."
+msgstr "Il costo di un server VPN è di $25..."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Найти способ узнать новый ник Алисы на сайте «MyCams»."
@@ -237,7 +237,7 @@ msgstr "Trovare un modo per entrare nel portatile di Alice."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Макс должен быть на вилле один..."
-msgstr "Max deve essere nella villa da solo....."
+msgstr "Max deve essere nella villa da solo..."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Проверить данные с ноутбука Алисы"
@@ -355,7 +355,7 @@ msgstr "Convincere Alice a mostrare il suo bottino salvandola dal ragno nella st
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Добиться объятий Алисы, спасая её от паука во дворе."
-msgstr "Raggiungere l'abbraccio di Alice salvandola da un ragno in giardino."
+msgstr "Conquista l’abbraccio di Alice salvandola da un ragno nel cortile."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Убедить Алису обняться, спасая её от паука в душе."
