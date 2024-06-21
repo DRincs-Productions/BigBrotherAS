@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-06-20 15:00\n"
+"PO-Revision-Date: 2024-06-21 07:32\n"
 
 # TODO: Translation updated at 2024-06-18 22:58 #|#|# # game/scripts/story_01/arachnophobia.rpy:7 #-#-# translate crowdin ev_032_247fb4c6:
 msgid "[_tMax_s_12_] Так... Пауки. Ох, сколько видов... Какие же тут у нас водятся..."
@@ -714,15 +714,15 @@ msgstr "[_Alice_s_11_] Se indossassi un reggiseno, forse lo farei. Ma puoi tocca
 
 # game/scripts/story_01/arachnophobia.rpy:643 #-#-# translate crowdin ev_070_touch_bust_f0ecb9d2:
 msgid "[_Alice_s_14_] Эй! Нифига себе ты наглый! То, что я руками грудь прикрываю не значит, что ты не отхватишь за свои проделки..."
-msgstr "[Ehi! Hai una bella faccia tosta! Solo perche' mi copro il seno con le mani non significa che non prenderai una batosta per le tue bravate...."
+msgstr "[_Alice_s_14_] Ehi! Sei proprio sfacciato! Il fatto che io stia coprendo il petto con le mani non significa che non riceverai una punizione per le tue azioni..."
 
 # game/scripts/story_01/arachnophobia.rpy:644 #-#-# translate crowdin ev_070_touch_bust_3fd20a2b:
 msgid "[_Max_s_06_] Так я уже отхватил кое-что мягкое и упругое..."
-msgstr "[Ho già preso qualcosa di morbido e rimbalzante..."
+msgstr "[_Max_s_06_] Quindi ho già preso qualcosa di morbido e elastico..."
 
 # game/scripts/story_01/arachnophobia.rpy:647 #-#-# translate crowdin ev_070_touch_bust_fc010f56:
 msgid "[_Alice_s_11_] Так, ну всё! Давай-ка убирай руки с моего зада, пока я ещё даю тебе такую возможность. Иначе кое-кому будет плохо! [nointeract]"
-msgstr "[Ok, basta cosi'! Togli le mani dal mio culo finché te ne do la possibilità. Altrimenti qualcuno si farà male! [nointeract]"
+msgstr "[_Alice_s_11_] Va bene, basta così! Togli le mani dal mio culo finché te ne do la possibilità. O qualcuno si farà male! [nointeract]"
 
 # game/scripts/story_01/arachnophobia.rpy:650 #-#-# translate crowdin ev_070_touch_bust_36c2908d:
 msgid "[_Alice_s_12_] А теперь, морда нахальная, убери уже наконец этого паука!!!"
