@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-06-21 10:54\n"
+"PO-Revision-Date: 2024-06-21 11:54\n"
 
 # TODO: Translation updated at 2024-06-18 22:58 #|#|# # game/scripts/story_01/blog.rpy:11 #-#-# translate crowdin ev_017_423a776a:
 msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
@@ -1376,11 +1376,11 @@ msgstr "[_tMax_s_11_] Ecco fatto! Anche se no, non è ancora tutto... Devo ancor
 
 # game/scripts/story_01/blog.rpy:1034 #-#-# translate crowdin ev_107_4cb27da0:
 msgid "[_tMax_s_01_] Пожалуй, Mike не слишком броское имя. Мне подойдёт. Ах, да... Ещё же платёжную информацию нужно ввести... Или лучше сперва посмотреть, что там делает на трансляциях моя сестрёнка? А то может там и платить-то не за что..."
-msgstr "[Immagino che Mike non sia un nome molto accattivante. Per me va bene. Oh, sì. Devo anche inserire i miei dati di pagamento... O dovrei prima vedere cosa fa mia sorella nelle trasmissioni? O forse non c'è nulla da pagare."
+msgstr "[_tMax_s_01_] Probabilmente, Mike non è un nome troppo appariscente. Mi va bene. Ah, sì... Devo anche inserire le informazioni di pagamento... O forse sarebbe meglio prima vedere cosa sta facendo mia sorella nelle sue trasmissioni? Magari non c’è nemmeno nulla per cui valga la pena pagare..."
 
 # game/scripts/story_01/blog.rpy:1035 #-#-# translate crowdin ev_107_d8b237e6:
 msgid "[_tMax_s_03_] Ха, а вот и Алиса! Попалась, наконец-то... Хорошо, что я решил взломать её компьютер, потому что по изображению в профиле её не узнать. Пускай она хитрая, но и я не пальцем деланный! Как-нибудь вечерком я загляну к тебе на трансляцию, Алиса..."
-msgstr "[Ah, ecco Alice! Finalmente l'ho trovata... È un bene che abbia deciso di entrare nel suo computer, perché non la riconosceresti dalla foto del suo profilo. Sarà anche subdola, ma io non mi lascio intimidire! Verrò alla tua trasmissione una sera, Alice....."
+msgstr "[_tMax_s_03_] Ah, ecco Alice! Finalmente l’ho trovata... Meno male che ho deciso di hackerare il suo computer, perché dalla foto del profilo non si riconosce. Può essere furba, ma anche io non sono nato ieri! Una sera di queste farò un salto alla tua trasmissione, Alice..."
 
 # §translate crowdin strings: #|#|# # game/scripts/story_01/blog.rpy:15
 msgid "{i}отвлечь Алису{/i}"
@@ -1388,7 +1388,7 @@ msgstr "{i}distrarre Alice{/i}"
 
 # game/scripts/story_01/blog.rpy:67
 msgid "Открыто новое задание «Обедневшая блогерша»!"
-msgstr "È aperta una nuova assegnazione di \"Blogger impoverito\"!"
+msgstr "Aperta una nuova missione «La blogger impoverita»!"
 
 # game/scripts/story_01/blog.rpy:112
 msgid "Так можно же делать что-то менее развратное..."
@@ -1468,11 +1468,11 @@ msgstr "{i}prova a sbirciare{/i}"
 
 # game/scripts/story_01/blog.rpy:870
 msgid "Задание «Обедневшая блогерша» завершено!"
-msgstr "Il compito \"Blogger impoverito\" è completo!"
+msgstr "Il compito «La blogger impoverita» è stato completato!"
 
 # game/scripts/story_01/blog.rpy:871
 msgid "Открыто новое задание «Взломать блогершу»!"
-msgstr "È aperto un nuovo incarico \"Hack the Blogger\"!"
+msgstr "Aperta una nuova missione «Hackerare la blogger»!"
 
 # game/scripts/story_01/blog.rpy:894
 msgid "Оплатить ($25)"
@@ -1488,19 +1488,19 @@ msgstr "{i}cercate Alice sul sito{/i}"
 
 # game/scripts/story_01/blog.rpy:907
 msgid "Задание «Взломать блогершу» обновлено!"
-msgstr "Il compito \"Hack a blogger\" è stato aggiornato!"
+msgstr "Il compito «Hackerare la blogger» è stato aggiornato!"
 
 # game/scripts/story_01/blog.rpy:988
 msgid "{i}решать головоломку{/i}"
-msgstr "{i}risolvere il puzzle{/i}"
+msgstr "{i}risolvere il rompicapo{/i}"
 
 # game/scripts/story_01/blog.rpy:1017
 msgid "{i}вернуть всё, как было и уйти{/i}"
-msgstr "{i}di rimettere tutto a posto e andarsene."
+msgstr "{i}rimettere tutto a posto e andarsene{/i}"
 
 # game/scripts/story_01/blog.rpy:1038
 msgid "Задание «Взломать блогершу» завершено!"
-msgstr "Il compito \"Hack the blogger\" è terminato!"
+msgstr "Il compito «Hackerare la blogger» è stato completato!"
 
 # game/scripts/story_01/blog.rpy:1039
 msgid "Открыто новое задание «Стримерша»!"
