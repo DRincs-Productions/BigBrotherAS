@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-06-19 06:55\n"
+"PO-Revision-Date: 2024-06-22 07:40\n"
 
 # TODO: Translation updated at 2024-06-18 22:58 #|#|# # game/scripts/story_01/fantasy.rpy:8 #-#-# translate crowdin ev_099_42c5624b:
 msgid "[_tMax_s_01_] Ну, что... Самое время немного погонять лысого. Кто же из девочек сможет мне с этим помочь? [nointeract]"
@@ -34,23 +34,23 @@ msgstr "[_Max_s_03_] Ho pensato di guardarti mentre strofinavi le mani insaponat
 
 # game/scripts/story_01/fantasy.rpy:41 #-#-# translate crowdin ev_099_alice_bath_hj_b43aa2fb:
 msgid "[_Alice_s_06_] Какое совпадение, я как раз хотела заняться чем-то именно таким, но... Раз уж ты зашёл, то я могла бы потереть кое-что ещё. Хочешь? [nointeract]"
-msgstr "[Che coincidenza, stavo proprio per fare una cosa del genere, ma... Visto che sei qui, potrei strofinare qualcos'altro. Ti va? [nointeract]"
+msgstr "[_Alice_s_06_] Che coincidenza, stavo proprio per fare una cosa del genere, ma... Visto che sei qui, potrei strofinare qualcos'altro. Ti va? [nointeract]"
 
 # game/scripts/story_01/fantasy.rpy:46 #-#-# translate crowdin ev_099_alice_bath_hj_6bcbaaac:
 msgid "[_Alice_s_12_] Серьёзно?! Перед тобой в ванне сидит голая девушка, которая не прочь тебе подрочить, а ты ещё и сомневаешься! Что это с тобой, Макс?"
-msgstr "[Davvero?! C'è una ragazza nuda davanti a te nella vasca da bagno che vuole farti una sega e tu esiti! Cosa c'è che non va in te, Max?"
+msgstr "[_Alice_s_12_] Davvero?! C'è una ragazza nuda davanti a te nella vasca da bagno che vuole farti una sega e tu esiti! Cosa c'è che non va in te, Max?"
 
 # game/scripts/story_01/fantasy.rpy:47 #-#-# translate crowdin ev_099_alice_bath_hj_24969d90:
 msgid "[_Max_s_12_] Должно быть в сон уже сильно клонит..."
-msgstr "[Dev'essere molto assonnato ormai..."
+msgstr "[_Max_s_12_] Deve essere piuttosto assonnato a questo punto..."
 
 # game/scripts/story_01/fantasy.rpy:48 #-#-# translate crowdin ev_099_alice_bath_hj_e61ce2dc:
 msgid "[_Alice_s_04_] Да, время позднее... Я и сама немного притомилась, принимая ванну, но... Не помню чтобы нам это когда-то мешало... развлекаться?"
-msgstr "[Sì, è tardi... Anch'io sono un po' stanco per il bagno, ma... non ricordo che ci abbia mai ostacolato. divertirsi?"
+msgstr "[_Alice_s_04_] Sì, è tardi. Anch'io sono un po' stanca per il bagno, ma... Non ricordo che ci abbia mai ostacolato. Ci divertiamo?"
 
 # game/scripts/story_01/fantasy.rpy:49 #-#-# translate crowdin ev_099_alice_bath_hj_82985973:
 msgid "[_Max_s_11_] А ведь и правда! Тогда погнали..."
-msgstr "[E' vero! Allora andiamo..."
+msgstr "[_Max_s_11_] È vero! Allora andiamo..."
 
 # game/scripts/story_01/fantasy.rpy:52 #-#-# translate crowdin ev_099_alice_bath_hj_1e8a51f4:
 msgid "[_tMax_s_07_] Ох и люблю я целоваться с Алисой! Да со страстью, увлечённо... Ммм... Губки у неё сочные... А уж как в член мой вцепилась!"
