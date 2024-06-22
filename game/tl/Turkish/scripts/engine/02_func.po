@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/engine/02_func.po\n"
+"X-Crowdin-File-ID: 9065\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2024-06-19 06:56\n"
+
+# TODO: Translation updated at 2024-06-18 22:58 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/02_func.rpy:408
+msgid "Скрытность"
+msgstr "Gizlilik"
+
+# game/scripts/engine/02_func.rpy:409
+msgid "Убеждение"
+msgstr "Inanç"
+
+# game/scripts/engine/02_func.rpy:410
+msgid "Массаж"
+msgstr ""
+
+# game/scripts/engine/02_func.rpy:413
+msgid "Настроение {char_name}"
+msgstr "Ruh hali {char_name}"
+
+# game/scripts/engine/02_func.rpy:413
+msgid "мамы"
+msgstr "anneler"
+

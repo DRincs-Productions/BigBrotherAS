@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/screens/navigation.po\n"
+"X-Crowdin-File-ID: 9093\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2024-06-19 06:56\n"
+
+# TODO: Translation updated at 2024-06-18 22:58 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/navigation.rpy:134
+msgid "Ждать окончания часа"
+msgstr "Saatin sonunu bekliyorum"
+
+# game/scripts/screens/navigation.rpy:149
+msgid "Поговорить"
+msgstr "Konuş"
+
+# game/scripts/screens/navigation.rpy:166
+msgid "Принять ванну"
+msgstr "Banyo yapın"
+
+# game/scripts/screens/navigation.rpy:174
+msgid "Принять душ"
+msgstr "Duş al"
+
+# game/scripts/screens/navigation.rpy:182
+msgid "Лечь спать"
+msgstr "Yatağa git"
+
+# game/scripts/screens/navigation.rpy:190
+msgid "Сесть за ноутбук"
+msgstr "Dizüstü bilgisayar başında oturmak"
+
+# game/scripts/screens/navigation.rpy:205
+msgid "Разобрать коробки"
+msgstr "Kutuları sökün"
+
+# game/scripts/screens/navigation.rpy:215
+msgid "Искать камеру"
+msgstr "Bir kamera arıyorum"
+
+# game/scripts/screens/navigation.rpy:223
+msgid "Читать"
+msgstr "Okuyun"
+
+# game/scripts/screens/navigation.rpy:231
+msgid "Пылесосить дом"
+msgstr "Evin süpürülmesi"
+
+# game/scripts/screens/navigation.rpy:231
+msgid "нужен отдых"
+msgstr "dinlenmeye ihtiyacım var"
+
+# game/scripts/screens/navigation.rpy:243
+msgid "Чистить бассейн"
+msgstr "Havuzu temizleyin"
+
+# game/scripts/screens/navigation.rpy:254
+msgid "Подстричь газон"
+msgstr "Çimleri biçin"
+
+# game/scripts/screens/navigation.rpy:265
+msgid "Выйти в город"
+msgstr "Şehre inin"
+
+# game/scripts/screens/navigation.rpy:272
+msgid "Покинуть виллу"
+msgstr "Villadan ayrılmak"
+
+# game/scripts/screens/navigation.rpy:279
+msgid "Искать книгу"
+msgstr "Bir kitap arıyorum"
+
+# game/scripts/screens/navigation.rpy:289
+msgid "Искать пауков"
+msgstr "Örümcek arıyorum"
+
+# game/scripts/screens/navigation.rpy:298
+msgid "Установить камеру"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:318
+msgid "Развернуть"
+msgstr "Öğeyi Genişlet"
+
+# game/scripts/screens/navigation.rpy:326
+msgid "Ждать 30 минут"
+msgstr "30 dakika bekleyin"
+
+# game/scripts/screens/navigation.rpy:338
+msgid "Свернуть"
+msgstr "Küçült"
+
+# game/scripts/screens/navigation.rpy:371
+msgid "Поддержать игру на Boosty"
+msgstr "Boosty'de oyunu destekleyin"
+
+# game/scripts/screens/navigation.rpy:377
+msgid "Поддержать игру на Patreon"
+msgstr "Patreon'da oyunu destekleyin"
+
+# game/scripts/screens/navigation.rpy:383
+msgid "Меню игры"
+msgstr "Oyun menüsü"
+
+# game/scripts/screens/navigation.rpy:391
+msgid "Галерея"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:403
+msgid "Обучение"
+msgstr "Eğitim"
+
+# game/scripts/screens/navigation.rpy:413
+msgid "Личный дневник"
+msgstr "Kişisel günlük"
+
+# game/scripts/screens/navigation.rpy:525
+msgid "Скрыть"
+msgstr "Gizle"
+
+# game/scripts/screens/navigation.rpy:563
+msgid "Продолжение следует..."
+msgstr "Devam filmi..."
+
+# game/scripts/screens/navigation.rpy:622
+msgid "Что бы выбрать?"
+msgstr "Sen ne seçerdin?"
+
+# game/scripts/screens/navigation.rpy:634
+msgid "(куплено)"
+msgstr "(satın alındı)"
+
+# game/scripts/screens/navigation.rpy:645
+msgid "{i}готово{/i}"
+msgstr "{i}Bitti{/i}"
+
+# game/scripts/screens/navigation.rpy:700
+msgid "ВНИМАНИЕ"
+msgstr "DİKKAT"
+
+# game/scripts/screens/navigation.rpy:701
+msgid "КОНТЕНТ ДЛЯ ВЗРОСЛЫХ"
+msgstr "YETİŞKİN İÇERİĞİ"
+
+# game/scripts/screens/navigation.rpy:705
+msgid "Эта игра содержит контент сексуального характера"
+msgstr "Bu oyun cinsel içerikli içerik barındırmaktadır"
+
+# game/scripts/screens/navigation.rpy:706
+msgid "Продолжая, ты подтверждаешь, что достаточно взрослый для такого контента"
+msgstr "Devam ederek, bu tür içerikler için yeterince büyük olduğunuzu onaylıyorsunuz"
+
+# game/scripts/screens/navigation.rpy:708
+msgid "Все персонажи, изображённые в этой игре, вымышлены и старше 18 лет"
+msgstr "Bu oyunda tasvir edilen tüm karakterler kurgusaldır ve 18 yaşından büyüktür"
+
+# game/scripts/screens/navigation.rpy:710
+msgid "Продолжить"
+msgstr "Devam Et"
+
