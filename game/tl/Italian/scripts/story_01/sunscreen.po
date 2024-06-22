@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-06-19 06:55\n"
+"PO-Revision-Date: 2024-06-22 08:38\n"
 
 # TODO: Translation updated at 2024-06-18 22:58 #|#|# # game/scripts/story_01/sunscreen.rpy:7 #-#-# translate crowdin ev_011_03c9dcee:
 msgid "[_Alice_s_01_] Как ты догадался, Шерлок? [nointeract]"
@@ -66,15 +66,15 @@ msgstr "[_Alice_s_07_] Massaggiami la schiena con questo olio. Io farò il resto
 
 # game/scripts/story_01/sunscreen.rpy:97 #-#-# translate crowdin ev_011_apply_oil_3269ae9a:
 msgid "[_Alice_s_04_] Нет, но... Вообще-то, можно и снять, чтобы следы от лямок не оставались. Всё равно тебе ничего такого не будет видно..."
-msgstr "[No, ma... In realtà potresti anche toglierlo, così non rimangono i segni della cinghia. Tanto non si vedrebbe nulla di simile..."
+msgstr "[_Alice_s_04_] No, ma... A dire il vero, potresti toglierlo per evitare che le cinghie lascino segni. Tanto non si vedranno..."
 
 # game/scripts/story_01/sunscreen.rpy:101 #-#-# translate crowdin ev_011_apply_oil_16211397:
 msgid "[_tMax_s_03_] Так держать, сестрёнка! [nointeract]"
-msgstr "[Brava, sorellina! [nointeract]"
+msgstr "[_tMax_s_03_] Brava, sorella! [nointeract]"
 
 # game/scripts/story_01/sunscreen.rpy:118 #-#-# translate crowdin ev_011_apply_oil_b7312520:
 msgid "[_Alice_s_02_] Нет, Макс, мне и так хорошо. Давай уже, начинай... [nointeract]"
-msgstr "[No, Max, sto bene così. Forza, comincia... [nointeract]"
+msgstr "[_Alice_s_02_] No, Max, sto bene così. Forza, inizia... [nointeract]"
 
 # game/scripts/story_01/sunscreen.rpy:151 #-#-# translate crowdin ev_011_apply_oil_3cc14dee:
 msgid "[_tMax_s_02_] Так, сейчас я хорошенько разотру её спинку, а так же плечи и совсем немного шею... Вот и готово!"
@@ -130,7 +130,7 @@ msgstr "[_tMax_s_02_] Ok, ora le massaggio bene la schiena e le spalle e un po' 
 
 # game/scripts/story_01/sunscreen.rpy:201 #-#-# translate crowdin ev_011_apply_oil_toples_0a190d88:
 msgid "[_Alice_s_07_] Спасибо, Макс! Я так хорошо устроилась на этом лежаке, что даже шевелиться не хочется. Натри мне ещё ножки, но не лезь слишком высоко... [nointeract]"
-msgstr "[Grazie, Max! Sto così bene su questo letto che non voglio nemmeno muovermi. Strofina ancora un po' i miei piedi, ma non esagerare.... [nointeract]"
+msgstr "[_Alice_s_07_] Grazie, Max! Sono così comoda su questo letto che non voglio nemmeno muovermi. Massaggiami ancora un po i piedi, ma non salire troppo in alto... [nointeract]"
 
 # game/scripts/story_01/sunscreen.rpy:205 #-#-# translate crowdin ev_011_apply_oil_toples_e8be3de8:
 msgid "[_tMax_s_01_] У моей сестрёнки приятные и стройные ножки. Я бы с таким удовольствием растёр их маслицем сверху донизу, но увы, нельзя..."
@@ -418,7 +418,7 @@ msgstr "Una nuova missione «Olio abbronzante» è aperta!"
 
 # game/scripts/story_01/sunscreen.rpy:88
 msgid "Верх снять не хочешь, чтобы было удобнее?"
-msgstr "Volete togliere la capote per renderla più confortevole?"
+msgstr "Volete togliere il top per renderlo più confortevole?"
 
 # game/scripts/story_01/sunscreen.rpy:88
 msgid "{i}натереть маслицем её спину{/i}"
