@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-05-12 14:46\n"
+"PO-Revision-Date: 2024-06-19 06:51\n"
 
-# TODO: Translation updated at 2024-05-12 15:48 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:175
+# TODO: Translation updated at 2024-06-18 22:58 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:175
 msgid "Любопытное содержимое"
 msgstr "Un contenu curieux"
 
@@ -134,8 +134,8 @@ msgid "Нужно завершить задание «Способ зарабо�
 msgstr "Nous devons terminer la tâche «comment gagner de l'argent« !"
 
 # game/scripts/engine/tasks.rpy:175
-msgid "Стримерша"
-msgstr "La fille du streamer"
+msgid "Обедневшая блогерша"
+msgstr "Blogueur appauvri"
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Алиса рассказала о своём блоге, а так же о своей проблеме, связанной с потерей вещей во время переезда. Теперь ей нечего показывать, не в чем вести блог и, вообще, она в печали. \n"
@@ -188,6 +188,60 @@ msgstr ""
 # game/scripts/engine/tasks.rpy:175
 msgid "Нужно вручить Алисе подарок, когда она находится в своей комнате..."
 msgstr "Besoin d'offrir un cadeau à Alice lorsqu'elle est dans sa chambre...."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Узнать, начала ли Алиса вести вэб-трансляции в нижнем белье."
+msgstr "Pour savoir si Alice a commencé à diffuser sur le web en sous-vêtements."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Снова заговорить об этом с Алисой через какое-то время..."
+msgstr "Revenir sur le sujet avec Alice après un certain temps...."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Больше взаимодействий с Алисой, когда ей требуется помощь Макса с пауками!"
+msgstr "Plus d'interactions avec Alice quand elle a besoin de l'aide de Max avec les araignées !"
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Взломать блогершу"
+msgstr "Pirater le blogueur"
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Удивительно, но Алиса действительно собирается попробовать вести вэб-трансляции в нижнем белье. Ещё более удивительно то, что именно я умудрился её убедить в этом. Похоже, с деньгами у неё всё довольно туго, раз она хочет этим заняться. \n"
+"Ну, а я хочу полюбоваться моей сексуальной сестрёнкой без риска для ушей и здоровья. Пускай она и выставила ограничения в настройках, чтобы никто в нашем регионе её не увидел, но я уверен, что смогу обойти эту защиту..."
+msgstr "Il est surprenant de constater qu'Alice va essayer de faire du webcasting en sous-vêtements. Ce qui est encore plus surprenant, c'est que c'est moi qui ai réussi à la convaincre de le faire. Je suppose que l'argent est rare si elle veut le faire. \n"
+"Moi, je veux admirer ma sœur sexy sans risquer mes oreilles ou ma santé. Elle a peut-être réglé ses paramètres pour que personne dans notre région ne puisse la voir, mais je suis sûr que je peux contourner cette protection...."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Найти способ обойти ограничение трансляций Алисы."
+msgstr "Trouver un moyen de contourner la restriction de diffusion d'Alice."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Оплата VPN-сервера будет стоить $25..."
+msgstr "Payer pour un serveur VPN coûtera 25 $..."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Найти способ узнать новый ник Алисы на сайте «MyCams»."
+msgstr "Trouvez un moyen de découvrir le nouveau surnom d'Alice sur le site MyCams."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Проверить, защищён ли ноутбук Алисы паролем."
+msgstr "Vérifiez si l'ordinateur portable d'Alice est protégé par un mot de passe."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Алисы не должно быть в её комнате и на веранде..."
+msgstr "Alice ne devrait pas être dans sa chambre et sur la véranda..."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Найти способ взломать ноутбук Алисы."
+msgstr "Trouvez un moyen de pirater l'ordinateur portable d'Alice."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Макс должен быть на вилле один..."
+msgstr "Max doit être seul dans la villa....."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Проверить данные с ноутбука Алисы"
+msgstr "Vérifier les données de l'ordinateur portable d'Alice"
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Вредная привычка"
@@ -276,6 +330,68 @@ msgstr "Nous devons commencer à frotter Alice avec de l'huile solaire afin de p
 # game/scripts/engine/tasks.rpy:175
 msgid "Улучшение взаимоотношений с Алисой!"
 msgstr "Amélioration de la relation avec Alice !"
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Недобросовестный спасатель"
+msgstr "Un sauveteur sans scrupules"
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Я слышал, что пауки полезные существа, но не думал, что настолько... Куда их Алисе не подбрось, везде становится интересно. То можно выпросить что-то особенное, за что в обычной обстановке мне бы открутили уши, то в ситуации довольно пикантные попасть. \n"
+"И раз уж наши с Алисой отношения стали лучше, то и мои желания стали более дерзкими и развратными..."
+msgstr "J'ai entendu dire que les araignées étaient des créatures utiles, mais je ne pensais pas qu'elles l'étaient à ce point.... Partout où Alice les emmène, les choses deviennent intéressantes. On peut demander quelque chose de spécial, pour lequel, dans des circonstances normales, on me couperait les oreilles, ou dans des situations assez savoureuses. \n"
+"Et depuis que notre relation avec Alice s'est améliorée, mes désirs sont devenus plus audacieux et impudiques....."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Выронить полотенце из рук, спасая Алису от паука в душе."
+msgstr "Il fait tomber la serviette de ses mains, sauvant Alice de l'araignée dans la douche."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Убедить Алису показать грудь, спасая её от паука в комнате."
+msgstr "Convaincre Alice de montrer ses seins en la sauvant de l'araignée qui se trouve dans la pièce."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Убедить Алису показать попку, спасая её от паука в комнате."
+msgstr "Convainquez Alice de montrer son butin en la sauvant de l'araignée qui se trouve dans la pièce."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Добиться объятий Алисы, спасая её от паука во дворе."
+msgstr "Réussir le câlin d'Alice en la sauvant d'une araignée dans la cour."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Убедить Алису обняться, спасая её от паука в душе."
+msgstr "Convaincre Alice de faire un câlin, la sauver de l'araignée dans la douche."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Нужно завершить задание «Стоит ли рисковать?»!"
+msgstr "Nous devons relever le défi \"Le jeu en vaut-il la chandelle ?"
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Без ущерба обнять Алису за попку, спасая её от паука в душе."
+msgstr "Sans dommage, en serrant le cul d'Alice, en la sauvant de l'araignée dans la douche."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Нужно завершить задание «Обедневшая блогерша»!"
+msgstr "Il faut relever le défi du \"blogueur appauvri\" !"
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Потрогать грудь Алисы в лифчике, спасая её от паука в комнате."
+msgstr "Toucher les seins d'Alice dans son soutien-gorge, la sauver de l'araignée dans la pièce."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Потрогать грудь Алисы без лифчика, спасая её от паука в комнате"
+msgstr "Toucher les seins sans soutien-gorge d'Alice en la sauvant de l'araignée dans la pièce."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Без ущерба облапать Алису, снявшую верх купальника, спасая её от паука во дворе."
+msgstr "Il n'y a pas de mal à tripoter Alice, qui a enlevé le haut de son maillot de bain en la sauvant d'une araignée dans la cour."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Нужно убедить Алису снять верх купальника и начать натирать её маслом для загара, чтобы незаметно подбросить ей паука..."
+msgstr "Nous devons convaincre Alice d'enlever son maillot de bain et commencer à l'enduire d'huile solaire pour planter discrètement une araignée sur elle....."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Это одно из Х заданий, необходимых для доступа к следующей главе!"
+msgstr ""
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Стоит ли рисковать?"
@@ -548,10 +664,6 @@ msgid "Поискать книгу в комнате Алисы."
 msgstr "Cherche un livre dans la chambre d'Alice."
 
 # game/scripts/engine/tasks.rpy:175
-msgid "Алисы не должно быть в её комнате и на веранде..."
-msgstr "Alice ne devrait pas être dans sa chambre et sur la véranda..."
-
-# game/scripts/engine/tasks.rpy:175
 msgid "Поискать информацию о книге Алисы в интернете."
 msgstr "Recherchez des informations sur le livre d'Alice sur Internet."
 
@@ -605,10 +717,6 @@ msgstr ""
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Сделать так, чтобы с мамы сползла одежда во время просмотра ТВ."
-msgstr ""
-
-# game/scripts/engine/tasks.rpy:175
-msgid "Это одно из Х заданий, необходимых для доступа к следующей главе!"
 msgstr ""
 
 # game/scripts/engine/tasks.rpy:175

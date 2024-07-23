@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-04-18 08:12\n"
+"PO-Revision-Date: 2024-06-19 06:55\n"
 
-# TODO: Translation updated at 2024-04-17 23:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/laptop.rpy:21
+# TODO: Translation updated at 2024-06-18 22:58 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/laptop.rpy:21
 msgid "ОНЛАЙН-КУРСЫ"
 msgstr ""
 
@@ -29,98 +29,102 @@ msgid "СВОЙ САЙТ"
 msgstr ""
 
 # game/scripts/screens/laptop.rpy:21
-msgid "CYBER-БАНК"
-msgstr ""
+msgid "Настройка VPN-сервиса"
+msgstr "Configurar o serviço VPN"
+
+# game/scripts/screens/laptop.rpy:21
+msgid "САЙТ АЛИСЫ"
+msgstr "SITE DA ALICE"
 
 # game/scripts/screens/laptop.rpy:21
 msgid "ЧИТ-МЕНЮ"
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:43
+# game/scripts/screens/laptop.rpy:44
 msgid "Назад"
 msgstr "Voltar"
 
-# game/scripts/screens/laptop.rpy:47
+# game/scripts/screens/laptop.rpy:48
 msgid "Выключить"
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:57
+# game/scripts/screens/laptop.rpy:58
 msgid "Ждать 10 минут"
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:202
+# game/scripts/screens/laptop.rpy:203
 msgid "КУПЛЕНО"
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:207
+# game/scripts/screens/laptop.rpy:208
 msgid "КУПИТЬ (недостаточно средств)"
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:212
+# game/scripts/screens/laptop.rpy:213
 msgid "КУПИТЬ"
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:213
+# game/scripts/screens/laptop.rpy:214
 msgid "Приобрести \"{name}\" за ${price}?"
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:243
+# game/scripts/screens/laptop.rpy:244
 msgid "Скидка [item.sale_percent]%"
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:264
+# game/scripts/screens/laptop.rpy:265
 msgid "В данный момент нет доступных товаров. Загляните позже."
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:424
+# game/scripts/screens/laptop.rpy:425
 msgid "Что будем искать?"
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:475
+# game/scripts/screens/laptop.rpy:476
 msgid "ВЫГОДНЫЕ ЗАЙМЫ ИНТЕРНЕТ-ПРЕДПРИНИМАТЕЛЯМ"
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:479
+# game/scripts/screens/laptop.rpy:480
 msgid "ВЗЯТЬ КРЕДИТ"
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:515
+# game/scripts/screens/laptop.rpy:516
 msgid "Общий доход:"
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:516
+# game/scripts/screens/laptop.rpy:517
 msgid "Последнее начисление:"
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:594
+# game/scripts/screens/laptop.rpy:595
 msgid "Общение"
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:609
+# game/scripts/screens/laptop.rpy:610
 msgid "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:617
+# game/scripts/screens/laptop.rpy:618
 msgid "Вы уже оплатили этот курс и можете в любой момент включить следующий доступный видеоурок."
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:618
+# game/scripts/screens/laptop.rpy:619
 msgid "Занятие [learn] из 3"
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:621
+# game/scripts/screens/laptop.rpy:622
 msgid "НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА"
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:625
+# game/scripts/screens/laptop.rpy:626
 msgid "ВЫ УЧИЛИСЬ СОВСЕМ НЕДАВНО. СДЕЛАЙТЕ ПЕРЕРЫВ!"
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:633
+# game/scripts/screens/laptop.rpy:634
 msgid "Количество занятий: 3"
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:635
+# game/scripts/screens/laptop.rpy:636
 msgid "ПРИОБРЕСТИ ЭТОТ КУРС ЗА $[cource.price]"
 msgstr ""
 

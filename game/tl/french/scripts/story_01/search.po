@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-10-15 15:45\n"
+"PO-Revision-Date: 2024-06-19 08:28\n"
 
-# TODO: Translation updated at 2023-10-14 21:25 #|#|# # §translate crowdin strings: #|#|# # game/scripts/story_01/search.rpy:2
+# TODO: Translation updated at 2024-06-18 22:58 #|#|# # §translate crowdin strings: #|#|# # game/scripts/story_01/search.rpy:2
 msgid "почитать о скрытых камерах"
 msgstr "lire sur les caméras cachées"
 
@@ -23,4 +23,16 @@ msgstr "découvrir le livre d'Alice"
 # game/scripts/story_01/search.rpy:2
 msgid "читать о пауках"
 msgstr "lire sur les araignées"
+
+# game/scripts/story_01/search.rpy:2
+msgid "как обойти ограничения в вэб-трансляциях?"
+msgstr "comment contourner les restrictions sur les webcasts ?"
+
+# game/scripts/story_01/search.rpy:2
+msgid "почитать о защите личных данных на компьютере"
+msgstr "lire sur la protection des données personnelles sur votre ordinateur"
+
+# game/scripts/story_01/search.rpy:2
+msgid "узнать о взломе паролей на компьютерах"
+msgstr "apprendre à déchiffrer les mots de passe sur les ordinateurs"
 
