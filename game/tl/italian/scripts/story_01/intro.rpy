@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-06-18 22:58
 
 # game/scripts/story_01/intro.rpy:6
 translate italian intro_52864ee0:

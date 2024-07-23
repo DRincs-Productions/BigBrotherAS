@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-05-12 15:48
+# TODO: Translation updated at 2024-06-18 22:58
 
 translate spanish strings:
 
@@ -119,8 +119,8 @@ translate spanish strings:
     new "¡Tienes que completar la oportunidad «Cómo ganar dinero»!"
 
     # game/scripts/engine/tasks.rpy:175
-    old "Стримерша"
-    new "Streaming"
+    old "Обедневшая блогерша"
+    new "Blogger empobrecido"
 
     # game/scripts/engine/tasks.rpy:175
     old "Алиса рассказала о своём блоге, а так же о своей проблеме, связанной с потерей вещей во время переезда. Теперь ей нечего показывать, не в чем вести блог и, вообще, она в печали. \nНо чтобы ей хоть как-то помочь с блогом, сперва нужно разжиться лишними деньгами, а это дело небыстрое.\nПока же можно поработать над нашими взаимоотношениями, ведь там есть куда расти. Вопрос только, как этого добиться?"
@@ -169,6 +169,58 @@ translate spanish strings:
     # game/scripts/engine/tasks.rpy:175
     old "Нужно вручить Алисе подарок, когда она находится в своей комнате..."
     new "Necesidad de dar a Alice un regalo cuando ella está en su habitación...."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Узнать, начала ли Алиса вести вэб-трансляции в нижнем белье."
+    new "Para ver si Alice ha empezado a retransmitir en ropa interior."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Снова заговорить об этом с Алисой через какое-то время..."
+    new "Volviendo a sacar el tema con Alice después de un tiempo...."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Больше взаимодействий с Алисой, когда ей требуется помощь Макса с пауками!"
+    new "Más interacciones con Alice cuando necesita la ayuda de Max con las arañas."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Взломать блогершу"
+    new "Hackear al bloguero"
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Удивительно, но Алиса действительно собирается попробовать вести вэб-трансляции в нижнем белье. Ещё более удивительно то, что именно я умудрился её убедить в этом. Похоже, с деньгами у неё всё довольно туго, раз она хочет этим заняться. \nНу, а я хочу полюбоваться моей сексуальной сестрёнкой без риска для ушей и здоровья. Пускай она и выставила ограничения в настройках, чтобы никто в нашем регионе её не увидел, но я уверен, что смогу обойти эту защиту..."
+    new "Sorprendentemente, Alice va a intentar retransmitir en ropa interior. Lo que es aún más sorprendente es que yo soy el que logró convencerla de hacerlo. Supongo que el dinero es escaso si ella quiere hacerlo. \nBueno, quiero admirar a mi sexy hermana sin arriesgar mis oídos ni mi salud. Aunque ella ha configurado sus ajustes para que nadie de nuestra región pueda verla, estoy seguro de que puedo saltarme esa protección....."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Найти способ обойти ограничение трансляций Алисы."
+    new "Encuentra una forma de evitar la restricción de emisión de Alice."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Оплата VPN-сервера будет стоить $25..."
+    new "Pagar por un servidor VPN costará 25 dólares..."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Найти способ узнать новый ник Алисы на сайте «MyCams»."
+    new "Encuentra la manera de averiguar el nuevo apodo de Alice en el sitio web de MyCams."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Проверить, защищён ли ноутбук Алисы паролем."
+    new "Comprueba si el portátil de Alice está protegido con contraseña."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Алисы не должно быть в её комнате и на веранде..."
+    new "Alice no debe estar en su habitación ni en la terraza..."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Найти способ взломать ноутбук Алисы."
+    new "Encuentra la forma de hackear el portátil de Alice."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Макс должен быть на вилле один..."
+    new "Max debe estar solo en la villa ....."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Проверить данные с ноутбука Алисы"
+    new "Comprueba los datos del portátil de Alice"
 
     # game/scripts/engine/tasks.rpy:175
     old "Вредная привычка"
@@ -253,6 +305,66 @@ translate spanish strings:
     # game/scripts/engine/tasks.rpy:175
     old "Улучшение взаимоотношений с Алисой!"
     new "¡Mejora la relación con Alice!"
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Недобросовестный спасатель"
+    new "Un socorrista sin escrúpulos"
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Я слышал, что пауки полезные существа, но не думал, что настолько... Куда их Алисе не подбрось, везде становится интересно. То можно выпросить что-то особенное, за что в обычной обстановке мне бы открутили уши, то в ситуации довольно пикантные попасть. \nИ раз уж наши с Алисой отношения стали лучше, то и мои желания стали более дерзкими и развратными..."
+    new "He oído que las arañas son criaturas útiles, pero no pensé que lo fueran tanto.... Allá donde Alice las lleva, la cosa se pone interesante. Uno puede pedir algo especial, por lo que en circunstancias normales me retorcerían las orejas, o en situaciones bastante sabrosas para entrar. \nY desde que nuestra relación con Alice ha mejorado, mis deseos se han vuelto más atrevidos y lascivos....."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Выронить полотенце из рук, спасая Алису от паука в душе."
+    new "Dejando caer la toalla de sus manos, salvando a Alice de la araña en la ducha."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Убедить Алису показать грудь, спасая её от паука в комнате."
+    new "Convence a Alice para que muestre sus pechos salvándola de la araña de la habitación."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Убедить Алису показать попку, спасая её от паука в комнате."
+    new "Convence a Alice para que muestre su botín salvándola de la araña de la habitación."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Добиться объятий Алисы, спасая её от паука во дворе."
+    new "Consigue el abrazo de Alice rescatándola de una araña en el patio."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Убедить Алису обняться, спасая её от паука в душе."
+    new "Convencer a Alice para abrazarla, salvarla de la araña en la ducha."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Нужно завершить задание «Стоит ли рисковать?»!"
+    new "Tenemos que completar el reto \"¿Merece la pena arriesgarse?"
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Без ущерба обнять Алису за попку, спасая её от паука в душе."
+    new "Sin daños, abrazando el culo de Alice, salvándola de la araña en la ducha."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Нужно завершить задание «Обедневшая блогерша»!"
+    new "Necesito completar el reto \"blogger empobrecido\"."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Потрогать грудь Алисы в лифчике, спасая её от паука в комнате."
+    new "Tocando los pechos de Alice en su sujetador, salvándola de la araña de la habitación."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Потрогать грудь Алисы без лифчика, спасая её от паука в комнате"
+    new "Toca los pechos sin sujetador de Alice mientras la salvas de la araña de la habitación"
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Без ущерба облапать Алису, снявшую верх купальника, спасая её от паука во дворе."
+    new "No pasa nada por meterle mano a Alice, que se quitó la parte de arriba del bañador mientras la salvaba de una araña en el patio."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Нужно убедить Алису снять верх купальника и начать натирать её маслом для загара, чтобы незаметно подбросить ей паука..."
+    new "Tenemos que convencer a Alice para que se quite el top del bañador y empezar a frotarle aceite bronceador para plantarle discretamente una araña...."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Это одно из Х заданий, необходимых для доступа к следующей главе!"
+    new ""
 
     # game/scripts/engine/tasks.rpy:175
     old "Стоит ли рисковать?"
@@ -507,10 +619,6 @@ translate spanish strings:
     new "Busca el libro en la habitación de Alice."
 
     # game/scripts/engine/tasks.rpy:175
-    old "Алисы не должно быть в её комнате и на веранде..."
-    new "Alice no debe estar en su habitación ni en la terraza..."
-
-    # game/scripts/engine/tasks.rpy:175
     old "Поискать информацию о книге Алисы в интернете."
     new "Busca información sobre el libro de Alice en Internet."
 
@@ -564,10 +672,6 @@ translate spanish strings:
 
     # game/scripts/engine/tasks.rpy:175
     old "Сделать так, чтобы с мамы сползла одежда во время просмотра ТВ."
-    new ""
-
-    # game/scripts/engine/tasks.rpy:175
-    old "Это одно из Х заданий, необходимых для доступа к следующей главе!"
     new ""
 
     # game/scripts/engine/tasks.rpy:175
