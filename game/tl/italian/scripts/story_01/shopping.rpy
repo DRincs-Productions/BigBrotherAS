@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-01-09 23:01
+# TODO: Translation updated at 2024-06-18 22:58
 
 # game/scripts/story_01/shopping.rpy:10
 translate italian ev_051_f2e28c50:

@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-05-12 15:48
+# TODO: Translation updated at 2024-06-18 22:58
 
 translate italian strings:
 
@@ -28,11 +28,11 @@ translate italian strings:
 
     # game/scripts/engine/clothing.rpy:996
     old "Майка + съехавшие трусики"
-    new "Maglietta + mutande larghe"
+    new "Maglietta + pantaloni larghi"
 
     # game/scripts/engine/clothing.rpy:996
     old "Съехавшая майка + трусики"
-    new "Maglietta + mutande"
+    new "Maglietta + mutandine"
 
     # game/scripts/engine/clothing.rpy:996
     old "Съехавшие майка и трусики"

@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-05-12 15:48
+# TODO: Translation updated at 2024-06-18 22:58
 
 translate spanish strings:
 
@@ -321,4 +321,12 @@ translate spanish strings:
     # game/scripts/engine/items.rpy:227
     old "Отлично подойдёт тем, кто не хочет перевозбуждаться. Только спокойствие и безмятежность. Перед применением следует обязательно проконсультироваться с врачом для определения нужной дозировки."
     new "Perfecto para aquellos que no quieren emocionarse demasiado. Solo paz y serenidad. Antes de su uso, es necesario consultar a un médico para determinar la dosis deseada."
+
+    # game/scripts/engine/items.rpy:227
+    old "USB-флешка"
+    new "Memoria USB"
+
+    # game/scripts/engine/items.rpy:227
+    old "Устройство для хранения и переноса цифровых данных. В данный момент, может быть использована для достижения некоторых целей."
+    new "Dispositivo para almacenar y transferir datos digitales. Actualmente puede utilizarse para cumplir algunos fines."
 

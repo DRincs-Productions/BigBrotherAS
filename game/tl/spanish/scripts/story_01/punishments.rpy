@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-01-24 03:02
+# TODO: Translation updated at 2024-06-18 22:58
 
 # game/scripts/story_01/punishments.rpy:41
 translate spanish punishments_allocation_d4a1750b:

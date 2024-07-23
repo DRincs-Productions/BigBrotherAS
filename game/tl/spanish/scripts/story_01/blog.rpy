@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-05-12 15:48
+# TODO: Translation updated at 2024-06-18 22:58
 
 # game/scripts/story_01/blog.rpy:11
 translate spanish ev_017_423a776a:
@@ -642,857 +642,1331 @@ translate spanish ev_097_030c7b95:
     # Max 01 "Ага. Давай посмотрим на следующее..."
     "[Sí. Veamos lo siguiente..."
 
-# game/scripts/story_01/blog.rpy:326
+# game/scripts/story_01/blog.rpy:327
 translate spanish ev_097_second_c56097c9:
 
     # Alice "{b}Алиса:{/b} \nЯ уже начала... Если тебе интересно, то со вторым бельём в комплекте и поясок идёт с чулками. Чулки я, понятное дело, не надела, а вот всё остальное, конечно же, да. Жаль, что ты этого не увидишь..."
     Alice "{b}Alice:{/b} \nYa he empezado... Por si te lo preguntas, la segunda lencería viene con faja y medias. Las medias no me las puse, obviamente, pero todo lo demás, por supuesto que sí. Es una pena que no lo veas...."
 
-# game/scripts/story_01/blog.rpy:327
+# game/scripts/story_01/blog.rpy:328
 translate spanish ev_097_second_7951f972:
 
     # Max 15 "В смысле?! Я и этот комплект тоже не увижу? Так не пойдёт!"
     "[¡¿Qué quieres decir?! ¿Tampoco veré este set? ¡Eso no es bueno!"
 
-# game/scripts/story_01/blog.rpy:328
+# game/scripts/story_01/blog.rpy:329
 translate spanish ev_097_second_7b875e6e:
 
     # Alice "{b}Алиса:{/b} \nА как ты хотел? Думал, что сможешь в тихую подглядывать и наслаждаться тем, как я надеваю всё это бельё, а после делать удивлённый вид, что ещё не видел его на мне?"
     Alice "{b}Alice:{/b} \n¿Qué querías? ¿Creías que podías mirar tranquilamente y disfrutar de cómo me ponía toda esta lencería y luego hacerte el sorprendido de no habérmela visto puesta todavía?"
 
-# game/scripts/story_01/blog.rpy:329
+# game/scripts/story_01/blog.rpy:330
 translate spanish ev_097_second_4c4dd0f9:
 
     # Max 13 "Да ладно тебе, Алиса! Ну, соблазнился разок, подумаешь... Ещё скажи, что ты этого не ожидала..."
     "[¡Vamos, Alice! Así, tentado una vez, y qué ... Dime que no lo esperabas ..."
 
-# game/scripts/story_01/blog.rpy:331
+# game/scripts/story_01/blog.rpy:332
 translate spanish ev_097_second_e8ffedce:
 
     # Alice "{b}Алиса:{/b} \nЕстественно, ожидала! Потому сразу и заметила твои бесстыжие глаза, которые на меня пялились." nointeract
     Alice "{b}Alice:{/b} \n¡Claro que sí! Por eso me fijé en tus ojos descarados que me miraban fijamente." nointeract
 
-# game/scripts/story_01/blog.rpy:337
+# game/scripts/story_01/blog.rpy:338
 translate spanish ev_097_second_9203f890:
 
     # Alice "{b}Алиса:{/b} \nЛадно уж, сжалюсь, а то ещё заплачешь и убежишь, как маленький. Можешь заглянуть в примерочную..."
     Alice "{b}Alice:{/b} \nVale, me apiadaré, o llorarás y saldrás corriendo como un niño pequeño. Puedes mirar en el probador...."
 
-# game/scripts/story_01/blog.rpy:338
+# game/scripts/story_01/blog.rpy:339
 translate spanish ev_097_second_275ecb3e:
 
     # Max 11 "Вот это другое дело."
     "[Eso es otra cosa."
 
-# game/scripts/story_01/blog.rpy:343
+# game/scripts/story_01/blog.rpy:344
 translate spanish ev_097_second_b659cea2:
 
     # Alice "{b}Алиса:{/b} \nДумаю, нет смысла в нём показываться. Может это бельё мне и нравится, и сидит прекрасно, но комплект довольно дорогой. Я его и близко по деньгам не потяну, да и ты, скорее всего, тоже."
     Alice "{b}Alice:{/b} \nSupongo que no tiene sentido aparecer con ella puesta. Puede que me guste esta lencería y me quede genial, pero es bastante cara. No puedo permitírmela, y probablemente tú tampoco."
 
-# game/scripts/story_01/blog.rpy:344
+# game/scripts/story_01/blog.rpy:345
 translate spanish ev_097_second_dc09da84:
 
     # Max 12 "Обидно. Давай ещё третий комплект посмотрим и тогда уже будем думать..."
     Max 12 "Es una pena. Vamos a echar otro vistazo a la tercera serie y luego ya pensaremos...."
 
-# game/scripts/story_01/blog.rpy:352
+# game/scripts/story_01/blog.rpy:353
 translate spanish ev_097_second_1cddeb04:
 
     # tMax 13 "Если сейчас и подглядывать за Алисой, то точно в последний раз. Но тогда я не увижу, как она будет примерять последний комплект белья. Что же делать?" nointeract
     tMax 13 "Si voy a mirar a Alice ahora, definitivamente será la última vez. Pero entonces no podré verla probarse su último conjunto de lencería. ¿Qué hago?" nointeract
 
-# game/scripts/story_01/blog.rpy:360
+# game/scripts/story_01/blog.rpy:361
 translate spanish ev_097_second_ad58de34:
 
     # tMax 03 "Ничего себе! В этом комплекте ещё и поясок есть... Хорошо, что внимание Алисы сосредоточено на замках лифчика, иначе она почти наверняка бы сейчас меня заметила."
     "[¡Wow! También hay una faja en este conjunto... Menos mal que la atención de Alice está centrada en los cierres del sujetador, o casi seguro que ahora se fijaría en mí."
 
-# game/scripts/story_01/blog.rpy:364
+# game/scripts/story_01/blog.rpy:365
 translate spanish ev_097_second_6cc6d501:
 
     # tMax 12 "Всё, больше не подглядываю. Мне и так сегодня слишком много раз везло..."
     tMax 12 "He terminado de espiar. Ya he tenido demasiada suerte hoy..."
 
-# game/scripts/story_01/blog.rpy:373
+# game/scripts/story_01/blog.rpy:374
 translate spanish ev_097_second_74c9f743:
 
     # tMax 13 "Эх, она ведь там сейчас наверняка голыми сиськами светит, а я тут стою без дела и просто жду. Зря не стал подглядывать..."
     "[Oh, ella probablemente está allí ahora con sus tetas desnudas mostrando, y yo estoy aquí esperando. Debería haber echado un vistazo."
 
-# game/scripts/story_01/blog.rpy:381
+# game/scripts/story_01/blog.rpy:382
 translate spanish ev_097_second_82dba69c:
 
     # tMax 13 "Вообще-то, я бы с удовольствием посмотрел на то, как сестрёнка надевает это бельё, прежде чем попозирует для меня. Может, всё-таки подсмотреть?" nointeract
     tMax 13 "En realidad, me encantaría ver a mi hermana ponerse esta ropa interior antes de posar para mí. Tal vez un vistazo después de todo." nointeract
 
-# game/scripts/story_01/blog.rpy:389
+# game/scripts/story_01/blog.rpy:390
 translate spanish ev_097_second_ad58de34_1:
 
     # tMax 03 "Ничего себе! В этом комплекте ещё и поясок есть... Хорошо, что внимание Алисы сосредоточено на замках лифчика, иначе она почти наверняка бы сейчас меня заметила."
     "[¡Wow! También hay una faja en este conjunto... Menos mal que la atención de Alice está centrada en los cierres del sujetador, o casi seguro que ahora se fijaría en mí."
 
-# game/scripts/story_01/blog.rpy:393
+# game/scripts/story_01/blog.rpy:394
 translate spanish ev_097_second_4d72b5d8:
 
     # tMax 13 "На самом деле, дальше лучше с этим не заигрываться, а то неизвестно, как отреагирует Алиса, если увидит, что я подглядываю. От силы можно будет ещё разок подсмотреть, но не больше..."
     tMax 13 "De hecho, será mejor que no siga jugando con él, o no sé cómo reaccionaría Alice si me viera espiando. Como mucho podré espiar una vez más, pero no más...."
 
-# game/scripts/story_01/blog.rpy:402
+# game/scripts/story_01/blog.rpy:403
 translate spanish ev_097_second_6da10c0a:
 
     # tMax 12 "Нет, не буду рисковать, а то неизвестно, как отреагирует Алиса, если увидит, что я подглядываю."
     tMax 12 "No, no me arriesgaré, o no se sabe cómo reaccionará Alice si me ve espiando."
 
-# game/scripts/story_01/blog.rpy:405
+# game/scripts/story_01/blog.rpy:406
 translate spanish ev_097_second_7596b138:
 
     # Alice "{b}Алиса:{/b} \nМакс, если тебе интересно, то со вторым бельём в комплекте и поясок идёт с чулками. Чулки я, понятное дело, не надела, а вот всё остальное, конечно же, да. Можешь заглянуть в примерочную..."
     Alice "{b}Alice:{/b} \nMax, si te interesa, la segunda ropa interior viene con una faja y medias. Yo no me puse las medias, por supuesto, pero todo lo demás, por supuesto que sí. Puedes echar un vistazo en el probador..."
 
-# game/scripts/story_01/blog.rpy:406
+# game/scripts/story_01/blog.rpy:407
 translate spanish ev_097_second_9544c783:
 
     # Max 02 "Обязательно!"
     "[¡Lo haré!"
 
-# game/scripts/story_01/blog.rpy:411
+# game/scripts/story_01/blog.rpy:412
 translate spanish ev_097_second_fitting_318f446b:
 
     # Alice 02 "Не знаю, как тебе, а мне это бельё нравится. Тут немного намудрили с замками на нём, но в целом оно обалденное."
     Alice 02 "No sé a ti, pero a mí me encanta esta ropa interior. Es un poco desordenado con las cerraduras en él, pero en general es impresionante."
 
-# game/scripts/story_01/blog.rpy:412
+# game/scripts/story_01/blog.rpy:413
 translate spanish ev_097_second_fitting_4cd2fb86:
 
     # Max 05 "Ого! И правда шикарное! Покажи-ка сзади..."
     "[¡Wow! ¡Es realmente precioso! Enséñame la parte de atrás..."
 
-# game/scripts/story_01/blog.rpy:416
+# game/scripts/story_01/blog.rpy:417
 translate spanish ev_097_second_fitting_d2ba41ac:
 
     # Alice 04 "Правда ведь оно сидит на мне прекрасно, да? И это я ещё чулки не надевала..."
     "[¿No me queda perfecto? Y aún no me he puesto medias."
 
-# game/scripts/story_01/blog.rpy:417
+# game/scripts/story_01/blog.rpy:418
 translate spanish ev_097_second_fitting_33b88429:
 
     # Max 04 "Да, с ними вообще огонь будет!"
     Max 04 "¡Sí, va a ser una explosión con ellos!"
 
-# game/scripts/story_01/blog.rpy:418
+# game/scripts/story_01/blog.rpy:419
 translate spanish ev_097_second_fitting_672b45bc:
 
     # Alice 12 "Только вот есть нюанс... Этот комплект довольно дорогой. Я его и близко по деньгам не потяну, да и ты, скорее всего, тоже."
     "[Excepto que hay una trampa... Este kit es bastante caro. No puedo permitírmelo, y probablemente tú tampoco."
 
-# game/scripts/story_01/blog.rpy:419
+# game/scripts/story_01/blog.rpy:420
 translate spanish ev_097_second_fitting_dc09da84:
 
     # Max 12 "Обидно. Давай ещё третий комплект посмотрим и тогда уже будем думать..."
     Max 12 "Es una pena. Vamos a echar otro vistazo a la tercera serie y luego ya pensaremos...."
 
-# game/scripts/story_01/blog.rpy:425
+# game/scripts/story_01/blog.rpy:427
 translate spanish ev_097_second_fail_6349aa0c:
 
     # Alice 14 "Макс! Ты офигел что ли?! {p=2}{nw}"
     Alice 14 "¡Max! ¡¿Estás loco?! {p=2}{nw}"
 
-# game/scripts/story_01/blog.rpy:429
+# game/scripts/story_01/blog.rpy:431
 translate spanish ev_097_second_fail_d3d9ef0c:
 
     # Alice 15 "Совсем страх потерял? Я же сказала, что позову, когда можно будет смотреть! Ну-ка свали за шторку..."
     Alice 15 "¿Has perdido el miedo? ¡Te he dicho que te llamaré cuando pueda mirar! Ponte detrás de la cortina."
 
-# game/scripts/story_01/blog.rpy:430
+# game/scripts/story_01/blog.rpy:432
 translate spanish ev_097_second_fail_d717e48d:
 
     # Max 13 "Э-э-э... Я и так за шторкой."
     "[Um... Estoy detrás de la cortina como es."
 
-# game/scripts/story_01/blog.rpy:431
+# game/scripts/story_01/blog.rpy:433
 translate spanish ev_097_second_fail_203ddb8a:
 
     # Alice 11 "Ты прекрасно понял, что я имела ввиду! Ещё раз попробуешь заглянуть в примерочную без разрешения и пойдёшь домой, а бельё я выберу сама, понял?"
     Alice 11 "¡Sabes exactamente lo que quiero decir! Si vuelves a intentar mirar en el probador sin permiso, te vas a casa y yo misma te elegiré la ropa interior, ¿entendido?"
 
-# game/scripts/story_01/blog.rpy:432
+# game/scripts/story_01/blog.rpy:434
 translate spanish ev_097_second_fail_6ea3f3f7:
 
     # Max 12 "Всё-всё, не горячись..."
     Max 12 "En general, tómalo con calma...."
 
-# game/scripts/story_01/blog.rpy:436
+# game/scripts/story_01/blog.rpy:438
 translate spanish ev_097_second_fail_95bb396d:
 
     # tMax 16 "Какая она глазастая... Теперь мне лучше даже не пытаться подглядеть за ней, чтобы окончательно всё не испортить."
     tMax 16 "Ella tiene tal ojo... Ahora será mejor que ni siquiera intente mirarla ahora, no sea que lo arruine por completo."
 
-# game/scripts/story_01/blog.rpy:437
+# game/scripts/story_01/blog.rpy:439
 translate spanish ev_097_second_fail_33408d90:
 
     # Alice "{b}Алиса:{/b} \nНу, что... Может это бельё мне и нравится, и сидит прекрасно, но комплект довольно дорогой. Я его и близко по деньгам не потяну, да и ты, скорее всего, тоже."
     Alice "{b}Alice:{/b} \nBueno... Puede que me guste esta lencería y me quede genial, pero el conjunto es bastante caro. No me lo puedo permitir, y probablemente tú tampoco."
 
-# game/scripts/story_01/blog.rpy:438
+# game/scripts/story_01/blog.rpy:440
 translate spanish ev_097_second_fail_d8611735:
 
     # Max 13 "Посмотреть-то можно?"
     "[¿Puedo verlo?"
 
-# game/scripts/story_01/blog.rpy:439
+# game/scripts/story_01/blog.rpy:441
 translate spanish ev_097_second_fail_9279341a:
 
     # Alice "{b}Алиса:{/b} \nФигушки тебе, Макс! Не подглядывал бы за мной, сейчас бы смог оценить, а так скажу лишь, что я его и близко по деньгам не потяну, да и ты, скорее всего, тоже."
     Alice "{b}Alice:{/b} \n¡Ni hablar, Max! Si no me hubieras estado espiando, ahora podrías evaluarlo, pero sólo diré que no puedo permitírmelo, y probablemente tú tampoco."
 
-# game/scripts/story_01/blog.rpy:440
+# game/scripts/story_01/blog.rpy:442
 translate spanish ev_097_second_fail_dc09da84:
 
     # Max 12 "Обидно. Давай ещё третий комплект посмотрим и тогда уже будем думать..."
     Max 12 "Es una pena. Vamos a echar otro vistazo a la tercera serie y luego ya pensaremos...."
 
-# game/scripts/story_01/blog.rpy:449
+# game/scripts/story_01/blog.rpy:451
 translate spanish ev_097_third_3893fadb:
 
     # tMax 13 "Эх... Очень хочется снова подсмотреть за Алисой, но лучше больше не рисковать. Просто подожду..."
     "[Eh... Tengo muchas ganas de volver a echar un vistazo a Alice, pero será mejor que no me arriesgue más. Sólo esperaré..."
 
-# game/scripts/story_01/blog.rpy:450
+# game/scripts/story_01/blog.rpy:452
 translate spanish ev_097_third_98bbde40:
 
     # Alice "{b}Алиса:{/b} \nМакс, мне кажется, что третий комплект нижнего белья - это как раз то, что нам нужно! Загляни ко мне в примерочную скорее..."
     Alice "{b}Alice:{/b} \nMax, ¡creo que un tercer juego de ropa interior es justo lo que necesitamos! Pásate pronto por mi probador...."
 
-# game/scripts/story_01/blog.rpy:451
+# game/scripts/story_01/blog.rpy:453
 translate spanish ev_097_third_3ca682d0:
 
     # Max 02 "С удовольствием!"
     "[¡Es un placer!"
 
-# game/scripts/story_01/blog.rpy:458
+# game/scripts/story_01/blog.rpy:460
 translate spanish ev_097_third_3893fadb_1:
 
     # tMax 13 "Эх... Очень хочется снова подсмотреть за Алисой, но лучше больше не рисковать. Просто подожду..."
     "[Eh... Tengo muchas ganas de volver a echar un vistazo a Alice, pero será mejor que no me arriesgue más. Sólo esperaré..."
 
-# game/scripts/story_01/blog.rpy:459
+# game/scripts/story_01/blog.rpy:461
 translate spanish ev_097_third_4fda8a83:
 
     # Alice "{b}Алиса:{/b} \nМакс, мне кажется, что третий комплект нижнего белья - это как раз то, что нам нужно! Жаль, правда, что придётся обойтись без твоей оценки..."
     Alice "{b}Alice:{/b} \nMax, ¡creo que el tercer juego de ropa interior es justo lo que necesitamos! Lástima, sin embargo, tendré que prescindir de tu evaluación....."
 
-# game/scripts/story_01/blog.rpy:460
+# game/scripts/story_01/blog.rpy:462
 translate spanish ev_097_third_7951f972:
 
     # Max 15 "В смысле?! Я и этот комплект тоже не увижу? Так не пойдёт!"
     "[¡¿Qué quieres decir?! ¿Tampoco veré este set? ¡Eso no es bueno!"
 
-# game/scripts/story_01/blog.rpy:461
+# game/scripts/story_01/blog.rpy:463
 translate spanish ev_097_third_7b875e6e:
 
     # Alice "{b}Алиса:{/b} \nА как ты хотел? Думал, что сможешь в тихую подглядывать и наслаждаться тем, как я надеваю всё это бельё, а после делать удивлённый вид, что ещё не видел его на мне?"
     Alice "{b}Alice:{/b} \n¿Qué querías? ¿Creías que podías mirar tranquilamente y disfrutar de cómo me ponía toda esta lencería y luego hacerte el sorprendido de no habérmela visto puesta todavía?"
 
-# game/scripts/story_01/blog.rpy:462
+# game/scripts/story_01/blog.rpy:464
 translate spanish ev_097_third_4c4dd0f9:
 
     # Max 13 "Да ладно тебе, Алиса! Ну, соблазнился разок, подумаешь... Ещё скажи, что ты этого не ожидала..."
     "[¡Vamos, Alice! Así, tentado una vez, y qué ... Dime que no lo esperabas ..."
 
-# game/scripts/story_01/blog.rpy:463
+# game/scripts/story_01/blog.rpy:465
 translate spanish ev_097_third_6b190076:
 
     # Alice "{b}Алиса:{/b} \nЕстественно, ожидала! Потому сразу и заметила твои бесстыжие глаза, которые на меня пялились."
     Alice "{b}Alice:{/b} \n¡Claro que sí! Por eso me di cuenta enseguida de que tus ojos descarados me miraban fijamente."
 
-# game/scripts/story_01/blog.rpy:464
+# game/scripts/story_01/blog.rpy:466
 translate spanish ev_097_third_18f5a1a4:
 
     # Max 16 "Сейчас-то я не подглядываю. К тому же, я не стану покупать тебе бельё, которое не видел. Так что давай позируй!"
     Max 16 "No voy a espiar ahora. Además, no voy a comprarte ropa interior que no haya visto. ¡Así que posa!"
 
-# game/scripts/story_01/blog.rpy:465
+# game/scripts/story_01/blog.rpy:467
 translate spanish ev_097_third_9203f890:
 
     # Alice "{b}Алиса:{/b} \nЛадно уж, сжалюсь, а то ещё заплачешь и убежишь, как маленький. Можешь заглянуть в примерочную..."
     Alice "{b}Alice:{/b} \nVale, me apiadaré, o llorarás y saldrás corriendo como un niño pequeño. Puedes mirar en el probador...."
 
-# game/scripts/story_01/blog.rpy:466
+# game/scripts/story_01/blog.rpy:468
 translate spanish ev_097_third_275ecb3e:
 
     # Max 11 "Вот это другое дело."
     "[Eso es otra cosa."
 
-# game/scripts/story_01/blog.rpy:474
+# game/scripts/story_01/blog.rpy:476
 translate spanish ev_097_third_57f4f470:
 
     # tMax 13 "Сестрёнка сейчас примеряет последний комплект нижнего белья. Может, всё-таки рискнуть и подсмотреть, пока ещё не поздно?" nointeract
     "[Sis se está probando el último conjunto de ropa interior. Podría arriesgarme y echar un vistazo antes de que sea demasiado tarde." nointeract
 
-# game/scripts/story_01/blog.rpy:482
+# game/scripts/story_01/blog.rpy:484
 translate spanish ev_097_third_d3e9ade1:
 
     # tMax 03 "Ого! Симпатичное бельишко, надо сказать... Ещё и полупрозрачное местами, что не может не радовать! Сложно от такого оторвать взгляд, но надо..."
     tMax 03 "¡Wow! Bonita ropa interior, debo decir... También es semitransparente en algunas partes, ¡lo que es genial! Es difícil apartar los ojos de ella, pero tengo que ...."
 
-# game/scripts/story_01/blog.rpy:486
+# game/scripts/story_01/blog.rpy:488
 translate spanish ev_097_third_65c47b34:
 
     # tMax 04 "Надо же как мне сегодня повезло! Алиса ни разу не заметила, что я подглядывал за ней. Или заметила, но не подала виду? Да ну, вряд ли заметила..."
     "[¡Qué suerte tengo hoy! Alice ni una sola vez se dio cuenta de que la miraba. ¿O lo notó, pero no se dio cuenta? No creo que se diera cuenta."
 
-# game/scripts/story_01/blog.rpy:487
+# game/scripts/story_01/blog.rpy:489
 translate spanish ev_097_third_98bbde40_1:
 
     # Alice "{b}Алиса:{/b} \nМакс, мне кажется, что третий комплект нижнего белья - это как раз то, что нам нужно! Загляни ко мне в примерочную скорее..."
     Alice "{b}Alice:{/b} \nMax, ¡creo que un tercer juego de ropa interior es justo lo que necesitamos! Pásate pronto por mi probador...."
 
-# game/scripts/story_01/blog.rpy:488
+# game/scripts/story_01/blog.rpy:490
 translate spanish ev_097_third_3ca682d0_1:
 
     # Max 02 "С удовольствием!"
     "[¡Es un placer!"
 
-# game/scripts/story_01/blog.rpy:498
+# game/scripts/story_01/blog.rpy:500
 translate spanish ev_097_third_6da10c0a:
 
     # tMax 12 "Нет, не буду рисковать, а то неизвестно, как отреагирует Алиса, если увидит, что я подглядываю."
     tMax 12 "No, no me arriesgaré, o no se sabe cómo reaccionará Alice si me ve espiando."
 
-# game/scripts/story_01/blog.rpy:499
+# game/scripts/story_01/blog.rpy:501
 translate spanish ev_097_third_98bbde40_2:
 
     # Alice "{b}Алиса:{/b} \nМакс, мне кажется, что третий комплект нижнего белья - это как раз то, что нам нужно! Загляни ко мне в примерочную скорее..."
     Alice "{b}Alice:{/b} \nMax, ¡creo que un tercer juego de ropa interior es justo lo que necesitamos! Pásate pronto por mi probador...."
 
-# game/scripts/story_01/blog.rpy:500
+# game/scripts/story_01/blog.rpy:502
 translate spanish ev_097_third_3ca682d0_2:
 
     # Max 02 "С удовольствием!"
     "[¡Es un placer!"
 
-# game/scripts/story_01/blog.rpy:509
+# game/scripts/story_01/blog.rpy:511
 translate spanish ev_097_third_57f4f470_1:
 
     # tMax 13 "Сестрёнка сейчас примеряет последний комплект нижнего белья. Может, всё-таки рискнуть и подсмотреть, пока ещё не поздно?" nointeract
     "[Sis se está probando el último conjunto de ropa interior. Podría arriesgarme y echar un vistazo antes de que sea demasiado tarde." nointeract
 
-# game/scripts/story_01/blog.rpy:517
+# game/scripts/story_01/blog.rpy:519
 translate spanish ev_097_third_d3e9ade1_1:
 
     # tMax 03 "Ого! Симпатичное бельишко, надо сказать... Ещё и полупрозрачное местами, что не может не радовать! Сложно от такого оторвать взгляд, но надо..."
     tMax 03 "¡Wow! Bonita ropa interior, debo decir... También es semitransparente en algunas partes, ¡lo que es genial! Es difícil apartar los ojos de ella, pero tengo que ...."
 
-# game/scripts/story_01/blog.rpy:520
+# game/scripts/story_01/blog.rpy:522
 translate spanish ev_097_third_06a54c61:
 
     # tMax 04 "Хорошо, что я и дальше не стал стоять без дела! Хоть на полуголую Алису одним глазком посмотрел, а то всё в белье, да в белье..."
     "¡[Menos mal que no me quedé más tiempo! Por lo menos en el medio desnudo Alice un ojo miró, y luego todos en la ropa interior, y en la ropa interior ..."
 
-# game/scripts/story_01/blog.rpy:521
+# game/scripts/story_01/blog.rpy:523
 translate spanish ev_097_third_98bbde40_3:
 
     # Alice "{b}Алиса:{/b} \nМакс, мне кажется, что третий комплект нижнего белья - это как раз то, что нам нужно! Загляни ко мне в примерочную скорее..."
     Alice "{b}Alice:{/b} \nMax, ¡creo que un tercer juego de ropa interior es justo lo que necesitamos! Pásate pronto por mi probador...."
 
-# game/scripts/story_01/blog.rpy:522
+# game/scripts/story_01/blog.rpy:524
 translate spanish ev_097_third_3ca682d0_3:
 
     # Max 02 "С удовольствием!"
     "[¡Es un placer!"
 
-# game/scripts/story_01/blog.rpy:533
+# game/scripts/story_01/blog.rpy:535
 translate spanish ev_097_third_86f504f3:
 
     # tMax 01 "Нет, я лучше подсмотрю в самом конце, когда Алиса будет переодеваться в своё платье. Ведь с выбором белья мы уже должны будем определиться, а потому и риска, как такового, не будет."
     tMax 01 "No, prefiero verlo al final, cuando Alice se esté poniendo el vestido. Después de todo, ya tendremos que decidir sobre la lencería, así que no habrá ningún riesgo."
 
-# game/scripts/story_01/blog.rpy:534
+# game/scripts/story_01/blog.rpy:536
 translate spanish ev_097_third_98bbde40_4:
 
     # Alice "{b}Алиса:{/b} \nМакс, мне кажется, что третий комплект нижнего белья - это как раз то, что нам нужно! Загляни ко мне в примерочную скорее..."
     Alice "{b}Alice:{/b} \nMax, ¡creo que un tercer juego de ropa interior es justo lo que necesitamos! Pásate pronto por mi probador...."
 
-# game/scripts/story_01/blog.rpy:535
+# game/scripts/story_01/blog.rpy:537
 translate spanish ev_097_third_3ca682d0_4:
 
     # Max 02 "С удовольствием!"
     "[¡Es un placer!"
 
-# game/scripts/story_01/blog.rpy:542
+# game/scripts/story_01/blog.rpy:544
 translate spanish ev_097_third_fail_6349aa0c:
 
     # Alice 14 "Макс! Ты офигел что ли?! {p=2}{nw}"
     Alice 14 "¡Max! ¡¿Estás loco?! {p=2}{nw}"
 
-# game/scripts/story_01/blog.rpy:546
+# game/scripts/story_01/blog.rpy:548
 translate spanish ev_097_third_fail_d3d9ef0c:
 
     # Alice 15 "Совсем страх потерял? Я же сказала, что позову, когда можно будет смотреть! Ну-ка свали за шторку..."
     Alice 15 "¿Has perdido el miedo? ¡Te he dicho que te llamaré cuando pueda mirar! Ponte detrás de la cortina."
 
-# game/scripts/story_01/blog.rpy:547
+# game/scripts/story_01/blog.rpy:549
 translate spanish ev_097_third_fail_d717e48d:
 
     # Max 13 "Э-э-э... Я и так за шторкой."
     "[Um... Estoy detrás de la cortina como es."
 
-# game/scripts/story_01/blog.rpy:548
+# game/scripts/story_01/blog.rpy:550
 translate spanish ev_097_third_fail_203ddb8a:
 
     # Alice 11 "Ты прекрасно понял, что я имела ввиду! Ещё раз попробуешь заглянуть в примерочную без разрешения и пойдёшь домой, а бельё я выберу сама, понял?"
     Alice 11 "¡Sabes exactamente lo que quiero decir! Si vuelves a intentar mirar en el probador sin permiso, te vas a casa y yo misma te elegiré la ropa interior, ¿entendido?"
 
-# game/scripts/story_01/blog.rpy:549
+# game/scripts/story_01/blog.rpy:551
 translate spanish ev_097_third_fail_6ea3f3f7:
 
     # Max 12 "Всё-всё, не горячись..."
     Max 12 "En general, tómalo con calma...."
 
-# game/scripts/story_01/blog.rpy:553
+# game/scripts/story_01/blog.rpy:555
 translate spanish ev_097_third_fail_95bb396d:
 
     # tMax 16 "Какая она глазастая... Теперь мне лучше даже не пытаться подглядеть за ней, чтобы окончательно всё не испортить."
     tMax 16 "Ella tiene tal ojo... Ahora será mejor que ni siquiera intente mirarla ahora, no sea que lo arruine por completo."
 
-# game/scripts/story_01/blog.rpy:554
+# game/scripts/story_01/blog.rpy:556
 translate spanish ev_097_third_fail_b920317d:
 
     # Alice "{b}Алиса:{/b} \nМакс, мне кажется, что третий комплект нижнего белья - это как раз то, что нам нужно! Собственно, ты же подглядывал, так что видел..."
     Alice "{b}Alice:{/b} \nMax, ¡creo que un tercer juego de ropa interior es justo lo que necesitamos! De hecho, estabas espiando, así que viste....."
 
-# game/scripts/story_01/blog.rpy:555
+# game/scripts/story_01/blog.rpy:557
 translate spanish ev_097_third_fail_e85685b8:
 
     # Max 15 "Я видел тебя меньше секунды! Мне нужно увидеть снова..."
     "[¡Te vi por menos de un segundo! Necesito verte de nuevo..."
 
-# game/scripts/story_01/blog.rpy:556
+# game/scripts/story_01/blog.rpy:558
 translate spanish ev_097_third_fail_562dd16a:
 
     # Alice "{b}Алиса:{/b} \nФигушки тебе, Макс! Не подглядывал бы за мной, сейчас бы смог оценить, а так могу лишь сказать, сколько оно стоит."
     Alice "{b}Alice:{/b} \n¡No puede ser, Max! Si no me hubieras espiado, ahora podrías calcularlo, pero tal como están las cosas, sólo puedo decirte cuánto vale."
 
-# game/scripts/story_01/blog.rpy:557
+# game/scripts/story_01/blog.rpy:559
 translate spanish ev_097_third_fail_3ec6c1e8:
 
     # Max 13 "Не угадала, это тебе фигушки, Алиса! Я не стану покупать тебе бельё, которое не видел. Так что давай позируй!"
     Max 13 "¡De ninguna manera, eso es un no-go, Alice! No voy a comprarte ropa interior que no he visto. ¡Así que vamos, posa!"
 
-# game/scripts/story_01/blog.rpy:558
+# game/scripts/story_01/blog.rpy:560
 translate spanish ev_097_third_fail_9203f890:
 
     # Alice "{b}Алиса:{/b} \nЛадно уж, сжалюсь, а то ещё заплачешь и убежишь, как маленький. Можешь заглянуть в примерочную..."
     Alice "{b}Alice:{/b} \nVale, me apiadaré, o llorarás y saldrás corriendo como un niño pequeño. Puedes mirar en el probador...."
 
-# game/scripts/story_01/blog.rpy:559
+# game/scripts/story_01/blog.rpy:561
 translate spanish ev_097_third_fail_275ecb3e:
 
     # Max 11 "Вот это другое дело."
     "[Eso es otra cosa."
 
-# game/scripts/story_01/blog.rpy:566
+# game/scripts/story_01/blog.rpy:568
 translate spanish ev_097_third_fitting_cc44a0dd:
 
     # Alice 03 "Ну, как тебе? Сразу скажу, что сидит отлично! Я сперва подумала, что лифчик не того размера, но видимо он так задуман, чтобы сосочки слегка было видно..."
     Alice 03 "¿Qué te parece? De entrada os diré que me queda genial. Al principio pensé que el sujetador era de la talla equivocada, pero por lo visto está diseñado para que los pezones queden ligeramente visibles...."
 
-# game/scripts/story_01/blog.rpy:567
+# game/scripts/story_01/blog.rpy:569
 translate spanish ev_097_third_fitting_6218e51b:
 
     # Max 01 "Это как раз первое, на что я обратил внимание!"
     Max 01 "¡Eso es exactamente lo primero que noté!"
 
-# game/scripts/story_01/blog.rpy:568
+# game/scripts/story_01/blog.rpy:570
 translate spanish ev_097_third_fitting_3e67a703:
 
     # Alice 11 "Ты сильно не вглядывайся в мою грудь. И вниз тоже. А то трусики малость полупрозрачные. Хорошо, что хоть затемнённые..."
     Alice 11 "No mires demasiado de cerca mis pechos. Y ahí abajo también. Porque mis bragas son un poco translúcidas. Menos mal que están oscurecidas."
 
-# game/scripts/story_01/blog.rpy:572
+# game/scripts/story_01/blog.rpy:574
 translate spanish ev_097_third_fitting_bed4c8d3:
 
     # Max 12 "Тебе может и хорошо, а вот для твоих будущих зрителей... Хотя, мы же не стремимся к максимальному разврату."
     Max 12 "Puede que sea bueno para ti, pero para tus futuros espectadores... Aunque, no es que estemos apuntando a la máxima depravación."
 
-# game/scripts/story_01/blog.rpy:573
+# game/scripts/story_01/blog.rpy:575
 translate spanish ev_097_third_fitting_173dc45c:
 
     # Alice 04 "Именно! Потому мне и кажется, что это бельё подходит лучше всего для тех трансляций, о которых мы говорили. Не слишком откровенно, но в то же время очень сексуально, так ведь?"
     Alice 04 "¡Exacto! Por eso creo que esta lencería funciona mejor para esas retransmisiones de las que hablábamos. No es demasiado reveladora, pero también es muy sexy, ¿verdad?"
 
-# game/scripts/story_01/blog.rpy:574
+# game/scripts/story_01/blog.rpy:576
 translate spanish ev_097_third_fitting_7127ee88:
 
     # Max 11 "Тут не поспоришь. А что по цене?"
     Max 11 "No se puede discutir con eso. ¿Y el precio?"
 
-# game/scripts/story_01/blog.rpy:578
+# game/scripts/story_01/blog.rpy:580
 translate spanish ev_097_third_fitting_be001930:
 
     # Alice 01 "Этот тёмный комплект дешевле того красного, само собой. Первый комплект я даже рассматривать не хочу. Итого, я бы купила этот тёмный, будь у меня деньги."
     Alice 01 "Este conjunto oscuro es más barato que el rojo, obviamente. El primer conjunto no quiero ni considerarlo. En resumen, me compraría ese oscuro si tuviera el dinero."
 
-# game/scripts/story_01/blog.rpy:579
+# game/scripts/story_01/blog.rpy:581
 translate spanish ev_097_third_fitting_2b5054db:
 
     # Max 13 "И сколько он стоит?"
     Max 13 "¿Y cuánto vale?"
 
-# game/scripts/story_01/blog.rpy:581
+# game/scripts/story_01/blog.rpy:583
 translate spanish ev_097_third_fitting_24327056:
 
     # Alice 12 "Ну... Надеюсь, тебя не сильно испугает цена в $199? После потери всех вещей для меня такие деньги неподъёмны." nointeract
     Alice 12 "Bueno... Espero que el precio de 199 dólares no te asuste demasiado. Después de perder todas mis cosas, no puedo permitirme esa cantidad de dinero. [nointeractúa]"
 
-# game/scripts/story_01/blog.rpy:583
+# game/scripts/story_01/blog.rpy:585
 translate spanish ev_097_third_fitting_3c77b5dd:
 
     # Alice 13 "Правда?! Хочешь сказать, ты сможешь купить его прямо сейчас? Фантастика! У тебя откуда столько денег?"
     "[¡¿En serio?! ¿Quieres decir que puedes comprarlo ahora mismo? ¡Es fantástico! ¿De dónde has sacado todo ese dinero?"
 
-# game/scripts/story_01/blog.rpy:584
+# game/scripts/story_01/blog.rpy:586
 translate spanish ev_097_third_fitting_73ff07c7:
 
     # Max 11 "Считай, накопил. Переодевайся в своё платье, а я пока пойду оплачу твоё новое бельё."
     "[Considéralo salvado. Ve a ponerte el vestido, y yo iré a pagar tu ropa interior nueva."
 
-# game/scripts/story_01/blog.rpy:585
+# game/scripts/story_01/blog.rpy:587
 translate spanish ev_097_third_fitting_6faf67b9:
 
     # Alice 03 "Супер! Спасибо тебе. Я быстро..."
     "[¡Genial! Gracias. Voy a ser rápido ..."
 
-# game/scripts/story_01/blog.rpy:589
+# game/scripts/story_01/blog.rpy:591
 translate spanish ev_097_third_fitting_01e3818f:
 
     # tMax 01 "Отлично! С нижним бельём для Алисы определились, теперь дело за малым..." nointeract
     "[¡Muy bien! Ropa interior de Alice se ha decidido, ahora es sólo una cuestión de ..." nointeract
 
-# game/scripts/story_01/blog.rpy:594
+# game/scripts/story_01/blog.rpy:596
 translate spanish ev_097_third_fitting_5695bbfc:
 
     # tMax 06 "Ух ты! Я заглянул прямо в самый подходящий момент, когда на Алисе вообще ничего нет из одежды! И это моя сексуальная сестрёнка, которая скоро будет стримить в сексуальном белье..." nointeract
     tMax 06 "Vaya, me asomé justo en el momento perfecto cuando Alice no lleva nada puesto. Y esta es mi sexy hermanita, que pronto estará en streaming en lencería sexy...." nointeract
 
-# game/scripts/story_01/blog.rpy:608
+# game/scripts/story_01/blog.rpy:610
 translate spanish ev_097_third_fitting_4caf7480:
 
     # Alice 02 "Как же я обожаю новые покупки, ты даже не представляешь! Пойдём скорее домой, пока наши не вернулись." nointeract
     Alice 02 "¡Me encanta ir de compras, no tienes ni idea! Démonos prisa en volver a casa antes de que vuelva nuestra gente." nointeract
 
-# game/scripts/story_01/blog.rpy:613
+# game/scripts/story_01/blog.rpy:615
 translate spanish ev_097_third_fitting_8d05bd05:
 
     # Alice 04 "Слушай... А у тебя случайно нет денег ещё и на новое платье для меня? Я даже могу добавить $20 или $30..."
     "[Escucha... No tendrás dinero para un vestido nuevo para mí, ¿verdad? Incluso podría agregar $20 o $30..."
 
-# game/scripts/story_01/blog.rpy:614
+# game/scripts/story_01/blog.rpy:616
 translate spanish ev_097_third_fitting_b346c66e:
 
     # Max 13 "Алиса, не наглей, на платье денег нет. Тебе сейчас важнее свои доходы приумножить, а не тратить деньги направо-налево. Тем более мои..."
     Max 13 "Alice, no seas descarada, no hay dinero para el vestido. Es más importante para ti aumentar tus ingresos que gastar dinero a diestro y siniestro. Sobre todo el mío."
 
-# game/scripts/story_01/blog.rpy:618
+# game/scripts/story_01/blog.rpy:620
 translate spanish ev_097_third_fitting_e2f80f25:
 
     # Alice 02 "Всё равно, спасибо, Макс! Бельё, чтобы покрасоваться перед зрителями теперь есть, а это значит надо будет создать себе страничку. Настроить её и попробовать провести трансляцию."
     Alice 02 "¡Gracias de todos modos, Max! La ropa interior para presumir ante el público ya está, lo que significa que tendré que crear una página para mí. Configurarla e intentar emitir."
 
-# game/scripts/story_01/blog.rpy:619
+# game/scripts/story_01/blog.rpy:621
 translate spanish ev_097_third_fitting_f9819eb4:
 
     # Max 02 "Зови, если нужно будет чем-то помочь."
     "[Llámame si necesitas ayuda."
 
-# game/scripts/story_01/blog.rpy:620
+# game/scripts/story_01/blog.rpy:622
 translate spanish ev_097_third_fitting_58a4034f:
 
     # Alice 01 "Хорошо. И да, никому ни слова о том, что ты мне купил! Это будет нашим маленьким секретом, как и вся эта затея с трансляциями."
     "[De acuerdo. Y sí, ¡ni una palabra a nadie sobre lo que me has comprado! Será nuestro pequeño secreto, como todo esto de la emisión."
 
-# game/scripts/story_01/blog.rpy:621
+# game/scripts/story_01/blog.rpy:623
 translate spanish ev_097_third_fitting_aa19f1cc:
 
     # Max 01 "Конечно, сестрёнка."
     "[Claro, hermana."
 
-# game/scripts/story_01/blog.rpy:625
+# game/scripts/story_01/blog.rpy:624
+translate spanish ev_097_third_fitting_3055e88b:
+
+    # tMax 04 "Через несколько дней обязательно поинтересуюсь у Алисы, смогла ли она заняться этими вэб-трансляциями. Потому что я бы на неё там с удовольствием посмотрел..."
+    tMax 04 "Me aseguraré de preguntarle a Alice en unos días si ha podido hacer estos webcasts. Porque me encantaría verla allí...."
+
+# game/scripts/story_01/blog.rpy:629
 translate spanish ev_097_third_fitting_97932d33:
 
     # Alice 05 "То, что немного - сильно обнадёживает, Макс! Ты очень мне поможешь, если купишь это бельё. Пускай даже через какое-то время."
     Alice 05 "¡Un poco es muy tranquilizador, Max! Me ayudaría mucho que compraras esta ropa interior. Incluso si es sólo un poco a partir de ahora."
 
-# game/scripts/story_01/blog.rpy:626
+# game/scripts/story_01/blog.rpy:630
 translate spanish ev_097_third_fitting_3b5c5b58:
 
     # Max 11 "Переодевайся, да пойдём домой. Я запомнил, какое бельё мы выбрали, через некоторое время куплю."
     "[Cámbiate, vamos a casa. He memorizado la ropa interior que elegimos, compraré alguna dentro de un rato."
 
-# game/scripts/story_01/blog.rpy:627
+# game/scripts/story_01/blog.rpy:631
 translate spanish ev_097_third_fitting_6faf67b9_1:
 
     # Alice 03 "Супер! Спасибо тебе. Я быстро..."
     "[¡Genial! Gracias. Voy a ser rápido ..."
 
-# game/scripts/story_01/blog.rpy:632
+# game/scripts/story_01/blog.rpy:636
 translate spanish ev_097_third_fitting_ceadf919:
 
     # tMax 01 "Отлично! С нижним бельём для Алисы определились, теперь дело за малым - купить его..." nointeract
     "[¡Muy bien! La ropa interior para Alice ya está decidida, ahora sólo queda comprarla..." nointeract
 
-# game/scripts/story_01/blog.rpy:637
+# game/scripts/story_01/blog.rpy:641
 translate spanish ev_097_third_fitting_5695bbfc_1:
 
     # tMax 06 "Ух ты! Я заглянул прямо в самый подходящий момент, когда на Алисе вообще ничего нет из одежды! И это моя сексуальная сестрёнка, которая скоро будет стримить в сексуальном белье..." nointeract
     tMax 06 "Vaya, me asomé justo en el momento perfecto cuando Alice no lleva nada puesto. Y esta es mi sexy hermanita, que pronto estará en streaming en lencería sexy...." nointeract
 
-# game/scripts/story_01/blog.rpy:650
+# game/scripts/story_01/blog.rpy:654
 translate spanish ev_097_third_fitting_abd2d4f7:
 
     # Alice 04 "Слушай... Может, ты заодно накопишь и на новое платье для меня? Я даже могу добавить $20 или $30..."
     "[Escucha... ¿Por qué no ahorras para un vestido nuevo para mí? Podría incluso añadir 20 o 30 dólares..."
 
-# game/scripts/story_01/blog.rpy:651
+# game/scripts/story_01/blog.rpy:655
 translate spanish ev_097_third_fitting_b346c66e_1:
 
     # Max 13 "Алиса, не наглей, на платье денег нет. Тебе сейчас важнее свои доходы приумножить, а не тратить деньги направо-налево. Тем более мои..."
     Max 13 "Alice, no seas descarada, no hay dinero para el vestido. Es más importante para ti aumentar tus ingresos que gastar dinero a diestro y siniestro. Sobre todo el mío."
 
-# game/scripts/story_01/blog.rpy:655
+# game/scripts/story_01/blog.rpy:659
 translate spanish ev_097_third_fitting_945a6815:
 
     # Alice 02 "Ладно, поняла. Буду ждать от тебя подарка, может что-то там дальше и выгорит у нас благодаря этому белью..."
     Alice 02 "Vale, lo entiendo. Esperaré tu regalo, y quizás pase algo después gracias a esta ropa interior....."
 
-# game/scripts/story_01/blog.rpy:656
+# game/scripts/story_01/blog.rpy:660
 translate spanish ev_097_third_fitting_aa19f1cc_1:
 
     # Max 01 "Конечно, сестрёнка."
     "[Claro, hermana."
 
-# game/scripts/story_01/blog.rpy:666
+# game/scripts/story_01/blog.rpy:671
 translate spanish ev_098_cff32484:
 
     # Alice 04 "И что же это? Я должна угадать?"
     "[¿Qué es? ¿Tengo que adivinarlo?"
 
-# game/scripts/story_01/blog.rpy:667
+# game/scripts/story_01/blog.rpy:672
 translate spanish ev_098_bfe82b37:
 
     # Max 04 "То самое тёмное нижнее бельё..."
     Max 04 "Esa ropa interior oscura ..."
 
-# game/scripts/story_01/blog.rpy:668
+# game/scripts/story_01/blog.rpy:673
 translate spanish ev_098_d71de59b:
 
     # Alice 13 "Ой, супер! Ты всё-таки его купил! Надеюсь, ты ничего с размером не напутал и оно точно такое же, как то, которое я мерила в магазине?"
     "[¡Oh, genial! ¡Al final lo has comprado! Espero que no te hayas equivocado con el tallaje y sea exactamente igual que el que me probé en la tienda."
 
-# game/scripts/story_01/blog.rpy:669
+# game/scripts/story_01/blog.rpy:674
 translate spanish ev_098_119b6b90:
 
     # Max 01 "Думаю, это то самое бельё, но для полной уверенности его бы стоило примерить..."
     Max 01 "Creo que es la misma ropa interior, pero valdría la pena probársela para estar seguros...."
 
-# game/scripts/story_01/blog.rpy:670
+# game/scripts/story_01/blog.rpy:675
 translate spanish ev_098_532540e9:
 
     # Alice 03 "Естественно, я его примерю! И, в качестве огромной благодарности, даже снова покажусь тебе в нём. Только подожди за дверью..."
     "[¡Claro que me lo probaré! Y, como enorme agradecimiento, incluso volveré a mostrártelo puesto. Espera en la puerta."
 
-# game/scripts/story_01/blog.rpy:671
+# game/scripts/story_01/blog.rpy:676
 translate spanish ev_098_9c0b21c5:
 
     # Max 11 "А зачем ходить туда-сюда? Я просто отвернусь и всё!"
     Max 11 "¿Por qué ir y venir? Me doy la vuelta y ya está."
 
-# game/scripts/story_01/blog.rpy:676
+# game/scripts/story_01/blog.rpy:681
 translate spanish ev_098_357fc314:
 
     # Alice 11 "Хм... Ты же подглядывать станешь. Что я тебя, не знаю что ли?" nointeract
     Alice 11 "Hmm. Vas a mirar. ¿No te conozco?" nointeract
 
-# game/scripts/story_01/blog.rpy:683
+# game/scripts/story_01/blog.rpy:688
 translate spanish ev_098_ab7a72c0:
 
     # Alice 02 "Неужели?! Какая же она у нас ещё наивная. Хорошо, оставайся в комнате, но смотри... Чуть что и ты у меня мигом полетишь отсюда в бассейн вниз головой!" nointeract
     "[¡¿En serio?! Sigue siendo tan ingenua. Vale, quédate en tu habitación, pero ten cuidado. ¡Te haré volar de cabeza a la piscina desde aquí!" nointeract
 
-# game/scripts/story_01/blog.rpy:689
+# game/scripts/story_01/blog.rpy:694
 translate spanish ev_098_42837c4e:
 
     # Alice "{b}Алиса:{/b} \nИ глаза закрой, а то ещё моё отражение где-нибудь увидишь..." nointeract
     Alice "{b}Alice:{/b} \nY cierra los ojos, o verás mi reflejo en alguna parte..." nointeract
 
-# game/scripts/story_01/blog.rpy:691
+# game/scripts/story_01/blog.rpy:696
 translate spanish ev_098_74c9f743:
 
     # tMax 13 "Эх, она ведь там сейчас наверняка голыми сиськами светит, а я тут стою без дела и просто жду. Зря не стал подглядывать..."
     "[Oh, ella probablemente está allí ahora con sus tetas desnudas mostrando, y yo estoy aquí esperando. Debería haber echado un vistazo."
 
-# game/scripts/story_01/blog.rpy:702
+# game/scripts/story_01/blog.rpy:707
 translate spanish ev_098_7a72444c:
 
     # tMax 03 "О, вот это класс! Очень хочется присвистнуть от восхищения, как Алиса переодевается, но это чревато переломами..."
     "[¡Oh, eso es genial! Realmente quiero silbar de admiración mientras Alice se cambia de ropa, pero eso está plagado de fracturas...."
 
-# game/scripts/story_01/blog.rpy:715
+# game/scripts/story_01/blog.rpy:720
 translate spanish ev_098_5e8063b3:
 
     # Alice 15 "Макс! Ты офигел что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда за дверь, пока я тебя не позову..." nointeract
     "[¡Max! ¡¿Estás loco?! ¿Estás loco? Sal de aquí antes de que te llame. [nointeractúa]"
 
-# game/scripts/story_01/blog.rpy:719
+# game/scripts/story_01/blog.rpy:724
 translate spanish ev_098_95bb396d:
 
     # tMax 16 "Какая она глазастая... Теперь мне лучше даже не пытаться подглядеть за ней, чтобы окончательно всё не испортить."
     tMax 16 "Ella tiene tal ojo... Ahora será mejor que ni siquiera intente mirarla ahora, no sea que lo arruine por completo."
 
-# game/scripts/story_01/blog.rpy:720
+# game/scripts/story_01/blog.rpy:725
 translate spanish ev_098_349690fe:
 
     # Alice "{b}Алиса:{/b} \nВсё, Макс. Можешь заглянуть в комнату..."
     Alice "{b}Alice:{/b} \nEso es, Max. Puedes mirar en la habitación..."
 
-# game/scripts/story_01/blog.rpy:721
+# game/scripts/story_01/blog.rpy:726
 translate spanish ev_098_592ee63c:
 
     # Max 11 "А ты быстро!"
     "[¡Eres rápido!"
 
-# game/scripts/story_01/blog.rpy:726
+# game/scripts/story_01/blog.rpy:731
 translate spanish ev_098_0d263cd7:
 
     # Alice 04 "Оно достаточно легко надевается. Что скажешь, хорошо же сидит? Хотя, по твоим оживлённым глазкам видно, что хорошо."
     Alice 04 "Es bastante fácil de poner. Qué te parece, te queda bien, ¿no? Aunque por tus ojos vivaces veo que sí."
 
-# game/scripts/story_01/blog.rpy:727
+# game/scripts/story_01/blog.rpy:732
 translate spanish ev_098_ba1bea0b:
 
     # Max 03 "Ага, полный порядок! Ещё бы сзади посмотреть..."
     "[¡Sí, está bien! También me gustaría ver la parte de atrás..."
 
-# game/scripts/story_01/blog.rpy:728
+# game/scripts/story_01/blog.rpy:733
 translate spanish ev_098_d0934f57:
 
     # Alice 11 "А то ты не видел! Не подглядывал бы за мной, сейчас смог бы оценить и сзади, а так, довольствуйся тем, что сейчас видишь."
     Alice 11 "¡No lo has visto! Si no me hubieras estado espiando, ahora podrías apreciarlo por detrás, pero tal como están las cosas, confórmate con lo que ves ahora."
 
-# game/scripts/story_01/blog.rpy:729
+# game/scripts/story_01/blog.rpy:734
 translate spanish ev_098_17d4a3a8:
 
     # Max 04 "Мне всё нравится. Какие теперь планы?"
     Max 04 "Me gusta todo. ¿Cuáles son tus planes ahora?"
 
-# game/scripts/story_01/blog.rpy:732
+# game/scripts/story_01/blog.rpy:737
 translate spanish ev_098_6d45501a:
 
     # Alice "{b}Алиса:{/b} \nВсё, Макс. Можешь повернуться..."
     Alice "{b}Alice:{/b} \nEso es, Max. Puedes darte la vuelta..."
 
-# game/scripts/story_01/blog.rpy:733
+# game/scripts/story_01/blog.rpy:738
 translate spanish ev_098_592ee63c_1:
 
     # Max 11 "А ты быстро!"
     "[¡Eres rápido!"
 
-# game/scripts/story_01/blog.rpy:737
+# game/scripts/story_01/blog.rpy:742
 translate spanish ev_098_0d263cd7_1:
 
     # Alice 04 "Оно достаточно легко надевается. Что скажешь, хорошо же сидит? Хотя, по твоим оживлённым глазкам видно, что хорошо."
     Alice 04 "Es bastante fácil de poner. Qué te parece, te queda bien, ¿no? Aunque por tus ojos vivaces veo que sí."
 
-# game/scripts/story_01/blog.rpy:738
+# game/scripts/story_01/blog.rpy:743
 translate spanish ev_098_ba1bea0b_1:
 
     # Max 03 "Ага, полный порядок! Ещё бы сзади посмотреть..."
     "[¡Sí, está bien! También me gustaría ver la parte de atrás..."
 
-# game/scripts/story_01/blog.rpy:742
+# game/scripts/story_01/blog.rpy:747
 translate spanish ev_098_314b339e:
 
     # Alice 03 "А то ты в тот раз не насмотрелся! Вот, любуйся, пока я добрая... Ты же всё-таки оплатил этот показ, так что порадую своего братика, правда, это звучит как-то грязновато."
     Alice 03 "¡No lo viste aquella vez! Toma, disfrútalo mientras soy amable... Usted pagó por este espectáculo después de todo, así que voy a hacer feliz a mi hermano, pero suena un poco sucio."
 
-# game/scripts/story_01/blog.rpy:743
+# game/scripts/story_01/blog.rpy:748
 translate spanish ev_098_17d4a3a8_1:
 
     # Max 04 "Мне всё нравится. Какие теперь планы?"
     Max 04 "Me gusta todo. ¿Cuáles son tus planes ahora?"
 
-# game/scripts/story_01/blog.rpy:754
+# game/scripts/story_01/blog.rpy:759
 translate spanish ev_098_a93c314f:
 
     # Alice 15 "Неужели?! Может, мою наивную сестрёнку и можно так развести, но вот со мной такой номер не пройдёт. А если будешь и дальше упрашивать, то вообще ничего не увидишь! Понял?" nointeract
     "[¡¿En serio?! A lo mejor a mi ingenua hermana la pueden engañar así, pero a mí no me van a engañar así. ¡Si sigues rogándome, nunca verás nada! ¿Entendido?" nointeract
 
-# game/scripts/story_01/blog.rpy:759
+# game/scripts/story_01/blog.rpy:764
 translate spanish ev_098_2c25ff43:
 
     # tMax 13 "Вообще-то, я бы с удовольствием посмотрел на то, как сестрёнка надевает это бельё, прежде чем попозирует для меня. Но лучше просто подожду..."
     tMax 13 "En realidad, me encantaría ver a mi hermana ponerse esa lencería antes de posar para mí. Pero prefiero esperar..."
 
-# game/scripts/story_01/blog.rpy:760
+# game/scripts/story_01/blog.rpy:765
 translate spanish ev_098_349690fe_1:
 
     # Alice "{b}Алиса:{/b} \nВсё, Макс. Можешь заглянуть в комнату..."
     Alice "{b}Alice:{/b} \nEso es, Max. Puedes mirar en la habitación..."
 
-# game/scripts/story_01/blog.rpy:761
+# game/scripts/story_01/blog.rpy:766
 translate spanish ev_098_592ee63c_2:
 
     # Max 11 "А ты быстро!"
     "[¡Eres rápido!"
 
-# game/scripts/story_01/blog.rpy:765
+# game/scripts/story_01/blog.rpy:770
 translate spanish ev_098_0d263cd7_2:
 
     # Alice 04 "Оно достаточно легко надевается. Что скажешь, хорошо же сидит? Хотя, по твоим оживлённым глазкам видно, что хорошо."
     Alice 04 "Es bastante fácil de poner. Qué te parece, te queda bien, ¿no? Aunque por tus ojos vivaces veo que sí."
 
-# game/scripts/story_01/blog.rpy:766
+# game/scripts/story_01/blog.rpy:771
 translate spanish ev_098_ba1bea0b_2:
 
     # Max 03 "Ага, полный порядок! Ещё бы сзади посмотреть..."
     "[¡Sí, está bien! También me gustaría ver la parte de atrás..."
 
-# game/scripts/story_01/blog.rpy:770
+# game/scripts/story_01/blog.rpy:775
 translate spanish ev_098_314b339e_1:
 
     # Alice 03 "А то ты в тот раз не насмотрелся! Вот, любуйся, пока я добрая... Ты же всё-таки оплатил этот показ, так что порадую своего братика, правда, это звучит как-то грязновато."
     Alice 03 "¡No lo viste aquella vez! Toma, disfrútalo mientras soy amable... Usted pagó por este espectáculo después de todo, así que voy a hacer feliz a mi hermano, pero suena un poco sucio."
 
-# game/scripts/story_01/blog.rpy:771
+# game/scripts/story_01/blog.rpy:776
 translate spanish ev_098_17d4a3a8_2:
 
     # Max 04 "Мне всё нравится. Какие теперь планы?"
     Max 04 "Me gusta todo. ¿Cuáles son tus planes ahora?"
 
-# game/scripts/story_01/blog.rpy:778
+# game/scripts/story_01/blog.rpy:783
 translate spanish ev_098_end_40ecf2ac:
 
     # Alice 02 "Бельё, чтобы покрасоваться перед зрителями теперь есть, а это значит надо будет создать себе страничку. Настроить её и попробовать провести трансляцию."
     Alice 02 "Ya tienes la lencería para lucirte ante el público, lo que significa que tendrás que crear una página. Configúrala e intenta emitir."
 
-# game/scripts/story_01/blog.rpy:779
+# game/scripts/story_01/blog.rpy:784
 translate spanish ev_098_end_f9819eb4:
 
     # Max 02 "Зови, если нужно будет чем-то помочь."
     "[Llámame si necesitas ayuda."
 
-# game/scripts/story_01/blog.rpy:780
+# game/scripts/story_01/blog.rpy:785
 translate spanish ev_098_end_58a4034f:
 
     # Alice 01 "Хорошо. И да, никому ни слова о том, что ты мне купил! Это будет нашим маленьким секретом, как и вся эта затея с трансляциями."
     "[De acuerdo. Y sí, ¡ni una palabra a nadie sobre lo que me has comprado! Será nuestro pequeño secreto, como todo esto de la emisión."
 
-# game/scripts/story_01/blog.rpy:781
+# game/scripts/story_01/blog.rpy:786
 translate spanish ev_098_end_aa19f1cc:
 
     # Max 01 "Конечно, сестрёнка."
     "[Claro, hermana."
+
+# game/scripts/story_01/blog.rpy:787
+translate spanish ev_098_end_3055e88b:
+
+    # tMax 04 "Через несколько дней обязательно поинтересуюсь у Алисы, смогла ли она заняться этими вэб-трансляциями. Потому что я бы на неё там с удовольствием посмотрел..."
+    tMax 04 "Me aseguraré de preguntarle a Alice en unos días si ha podido hacer estos webcasts. Porque me encantaría verla allí...."
+
+# game/scripts/story_01/blog.rpy:800
+translate spanish ev_100_0ef8fa26:
+
+    # tMax 12 "Надо бы зайти к Алисе и поинтересоваться, как там у неё дела с трансляциями..."
+    tMax 12 "Debo comprobar con Alice y ver cómo le va con los broadcasts...."
+
+# game/scripts/story_01/blog.rpy:803
+translate spanish ev_100_fc7f9b11:
+
+    # Alice 02 "Отлично, я как раз думала тебя позвать, Макс! Принеси сюда свой ноутбук, мне нужно кое-что проверить..."
+    "[¡Genial, justo estaba pensando en llamarte, Max! Trae tu portátil aquí, necesito comprobar algo....."
+
+# game/scripts/story_01/blog.rpy:804
+translate spanish ev_100_fb92ebb5:
+
+    # Max 15 "Мой ноутбук? Что это ты собралась там проверять?"
+    "[¿Mi portátil? ¿Qué vas a comprobarlo?"
+
+# game/scripts/story_01/blog.rpy:807
+translate spanish ev_100_3e62a737:
+
+    # Alice 04 "Хочу знать твои порно-пристрастия! Шутка, не напрягайся. Надо зарегистрировать тебя на одном сайте и проверить, работают ли настройки приватности и ограничения на трансляции."
+    Alice 04 "¡Quiero saber tus preferencias porno! Es broma, no te molestes. Debería registrarte en un sitio y ver si funciona la configuración de privacidad y las restricciones de difusión."
+
+# game/scripts/story_01/blog.rpy:808
+translate spanish ev_100_9a4d8be2:
+
+    # Max 11 "Понял. Это без проблем, сейчас принесу..."
+    "[Entendido. No hay problema, te lo traeré en un segundo..."
+
+# game/scripts/story_01/blog.rpy:809
+translate spanish ev_100_b91ed2b5:
+
+    # Alice 11 "Только не торопись и прежде чем заходить в мою комнату, обязательно постучись. Пока ты ходишь, я переоденусь."
+    Alice 11 "Tómate tu tiempo y antes de entrar en mi habitación, asegúrate de llamar. Mientras caminas, me cambiaré de ropa."
+
+# game/scripts/story_01/blog.rpy:810
+translate spanish ev_100_0d8d152c:
+
+    # Max 12 "Хорошо..."
+    "[Vale..."
+
+# game/scripts/story_01/blog.rpy:813
+translate spanish ev_100_07e887bc:
+
+    # tMax 16 "Блин! Надо очистить историю браузера и спрятать закладку на мой сайт, а то последнее, что мне сейчас нужно, так это чтобы кто-то узнал про мою затею со скрытыми камерами!"
+    tMax 16 "¡Mierda! ¡Necesito borrar el historial de mi navegador y ocultar mis marcadores a mi sitio, o lo último que necesito ahora mismo es que alguien descubra lo de mi cámara oculta!"
+
+# game/scripts/story_01/blog.rpy:814
+translate spanish ev_100_c398d615:
+
+    # tMax 00 "Всё, порядок я навёл. Теперь можно идти..."
+    "[Muy bien, estoy limpio. Ahora podemos irnos..."
+
+# game/scripts/story_01/blog.rpy:817
+translate spanish ev_100_70474c99:
+
+    # tMax 13 "Что-то я с перепугу не могу вспомнить, что там Алиса говорила сделать? Постучаться что ли... А зачем? Вот же только к ней заходил..."
+    tMax 13 "No puedo recordar lo que Alice dijo que hacer. Llama a la puerta. ¿Por qué iba a hacer eso? Acabo de ir a su casa."
+
+# game/scripts/story_01/blog.rpy:820
+translate spanish ev_100_f3e4e642:
+
+    # tMax 01 "Ах да, точно! Теперь я вспомнил... Она же сказала, что переодеваться будет в моё отсутствие. Похоже, у неё всё готово для ведения трансляций..."
+    "[¡Oh, sí, claro! Ahora recuerdo... Pensé que había dicho que iba a cambiarse de ropa mientras yo estaba fuera. Parece que está lista para emitir...."
+
+# game/scripts/story_01/blog.rpy:821
+translate spanish ev_100_44121cd3:
+
+    # Alice 15 "Макс, что-то я не слышала, чтобы ты стучался!"
+    Alice 15 "¡Max, no te oí golpear!"
+
+# game/scripts/story_01/blog.rpy:822
+translate spanish ev_100_ab5b873e:
+
+    # Max 11 "Так конечно, ты наушники надела, вот и не слышишь ничего. Я стучался, стучался..."
+    Max 11 "Por supuesto que llevas auriculares, así que no puedes oír nada. Llamé, llamé."
+
+# game/scripts/story_01/blog.rpy:823
+translate spanish ev_100_e71f6959:
+
+    # Alice 11 "Не рассказывай мне сказки, как ты устал стучаться. Просто открыл дверь и стоишь глазеешь в наглую."
+    Alice 11 "No me digas lo cansado que estás de llamar. Abres la puerta y te quedas con la mirada perdida."
+
+# game/scripts/story_01/blog.rpy:824
+translate spanish ev_100_f0a29001:
+
+    # Max 03 "Тук-тук... Я войду в тебя? В смысле, к тебе..."
+    "[Toc, toc... ¿Estoy entrando en ti? Quiero decir, dentro de ti..."
+
+# game/scripts/story_01/blog.rpy:827
+translate spanish ev_100_3909afda:
+
+    # Alice 01 "Что это ты такой весёлый стал? Наверняка всякие похабные мысли в голове заиграли от того, что снова увидел меня в этом нижнем белье? Я вообще-то твоя старшая сестра, если ещё помнишь."
+    Alice 01 "¿Por qué estás tan alegre? Seguro que tienes pensamientos lascivos porque me has vuelto a ver en ropa interior, ¿verdad? Soy tu hermana mayor, si te acuerdas."
+
+# game/scripts/story_01/blog.rpy:828
+translate spanish ev_100_8023a027:
+
+    # Max 04 "Если я вижу красивую женскую попку в сексуальных трусиках, мне без разницы чья она. Мне просто очень приятно от того, что я вижу."
+    Max 04 "Si veo el culo de una mujer guapa en bragas sexys, me da igual de quién sea. Sólo me siento bien con lo que veo."
+
+# game/scripts/story_01/blog.rpy:829
+translate spanish ev_100_6ff95fda:
+
+    # Alice 04 "Знаешь, в любой другой раз я бы выпнула тебя за это, но с учётом того, что ты меня уговорил попробовать делать, я посчитаю это за комплимент и моральную поддержку."
+    Alice 04 "Sabes, en cualquier otro momento te echaría por esto, pero teniendo en cuenta lo que me convenciste de intentar hacer, lo consideraré un cumplido y un apoyo moral."
+
+# game/scripts/story_01/blog.rpy:830
+translate spanish ev_100_c66acb9a:
+
+    # Max 02 "Всегда пожалуйста, сестрёнка. Так что ты там хотела, чтобы я сделал?"
+    "[De nada, hermanita. ¿Qué querías que hiciera?"
+
+# game/scripts/story_01/blog.rpy:833
+translate spanish ev_100_8c5cfbc2:
+
+    # Alice 02 "Сейчас мы тебя зарегистрируем на сайте «MyCams», чтобы ты мог смотреть на всяких полуголых отвязных девчонок, но не на меня. Не хватало ещё, чтобы ты или кто-то из моих знакомых, меня видели за таким занятием..."
+    Alice 02 "Ahora vamos a registrarte en MyCams para que puedas ver todo tipo de chicas calientes semidesnudas, pero no a mí. No quiero que tú, ni nadie que conozca, me vea haciendo eso...."
+
+# game/scripts/story_01/blog.rpy:834
+translate spanish ev_100_8fe6caaf:
+
+    # Max 13 "Хм... Мне придётся указать, что я старше, чем есть на самом деле. Надеюсь, что этот сайт не заругает меня за это."
+    Max 13 "Hmm. Voy a tener que señalar que soy mayor que yo. Espero que este sitio no me regañe por eso."
+
+# game/scripts/story_01/blog.rpy:835
+translate spanish ev_100_459002ee:
+
+    # Alice 03 "Ой, подумаешь... Мне кажется, что там каждый второй пользователь так делает."
+    Alice 03 "Oh, vamos... Creo que todos los demás usuarios por ahí hace eso."
+
+# game/scripts/story_01/blog.rpy:836
+translate spanish ev_100_c732f340:
+
+    # Max 11 "Вроде, порядок... Доступ к контенту на сайте у меня теперь есть. Сейчас ещё подтвержу свой аккаунт через почту и всё..."
+    Max 11 "Parece estar en orden... Ya tengo acceso al contenido del sitio. Ahora voy a confirmar mi cuenta por correo y listo..."
+
+# game/scripts/story_01/blog.rpy:837
+translate spanish ev_100_2a5aec01:
+
+    # Alice 00 "Отлично! У меня сейчас запущена тестовая трансляция, попробуй найти меня по нику «NaughtyKitty». Пользователи не из наших мест меня видят, а вот насчёт здешних хочу как раз проверить через тебя."
+    "[¡Muy bien! Estoy haciendo una transmisión de prueba ahora mismo, intenta encontrarme bajo el nickname \"NaughtyKitty\". Los usuarios que no sean de nuestra zona pueden verme, pero quiero comprobarlo a través de vosotros."
+
+# game/scripts/story_01/blog.rpy:838
+translate spanish ev_100_fcac2c16:
+
+    # Max 13 "Один момент, постараюсь найти... Хм... Я не вижу здесь никого, похожего на тебя. Разве что у тебя на аватарке показано не лицо..."
+    Max 13 "Un momento, voy a tratar de encontrar... Hmm... No veo a nadie aquí que se parezca a ti. A menos que tu avatar no muestre tu cara..."
+
+# game/scripts/story_01/blog.rpy:839
+translate spanish ev_100_8c404c8f:
+
+    # Alice 13 "Вот и отлично, что ты меня не видишь! Значит, и другие тоже не увидят. Какая полезная функция, правда?"
+    "[¡Qué bueno que no puedes verme! Eso significa que los demás tampoco me verán. Es una característica útil, ¿no?"
+
+# game/scripts/story_01/blog.rpy:840
+translate spanish ev_100_4d29e3e9:
+
+    # Max 12 "Эх, а я так надеялся увидеть, как ты будешь красиво позировать в нижнем белье."
+    Max 12 "Ah, estaba deseando verte posando maravillosamente en ropa interior."
+
+# game/scripts/story_01/blog.rpy:843
+translate spanish ev_100_038dfd9b:
+
+    # Alice 02 "Как будто ты сейчас не насмотрелся на год вперёд, пока регистрировался? Вон у тебя, левый глаз уже косит."
+    Alice 02 "¿Como si no hubieras visto un año de cosas desde que te inscribiste? Tu ojo izquierdo ya está entrecerrando los ojos."
+
+# game/scripts/story_01/blog.rpy:844
+translate spanish ev_100_dea44a83:
+
+    # Max 16 "Как это на год вперёд?! Разве ты не будешь временами и для меня позировать в нижнем белье?"
+    "[¡¿Qué quieres decir con un año de antelación?! ¿No posarás en ropa interior para mí de vez en cuando?"
+
+# game/scripts/story_01/blog.rpy:846
+translate spanish ev_100_9221efdf:
+
+    # Alice 11 "А разве мы о таком договаривались? Ты вызвался помочь мне с приобретением этого белья, а я в свою очередь показала его на себе. Ты вообще себя так культурно вёл, что увидел меня во всех комплектах белья, которые я мерила."
+    Alice 11 "¿Es eso lo que acordamos? Te ofreciste a ayudarme a comprar esta lencería y, a cambio, te la enseñé. Has sido muy culto al verme en toda la lencería que me he probado."
+
+# game/scripts/story_01/blog.rpy:848
+translate spanish ev_100_323cb9c5:
+
+    # Alice 11 "А разве мы о таком договаривались? Ты вызвался помочь мне с приобретением этого белья, а я в свою очередь показала его на себе. Не я виновата в том, что ты увидел меня не во всех комплектах белья, которые я мерила."
+    Alice 11 "¿Es eso lo que acordamos? Te ofreciste a ayudarme a comprar esta lencería y, a cambio, te la enseñé. No es culpa mía que no me vieras con toda la lencería que me probé."
+
+# game/scripts/story_01/blog.rpy:849
+translate spanish ev_100_b31ff44b:
+
+    # Max 11 "Тогда можешь выразить благодарность показав грудь или дать её потрогать..."
+    Max 11 "Entonces puedes mostrar tu gratitud mostrando tus pechos o dejándome tocarlos...."
+
+# game/scripts/story_01/blog.rpy:850
+translate spanish ev_100_58bc5420:
+
+    # Alice 15 "Ох, Макс... Какой же ты озабоченный извращенец всё-таки. Одно и то же у тебя всегда на уме. Найди себе уже девчонку вместо того, чтобы к сестре приставать."
+    "[Oh, Max. Qué pervertido cachondo eres. Siempre tienes lo mismo en mente. Búscate una chica en vez de coquetear con tu hermana."
+
+# game/scripts/story_01/blog.rpy:851
+translate spanish ev_100_f259442d:
+
+    # Max 02 "Твой доход сейчас как раз будет зависеть от таких извращенцев, как я! Так что не жалуйся..."
+    Max 02 "¡Tus ingresos están a punto de depender de pervertidos como yo! Así que no te quejes..."
+
+# game/scripts/story_01/blog.rpy:852
+translate spanish ev_100_84719155:
+
+    # Alice 12 "Да, ты прав... А вообще, пока что рано выражать какие-то благодарности. Ещё не ясно, обзаведусь ли я хоть какой-то популярностью на этом сайте. Может быть так, что я мало что там заработаю."
+    Alice 12 "Sí, tienes razón... De hecho, es demasiado pronto para expresar cualquier gratitud. Todavía no está claro si voy a ganar popularidad en este sitio. Puede que no gane mucho dinero allí."
+
+# game/scripts/story_01/blog.rpy:853
+translate spanish ev_100_66d30591:
+
+    # Max 01 "Я уверен, что заработаешь! С твоей-то милой внешностью и стройной фигурой..."
+    "[¡Estoy seguro de que lo harás! Con tu linda apariencia y esbelta figura..."
+
+# game/scripts/story_01/blog.rpy:854
+translate spanish ev_100_48d444f5:
+
+    # Alice 11 "Если совсем полностью оголяться, то конечно заработаю. Только вот я не хочу до такого опускаться. Хочется, чтобы по мне сходили с ума не от этого, а от того, как я буду двигаться и играть на воображении."
+    Alice 11 "Si fuera completamente desnudo, ganaría dinero. Pero no quiero caer tan bajo. No quiero que la gente se vuelva loca por mí, sino que se vuelva loca por la forma en que me muevo y juego con mi imaginación."
+
+# game/scripts/story_01/blog.rpy:855
+translate spanish ev_100_ab793a37:
+
+    # Max 11 "Хм... Это должно быть намного сложнее, чем просто раздеваться. И может даже далеко не сразу ты этого добьёшься, так что успехов тебе."
+    "[Hmm... Eso debe ser mucho más difícil que simplemente desnudarse. Y puede que ni siquiera lo consigas de inmediato, así que buena suerte."
+
+# game/scripts/story_01/blog.rpy:856
+translate spanish ev_100_a1339058:
+
+    # Alice 12 "Спасибо, Макс, буду стараться. И у меня к тебе будет очень важная просьба - не мешать мне во время трансляций. Сам должен понимать, что это будет самым настоящим стрессом для меня, особенно в самом начале."
+    Alice 12 "Gracias, Max, haré todo lo posible. Y tengo una petición muy importante para ti: no interfieras conmigo durante las emisiones. Debes darte cuenta de que será un verdadero estrés para mí, sobre todo al principio."
+
+# game/scripts/story_01/blog.rpy:857
+translate spanish ev_100_17367aaf:
+
+    # Max 03 "Конечно, я не буду тебе мешать. Но если всё-таки захочешь показать мне сиськи, то не терпи, просто позови..."
+    Max 03 "Por supuesto que no te molestaré. Pero si todavía quieres mostrarme tus tetas, no seas paciente, sólo llama...."
+
+# game/scripts/story_01/blog.rpy:859
+translate spanish ev_100_0d6b2903:
+
+    # Alice 11 "Ой, ну как же без этого. Иди давай, хватит уже на меня глазеть." nointeract
+    "[De ninguna manera. Vamos, deja de mirarme. [nointeractúa]"
+
+# game/scripts/story_01/blog.rpy:863
+translate spanish ev_100_8c2e5611:
+
+    # tMax 06 "Хе-хе... Как же здорово, что Алиса сама взяла и раскрыла сайт, через который будет вести трансляции, да ещё и ник мне сообщила. Что это, как не явное приглашение на трансляции моей сестрёнки?"
+    tMax 06 "Jejeje... Es genial que la propia Alice haya revelado el sitio a través del cual transmitirá, y también me haya dado su apodo. ¿Qué es eso sino una invitación explícita a las transmisiones de mi hermana?"
+
+# game/scripts/story_01/blog.rpy:864
+translate spanish ev_100_b0e19108:
+
+    # tMax 11 "Нужно лишь почитать в интернете о том, как можно обойти это ограничение из-за которого я не могу её увидеть на сайте."
+    tMax 11 "Sólo tengo que leer en internet cómo sortear esta restricción que me impide verla en el sitio."
+
+# game/scripts/story_01/blog.rpy:867
+translate spanish ev_100_3971d4fa:
+
+    # tMax 13 "Можно было бы просто создать другой аккаунт, только вот не факт, что я смогу привязать к нему свой счёт, так как данные не будут совпадать."
+    tMax 13 "Podrías crear otra cuenta, pero no es seguro que pueda vincularla a la mía, ya que los datos no coinciden."
+
+# game/scripts/story_01/blog.rpy:868
+translate spanish ev_100_e7315020:
+
+    # tMax 00 "Буду разбираться..."
+    tMax 00 "Lo investigaré..."
+
+# game/scripts/story_01/blog.rpy:882
+translate spanish ev_101_194e9c33:
+
+    # tMax 13 "Как же мне обойти эту защиту трансляций Алисы... Способ однозначно должен быть..."
+    tMax 13 "Entonces, ¿cómo puedo evitar esta defensa de las emisiones de Alice.... Definitivamente tiene que haber una manera..."
+
+# game/scripts/story_01/blog.rpy:883
+translate spanish ev_101_20c2d4a5:
+
+    # tMax 11 "Вот, получается, мне нужно открыть контент, доступ к которому ограничен в конкретном регионе. Ага, похоже, всё довольно просто, мне всего-то нужен VPN-сервис!"
+    "[Resulta que necesito abrir contenidos que están restringidos en una región concreta. Sí, parece que es bastante sencillo, ¡todo lo que necesito es un servicio VPN!"
+
+# game/scripts/story_01/blog.rpy:895
+translate spanish ev_102_e047e79d:
+
+    # tMax 00 "Благодаря VPN мой аккаунт станет считаться анонимным и я смогу увидеть Алису. Лучше пользоваться платным, чтобы не терять в скорости интернета и избежать различных сбоев. Это будет стоить $25." nointeract
+    tMax 00 "Gracias a la VPN mi cuenta será considerada anónima y podré ver a Alice. Es mejor usar una de pago, para no perder en velocidad de internet y evitar fallos varios. Costará 25 dólares." nointeract
+
+# game/scripts/story_01/blog.rpy:899
+translate spanish ev_102_44c53353:
+
+    # tMax 01 "Отлично! Всё оплачено, настроено и работает! Теперь я смогу найти Алису на сайте «MyCams» и наблюдать за тем, что она делает на своих трансляциях..." nointeract
+    "[¡Genial! ¡Todo está pagado, configurado y funcionando! Ahora puedo encontrar a Alice en el sitio \"MyCams\" y ver lo que hace en sus emisiones..." nointeract
+
+# game/scripts/story_01/blog.rpy:902
+translate spanish ev_102_45524754:
+
+    # tMax 13 "Хм... Странно. Я всё равно её не вижу... Может, если она не ведёт трансляцию, то и её профиля я не смогу увидеть?"
+    "[Hmm... Eso es raro. Todavía no puedo verla... ¿Tal vez si ella no está transmitiendo, tampoco puedo ver su perfil?"
+
+# game/scripts/story_01/blog.rpy:903
+translate spanish ev_102_94cae2e8:
+
+    # tMax 16 "Нет, вот здесь девчонки не ведут сейчас трансляцию, а их профиль видно... Чёрт! Похоже, я зря радовался и Алиса сменила свой ник. Умная девочка..."
+    tMax 16 "No, aquí es donde las chicas no están transmitiendo ahora, pero puedes ver su perfil.... ¡Maldita sea! Parece que me equivoqué y Alice cambió su apodo. Chica lista..."
+
+# game/scripts/story_01/blog.rpy:904
+translate spanish ev_102_b0915dd3:
+
+    # tMax 12 "Что же теперь делать? Просматривать все профили и надеяться, что на её аватарке будет изображено её лицо? Сомнительно..."
+    "[¿Qué hago ahora? ¿Revisar todos los perfiles y esperar que su avatar muestre su cara? Lo dudo..."
+
+# game/scripts/story_01/blog.rpy:905
+translate spanish ev_102_4c14fb1a:
+
+    # tMax 13 "Как бы мне не пришлось взламывать её ноутбук, чтобы это выяснить. Может, в интернете я смогу найти всю необходимую для этого информацию..."
+    "[No quiero tener que hackear su portátil para averiguarlo. Tal vez pueda encontrar toda la información que necesito para hacerlo en internet..."
+
+# game/scripts/story_01/blog.rpy:927
+translate spanish ev_103_d66f8c83:
+
+    # tMax 13 "Попробую порыться на хакерском форуме и узнать, каким образом злоумышленники могут красть персональные данные. Возможно, что-то из найденного подойдёт для моего случая... Так, вот это любопытно... О, кажется, я понял!"
+    tMax 13 "Intentaré husmear en un foro de hackers y averiguar cómo los atacantes pueden robar datos personales. Quizás algo de lo que he encontrado sirva para mi caso.... Vale, esto sí que es curioso.... ¡Oh, creo que lo tengo!"
+
+# game/scripts/story_01/blog.rpy:928
+translate spanish ev_103_af9e16b2:
+
+    # tMax 05 "Вот же оно! Мне просто нужно установить на ноутбук Алисы специальную программу, которая будет скрытно работать на её компьютере и отправлять мне данные, которые она вводит с клавиатуры!"
+    "[¡Eso es! ¡Sólo tengo que instalar un programa especial en el portátil de Alice que se ejecutará en secreto en su ordenador y me enviará los datos que introduzca desde su teclado!"
+
+# game/scripts/story_01/blog.rpy:929
+translate spanish ev_103_76ad4229:
+
+    # tMax 11 "Даже продвинутым хакером не нужно для этого становиться! Всё довольно просто... Скачать программу-кейлоггер, закинуть её на флешку, установить на компьютер и настроить так, как мне нужно... Хотя..."
+    tMax 11 "¡Ni siquiera tienes que ser un hacker avanzado para hacer esto! Es bastante simple... Descargar el software keylogger, echarlo en un pendrive, instalarlo en mi ordenador y configurarlo como yo quiera... Aunque..."
+
+# game/scripts/story_01/blog.rpy:930
+translate spanish ev_103_3cab058f:
+
+    # tMax 13 "У Алисы на ноутбуке может стоять пароль... Это нужно обязательно проверить, пока сестрёнка находится подальше от своей комнаты..."
+    "[Alice puede tener una contraseña en su portátil... Esto definitivamente debe ser revisado mientras sis está fuera de su habitación..."
+
+# game/scripts/story_01/blog.rpy:946
+translate spanish ev_104_4a9cd773:
+
+    # tMax 16 "Вот блин, так и знал! Её компьютер всё-таки запаролен! Как же меня эта Алиса зае... И какой пароль? Эх... Придётся ещё посидеть на хакерском форуме..." nointeract
+    "[¡Oh, hombre, lo sabía! ¡Su ordenador está protegido por contraseña después de todo! Estoy tan harto de Alice. ¿Cuál es la contraseña? Oh. Tendré que ir al foro de hackers... [nointeractúa]"
+
+# game/scripts/story_01/blog.rpy:960
+translate spanish ev_105_c1f2efe5:
+
+    # tMax 11 "Так... Вот есть утилиты, которые могут заменить пароль или вообще убрать его... Это как раз то, что мне и нужно, чтобы забраться к Алисе в ноутбук..."
+    "[Así que... Aquí hay algunas utilidades que pueden reemplazar la contraseña o eliminarla por completo... Eso es exactamente lo que necesito para entrar en el portátil de Alice..."
+
+# game/scripts/story_01/blog.rpy:961
+translate spanish ev_105_56f56e5f:
+
+    # tMax 16 "Чёрт, нет! Она же тогда узнает, что я в нём ковырялся и весь этот взлом станет напрасным. Нужно что-то другое..."
+    "[¡Diablos, no! Entonces sabrá que he estado hurgando en ella y todo este hackeo no habrá servido para nada. Necesitamos otra cosa."
+
+# game/scripts/story_01/blog.rpy:962
+translate spanish ev_105_f91b31b5:
+
+    # tMax 11 "Какие ещё есть варианты? Ага, есть программа, которая позволяет подбирать пароли для входа в систему... И подробная инструкция прилагается!"
+    "[¿Qué otras opciones hay? Sí, hay un programa que te permite elegir contraseñas para iniciar sesión... ¡Y se incluyen instrucciones detalladas!"
+
+# game/scripts/story_01/blog.rpy:963
+translate spanish ev_105_8ff24290:
+
+    # tMax 12 "Правда, её пароля я так и не узнаю, потому что в этой программе вместо чисел и букв показываются какие-то непонятные символы, но в систему я попаду и самое главное, что Алиса об этом не узнает."
+    tMax 12 "Pero no sabré su contraseña, porque este programa muestra unos símbolos extraños en lugar de números y letras, pero entraré en el sistema y lo más importante es que Alice no lo sabrá."
+
+# game/scripts/story_01/blog.rpy:964
+translate spanish ev_105_818b2938:
+
+    # tMax 01 "Сейчас закину эту программу на флешку, вместе с кейлоггером и останется только дождаться, когда дома никого, кроме меня, не будет, чтобы спокойно взломать компьютер Алисы..."
+    tMax 01 "Ahora meteré este programa en un pendrive, junto con el keylogger y sólo tendré que esperar a que no haya nadie en casa más que yo para hackear el ordenador de Alice...."
+
+# game/scripts/story_01/blog.rpy:977
+translate spanish ev_106_548e9970:
+
+    # tMax 12 "Пока дома никого нет, я спокойно разберусь в этой программе, благодаря которой можно подбирать пароли. Надеюсь, у меня получится..."
+    tMax 12 "Mientras no haya nadie en casa, voy a descubrir tranquilamente este programa que me permite adivinar contraseñas. Con suerte, seré capaz de..."
+
+# game/scripts/story_01/blog.rpy:985
+translate spanish ev_106_25789067:
+
+    # tMax 13 "Так, значит пароль Алисы состоит из [alice_pass.len] символов. Мне нужно вводить различные символы и проверять, верна ли их последовательность."
+    "[La contraseña de Alice consta de [alice_pass.len] caracteres. Necesito introducir diferentes caracteres y comprobar si su secuencia es correcta."
+
+# game/scripts/story_01/blog.rpy:986
+translate spanish ev_106_4a49b6e4:
+
+    # tMax 12 "Справа отображается история того, какие последовательности символов я вводил для проверки, а так же два числа."
+    tMax 12 "La parte derecha muestra un historial de las secuencias de caracteres que he introducido para probar, así como dos números."
+
+# game/scripts/story_01/blog.rpy:987
+translate spanish ev_106_e7307345:
+
+    # tMax 11 "Оранжевое число показывает, какое количество из введённых символов присутствует в пароле Алисы. Зелёное число показывает, сколько из этих символов находится на своём месте в пароле Алисы."
+    "[El número naranja muestra cuántos de los caracteres introducidos están presentes en la contraseña de Alice. El número verde muestra cuántos de estos caracteres están en su lugar en la contraseña de Alice."
+
+# game/scripts/story_01/blog.rpy:989
+translate spanish ev_106_473aa722:
+
+    # tMax 16 "Ох, вроде несложно, но мозги всё же придётся поднапрячь..." nointeract
+    tMax 16 "Oh, no parece difícil, pero tendrás que usar tu cerebro...." nointeract
+
+# game/scripts/story_01/blog.rpy:1008
+translate spanish ev_106_9f8f4d2c:
+
+    # tMax 17 "Что-то мне не хватает терпения и нервов, чтобы взломать её пароль! Может, как-нибудь потом получится..." nointeract
+    tMax 17 "¡No tengo paciencia ni valor para descifrar su contraseña! Quizás lo haga más adelante..." nointeract
+
+# game/scripts/story_01/blog.rpy:1015
+translate spanish ev_106_success_610e02a6:
+
+    # tMax 06 "Фух... Получилось! Теперь нужно установить на её компьютер кейлоггер и настроить его так, чтобы мне на электронную почту приходили тектовые данные, которые она вводит с клавиатуры."
+    tMax 06 "Whew... ¡Lo tengo! Ahora tengo que instalar un keylogger en su ordenador y configurarlo para que me envíe por correo electrónico los datos de texto que introduce en su teclado."
+
+# game/scripts/story_01/blog.rpy:1016
+translate spanish ev_106_success_1675ffab:
+
+    # tMax 11 "Чёрт, а как там у меня почта-то пишется?! Кажется, так... Вроде бы всё готово. Получается, что на следующее утро после её трансляции у меня уже будут эти данные!"
+    tMax 11 "Mierda, ¡¿cómo deletreo mi correo?! Creo que sí. Creo que estoy listo. ¡Tendré los datos la mañana siguiente a su emisión!"
+
+# game/scripts/story_01/blog.rpy:1018
+translate spanish ev_106_success_0fb5fa42:
+
+    # tMax 01 "Останется лишь выудить из них то, что мне нужно. Даже интересно, какой у Алисы теперь ник..." nointeract
+    "[Sólo tengo que sacarles lo que necesito. Incluso me pregunto cuál es el apodo de Alice ahora..." nointeract
+
+# game/scripts/story_01/blog.rpy:1031
+translate spanish ev_107_894c4c6f:
+
+    # tMax 13 "Так... Посмотрим, что же она набирала на своём компьютере... Это похоже прогноз погоды на завтрашний день... Дальше соцсети..."
+    "[Bien... Veamos lo que estaba escribiendo en su ordenador... Parece el pronóstico del tiempo de mañana... A continuación, las redes sociales."
+
+# game/scripts/story_01/blog.rpy:1032
+translate spanish ev_107_72bc7804:
+
+    # tMax 06 "Ага! А вот это очень похоже на то, что мне нужно... И по времени подходит! Получается, её новый ник Melissa? Очень похоже на её настоящее имя, по крайней мере по звучанию."
+    "[Eso suena exactamente a lo que estoy buscando. Y el momento es perfecto. ¿Así que su nuevo apodo es Melissa? Se parece mucho a su verdadero nombre, al menos por como suena."
+
+# game/scripts/story_01/blog.rpy:1033
+translate spanish ev_107_925645f8:
+
+    # tMax 11 "Вот и всё! Хотя, нет, ещё не всё... Мне же ещё нужно в своём аккаунте на «MyCams» сменить ник, чтобы не вызвать у Алисы подозрений на мой счёт."
+    "[¡Eso es! Aunque, no, aún no ha terminado... Todavía tengo que cambiar mi nick en mi cuenta de MyCams, para no hacer que Alice sospeche de mí."
+
+# game/scripts/story_01/blog.rpy:1034
+translate spanish ev_107_4cb27da0:
+
+    # tMax 01 "Пожалуй, Mike не слишком броское имя. Мне подойдёт. Ах, да... Ещё же платёжную информацию нужно ввести... Или лучше сперва посмотреть, что там делает на трансляциях моя сестрёнка? А то может там и платить-то не за что..."
+    "[Supongo que Mike no es un nombre muy pegadizo. Funciona para mí. Ah, sí. También tengo que introducir mi información de pago... ¿O debería ver qué hace mi hermana en las transmisiones primero? O tal vez no hay nada por lo que pagar."
+
+# game/scripts/story_01/blog.rpy:1035
+translate spanish ev_107_d8b237e6:
+
+    # tMax 03 "Ха, а вот и Алиса! Попалась, наконец-то... Хорошо, что я решил взломать её компьютер, потому что по изображению в профиле её не узнать. Пускай она хитрая, но и я не пальцем деланный! Как-нибудь вечерком я загляну к тебе на трансляцию, Алиса..."
+    "[¡Ahí está Alice! La tengo, finalmente... Menos mal que decidí hackear su ordenador, porque no la reconocerías por su foto de perfil. ¡Puede que sea escurridiza, pero yo no soy fácil de convencer! Me pasaré por tu emisión una noche, Alice....."
 
 translate spanish strings:
 
@@ -1501,8 +1975,8 @@ translate spanish strings:
     new "{i}distraer a Alice{/i}"
 
     # game/scripts/story_01/blog.rpy:67
-    old "Открыто новое задание «Стримерша»!"
-    new "¡Una nueva oportunidad de «Bloguera» está abierta!"
+    old "Открыто новое задание «Обедневшая блогерша»!"
+    new "¡Se abre una nueva asignación de \"Blogger empobrecido\"!"
 
     # game/scripts/story_01/blog.rpy:112
     old "Так можно же делать что-то менее развратное..."
@@ -1532,51 +2006,91 @@ translate spanish strings:
     old "{i}ждать{/i}"
     new "{i}Espera."
 
-    # game/scripts/story_01/blog.rpy:330
+    # game/scripts/story_01/blog.rpy:331
     old "Сейчас-то я не подглядываю. Попозируй для меня хоть немного!"
     new "No estoy espiando ahora. ¡Sólo posa un poco para mí!"
 
-    # game/scripts/story_01/blog.rpy:351
+    # game/scripts/story_01/blog.rpy:352
     old "{i}снова подсмотреть за Алисой{/i}"
     new "{i}para espiar a Alice otra vez."
 
-    # game/scripts/story_01/blog.rpy:380
+    # game/scripts/story_01/blog.rpy:381
     old "{i}снова ждать{/i}"
     new "{i}Espera otra vez."
 
-    # game/scripts/story_01/blog.rpy:508
+    # game/scripts/story_01/blog.rpy:510
     old "{i}в очередной раз ждать{/i}"
     new "{i}esperando una vez más{/i}"
 
-    # game/scripts/story_01/blog.rpy:580
+    # game/scripts/story_01/blog.rpy:582
     old "Столько потратить я вполне могу..."
     new "Eso es mucho para gastar...."
 
-    # game/scripts/story_01/blog.rpy:580
+    # game/scripts/story_01/blog.rpy:582
     old "Это не страшно, но подкопить немного деньжат придётся..."
     new "No es gran cosa, pero tendrás que ahorrar algo de dinero..."
 
-    # game/scripts/story_01/blog.rpy:588
+    # game/scripts/story_01/blog.rpy:590
     old "{i}оплатить покупку и подождать Алису{/i}"
     new "{i}pagar la compra y esperar a Alice{/i}"
 
-    # game/scripts/story_01/blog.rpy:607
+    # game/scripts/story_01/blog.rpy:609
     old "{i}вернуться на виллу{/i}"
     new "{i}volver a la villa{/i}"
 
-    # game/scripts/story_01/blog.rpy:631
+    # game/scripts/story_01/blog.rpy:635
     old "{i}подождать Алису и вернуться на виллу{/i}"
     new "{i}esperar a Alice y volver a la villa."
 
-    # game/scripts/story_01/blog.rpy:675
+    # game/scripts/story_01/blog.rpy:680
     old "Не стану. Мы с Лизой всегда так делаем!"
     new "No lo haré. ¡Lisa y yo hacemos esto todo el tiempo!"
 
-    # game/scripts/story_01/blog.rpy:688
+    # game/scripts/story_01/blog.rpy:693
     old "{i}не подглядывать{/i}"
     new "{i}no espiar{/i}"
 
-    # game/scripts/story_01/blog.rpy:688
+    # game/scripts/story_01/blog.rpy:693
     old "{i}попробовать подглядеть{/i}"
     new "{i}tratar de espiar{/i}"
+
+    # game/scripts/story_01/blog.rpy:870
+    old "Задание «Обедневшая блогерша» завершено!"
+    new "La tarea \"Blogger empobrecido\" está completa."
+
+    # game/scripts/story_01/blog.rpy:871
+    old "Открыто новое задание «Взломать блогершу»!"
+    new "Se abre una nueva tarea de \"Hackear al bloguero\"."
+
+    # game/scripts/story_01/blog.rpy:894
+    old "Оплатить ($25)"
+    new "Paga (25 $)"
+
+    # game/scripts/story_01/blog.rpy:894
+    old "В другой раз..."
+    new "En otra ocasión..."
+
+    # game/scripts/story_01/blog.rpy:898
+    old "{i}искать Алису на сайте{/i}"
+    new "{i}busca a Alice en el sitio{/i}"
+
+    # game/scripts/story_01/blog.rpy:907
+    old "Задание «Взломать блогершу» обновлено!"
+    new "Se ha actualizado la tarea \"Hackear a un bloguero\"."
+
+    # game/scripts/story_01/blog.rpy:988
+    old "{i}решать головоломку{/i}"
+    new "{i}resolver el rompecabezas{/i}"
+
+    # game/scripts/story_01/blog.rpy:1017
+    old "{i}вернуть всё, как было и уйти{/i}"
+    new "{i}poner todo como estaba y marcharse."
+
+    # game/scripts/story_01/blog.rpy:1038
+    old "Задание «Взломать блогершу» завершено!"
+    new "La tarea \"Hackear al bloguero\" está terminada."
+
+    # game/scripts/story_01/blog.rpy:1039
+    old "Открыто новое задание «Стримерша»!"
+    new "¡Una nueva oportunidad de «Bloguera» está abierta!"
 

@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-05-12 15:48
+# TODO: Translation updated at 2024-06-18 22:58
 
 # game/scripts/story_01/lounge_tv.rpy:8
 translate italian ev_ann_tv_talk_df9c7313:
@@ -394,7 +394,7 @@ translate italian ev_038_0ae4ed70:
 translate italian ev_038_a865c100:
 
     # Max 12 "Ладно, я постараюсь..."
-    Max 12 "Ладно, я постараюсь..."
+    Max 12 "Ok, ci proverò..."
 
 # game/scripts/story_01/lounge_tv.rpy:250
 translate italian ev_038_8da284a7:

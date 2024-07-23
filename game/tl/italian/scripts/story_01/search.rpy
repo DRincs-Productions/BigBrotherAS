@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-10-14 21:25
+# TODO: Translation updated at 2024-06-18 22:58
 
 translate italian strings:
 
@@ -13,4 +13,16 @@ translate italian strings:
     # game/scripts/story_01/search.rpy:2
     old "читать о пауках"
     new "leggere sui ragni"
+
+    # game/scripts/story_01/search.rpy:2
+    old "как обойти ограничения в вэб-трансляциях?"
+    new "come aggirare le restrizioni sui webcast?"
+
+    # game/scripts/story_01/search.rpy:2
+    old "почитать о защите личных данных на компьютере"
+    new "leggi la protezione dei dati personali sul tuo computer"
+
+    # game/scripts/story_01/search.rpy:2
+    old "узнать о взломе паролей на компьютерах"
+    new "imparare a decifrare le password dei computer"
 
