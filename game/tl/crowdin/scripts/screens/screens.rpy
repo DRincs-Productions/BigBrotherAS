@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-06-18 22:58
+﻿# TODO: Translation updated at 2024-08-14 23:38
 
 translate crowdin strings:
 
@@ -191,8 +191,8 @@ translate crowdin strings:
     new "После выбора"
 
     # game/scripts/screens/screens.rpy:1150
-    old "После переходов"
-    new "После переходов"
+    old "Переходы"
+    new "Переходы"
 
     # game/scripts/screens/screens.rpy:1152
     old "Скорость текста"

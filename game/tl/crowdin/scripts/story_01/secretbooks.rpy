@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-06-18 22:58
+﻿# TODO: Translation updated at 2024-08-14 23:38
 
 # game/scripts/story_01/secretbooks.rpy:7
 translate crowdin ev_013_2ca4e9e8:
@@ -121,14 +121,6 @@ translate crowdin strings:
     # game/scripts/story_01/secretbooks.rpy:34
     old "{i}искать под кроватью{/i}"
     new "{i}искать под кроватью{/i}"
-
-    # game/scripts/story_01/secretbooks.rpy:34
-    old "{i}искать в шкафу{/i}"
-    new "{i}искать в шкафу{/i}"
-
-    # game/scripts/story_01/secretbooks.rpy:34
-    old "{i}искать в столе{/i}"
-    new "{i}искать в столе{/i}"
 
     # game/scripts/story_01/secretbooks.rpy:58
     old "Задание «Книжный секретик» обновлено!"
