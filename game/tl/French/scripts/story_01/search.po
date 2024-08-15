@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-19 08:28\n"
+"PO-Revision-Date: 2024-08-15 08:58\n"
 
-# TODO: Translation updated at 2024-06-18 22:58 #|#|# # §translate crowdin strings: #|#|# # game/scripts/story_01/search.rpy:2
+# TODO: Translation updated at 2024-08-14 23:38 #|#|# # §translate crowdin strings: #|#|# # game/scripts/story_01/search.rpy:2
 msgid "почитать о скрытых камерах"
 msgstr "lire sur les caméras cachées"
 
@@ -25,8 +25,8 @@ msgid "читать о пауках"
 msgstr "lire sur les araignées"
 
 # game/scripts/story_01/search.rpy:2
-msgid "как обойти ограничения в вэб-трансляциях?"
-msgstr "comment contourner les restrictions sur les webcasts ?"
+msgid "как обойти ограничения в веб-трансляциях?"
+msgstr ""
 
 # game/scripts/story_01/search.rpy:2
 msgid "почитать о защите личных данных на компьютере"
