@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-06-20 15:00\n"
+"PO-Revision-Date: 2024-08-15 09:00\n"
 
-# TODO: Translation updated at 2024-06-18 22:58 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:175
+# TODO: Translation updated at 2024-08-14 23:38 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:175
 msgid "Любопытное содержимое"
 msgstr "Contenuto curioso"
 
@@ -65,6 +65,10 @@ msgstr "Con l'aiuto di un computer portatile posso acquistare diverse cose..."
 # game/scripts/engine/tasks.rpy:175
 msgid "Изучить книгу о создании сайтов."
 msgstr "Studia il libro sulla costruzione di siti web."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Нужно просто ждать..."
+msgstr "Occorre solo aspettare..."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Чтобы усвоить весь материал, придётся читать с перерывами. Хотя бы по 3 часа..."
@@ -158,8 +162,8 @@ msgid "Нужно завершить задание «Арахнофобия»!"
 msgstr "Dobbiamo completare la missione «Aracnofobia»!"
 
 # game/scripts/engine/tasks.rpy:175
-msgid "Убедить Алису заняться эротическими вэб-трансляциями."
-msgstr "Convincere Alice a fare webcasting erotico."
+msgid "Убедить Алису заняться эротическими веб-трансляциями."
+msgstr "Convincere Alice a dedicarsi al webcasting erotico."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Нужно подойти к Алисе и поговорить с ней на эту тему..."
@@ -178,10 +182,6 @@ msgid "Пойти с Алисой в магазин одежды."
 msgstr "Andare al negozio di vestiti con Alice."
 
 # game/scripts/engine/tasks.rpy:175
-msgid "Нужно просто ждать..."
-msgstr "Occorre solo aspettare..."
-
-# game/scripts/engine/tasks.rpy:175
 msgid "Подарить Алисе тёмное нижнее бельё."
 msgstr "Regalare ad Alice della biancheria intima scura."
 
@@ -190,8 +190,8 @@ msgid "Нужно вручить Алисе подарок, когда она н
 msgstr "È necessario fare un regalo ad Alice quando si trova nella sua stanza...."
 
 # game/scripts/engine/tasks.rpy:175
-msgid "Узнать, начала ли Алиса вести вэб-трансляции в нижнем белье."
-msgstr "Per vedere se Alice ha iniziato a trasmettere in mutande."
+msgid "Узнать, начала ли Алиса вести веб-трансляции в нижнем белье."
+msgstr "Per scoprire se Alice ha iniziato a trasmettere in mutande."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Снова заговорить об этом с Алисой через какое-то время..."
@@ -206,10 +206,10 @@ msgid "Взломать блогершу"
 msgstr "Hackerare il blogger"
 
 # game/scripts/engine/tasks.rpy:175
-msgid "Удивительно, но Алиса действительно собирается попробовать вести вэб-трансляции в нижнем белье. Ещё более удивительно то, что именно я умудрился её убедить в этом. Похоже, с деньгами у неё всё довольно туго, раз она хочет этим заняться. \n"
+msgid "Удивительно, но Алиса действительно собирается попробовать вести веб-трансляции в нижнем белье. Ещё более удивительно то, что именно я умудрился её убедить в этом. Похоже, с деньгами у неё всё довольно туго, раз она хочет этим заняться. \n"
 "Ну, а я хочу полюбоваться моей сексуальной сестрёнкой без риска для ушей и здоровья. Пускай она и выставила ограничения в настройках, чтобы никто в нашем регионе её не увидел, но я уверен, что смогу обойти эту защиту..."
 msgstr "Sorprendentemente, Alice ha intenzione di provare a trasmettere sul web in mutande. La cosa ancora più sorprendente è che sono stato io a convincerla a farlo. Immagino che i soldi siano pochi se vuole farlo. \n"
-"Beh, io voglio ammirare la mia sexy sorella senza rischiare le mie orecchie o la mia salute. Potrebbe aver impostato le sue impostazioni in modo da impedire a chiunque nella nostra regione di vederla, ma sono sicuro di poter aggirare questa protezione...."
+"Beh, io voglio ammirare la mia sexy sorella senza rischiare le mie orecchie o la mia salute. Forse ha impostato le sue impostazioni in modo da impedire a chiunque nella nostra regione di vederla, ma sono sicuro di poter aggirare questa protezione...."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Найти способ обойти ограничение трансляций Алисы."
@@ -354,16 +354,16 @@ msgid "Убедить Алису показать попку, спасая её 
 msgstr "Convincere Alice a mostrare il suo sedere salvandola dal ragno nella stanza."
 
 # game/scripts/engine/tasks.rpy:175
-msgid "Добиться объятий Алисы, спасая её от паука во дворе."
-msgstr "Conquista l’abbraccio di Alice salvandola da un ragno nel cortile."
-
-# game/scripts/engine/tasks.rpy:175
 msgid "Убедить Алису обняться, спасая её от паука в душе."
 msgstr "Convinci Alice ad abbracciarti, salvandola da un ragno sotto la doccia."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Нужно завершить задание «Стоит ли рисковать?»!"
 msgstr "Dobbiamo completare la sfida \"Vale la pena rischiare?\"!"
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Добиться объятий Алисы, спасая её от паука во дворе."
+msgstr "Conquista l’abbraccio di Alice salvandola da un ragno nel cortile."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Без ущерба обнять Алису за попку, спасая её от паука в душе."
@@ -472,20 +472,68 @@ msgstr "Lisa non sembrava sapere nulla di ragazzi. Forse non aveva mai visto un 
 "Forse dovrei fare un'attività educativa per la mia sorellina?"
 
 # game/scripts/engine/tasks.rpy:175
-msgid "Поговорить с Лизой об утреннем инциденте."
-msgstr "Parla con Lisa dell'incidente di stamattina."
+msgid "Посмотреть, как со временем будет меняться реакция Лизы на мои утренние стояки."
+msgstr "Per vedere come la reazione di Lisa alle mie erezioni mattutine sarebbe cambiata nel tempo."
 
 # game/scripts/engine/tasks.rpy:175
-msgid "Узнать, как Лиза отреагирует на мой следующий утренний стояк."
-msgstr "Per vedere come avrebbe reagito Lisa alla mia erezione mattutina."
+msgid "Купить книгу о сексуальном образовании."
+msgstr "Comprate un libro sull'educazione sessuale."
 
 # game/scripts/engine/tasks.rpy:175
-msgid "Рано или поздно Лиза снова наткнётся на моё «приподнятое» утреннее состояние. Нужно просто ждать..."
-msgstr "Prima o poi, Lisa si imbatterà di nuovo nel mio stato mattutino «rinvigorito». Devo solo aspettare..."
+msgid "Подарить Лизе книгу или сперва изучить её самому."
+msgstr "Date a Lisa il libro o studiatelo prima voi stessi."
 
 # game/scripts/engine/tasks.rpy:175
-msgid "Дождаться следующего утреннего стояка и реакции Лизы на него."
-msgstr "In attesa dell'erezione del mattino successivo e della reazione di Lisa."
+msgid "Подобный выбор может иметь разные пути выполнения этого задания..."
+msgstr "Tale scelta può avere diverse modalità di svolgimento....."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Подарить книгу станет снова возможно после её полного изучения..."
+msgstr "Sarà possibile regalare nuovamente il libro una volta che sarà stato completamente esplorato....."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Подождать, пока Лиза дочитает книгу."
+msgstr "Aspettare che Lisa finisca il suo libro."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Убедить Лизу на первый поцелуй."
+msgstr "Convincere Lisa per il primo bacio."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Нужно продвинуться в выполнении задания «Обедневшая блогерша»!"
+msgstr "Ho bisogno di andare avanti con il compito di \"blogger impoverito\"!"
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Нужно подойти к Лизе и поговорить с ней на эту тему, когда она находится в своей комнате..."
+msgstr "Dobbiamo avvicinare Lisa e parlarle di questo argomento quando è nella sua stanza....."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Убедить Лизу на второй поцелуй."
+msgstr "Convincere Lisa per un secondo bacio."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Предложить Лизе снова поцеловаться."
+msgstr "Per chiedere a Lisa di baciarsi di nuovo."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Нужно найти ранее подаренную Лизе книгу, пока её нет в нашей комнате..."
+msgstr "Dobbiamo trovare il libro precedentemente regalato a Lisa mentre non è nella nostra stanza...."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Нужно полностью изучить книгу о сексуально образовании..."
+msgstr "Necessità di esplorare a fondo il libro sull'educazione sessuale....."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Попросить совета у Алисы и мамы по поцелуям."
+msgstr "Chiedere ad Alice e alla mamma consigli sui baci."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Нужно подойти и поговорить с ними на эту тему..."
+msgstr "Dovremmo andare a parlarne con loro....."
+
+# game/scripts/engine/tasks.rpy:175
+msgid "Нужно подойти к маме и поговорить с ней на эту тему..."
+msgstr "Devi andare da tua madre e parlarne con lei....."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Застенчивая школьница"
