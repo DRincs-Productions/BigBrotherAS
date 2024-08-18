@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-08-18 15:25\n"
+"PO-Revision-Date: 2024-08-18 19:52\n"
 
 # TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/story_01/morningwood.rpy:15 #-#-# translate crowdin ev_001_ef68f9ed:
 msgid "[_Lisa_s_14_] Я сейчас маму позову!"
@@ -578,23 +578,23 @@ msgstr "[_Max_s_02_] Sì, cercherò di trovare un po' di letteratura il prima po
 
 # game/scripts/story_01/morningwood.rpy:303 #-#-# translate crowdin ev_109_568d563a:
 msgid "[_Lisa_s_03_] Хорошо, Макс. Будет любопытно понаблюдать за тем, как ты... обучаешь..."
-msgstr "[Ok, Max. Sarà interessante guardarti... insegnare."
+msgstr "[_Lisa_s_03_] Va bene, Max. Sarà interessante guardarti. Insegnare..."
 
 # game/scripts/story_01/morningwood.rpy:308 #-#-# translate crowdin ev_109_e7edf129:
 msgid "[_tMax_s_01_] Похоже, интерес Лизы к противоположному полу и всему, что связано со взрослой жизнью, растёт не по дням, а по часам!"
-msgstr "[Sembra che l'interesse di Lisa per l'altro sesso e per tutto ciò che riguarda l'età adulta stia crescendo a passi da gigante!"
+msgstr "[_tMax_s_01_] Sembra che l'interesse di Lisa per l'altro sesso e per tutto ciò che riguarda l'età adulta stia crescendo a passi da gigante!"
 
 # game/scripts/story_01/morningwood.rpy:309 #-#-# translate crowdin ev_109_55ef2918:
 msgid "[_tMax_s_11_] Не знаю уж, мой стоящий по утрам член так её раззадорил или ещё что-то, но она согласилась меня слушать по вопросам о мальчиках и всем этим взрослым штучкам..."
-msgstr "[_tMax_s_11_] Non so se sia stata la mia erezione mattutina ad eccitarla o cosa, ma accettò di ascoltarmi parlare di ragazzi e di tutte quelle cose da adulti...."
+msgstr "[_tMax_s_11_] Non so se sia stata la mia erezione mattutina o qualcos'altro a eccitarla, ma ha accettato di ascoltarmi parlare di ragazzi e di tutte quelle cose da adulti..."
 
 # game/scripts/story_01/morningwood.rpy:310 #-#-# translate crowdin ev_109_5193ecb1:
 msgid "[_tMax_s_03_] А чтобы она не считала меня извращенцем, лучше подарить ей соответствующую книгу, чтобы она разобралась в физиологии и поняла, какие естественные процессы могут происходить между мужчинами и женщинами."
-msgstr "[E per evitare che pensi che io sia un pervertito, è meglio che le procuri un libro adatto, in modo che possa capire la fisiologia e rendersi conto dei processi naturali che possono verificarsi tra uomini e donne."
+msgstr "[_tMax_s_03_] E affinché non pensi che io sia un pervertito, è meglio che le procuri un libro vero e proprio, in modo che possa capire la fisiologia e rendersi conto dei processi naturali che possono verificarsi tra uomini e donne."
 
 # game/scripts/story_01/morningwood.rpy:327 #-#-# translate crowdin ev_110_f0c07907:
 msgid "[_tMax_s_13_] Может быть и мне стоит прочесть эту книгу? А то как бы не вышло так, что Лиза что-то спросит, а я этого не знаю..."
-msgstr "[Forse dovrei leggere questo libro. Non voglio che venga fuori che Lisa mi chiede qualcosa e io non lo so...."
+msgstr "[_tMax_s_13_] Forse dovrei leggere anch'io questo libro. Non voglio che venga fuori che Lisa mi chiede qualcosa e io non lo so..."
 
 # game/scripts/story_01/morningwood.rpy:328 #-#-# translate crowdin ev_110_7b85cd9e:
 msgid "[_tMax_s_12_] Правда, она может поднять меня на смех, когда увидит, что я читаю книгу, которую купил для её обучения!"
@@ -602,23 +602,23 @@ msgstr "[_tMax_s_12_] Davvero, potrebbe farmi ridere quando mi vedrà leggere il
 
 # game/scripts/story_01/morningwood.rpy:329 #-#-# translate crowdin ev_110_56b0120f:
 msgid "[_tMax_s_13_] Конечно, я могу заявить, что изучаю материал на предмет того, есть ли в книге всё то, что ей нужно узнать, но... мне кажется, доверия ко мне это не добавит..."
-msgstr "[Certo, potrei affermare di fare ricerche sul materiale per vedere se il libro contiene tutto ciò che deve sapere, ma... non credo che questo aumenterebbe la mia credibilità...."
+msgstr "[_tMax_s_13_] Naturalmente, potrei affermare che sto facendo ricerche sul materiale per vedere se il libro contiene tutto ciò che deve sapere, ma... Non credo che questo accrescerebbe la mia credibilità..."
 
 # game/scripts/story_01/morningwood.rpy:330 #-#-# translate crowdin ev_110_95435ca8:
 msgid "[_tMax_s_11_] Поэтому, если я всё же решу её прочесть, то только когда Лизы нет дома. Хотя, это не обязательно, можно сразу подарить её сестрёнке и будь что будет..."
-msgstr "[Quindi, se decido di leggerlo, lo faccio solo quando Lisa non è in casa. Ma non sono obbligato a farlo, potrei semplicemente darlo a mia sorella e lasciar perdere...."
+msgstr "[_tMax_s_11_] Quindi, se decido di leggerlo, è solo quando Lisa non è a casa. Ma non sono obbligato a farlo, potrei semplicemente darlo a mia sorella e lasciarlo andare..."
 
 # game/scripts/story_01/morningwood.rpy:339 #-#-# translate crowdin ev_111_59e1fea8:
 msgid "[_Lisa_s_09_] А то ты не знаешь, что ДА!"
-msgstr "[O non sai che SI'!"
+msgstr "[_Lisa_s_09_] Oppure non sapete che SI!"
 
 # game/scripts/story_01/morningwood.rpy:340 #-#-# translate crowdin ev_111_346062f4:
 msgid "[_Max_s_01_] Тогда у меня для тебя есть особая книжка, которая должна тебя заинтересовать..."
-msgstr "[_Max_s_01_] Allora ho un piccolo libro speciale per voi che dovrebbe interessarvi...."
+msgstr "[_Max_s_01_] Allora ho un piccolo libro speciale per te che dovrebbe interessarti..."
 
 # game/scripts/story_01/morningwood.rpy:341 #-#-# translate crowdin ev_111_45506adb:
 msgid "[_Lisa_s_13_] Ура! Наконец-то я узнаю всё, о чём мне не рассказывает мама! Ну, или хотя бы найду ответы на большую часть вопросов, которые у меня есть..."
-msgstr "[Evviva! Finalmente scoprirò tutto quello che mia madre non mi dice! Beh, o almeno troverò le risposte alla maggior parte delle domande che ho..."
+msgstr "[_Lisa_s_13_] Evviva! Finalmente scoprirò tutto quello che mia madre non vuole dirmi! Beh, o almeno troverò le risposte alla maggior parte delle domande che ho..."
 
 # game/scripts/story_01/morningwood.rpy:342 #-#-# translate crowdin ev_111_85a3ddab:
 msgid "[_Max_s_11_] Дерзай... Обязательно поделись со мной впечатлениями, когда прочтёшь её."
