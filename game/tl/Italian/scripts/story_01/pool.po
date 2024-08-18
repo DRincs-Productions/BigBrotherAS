@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-08-15 09:01\n"
+"PO-Revision-Date: 2024-08-18 14:16\n"
 
 # TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/story_01/pool.rpy:10 #-#-# translate crowdin alice_swims_talk_2c2308f4:
 msgid "[_Alice_s_01_] Может быть. А что, тоже хочешь? Ну, присоединяйся... [nointeract]"
@@ -30,11 +30,11 @@ msgstr "[_Max_s_01_] Non ti ostacolerò..."
 
 # game/scripts/story_01/pool.rpy:31 #-#-# translate crowdin alice_swims_talk_ac3fb787:
 msgid "[_Alice_s_01_] Ко мне не надо, а в бассейн, пожалуйста. Я всё равно уже наплавалась и выхожу... [nointeract]"
-msgstr "[Non ti voglio in camera mia, ma in piscina, per favore. Tanto ne ho abbastanza di nuotare, e sto uscendo.... [nointeract]"
+msgstr "[_Alice_s_01_] Non venire da me, in piscina, per favore. Ho già nuotato abbastanza e sto uscendo... [nointeract]"
 
 # game/scripts/story_01/pool.rpy:35 #-#-# translate crowdin alice_swims_talk_a919a0f2:
 msgid "[_Alice_s_04_] Что, Макс, одному неинтересно плавать? Как жаль..."
-msgstr "[Cosa, Max, non ti diverti a nuotare da solo? Che peccato..."
+msgstr "[_Alice_s_04_] Che c'è, Max, non ti diverti a nuotare da solo? È un vero peccato..."
 
 # game/scripts/story_01/pool.rpy:37 #-#-# translate crowdin alice_swims_talk_3c4e89a0:
 msgid "[_tMax_s_03_] Это смотря о чём жалеть... Ведь поглазеть на то, как вода стекает по сексуальной попке Алисы я тоже люблю! [nointeract]"
@@ -118,11 +118,11 @@ msgstr "[_Max_s_01_] Ho delle cose da fare..."
 
 # game/scripts/story_01/pool.rpy:153 #-#-# translate crowdin lisa_swims_talk_1618539a:
 msgid "[_Lisa_s_01_] Ой, вообще-то, я собиралась вылазить. Бассейн такой большой, я уже устала плавать... [nointeract]"
-msgstr "[Oh, in realtà stavo per uscire. La piscina è così grande che sono già stanca di nuotare... [nointeract]"
+msgstr "[_Lisa_s_01_] A dire il vero, stavo per uscire. La piscina è così grande che sono stanca di nuotare... [nointeract]"
 
 # game/scripts/story_01/pool.rpy:157 #-#-# translate crowdin lisa_swims_talk_25cc23a5:
 msgid "[_Lisa_s_03_] Фух... Надеюсь, что такая погода будет стоять здесь всегда..."
-msgstr "[_Lisa_s_03_] Whew... Spero che questo tempo rimanga qui per sempre...."
+msgstr "[_Lisa_s_03_] Fiù... Spero che questo tempo rimanga sempre così..."
 
 # game/scripts/story_01/pool.rpy:159 #-#-# translate crowdin lisa_swims_talk_37395abf:
 msgid "[_tMax_s_03_] И я надеюсь... Ведь тогда я смогу очень часто наслаждаться столь прелестными изгибами моей мокренькой младшей сестрёнки! [nointeract]"
@@ -222,15 +222,15 @@ msgstr "[_Max_s_01_] Non ti ostacolerò..."
 
 # game/scripts/story_01/pool.rpy:326 #-#-# translate crowdin ann_swim_talk_0c0c6760:
 msgid "[_Ann_s_02_] Я уже наплавалась, но ты всё равно запрыгивай. В такую жаркую погоду милое дело освежиться и поплавать... [nointeract]"
-msgstr "[Ne ho abbastanza di nuotare, ma tu ti butti lo stesso. Con questo caldo, è bello rinfrescarsi e fare una nuotata... [nointeract]"
+msgstr "[_Ann_s_02_] Io ne ho abbastanza, ma tu ti butti lo stesso. Con questo caldo, è bello rinfrescarsi e andare a fare una nuotata... [nointeract]"
 
 # game/scripts/story_01/pool.rpy:330 #-#-# translate crowdin ann_swim_talk_eefbf21f:
 msgid "[_Ann_s_03_] Я всё не нарадуюсь тому, что у нас есть свой собственный бассейн! Просто красота..."
-msgstr "[Non vedo l'ora di avere una piscina tutta nostra! E' semplicemente bellissimo..."
+msgstr "[_Ann_s_03_] Non riesco a fare a meno del fatto che abbiamo una piscina tutta nostra! È bellissimo..."
 
 # game/scripts/story_01/pool.rpy:332 #-#-# translate crowdin ann_swim_talk_0a6094e7:
 msgid "[_tMax_s_03_] О да! Это именно то, что приходит мне на ум, когда я вижу шикарную и такую мокрую мамину попку! Просто красота... [nointeract]"
-msgstr "[Oh sì! È esattamente quello che mi viene in mente quando vedo il magnifico e bagnatissimo sedere della mamma! Semplicemente bellissimo... [nointeract]"
+msgstr "[_tMax_s_03_] Oh sì, questo è esattamente ciò che mi viene in mente quando vedo lo splendido e bagnatissimo sedere della mamma! È semplicemente bellissimo... [nointeract]"
 
 # game/scripts/story_01/pool.rpy:344 #-#-# translate crowdin ann_swim_talk_1e085c87:
 msgid "[_Ann_s_02_] Запрыгивай. В такую жаркую погоду милое дело освежиться и поплавать... [nointeract]"
@@ -302,7 +302,7 @@ msgstr "{i}nuotare con Alice{/i}"
 
 # game/scripts/story_01/pool.rpy:30
 msgid "{i}любоваться{/i}"
-msgstr ""
+msgstr "{i}ammirare{/i}"
 
 # game/scripts/story_01/pool.rpy:79
 msgid "{i}нырнуть под воду{/i}"
@@ -350,5 +350,5 @@ msgstr "Lo penso anch'io!"
 
 # game/scripts/story_01/pool.rpy:381
 msgid "{i}вынырнуть и обрызгать маму{/i}"
-msgstr "{i}di nuotare verso l'alto e di schizzare la mamma."
+msgstr "{i}Emergere e spruzzare mamma{/i}"
 
