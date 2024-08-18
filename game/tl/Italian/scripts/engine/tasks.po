@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-08-15 09:00\n"
+"PO-Revision-Date: 2024-08-18 11:32\n"
 
 # TODO: Translation updated at 2024-08-14 23:38 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:175
 msgid "Любопытное содержимое"
@@ -501,7 +501,7 @@ msgstr "Convincere Lisa per il primo bacio."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Нужно продвинуться в выполнении задания «Обедневшая блогерша»!"
-msgstr "Ho bisogno di andare avanti con il compito di \"blogger impoverito\"!"
+msgstr "Ho bisogno di andare avanti con il compito di «blogger impoverito»!"
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Нужно подойти к Лизе и поговорить с ней на эту тему, когда она находится в своей комнате..."
@@ -513,7 +513,7 @@ msgstr "Convincere Lisa per un secondo bacio."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Предложить Лизе снова поцеловаться."
-msgstr "Per chiedere a Lisa di baciarsi di nuovo."
+msgstr "Chiedere a Lisa di baciarsi di nuovo."
 
 # game/scripts/engine/tasks.rpy:175
 msgid "Нужно найти ранее подаренную Лизе книгу, пока её нет в нашей комнате..."
