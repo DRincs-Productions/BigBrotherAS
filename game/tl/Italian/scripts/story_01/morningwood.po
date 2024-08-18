@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-08-18 20:48\n"
+"PO-Revision-Date: 2024-08-18 22:56\n"
 
 # TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/story_01/morningwood.rpy:15 #-#-# translate crowdin ev_001_ef68f9ed:
 msgid "[_Lisa_s_14_] Я сейчас маму позову!"
@@ -786,67 +786,67 @@ msgstr "[_Lisa_s_00_] Sì, beh, da qui sarà più facile..."
 
 # game/scripts/story_01/morningwood.rpy:441 #-#-# translate crowdin ev_113_fail_49dea586:
 msgid "[_Max_s_11_] Если так боишься промазать, то можешь попробовать с открытыми глазами. Закрывают их обычно уже когда до губ остаётся совсем чуть-чуть."
-msgstr "[Se avete così tanta paura di sbagliare, potete provare con gli occhi aperti. Di solito li chiudono quando manca poco alle labbra."
+msgstr "[_Max_s_11_] Se hai così tanta paura di sbagliare, puoi provare con gli occhi aperti. Di solito li chiudono solo quando le labbra sono molto vicine."
 
 # game/scripts/story_01/morningwood.rpy:442 #-#-# translate crowdin ev_113_fail_eb2885e9:
 msgid "[_Lisa_s_11_] Вообще, это как-то очень странно, учиться целоваться у своего брата. Тебе так не кажется?"
-msgstr "[In effetti, è un po' strano imparare a baciare da tuo fratello. Non credi?"
+msgstr "[_Lisa_s_11_] In effetti, è un po' strano imparare a baciare da tuo fratello. Non lo pensi anche tu?"
 
 # game/scripts/story_01/morningwood.rpy:443 #-#-# translate crowdin ev_113_fail_f3dbc965:
 msgid "[_Max_s_13_] Ты лучше сосредоточься на поцелуе, а не на том, что я твой брат. Мы, если помнишь, учимся..."
-msgstr "[Meglio che ti concentri sul bacio, non sul fatto che sono tuo fratello. Stiamo imparando, se ti ricordi..."
+msgstr "[_Max_s_13_] È meglio che ti concentri sul bacio, non sul fatto che sono tuo fratello. Stiamo imparando, se ti ricordi..."
 
 # game/scripts/story_01/morningwood.rpy:444 #-#-# translate crowdin ev_113_fail_d09229d5:
 msgid "[_Lisa_s_01_] Хорошо. Думаю, я готова попробовать."
-msgstr "[Ok. Credo di essere pronta a fare un tentativo."
+msgstr "[_Lisa_s_01_] Ok. Credo di essere pronta a provarlo."
 
 # game/scripts/story_01/morningwood.rpy:445 #-#-# translate crowdin ev_113_fail_62f2f95e:
 msgid "[_Max_s_04_] Отлично! Тогда давай, легко и спокойно поцелуемся. Не бойся, никто смеяться не будет..."
-msgstr "[Fantastico! Allora andiamo avanti e baciamoci in modo leggero e silenzioso. Non abbiate paura, nessuno riderà..."
+msgstr "[_Max_s_04_] Perfetto! Allora dai, baciamoci facilmente e tranquillamente. Non preoccuparti, nessuno riderà..."
 
 # game/scripts/story_01/morningwood.rpy:449 #-#-# translate crowdin ev_113_fail_5b566dd2:
 msgid "[_tMax_s_07_] Это же надо, я целуюсь со своей младшей сестрёнкой! Кажется, мне бы любой сейчас позавидовал... Какие у неё нежные и приятные губки!"
-msgstr "[Sto limonando con la mia sorellina! Penso che chiunque sarebbe geloso di me in questo momento.... Come sono morbide e dolci le sue labbra!"
+msgstr "[_tMax_s_07_] Sto limonando con la mia sorellina! Penso che chiunque sarebbe geloso di me in questo momento. Che labbra morbide e dolci che ha!"
 
 # game/scripts/story_01/morningwood.rpy:455 #-#-# translate crowdin ev_113_fail_d7175216:
 msgid "[_tMax_s_11_] Попробую слегка приобнять Лизу за талию. Сильно наглеть не буду, для первого поцелуя и этого будет достаточно. А ведь так и хочется прижать её к себе посильнее..."
-msgstr "[Cerco di mettere un braccio intorno alla vita di Lisa. Non sarò troppo sfacciato, è sufficiente per un primo bacio. Voglio stringerla di più...."
+msgstr "[_tMax_s_11_] Cerco di mettere un braccio intorno alla vita di Lisa. Non sarò troppo sfacciato, ma è sufficiente per un primo bacio. Voglio solo stringerla di più contro di me..."
 
 # game/scripts/story_01/morningwood.rpy:458 #-#-# translate crowdin ev_113_fail_b08667ef:
 msgid "[_Lisa_s_03_] Макс, я вроде попала, да?! Это и правда не так страшно, как казалось поначалу!"
-msgstr "[Max, ho capito, vero?! Non è così spaventoso come sembrava all'inizio!"
+msgstr "[_Lisa_s_03_] Max, ci sono riuscita, vero? In realtà non è così spaventoso come sembrava all'inizio!"
 
 # game/scripts/story_01/morningwood.rpy:459 #-#-# translate crowdin ev_113_fail_715ef402:
 msgid "[_Max_s_01_] Да, ты вполне справилась."
-msgstr "[Sì, sei stato molto bravo."
+msgstr "[_Max_s_01_] Sì, sei stata abbastanza brava."
 
 # game/scripts/story_01/morningwood.rpy:460 #-#-# translate crowdin ev_113_fail_085a603f:
 msgid "[_Lisa_s_10_] Вполне?! А что было не так?"
-msgstr "[E' vero?! Cosa c'è che non va?"
+msgstr "[_Lisa_s_10_] Davvero?! Cosa c'è che non va?"
 
 # game/scripts/story_01/morningwood.rpy:461 #-#-# translate crowdin ev_113_fail_5cb908f5:
 msgid "[_Max_s_03_] Нет, всё так. Просто, мы с тобой сейчас попробовали очень скромный «детский» поцелуй. Меня тётя Кира даже в щёку целовала куда круче!"
-msgstr "[No, è così. È solo che io e te ci siamo appena dati un umilissimo bacio \"da bambini\". Zia Kira mi ha dato un bacio sulla guancia molto più bello!"
+msgstr "[_Max_s_03_] No, è vero. È solo che io e te ci siamo appena dati un bacio da bambini di basso profilo. Zia Kira mi ha dato un bacio sulla guancia molto più bello!"
 
 # game/scripts/story_01/morningwood.rpy:462 #-#-# translate crowdin ev_113_fail_689b6a01:
 msgid "[_Lisa_s_02_] Хи-хи... Да, ты прав, тётя Кира целует так, что аж чувствуешь, насколько сильно она тебя любит."
-msgstr "[Hee-hee. Sì, hai ragione, zia Kira ti bacia per farti sentire quanto ti vuole bene."
+msgstr "[_Lisa_s_02_] Hi-hi... Sì, hai ragione, zia Kira bacia in modo tale che senti quanto ti ama."
 
 # game/scripts/story_01/morningwood.rpy:463 #-#-# translate crowdin ev_113_fail_da366670:
 msgid "[_Max_s_04_] Вот и нам надо так же, только в губы."
-msgstr "[È quello che ci serve, solo sulle labbra."
+msgstr "[_Max_s_04_] Questo è ciò che dobbiamo fare, solo sulle labbra."
 
 # game/scripts/story_01/morningwood.rpy:464 #-#-# translate crowdin ev_113_fail_04d92271:
 msgid "[_Lisa_s_11_] Ну... Может быть... Только не сегодня. Лучше в другой раз покажешь, как там надо целоваться «по-взрослому». Если я захочу, конечно."
-msgstr "[Beh... Forse... Ma non stasera. Un'altra volta potrai mostrarmi come si bacia da adulti. Se lo voglio, ovviamente."
+msgstr "[_Lisa_s_11_] Beh... Forse. Ma non stasera. La prossima volta mi farai vedere come si bacia da «adulti». Se lo voglio, naturalmente."
 
 # game/scripts/story_01/morningwood.rpy:465 #-#-# translate crowdin ev_113_fail_0454f0c1:
 msgid "[_Max_s_01_] Ещё как покажу..."
-msgstr "[Ti faccio vedere..."
+msgstr "[_Max_s_01_] Lo farò..."
 
 # game/scripts/story_01/morningwood.rpy:477 #-#-# translate crowdin ev_114_521bd49e:
 msgid "[_Lisa_s_11_] Нууу... Знаешь, а давай! Почему бы и нет..."
-msgstr "[Beh... Sai, facciamolo. Perché non..."
+msgstr "[_Lisa_s_11_] Beh... Sai, dai! Perché no..."
 
 # game/scripts/story_01/morningwood.rpy:478 #-#-# translate crowdin ev_114_b00cd630:
 msgid "[_Max_s_02_] Отлично! Вставай передо мной."
@@ -854,67 +854,67 @@ msgstr "[_Max_s_02_] Grande! Alzati davanti a me."
 
 # game/scripts/story_01/morningwood.rpy:483 #-#-# translate crowdin ev_114_66fc391c:
 msgid "[_Lisa_s_09_] Нет, Макс, я сегодня не хочу. Давай как-нибудь потом... [nointeract]"
-msgstr "[No, Max, non voglio farlo stasera. Facciamolo più tardi... [nointeract]"
+msgstr "[_Lisa_s_09_] No, Max, oggi non me la sento. Facciamolo un'altra volta... [nointeract]"
 
 # game/scripts/story_01/morningwood.rpy:489 #-#-# translate crowdin ev_114_fail_075fce67:
 msgid "[_Lisa_s_09_] Нет, Макс, сегодня я не в настроении. Давай как-нибудь потом... [nointeract]"
-msgstr "[No, Max, non sono in vena stasera. Facciamolo più tardi... [nointeract]"
+msgstr "[_Lisa_s_09_] No, Max, non sono dell'umore giusto stasera. Facciamolo un'altra volta... [nointeract]"
 
 # game/scripts/story_01/morningwood.rpy:497 #-#-# translate crowdin ev_114_fail_53accc60:
 msgid "[_Lisa_s_02_] Как ты там в прошлый раз предлагал? Целоваться «по-взрослому», вроде... Ну, и как это?"
-msgstr "[Cos'è che hai detto l'ultima volta? Baciare gli adulti, credo... Che te ne pare?"
+msgstr "[_Lisa_s_02_] Qual è stato il tuo ultimo suggerimento? Baciare gli adulti, credo. Com'è?"
 
 # game/scripts/story_01/morningwood.rpy:498 #-#-# translate crowdin ev_114_fail_78c5d496:
 msgid "[_Max_s_01_] Побольше страсти..."
-msgstr "[Più passione..."
+msgstr "[_Max_s_01_] Più passione..."
 
 # game/scripts/story_01/morningwood.rpy:499 #-#-# translate crowdin ev_114_fail_d42cbc52:
 msgid "[_Lisa_s_09_] Макс, ты же мой брат. Какая тут может быть страсть?"
-msgstr "[Max, sei mio fratello. Che razza di passione è questa?"
+msgstr "[_Lisa_s_09_] Max, tu sei mio fratello. Che tipo di passione è questa?"
 
 # game/scripts/story_01/morningwood.rpy:500 #-#-# translate crowdin ev_114_fail_d4e9bbf9:
 msgid "[_Max_s_13_] Если захотеть, то будет. Ты просто стесняешься меня, так ведь?"
-msgstr "[Se lo vuoi, succederà. Ti vergogni di me, vero?"
+msgstr "[_Max_s_13_] Se vuoi, lo farai. Ti vergogni di me, vero?"
 
 # game/scripts/story_01/morningwood.rpy:501 #-#-# translate crowdin ev_114_fail_cb248dd8:
 msgid "[_Lisa_s_12_] Не то чтобы стесняюсь... Скорее, стесняюсь, показываться вот такой страстной, как ты предлагаешь."
-msgstr "[Non è che mi senta in imbarazzo. Piuttosto, mi imbarazza mostrarmi così appassionato come lei suggerisce."
+msgstr "[_Lisa_s_12_] Non è che mi senta in imbarazzo. È più che altro che mi vergogno di apparire così appassionata come suggerisci tu."
 
 # game/scripts/story_01/morningwood.rpy:502 #-#-# translate crowdin ev_114_fail_446b4d9d:
 msgid "[_Max_s_12_] Думаешь, что будешь от этого выглядеть глупо или смешно?"
-msgstr "[Pensi che ti farà sembrare stupido o divertente?"
+msgstr "[_Max_s_12_] Pensi che sembrerai stupida o ridicola per questo?"
 
 # game/scripts/story_01/morningwood.rpy:503 #-#-# translate crowdin ev_114_fail_649be6af:
 msgid "[_Lisa_s_10_] Я не знаю. Наверно..."
-msgstr "[Non lo so. Credo che..."
+msgstr "[_Lisa_s_10_] Non so. Immagino..."
 
 # game/scripts/story_01/morningwood.rpy:507 #-#-# translate crowdin ev_114_fail_4fff2a51:
 msgid "[_Max_s_16_] Вот ты вроде хочешь повзрослеть, целоваться учишься, а мыслишь при этом как маленькая девочка. Хватит уже..."
-msgstr "[Vuoi crescere e imparare a baciare, ma pensi come una bambina. Basta così..."
+msgstr "[_Max_s_16_] Vuoi crescere, stai imparando a baciare, ma pensi come una bambina. Basta così..."
 
 # game/scripts/story_01/morningwood.rpy:511 #-#-# translate crowdin ev_114_fail_b9cc61be:
 msgid "[_tMax_s_13_] Как бы мне умудриться так увлечь Лизу поцелуями, чтобы она захотела учиться этому ещё и ещё? Честно говоря, без понятия как..."
-msgstr "[Come faccio a far sì che Lisa sia così appassionata di baci da voler imparare sempre di più? Onestamente, non ho idea di come..."
+msgstr "[_tMax_s_13_] Come faccio a far appassionare Lisa ai baci tanto da farle venire voglia d'imparare sempre di più? Onestamente, non ho idea di come..."
 
 # game/scripts/story_01/morningwood.rpy:515 #-#-# translate crowdin ev_114_fail_3c3f3777:
 msgid "[_Lisa_s_12_] Нет, Макс, у меня что-то не получается страстно целоваться. Даже и не хочется, если честно."
-msgstr "[No, Max, non sono brava a baciare appassionatamente. Non ne ho nemmeno voglia, a dire il vero."
+msgstr "[_Lisa_s_12_] No, Max, non sono brava a baciare con passione. Non voglio nemmeno farlo, a dire il vero."
 
 # game/scripts/story_01/morningwood.rpy:516 #-#-# translate crowdin ev_114_fail_d5c12b2e:
 msgid "[_Max_s_15_] Тебе что, не понравилось?"
-msgstr "[Non ti è piaciuto?"
+msgstr "[_Max_s_15_] Che c'è, non ti è piaciuto?"
 
 # game/scripts/story_01/morningwood.rpy:517 #-#-# translate crowdin ev_114_fail_0ae898e1:
 msgid "[_Lisa_s_10_] Ну, как тебе сказать... То ли мне для этого чего-то не хватает, то ли наоборот что-то мешает. Но, скорее всего, всё дело в том, что ты мой брат."
-msgstr "[Beh, come posso dire? O c'è qualcosa che mi sfugge, o c'è qualcosa che mi ostacola. Ma probabilmente è perché sei mio fratello."
+msgstr "[_Lisa_s_10_] Beh, come posso dire... O mi manca qualcosa per questo, o al contrario qualcosa mi ostacola. Ma, molto probabilmente, il punto è che sei mio fratello."
 
 # game/scripts/story_01/morningwood.rpy:518 #-#-# translate crowdin ev_114_fail_2b262986:
 msgid "[_Max_s_11_] Или нам просто нужно больше целоваться!"
-msgstr "[O forse abbiamo solo bisogno di baciarci di più!"
+msgstr "[_Max_s_11_] O forse dobbiamo solo baciarci di più!"
 
 # game/scripts/story_01/morningwood.rpy:519 #-#-# translate crowdin ev_114_fail_f0625a19:
 msgid "[_Lisa_s_09_] Точно. Мне нужно найти мальчика для этого, а ты с какой-нибудь девочкой будешь набираться опыта. Так будет правильнее, как мне кажется."
-msgstr "[Giusto. Devo trovare un ragazzo per questo, e tu starai con una ragazza per fare esperienza. È la cosa giusta da fare, credo."
+msgstr "[_Lisa_s_09_] Giusto. Devo trovare un ragazzo che lo faccia e tu farai esperienza con una ragazza. È la cosa giusta da fare, credo."
 
 # game/scripts/story_01/morningwood.rpy:520 #-#-# translate crowdin ev_114_fail_7267ed68:
 msgid "[_Max_s_12_] Может быть..."
@@ -922,63 +922,63 @@ msgstr "[_Max_s_12_] Forse..."
 
 # game/scripts/story_01/morningwood.rpy:524 #-#-# translate crowdin ev_114_fail_7d401d2f:
 msgid "[_tMax_s_13_] А если ей всё-таки чего-то не хватало во время наших поцелуев? Опыта у меня в этом немного, так что я вполне мог что-то упустить. Может в книге, которую я подарил Лизе, есть какие-то ответы на это?"
-msgstr "[E se le fosse sfuggito qualcosa durante i nostri baci? Non ho molta esperienza in questo campo, quindi potrei benissimo essermi perso qualcosa. Forse il libro che ho dato a Lisa ha qualche risposta in merito?"
+msgstr "[_tMax_s_13_] E se le fosse mancato qualcosa durante i nostri baci? Non ho molta esperienza in questo, quindi potrei aver trascurato qualcosa. Forse nel libro che ho regalato a Lisa ci sono alcune risposte a riguardo?"
 
 # game/scripts/story_01/morningwood.rpy:525 #-#-# translate crowdin ev_114_fail_608518a6:
 msgid "[_tMax_s_12_] Пожалуй, надо бы её всё-таки прочесть. Интересно, а куда она её положила, когда прочитала?"
-msgstr "[Forse dovrei leggerlo, dopotutto. Mi chiedo dove l'abbia messo quando l'ha letto."
+msgstr "[_tMax_s_12_] Forse dovrei leggerlo, dopotutto. Mi chiedo dove l'abbia messo quando l'ha letto?"
 
 # game/scripts/story_01/morningwood.rpy:529 #-#-# translate crowdin ev_114_fail_829f8456:
 msgid "[_Max_s_16_] Вот ты вроде хочешь повзрослеть, целоваться учишься, а мыслишь при этом как маленькая девочка. Учись, как надо..."
-msgstr "[Sembra che tu voglia crescere e imparare a baciare, ma pensi come una ragazzina. Imparare a..."
+msgstr "[_Max_s_16_] Vuoi crescere, impari a baciare, ma pensi ancora come una bambina. Impara come si fa..."
 
 # game/scripts/story_01/morningwood.rpy:533 #-#-# translate crowdin ev_114_fail_09dd082b:
 msgid "[_tMax_s_07_] Да, сестрёнка, твои нежные губки такие сладкие! В этот раз я попробую побольше обниматься во время поцелуев... Всё-таки в книге прикосновениям отводилось важное значение."
-msgstr "[Sì, sorellina, le tue labbra morbide sono così dolci! Questa volta, cercherò di abbracciare di più mentre bacio.... Dopo tutto, il contatto era importante nel libro."
+msgstr "[_tMax_s_07_] Sì, sorellina, le tue labbra morbide sono così dolci! Questa volta cercherò di coccolarmi di più durante i baci... Dopo tutto, il contatto era importante nel libro."
 
 # game/scripts/story_01/morningwood.rpy:537 #-#-# translate crowdin ev_114_fail_41677782:
 msgid "[_tMax_s_01_] С огромным удовольствием целовал бы свою сестрёнку весь день! Её горячий язычок даже начинает слегка поигрывать с моими губами, повторяя за мной..."
-msgstr "[Sarebbe un grande piacere baciare la mia sorellina per tutto il giorno! La sua lingua calda inizia anche a giocare leggermente con le mie labbra, ripetendo dopo di me...."
+msgstr "[_tMax_s_01_] Sarebbe un grande piacere baciare la mia sorellina per tutto il giorno! La sua lingua calda inizia anche a giocare leggermente con le mie labbra, ripetendo dopo di me..."
 
 # game/scripts/story_01/morningwood.rpy:541 #-#-# translate crowdin ev_114_fail_42d93504:
 msgid "[_Lisa_s_05_] Ну всё, Макс, я думаю пока достаточно. Будем считать, что я даже чему-то научилась у тебя..."
-msgstr "[Va bene, Max, credo che per ora sia sufficiente. Diciamo che ho anche imparato qualcosa da te...."
+msgstr "[_Lisa_s_05_] Va bene, Max, credo che per ora sia sufficiente. Diciamo che ho imparato qualcosa da te..."
 
 # game/scripts/story_01/morningwood.rpy:542 #-#-# translate crowdin ev_114_fail_f94ec06b:
 msgid "[_Max_s_02_] Здорово! А сами поцелуи тебе как, нравятся?"
-msgstr "[Fantastico! E i baci in sé, ti piacciono?"
+msgstr "[_Max_s_02_] È fantastico! E il bacio in sé, ti piace?"
 
 # game/scripts/story_01/morningwood.rpy:543 #-#-# translate crowdin ev_114_fail_428e889c:
 msgid "[_Lisa_s_11_] Нууу, да... Я правда не совсем смогла выдать страсть, которую ты просил. Лишь немножко..."
-msgstr "[Beh, sì. Non sono riuscita a trasmettere la passione che mi avevi chiesto. Solo un po'."
+msgstr "[_Lisa_s_11_] Beh, sì... Non sono riuscita a mostrare tutta la passione che mi hai chiesto. Solo un po’..."
 
 # game/scripts/story_01/morningwood.rpy:544 #-#-# translate crowdin ev_114_fail_2ac95bca:
 msgid "[_Max_s_03_] Думаю, со временем у тебя получится. Если, конечно, будем больше целоваться!"
-msgstr "[Credo che alla fine ci arriverai. Se ci frequentiamo di più, ovviamente!"
+msgstr "[_Max_s_03_] Penso che alla fine ci riuscirai. Se ci baceremo di più!"
 
 # game/scripts/story_01/morningwood.rpy:545 #-#-# translate crowdin ev_114_fail_31bc701d:
 msgid "[_Lisa_s_02_] Знаешь, я не против ещё какое-то время потренироваться поцелуям. Ты оказался куда более чутким и внимательным, чем мне казалось. Я думала будешь просто руки распускать и всё."
-msgstr "[Sai, non mi dispiacerebbe esercitarmi a baciare ancora per un po'. Sei molto più sensibile e attento di quanto pensassi. Pensavo che avresti lasciato che le tue mani andassero alla testa."
+msgstr "[_Lisa_s_02_] Sai, non mi dispiacerebbe esercitarmi a baciare ancora per un po'. Sei molto più sensibile e attento di quanto pensassi. Credevo che saresti stato solo un po' troppo socievole e basta."
 
 # game/scripts/story_01/morningwood.rpy:546 #-#-# translate crowdin ev_114_fail_bbe7d867:
 msgid "[_Max_s_04_] Мы же учимся, Лиза. А руки распускать я уже умею..."
-msgstr "[Stiamo imparando, Lisa. E so già come lasciare andare le mani."
+msgstr "[_Max_s_04_] Stiamo imparando, Lisa. Ma so già come allungare le mani..."
 
 # game/scripts/story_01/morningwood.rpy:547 #-#-# translate crowdin ev_114_fail_ac781705:
 msgid "[_Lisa_s_03_] Хи-хи... Спасибо, что «позанимался» со мной. На днях ведь попробуем снова?"
-msgstr "[_Lisa_s_03_] Hee-hee... Grazie per esserti \"allenato\" con me. Ci riproveremo l'altro giorno, vero?"
+msgstr "[_Lisa_s_03_] Hee hee... Grazie per esserti «allenato» con me. Ci riproveremo uno di questi giorni, vero?"
 
 # game/scripts/story_01/morningwood.rpy:548 #-#-# translate crowdin ev_114_fail_a37dbe8f:
 msgid "[_Max_s_01_] Обязательно!"
-msgstr "[Lo farò!"
+msgstr "[_Max_s_01_] Lo farò di sicuro!"
 
 # game/scripts/story_01/morningwood.rpy:552 #-#-# translate crowdin ev_114_fail_e663cb66:
 msgid "[_tMax_s_06_] О да!!! Лизе определённо нравится со мной целоваться! Вон как бывает полезно читать, оказывается... Ещё приятнее то, что сестрёнка хочет целоваться со мной и дальше! А уж как хочу я..."
-msgstr "[Oh si'!!! A Lisa piace decisamente pomiciare con me! Ecco quanto può essere bello leggere, a quanto pare... La cosa ancora più bella è che la sorellina vuole continuare a baciarmi! E quanto lo voglio io..."
+msgstr "[_tMax_s_06_] Oh sì!!! A Lisa piace sicuramente baciarmi! Ecco quanto può essere utile leggere, a quanto pare... Ancora più piacevole è che la sorellina vuole continuare a baciarmi! E quanto lo voglio io..."
 
 # game/scripts/story_01/morningwood.rpy:568 #-#-# translate crowdin ev_115_search_start_17100d12:
 msgid "[_tMax_s_12_] Так... Вариантов, где она хранит книжку, немного, но поискать всё равно придётся... [nointeract]"
-msgstr "[Va bene. Non ci sono molte opzioni su dove tenga il libro, ma dovrai comunque cercare... [nointeract]"
+msgstr "[_tMax_s_12_] Ok. Non ci sono molte opzioni su dove tiene il libro, ma dovremo cercare comunque... [nointeract]"
 
 # game/scripts/story_01/morningwood.rpy:572 #-#-# translate crowdin ev_115_search_start_122e6cd0:
 msgid "[_tMax_s_13_] Хм... Нет ни под подушкой, ни под самой кроватью. Куда же она положила эту книжку?"
@@ -986,15 +986,15 @@ msgstr "[_tMax_s_13_] Hmm. Non sotto il cuscino, né sotto il letto stesso. Dove
 
 # game/scripts/story_01/morningwood.rpy:580 #-#-# translate crowdin ev_115_search_start_5fe0ab32:
 msgid "[_tMax_s_13_] Нет, тут её точно нет. Нужно успокоиться и подумать, где я ещё не посмотрел?"
-msgstr "[No, di sicuro non è qui. Devo calmarmi e pensare a dove non ho ancora guardato?"
+msgstr "[_tMax_s_13_] No, sicuramente non è qui. Devo calmarmi e pensare a dove non ho ancora guardato?"
 
 # game/scripts/story_01/morningwood.rpy:590 #-#-# translate crowdin ev_115_search_start_978d0722:
 msgid "[_tMax_s_02_] Ага, вот она и нашлась! Теперь буду брать книжку и читать, когда Лизы нет дома. Главное, возвращать каждый раз обратно, чтобы она ничего не заметила..."
-msgstr "[Sì, l'ho trovato! Ora prenderò il libro e lo leggerò quando Lisa non è in casa. L'importante è riportarlo ogni volta, così non si accorgerà di nulla...."
+msgstr "[_tMax_s_02_] Ecco, l’ho trovato! Ora prenderò il libro e leggerò quando Lisa non è a casa. L’importante è rimetterlo a posto ogni volta, così non se ne accorgerà..."
 
 # game/scripts/story_01/morningwood.rpy:606 #-#-# translate crowdin ev_116_47030180:
 msgid "[_Lisa_s_11_] Да, я не против! Давай попробуем..."
-msgstr "[Sì, non mi dispiace! Proviamo..."
+msgstr "[_Lisa_s_11_] Sì, non mi dispiace! Facciamo un tentativo..."
 
 # game/scripts/story_01/morningwood.rpy:607 #-#-# translate crowdin ev_116_b00cd630:
 msgid "[_Max_s_02_] Отлично! Вставай передо мной."
@@ -1086,7 +1086,7 @@ msgstr "[Allora continuiamo a baciarci!"
 
 # game/scripts/story_01/morningwood.rpy:655 #-#-# translate crowdin ev_116_f0625a19:
 msgid "[_Lisa_s_09_] Точно. Мне нужно найти мальчика для этого, а ты с какой-нибудь девочкой будешь набираться опыта. Так будет правильнее, как мне кажется."
-msgstr "[Giusto. Devo trovare un ragazzo per questo, e tu starai con una ragazza per fare esperienza. È la cosa giusta da fare, credo."
+msgstr "[_Lisa_s_09_] Giusto. Devo trovare un ragazzo che lo faccia e tu farai esperienza con una ragazza. È la cosa giusta da fare, credo."
 
 # game/scripts/story_01/morningwood.rpy:656 #-#-# translate crowdin ev_116_7267ed68:
 msgid "[_Max_s_12_] Может быть..."
