@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-08-15 09:00\n"
+"PO-Revision-Date: 2024-08-18 12:30\n"
 
 # TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/story_01/blog.rpy:11 #-#-# translate crowdin ev_017_423a776a:
 msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
@@ -218,7 +218,7 @@ msgstr "[_tMax_s_13_] Forse, dovrò parlarne di nuovo con Alice tra qualche gior
 
 # game/scripts/story_01/blog.rpy:159 #-#-# translate crowdin ev_096_failed_32c42e98:
 msgid "[_tMax_s_13_] Пожалуй, курсы общения мне всё же придётся пройти, если я действительно хочу уговорить Алису заняться развратными веб-трансляциями..."
-msgstr "[Immagino che alla fine dovrò seguire un corso di comunicazione, se voglio davvero convincere Alice a dedicarsi al webcasting osceno..."
+msgstr "[_tMax_s_13_] Immagino che dovrò seguire un corso di comunicazione se voglio davvero convincere Alice a dedicarsi al webcasting osceno..."
 
 # game/scripts/story_01/blog.rpy:174 #-#-# translate crowdin ev_096_success_d2df5976:
 msgid "[_Alice_s_11_] Например? Стриптиз показывать или что-то вроде этого?"
@@ -876,7 +876,7 @@ msgstr "[_Max_s_01_] Certo, sorella."
 
 # game/scripts/story_01/blog.rpy:624 #-#-# translate crowdin ev_097_third_fitting_4f651644:
 msgid "[_tMax_s_04_] Через несколько дней обязательно поинтересуюсь у Алисы, смогла ли она заняться этими веб-трансляциями. Потому что я бы на неё там с удовольствием посмотрел..."
-msgstr "[Mi assicurerò di chiedere ad Alice tra qualche giorno se è riuscita a fare questi webcast. Perché mi piacerebbe vederla lì...."
+msgstr "[_tMax_s_04_] Tra qualche giorno chiederò ad Alice se è riuscita a partecipare a questi webcast. Perché mi piacerebbe vederla lì..."
 
 # game/scripts/story_01/blog.rpy:629 #-#-# translate crowdin ev_097_third_fitting_97932d33:
 msgid "[_Alice_s_05_] То, что немного - сильно обнадёживает, Макс! Ты очень мне поможешь, если купишь это бельё. Пускай даже через какое-то время."
@@ -1072,7 +1072,7 @@ msgstr "[_Max_s_01_] Certo, sorella."
 
 # game/scripts/story_01/blog.rpy:787 #-#-# translate crowdin ev_098_end_4f651644:
 msgid "[_tMax_s_04_] Через несколько дней обязательно поинтересуюсь у Алисы, смогла ли она заняться этими веб-трансляциями. Потому что я бы на неё там с удовольствием посмотрел..."
-msgstr "[Mi assicurerò di chiedere ad Alice tra qualche giorno se è riuscita a fare questi webcast. Perché mi piacerebbe vederla lì...."
+msgstr "[_tMax_s_04_] Tra qualche giorno chiederò ad Alice se è riuscita a partecipare a questi webcast. Perché mi piacerebbe vederla lì..."
 
 # game/scripts/story_01/blog.rpy:801 #-#-# translate crowdin ev_100_0ef8fa26:
 msgid "[_tMax_s_12_] Надо бы зайти к Алисе и поинтересоваться, как там у неё дела с трансляциями..."
@@ -1352,7 +1352,7 @@ msgstr "[_tMax_s_17_] Non ho abbastanza pazienza e nervi per hackerare la sua pa
 
 # game/scripts/story_01/blog.rpy:1033 #-#-# translate crowdin ev_106_success_0c1a12af:
 msgid "[_tMax_s_06_] Фух... Получилось! Теперь нужно установить на её компьютер кейлоггер и настроить его так, чтобы мне на электронную почту приходили текстовые данные, которые она вводит с клавиатуры."
-msgstr "[_tMax_s_06_] Whew... Ce l'ho fatta! Ora devo installare un keylogger sul suo computer e impostarlo in modo da ricevere i dati di testo che inserisce sulla sua tastiera inviati alla mia e-mail."
+msgstr "[_tMax_s_06_] Uff... Ce l'ho fatta! Ora devo installare un keylogger sul suo computer e impostarlo in modo da ricevere i dati di testo che inserisce sulla sua tastiera inviati alla mia e-mail."
 
 # game/scripts/story_01/blog.rpy:1034 #-#-# translate crowdin ev_106_success_1675ffab:
 msgid "[_tMax_s_11_] Чёрт, а как там у меня почта-то пишется?! Кажется, так... Вроде бы всё готово. Получается, что на следующее утро после её трансляции у меня уже будут эти данные!"
