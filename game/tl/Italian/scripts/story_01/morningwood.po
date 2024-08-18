@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-08-15 09:01\n"
+"PO-Revision-Date: 2024-08-18 14:16\n"
 
 # TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/story_01/morningwood.rpy:15 #-#-# translate crowdin ev_001_ef68f9ed:
 msgid "[_Lisa_s_14_] Я сейчас маму позову!"
@@ -102,11 +102,11 @@ msgstr "[_Max_s_00_] Capisco..."
 
 # game/scripts/story_01/morningwood.rpy:65 #-#-# translate crowdin ev_020_4cd7f2ed:
 msgid "[_tMax_s_13_] Так, мы все очень здорово представили, будто утром ничего не было... Вот только у меня будут и другие утренние стояки! Надо бы с мамой обсудить этот нюанс, а то как-то непонятно, что мне делать..."
-msgstr "[Ok, abbiamo avuto tutti un'ottima introduzione, come se non fosse successo nulla stamattina.... Tranne che io avro' altre erezioni mattutine! Dovrei discutere di questa sfumatura con mia madre, o non è chiaro cosa dovrei fare...."
+msgstr "[_tMax_s_13_] Ok, abbiamo avuto tutti una visualizzazione fantastica, come se non fosse successo nulla stamattina... Tranne che io Avrò altre erezioni mattutine! Dovrei parlarne con mia madre, perché non so cosa dovrei fare..."
 
 # game/scripts/story_01/morningwood.rpy:69 #-#-# translate crowdin ev_020_05142b80:
 msgid "[_Max_s_12_] Мам, слушай... Насчёт того утреннего случая с Лизой..."
-msgstr "[Mamma, ascolta... Riguardo a questa mattina con Lisa."
+msgstr "[_Max_s_12_] Mamma, ascolta. Riguardo a questa mattina con Lisa..."
 
 # game/scripts/story_01/morningwood.rpy:71 #-#-# translate crowdin ev_020_0e6e551a:
 msgid "[_Ann_s_01_] Макс, не переживай из-за этого. Я всё прекрасно понимаю, у мальчиков это бывает..."
@@ -166,7 +166,7 @@ msgstr "[_Max_s_00_] Ok, mamma. Cercherò di..."
 
 # game/scripts/story_01/morningwood.rpy:99 #-#-# translate crowdin ev_021_b42c69df:
 msgid "[_tMax_s_16_] Всё понятно... С мамы в этом вопросе толку, как со слепого работать штурманом во время гонки. Говорит, просто прячь своё полено, чтобы Лиза не сошла с ума! Ну да, ну да..."
-msgstr "[Capisco... Mamma è brava quanto un cieco che fa il navigatore durante una gara. Dice di nascondere il registro, così Lisa non impazzisce! Si', si', si'."
+msgstr "[_tMax_s_16_] Ho capito... Mamma è brava in queste cose quanto un cieco che fa il navigatore durante una gara. Dice di nascondere il tronco così Lisa non impazzisce! Sì, sì, sì..."
 
 # game/scripts/story_01/morningwood.rpy:100 #-#-# translate crowdin ev_021_a324a581:
 msgid "[_tMax_s_17_] Мне кажется, было бы в разы проще рассказать Лизе всё, как оно есть..."
@@ -498,51 +498,51 @@ msgstr "[_tMax_s_13_] Ma anche se ha detto che avrebbe pensato alla mia proposta
 
 # game/scripts/story_01/morningwood.rpy:271 #-#-# translate crowdin ev_109_d852155c:
 msgid "[_Lisa_s_02_] Эй, Макс, а у всех мальчиков эта штука такая большая?"
-msgstr "[Ehi, Max, tutti i ragazzi hanno quella cosa così grande?"
+msgstr "[_Lisa_s_02_] Ehi, Max, ma tutti i ragazzi hanno quella cosa così grande?"
 
 # game/scripts/story_01/morningwood.rpy:272 #-#-# translate crowdin ev_109_65090905:
 msgid "[_Max_s_14_] Я сплю, Лиза... Какая ещё штука?"
-msgstr "[Sto dormendo, Lisa. Che cosa?"
+msgstr "[_Max_s_14_] Sto dormendo, Lisa... Che cosa?"
 
 # game/scripts/story_01/morningwood.rpy:276 #-#-# translate crowdin ev_109_bcd98eb3:
 msgid "[_Lisa_s_11_] Ну эта ваша штука... Которая между ног..."
-msgstr "[Beh, quella cosa che hai... Quello che hai tra le gambe."
+msgstr "[_Lisa_s_11_] La cosa che hai... Quella tra le gambe..."
 
 # game/scripts/story_01/morningwood.rpy:277 #-#-# translate crowdin ev_109_f0fcb26d:
 msgid "[_Max_s_13_] Член! Не штука, а член, Лиза. Или, если угодно, пенис."
-msgstr "[Cazzo! Non è niente, è un pene, Lisa. O, se preferisci, un pene."
+msgstr "[_Max_s_13_] Membro! Non una cosa, ma un cazzo, Lisa. O, se preferisci, un pene."
 
 # game/scripts/story_01/morningwood.rpy:278 #-#-# translate crowdin ev_109_4aa68551:
 msgid "[_Lisa_s_03_] Ладно... у всех мальчиков... член... такой большой? Я имею ввиду, он же в основном довольно небольшой. Это нормально, что он у тебя увеличивается до ТАКИХ размеров?"
-msgstr "[Okay. tutti i ragazzi hanno un pene. così grande? Cioè, per lo più è piuttosto piccolo. È normale che diventi così grande?"
+msgstr "[_Lisa_s_03_] Ok. Tutti i ragazzi hanno un pene. Così grande? Voglio dire, per la maggior parte del tempo è piuttosto piccolo. È normale che cresca fino a queste dimensioni?"
 
 # game/scripts/story_01/morningwood.rpy:279 #-#-# translate crowdin ev_109_ef083084:
 msgid "[_Max_s_01_] Судя по тому, что даже мама была удивлена его размерами, то не всем так везёт, как мне."
-msgstr "[A giudicare dal fatto che persino mia madre è rimasta sorpresa dalle sue dimensioni, non tutti sono fortunati come me."
+msgstr "[_Max_s_01_] A giudicare dal fatto che persino nostra madre è rimasta sorpresa dalle sue dimensioni, non tutti sono fortunati come me."
 
 # game/scripts/story_01/morningwood.rpy:280 #-#-# translate crowdin ev_109_463c853d:
 msgid "[_Lisa_s_01_] А это хорошо или плохо, что он такой большой?"
-msgstr "[E' un bene o un male che sia così grande?"
+msgstr "[_Lisa_s_01_] È un bene o un male che sia così grande?"
 
 # game/scripts/story_01/morningwood.rpy:281 #-#-# translate crowdin ev_109_0eb70175:
 msgid "[_Max_s_11_] Ну... это от тебя зависит... Тебе он нравится?"
-msgstr "[Beh... dipende da te... Ti piace?"
+msgstr "[_Max_s_11_] Beh... Dipende da te... Ti piace?"
 
 # game/scripts/story_01/morningwood.rpy:285 #-#-# translate crowdin ev_109_f0a7dbf4:
 msgid "[_Lisa_s_10_] Макс, ну что за вопрос?! Как мне на такое ответить, ты же мой брат..."
-msgstr "[Max, che razza di domanda è questa?! Come faccio a rispondere, sei mio fratello...."
+msgstr "[_Lisa_s_10_] Max, che razza di domanda è questa?! Come faccio a rispondere? Sei mio fratello..."
 
 # game/scripts/story_01/morningwood.rpy:286 #-#-# translate crowdin ev_109_3c63d448:
 msgid "[_Max_s_03_] А если не брать это во внимание, то он тебе нравится?"
-msgstr "[A parte questo, ti piace?"
+msgstr "[_Max_s_03_] A parte questo, ti piace?"
 
 # game/scripts/story_01/morningwood.rpy:287 #-#-# translate crowdin ev_109_16266f1f:
 msgid "[_Lisa_s_11_] Ну... да... он как-то притягивает... Ой, что я такое говорю!"
-msgstr "[Beh... si'. è un po' attraente... Oh, ma che dico!"
+msgstr "[_Lisa_s_11_] Beh... Si'... È piuttosto attraente. Oh, cosa sto dicendo!"
 
 # game/scripts/story_01/morningwood.rpy:288 #-#-# translate crowdin ev_109_84c151b4:
 msgid "[_Max_s_01_] Да всё хорошо, Лиза, это всё останется только между нами."
-msgstr "[Va bene, Lisa, è una cosa tra noi."
+msgstr "[_Max_s_01_] Va bene, Lisa, resta tra noi."
 
 # game/scripts/story_01/morningwood.rpy:289 #-#-# translate crowdin ev_109_008c53e4:
 msgid "[_Lisa_s_09_] Слушай, а зачем вообще у мальчиков увеличивается член?"
