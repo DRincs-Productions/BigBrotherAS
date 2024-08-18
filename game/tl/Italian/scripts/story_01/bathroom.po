@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-08-15 09:00\n"
+"PO-Revision-Date: 2024-08-18 11:32\n"
 
 # TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/story_01/bathroom.rpy:10 #-#-# translate crowdin ev_ann_shower_c167172f:
 msgid "[_tMax_s_11_] Сейчас ванная комната должна быть занята мамой... [nointeract]"
@@ -567,52 +567,52 @@ msgstr "[_tMax_s_11_] Il bagno dovrebbe essere occupato da mamma... [nointeract]
 # game/scripts/story_01/bathroom.rpy:952 #-#-# translate crowdin ev_ann_bath_knock_8fc3471c:
 msgid "[_Ann_] {b}Анна:{/b} \n"
 "Кто там? Я собиралась принять ванну!"
-msgstr "{b} \n"
-"[Anna:{b} Chi è? Stavo per fare un bagno!"
+msgstr "[_Ann_] {b}Anna:{/b} \n"
+"Chi è? Stavo per fare un bagno!"
 
 # game/scripts/story_01/bathroom.rpy:953 #-#-# translate crowdin ev_ann_bath_knock_34f9cfd7:
 msgid "[_Max_s_13_] Это я, Макс."
-msgstr "[Sono io, Max."
+msgstr "[_Max_s_13_] Sono io, Max."
 
 # game/scripts/story_01/bathroom.rpy:954 #-#-# translate crowdin ev_ann_bath_knock_eba8ecae:
 msgid "[_Ann_] {b}Анна:{/b} \n"
 "Дорогой, что ты хотел?"
-msgstr "{b} \n"
-"[Tesoro, cosa volevi?"
+msgstr "[_Ann_] {b}Anna:{/b} \n"
+"Tesoro, cosa volevi?"
 
 # game/scripts/story_01/bathroom.rpy:955 #-#-# translate crowdin ev_ann_bath_knock_460dd384:
 msgid "[_Max_s_12_] Можно мне войти? Это чрезвычайно важно и срочно!"
-msgstr "[Posso entrare? È estremamente importante e urgente!"
+msgstr "[_Max_s_12_] Posso entrare? È estremamente importante e urgente!"
 
 # game/scripts/story_01/bathroom.rpy:957 #-#-# translate crowdin ev_ann_bath_knock_d28db3cc:
 msgid "[_Ann_] {b}Анна:{/b} \n"
 "Ну... хорошо, заходи... [nointeract]"
-msgstr "{b} \n"
-"[Anna:{b} Beh... ok, entra pure... [nointeract]"
+msgstr "[_Ann_] {b}Anna:{/b} \n"
+"Beh... ok, entra... [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:963 #-#-# translate crowdin ev_ann_bath_knock_7254560d:
 msgid "[_Ann_s_10_] Ох, Макс... Учти, если это окажется очередной ерундой, то я буду ругаться! Что там у тебя такого срочного, что ты не мог подождать каких-то полчаса?"
-msgstr "[Oh, Max... Se si rivela un'altra schifezza, giuro! Cosa c'è di così urgente da non poter aspettare mezz'ora?"
+msgstr "[_Ann_s_10_] Oh, Max. Se questa si rivela un'altra sciocchezza, giuro! Cosa c'è di così urgente da non poter aspettare mezz'ora?"
 
 # game/scripts/story_01/bathroom.rpy:964 #-#-# translate crowdin ev_ann_bath_knock_9f262aa0:
 msgid "[_Max_s_14_] Мам, мне экстренно нужно принять душ! Я сильно грязный и мне не хочется позориться перед сёстрами..."
-msgstr "[Mamma, devo fare una doccia d'emergenza! Sono molto sporco e non voglio sentirmi in imbarazzo davanti alle mie sorelle...."
+msgstr "[_Max_s_14_] Mamma, ho urgentemente bisogno di una doccia! Sono molto sporco e non voglio mettermi in imbarazzo davanti alle mie sorelle..."
 
 # game/scripts/story_01/bathroom.rpy:965 #-#-# translate crowdin ev_ann_bath_knock_da751b07:
 msgid "[_Ann_s_14_] А днём ты не мог это сделать? Нужно было дождаться, когда я пойду в ванную и только тогда об этом вспомнить?"
-msgstr "[Non potevi farlo durante il giorno? Hai dovuto aspettare che andassi in bagno per ricordartene?"
+msgstr "[_Ann_s_14_] Non potevi farlo di giorno? Hai dovuto aspettare che andassi in bagno prima di ricordartene?"
 
 # game/scripts/story_01/bathroom.rpy:966 #-#-# translate crowdin ev_ann_bath_knock_1f37e604:
 msgid "[_Max_s_12_] Днём было не до этого..."
-msgstr "[_Max_s_12_] Non c'era molto da fare durante il giorno...."
+msgstr "[_Max_s_12_] Durante il giorno non c’era tempo per questo..."
 
 # game/scripts/story_01/bathroom.rpy:971 #-#-# translate crowdin ev_ann_bath_knock_2988f1c9:
 msgid "[_Ann_s_12_] А сейчас маме не до этого, Макс! Поэтому, давай-ка, марш на выход... Через час ванная комната будет полностью в твоём распоряжении. [nointeract]"
-msgstr "[E in questo momento, Max, la mamma non è interessata! Quindi, forza, andiamocene da qui. Tra un'ora avrai il bagno tutto per te. [nointeract]"
+msgstr "[_Ann_s_12_] La mamma non è dell'umore giusto ora, Max! Quindi, forza, esci da qui. Tra un'ora il bagno sarà tutto tuo. [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:977 #-#-# translate crowdin ev_ann_bath_knock_b33fa863:
 msgid "[_Ann_s_11_] Ладно, если всё настолько плохо, то можешь принять ванну прямо сейчас, а я подожду? [nointeract]"
-msgstr "[Ok, se e' cosi' grave, puoi farti un bagno adesso e io aspettero'? [nointeract]"
+msgstr "[_Ann_s_11_] Ok, se è così urgente, puoi fare un bagno adesso e io aspetterò? [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:982 #-#-# translate crowdin ev_ann_bath_knock_68c11190:
 msgid "[_tMax_s_07_] Всё-таки чистым быть намного лучше. Особенно, когда есть такая шикарная ванна... [nointeract]"
@@ -620,127 +620,127 @@ msgstr "[_tMax_s_07_] Dopotutto, è molto meglio essere puliti. Soprattutto quan
 
 # game/scripts/story_01/bathroom.rpy:987 #-#-# translate crowdin ev_ann_bath_knock_03d7fdd1:
 msgid "[_Ann_s_01_] Совсем другое дело, когда помоешься, правда? В следующий раз до такого состояния не дотягивай..."
-msgstr "[E' diverso quando ti lavi, vero? La prossima volta, non arrivare a quello stato d'animo...."
+msgstr "[_Ann_s_01_] È diverso quando ci si lava, vero? La prossima volta, non arrivare a questo stato..."
 
 # game/scripts/story_01/bathroom.rpy:989 #-#-# translate crowdin ev_ann_bath_knock_bb0e5308:
 msgid "[_Max_s_04_] Спасибо, что пустила в душ. Ты меня очень выручила. [nointeract]"
-msgstr "[Grazie per avermi fatto fare la doccia. Mi hai davvero aiutato. [nointeract]"
+msgstr "[_Max_s_04_] Grazie per avermi fatto entrare nella doccia. Mi hai davvero aiutato. [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:994 #-#-# translate crowdin ev_ann_bath_knock_20e41703:
 msgid "[_Ann_s_12_] Тогда, давай-ка, маме не мешай и марш на выход... Через час ванная комната будет полностью в твоём распоряжении. [nointeract]"
-msgstr "[Bene, allora togliamo di mezzo tua madre e usciamo... Tra un'ora il bagno sarà tutto tuo. [nointeract]"
+msgstr "[_Ann_s_12_] Allora, non disturbare la mamma e vai fuori... Tra un’ora il bagno sarà completamente a tua disposizione. [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:999 #-#-# translate crowdin ev_ann_bath_knock_31d52790:
 msgid "[_Ann_] {b}Анна:{/b} \n"
 "Кто там? Я принимаю ванну!"
-msgstr "{b} \n"
-"[Anna:{b} Chi c'è? Sto facendo il bagno!"
+msgstr "[_Ann_] {b}Anna:{/b} \n"
+"Chi è? Sto facendo il bagno!"
 
 # game/scripts/story_01/bathroom.rpy:1000 #-#-# translate crowdin ev_ann_bath_knock_34f9cfd7_1:
 msgid "[_Max_s_13_] Это я, Макс."
-msgstr "[Sono io, Max."
+msgstr "[_Max_s_13_] Sono io, Max."
 
 # game/scripts/story_01/bathroom.rpy:1001 #-#-# translate crowdin ev_ann_bath_knock_1fe6ef56:
 msgid "[_Ann_] {b}Анна:{/b} \n"
 "Дорогой, мама пока занята. Что ты хотел?"
-msgstr "{b} \n"
-"[Tesoro, la mamma è occupata. Che cosa volevi?"
+msgstr "[_Ann_] {b}Anna:{/b} \n"
+"Tesoro, la mamma è impegnata. Cosa volevi?"
 
 # game/scripts/story_01/bathroom.rpy:1002 #-#-# translate crowdin ev_ann_bath_knock_460dd384_1:
 msgid "[_Max_s_12_] Можно мне войти? Это чрезвычайно важно и срочно!"
-msgstr "[Posso entrare? È estremamente importante e urgente!"
+msgstr "[_Max_s_12_] Posso entrare? È estremamente importante e urgente!"
 
 # game/scripts/story_01/bathroom.rpy:1007 #-#-# translate crowdin ev_ann_bath_knock_42371d4a:
 msgid "[_Ann_] {b}Анна:{/b} \n"
 "Макс, я не думаю, что это хорошая идея, входить в ванную, когда я здесь... Подожди хотя бы полчаса и ванная комната будет полностью в твоём распоряжении. [nointeract]"
-msgstr "{b} \n"
-"[Max, non credo sia una buona idea andare in bagno quando ci sono io... Aspetta almeno mezz'ora e il bagno sarà tutto tuo. {\\an8}Che cosa?"
+msgstr "[_Ann_] {b}Anna:{/b} \n"
+"Max, non credo sia una buona idea andare in bagno quando sono qui... Aspetta mezz'ora e avrai il bagno tutto per te. [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:1012 #-#-# translate crowdin ev_ann_bath_knock_d0cb5152:
 msgid "[_Ann_] {b}Анна:{/b} \n"
 "Макс, а это не может подождать хотя бы полчаса, пока я не закончу?!"
-msgstr "{b} \n"
-"[Max, non puoi aspettare almeno mezz'ora prima che io abbia finito?!"
+msgstr "[_Ann_] {b}Anna:{/b} \n"
+"Max, non può aspettare almeno mezz'ora finché non ho finito?!"
 
 # game/scripts/story_01/bathroom.rpy:1013 #-#-# translate crowdin ev_ann_bath_knock_877719d7:
 msgid "[_Max_s_16_] Нет! Говорю же, это {b}СРОЧНО!{/b}"
-msgstr "{b}[No! Ti sto dicendo che è ORA!"
+msgstr "[_Max_s_16_]No! Te lo dico io, è {b}ORA!{/b}"
 
 # game/scripts/story_01/bathroom.rpy:1015 #-#-# translate crowdin ev_ann_bath_knock_d28db3cc_1:
 msgid "[_Ann_] {b}Анна:{/b} \n"
 "Ну... хорошо, заходи... [nointeract]"
-msgstr "{b} \n"
-"[Anna:{b} Beh... ok, entra pure... [nointeract]"
+msgstr "[_Ann_] {b}Anna:{/b} \n"
+"Beh... ok, entra... [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:1022 #-#-# translate crowdin ev_ann_bath_knock_7254560d_1:
 msgid "[_Ann_s_10_] Ох, Макс... Учти, если это окажется очередной ерундой, то я буду ругаться! Что там у тебя такого срочного, что ты не мог подождать каких-то полчаса?"
-msgstr "[Oh, Max... Se si rivela un'altra schifezza, giuro! Cosa c'è di così urgente da non poter aspettare mezz'ora?"
+msgstr "[_Ann_s_10_] Oh, Max. Se questa si rivela un'altra sciocchezza, giuro! Cosa c'è di così urgente da non poter aspettare mezz'ora?"
 
 # game/scripts/story_01/bathroom.rpy:1023 #-#-# translate crowdin ev_ann_bath_knock_9f262aa0_1:
 msgid "[_Max_s_14_] Мам, мне экстренно нужно принять душ! Я сильно грязный и мне не хочется позориться перед сёстрами..."
-msgstr "[Mamma, devo fare una doccia d'emergenza! Sono molto sporco e non voglio sentirmi in imbarazzo davanti alle mie sorelle...."
+msgstr "[_Max_s_14_] Mamma, ho urgentemente bisogno di una doccia! Sono molto sporco e non voglio mettermi in imbarazzo davanti alle mie sorelle..."
 
 # game/scripts/story_01/bathroom.rpy:1025 #-#-# translate crowdin ev_ann_bath_knock_8f1e3852:
 msgid "[_Ann_s_14_] А днём ты не мог это сделать? Нужно было дождаться, когда я пойду в ванную и только тогда об этом вспомнить? [nointeract]"
-msgstr "[Non potevi farlo durante il giorno? Hai dovuto aspettare che andassi in bagno per ricordartene? [nointeract]"
+msgstr "[_Ann_s_14_] Non potevi farlo durante il giorno? Hai dovuto aspettare che andassi in bagno per ricordartene? [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:1036 #-#-# translate crowdin ev_ann_bath_knock_eb6127d0:
 msgid "[_Ann_s_12_] Макс, я не думаю, что это хорошая идея, принимать душ, когда я здесь... И вообще, как ты себе это представляешь? Давай-ка, марш на выход... Через полчаса ванная комната будет полностью в твоём распоряжении. [nointeract]"
-msgstr "[Max, non credo sia una buona idea fare la doccia quando sono qui... Qual è la tua idea di doccia? Dai, usciamo di qui... Tra mezz'ora il bagno sarà tutto tuo. [nointeract]"
+msgstr "[_Ann_s_12_] Max, non credo sia una buona idea fare la doccia quando sono qui... Qual è la tua idea di doccia, comunque? Forza, esci di qui. Tra mezz'ora il bagno sarà tutto tuo. [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:1042 #-#-# translate crowdin ev_ann_bath_knock_eb6127d0_1:
 msgid "[_Ann_s_12_] Макс, я не думаю, что это хорошая идея, принимать душ, когда я здесь... И вообще, как ты себе это представляешь? Давай-ка, марш на выход... Через полчаса ванная комната будет полностью в твоём распоряжении. [nointeract]"
-msgstr "[Max, non credo sia una buona idea fare la doccia quando sono qui... Qual è la tua idea di doccia? Dai, usciamo di qui... Tra mezz'ora il bagno sarà tutto tuo. [nointeract]"
+msgstr "[_Ann_s_12_] Max, non credo sia una buona idea fare la doccia quando sono qui... Qual è la tua idea di doccia, comunque? Forza, esci di qui. Tra mezz'ora il bagno sarà tutto tuo. [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:1047 #-#-# translate crowdin ev_ann_bath_knock_31d52790_1:
 msgid "[_Ann_] {b}Анна:{/b} \n"
 "Кто там? Я принимаю ванну!"
-msgstr "{b} \n"
-"[Anna:{b} Chi c'è? Sto facendo il bagno!"
+msgstr "[_Ann_] {b}Anna:{/b} \n"
+"Chi è? Sto facendo il bagno!"
 
 # game/scripts/story_01/bathroom.rpy:1048 #-#-# translate crowdin ev_ann_bath_knock_34f9cfd7_2:
 msgid "[_Max_s_13_] Это я, Макс."
-msgstr "[Sono io, Max."
+msgstr "[_Max_s_13_] Sono io, Max."
 
 # game/scripts/story_01/bathroom.rpy:1049 #-#-# translate crowdin ev_ann_bath_knock_1fe6ef56_1:
 msgid "[_Ann_] {b}Анна:{/b} \n"
 "Дорогой, мама пока занята. Что ты хотел?"
-msgstr "{b} \n"
-"[Tesoro, la mamma è occupata. Che cosa volevi?"
+msgstr "[_Ann_] {b}Anna:{/b} \n"
+"Tesoro, la mamma è impegnata. Cosa volevi?"
 
 # game/scripts/story_01/bathroom.rpy:1050 #-#-# translate crowdin ev_ann_bath_knock_460dd384_2:
 msgid "[_Max_s_12_] Можно мне войти? Это чрезвычайно важно и срочно!"
-msgstr "[Posso entrare? È estremamente importante e urgente!"
+msgstr "[_Max_s_12_] Posso entrare? È estremamente importante e urgente!"
 
 # game/scripts/story_01/bathroom.rpy:1052 #-#-# translate crowdin ev_ann_bath_knock_d28db3cc_2:
 msgid "[_Ann_] {b}Анна:{/b} \n"
 "Ну... хорошо, заходи... [nointeract]"
-msgstr "{b} \n"
-"[Anna:{b} Beh... ok, entra pure... [nointeract]"
+msgstr "[_Ann_] {b}Anna:{/b} \n"
+"Beh... ok, entra... [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:1059 #-#-# translate crowdin ev_ann_bath_knock_644fc7d2:
 msgid "[_Ann_s_10_] Ох, Макс... Учти, если это окажется очередной ерундой, то я буду ругаться! Что там у тебя такого срочного, что ты не мог подождать, пока я выйду из ванной?"
-msgstr "[Oh, Max... Se si rivela un altro mucchio di sciocchezze, te lo giuro! Cosa c'era di così urgente da non poter aspettare che uscissi dal bagno?"
+msgstr "[_Ann_s_10_] Oh, Max... Se si rivela un altro mucchio di sciocchezze, lo giuro! Cosa c'era di così urgente da non poter aspettare che uscissi dal bagno?"
 
 # game/scripts/story_01/bathroom.rpy:1060 #-#-# translate crowdin ev_ann_bath_knock_9f262aa0_2:
 msgid "[_Max_s_14_] Мам, мне экстренно нужно принять душ! Я сильно грязный и мне не хочется позориться перед сёстрами..."
-msgstr "[Mamma, devo fare una doccia d'emergenza! Sono molto sporco e non voglio sentirmi in imbarazzo davanti alle mie sorelle...."
+msgstr "[_Max_s_14_] Mamma, ho urgentemente bisogno di una doccia! Sono molto sporco e non voglio mettermi in imbarazzo davanti alle mie sorelle..."
 
 # game/scripts/story_01/bathroom.rpy:1061 #-#-# translate crowdin ev_ann_bath_knock_da751b07_1:
 msgid "[_Ann_s_14_] А днём ты не мог это сделать? Нужно было дождаться, когда я пойду в ванную и только тогда об этом вспомнить?"
-msgstr "[Non potevi farlo durante il giorno? Hai dovuto aspettare che andassi in bagno per ricordartene?"
+msgstr "[_Ann_s_14_] Non potevi farlo di giorno? Hai dovuto aspettare che andassi in bagno prima di ricordartene?"
 
 # game/scripts/story_01/bathroom.rpy:1062 #-#-# translate crowdin ev_ann_bath_knock_1f37e604_1:
 msgid "[_Max_s_12_] Днём было не до этого..."
-msgstr "[_Max_s_12_] Non c'era molto da fare durante il giorno...."
+msgstr "[_Max_s_12_] Durante il giorno non c’era tempo per questo..."
 
 # game/scripts/story_01/bathroom.rpy:1067 #-#-# translate crowdin ev_ann_bath_knock_21bb1f23:
 msgid "[_Ann_s_12_] А мне ещё нужно волосы высушить феном и так, кое-что ещё по мелочи... Поэтому, давай-ка, марш на выход... Скоро ванная комната будет полностью в твоём распоряжении. [nointeract]"
-msgstr "[E devo ancora asciugarmi i capelli e così, altre piccole cose.... Quindi, usciamo di qui... Presto il bagno sarà tutto tuo. [nointeract]"
+msgstr "[_Ann_s_12_] E devo asciugarmi i capelli e qualche altra cosetta... Quindi, forza, esci da qui. Presto il bagno sarà tutto tuo. [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:1073 #-#-# translate crowdin ev_ann_bath_knock_9261b261:
 msgid "[_Ann_s_11_] Ладно, если всё настолько плохо, то можешь принять ванну прямо сейчас, а я высушу волосы у себя в комнате? [nointeract]"
-msgstr "[Ok, se e' cosi' grave, puoi farti un bagno adesso e io mi asciugo i capelli in camera mia? [nointeract]"
+msgstr "[_Ann_s_11_] Ok, se è così urgente, puoi farti un bagno adesso e io mi asciugo i capelli in camera mia? [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:1078 #-#-# translate crowdin ev_ann_bath_knock_68c11190_1:
 msgid "[_tMax_s_07_] Всё-таки чистым быть намного лучше. Особенно, когда есть такая шикарная ванна... [nointeract]"
@@ -748,47 +748,47 @@ msgstr "[_tMax_s_07_] Dopotutto, è molto meglio essere puliti. Soprattutto quan
 
 # game/scripts/story_01/bathroom.rpy:1084 #-#-# translate crowdin ev_ann_bath_knock_16a660a9:
 msgid "[_Ann_s_01_] Спасибо, сынок! Скоро ванная комната будет полностью в твоём распоряжении. [nointeract]"
-msgstr "[Grazie, figliolo! Presto il bagno sarà tutto tuo. [nointeract]"
+msgstr "[_Ann_s_01_] Grazie, figliolo! Presto il bagno sarà tutto tuo. [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:1092 #-#-# translate crowdin ev_ann_bath_max_in_shower_1f4982cc:
 msgid "[_Ann_s_10_] Ладно, так уж и быть, можешь остаться и принять душ, но... Будешь стоять спиной к ванне! И не подглядывай. Замечу, сразу выгоню! Давай бегом... [nointeract]"
-msgstr "[Ok, puoi restare e fare la doccia, ma... Devi stare con le spalle alla vasca! Non sbirciare. Se ti vedo, ti butto fuori! Corriamo. [nointeract]"
+msgstr "[_Ann_s_10_] Ok, va bene, puoi restare e fare la doccia, ma... Devi stare con le spalle alla vasca! E non sbirciare. Se ti vedo, ti sbatto fuori! Forza, andiamo... [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:1097 #-#-# translate crowdin ev_ann_bath_max_in_shower_7a5673a1:
 msgid "[_Ann_s_13_] Сынок, ну что ты делаешь?! Не маленький же уже..."
-msgstr "[Figliolo, che stai facendo?! Non sei un bambino."
+msgstr "[_Ann_s_13_] Figlio, cosa stai facendo? Non sei un bambino..."
 
 # game/scripts/story_01/bathroom.rpy:1098 #-#-# translate crowdin ev_ann_bath_max_in_shower_b9fc6421:
 msgid "[_Max_s_12_] А что не так?"
-msgstr "[Cosa c'è che non va?"
+msgstr "[_Max_s_12_] Cosa c'è di male?"
 
 # game/scripts/story_01/bathroom.rpy:1099 #-#-# translate crowdin ev_ann_bath_max_in_shower_c668aea9:
 msgid "[_Ann_s_11_] Ты смущаешь меня своим... видом. Можно же было прикрыться или хотя бы отвернуться, когда раздеваешься!"
-msgstr "[Mi metti in imbarazzo con il tuo... sguardo. Avresti potuto coprirti o almeno girarti mentre ti spogliavi!"
+msgstr "[_Ann_s_11_] Mi metti in imbarazzo con il tuo... Il tuo aspetto. Avresti potuto coprirti o almeno voltarti quando ti spogliavi!"
 
 # game/scripts/story_01/bathroom.rpy:1100 #-#-# translate crowdin ev_ann_bath_max_in_shower_3e2fe8af:
 msgid "[_Max_s_11_] Ты бы могла просто не смотреть на меня, вообще-то."
-msgstr "[Avresti potuto non guardarmi, in realtà."
+msgstr "[_Max_s_11_] Avresti potuto non guardarmi, in realtà."
 
 # game/scripts/story_01/bathroom.rpy:1102 #-#-# translate crowdin ev_ann_bath_max_in_shower_45eec781:
 msgid "[_Ann_s_12_] Да, только... Я всё удивляюсь, как сильно ты подрос. [nointeract]"
-msgstr "[Si', e' solo che... Continuo a chiedermi quanto sei cresciuta. [nointeract]"
+msgstr "[_Ann_s_12_] Sì, è che... Continuo a chiedermi quanto sei cresciuto. [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:1107 #-#-# translate crowdin ev_ann_bath_max_in_shower_22618ff0:
 msgid "[_tMax_s_07_] Всё-таки чистым быть намного лучше. Хотя, не всегда хочется..."
-msgstr "[È comunque molto meglio essere puliti. Anche se non sempre si vuole essere..."
+msgstr "[_tMax_s_07_] È sempre molto meglio essere puliti. Anche se non sempre lo si vuole..."
 
 # game/scripts/story_01/bathroom.rpy:1108 #-#-# translate crowdin ev_ann_bath_max_in_shower_0f440da1:
 msgid "[_Ann_s_10_] Макс, в следующий раз до такого состояния не дотягивай, хорошо? Ты уже слишком взрослый, чтобы мыться вместе с мамой."
-msgstr "[Max, la prossima volta non andare in quello stato, ok? Sei troppo vecchio per fare il bagno con tua madre."
+msgstr "[_Ann_s_10_] Max, la prossima volta non andare in quello stato, ok? Sei troppo grande per fare il bagno con la mamma."
 
 # game/scripts/story_01/bathroom.rpy:1109 #-#-# translate crowdin ev_ann_bath_max_in_shower_feb9603c:
 msgid "[_Max_s_11_] Ну... Не совсем уж и вместе. Скорее, рядом."
-msgstr "[Beh... Non proprio insieme. Più che altro, fianco a fianco."
+msgstr "[_Max_s_11_] Beh... Non proprio insieme. Più che altro, uno accanto all'altro."
 
 # game/scripts/story_01/bathroom.rpy:1110 #-#-# translate crowdin ev_ann_bath_max_in_shower_ca66645f:
 msgid "[_Ann_s_12_] Может, тебя это обстоятельство и не смущает, а вот меня ещё как! Я всё-таки тоже голая, а разделяет нас лишь одно стекло. Надеюсь, больше до такого не дойдёт..."
-msgstr "[Forse tu non sei imbarazzato, ma io sì! Anch'io sono nuda e c'è solo un bicchiere che ci separa. Spero che non si arrivi più a questo punto...."
+msgstr "[_Ann_s_12_] Forse tu non sei imbarazzato, ma io sì! Anch'io sono nuda e c'è solo un vetro a separarci. Spero che non si arrivi più a tanto..."
 
 # game/scripts/story_01/bathroom.rpy:1112 #-#-# translate crowdin ev_ann_bath_max_in_shower_e55540f6:
 msgid "[_tMax_s_07_] А я думаю, что дойдёт! Хорошо, что на этих стёклах скрывающие полоски только до пояса и всем, что выше, можно спокойно любоваться. Правда, я прямо чувствую на себе постоянный мамин взгляд... [nointeract]"
