@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-08-18 22:56\n"
+"PO-Revision-Date: 2024-08-20 09:15\n"
 
 # TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/story_01/morningwood.rpy:15 #-#-# translate crowdin ev_001_ef68f9ed:
 msgid "[_Lisa_s_14_] Я сейчас маму позову!"
@@ -1002,7 +1002,7 @@ msgstr "[_Max_s_02_] Grande! Alzati davanti a me."
 
 # game/scripts/story_01/morningwood.rpy:611 #-#-# translate crowdin ev_116_00177c92:
 msgid "[_Lisa_s_02_] Так же, как и в прошлый раз или будет что-то новенькое?"
-msgstr "[Come l'ultima volta o ci sarà qualcosa di nuovo?"
+msgstr "[_Lisa_s_02_] Come l'ultima volta o ci sarà qualcosa di nuovo?"
 
 # game/scripts/story_01/morningwood.rpy:612 #-#-# translate crowdin ev_116_fa3650c2:
 msgid "[_Max_s_01_] Обязательно будет! Как только у тебя уйдёт ощущение скованности в поцелуях. Не думай слишком много, просто сосредоточься на ощущениях..."
