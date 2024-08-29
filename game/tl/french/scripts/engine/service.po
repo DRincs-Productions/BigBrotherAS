@@ -10,29 +10,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-19 06:51\n"
+"PO-Revision-Date: 2024-08-15 08:57\n"
 
-# TODO: Translation updated at 2024-06-18 22:58 #|#|# # game/scripts/engine/service.rpy:69 #-#-# translate crowdin nothing_to_do_423a776a:
+# TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/engine/service.rpy:69 #-#-# translate crowdin nothing_to_do_423a776a:
 msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
 msgstr "[_tMax_s_12_] Je n'ai rien d'autre à faire ici pour le moment..."
 
-# game/scripts/engine/service.rpy:450 #-#-# translate crowdin after_buy_d1c26937:
+# game/scripts/engine/service.rpy:457 #-#-# translate crowdin after_buy_d1c26937:
 msgid "[_tMax_s_12_] Да уж... Пришлось потратиться, но надеюсь мне удастся, благодаря этой книге, создать свой сайт и хорошо заработать."
 msgstr "[_tMax_s_12_] Oui... J'ai dû faire des folies, mais j'espère pouvoir, grâce à ce livre, créer mon propre site web et bien gagner ma vie."
 
-# game/scripts/engine/service.rpy:451 #-#-# translate crowdin after_buy_8163c063:
+# game/scripts/engine/service.rpy:458 #-#-# translate crowdin after_buy_8163c063:
 msgid "[_tMax_s_01_] Но книгу, как и любую другую вещь заказанную по интернету, доставят только завтра, так что пока можно отдыхать..."
 msgstr "[_tMax_s_01_] Mais le livre, comme toute autre chose commandée en ligne, ne sera pas livré avant demain, alors pour l'instant vous pouvez vous reposer..."
 
-# §translate crowdin strings: #|#|# # game/scripts/engine/service.rpy:516
+# §translate crowdin strings: #|#|# # game/scripts/engine/service.rpy:523
 msgid "Вы хотите ознакомиться с особенностями игры?"
 msgstr "Voulez-vous vous familiariser avec les caractéristiques spéciales du jeu ?"
 
-# game/scripts/engine/service.rpy:516
+# game/scripts/engine/service.rpy:523
 msgid "Да, пройти обучение"
 msgstr "Oui, à former"
 
-# game/scripts/engine/service.rpy:516
+# game/scripts/engine/service.rpy:523
 msgid "Нет, я всё знаю"
 msgstr "Non, je sais tout."
 

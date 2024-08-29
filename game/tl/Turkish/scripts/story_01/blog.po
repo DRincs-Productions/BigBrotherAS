@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-06-19 06:56\n"
+"PO-Revision-Date: 2024-08-15 09:03\n"
 
-# TODO: Translation updated at 2024-06-18 22:58 #|#|# # game/scripts/story_01/blog.rpy:11 #-#-# translate crowdin ev_017_423a776a:
+# TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/story_01/blog.rpy:11 #-#-# translate crowdin ev_017_423a776a:
 msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
 msgstr "[_tMax_s_12_] Şimdilik burada yapacak başka bir şeyim yok..."
 
@@ -216,9 +216,9 @@ msgstr "[Düşün, seni acele ettirmeyeceğim...."
 msgid "[_tMax_s_13_] Пожалуй, нужно будет снова заговорить об этом с Алисой через несколько дней. А пока, пусть думает..."
 msgstr "[_tMax_s_13_] Belki de birkaç gün sonra Alice ile bu konuyu tekrar konuşmalıyım. Bu arada, bırakalım o düşünsün..."
 
-# game/scripts/story_01/blog.rpy:159 #-#-# translate crowdin ev_096_failed_a8f99dac:
-msgid "[_tMax_s_13_] Пожалуй, курсы общения мне всё же придётся пройти, если я действительно хочу уговорить Алису заняться развратными вэб-трансляциями..."
-msgstr "[_tMax_s_13_] Sanırım Alice'in müstehcen bir web yayını yapmasını gerçekten istiyorsam bir iletişim kursu almam gerekecek...."
+# game/scripts/story_01/blog.rpy:159 #-#-# translate crowdin ev_096_failed_32c42e98:
+msgid "[_tMax_s_13_] Пожалуй, курсы общения мне всё же придётся пройти, если я действительно хочу уговорить Алису заняться развратными веб-трансляциями..."
+msgstr "[_tMax_s_13_] Alice'in müstehcen web yayıncılığına başlamasını gerçekten istiyorsam, sanırım bir iletişim kursu almam gerekecek..."
 
 # game/scripts/story_01/blog.rpy:174 #-#-# translate crowdin ev_096_success_d2df5976:
 msgid "[_Alice_s_11_] Например? Стриптиз показывать или что-то вроде этого?"
@@ -874,8 +874,8 @@ msgstr "[Tamam. Ve evet, bana aldığın şey hakkında kimseye tek kelime etme!
 msgid "[_Max_s_01_] Конечно, сестрёнка."
 msgstr "[Elbette, kardeşim."
 
-# game/scripts/story_01/blog.rpy:624 #-#-# translate crowdin ev_097_third_fitting_3055e88b:
-msgid "[_tMax_s_04_] Через несколько дней обязательно поинтересуюсь у Алисы, смогла ли она заняться этими вэб-трансляциями. Потому что я бы на неё там с удовольствием посмотрел..."
+# game/scripts/story_01/blog.rpy:624 #-#-# translate crowdin ev_097_third_fitting_4f651644:
+msgid "[_tMax_s_04_] Через несколько дней обязательно поинтересуюсь у Алисы, смогла ли она заняться этими веб-трансляциями. Потому что я бы на неё там с удовольствием посмотрел..."
 msgstr "[_tMax_s_04_] Alice'e birkaç gün içinde bu web yayınlarını yapıp yapamadığını soracağımdan emin olacağım. Çünkü onu orada görmeyi çok isterim...."
 
 # game/scripts/story_01/blog.rpy:629 #-#-# translate crowdin ev_097_third_fitting_97932d33:
@@ -1070,315 +1070,315 @@ msgstr "[Tamam. Ve evet, bana aldığın şey hakkında kimseye tek kelime etme!
 msgid "[_Max_s_01_] Конечно, сестрёнка."
 msgstr "[Elbette, kardeşim."
 
-# game/scripts/story_01/blog.rpy:787 #-#-# translate crowdin ev_098_end_3055e88b:
-msgid "[_tMax_s_04_] Через несколько дней обязательно поинтересуюсь у Алисы, смогла ли она заняться этими вэб-трансляциями. Потому что я бы на неё там с удовольствием посмотрел..."
+# game/scripts/story_01/blog.rpy:787 #-#-# translate crowdin ev_098_end_4f651644:
+msgid "[_tMax_s_04_] Через несколько дней обязательно поинтересуюсь у Алисы, смогла ли она заняться этими веб-трансляциями. Потому что я бы на неё там с удовольствием посмотрел..."
 msgstr "[_tMax_s_04_] Alice'e birkaç gün içinde bu web yayınlarını yapıp yapamadığını soracağımdan emin olacağım. Çünkü onu orada görmeyi çok isterim...."
 
-# game/scripts/story_01/blog.rpy:800 #-#-# translate crowdin ev_100_0ef8fa26:
+# game/scripts/story_01/blog.rpy:801 #-#-# translate crowdin ev_100_0ef8fa26:
 msgid "[_tMax_s_12_] Надо бы зайти к Алисе и поинтересоваться, как там у неё дела с трансляциями..."
 msgstr "[_tMax_s_12_] Alice'i kontrol etmeli ve yayınlarla ne durumda olduğunu görmeliyim...."
 
-# game/scripts/story_01/blog.rpy:803 #-#-# translate crowdin ev_100_fc7f9b11:
+# game/scripts/story_01/blog.rpy:805 #-#-# translate crowdin ev_100_fc7f9b11:
 msgid "[_Alice_s_02_] Отлично, я как раз думала тебя позвать, Макс! Принеси сюда свой ноутбук, мне нужно кое-что проверить..."
 msgstr "[Harika, ben de tam seni aramayı düşünüyordum, Max! Dizüstü bilgisayarını buraya getir, bir şeyi kontrol etmem gerek....."
 
-# game/scripts/story_01/blog.rpy:804 #-#-# translate crowdin ev_100_fb92ebb5:
+# game/scripts/story_01/blog.rpy:806 #-#-# translate crowdin ev_100_fb92ebb5:
 msgid "[_Max_s_15_] Мой ноутбук? Что это ты собралась там проверять?"
 msgstr "[Dizüstü bilgisayarım mı? Ne için kontrol edeceksin?"
 
-# game/scripts/story_01/blog.rpy:807 #-#-# translate crowdin ev_100_3e62a737:
+# game/scripts/story_01/blog.rpy:810 #-#-# translate crowdin ev_100_3e62a737:
 msgid "[_Alice_s_04_] Хочу знать твои порно-пристрастия! Шутка, не напрягайся. Надо зарегистрировать тебя на одном сайте и проверить, работают ли настройки приватности и ограничения на трансляции."
 msgstr "[_Alice_s_04_] Porno tercihlerinizi bilmek istiyorum! Şaka yapıyorum, zahmet etme. Seni bir siteye kaydettirip gizlilik ayarlarının ve yayın kısıtlamalarının işe yarayıp yaramadığını görmeliyim."
 
-# game/scripts/story_01/blog.rpy:808 #-#-# translate crowdin ev_100_9a4d8be2:
+# game/scripts/story_01/blog.rpy:811 #-#-# translate crowdin ev_100_9a4d8be2:
 msgid "[_Max_s_11_] Понял. Это без проблем, сейчас принесу..."
 msgstr "[Anladım. Sorun değil, hemen getiriyorum..."
 
-# game/scripts/story_01/blog.rpy:809 #-#-# translate crowdin ev_100_b91ed2b5:
+# game/scripts/story_01/blog.rpy:812 #-#-# translate crowdin ev_100_b91ed2b5:
 msgid "[_Alice_s_11_] Только не торопись и прежде чем заходить в мою комнату, обязательно постучись. Пока ты ходишь, я переоденусь."
 msgstr "[Acele etme ve odama girmeden önce kapıyı mutlaka çal. Siz yürürken ben de üzerimi değiştireyim."
 
-# game/scripts/story_01/blog.rpy:810 #-#-# translate crowdin ev_100_0d8d152c:
+# game/scripts/story_01/blog.rpy:813 #-#-# translate crowdin ev_100_0d8d152c:
 msgid "[_Max_s_12_] Хорошо..."
 msgstr "[Tamam."
 
-# game/scripts/story_01/blog.rpy:813 #-#-# translate crowdin ev_100_07e887bc:
+# game/scripts/story_01/blog.rpy:817 #-#-# translate crowdin ev_100_07e887bc:
 msgid "[_tMax_s_16_] Блин! Надо очистить историю браузера и спрятать закладку на мой сайт, а то последнее, что мне сейчас нужно, так это чтобы кто-то узнал про мою затею со скрытыми камерами!"
 msgstr "[Kahretsin! Tarayıcı geçmişimi temizlemem ve sitemdeki yer imlerimi gizlemem gerekiyor, yoksa şu anda ihtiyacım olan son şey birinin gizli kamera olayımı öğrenmesi!"
 
-# game/scripts/story_01/blog.rpy:814 #-#-# translate crowdin ev_100_c398d615:
+# game/scripts/story_01/blog.rpy:818 #-#-# translate crowdin ev_100_c398d615:
 msgid "[_tMax_s_00_] Всё, порядок я навёл. Теперь можно идти..."
 msgstr "[_tMax_s_00_] Pekala, temizlendim. Şimdi gidebiliriz."
 
-# game/scripts/story_01/blog.rpy:817 #-#-# translate crowdin ev_100_70474c99:
+# game/scripts/story_01/blog.rpy:822 #-#-# translate crowdin ev_100_70474c99:
 msgid "[_tMax_s_13_] Что-то я с перепугу не могу вспомнить, что там Алиса говорила сделать? Постучаться что ли... А зачем? Вот же только к ней заходил..."
 msgstr "[_tMax_s_13_] Alice'in ne yapmamı söylediğini hatırlayamıyorum. Kapıyı çal. Bunu neden yapayım ki? Az önce onun evine gittim."
 
-# game/scripts/story_01/blog.rpy:820 #-#-# translate crowdin ev_100_f3e4e642:
+# game/scripts/story_01/blog.rpy:828 #-#-# translate crowdin ev_100_f3e4e642:
 msgid "[_tMax_s_01_] Ах да, точно! Теперь я вспомнил... Она же сказала, что переодеваться будет в моё отсутствие. Похоже, у неё всё готово для ведения трансляций..."
 msgstr "[_tMax_s_01_] Oh, evet, doğru! Şimdi hatırladım. Ben yokken kıyafetlerini değiştireceğini söylediğini sanıyordum. Görünüşe göre yayın yapmaya hazır...."
 
-# game/scripts/story_01/blog.rpy:821 #-#-# translate crowdin ev_100_44121cd3:
+# game/scripts/story_01/blog.rpy:829 #-#-# translate crowdin ev_100_44121cd3:
 msgid "[_Alice_s_15_] Макс, что-то я не слышала, чтобы ты стучался!"
 msgstr "[_Alice_s_15_] Max, kapıyı çaldığını duymadım!"
 
-# game/scripts/story_01/blog.rpy:822 #-#-# translate crowdin ev_100_ab5b873e:
+# game/scripts/story_01/blog.rpy:830 #-#-# translate crowdin ev_100_ab5b873e:
 msgid "[_Max_s_11_] Так конечно, ты наушники надела, вот и не слышишь ничего. Я стучался, стучался..."
 msgstr "[Tabii ki kulaklık takıyorsun, bu yüzden hiçbir şey duyamazsın. Kapıyı çaldım, kapıyı çaldım."
 
-# game/scripts/story_01/blog.rpy:823 #-#-# translate crowdin ev_100_e71f6959:
+# game/scripts/story_01/blog.rpy:831 #-#-# translate crowdin ev_100_e71f6959:
 msgid "[_Alice_s_11_] Не рассказывай мне сказки, как ты устал стучаться. Просто открыл дверь и стоишь глазеешь в наглую."
 msgstr "[Kapıyı çalmaktan ne kadar yorulduğunu söyleme bana. Kapıyı açıyorsun ve orada öylece boş boş bakıyorsun."
 
-# game/scripts/story_01/blog.rpy:824 #-#-# translate crowdin ev_100_f0a29001:
+# game/scripts/story_01/blog.rpy:832 #-#-# translate crowdin ev_100_f0a29001:
 msgid "[_Max_s_03_] Тук-тук... Я войду в тебя? В смысле, к тебе..."
 msgstr "[Tak, tak... İçine mi geliyorum? Yani, içine..."
 
-# game/scripts/story_01/blog.rpy:827 #-#-# translate crowdin ev_100_3909afda:
+# game/scripts/story_01/blog.rpy:836 #-#-# translate crowdin ev_100_3909afda:
 msgid "[_Alice_s_01_] Что это ты такой весёлый стал? Наверняка всякие похабные мысли в голове заиграли от того, что снова увидел меня в этом нижнем белье? Я вообще-то твоя старшая сестра, если ещё помнишь."
 msgstr "[_Alice_s_01_] Neden bu kadar neşelisin? Bahse girerim beni yine iç çamaşırlarımla gördüğün için müstehcen düşünceler içindesin, değil mi? Hatırlarsan ben senin ablanım."
 
-# game/scripts/story_01/blog.rpy:828 #-#-# translate crowdin ev_100_8023a027:
+# game/scripts/story_01/blog.rpy:837 #-#-# translate crowdin ev_100_8023a027:
 msgid "[_Max_s_04_] Если я вижу красивую женскую попку в сексуальных трусиках, мне без разницы чья она. Мне просто очень приятно от того, что я вижу."
 msgstr "[_Max_s_04_] Seksi külotlar içinde güzel bir kadın poposu görürsem, kimin olduğu umurumda olmaz. Sadece gördüğüm şey hakkında iyi hissederim."
 
-# game/scripts/story_01/blog.rpy:829 #-#-# translate crowdin ev_100_6ff95fda:
+# game/scripts/story_01/blog.rpy:838 #-#-# translate crowdin ev_100_6ff95fda:
 msgid "[_Alice_s_04_] Знаешь, в любой другой раз я бы выпнула тебя за это, но с учётом того, что ты меня уговорил попробовать делать, я посчитаю это за комплимент и моральную поддержку."
 msgstr "[_Alice_s_04_] Biliyor musun, başka zaman olsa bunun için seni kovardım, ama beni yapmaya ikna ettiğin şeyi göz önüne alırsak, bunu bir iltifat ve manevi destek olarak kabul edeceğim."
 
-# game/scripts/story_01/blog.rpy:830 #-#-# translate crowdin ev_100_c66acb9a:
+# game/scripts/story_01/blog.rpy:839 #-#-# translate crowdin ev_100_c66acb9a:
 msgid "[_Max_s_02_] Всегда пожалуйста, сестрёнка. Так что ты там хотела, чтобы я сделал?"
 msgstr "[Bir şey değil, kardeşim. Benden ne yapmamı istiyordun?"
 
-# game/scripts/story_01/blog.rpy:833 #-#-# translate crowdin ev_100_8c5cfbc2:
+# game/scripts/story_01/blog.rpy:843 #-#-# translate crowdin ev_100_8c5cfbc2:
 msgid "[_Alice_s_02_] Сейчас мы тебя зарегистрируем на сайте «MyCams», чтобы ты мог смотреть на всяких полуголых отвязных девчонок, но не на меня. Не хватало ещё, чтобы ты или кто-то из моих знакомых, меня видели за таким занятием..."
 msgstr "[_Alice_s_02_] Şimdi seni MyCams'e kaydedeceğiz, böylece her türlü yarı çıplak ateşli kıza bakabilirsin, ama bana değil. Senin ya da tanıdığım herhangi birinin beni bunu yaparken görmesini istemiyorum...."
 
-# game/scripts/story_01/blog.rpy:834 #-#-# translate crowdin ev_100_8fe6caaf:
+# game/scripts/story_01/blog.rpy:844 #-#-# translate crowdin ev_100_8fe6caaf:
 msgid "[_Max_s_13_] Хм... Мне придётся указать, что я старше, чем есть на самом деле. Надеюсь, что этот сайт не заругает меня за это."
 msgstr "[_Max_s_13_] Hmm. Olduğumdan daha yaşlı olduğumu belirtmek zorundayım. Umarım bu site bunun için beni azarlamaz."
 
-# game/scripts/story_01/blog.rpy:835 #-#-# translate crowdin ev_100_459002ee:
+# game/scripts/story_01/blog.rpy:845 #-#-# translate crowdin ev_100_459002ee:
 msgid "[_Alice_s_03_] Ой, подумаешь... Мне кажется, что там каждый второй пользователь так делает."
 msgstr "[Hadi ama... Sanırım dışarıdaki diğer tüm kullanıcılar bunu yapıyor."
 
-# game/scripts/story_01/blog.rpy:836 #-#-# translate crowdin ev_100_c732f340:
+# game/scripts/story_01/blog.rpy:846 #-#-# translate crowdin ev_100_c732f340:
 msgid "[_Max_s_11_] Вроде, порядок... Доступ к контенту на сайте у меня теперь есть. Сейчас ещё подтвержу свой аккаунт через почту и всё..."
 msgstr "[Her şey yolunda görünüyor... Artık sitedeki içeriğe erişimim var. Şimdi hesabımı mail yoluyla onaylayacağım ve hepsi bu kadar..."
 
-# game/scripts/story_01/blog.rpy:837 #-#-# translate crowdin ev_100_2a5aec01:
+# game/scripts/story_01/blog.rpy:847 #-#-# translate crowdin ev_100_2a5aec01:
 msgid "[_Alice_s_00_] Отлично! У меня сейчас запущена тестовая трансляция, попробуй найти меня по нику «NaughtyKitty». Пользователи не из наших мест меня видят, а вот насчёт здешних хочу как раз проверить через тебя."
 msgstr "[Pekala! Şu anda bir test yayını yapıyorum, beni \"NaughtyKitty\" takma adıyla bulmaya çalışın. Bölgemizden olmayan kullanıcılar beni görebilir, ancak sizin aracılığınızla kontrol etmek istiyorum."
 
-# game/scripts/story_01/blog.rpy:838 #-#-# translate crowdin ev_100_fcac2c16:
+# game/scripts/story_01/blog.rpy:848 #-#-# translate crowdin ev_100_fcac2c16:
 msgid "[_Max_s_13_] Один момент, постараюсь найти... Хм... Я не вижу здесь никого, похожего на тебя. Разве что у тебя на аватарке показано не лицо..."
 msgstr "[_Max_s_13_] Bir dakika, bulmaya çalışacağım... Hmm... Burada sana benzeyen birini göremiyorum. Tabii avatarınız yüzünüzü göstermiyorsa..."
 
-# game/scripts/story_01/blog.rpy:839 #-#-# translate crowdin ev_100_8c404c8f:
+# game/scripts/story_01/blog.rpy:849 #-#-# translate crowdin ev_100_8c404c8f:
 msgid "[_Alice_s_13_] Вот и отлично, что ты меня не видишь! Значит, и другие тоже не увидят. Какая полезная функция, правда?"
 msgstr "[İyi ki beni göremiyorsun! Bu, başkalarının da beni göremeyeceği anlamına geliyor. Yararlı bir özellik, değil mi?"
 
-# game/scripts/story_01/blog.rpy:840 #-#-# translate crowdin ev_100_4d29e3e9:
+# game/scripts/story_01/blog.rpy:850 #-#-# translate crowdin ev_100_4d29e3e9:
 msgid "[_Max_s_12_] Эх, а я так надеялся увидеть, как ты будешь красиво позировать в нижнем белье."
 msgstr "[_Max_s_12_] Ah, seni iç çamaşırlarınla güzel pozlar verirken görmeyi dört gözle bekliyordum."
 
-# game/scripts/story_01/blog.rpy:843 #-#-# translate crowdin ev_100_038dfd9b:
+# game/scripts/story_01/blog.rpy:854 #-#-# translate crowdin ev_100_038dfd9b:
 msgid "[_Alice_s_02_] Как будто ты сейчас не насмотрелся на год вперёд, пока регистрировался? Вон у тебя, левый глаз уже косит."
 msgstr "[_Alice_s_02_] Sanki kaydolduğundan beri bir yıllık şey görmedin mi? Sol gözün şimdiden kısılmış."
 
-# game/scripts/story_01/blog.rpy:844 #-#-# translate crowdin ev_100_dea44a83:
+# game/scripts/story_01/blog.rpy:855 #-#-# translate crowdin ev_100_dea44a83:
 msgid "[_Max_s_16_] Как это на год вперёд?! Разве ты не будешь временами и для меня позировать в нижнем белье?"
 msgstr "[Ne demek bir yıl önceden?! Arada bir benim için iç çamaşırınla poz vermeyecek misin?"
 
-# game/scripts/story_01/blog.rpy:846 #-#-# translate crowdin ev_100_9221efdf:
+# game/scripts/story_01/blog.rpy:857 #-#-# translate crowdin ev_100_9221efdf:
 msgid "[_Alice_s_11_] А разве мы о таком договаривались? Ты вызвался помочь мне с приобретением этого белья, а я в свою очередь показала его на себе. Ты вообще себя так культурно вёл, что увидел меня во всех комплектах белья, которые я мерила."
 msgstr "[Böyle mi anlaşmıştık? Bu iç çamaşırını almama yardım etmek için gönüllü oldun ve karşılığında ben de sana gösterdim. Beni denediğim tüm iç çamaşırlarıyla gördüğün için çok kültürlüsün."
 
-# game/scripts/story_01/blog.rpy:848 #-#-# translate crowdin ev_100_323cb9c5:
+# game/scripts/story_01/blog.rpy:859 #-#-# translate crowdin ev_100_323cb9c5:
 msgid "[_Alice_s_11_] А разве мы о таком договаривались? Ты вызвался помочь мне с приобретением этого белья, а я в свою очередь показала его на себе. Не я виновата в том, что ты увидел меня не во всех комплектах белья, которые я мерила."
 msgstr "[Böyle mi anlaşmıştık? Bu iç çamaşırını almama yardım etmek için gönüllü oldun ve karşılığında ben de sana gösterdim. Denediğim tüm iç çamaşırlarının içinde beni görmemiş olman benim suçum değil."
 
-# game/scripts/story_01/blog.rpy:849 #-#-# translate crowdin ev_100_b31ff44b:
+# game/scripts/story_01/blog.rpy:860 #-#-# translate crowdin ev_100_b31ff44b:
 msgid "[_Max_s_11_] Тогда можешь выразить благодарность показав грудь или дать её потрогать..."
 msgstr "[_Max_s_11_] O zaman minnettarlığınızı göğüslerinizi göstererek ya da onlara dokunmama izin vererek gösterebilirsiniz...."
 
-# game/scripts/story_01/blog.rpy:850 #-#-# translate crowdin ev_100_58bc5420:
+# game/scripts/story_01/blog.rpy:861 #-#-# translate crowdin ev_100_58bc5420:
 msgid "[_Alice_s_15_] Ох, Макс... Какой же ты озабоченный извращенец всё-таки. Одно и то же у тебя всегда на уме. Найди себе уже девчонку вместо того, чтобы к сестре приставать."
 msgstr "[Oh, Max. Ne kadar azgın bir sapıksın. Aklında hep aynı şey var. Kız kardeşine asılacağına kendine bir kız bul."
 
-# game/scripts/story_01/blog.rpy:851 #-#-# translate crowdin ev_100_f259442d:
+# game/scripts/story_01/blog.rpy:862 #-#-# translate crowdin ev_100_f259442d:
 msgid "[_Max_s_02_] Твой доход сейчас как раз будет зависеть от таких извращенцев, как я! Так что не жалуйся..."
 msgstr "[_Max_s_02_] Geliriniz benim gibi sapıklara bağlı olmak üzere! O yüzden şikayet etme..."
 
-# game/scripts/story_01/blog.rpy:852 #-#-# translate crowdin ev_100_84719155:
+# game/scripts/story_01/blog.rpy:863 #-#-# translate crowdin ev_100_84719155:
 msgid "[_Alice_s_12_] Да, ты прав... А вообще, пока что рано выражать какие-то благодарности. Ещё не ясно, обзаведусь ли я хоть какой-то популярностью на этом сайте. Может быть так, что я мало что там заработаю."
 msgstr "[Evet, haklısınız. Aslında, herhangi bir minnettarlık ifade etmek için henüz çok erken. Bu sitede popülerlik kazanıp kazanmayacağım henüz belli değil. Orada fazla para kazanamayabilirim."
 
-# game/scripts/story_01/blog.rpy:853 #-#-# translate crowdin ev_100_66d30591:
+# game/scripts/story_01/blog.rpy:864 #-#-# translate crowdin ev_100_66d30591:
 msgid "[_Max_s_01_] Я уверен, что заработаешь! С твоей-то милой внешностью и стройной фигурой..."
 msgstr "[Eminim yaparsın! Sevimli görünüşün ve ince fiziğinle..."
 
-# game/scripts/story_01/blog.rpy:854 #-#-# translate crowdin ev_100_48d444f5:
+# game/scripts/story_01/blog.rpy:865 #-#-# translate crowdin ev_100_48d444f5:
 msgid "[_Alice_s_11_] Если совсем полностью оголяться, то конечно заработаю. Только вот я не хочу до такого опускаться. Хочется, чтобы по мне сходили с ума не от этого, а от того, как я буду двигаться и играть на воображении."
 msgstr "[_Alice_s_11_] Tamamen çıplak olsaydım, para kazanırdım. Ama o kadar aşağılara inmek istemiyorum. İnsanların benim için deli olmalarını istemiyorum ama hareket etme ve hayal gücümle oynama şeklim için deli olmalarını istiyorum."
 
-# game/scripts/story_01/blog.rpy:855 #-#-# translate crowdin ev_100_ab793a37:
+# game/scripts/story_01/blog.rpy:866 #-#-# translate crowdin ev_100_ab793a37:
 msgid "[_Max_s_11_] Хм... Это должно быть намного сложнее, чем просто раздеваться. И может даже далеко не сразу ты этого добьёшься, так что успехов тебе."
 msgstr "[_Max_s_11_] Hmm... Bu sadece soyunmaktan çok daha zor olmalı. Ve bunu hemen başaramayabilirsiniz bile, bu yüzden size iyi şanslar."
 
-# game/scripts/story_01/blog.rpy:856 #-#-# translate crowdin ev_100_a1339058:
+# game/scripts/story_01/blog.rpy:867 #-#-# translate crowdin ev_100_a1339058:
 msgid "[_Alice_s_12_] Спасибо, Макс, буду стараться. И у меня к тебе будет очень важная просьба - не мешать мне во время трансляций. Сам должен понимать, что это будет самым настоящим стрессом для меня, особенно в самом начале."
 msgstr "[Teşekkürler Max, elimden geleni yapacağım. Ve senden çok önemli bir ricam var - yayınlar sırasında bana müdahale etme. Bunun benim için gerçek bir stres olacağının farkında olmalısın, özellikle de başlangıçta."
 
-# game/scripts/story_01/blog.rpy:857 #-#-# translate crowdin ev_100_17367aaf:
+# game/scripts/story_01/blog.rpy:868 #-#-# translate crowdin ev_100_17367aaf:
 msgid "[_Max_s_03_] Конечно, я не буду тебе мешать. Но если всё-таки захочешь показать мне сиськи, то не терпи, просто позови..."
 msgstr "[_Max_s_03_] Elbette, seni rahatsız etmeyeceğim. Ama yine de bana göğüslerini göstermek istiyorsan sabırlı olma, sadece ara...."
 
-# game/scripts/story_01/blog.rpy:859 #-#-# translate crowdin ev_100_0d6b2903:
+# game/scripts/story_01/blog.rpy:870 #-#-# translate crowdin ev_100_0d6b2903:
 msgid "[_Alice_s_11_] Ой, ну как же без этого. Иди давай, хватит уже на меня глазеть. [nointeract]"
 msgstr "[Olamaz. Hadi, bana bakmayı kes. [nointeract]"
 
-# game/scripts/story_01/blog.rpy:863 #-#-# translate crowdin ev_100_8c2e5611:
+# game/scripts/story_01/blog.rpy:875 #-#-# translate crowdin ev_100_8c2e5611:
 msgid "[_tMax_s_06_] Хе-хе... Как же здорово, что Алиса сама взяла и раскрыла сайт, через который будет вести трансляции, да ещё и ник мне сообщила. Что это, как не явное приглашение на трансляции моей сестрёнки?"
 msgstr "[_tMax_s_06_] Hehehe... Alice'in yayın yapacağı siteyi bizzat açıklaması ve bana takma adını vermesi çok harika. Bu ablamın yayınlarına açık bir davetten başka nedir ki?"
 
-# game/scripts/story_01/blog.rpy:864 #-#-# translate crowdin ev_100_b0e19108:
+# game/scripts/story_01/blog.rpy:876 #-#-# translate crowdin ev_100_b0e19108:
 msgid "[_tMax_s_11_] Нужно лишь почитать в интернете о том, как можно обойти это ограничение из-за которого я не могу её увидеть на сайте."
 msgstr "[_tMax_s_11_] Sadece onu sitede görmemi imkansız kılan bu kısıtlamayı nasıl aşacağımı internette okumam gerekiyor."
 
-# game/scripts/story_01/blog.rpy:867 #-#-# translate crowdin ev_100_3971d4fa:
+# game/scripts/story_01/blog.rpy:880 #-#-# translate crowdin ev_100_3971d4fa:
 msgid "[_tMax_s_13_] Можно было бы просто создать другой аккаунт, только вот не факт, что я смогу привязать к нему свой счёт, так как данные не будут совпадать."
 msgstr "[_tMax_s_13_] Başka bir hesap oluşturabilirsiniz, ancak ayrıntılar eşleşmeyeceği için hesabımı ona bağlayabileceğimden emin değilim."
 
-# game/scripts/story_01/blog.rpy:868 #-#-# translate crowdin ev_100_e7315020:
+# game/scripts/story_01/blog.rpy:881 #-#-# translate crowdin ev_100_e7315020:
 msgid "[_tMax_s_00_] Буду разбираться..."
 msgstr "[_tMax_s_00_] Bununla ilgileneceğim..."
 
-# game/scripts/story_01/blog.rpy:882 #-#-# translate crowdin ev_101_194e9c33:
+# game/scripts/story_01/blog.rpy:895 #-#-# translate crowdin ev_101_194e9c33:
 msgid "[_tMax_s_13_] Как же мне обойти эту защиту трансляций Алисы... Способ однозначно должен быть..."
 msgstr "[_tMax_s_13_] Peki Alice'in yayınlarının bu savunmasını nasıl aşabilirim.... Kesinlikle bir yolu olmalı..."
 
-# game/scripts/story_01/blog.rpy:883 #-#-# translate crowdin ev_101_20c2d4a5:
+# game/scripts/story_01/blog.rpy:896 #-#-# translate crowdin ev_101_20c2d4a5:
 msgid "[_tMax_s_11_] Вот, получается, мне нужно открыть контент, доступ к которому ограничен в конкретном регионе. Ага, похоже, всё довольно просто, мне всего-то нужен VPN-сервис!"
 msgstr "[_tMax_s_11_] Yani, belirli bir bölgede kısıtlanmış içeriği açmam gerektiği ortaya çıktı. Evet, görünüşe göre oldukça basit, tek ihtiyacım olan bir VPN hizmeti!"
 
-# game/scripts/story_01/blog.rpy:895 #-#-# translate crowdin ev_102_e047e79d:
+# game/scripts/story_01/blog.rpy:908 #-#-# translate crowdin ev_102_e047e79d:
 msgid "[_tMax_s_00_] Благодаря VPN мой аккаунт станет считаться анонимным и я смогу увидеть Алису. Лучше пользоваться платным, чтобы не терять в скорости интернета и избежать различных сбоев. Это будет стоить $25. [nointeract]"
 msgstr "[_tMax_s_00_] VPN sayesinde hesabım anonim sayılacak ve Alice'i görebileceğim. İnternet hızını kaybetmemek ve çeşitli arızalardan kaçınmak için ücretli bir tane kullanmak daha iyidir. 25 dolara mal olacak. [nointeract]"
 
-# game/scripts/story_01/blog.rpy:899 #-#-# translate crowdin ev_102_44c53353:
+# game/scripts/story_01/blog.rpy:912 #-#-# translate crowdin ev_102_44c53353:
 msgid "[_tMax_s_01_] Отлично! Всё оплачено, настроено и работает! Теперь я смогу найти Алису на сайте «MyCams» и наблюдать за тем, что она делает на своих трансляциях... [nointeract]"
 msgstr "[Harika! Her şeyin parası ödendi, kuruldu ve çalışıyor! Artık Alice'i \"MyCams\" sitesinde bulabilir ve yayınlarında neler yaptığını izleyebilirim... [nointeract]"
 
-# game/scripts/story_01/blog.rpy:902 #-#-# translate crowdin ev_102_45524754:
+# game/scripts/story_01/blog.rpy:915 #-#-# translate crowdin ev_102_45524754:
 msgid "[_tMax_s_13_] Хм... Странно. Я всё равно её не вижу... Может, если она не ведёт трансляцию, то и её профиля я не смогу увидеть?"
 msgstr "[_tMax_s_13_] Hmm... Bu çok garip. Onu hala göremiyorum... Belki de yayın yapmıyorsa, profilini de göremiyorumdur?"
 
-# game/scripts/story_01/blog.rpy:903 #-#-# translate crowdin ev_102_94cae2e8:
+# game/scripts/story_01/blog.rpy:916 #-#-# translate crowdin ev_102_94cae2e8:
 msgid "[_tMax_s_16_] Нет, вот здесь девчонки не ведут сейчас трансляцию, а их профиль видно... Чёрт! Похоже, я зря радовался и Алиса сменила свой ник. Умная девочка..."
 msgstr "[_tMax_s_16_] Hayır, kızlar şu anda burada yayın yapmıyor ama profillerini görebilirsiniz... Kahretsin! Görünüşe göre yanılmışım ve Alice takma adını değiştirmiş. Akıllı kız..."
 
-# game/scripts/story_01/blog.rpy:904 #-#-# translate crowdin ev_102_b0915dd3:
+# game/scripts/story_01/blog.rpy:917 #-#-# translate crowdin ev_102_b0915dd3:
 msgid "[_tMax_s_12_] Что же теперь делать? Просматривать все профили и надеяться, что на её аватарке будет изображено её лицо? Сомнительно..."
 msgstr "[Şimdi ne yapacağım? Tüm profillere bakıp avatarının yüzünü göstermesini mi umacağım? Şüpheli..."
 
-# game/scripts/story_01/blog.rpy:905 #-#-# translate crowdin ev_102_4c14fb1a:
+# game/scripts/story_01/blog.rpy:918 #-#-# translate crowdin ev_102_4c14fb1a:
 msgid "[_tMax_s_13_] Как бы мне не пришлось взламывать её ноутбук, чтобы это выяснить. Может, в интернете я смогу найти всю необходимую для этого информацию..."
 msgstr "[_tMax_s_13_] Öğrenmek için bilgisayarına girmek zorunda kalmak istemiyorum. Belki bunu yapmak için ihtiyacım olan tüm bilgileri internette bulabilirim..."
 
-# game/scripts/story_01/blog.rpy:927 #-#-# translate crowdin ev_103_d66f8c83:
+# game/scripts/story_01/blog.rpy:940 #-#-# translate crowdin ev_103_d66f8c83:
 msgid "[_tMax_s_13_] Попробую порыться на хакерском форуме и узнать, каким образом злоумышленники могут красть персональные данные. Возможно, что-то из найденного подойдёт для моего случая... Так, вот это любопытно... О, кажется, я понял!"
 msgstr "[_tMax_s_13_] Bir hacker forumunda dolaşmaya ve saldırganların kişisel verileri nasıl çalabileceğini öğrenmeye çalışacağım. Belki bulduklarımdan bazıları benim durumumda işe yarar.... Tamam, işte bu ilginç.... Oh, sanırım buldum!"
 
-# game/scripts/story_01/blog.rpy:928 #-#-# translate crowdin ev_103_af9e16b2:
+# game/scripts/story_01/blog.rpy:941 #-#-# translate crowdin ev_103_af9e16b2:
 msgid "[_tMax_s_05_] Вот же оно! Мне просто нужно установить на ноутбук Алисы специальную программу, которая будет скрытно работать на её компьютере и отправлять мне данные, которые она вводит с клавиатуры!"
 msgstr "[İşte bu! Alice'in dizüstü bilgisayarına, bilgisayarında gizlice çalışacak ve klavyesinden girdiği verileri bana gönderecek özel bir program yüklemem gerekiyor!"
 
-# game/scripts/story_01/blog.rpy:929 #-#-# translate crowdin ev_103_76ad4229:
+# game/scripts/story_01/blog.rpy:942 #-#-# translate crowdin ev_103_76ad4229:
 msgid "[_tMax_s_11_] Даже продвинутым хакером не нужно для этого становиться! Всё довольно просто... Скачать программу-кейлоггер, закинуть её на флешку, установить на компьютер и настроить так, как мне нужно... Хотя..."
 msgstr "[_tMax_s_11_] Bunu yapmak için gelişmiş bir hacker olmanıza bile gerek yok! Oldukça basit... Keylogger yazılımını indirmek, bir flash belleğe atmak, bilgisayarıma kurmak ve istediğim şekilde yapılandırmak... Gerçi..."
 
-# game/scripts/story_01/blog.rpy:930 #-#-# translate crowdin ev_103_3cab058f:
+# game/scripts/story_01/blog.rpy:943 #-#-# translate crowdin ev_103_3cab058f:
 msgid "[_tMax_s_13_] У Алисы на ноутбуке может стоять пароль... Это нужно обязательно проверить, пока сестрёнка находится подальше от своей комнаты..."
 msgstr "[_tMax_s_13_] Alice'in dizüstü bilgisayarında bir şifre olabilir... Ablam odasından uzaktayken bu kesinlikle kontrol edilmeli..."
 
-# game/scripts/story_01/blog.rpy:946 #-#-# translate crowdin ev_104_4a9cd773:
+# game/scripts/story_01/blog.rpy:960 #-#-# translate crowdin ev_104_4a9cd773:
 msgid "[_tMax_s_16_] Вот блин, так и знал! Её компьютер всё-таки запаролен! Как же меня эта Алиса зае... И какой пароль? Эх... Придётся ещё посидеть на хакерском форуме... [nointeract]"
 msgstr "[Dostum, biliyordum! Ne de olsa bilgisayarı şifre korumalı! Alice'ten bıktım usandım. Şifre ne? Oh. Hacker forumuna gitmem gerekecek... [nointeract]"
 
-# game/scripts/story_01/blog.rpy:960 #-#-# translate crowdin ev_105_c1f2efe5:
+# game/scripts/story_01/blog.rpy:974 #-#-# translate crowdin ev_105_c1f2efe5:
 msgid "[_tMax_s_11_] Так... Вот есть утилиты, которые могут заменить пароль или вообще убрать его... Это как раз то, что мне и нужно, чтобы забраться к Алисе в ноутбук..."
 msgstr "[_tMax_s_11_] Yani... İşte şifreyi değiştirebilecek veya tamamen kaldırabilecek bazı yardımcı programlar... Alice'in bilgisayarına girmek için ihtiyacım olan şey tam olarak bu."
 
-# game/scripts/story_01/blog.rpy:961 #-#-# translate crowdin ev_105_56f56e5f:
+# game/scripts/story_01/blog.rpy:975 #-#-# translate crowdin ev_105_56f56e5f:
 msgid "[_tMax_s_16_] Чёрт, нет! Она же тогда узнает, что я в нём ковырялся и весь этот взлом станет напрасным. Нужно что-то другое..."
 msgstr "[Hayır! O zaman onu kurcaladığımı anlayacak ve tüm bu hack'lemeler boşa gidecek. Başka bir şeye ihtiyacımız var."
 
-# game/scripts/story_01/blog.rpy:962 #-#-# translate crowdin ev_105_f91b31b5:
+# game/scripts/story_01/blog.rpy:976 #-#-# translate crowdin ev_105_f91b31b5:
 msgid "[_tMax_s_11_] Какие ещё есть варианты? Ага, есть программа, которая позволяет подбирать пароли для входа в систему... И подробная инструкция прилагается!"
 msgstr "[_tMax_s_11_] Başka ne gibi seçenekler var? Evet, oturum açmak için parola seçmenizi sağlayan bir program var... Ve ayrıntılı talimatlar dahil!"
 
-# game/scripts/story_01/blog.rpy:963 #-#-# translate crowdin ev_105_8ff24290:
+# game/scripts/story_01/blog.rpy:977 #-#-# translate crowdin ev_105_8ff24290:
 msgid "[_tMax_s_12_] Правда, её пароля я так и не узнаю, потому что в этой программе вместо чисел и букв показываются какие-то непонятные символы, но в систему я попаду и самое главное, что Алиса об этом не узнает."
 msgstr "[_tMax_s_12_] Ama şifresini bilemeyeceğim, çünkü bu program rakamlar ve harfler yerine bazı garip semboller gösteriyor, ama sisteme gireceğim ve en önemli şey Alice'in bunu bilmeyecek olması."
 
-# game/scripts/story_01/blog.rpy:964 #-#-# translate crowdin ev_105_818b2938:
+# game/scripts/story_01/blog.rpy:978 #-#-# translate crowdin ev_105_818b2938:
 msgid "[_tMax_s_01_] Сейчас закину эту программу на флешку, вместе с кейлоггером и останется только дождаться, когда дома никого, кроме меня, не будет, чтобы спокойно взломать компьютер Алисы..."
 msgstr "[_tMax_s_01_] Şimdi bu programı keylogger ile birlikte bir flash belleğe atacağım ve Alice'in bilgisayarına girmek için evde benden başka kimse kalmayana kadar beklemem gerekecek...."
 
-# game/scripts/story_01/blog.rpy:977 #-#-# translate crowdin ev_106_548e9970:
+# game/scripts/story_01/blog.rpy:992 #-#-# translate crowdin ev_106_548e9970:
 msgid "[_tMax_s_12_] Пока дома никого нет, я спокойно разберусь в этой программе, благодаря которой можно подбирать пароли. Надеюсь, у меня получится..."
 msgstr "[_tMax_s_12_] Evde kimse yokken, şifreleri tahmin etmemi sağlayan bu programı sessizce çözeceğim. Umarım."
 
-# game/scripts/story_01/blog.rpy:985 #-#-# translate crowdin ev_106_25789067:
+# game/scripts/story_01/blog.rpy:1000 #-#-# translate crowdin ev_106_25789067:
 msgid "[_tMax_s_13_] Так, значит пароль Алисы состоит из [alice_pass.len] символов. Мне нужно вводить различные символы и проверять, верна ли их последовательность."
 msgstr "[_tMax_s_13_] Tamam, Alice'in şifresi [alice_pass.len] karakterlerinden oluşuyor. Farklı karakterler girmem ve sıralamalarının doğru olup olmadığını kontrol etmem gerekiyor."
 
-# game/scripts/story_01/blog.rpy:986 #-#-# translate crowdin ev_106_4a49b6e4:
+# game/scripts/story_01/blog.rpy:1001 #-#-# translate crowdin ev_106_4a49b6e4:
 msgid "[_tMax_s_12_] Справа отображается история того, какие последовательности символов я вводил для проверки, а так же два числа."
 msgstr "[_tMax_s_12_] Sağ tarafta, test etmek için hangi karakter dizilerini girdiğimin geçmişi ve iki sayı gösteriliyor."
 
-# game/scripts/story_01/blog.rpy:987 #-#-# translate crowdin ev_106_e7307345:
+# game/scripts/story_01/blog.rpy:1002 #-#-# translate crowdin ev_106_e7307345:
 msgid "[_tMax_s_11_] Оранжевое число показывает, какое количество из введённых символов присутствует в пароле Алисы. Зелёное число показывает, сколько из этих символов находится на своём месте в пароле Алисы."
 msgstr "[_tMax_s_11_] Turuncu sayı, girilen karakterlerden kaç tanesinin Alice'in parolasında mevcut olduğunu gösterir. Yeşil sayı, bu karakterlerden kaç tanesinin Alice'in parolasındaki yerinde olduğunu gösterir."
 
-# game/scripts/story_01/blog.rpy:989 #-#-# translate crowdin ev_106_473aa722:
+# game/scripts/story_01/blog.rpy:1004 #-#-# translate crowdin ev_106_473aa722:
 msgid "[_tMax_s_16_] Ох, вроде несложно, но мозги всё же придётся поднапрячь... [nointeract]"
 msgstr "[_tMax_s_16_] Oh, zor görünmüyor, ama beyninizi kullanmanız gerekecek.... [nointeract]"
 
-# game/scripts/story_01/blog.rpy:1008 #-#-# translate crowdin ev_106_9f8f4d2c:
+# game/scripts/story_01/blog.rpy:1024 #-#-# translate crowdin ev_106_9f8f4d2c:
 msgid "[_tMax_s_17_] Что-то мне не хватает терпения и нервов, чтобы взломать её пароль! Может, как-нибудь потом получится... [nointeract]"
 msgstr "[_tMax_s_17_] Şifresini kırmak için ne sabrım ne de cesaretim var! Belki daha sonra bir ara yaparım... [nointeract]"
 
-# game/scripts/story_01/blog.rpy:1015 #-#-# translate crowdin ev_106_success_610e02a6:
-msgid "[_tMax_s_06_] Фух... Получилось! Теперь нужно установить на её компьютер кейлоггер и настроить его так, чтобы мне на электронную почту приходили тектовые данные, которые она вводит с клавиатуры."
-msgstr "[_tMax_s_06_] Whew... Buldum! Şimdi bilgisayarına bir keylogger yüklemem ve klavyesinde girdiği metin verilerini bana e-postayla gönderecek şekilde ayarlamam gerekiyor."
+# game/scripts/story_01/blog.rpy:1033 #-#-# translate crowdin ev_106_success_0c1a12af:
+msgid "[_tMax_s_06_] Фух... Получилось! Теперь нужно установить на её компьютер кейлоггер и настроить его так, чтобы мне на электронную почту приходили текстовые данные, которые она вводит с клавиатуры."
+msgstr "[_tMax_s_06_] Whew... Buldum! Şimdi bilgisayarına bir keylogger yüklemem ve klavyesinde girdiği metin verilerini e-postama gönderecek şekilde ayarlamam gerekiyor."
 
-# game/scripts/story_01/blog.rpy:1016 #-#-# translate crowdin ev_106_success_1675ffab:
+# game/scripts/story_01/blog.rpy:1034 #-#-# translate crowdin ev_106_success_1675ffab:
 msgid "[_tMax_s_11_] Чёрт, а как там у меня почта-то пишется?! Кажется, так... Вроде бы всё готово. Получается, что на следующее утро после её трансляции у меня уже будут эти данные!"
 msgstr "[_tMax_s_11_] Kahretsin, mailimi nasıl heceleyeceğim?! Sanırım öyle. Sanırım hazırım. Veriler yayınlandıktan sonraki sabah elimde olacak!"
 
-# game/scripts/story_01/blog.rpy:1018 #-#-# translate crowdin ev_106_success_0fb5fa42:
+# game/scripts/story_01/blog.rpy:1036 #-#-# translate crowdin ev_106_success_0fb5fa42:
 msgid "[_tMax_s_01_] Останется лишь выудить из них то, что мне нужно. Даже интересно, какой у Алисы теперь ник... [nointeract]"
 msgstr "[Tek yapmam gereken onlardan ihtiyacım olanı almak. Alice'in lakabının ne olduğunu bile merak ediyorum şimdi... [nointeract]"
 
-# game/scripts/story_01/blog.rpy:1031 #-#-# translate crowdin ev_107_894c4c6f:
+# game/scripts/story_01/blog.rpy:1051 #-#-# translate crowdin ev_107_894c4c6f:
 msgid "[_tMax_s_13_] Так... Посмотрим, что же она набирала на своём компьютере... Это похоже прогноз погоды на завтрашний день... Дальше соцсети..."
 msgstr "[Tamam. Bakalım bilgisayarında ne yazıyormuş... Görünüşe göre yarının hava durumu... Sırada sosyal medya var."
 
-# game/scripts/story_01/blog.rpy:1032 #-#-# translate crowdin ev_107_72bc7804:
+# game/scripts/story_01/blog.rpy:1052 #-#-# translate crowdin ev_107_72bc7804:
 msgid "[_tMax_s_06_] Ага! А вот это очень похоже на то, что мне нужно... И по времени подходит! Получается, её новый ник Melissa? Очень похоже на её настоящее имя, по крайней мере по звучанию."
 msgstr "[Bu tam da aradığım şeye benziyor. Ve zamanlama mükemmel! Yani yeni takma adı Melissa mı? Gerçek ismine çok benziyor, en azından kulağa öyle geliyor."
 
-# game/scripts/story_01/blog.rpy:1033 #-#-# translate crowdin ev_107_925645f8:
+# game/scripts/story_01/blog.rpy:1053 #-#-# translate crowdin ev_107_925645f8:
 msgid "[_tMax_s_11_] Вот и всё! Хотя, нет, ещё не всё... Мне же ещё нужно в своём аккаунте на «MyCams» сменить ник, чтобы не вызвать у Алисы подозрений на мой счёт."
 msgstr "[_tMax_s_11_] Bu kadar! Yine de, hayır, henüz bitmedi... Alice'in benden şüphelenmemesi için MyCams hesabımdaki takma adımı değiştirmem gerekiyor."
 
-# game/scripts/story_01/blog.rpy:1034 #-#-# translate crowdin ev_107_4cb27da0:
+# game/scripts/story_01/blog.rpy:1054 #-#-# translate crowdin ev_107_4cb27da0:
 msgid "[_tMax_s_01_] Пожалуй, Mike не слишком броское имя. Мне подойдёт. Ах, да... Ещё же платёжную информацию нужно ввести... Или лучше сперва посмотреть, что там делает на трансляциях моя сестрёнка? А то может там и платить-то не за что..."
 msgstr "[Sanırım Mike pek akılda kalıcı bir isim değil. Bana uyar. Oh, evet. Ödeme bilgilerimi de girmem gerekiyor... Yoksa önce kız kardeşimin yayınlarda ne yaptığına mı bakmalıyım? Ya da belki ödeyecek bir şey yoktur."
 
-# game/scripts/story_01/blog.rpy:1035 #-#-# translate crowdin ev_107_d8b237e6:
+# game/scripts/story_01/blog.rpy:1055 #-#-# translate crowdin ev_107_d8b237e6:
 msgid "[_tMax_s_03_] Ха, а вот и Алиса! Попалась, наконец-то... Хорошо, что я решил взломать её компьютер, потому что по изображению в профиле её не узнать. Пускай она хитрая, но и я не пальцем деланный! Как-нибудь вечерком я загляну к тебе на трансляцию, Алиса..."
 msgstr "[İşte Alice! Sonunda onu yakaladım. Bilgisayarına girmeye karar vermem iyi oldu, çünkü onu profil resminden tanıyamazdınız. O sinsi olabilir, ama ben kolay lokma değilim! Bir gece yayınına geleceğim, Alice....."
 
@@ -1462,47 +1462,43 @@ msgstr "Yapmayacağım. Lisa ve ben bunu her zaman yaparız!"
 msgid "{i}не подглядывать{/i}"
 msgstr "{i}gözetlemek yok{/i}"
 
-# game/scripts/story_01/blog.rpy:693
-msgid "{i}попробовать подглядеть{/i}"
-msgstr "{i}gözetlemeye çalış{/i}"
-
-# game/scripts/story_01/blog.rpy:870
+# game/scripts/story_01/blog.rpy:883
 msgid "Задание «Обедневшая блогерша» завершено!"
 msgstr "\"Yoksul Blogger\" ödevi tamamlandı!"
 
-# game/scripts/story_01/blog.rpy:871
+# game/scripts/story_01/blog.rpy:884
 msgid "Открыто новое задание «Взломать блогершу»!"
 msgstr "Yeni bir \"Blogger'ı Hackle\" ödevi açıldı!"
 
-# game/scripts/story_01/blog.rpy:894
+# game/scripts/story_01/blog.rpy:907
 msgid "Оплатить ($25)"
 msgstr "Ödeme ($25)"
 
-# game/scripts/story_01/blog.rpy:894
+# game/scripts/story_01/blog.rpy:907
 msgid "В другой раз..."
 msgstr ""
 
-# game/scripts/story_01/blog.rpy:898
+# game/scripts/story_01/blog.rpy:911
 msgid "{i}искать Алису на сайте{/i}"
 msgstr "{i}Alice'i sitede ara{/i}"
 
-# game/scripts/story_01/blog.rpy:907
+# game/scripts/story_01/blog.rpy:920
 msgid "Задание «Взломать блогершу» обновлено!"
 msgstr "\"Hack a blogger\" ödevi güncellendi!"
 
-# game/scripts/story_01/blog.rpy:988
+# game/scripts/story_01/blog.rpy:1003
 msgid "{i}решать головоломку{/i}"
 msgstr "{i}bulmacayı çöz{/i}"
 
-# game/scripts/story_01/blog.rpy:1017
+# game/scripts/story_01/blog.rpy:1035
 msgid "{i}вернуть всё, как было и уйти{/i}"
 msgstr "{i}her şeyi eski haline getirip çekip gitmek."
 
-# game/scripts/story_01/blog.rpy:1038
+# game/scripts/story_01/blog.rpy:1058
 msgid "Задание «Взломать блогершу» завершено!"
 msgstr "\"Hack the blogger\" ödevi tamamlandı!"
 
-# game/scripts/story_01/blog.rpy:1039
+# game/scripts/story_01/blog.rpy:1059
 msgid "Открыто новое задание «Стримерша»!"
 msgstr "Yeni bir \"Yayıcı Kız\" görevi açıldı!"
 

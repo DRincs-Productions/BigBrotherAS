@@ -11,9 +11,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-06-19 06:56\n"
+"PO-Revision-Date: 2024-08-15 09:02\n"
 
-# TODO: Translation updated at 2024-06-18 22:58 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/screens.rpy:277
+# TODO: Translation updated at 2024-08-14 23:38 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/screens.rpy:277
 msgid "Нужно подождать дней: {cooldown}"
 msgstr "Beklenmesi gereken günler: {cooldown}"
 
@@ -214,8 +214,8 @@ msgid "После выбора"
 msgstr "Seçimlerden sonra"
 
 # game/scripts/screens/screens.rpy:1150
-msgid "После переходов"
-msgstr "Geçişlerden sonra"
+msgid "Переходы"
+msgstr "Geçişler"
 
 # game/scripts/screens/screens.rpy:1152
 msgid "Скорость текста"

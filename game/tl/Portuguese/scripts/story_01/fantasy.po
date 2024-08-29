@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-06-19 06:56\n"
+"PO-Revision-Date: 2024-08-15 09:02\n"
 
-# TODO: Translation updated at 2024-06-18 22:58 #|#|# # game/scripts/story_01/fantasy.rpy:8 #-#-# translate crowdin ev_099_42c5624b:
+# TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/story_01/fantasy.rpy:8 #-#-# translate crowdin ev_099_42c5624b:
 msgid "[_tMax_s_01_] Ну, что... Самое время немного погонять лысого. Кто же из девочек сможет мне с этим помочь? [nointeract]"
 msgstr "[Bem. Já era altura de termos uma pequena perseguição ao careca. Qual das raparigas me pode ajudar com isto? [nointeract]"
 
@@ -20,191 +20,383 @@ msgstr "[Bem. Já era altura de termos uma pequena perseguição ao careca. Qual
 msgid "[_tMax_s_07_] О да! Моя старшая сестрёнка может быть не только стервозной, но и крайне соблазнительной штучкой. И кое-что сейчас приходит мне на ум... [nointeract]"
 msgstr "[A minha irmã mais velha consegue ser não só cabra, mas também extremamente sedutora. E estou a pensar em algo neste momento... [nointeract]"
 
-# game/scripts/story_01/fantasy.rpy:26 #-#-# translate crowdin ev_099_5f76f7c5:
+# game/scripts/story_01/fantasy.rpy:24 #-#-# translate crowdin ev_099_4a3db9f1:
+msgid "[_tMax_s_07_] Моей младшей сестрёнке ещё столько всего предстоит узнать о взрослой жизни... С ней станет ещё веселее, когда она многому научится! И кое-что сейчас приходит мне на ум... [nointeract]"
+msgstr "[_tMax_s_07_] A minha irmã mais nova ainda tem tanto para aprender sobre a vida adulta.... Vai ser ainda mais divertido estar com ela à medida que for aprendendo tanto! E algo me vem à cabeça neste momento.... [nointeract]"
+
+# game/scripts/story_01/fantasy.rpy:37 #-#-# translate crowdin ev_099_5f76f7c5:
 msgid "[_tMax_s_07_] Ну, а что поделать, когда моя мама такая роскошная женщина?! Однажды увидев её обнажённой - уже никогда не забудешь. И кое-что сейчас приходит мне на ум... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/fantasy.rpy:38 #-#-# translate crowdin ev_099_alice_bath_hj_77dc1023:
+# game/scripts/story_01/fantasy.rpy:52 #-#-# translate crowdin ev_099_alice_bath_hj_77dc1023:
 msgid "[_Alice_s_04_] Макс, а ты не думал, что нужно было постучаться, прежде чем входить? Я ведь могла здесь заниматься чем-то не совсем приличным. Или ты на это и надеялся?"
 msgstr "[Max, já pensaste que devias ter batido à porta antes de entrares? Eu podia estar a fazer algo inapropriado aqui dentro. Ou era disso que estavas à espera?"
 
-# game/scripts/story_01/fantasy.rpy:39 #-#-# translate crowdin ev_099_alice_bath_hj_853f0236:
+# game/scripts/story_01/fantasy.rpy:53 #-#-# translate crowdin ev_099_alice_bath_hj_853f0236:
 msgid "[_Max_s_03_] Думал, что полюбуюсь тем, как ты потираешь мыльными ручками кое-что между своих ножек."
 msgstr "[Pensei em admirar-te a esfregar canetas com sabão em algo entre as tuas pernas."
 
-# game/scripts/story_01/fantasy.rpy:41 #-#-# translate crowdin ev_099_alice_bath_hj_b43aa2fb:
+# game/scripts/story_01/fantasy.rpy:55 #-#-# translate crowdin ev_099_alice_bath_hj_b43aa2fb:
 msgid "[_Alice_s_06_] Какое совпадение, я как раз хотела заняться чем-то именно таким, но... Раз уж ты зашёл, то я могла бы потереть кое-что ещё. Хочешь? [nointeract]"
 msgstr "[Que coincidência, estava prestes a fazer algo exatamente assim, mas... Já que estás aqui, podia esfregar outra coisa. Queres? [nointeract]"
 
-# game/scripts/story_01/fantasy.rpy:46 #-#-# translate crowdin ev_099_alice_bath_hj_6bcbaaac:
+# game/scripts/story_01/fantasy.rpy:61 #-#-# translate crowdin ev_099_alice_bath_hj_6bcbaaac:
 msgid "[_Alice_s_12_] Серьёзно?! Перед тобой в ванне сидит голая девушка, которая не прочь тебе подрочить, а ты ещё и сомневаешься! Что это с тобой, Макс?"
 msgstr "[A sério?! Está uma rapariga nua à tua frente na banheira que te quer masturbar e tu estás a hesitar! O que é que se passa contigo, Max?"
 
-# game/scripts/story_01/fantasy.rpy:47 #-#-# translate crowdin ev_099_alice_bath_hj_24969d90:
+# game/scripts/story_01/fantasy.rpy:62 #-#-# translate crowdin ev_099_alice_bath_hj_24969d90:
 msgid "[_Max_s_12_] Должно быть в сон уже сильно клонит..."
 msgstr "[_Max_s_12_] Já deve estar com muito sono..."
 
-# game/scripts/story_01/fantasy.rpy:48 #-#-# translate crowdin ev_099_alice_bath_hj_e61ce2dc:
+# game/scripts/story_01/fantasy.rpy:63 #-#-# translate crowdin ev_099_alice_bath_hj_e61ce2dc:
 msgid "[_Alice_s_04_] Да, время позднее... Я и сама немного притомилась, принимая ванну, но... Не помню чтобы нам это когда-то мешало... развлекаться?"
 msgstr "[_Alice_s_04_] Sim, é tarde... Eu própria estou um pouco cansada de tomar banho, mas... Não me lembro de isso alguma vez nos ter atrapalhado. Divertirmo-nos?"
 
-# game/scripts/story_01/fantasy.rpy:49 #-#-# translate crowdin ev_099_alice_bath_hj_82985973:
+# game/scripts/story_01/fantasy.rpy:64 #-#-# translate crowdin ev_099_alice_bath_hj_82985973:
 msgid "[_Max_s_11_] А ведь и правда! Тогда погнали..."
 msgstr "[É verdade! Então vamos lá..."
 
-# game/scripts/story_01/fantasy.rpy:52 #-#-# translate crowdin ev_099_alice_bath_hj_1e8a51f4:
+# game/scripts/story_01/fantasy.rpy:68 #-#-# translate crowdin ev_099_alice_bath_hj_1e8a51f4:
 msgid "[_tMax_s_07_] Ох и люблю я целоваться с Алисой! Да со страстью, увлечённо... Ммм... Губки у неё сочные... А уж как в член мой вцепилась!"
 msgstr "[Oh, eu adoro beijar a Alice! Apaixonadamente, apaixonadamente. Mmm. Os lábios dela são sumarentos. E ela tem as mãos em toda a minha pila."
 
-# game/scripts/story_01/fantasy.rpy:61 #-#-# translate crowdin ev_099_alice_bath_hj_b524358b:
+# game/scripts/story_01/fantasy.rpy:77 #-#-# translate crowdin ev_099_alice_bath_hj_b524358b:
 msgid "[_Alice_s_03_] Ммм... А твой член явно соскучился по моим прикосновениям! Сразу так приободрился... И не стыдно тебе таким заниматься со своей сестрой?"
 msgstr "[_Alice_s_03_] Mmm... É óbvio que a tua pila sente falta do meu toque! É tão alegre. Não tens vergonha de fazer isso com a tua irmã?"
 
-# game/scripts/story_01/fantasy.rpy:62 #-#-# translate crowdin ev_099_alice_bath_hj_7e30a4ff:
+# game/scripts/story_01/fantasy.rpy:78 #-#-# translate crowdin ev_099_alice_bath_hj_7e30a4ff:
 msgid "[_Max_s_04_] Ни капельки! Особенно, когда твои ручки сами тянутся сделать мне приятно..."
 msgstr "[Nem um bocadinho! Especialmente quando as tuas mãos estão a estender-se para me fazer sentir bem....."
 
-# game/scripts/story_01/fantasy.rpy:63 #-#-# translate crowdin ev_099_alice_bath_hj_213eceb8:
+# game/scripts/story_01/fantasy.rpy:79 #-#-# translate crowdin ev_099_alice_bath_hj_213eceb8:
 msgid "[_Alice_s_05_] Ты уже такой твёрдый и горячий! Хочешь побыстрее, да? Я чувствую, что хочешь..."
 msgstr "[Já estás tão duro e quente! Queres ir mais depressa, não queres? Sinto que queres..."
 
-# game/scripts/story_01/fantasy.rpy:64 #-#-# translate crowdin ev_099_alice_bath_hj_4590e781:
+# game/scripts/story_01/fantasy.rpy:80 #-#-# translate crowdin ev_099_alice_bath_hj_4590e781:
 msgid "[_Max_s_08_] И жёстче! Обхвати его посильнее..."
 msgstr "[E com mais força! Envolve os teus braços à volta dele com mais força..."
 
-# game/scripts/story_01/fantasy.rpy:68 #-#-# translate crowdin ev_099_alice_bath_hj_d1bebf50:
+# game/scripts/story_01/fantasy.rpy:84 #-#-# translate crowdin ev_099_alice_bath_hj_d1bebf50:
 msgid "[_Alice_s_08_] Вот так тебе нравится, да? Какой же он у тебя всё-таки большой... Поражаюсь раз за разом, как мне удаётся с ним справиться! Не сдерживайся, а то мои бедные ручки начинают уставать..."
 msgstr "[É assim que gostas, não é? Afinal, ele é tão grande.... Estou espantada com a forma como consigo lidar com ele vezes sem conta! Não te contenhas, as minhas pobres mãos estão a ficar cansadas...."
 
-# game/scripts/story_01/fantasy.rpy:70 #-#-# translate crowdin ev_099_alice_bath_hj_7ea9df1b:
+# game/scripts/story_01/fantasy.rpy:86 #-#-# translate crowdin ev_099_alice_bath_hj_7ea9df1b:
 msgid "[_Max_s_10_] Ох, Алиса! Может, с ним и непросто справиться, но у тебя классно получается... Давай ещё немного... Ммм... Я сейчас кончу! [nointeract]"
 msgstr "[Oh, Alice! Ele pode não ser fácil de lidar, mas estás a ir muito bem.... Vamos fazer mais um bocadinho. Mmm. Eu vou-me vir! [nointeract]"
 
-# game/scripts/story_01/fantasy.rpy:78 #-#-# translate crowdin ev_099_alice_tv_bj_73bb0fce:
+# game/scripts/story_01/fantasy.rpy:96 #-#-# translate crowdin ev_099_alice_tv_bj_73bb0fce:
 msgid "[_Alice_s_06_] Сейчас я буду немножко занята, а ты смотри по сторонам. Если услышишь, что кто-то идёт, дай мне знать. Не хочу придумывать объяснение тому, чем мы с тобой занимаемся..."
 msgstr "[Vou estar um pouco ocupado agora, por isso mantenham os olhos abertos. Se ouvires alguém a chegar, avisa-me. Não quero ter de arranjar uma explicação para o que estamos a fazer..."
 
-# game/scripts/story_01/fantasy.rpy:79 #-#-# translate crowdin ev_099_alice_tv_bj_68157847:
+# game/scripts/story_01/fantasy.rpy:97 #-#-# translate crowdin ev_099_alice_tv_bj_68157847:
 msgid "[_Max_s_03_] Как будто нужно объяснять, что мой член делал у тебя во рту? И так всё понятно!"
 msgstr "[Como se eu tivesse de explicar o que a minha pila estava a fazer na tua boca? É tão claro!"
 
-# game/scripts/story_01/fantasy.rpy:81 #-#-# translate crowdin ev_099_alice_tv_bj_5a1b81f3:
+# game/scripts/story_01/fantasy.rpy:99 #-#-# translate crowdin ev_099_alice_tv_bj_5a1b81f3:
 msgid "[_Alice_s_04_] Макс, я серьёзно, будь начеку! Ну, а я, в свою очередь, постараюсь сделать так, чтобы ты кончил как можно быстрее... [nointeract]"
 msgstr "[Max, estou a falar a sério, fica atento! Bem, eu, por minha vez, vou tentar fazer-te vir o mais depressa possível... [nointeract]"
 
-# game/scripts/story_01/fantasy.rpy:87 #-#-# translate crowdin ev_099_alice_tv_bj_b94f7df1:
+# game/scripts/story_01/fantasy.rpy:106 #-#-# translate crowdin ev_099_alice_tv_bj_b94f7df1:
 msgid "[_tMax_s_01_] Ухх... Алиса знает, как продемонстрировать свою соблазнительную попку во всей красе! Так и хочется по ней шлёпнуть... Правда, это может оказаться не самой лучшей идеей, ведь ротик Алисы сейчас занят моим членом..."
 msgstr "[_tMax_s_01_] Uhhh... A Alice sabe como mostrar o seu rabo sedutor em toda a sua glória! Eu gostava de lhe dar uma bofetada... Mas isso pode não ser a melhor ideia, porque a boca da Alice está atualmente ocupada pela minha pila...."
 
-# game/scripts/story_01/fantasy.rpy:91 #-#-# translate crowdin ev_099_alice_tv_bj_00b9f078:
+# game/scripts/story_01/fantasy.rpy:111 #-#-# translate crowdin ev_099_alice_tv_bj_00b9f078:
 msgid "[_tMax_s_08_] Ммм... Она так сладко скользит своими сочными губками по всей длине моего члена! Д-а-а... Так приятно..."
 msgstr "[_tMax_s_08_] Mmm... Ela desliza os seus lábios deliciosos tão docemente ao longo do comprimento da minha pila! Yaahhhh... Sabe tão bem..."
 
-# game/scripts/story_01/fantasy.rpy:92 #-#-# translate crowdin ev_099_alice_tv_bj_e3ab5bc4:
+# game/scripts/story_01/fantasy.rpy:112 #-#-# translate crowdin ev_099_alice_tv_bj_e3ab5bc4:
 msgid "[_Max_s_09_] Ох, Алиса, какие же у тебя нежные губки! Просто отпад... Давай ещё... Вот умница! И про головку не забывай..."
 msgstr "[Oh, Alice, que lábios macios tu tens! São espectaculares. Dá-me mais. Isso é que é uma boa rapariga. Não te esqueças da cabeça..."
 
-# game/scripts/story_01/fantasy.rpy:101 #-#-# translate crowdin ev_099_alice_tv_bj_44469ed3:
+# game/scripts/story_01/fantasy.rpy:121 #-#-# translate crowdin ev_099_alice_tv_bj_44469ed3:
 msgid "[_tMax_s_08_] Охх... Как же жёстко она начала сосать! Явно хочет, чтобы мне надолго запомнилось то, что может вытворять её горячий ротик с моим членом... Как же это классно..."
 msgstr "[_tMax_s_08_] Ohhh... Ela começou a chupar com tanta força! Claramente ela quer que eu me lembre por muito tempo do que a sua boca quente pode fazer ao meu pau.... É tão bom..."
 
-# game/scripts/story_01/fantasy.rpy:106 #-#-# translate crowdin ev_099_alice_tv_bj_5595c3d5:
+# game/scripts/story_01/fantasy.rpy:126 #-#-# translate crowdin ev_099_alice_tv_bj_5595c3d5:
 msgid "[_tMax_s_09_] Вот чёрт! Она сосёт всё быстрее и быстрее... Ещё и экспериментировать успевает! То так язычком поработает, то так ручкой поможет... Как же мне повезло!"
 msgstr "[Oh, merda! Ela está a chupar cada vez mais depressa... Ela também está a fazer experiências! Ela faz isto com a língua, aquilo com a mão... Tenho tanta sorte!"
 
-# game/scripts/story_01/fantasy.rpy:108 #-#-# translate crowdin ev_099_alice_tv_bj_3c638f51:
+# game/scripts/story_01/fantasy.rpy:128 #-#-# translate crowdin ev_099_alice_tv_bj_3c638f51:
 msgid "[_Max_s_10_] Да, Алиса! Это просто непередаваемо... Я уже больше не могу сдерживаться... Ухх... Сейчас кончу! [nointeract]"
 msgstr "[Sim, Alice! É simplesmente indescritível... Não me consigo conter mais... Ohhhh. Vou-me vir! [nointeract]"
 
-# game/scripts/story_01/fantasy.rpy:115 #-#-# translate crowdin ev_099_alice_in_shower_ce7afe95:
+# game/scripts/story_01/fantasy.rpy:138 #-#-# translate crowdin ev_099_alice_in_shower_ce7afe95:
 msgid "[_Alice_s_04_] Ухх... А ты настойчивый, Макс! Я люблю, когда на меня оказывают такой... большой напор... Есть идеи, чем мы могли бы заняться?"
 msgstr "[_Alice_s_04_] Uh-huh. És persistente, Max! Adoro quando recebo esse tipo de... muita pressão. Alguma ideia do que podemos fazer?"
 
-# game/scripts/story_01/fantasy.rpy:116 #-#-# translate crowdin ev_099_alice_in_shower_11fa879e:
+# game/scripts/story_01/fantasy.rpy:139 #-#-# translate crowdin ev_099_alice_in_shower_11fa879e:
 msgid "[_Max_s_11_] Ещё бы! С такой сексуальной развратницей, как ты, много всего приятного хочется попробовать... Только далеко не всё из этого будет удобно делать в душе."
 msgstr "[Podes crer! Com uma puta sexy como tu, há muitas coisas boas que eu gostaria de experimentar... Mas nem tudo será conveniente para fazer no duche."
 
-# game/scripts/story_01/fantasy.rpy:118 #-#-# translate crowdin ev_099_alice_in_shower_49deca2b:
+# game/scripts/story_01/fantasy.rpy:141 #-#-# translate crowdin ev_099_alice_in_shower_49deca2b:
 msgid "[_Alice_s_05_] Какая жалость, что вариантов стало намного меньше... Но меня очень радует то, что так нельзя сказать о размере твоего члена! Похоже, он уже к чему-то готов? [nointeract]"
 msgstr "[_Alice_s_05_] É uma pena que haja tantas opções a menos.... Mas fico muito feliz por não se poder dizer o mesmo do tamanho da pila! Parece que já está pronto para alguma coisa? [nointeract]"
 
-# game/scripts/story_01/fantasy.rpy:122 #-#-# translate crowdin ev_099_alice_in_shower_408f6585:
+# game/scripts/story_01/fantasy.rpy:146 #-#-# translate crowdin ev_099_alice_in_shower_408f6585:
 msgid "[_Alice_s_07_] Ммм... Да, ты прав, от такого удовольствия было бы глупо отказываться. Хотя, это так неправильно, позволять своему брату скользить руками по всему моему телу... Но к чёрту, продолжай... Мне нравится, как ты это делаешь!"
 msgstr "[_Alice_s_07_] Mmm. Sim, tens razão, um prazer destes seria uma tolice recusar. No entanto, é tão errado deixar o meu irmão passar as mãos pelo meu corpo... Mas que se lixe, continua. Adoro a forma como o fazes!"
 
-# game/scripts/story_01/fantasy.rpy:123 #-#-# translate crowdin ev_099_alice_in_shower_54e42792:
+# game/scripts/story_01/fantasy.rpy:147 #-#-# translate crowdin ev_099_alice_in_shower_54e42792:
 msgid "[_tMax_s_03_] Ещё как продолжу! Алиса так приятно постанывает от моих поцелуев, что будет преступлением, если мои губы обделят вниманием её мокренькую грудь..."
 msgstr "[Vou continuar! Alice está a gemer tão agradavelmente com os meus beijos que seria um crime se os meus lábios negligenciassem os seus pequenos seios molhados..."
 
-# game/scripts/story_01/fantasy.rpy:126 #-#-# translate crowdin ev_099_alice_in_shower_f5317705:
+# game/scripts/story_01/fantasy.rpy:151 #-#-# translate crowdin ev_099_alice_in_shower_f5317705:
 msgid "[_Alice_s_08_] Ах-х-х! Ты так приятно посасываешь мои сосочки... Ммм... Я чувствую, что твой дружок стал твёрже! Меня это очень возбуждает! Д-а-а..."
 msgstr "[Ahhhh! Estás a chupar os meus mamilos tão bem... Mmm... Consigo sentir o teu namorado a ficar mais duro! Estou mesmo excitada! [_Alice_s_08_] Sim..."
 
-# game/scripts/story_01/fantasy.rpy:127 #-#-# translate crowdin ev_099_alice_in_shower_0fffa511:
+# game/scripts/story_01/fantasy.rpy:152 #-#-# translate crowdin ev_099_alice_in_shower_0fffa511:
 msgid "[_Max_s_07_] Чёрт, я так обожаю ласкать её нежные сисечки! Такие мягкие и приятные, что аж отрываться не хочется... Ммм... А какие сосочки твёрденькие..."
 msgstr "[_Max_s_07_] Bolas, gosto tanto de acariciar as suas mamas delicadas! São tão macias e bonitas, que nem me consigo largar.... Mmm... E os mamilos dela são tão duros...."
 
-# game/scripts/story_01/fantasy.rpy:136 #-#-# translate crowdin ev_099_alice_in_shower_33555ef0:
+# game/scripts/story_01/fantasy.rpy:162 #-#-# translate crowdin ev_099_alice_in_shower_33555ef0:
 msgid "[_Alice_s_06_] Ох, как классно, Макс! Именно этого я и хотела... Он такой большой и горячий! Всё, о чём я сейчас думаю, это с каким наслаждением буду скользить киской по твоему мощному члену..."
 msgstr "[Oh, isso é tão bom, Max. É exatamente o que eu queria. Ele é tão grande e gostoso! Tudo o que consigo pensar agora é no prazer que vou ter ao deslizar a minha rata na tua pila poderosa...."
 
-# game/scripts/story_01/fantasy.rpy:137 #-#-# translate crowdin ev_099_alice_in_shower_764113f6:
+# game/scripts/story_01/fantasy.rpy:163 #-#-# translate crowdin ev_099_alice_in_shower_764113f6:
 msgid "[_Max_s_02_] Держись, сестрёнка, ведь я буду это делать всё быстрее и быстрее..."
 msgstr "[_Max_s_02_] Aguenta aí, mana, que eu vou fazer cada vez mais rápido..."
 
-# game/scripts/story_01/fantasy.rpy:141 #-#-# translate crowdin ev_099_alice_in_shower_33782f8c:
+# game/scripts/story_01/fantasy.rpy:168 #-#-# translate crowdin ev_099_alice_in_shower_33782f8c:
 msgid "[_Alice_s_09_] О да! Тебе нравится тереться о мою мокрую и нежную киску, да? Ухх... Как мощно ты проскальзываешь через мои ножки... Д-а-а..."
 msgstr "[Oh sim! Gostas de esfregar a minha rata molhada e macia, não gostas? Uhhhh... Como escorregas poderosamente pelas minhas pernas..... Sim..."
 
-# game/scripts/story_01/fantasy.rpy:142 #-#-# translate crowdin ev_099_alice_in_shower_c3ef6a84:
+# game/scripts/story_01/fantasy.rpy:169 #-#-# translate crowdin ev_099_alice_in_shower_c3ef6a84:
 msgid "[_Max_s_09_] Ох, Алиса, как же мне это нравится! Так приятно... Д-а-а... Ещё немного... Я еле сдерживаюсь... Вот, чёрт! Скоро кончу..."
 msgstr "[Oh, Alice, eu adoro isto! Sabe tão bem... Sim. Só mais um bocadinho... Mal me consigo conter... Oh, merda! Vou-me vir."
 
-# game/scripts/story_01/fantasy.rpy:144 #-#-# translate crowdin ev_099_alice_in_shower_a09c8924:
+# game/scripts/story_01/fantasy.rpy:171 #-#-# translate crowdin ev_099_alice_in_shower_a09c8924:
 msgid "[_Alice_s_10_] Да, Макс... Не сдерживайся! Я хочу, чтобы ты кончил так же сладко, как и я... Давай... [nointeract]"
 msgstr "[Sim, Max. Não te contenhas! Quero que te venhas tão docemente como eu... Vamos lá. [nointeract]"
 
-# game/scripts/story_01/fantasy.rpy:151 #-#-# translate crowdin ev_099_ann_bedroom_hj_9b65e129:
+# game/scripts/story_01/fantasy.rpy:182 #-#-# translate crowdin ev_099_lisa_in_shower_fd8a2a6b:
+msgid "[_Lisa_s_10_] Макс, ты что?! Мама же занимается йогой во дворе и запросто может увидеть, как мы..."
+msgstr "[Max, o que estás a fazer?! A mãe está a fazer ioga no quintal e pode ver-nos..."
+
+# game/scripts/story_01/fantasy.rpy:183 #-#-# translate crowdin ev_099_lisa_in_shower_6f000dc9:
+msgid "[_Max_s_11_] А что мы? Я проснулся с очень «приподнятым» настроением, а ты уже в ванную убежала. Неужели и здесь мне не поможешь?!"
+msgstr "[E nós? Acordei muito bem disposto e tu já estás na casa de banho. Não me podes ajudar aqui também?!"
+
+# game/scripts/story_01/fantasy.rpy:185 #-#-# translate crowdin ev_099_lisa_in_shower_b5d634ac:
+msgid "[_Lisa_s_11_] Ммм... Да, в мою попку упёрся такой большой намёк, что я уже не могу думать ни о чём другом. Только бы мама не увидела... [nointeract]"
+msgstr "[Mmm. Sim, tenho uma dica tão grande no meu rabo que já não consigo pensar noutra coisa. Não deixes a minha mãe ver. [nointeract]"
+
+# game/scripts/story_01/fantasy.rpy:191 #-#-# translate crowdin ev_099_lisa_in_shower_fd4d7d38:
+msgid "[_Lisa_s_06_] Охх... Кажется, такое объяснение не совсем сходится с тем, что делают твои руки на самом деле... Ах, Макс, это так приятно!"
+msgstr "[_Lisa_s_06_] Ohhh... Essa explicação não parece corresponder ao que as tuas mãos estão realmente a fazer... Oh, Max, isso sabe tão bem!"
+
+# game/scripts/story_01/fantasy.rpy:192 #-#-# translate crowdin ev_099_lisa_in_shower_e2a12735:
+msgid "[_Max_s_04_] Нам бы, конечно, стоило поторопиться, но с тобой мне хочется наслаждаться каждым моментом как можно дольше."
+msgstr "[Devíamos certamente apressar-nos, mas contigo, quero saborear cada momento o mais possível."
+
+# game/scripts/story_01/fantasy.rpy:193 #-#-# translate crowdin ev_099_lisa_in_shower_06ddacc4:
+msgid "[_Lisa_s_11_] Ммм... Мне тоже... Но если ты продолжишь, то мама наверняка услышит мои стоны."
+msgstr "[_Lisa_s_11_] Mmm. Eu também... Mas se continuares, a mãe provavelmente vai ouvir-me a gemer."
+
+# game/scripts/story_01/fantasy.rpy:194 #-#-# translate crowdin ev_099_lisa_in_shower_4a4e4e0c:
+msgid "[_Max_s_01_] Тогда оставим это на попозже и перейдём к чему-нибудь менее шумному..."
+msgstr "[_Max_s_01_] Então vamos deixar isso para mais tarde e passar a algo menos ruidoso...."
+
+# game/scripts/story_01/fantasy.rpy:199 #-#-# translate crowdin ev_099_lisa_in_shower_ce45d9e4:
+msgid "[_tMax_s_07_] Как же приятно прижиматься к её мокрому телу в момент поцелуя! А ещё тискать эту нежную попку, пока её горячий язычок начинает всё активнее играть с моим!"
+msgstr "[Sentia-me tão bem a pressionar o seu corpo molhado enquanto a beijava! E também apertar aquele traseiro tenro enquanto a sua língua quente começava a brincar mais e mais com a minha!"
+
+# game/scripts/story_01/fantasy.rpy:208 #-#-# translate crowdin ev_099_lisa_in_shower_de204ffb:
+msgid "[_tMax_s_08_] Ухх... Когда Лиза начинает с таким энтузиазмом скользить своими губками по моему члену уже становится всё равно, увидит нас кто-то или нет. Настоящее блаженство!"
+msgstr "[_tMax_s_08_] Uhh... Quando a Lisa começa a deslizar os seus lábios sobre a minha pila com tanto entusiasmo, não importa se alguém nos vê ou não. É um verdadeiro êxtase!"
+
+# game/scripts/story_01/fantasy.rpy:213 #-#-# translate crowdin ev_099_lisa_in_shower_050d180d:
+msgid "[_tMax_s_09_] О да! Её страстный ротик хоть и с трудом, но всё лучше и лучше справляется с моим большим членом. Ещё совсем недавно она боялась даже прикоснуться к нему, а теперь с таким наслаждением отсасывает мне, что можно только похвалить!"
+msgstr "[Oh sim! A sua boca apaixonada está cada vez melhor a chupar o meu grande pénis, apesar de ser um pouco difícil. Ainda há pouco tempo ela tinha medo de lhe tocar, mas agora chupa-me com tanto prazer que só posso elogiá-la!"
+
+# game/scripts/story_01/fantasy.rpy:215 #-#-# translate crowdin ev_099_lisa_in_shower_8317c5df:
+msgid "[_Max_s_10_] Да, Лиза, да! Вот так... Какая ты умница! Ещё чуть-чуть и... я кончу... Ммм... Я уже больше не могу сдерживаться... [nointeract]"
+msgstr "[Sim, Lisa, sim! É isso mesmo! És tão inteligente! Só mais um bocadinho e, hum. Eu vou-me vir. Mmm. Não me consigo conter mais... [nointeract]"
+
+# game/scripts/story_01/fantasy.rpy:225 #-#-# translate crowdin ev_099_lisa_by_pool_3fc0b6f6:
+msgid "[_Lisa_s_05_] Ты зря, Макс, не купаешься. Водичка просто прелесть. Поплавай, не пожалеешь..."
+msgstr "[Não devias ir nadar, Max. A água está óptima. Vai dar um mergulho, não te vais arrepender....."
+
+# game/scripts/story_01/fantasy.rpy:226 #-#-# translate crowdin ev_099_lisa_by_pool_4367bd92:
+msgid "[_Max_s_03_] Не сомневаюсь. Я как раз собирался, но заприметил кое-что ещё более прелестное... И прямо ОЧЕНЬ!"
+msgstr "[Tenho a certeza que sim. Ia agora mesmo fazê-lo, mas vi algo ainda mais adorável.... E MUITO!"
+
+# game/scripts/story_01/fantasy.rpy:228 #-#-# translate crowdin ev_099_lisa_by_pool_275f8e29:
+msgid "[_Lisa_s_02_] Нууу... Судя по тому, куда ты смотришь, это либо наш дом, либо моя... [nointeract]"
+msgstr "[_Lisa_s_02_] Bem... De onde estás a olhar, ou é a nossa casa ou é a minha... [nointeract]"
+
+# game/scripts/story_01/fantasy.rpy:235 #-#-# translate crowdin ev_099_lisa_by_pool_4784616d:
+msgid "[_Lisa_s_03_] Ой! Неужто это ты на мои ножки так заглядывался? А мне показалось..."
+msgstr "[Estavas a olhar assim para as minhas pernas? Pensei que estava."
+
+# game/scripts/story_01/fantasy.rpy:236 #-#-# translate crowdin ev_099_lisa_by_pool_86eeb0d4:
+msgid "[_Max_s_04_] Ага, и на них тоже. Я вообще люблю, когда моя младшая сестрёнка такая... мокренькая..."
+msgstr "[Sim, com eles também. Eu geralmente adoro quando a minha irmãzinha está tão... molhada."
+
+# game/scripts/story_01/fantasy.rpy:237 #-#-# translate crowdin ev_099_lisa_by_pool_73bf2753:
+msgid "[_Lisa_s_11_] Надеюсь, ты не сильно ревнуешь, что это заслуга нашего бассейна?"
+msgstr "[Espero que não estejas com ciúmes por ser um mérito da nossa piscina?"
+
+# game/scripts/story_01/fantasy.rpy:238 #-#-# translate crowdin ev_099_lisa_by_pool_c794975a:
+msgid "[_Max_s_11_] Нет, ведь я могу много всего такого, что бассейну не под силу! Например, вот так..."
+msgstr "[Não, eu consigo fazer muitas coisas que uma piscina não consegue fazer! Por exemplo, isto."
+
+# game/scripts/story_01/fantasy.rpy:242 #-#-# translate crowdin ev_099_lisa_by_pool_c4b332cb:
+msgid "[_Lisa_s_06_] Ухх... Божечки, Макс, как приятно! Вот это да... Меня даже ножки еле держат от удовольствия! Д-а-а..."
+msgstr "[_Lisa_s_06_] Uh-huh. Oh meu Deus, Max, isso sabe tão bem! Uau... Eu mal consigo manter as minhas pernas juntas por causa do prazer! É."
+
+# game/scripts/story_01/fantasy.rpy:243 #-#-# translate crowdin ev_099_lisa_by_pool_1627ddc6:
+msgid "[_tMax_s_01_] А как ты думала, сестрёнка? Решила, что сможешь устоять передо мной? Большой просчёт..."
+msgstr "[O que pensavas, irmã? Pensaste que podias resistir-me? Grande erro de cálculo..."
+
+# game/scripts/story_01/fantasy.rpy:253 #-#-# translate crowdin ev_099_lisa_by_pool_d68f0618:
+msgid "[_Lisa_s_04_] Ммм... Твои губы всегда вытворяют с моими сосочками такое, что я начинаю терять голову от удовольствия!"
+msgstr "[_Lisa_s_04_] Mmm... Os teus lábios fazem sempre coisas nos meus mamilos que me fazem perder a cabeça de prazer!"
+
+# game/scripts/story_01/fantasy.rpy:254 #-#-# translate crowdin ev_099_lisa_by_pool_2d6be592:
+msgid "[_tMax_s_07_] Да, Лиза... Невозможно передать словами то, насколько я люблю их ласкать! Эти миленькие нежные сисечки достойны максимума моего внимания..."
+msgstr "[Sim, Lisa. As palavras não conseguem expressar o quanto eu adoro acariciá-las! Essas maminhas fofas e tenras merecem o máximo da minha atenção....."
+
+# game/scripts/story_01/fantasy.rpy:255 #-#-# translate crowdin ev_099_lisa_by_pool_8fa11a58:
+msgid "[_Lisa_s_05_] Ах, Макс! Как же меня заводит твой член возле моей попки... Ммм... Он так настойчиво об неё трётся. Как будто чего-то хочет?"
+msgstr "[_Lisa_s05_] Oh, Max! Como o teu pau perto do meu cu me excita..... Mmm. Está a esfregar-se contra ele com tanta insistência. Como se ele quisesse alguma coisa?"
+
+# game/scripts/story_01/fantasy.rpy:256 #-#-# translate crowdin ev_099_lisa_by_pool_19aac91e:
+msgid "[_Max_s_04_] А как же! Свою частичку наслаждения..."
+msgstr "[Claro! O meu pequeno prazer..."
+
+# game/scripts/story_01/fantasy.rpy:260 #-#-# translate crowdin ev_099_lisa_by_pool_7c7b7244:
+msgid "[_Lisa_s_06_] Я знаю, что ему понравится... О да! Вот так... Ухх... Макс, он стал ещё твёрже и больше... Мне так это нравится!"
+msgstr "[Sei que ele vai adorar. Oh, sim! Aqui tens. Uhhhh... Max, ele está a ficar ainda mais duro e maior.... Eu adoro-o tanto!"
+
+# game/scripts/story_01/fantasy.rpy:261 #-#-# translate crowdin ev_099_lisa_by_pool_e853ac2f:
+msgid "[_Max_s_10_] Ох, чёрт! Д-а-а... Ты так обалденно трёшься о него своей мокренькой попкой! Прижми его ещё сильнее... Я еле сдерживаюсь... Ещё немного и кончу!"
+msgstr "[Oh, merda! Oh, merda! Estás a esfregar o teu cuzinho molhado nele tão bem! Aperta-o ainda com mais força... Não me consigo conter. Só mais um bocadinho e venho-me!"
+
+# game/scripts/story_01/fantasy.rpy:263 #-#-# translate crowdin ev_099_lisa_by_pool_8403af91:
+msgid "[_Lisa_s_07_] Да, Макс... Я прямо таю от того, какой он горячий! Ммм... Давай, не сдерживайся! [nointeract]"
+msgstr "[Sim, Max. Estou a derreter de tão quente que ele é! Mmm. Vá lá, não te retraias! [nointeract]"
+
+# game/scripts/story_01/fantasy.rpy:272 #-#-# translate crowdin ev_099_lisa_doing_homework_97371af2:
+msgid "[_Lisa_s_09_] Макс, смотри... Я сделала всё, что нам задали в школе. Можешь, пожалуйста, проверить своим свежим взглядом, всё ли у меня правильно? У меня голова уже плохо соображает..."
+msgstr "[Max, olha... Fiz tudo o que nos foi dado na escola. Podes, por favor, verificar com os teus olhos frescos se fiz tudo corretamente? A minha cabeça não está a pensar bem..."
+
+# game/scripts/story_01/fantasy.rpy:273 #-#-# translate crowdin ev_099_lisa_doing_homework_16f9f7b6:
+msgid "[_Max_s_11_] Многовато тут проверять... Ты же поможешь мне не заскучать в процессе?"
+msgstr "[É muita coisa para verificar... Vais ajudar-me a não me aborrecer durante o processo, certo?"
+
+# game/scripts/story_01/fantasy.rpy:275 #-#-# translate crowdin ev_099_lisa_doing_homework_fb5270ed:
+msgid "[_Lisa_s_11_] Нууу... Смотря, как? Я бы могла что-нибудь сделать для тебя, пока ты разбираешься с моей домашней работой... [nointeract]"
+msgstr "[Bem... Que tal? Posso fazer uma coisa para ti enquanto tratas dos meus trabalhos de casa... [nointeract]"
+
+# game/scripts/story_01/fantasy.rpy:282 #-#-# translate crowdin ev_099_lisa_doing_homework_2eb0d1f7:
+msgid "[_Lisa_s_02_] Это можно... Я постараюсь делать это легонько и нежно, чтобы не слишком тебя отвлекать. Смотрю, ты уже во всю приободрился!"
+msgstr "[Não faz mal. Vou tentar fazê-lo de forma leve e delicada para não a distrair demasiado. Vejo que já está a animar-se!"
+
+# game/scripts/story_01/fantasy.rpy:283 #-#-# translate crowdin ev_099_lisa_doing_homework_83eed4de:
+msgid "[_Max_s_04_] Легонько - это как раз то, что нужно. Ты всё делаешь правильно..."
+msgstr "[Gentil é exatamente o que precisas. Está a fazer tudo bem..."
+
+# game/scripts/story_01/fantasy.rpy:284 #-#-# translate crowdin ev_099_lisa_doing_homework_e7d86485:
+msgid "[_Lisa_s_11_] Хи-хи... Это ты про то, что написано у меня в тетради или про то, как двигаются мои ножки?"
+msgstr "[Hee-hee. Isto é sobre o que está escrito no meu caderno ou sobre a forma como as minhas pernas se mexem?"
+
+# game/scripts/story_01/fantasy.rpy:285 #-#-# translate crowdin ev_099_lisa_doing_homework_046bd1cd:
+msgid "[_Max_s_05_] У тебя и с домашним заданием пока всё в порядке, и... Ухх... Д-а-а... Твои ножки просто чудо! Ты умничка, Лиза!"
+msgstr "[Estás a fazer bem os trabalhos de casa até agora e... Uhh. Sim. As tuas pernas são fantásticas! És uma boa rapariga, Lisa!"
+
+# game/scripts/story_01/fantasy.rpy:289 #-#-# translate crowdin ev_099_lisa_doing_homework_56961145:
+msgid "[_Lisa_s_03_] Ой, спасибо! Я рада, что тебе нравится... Может, ты хочешь немножко быстрее? Мне не сложно..."
+msgstr "[Oh, obrigada! Ainda bem que gostaste... Talvez queiras ir um pouco mais depressa? Para mim não há problema..."
+
+# game/scripts/story_01/fantasy.rpy:290 #-#-# translate crowdin ev_099_lisa_doing_homework_241d0e0d:
+msgid "[_Max_s_06_] Ммм... Очень хочу! Да, вот так уроки проверять гораздо интереснее! Так держать..."
+msgstr "[_Max_s_06_] Mmm. Eu quero mesmo! Sim, é muito mais divertido testar lições como esta! Muito bem..."
+
+# game/scripts/story_01/fantasy.rpy:291 #-#-# translate crowdin ev_099_lisa_doing_homework_7edbfbfc:
+msgid "[_Lisa_s_05_] У тебя хоть немного получается сосредоточить внимание на моей домашней работе? А то я начинаю сильно увлекаться от того, насколько ты возбуждён..."
+msgstr "[Tens jeito para te concentrares nos meus trabalhos de casa? Caso contrário, estou a começar a ficar muito entusiasmada com o teu entusiasmo..."
+
+# game/scripts/story_01/fantasy.rpy:292 #-#-# translate crowdin ev_099_lisa_doing_homework_aea8f490:
+msgid "[_Max_s_01_] По крайней мере, внимания хватило, чтобы усомниться вот в этом моменте..."
+msgstr "[_Max_s_01_] Pelo menos houve atenção suficiente para questionar este ponto...."
+
+# game/scripts/story_01/fantasy.rpy:302 #-#-# translate crowdin ev_099_lisa_doing_homework_da29fc1c:
+msgid "[_Lisa_s_12_] Что?! Хочешь сказать, у меня тут ошибка? Ну-ка, ну-ка... Покажи где..."
+msgstr "[O quê?! Está a dizer que tenho um erro aqui? Deixa-me ver, deixa-me ver. Mostra-me onde."
+
+# game/scripts/story_01/fantasy.rpy:303 #-#-# translate crowdin ev_099_lisa_doing_homework_251d5d15:
+msgid "[_Max_s_03_] Не видишь? Смотри внимательнее... Или я многого прошу и ты слишком сосредоточена на моём члене?"
+msgstr "[Não consegues ver? Olha mais de perto... Ou será que estou a pedir demasiado e estás demasiado concentrado na minha pila?"
+
+# game/scripts/story_01/fantasy.rpy:304 #-#-# translate crowdin ev_099_lisa_doing_homework_b1dd235b:
+msgid "[_Lisa_s_10_] Я... Ага, но... не полностью... Что-то я не могу понять, в чём ошиблась?"
+msgstr "[_Lisa_s_10_] Eu... Sim, mas... não completamente... Não consigo perceber onde é que errei."
+
+# game/scripts/story_01/fantasy.rpy:305 #-#-# translate crowdin ev_099_lisa_doing_homework_6e05230a:
+msgid "[_Max_s_07_] Ну как же... Ухх... Да, вот так мне нравится... В смысле, у тебя там большой недочёт!"
+msgstr "[Bem, e que tal isto? Uhhhh... Sim, é assim que eu gosto... Quero dizer, tens aí uma grande falha!"
+
+# game/scripts/story_01/fantasy.rpy:306 #-#-# translate crowdin ev_099_lisa_doing_homework_acd80484:
+msgid "[_Lisa_s_11_] И ещё какой! Даже обхватить полностью не получается... Ой, что я говорю! Всё, поняла о чём ты..."
+msgstr "[_Lisa_s_11_] É tão grande! Nem se consegue pôr os braços à volta dele completamente.... Oh, o que estou a dizer? Eu sei o que queres dizer."
+
+# game/scripts/story_01/fantasy.rpy:307 #-#-# translate crowdin ev_099_lisa_doing_homework_68c8b4c3:
+msgid "[_Max_s_01_] Вот молодчинка! Сейчас попробую проверить остальное..."
+msgstr "[Bom rapaz! Vou tentar verificar o resto agora..."
+
+# game/scripts/story_01/fantasy.rpy:311 #-#-# translate crowdin ev_099_lisa_doing_homework_b0354426:
+msgid "[_Lisa_s_05_] Серьёзно?! Может, лучше отложить моё домашнее задание, пока мы его кое-чем не забрызгали и спокойно закончить начатое?"
+msgstr "[A sério?! Talvez seja melhor pôr os meus trabalhos de casa de lado antes de o salpicarmos com alguma coisa e acabarmos calmamente o que começámos?"
+
+# game/scripts/story_01/fantasy.rpy:312 #-#-# translate crowdin ev_099_lisa_doing_homework_a16e1f23:
+msgid "[_Max_s_09_] Ты права, Лиза! А то придётся переписывать ещё больше, чем есть сейчас. Охх... Какие же у тебя приятные ручки... Ещё бы чуть быстрее и я точно кончу!"
+msgstr "[Tens razão, Lisa! Ou terei de reescrever ainda mais do que já escrevi. Ohhhh... Que belas mãos tu tens... Um bocadinho mais rápido e eu vou-me vir de certeza!"
+
+# game/scripts/story_01/fantasy.rpy:314 #-#-# translate crowdin ev_099_lisa_doing_homework_a003395b:
+msgid "[_Lisa_s_06_] Ммм... Вот так, да? Ну же, Макс, не сдерживайся... Давай, я уже готова... [nointeract]"
+msgstr "[_Lisa_s_06_] Mm-hmm. É isso, não é? Vá lá, Max, não te retraias... Vá lá, estou pronto. [nointeract]"
+
+# game/scripts/story_01/fantasy.rpy:324 #-#-# translate crowdin ev_099_ann_bedroom_hj_9b65e129:
 msgid "[_Ann_s_01_] Время позднее, сынок... Зашёл пожелать маме спокойной ночи или тебя что-то волнует? Мне кажется, ты какой-то напряжённый?"
 msgstr ""
 
-# game/scripts/story_01/fantasy.rpy:152 #-#-# translate crowdin ev_099_ann_bedroom_hj_b13cb724:
+# game/scripts/story_01/fantasy.rpy:325 #-#-# translate crowdin ev_099_ann_bedroom_hj_b13cb724:
 msgid "[_Max_s_03_] Даже не знаю... Нельзя просто так взять и остаться равнодушным к тому, что ты сейчас делала своими пальчиками!"
 msgstr ""
 
-# game/scripts/story_01/fantasy.rpy:153 #-#-# translate crowdin ev_099_ann_bedroom_hj_d000d9f9:
+# game/scripts/story_01/fantasy.rpy:326 #-#-# translate crowdin ev_099_ann_bedroom_hj_d000d9f9:
 msgid "[_Ann_s_04_] Ой, виновата! Хорошо, что мне завтра не нужно вставать на работу, а потому я могу, совершенно не торопясь, тебе с этим помочь. Если хочешь?"
 msgstr ""
 
-# game/scripts/story_01/fantasy.rpy:154 #-#-# translate crowdin ev_099_ann_bedroom_hj_9b1fe0bf:
+# game/scripts/story_01/fantasy.rpy:327 #-#-# translate crowdin ev_099_ann_bedroom_hj_9b1fe0bf:
 msgid "[_Max_s_01_] О, я с удовольствием отдамся в твои нежные ручки..."
 msgstr ""
 
-# game/scripts/story_01/fantasy.rpy:158 #-#-# translate crowdin ev_099_ann_bedroom_hj_ceab83df:
+# game/scripts/story_01/fantasy.rpy:331 #-#-# translate crowdin ev_099_ann_bedroom_hj_ceab83df:
 msgid "[_Ann_s_06_] Ухх... Если бы ты только знал, как я рада, что ты вымахал до таких больших размеров! Как же повезёт женщинам, которые окажутся на моём месте..."
 msgstr ""
 
-# game/scripts/story_01/fantasy.rpy:159 #-#-# translate crowdin ev_099_ann_bedroom_hj_bff64cf9:
+# game/scripts/story_01/fantasy.rpy:332 #-#-# translate crowdin ev_099_ann_bedroom_hj_bff64cf9:
 msgid "[_Max_s_04_] Что я точно знаю, так это то, что им будет сложно сравниться с тобой, мам."
 msgstr ""
 
-# game/scripts/story_01/fantasy.rpy:160 #-#-# translate crowdin ev_099_ann_bedroom_hj_f3bf9f19:
+# game/scripts/story_01/fantasy.rpy:333 #-#-# translate crowdin ev_099_ann_bedroom_hj_f3bf9f19:
 msgid "[_Ann_s_03_] Ох, сынок, ты мне льстишь... Хотя, судя по тому, какой он у тебя горячий... и твёрдый... тебе и правда очень нравится."
 msgstr ""
 
-# game/scripts/story_01/fantasy.rpy:161 #-#-# translate crowdin ev_099_ann_bedroom_hj_f7364924:
+# game/scripts/story_01/fantasy.rpy:334 #-#-# translate crowdin ev_099_ann_bedroom_hj_f7364924:
 msgid "[_Max_s_08_] Да-а-а... Это так «по-особенному» приятно! Давай немного быстрее..."
 msgstr ""
 
-# game/scripts/story_01/fantasy.rpy:165 #-#-# translate crowdin ev_099_ann_bedroom_hj_f3ee603d:
+# game/scripts/story_01/fantasy.rpy:338 #-#-# translate crowdin ev_099_ann_bedroom_hj_f3ee603d:
 msgid "[_Ann_s_07_] Конечно, мой дорогой... Говоря по-правде, обожаю чувствовать в своих руках такой увесистый член! Меня и саму это как-то «по-особенному» заводит. Давай же, ты можешь кончить, куда захочешь..."
 msgstr ""
 
-# game/scripts/story_01/fantasy.rpy:167 #-#-# translate crowdin ev_099_ann_bedroom_hj_4bdd3497:
+# game/scripts/story_01/fantasy.rpy:340 #-#-# translate crowdin ev_099_ann_bedroom_hj_4bdd3497:
 msgid "[_Max_s_10_] Ахх... До чего же приятно! Я почти всё, мам... Скоро кончу! Давай ещё быстрее... Д-а-а... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/fantasy.rpy:176 #-#-# translate crowdin ev_099_end_af2082a3:
+# game/scripts/story_01/fantasy.rpy:349 #-#-# translate crowdin ev_099_end_af2082a3:
 msgid "[_tMax_s_04_] Фух... Какая у меня богатая фантазия! Надо бы теперь смыть следы моих «преступных» действий с воображаемыми девчонками. Вернее, девчонки-то настоящие, это действия воображаемые... [nointeract]"
 msgstr "[_tMax_s_04_] Ufa... Que imaginação tão rica que eu tenho! Agora tenho de lavar os vestígios das minhas acções \"criminosas\" com raparigas imaginárias. Ou melhor, as raparigas são reais, as acções é que são imaginárias.... [nointeract]"
 
@@ -236,47 +428,79 @@ msgstr "{i}Alice na televisão{/i}"
 msgid "{i}Алиса в душе{/i}"
 msgstr "{i}Alice no duche{/i}"
 
-# game/scripts/story_01/fantasy.rpy:25
+# game/scripts/story_01/fantasy.rpy:23
+msgid "{i}Лиза в душе{/i}"
+msgstr "{i}Lisa no duche{/i}"
+
+# game/scripts/story_01/fantasy.rpy:23
+msgid "{i}Лиза у бассейна{/i}"
+msgstr "{i}Lisa junto à piscina{/i}"
+
+# game/scripts/story_01/fantasy.rpy:23
+msgid "{i}Лиза за уроками{/i}"
+msgstr "{i}Lisa na aula{/i}"
+
+# game/scripts/story_01/fantasy.rpy:36
 msgid "{i}мама на своей кровати{/i}"
 msgstr "{i}mãe na sua cama{/i}"
 
-# game/scripts/story_01/fantasy.rpy:25
-msgid "{i}мама отсосёт мне на своей кровати{/i}"
-msgstr ""
-
-# game/scripts/story_01/fantasy.rpy:40
+# game/scripts/story_01/fantasy.rpy:54
 msgid "Хм... Даже не знаю, может быть..."
 msgstr "Hmm... Não sei, talvez."
 
-# game/scripts/story_01/fantasy.rpy:40
+# game/scripts/story_01/fantasy.rpy:54
 msgid "Меня уговаривать не придётся..."
 msgstr "Não terei de ser persuadido...."
 
-# game/scripts/story_01/fantasy.rpy:69
+# game/scripts/story_01/fantasy.rpy:85
 msgid "{i}кончить{/i}"
 msgstr ""
 
-# game/scripts/story_01/fantasy.rpy:80
+# game/scripts/story_01/fantasy.rpy:98
 msgid "Обстановка под контролем, так что не торопись..."
 msgstr "A situação está sob controlo, por isso não tenha pressa....."
 
-# game/scripts/story_01/fantasy.rpy:80
+# game/scripts/story_01/fantasy.rpy:98
 msgid "Тогда давай меньше разговоров, больше дела..."
 msgstr "Então vamos falar menos e fazer mais....."
 
-# game/scripts/story_01/fantasy.rpy:107
+# game/scripts/story_01/fantasy.rpy:127
 msgid "{i}кончить ей в ротик{/i}"
 msgstr "{i}ejacular na sua boca."
 
-# game/scripts/story_01/fantasy.rpy:117
+# game/scripts/story_01/fantasy.rpy:140
 msgid "Да, но мне хочется растянуть удовольствие..."
 msgstr "Sim, mas eu gostava de esticar o prazer..."
 
-# game/scripts/story_01/fantasy.rpy:117
+# game/scripts/story_01/fantasy.rpy:140
 msgid "Давай просунем его между твоих ножек..."
 msgstr "Vamos metê-lo entre as pernas....."
 
-# game/scripts/story_01/fantasy.rpy:175
+# game/scripts/story_01/fantasy.rpy:184
+msgid "Если что, я просто потёр тебе спинку..."
+msgstr "Quando muito, estava apenas a esfregar-lhe as costas....."
+
+# game/scripts/story_01/fantasy.rpy:184
+msgid "Насчёт мамы не волнуйся, я послежу..."
+msgstr "Não te preocupes com a mãe, eu tomo conta dela..."
+
+# game/scripts/story_01/fantasy.rpy:227
+msgid "Подходи поближе и узнаешь..."
+msgstr "Aproxime-se e descubra...."
+
+# game/scripts/story_01/fantasy.rpy:227
+msgid "Присаживайся и я покажу что..."
+msgstr "Sente-se e eu mostro-lhe o que....."
+
+# game/scripts/story_01/fantasy.rpy:274
+msgid "Поразвлекай меня своими ножками..."
+msgstr "Diverte-me com as tuas pernas..."
+
+# game/scripts/story_01/fantasy.rpy:274
+msgid "Поработай ручками со мной, а потом ещё и с домашкой..."
+msgstr "Trabalhem as vossas canetas comigo, e depois mais alguns trabalhos de casa....."
+
+# game/scripts/story_01/fantasy.rpy:348
 msgid "{i}закончить принимать душ{/i}"
 msgstr "{i}acabar de tomar um duche."
 
