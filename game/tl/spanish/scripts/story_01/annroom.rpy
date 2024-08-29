@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-06-18 22:58
+# TODO: Translation updated at 2024-08-14 23:38
 
 # game/scripts/story_01/annroom.rpy:12
 translate spanish ev_ann_dressed_d0c78fcb:

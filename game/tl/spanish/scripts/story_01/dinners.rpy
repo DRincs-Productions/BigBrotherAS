@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-06-18 22:58
+# TODO: Translation updated at 2024-08-14 23:38
 
 # game/scripts/story_01/dinners.rpy:31
 translate spanish ev_dinner_r1_24ac51ec:

@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-06-18 22:58
+# TODO: Translation updated at 2024-08-14 23:38
 
 translate spanish strings:
 
@@ -15,8 +15,8 @@ translate spanish strings:
     new "leer sobre arañas"
 
     # game/scripts/story_01/search.rpy:2
-    old "как обойти ограничения в вэб-трансляциях?"
-    new "¿cómo eludir las restricciones a los webcasts?"
+    old "как обойти ограничения в веб-трансляциях?"
+    new "¿cómo eludir las restricciones en los webcasts?"
 
     # game/scripts/story_01/search.rpy:2
     old "почитать о защите личных данных на компьютере"

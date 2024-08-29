@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-06-18 22:58
+# TODO: Translation updated at 2024-08-14 23:38
 
 translate italian strings:
 
@@ -191,8 +191,8 @@ translate italian strings:
     new "Dopo aver selezionato"
 
     # game/scripts/screens/screens.rpy:1150
-    old "После переходов"
-    new "Dopo le transizioni"
+    old "Переходы"
+    new "Transizioni"
 
     # game/scripts/screens/screens.rpy:1152
     old "Скорость текста"
