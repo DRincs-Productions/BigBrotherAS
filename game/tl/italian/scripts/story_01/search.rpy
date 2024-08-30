@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-06-18 22:58
+# TODO: Translation updated at 2024-08-14 23:38
 
 translate italian strings:
 
@@ -15,8 +15,8 @@ translate italian strings:
     new "leggere sui ragni"
 
     # game/scripts/story_01/search.rpy:2
-    old "как обойти ограничения в вэб-трансляциях?"
-    new "come aggirare le restrizioni sui webcast?"
+    old "как обойти ограничения в веб-трансляциях?"
+    new "come aggirare le restrizioni nei webcast?"
 
     # game/scripts/story_01/search.rpy:2
     old "почитать о защите личных данных на компьютере"

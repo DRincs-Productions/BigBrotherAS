@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-06-18 22:58
+# TODO: Translation updated at 2024-08-14 23:38
 
 translate spanish strings:
 
@@ -191,8 +191,8 @@ translate spanish strings:
     new "Tras seleccionar"
 
     # game/scripts/screens/screens.rpy:1150
-    old "После переходов"
-    new "Después de las transiciones"
+    old "Переходы"
+    new "Transiciones"
 
     # game/scripts/screens/screens.rpy:1152
     old "Скорость текста"

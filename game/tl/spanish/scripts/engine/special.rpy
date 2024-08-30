@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-06-18 22:58
+# TODO: Translation updated at 2024-08-14 23:38
 
 # game/scripts/engine/special.rpy:6
 translate spanish after_load_aa0b946c:

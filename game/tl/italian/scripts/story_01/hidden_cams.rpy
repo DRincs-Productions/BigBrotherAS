@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-06-18 22:58
+# TODO: Translation updated at 2024-08-14 23:38
 
 # game/scripts/story_01/hidden_cams.rpy:12
 translate italian ev_003_089bb89e:

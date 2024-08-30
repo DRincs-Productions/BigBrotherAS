@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-06-18 22:58
+# TODO: Translation updated at 2024-08-14 23:38
 
 translate spanish strings:
 
@@ -53,6 +53,10 @@ translate spanish strings:
     # game/scripts/engine/tasks.rpy:175
     old "Изучить книгу о создании сайтов."
     new "Estudia un libro sobre creación de páginas web."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Нужно просто ждать..."
+    new "Sólo tenemos que esperar..."
 
     # game/scripts/engine/tasks.rpy:175
     old "Чтобы усвоить весь материал, придётся читать с перерывами. Хотя бы по 3 часа..."
@@ -139,8 +143,8 @@ translate spanish strings:
     new ""
 
     # game/scripts/engine/tasks.rpy:175
-    old "Убедить Алису заняться эротическими вэб-трансляциями."
-    new "Convencer a Alice para que haga webcasting erótico."
+    old "Убедить Алису заняться эротическими веб-трансляциями."
+    new "Convence a Alice para que se dedique a la retransmisión erótica por Internet."
 
     # game/scripts/engine/tasks.rpy:175
     old "Нужно подойти к Алисе и поговорить с ней на эту тему..."
@@ -159,10 +163,6 @@ translate spanish strings:
     new "Ir a la tienda de ropa con Alice."
 
     # game/scripts/engine/tasks.rpy:175
-    old "Нужно просто ждать..."
-    new "Sólo tenemos que esperar..."
-
-    # game/scripts/engine/tasks.rpy:175
     old "Подарить Алисе тёмное нижнее бельё."
     new ""
 
@@ -171,8 +171,8 @@ translate spanish strings:
     new "Necesidad de dar a Alice un regalo cuando ella está en su habitación...."
 
     # game/scripts/engine/tasks.rpy:175
-    old "Узнать, начала ли Алиса вести вэб-трансляции в нижнем белье."
-    new "Para ver si Alice ha empezado a retransmitir en ropa interior."
+    old "Узнать, начала ли Алиса вести веб-трансляции в нижнем белье."
+    new "Para saber si Alice ha empezado a retransmitir en ropa interior."
 
     # game/scripts/engine/tasks.rpy:175
     old "Снова заговорить об этом с Алисой через какое-то время..."
@@ -187,8 +187,8 @@ translate spanish strings:
     new "Hackear al bloguero"
 
     # game/scripts/engine/tasks.rpy:175
-    old "Удивительно, но Алиса действительно собирается попробовать вести вэб-трансляции в нижнем белье. Ещё более удивительно то, что именно я умудрился её убедить в этом. Похоже, с деньгами у неё всё довольно туго, раз она хочет этим заняться. \nНу, а я хочу полюбоваться моей сексуальной сестрёнкой без риска для ушей и здоровья. Пускай она и выставила ограничения в настройках, чтобы никто в нашем регионе её не увидел, но я уверен, что смогу обойти эту защиту..."
-    new "Sorprendentemente, Alice va a intentar retransmitir en ropa interior. Lo que es aún más sorprendente es que yo soy el que logró convencerla de hacerlo. Supongo que el dinero es escaso si ella quiere hacerlo. \nBueno, quiero admirar a mi sexy hermana sin arriesgar mis oídos ni mi salud. Aunque ella ha configurado sus ajustes para que nadie de nuestra región pueda verla, estoy seguro de que puedo saltarme esa protección....."
+    old "Удивительно, но Алиса действительно собирается попробовать вести веб-трансляции в нижнем белье. Ещё более удивительно то, что именно я умудрился её убедить в этом. Похоже, с деньгами у неё всё довольно туго, раз она хочет этим заняться. \nНу, а я хочу полюбоваться моей сексуальной сестрёнкой без риска для ушей и здоровья. Пускай она и выставила ограничения в настройках, чтобы никто в нашем регионе её не увидел, но я уверен, что смогу обойти эту защиту..."
+    new "Sorprendentemente, Alice va a intentar retransmitir en ropa interior. Lo que es aún más sorprendente es que yo soy el que logró convencerla de hacerlo. Supongo que el dinero es escaso si ella quiere hacerlo. \nBueno, quiero admirar a mi sexy hermana sin arriesgar mis oídos o mi salud. Puede que haya configurado sus ajustes para que nadie de nuestra región pueda verla, pero estoy seguro de que puedo saltarme esa protección....."
 
     # game/scripts/engine/tasks.rpy:175
     old "Найти способ обойти ограничение трансляций Алисы."
@@ -327,16 +327,16 @@ translate spanish strings:
     new "Convence a Alice para que muestre su botín salvándola de la araña de la habitación."
 
     # game/scripts/engine/tasks.rpy:175
-    old "Добиться объятий Алисы, спасая её от паука во дворе."
-    new "Consigue el abrazo de Alice rescatándola de una araña en el patio."
-
-    # game/scripts/engine/tasks.rpy:175
     old "Убедить Алису обняться, спасая её от паука в душе."
     new "Convencer a Alice para abrazarla, salvarla de la araña en la ducha."
 
     # game/scripts/engine/tasks.rpy:175
     old "Нужно завершить задание «Стоит ли рисковать?»!"
     new "Tenemos que completar el reto \"¿Merece la pena arriesgarse?"
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Добиться объятий Алисы, спасая её от паука во дворе."
+    new "Consigue el abrazo de Alice rescatándola de una araña en el patio."
 
     # game/scripts/engine/tasks.rpy:175
     old "Без ущерба обнять Алису за попку, спасая её от паука в душе."
@@ -439,20 +439,68 @@ translate spanish strings:
     new "Lisa no parece saber nada de chicos. Tal vez ni siquiera había visto una porno antes, así que sorprendida por la habitual erección matutina. \nTal vez ¿debería hacer un poco de divulgación para mi hermana pequeña?"
 
     # game/scripts/engine/tasks.rpy:175
-    old "Поговорить с Лизой об утреннем инциденте."
-    new "Habla con Lisa sobre el incidente de esta mañana."
+    old "Посмотреть, как со временем будет меняться реакция Лизы на мои утренние стояки."
+    new "Para ver cómo la reacción de Lisa a mis erecciones matutinas cambiaría con el tiempo."
 
     # game/scripts/engine/tasks.rpy:175
-    old "Узнать, как Лиза отреагирует на мой следующий утренний стояк."
-    new "Para ver cómo reaccionaría Lisa a mi erección de la mañana siguiente."
+    old "Купить книгу о сексуальном образовании."
+    new "Compra un libro sobre educación sexual."
 
     # game/scripts/engine/tasks.rpy:175
-    old "Рано или поздно Лиза снова наткнётся на моё «приподнятое» утреннее состояние. Нужно просто ждать..."
-    new "Tarde o temprano Lisa volverá a encontrarse con mi estado matutino «empalmado». Sólo tenemos que esperar..."
+    old "Подарить Лизе книгу или сперва изучить её самому."
+    new "Dale el libro a Lisa o estúdialo tú primero."
 
     # game/scripts/engine/tasks.rpy:175
-    old "Дождаться следующего утреннего стояка и реакции Лизы на него."
-    new "Esperando la erección de la mañana siguiente y la reacción de Lisa ante ella."
+    old "Подобный выбор может иметь разные пути выполнения этого задания..."
+    new "Dicha elección puede tener diferentes formas de realizar esta tarea....."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Подарить книгу станет снова возможно после её полного изучения..."
+    new "Será posible volver a regalar el libro una vez que haya sido completamente explorado....."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Подождать, пока Лиза дочитает книгу."
+    new "Espera a que Lisa termine su libro."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Убедить Лизу на первый поцелуй."
+    new "Convencer a Lisa para un primer beso."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Нужно продвинуться в выполнении задания «Обедневшая блогерша»!"
+    new "¡Necesito avanzar en la tarea de \"bloguero empobrecido\"!"
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Нужно подойти к Лизе и поговорить с ней на эту тему, когда она находится в своей комнате..."
+    new "Tenemos que acercarnos a Lisa y hablarle de este tema cuando esté en su habitación....."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Убедить Лизу на второй поцелуй."
+    new "Convence a Lisa para un segundo beso."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Предложить Лизе снова поцеловаться."
+    new "Para pedirle a Lisa besarse de nuevo."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Нужно найти ранее подаренную Лизе книгу, пока её нет в нашей комнате..."
+    new "Tenemos que encontrar el libro previamente regalado de Lisa mientras no esté en nuestra habitación...."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Нужно полностью изучить книгу о сексуально образовании..."
+    new "Necesidad de explorar a fondo el libro de educación sexual....."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Попросить совета у Алисы и мамы по поцелуям."
+    new "Pedir consejo a Alice y a mamá sobre besos."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Нужно подойти и поговорить с ними на эту тему..."
+    new "Deberíamos ir y hablar con ellos al respecto....."
+
+    # game/scripts/engine/tasks.rpy:175
+    old "Нужно подойти к маме и поговорить с ней на эту тему..."
+    new "Tienes que acercarte a tu madre y hablarle de ello....."
 
     # game/scripts/engine/tasks.rpy:175
     old "Застенчивая школьница"
