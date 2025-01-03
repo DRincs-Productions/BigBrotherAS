@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-01-03 09:34\n"
+"PO-Revision-Date: 2025-01-03 11:03\n"
 
 # TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/engine/interact.rpy:37 #-#-# translate crowdin talks_start_41e41361:
 msgid "[_Alice_s_00_] Ну же, Макс, что хотел? [nointeract]"
@@ -162,7 +162,7 @@ msgstr "Ho deciso di esercitarmi..."
 
 # game/scripts/engine/interact.rpy:192
 msgid "Можно с тобой потренироваться?"
-msgstr "Posso esercitarmi con voi?"
+msgstr "Posso esercitarmi con te?"
 
 # game/scripts/engine/interact.rpy:192
 msgid "У меня для тебя обещанная вкусняшка!"
@@ -214,5 +214,5 @@ msgstr "Mamma, come si impara ad essere un buon baciatore?"
 
 # game/scripts/engine/interact.rpy:192
 msgid "У меня для тебя кое-что сладенькое!"
-msgstr "Ho qualcosa di dolce per voi!"
+msgstr "Ho qualcosa di dolce per te!"
 
