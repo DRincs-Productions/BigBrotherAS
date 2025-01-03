@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-08-15 08:58\n"
+"PO-Revision-Date: 2025-01-03 09:32\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/story_01/hidden_cams.rpy:12 #-#-# translate crowdin ev_003_089bb89e:
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/hidden_cams.rpy:12 #-#-# translate crowdin ev_003_089bb89e:
 msgid "[_tMax_s_13_] Так, мама попросила разобрать коробки. Сейчас глянем, что тут у нас..."
 msgstr "[_tMax_s_13_] Vale, mamá me ha pedido que deshaga las cajas. Vamos a ver lo que tenemos aquí..."
 
@@ -116,19 +116,7 @@ msgstr ""
 msgid "[_tMax_s_13_] Правда, подглядывать в окна или заглядывать в комнаты всё равно временами нужно, а то я всю сноровку растеряю и меня станут ловить на раз-два..."
 msgstr ""
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/hidden_cams.rpy:28
-msgid "Задание «Любопытное содержимое» обновлено!"
-msgstr "Se ha actualizado la oportunidad de «Contenidos curiosos»!"
-
-# game/scripts/story_01/hidden_cams.rpy:49
-msgid "Задание «Любопытное содержимое» завершено!"
-msgstr "La oprtunidad «Contenidos curiosos» está completa!"
-
-# game/scripts/story_01/hidden_cams.rpy:50
-msgid "Открыто новое задание «Способ заработать»!"
-msgstr "¡Una nueva oportunidad «Una forma de ganar dinero» está abierta!"
-
-# game/scripts/story_01/hidden_cams.rpy:75
+# §translate crowdin strings: #|#|# # game/scripts/story_01/hidden_cams.rpy:75
 msgid "{i}Оплатить всё ($150){/i}"
 msgstr "{i}Pagar todo ($150){/i}"
 
@@ -139,14 +127,6 @@ msgstr "{i}En otro momento..."
 # game/scripts/story_01/hidden_cams.rpy:81
 msgid "{i}настроить работу сайта{/i}"
 msgstr "{i}configurar el sitio{/i}"
-
-# game/scripts/story_01/hidden_cams.rpy:91
-msgid "Задание «Способ заработать» завершено!"
-msgstr "La oportunidad «Una forma de ganar dinero» está terminada!"
-
-# game/scripts/story_01/hidden_cams.rpy:92
-msgid "Открыто новое задание «Приумножение заработка»!"
-msgstr "Una nueva oportunidad «Aumente sus ingresos» está abierta!"
 
 # game/scripts/story_01/hidden_cams.rpy:142
 msgid "{i}пойти настроить камеру{/i}"
