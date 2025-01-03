@@ -10,333 +10,333 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-08-15 08:58\n"
+"PO-Revision-Date: 2025-01-03 09:32\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/items.rpy:216
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/items.rpy:222
 msgid "Одежда"
 msgstr "Ropa"
 
-# game/scripts/engine/items.rpy:216
+# game/scripts/engine/items.rpy:222
 msgid "Книги"
 msgstr "Libros"
 
-# game/scripts/engine/items.rpy:216
+# game/scripts/engine/items.rpy:222
 msgid "Продукты"
 msgstr "Comestibles"
 
-# game/scripts/engine/items.rpy:216
+# game/scripts/engine/items.rpy:222
 msgid "Электроника"
 msgstr "Electrónica"
 
-# game/scripts/engine/items.rpy:216
+# game/scripts/engine/items.rpy:222
 msgid "Товары 18+"
 msgstr "Productos +18"
 
-# game/scripts/engine/items.rpy:216
+# game/scripts/engine/items.rpy:222
 msgid "Косметика"
 msgstr "Cosméticos"
 
-# game/scripts/engine/items.rpy:216
+# game/scripts/engine/items.rpy:222
 msgid "Украшения"
 msgstr "Joyería"
 
-# game/scripts/engine/items.rpy:216
+# game/scripts/engine/items.rpy:222
 msgid "Другое"
 msgstr "Otros"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Паук"
 msgstr "Araña"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Самое страшное существо на свете. С точки зрения Алисы, конечно. Нужно этим воспользоваться в подходящий момент!"
 msgstr "La criatura más terrible del mundo. Desde el punto de vista de Alice, por supuesto. ¡Necesitas aprovechar esto en el momento adecuado!"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Скрытая камера"
 msgstr "Cámara oculta"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Высокотехнологичная микро-камера, предназначенная для скрытного наблюдения. Имеет радиомодуль для беспроводной передачи зашифрованного цифрового видеосигнала."
 msgstr "Microcámara de alta tecnología diseñada para la vigilancia sigilosa. Tiene un radiomódulo para la transmisión inalámbrica de señal de video digital encriptada."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Стремянка"
 msgstr "Escalera de mano"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Небольшая стремянка, позволяющая достать то, для чего не хватает роста"
 msgstr "Una pequeña escalera de mano que te permita alcanzar cosas para las que no eres lo suficientemente alto"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Масло для загара"
 msgstr "Aceite bronceador"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Лёгкий, хорошо впитывающийся препарат для ускорения загара обладает увлажняющими и защитными свойствами. Рекомендуется для применения на пляже и в солярии."
 msgstr "Acelerador del bronceado ligero y muy absorbente, con propiedades hidratantes y protectoras. Recomendado para su uso en la playa y en el solárium."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Комплект тёмного нижнего белья"
 msgstr "Conjunto de lencería negra"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Нижнее бельё тёмного цвета и отличного качества. Прекрасный подарок для любимой девушки, который предаст ей ещё больше сексуальности."
 msgstr "Lencería de color oscuro y excelente calidad. Un regalo perfecto para tu chica favorita, que la hará aún más sexy."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Шоколад \"Ritter Sport\" mini (9 штук)"
 msgstr "Chocolate \"Ritter Sport\" mini (9 uds)"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Шоколадное наслаждение для каждого случая... Множество лакомых сортов с лучшими ингредиентами со всего мира."
 msgstr "Delicia de chocolate para cada ocasión... Muchas variedades sabrosas con los mejores ingredientes de todo el mundo."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Шоколад \"Ritter Sport\" (4 штуки)"
 msgstr "Chocolate \"Ritter Sport\" (4 uds)"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Конфеты \"Raffaello\" (16 штук)"
 msgstr "Dulces \"Raffaello\" (16 uds)"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Хрустящие кокосовые конфеты с цельным миндальным орехом. Вместо тысячи слов..."
 msgstr "Crujiente caramelo de coco con almendras enteras. En lugar de mil palabras..."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Конфеты \"Raffaello\" (24 штуки)"
 msgstr "Dulces \"Raffaello\" (24 uds)"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Конфеты \"Ferrero Rocher\" (16 штук)"
 msgstr "Dulces \"Ferrero Rocher\" (16 uds)"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Сочетание цельного фундука и восхитительного сливочно-орехового крема в хрустящей вафельной оболочке подарит вам неповторимые вкусовые ощущения."
 msgstr "La combinación de avellanas enteras y deliciosa crema cremosa de nueces en una crujiente cáscara de gofre le dará una sensación de sabor única."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Конфеты \"Ferrero Rocher\" (24 штуки)"
 msgstr "Dulces \"Ferrero Rocher\" (24 uds)"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Шёлковый халат"
 msgstr "Bata de seda"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Короткий, лёгкий, почти шёлковый халат высшего качества."
 msgstr "Una bata corta, ligera, casi de seda, de la mejor calidad."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Красный купальник"
 msgstr "Bañador rojo"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Купальник для тех, кто не стесняется своего тела. Скрывает только самые интимные участки. Всё остальное открыто для солнца и глаз окружающих."
 msgstr "Un bañador para quienes no se avergüenzan de su cuerpo. Sólo oculta las zonas más íntimas. Todo lo demás queda abierto al sol y a los ojos de los demás."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Сигареты"
 msgstr "Cigarrillos"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Пачка сигарет Lucky Strike. Для настоящих мужчин!"
 msgstr "Un paquete de cigarrillos Lucky Strike. ¡Para hombres de verdad!"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Маленькое чёрное платье"
 msgstr "Pequeño vestido negro"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Отличный подарок для девушки, желающей произвести фурор на вечеринке или дискотеке."
 msgstr "Un regalo estupendo para una chica que quiera causar sensación en una fiesta o discoteca."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Любящая Руби"
 msgstr "Amando a Ruby"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Роман о запретной любви между секретаршей и её начальником, полный любви, страсти, эмоций и... мистики."
 msgstr "Una novela de amor prohibido entre una secretaria y su jefe, llena de amor, pasión, emoción y... misterio."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Премьер-министр"
 msgstr "Primer Ministro"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Новый эротический роман, входящий в Топ-10 лучших романов и новелл США!"
 msgstr "¡Un nuevo romance erótico en el Top 10 de las mejores novelas y novelas cortas de Estados Unidos!"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Быть куклой"
 msgstr "Ser una muñeca"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "В поместье Картера красивые девушки обучаются, чтобы стать идеальными жёнами для самых влиятельных людей этого мира."
 msgstr "En la Mansión Carter se entrena a hermosas chicas para que se conviertan en las esposas perfectas de los hombres más poderosos de este mundo."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Книга оргазмов"
 msgstr "El libro de los orgasmos"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Что получится, если собрать самые горячие истории об оргазмах от 69 различных авторов?"
 msgstr "¿Qué se obtiene cuando se reúnen las historias de orgasmos más calientes de 69 autores diferentes?"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "История О"
 msgstr "Historia de O"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Это история о доминировании и подчинении. История об одной прекрасной девушке по имени О."
 msgstr "Esta es una historia sobre la dominación y la sumisión. La historia trata de una hermosa chica llamada O."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Веб-стандарты"
 msgstr "Estándares web"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Книга рассказывает о способах создавать свои сайты, работающие на любых устройствах."
 msgstr "El libro explica cómo crear sitios web propios que funcionen en cualquier dispositivo."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Лёгкая пижама"
 msgstr "Pijama ligero"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Удобнейшие маечка и шортики. В них не жарко душными летними ночами, и так же уютно в течение всего года."
 msgstr "La camiseta de tirantes y los pantalones cortos más cómodos. Para no pasar calor en las sofocantes noches de verano y son igual de cómodos durante todo el año."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Ночнушка"
 msgstr "Picardías"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Полупрозрачные сорочка и трусики. Облегающий фасон подчёркивает все достоинства и изгибы фигуры, а лёгкое кружево придаст ещё больше сексуальности."
 msgstr "Camiseta y braguita semitransparentes. El corte ajustado realza todas las ventajas y curvas de la figura, y el ligero encaje aporta aún más sensualidad."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Набор косметики"
 msgstr "Conjunto de cosméticos"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Небольшой набор косметики для повседневного использования. Для женщин - только лучшее..."
 msgstr "Un pequeño set de cosméticos para uso diario. Para las mujeres, sólo lo mejor..."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Конфеты с ликёром"
 msgstr "Bombones con licor"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Шоколадные конфеты с ликёром. Уникальные ароматизаторы скрывают вкус алкоголя. Отлично поднимают настроение. Очень крепкие."
 msgstr "Caramelos de chocolate con licor. Sus aromas únicos ocultan el sabor del alcohol. Levantan el ánimo. Muy fuertes."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Секс-образование"
 msgstr "Educación sexual"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Книга обо всём, связанным с сексом. Отлично подходит для обучения подрастающего поколения."
 msgstr "Un libro sobre todo lo relacionado con el sexo. Ideal para enseñar a los más jóvenes."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Фотоаппарат"
 msgstr "Cámara"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Профессиональный фотоаппарат с объективом. Не новый, но в отличном состоянии. Подойдёт как для новичков, так и для профессионалов."
 msgstr "Cámara profesional con objetivo. No es nueva, pero está en excelentes condiciones. Adecuada tanto para principiantes como para profesionales."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Короткая пикантная сорочка"
 msgstr "Camiseta corta y picante"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Соблазнительная чёрная сорочка выполнена из эластичного тюля. В комплект так же входят трусики-стринги."
 msgstr "La seductora camiseta negra es de tul elástico. El conjunto también incluye braguitas tanga."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Чёрное сексуальное боди"
 msgstr "Body sexy negro"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Прозрачное сетчатое боди с открытой спиной чёрного цвета."
 msgstr "Body de malla transparente con espalda abierta en color negro."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Чёрное кружевное боди"
 msgstr "Body de encaje negro"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Женское сексуальное нижнее бельё с кружевным узором по краям."
 msgstr "Lencería sexy de mujer con estampado de encaje en los bordes."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Спортивные лиф и мини-шорты"
 msgstr "Top deportivo y minishorts"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Удобная, открытая и лёгкая одежда для занятий спортом. Так же она прекрасно подойдёт для отдыха на природе."
 msgstr "Prenda cómoda, abierta y ligera para actividades deportivas. También es perfecta para el ocio al aire libre."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Фильм \"Цвет ночи\" 1994 год"
 msgstr "El color de la noche, 1994"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Брюс Уиллис в роли нью-йоркского психолога, потерявшего пациентку - она выбросилась в окно прямо во время сеанса. Чтобы прийти в себя, он едет в Лос-Анджелес к своему другу, с которым они вместе учились..."
 msgstr "Bruce Willis como un psicólogo de Nueva York que ha perdido un paciente - se arrojó por la ventana durante una sesión. Para volver en sí, va a Los Ángeles a su amigo, con el que estudiaron juntos..."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Компромат на Эрика"
 msgstr "Compromiso Eric"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Снимок того, как Эрик по ночам дрочит на Алису у окна её комнаты."
 msgstr "Una foto de Eric masturbándose con Alice por la noche junto a la ventana de su habitación."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Снимки того, как Эрик по ночам сперва дрочил на Алису у окна её комнаты, а затем и в самой комнате."
 msgstr "Imágenes de cómo Eric por la noche se masturbaba primero con Alice en la ventana de su habitación, y luego dentro de su habitación."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Чёрный кожаный костюм для ролевых игр"
 msgstr "Disfraz de cuero negro para juegos de bdsm"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Женский сексуальный комплект из натуральной кожи чёрного цвета. Топ с воротничком и коротенькие шортики, которые застёгиваются на стильные заклёпки."
 msgstr "Conjunto sexy para mujer hecho de cuero genuino negro. Top con cuello y pantalones cortos, que se abrochan con elegantes remaches."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Чёрный кожаный стек"
 msgstr "Fusta de cuero negro"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Стек освежит и разнообразит ваши отношения. Шлепок на конце девайса воспитает дерзкого и непослушного партнера. Секс-игрушка откроет просторы истинного БДСМ."
 msgstr "La fusta refrescará y diversificará su relación. Un azote al final del acto revelará un compañero valiente y mezquino. Un juguete sexual abrirá los reinos del BDSM real."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Быстродействующее слабительное"
 msgstr "Laxante de acción rápida"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Эффективное слабительное средство. Эффект не заставит себя ждать. Деликатное решение деликатной проблемы."
 msgstr "Un laxante eficaz. El efecto no te hará esperar. Una solución delicada a un problema delicado."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Успокоительное средство"
 msgstr "Sedante"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Отлично подойдёт тем, кто не хочет перевозбуждаться. Только спокойствие и безмятежность. Перед применением следует обязательно проконсультироваться с врачом для определения нужной дозировки."
 msgstr "Perfecto para aquellos que no quieren emocionarse demasiado. Solo paz y serenidad. Antes de su uso, es necesario consultar a un médico para determinar la dosis deseada."
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "USB-флешка"
 msgstr "Memoria USB"
 
-# game/scripts/engine/items.rpy:227
+# game/scripts/engine/items.rpy:233
 msgid "Устройство для хранения и переноса цифровых данных. В данный момент, может быть использована для достижения некоторых целей."
 msgstr "Dispositivo para almacenar y transferir datos digitales. Actualmente puede utilizarse para cumplir algunos fines."
 
