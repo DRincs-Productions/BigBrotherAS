@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-01-03 09:32\n"
+"PO-Revision-Date: 2025-01-03 11:02\n"
 
 # TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/yoga.rpy:19 #-#-# translate crowdin forced_phys_ed_first_time_521877f4:
 msgid "[_Ann_s_11_] Макс, а ты почему не переоделся? У тебя же спортивная форма есть."
@@ -54,7 +54,7 @@ msgstr "[Ne t'inquiète pas, maman, je surveillerai ton cul juteux de très prè
 
 # game/scripts/story_01/yoga.rpy:43 #-#-# translate crowdin forced_phys_ed_first_time_9d1b3615:
 msgid "[_Ann_s_03_] Энергичнее, Макс! Как своей сестре докучать с утра пораньше - это ты можешь запросто, да?"
-msgstr ""
+msgstr "[_Ann_s_03_] Plus fort, Max ! Comme harceler ta sœur tôt le matin, tu peux le faire, n'est-ce pas ?"
 
 # game/scripts/story_01/yoga.rpy:46 #-#-# translate crowdin forced_phys_ed_first_time_6e238774:
 msgid "[_Ann_s_03_] Энергичнее, Макс! Как встать с утра пораньше и ходить где не следует - это ты можешь запросто, да?"
@@ -218,15 +218,15 @@ msgstr "[_tMax_s_14_] Ouf... Si je reprends ce cours, il faudra que je demande �
 
 # game/scripts/story_01/yoga.rpy:184 #-#-# translate crowdin forced_phys_ed_first_time_3e4d7262:
 msgid "[_Ann_s_04_] Устал? Нарушать личное пространство своей сестры ещё есть желание, а?"
-msgstr ""
+msgstr "[Fatigué ? Il y a toujours un désir de violer l'espace personnel de ta sœur, hein ?"
 
 # game/scripts/story_01/yoga.rpy:185 #-#-# translate crowdin forced_phys_ed_first_time_3dee1206:
 msgid "[_Max_s_12_] Вряд ли. Я виноват что ли, что у нас с ней одна комната на двоих?"
-msgstr ""
+msgstr "[Je ne pense pas. Est-ce ma faute si elle et moi partageons la même chambre ?"
 
 # game/scripts/story_01/yoga.rpy:186 #-#-# translate crowdin forced_phys_ed_first_time_5855f03f:
 msgid "[_Ann_s_01_] Понимаю, сынок, но вы уж как-то находите способ там уживаться без вот таких эксцессов. Иди давай, на этот раз с тебя хватит."
-msgstr ""
+msgstr "[Je comprends, fiston, mais tu trouves le moyen de t'en sortir sans ce genre d'embrouilles. Allez, tu en as eu assez cette fois-ci."
 
 # game/scripts/story_01/yoga.rpy:189 #-#-# translate crowdin forced_phys_ed_first_time_a73e69b9:
 msgid "[_Ann_s_04_] Устал? Силы ещё есть, чтобы шататься и подглядывать, а?"
@@ -246,11 +246,11 @@ msgstr "[_Ann_s_01_] C'est bon pour toi. Allez, tu en as eu assez cette fois, je
 
 # game/scripts/story_01/yoga.rpy:207 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_cd479767:
 msgid "[_Ann_s_10_] А что это мы такие невесёлые, а Макс? Но ничего, сейчас мы это изменим... Лишнюю одежду снимай, всё полегче будет. [nointeract]"
-msgstr ""
+msgstr "[Pourquoi sommes-nous si moroses, Max ? Mais c'est bon, on va changer ça. Enlève les vêtements en trop, ce sera plus facile. [nointeract]"
 
 # game/scripts/story_01/yoga.rpy:211 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_43bd8aaa:
 msgid "[_Ann_s_10_] А что это мы такие невесёлые, а Макс? Но ничего, сейчас мы это изменим..."
-msgstr ""
+msgstr "[Pourquoi sommes-nous si moroses, Max ? Mais ce n'est pas grave, on va changer ça maintenant...."
 
 # game/scripts/story_01/yoga.rpy:212 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_3621921b:
 msgid "[_Max_s_00_] Давай начинать..."
@@ -270,11 +270,11 @@ msgstr "[_Max_s_00_] Commençons..."
 
 # game/scripts/story_01/yoga.rpy:233 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_69b82c7c:
 msgid "[_Ann_s_10_] Если правда хочешь, то конечно. Только давай со всей ответственностью к этому подходи. Лишнюю одежду снимай, всё полегче будет. [nointeract]"
-msgstr ""
+msgstr "[Si vous le voulez vraiment, bien sûr. Il suffit d'adopter une approche responsable. Enlève tes vêtements, ce sera plus facile. [nointeract]"
 
 # game/scripts/story_01/yoga.rpy:237 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_d7dc4fd4:
 msgid "[_Ann_s_10_] Если правда хочешь, то конечно. Только давай со всей ответственностью к этому подходи."
-msgstr ""
+msgstr "[Si vous le voulez vraiment, bien sûr. Mais soyons responsables."
 
 # game/scripts/story_01/yoga.rpy:238 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_3621921b_2:
 msgid "[_Max_s_00_] Давай начинать..."
@@ -318,7 +318,7 @@ msgstr "[_Ann_s_01_] Passons donc aux exercices de base. Je fais du yoga, tu fai
 
 # game/scripts/story_01/yoga.rpy:268 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_8318dcd7:
 msgid "[_Ann_s_02_] Знаешь, что поможет тебе взбодриться? Упражнения на растяжку! Ты вон, как раз в шортах."
-msgstr ""
+msgstr "[Vous savez ce qui vous aidera à vous remonter le moral ? Des exercices d'étirement ! Tu portes un short."
 
 # game/scripts/story_01/yoga.rpy:269 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_49124f87:
 msgid "[_Max_s_12_] Ну, можно и потянуться ещё немного..."
@@ -326,7 +326,7 @@ msgstr "[_Max_s_12_] Eh bien, vous pouvez vous étirer un peu plus...."
 
 # game/scripts/story_01/yoga.rpy:274 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_45dbf1bb:
 msgid "[_Ann_s_04_] Давай вместе со мной. Гибкость лучше поддерживать с молодых лет, сынок. Если в это втянуться, то потом растягиваться станет даже приятно."
-msgstr ""
+msgstr "[Venez avec moi. Il est préférable d'entretenir la souplesse dès le plus jeune âge, fiston. Si tu t'y habitues, c'est un plaisir de s'étirer plus tard."
 
 # game/scripts/story_01/yoga.rpy:275 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_bf3fc7f2:
 msgid "[_tMax_s_03_] Про «потом» не знаю, а мне уже сейчас приятно растягиваться. Ещё бы, ведь мама у меня такая конфетка!"
@@ -442,7 +442,7 @@ msgstr "[_Max_s_14_] Allez, maman, ça suffit. J'ai mal au ventre."
 
 # game/scripts/story_01/yoga.rpy:369 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_8814e711:
 msgid "[_Ann_s_12_] Макс, давай сам попробуй, я ведь тоже занимаюсь. К тому же, я уже тебе помогаю тем, что даю ценные советы и слежу за тем, чтобы ты всё делал правильно."
-msgstr ""
+msgstr "[Max, pourquoi n'essaies-tu pas toi-même ? Je suis aussi un praticien. D'ailleurs, je t'aide déjà en te donnant de précieux conseils et en veillant à ce que tu fasses tout correctement."
 
 # game/scripts/story_01/yoga.rpy:372 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_acadcf1d:
 msgid "[_Ann_s_12_] Макс, давай сам попробуй, я ведь тоже занимаюсь. К тому же, я уже тебе помогаю тем, что даю возможность избежать наказания перед завтраком."
@@ -466,7 +466,7 @@ msgstr "[_tMax_s_14_] Ouf... Si je reprends ce cours, il faudra que je demande �
 
 # game/scripts/story_01/yoga.rpy:398 #-#-# translate crowdin forced_phys_ed_self_pump_abs_c2c8c688:
 msgid "[_Ann_s_04_] Ну как, устал? Нарушать личное пространство своей сестры ещё есть желание, а?"
-msgstr ""
+msgstr "[Tu es fatiguée ? Tu veux toujours violer la vie privée de ta soeur, hein ?"
 
 # game/scripts/story_01/yoga.rpy:399 #-#-# translate crowdin forced_phys_ed_self_pump_abs_9768155b:
 msgid "[_Max_s_12_] Вряд ли. Что точно хочется, так это завалиться на кровать и отлёживаться."
@@ -474,7 +474,7 @@ msgstr "[_Max_s_12_] Je ne pense pas que ce soit le cas. Ce que j'aimerais vraim
 
 # game/scripts/story_01/yoga.rpy:400 #-#-# translate crowdin forced_phys_ed_self_pump_abs_b3104ca2:
 msgid "[_Ann_s_01_] Иди давай, на этот раз с тебя хватит."
-msgstr ""
+msgstr "[Allez, vous en avez eu assez cette fois."
 
 # game/scripts/story_01/yoga.rpy:403 #-#-# translate crowdin forced_phys_ed_self_pump_abs_120ffe50:
 msgid "[_Ann_s_04_] Ну как, устал? Силы ещё есть, чтобы шататься и подглядывать, а?"
@@ -494,11 +494,11 @@ msgstr "[_Ann_s_01_] C'est bon pour toi. Allez, tu en as eu assez cette fois, je
 
 # game/scripts/story_01/yoga.rpy:412 #-#-# translate crowdin forced_phys_ed_self_pump_abs_c87bc545:
 msgid "[_Ann_s_04_] Ну как, устал? Вижу, что устал. Ты молодец, хорошо потренировался. На сегодня достаточно, иди, отдыхай."
-msgstr ""
+msgstr "[Es-tu fatiguée ? Je peux dire que tu es fatigué. Tu as fait du bon travail. Tu as eu une bonne séance d'entraînement. C'est assez pour aujourd'hui, va te reposer."
 
 # game/scripts/story_01/yoga.rpy:417 #-#-# translate crowdin forced_phys_ed_self_pump_abs_3f53e0d1:
 msgid "[_tMax_s_05_] Ухх... Какая же мама нереально сексуальная женщина! Уже сил терпеть нет, так и хочется взять и жёстко её оттрахать..."
-msgstr ""
+msgstr "[_tMax_s_05_] Uhhh... Maman est une femme tellement sexy ! Je n'en peux plus, j'ai envie de la baiser à fond...."
 
 # game/scripts/story_01/yoga.rpy:422 #-#-# translate crowdin forced_phys_ed_end_87ff48d3:
 msgid "[_Max_s_01_] Спасибо, мам."
