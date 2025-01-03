@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-01-03 09:34\n"
+"PO-Revision-Date: 2025-01-03 11:03\n"
 
 # TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/bathroom.rpy:10 #-#-# translate crowdin ev_ann_shower_c167172f:
 msgid "[_tMax_s_11_] Сейчас ванная комната должна быть занята мамой... [nointeract]"
@@ -558,43 +558,43 @@ msgstr "[_Max_s_11_] Mi dispiace, è così e basta! Non era mia intenzione..."
 
 # game/scripts/story_01/bathroom.rpy:922 #-#-# translate crowdin ev_alice_shower_excuses3_a20adce5:
 msgid "[_Alice_s_16_] А вот иди-ка ты нафиг со своими «случайными» подглядываниями за мной! Сейчас я тебе только ухо откручу и можешь валить..."
-msgstr "[Beh, vaffanculo a te e al tuo \"accidentale\" sbirciarmi! Ora ti svitero' l'orecchio e potrai andare su...."
+msgstr "[_Alice_s_16_] Beh, fanculo a te e al tuo “accidentale” sbirciarmi! Ti svito l'orecchio e poi puoi andare..."
 
 # game/scripts/story_01/bathroom.rpy:923 #-#-# translate crowdin ev_alice_shower_excuses3_a5c404c7:
 msgid "[_Max_s_16_] А-а-ай! Сдурела что ли?! Давай договоримся?"
-msgstr "[Ah-ah-ah! Sei impazzito? Possiamo fare un accordo?"
+msgstr "[_Max_s_16_] Aaaaah! Sei pazza?! Possiamo fare un accordo?"
 
 # game/scripts/story_01/bathroom.rpy:924 #-#-# translate crowdin ev_alice_shower_excuses3_2fa99505:
 msgid "[_Alice_s_15_] Не в этот раз, Макс! Я хочу, чтобы мама обязательно узнала, какой ты неугомонный извращенец..."
-msgstr "[Non questa volta, Max! Voglio che la mamma scopra con certezza che razza di pervertito irrequieto sei...."
+msgstr "[_Alice_s_15_] Non questa volta, Max! Voglio che la mamma sappia che razza di pervertito irrequieto sei..."
 
 # game/scripts/story_01/bathroom.rpy:925 #-#-# translate crowdin ev_alice_shower_excuses3_fb115ebb:
 msgid "[_Max_s_14_] А может не надо?"
-msgstr "[E se non lo facessimo?"
+msgstr "[_Max_s_14_] Forse non dovremmo?"
 
 # game/scripts/story_01/bathroom.rpy:927 #-#-# translate crowdin ev_alice_shower_excuses3_85a07641:
 msgid "[_Alice_s_11_] Ещё как надо! Всё, вали отсюда... [nointeract]"
-msgstr "[Sì, invece! Va bene, andatevene da qui. [nointeract]"
+msgstr "[_Alice_s_11_] Sì, è così! Esci di qui. [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:937 #-#-# translate crowdin ev_alice_shower_excuses3_19437504:
 msgid "[_Alice_s_11_] Давай-ка всё упростим до того, что ты сейчас уходишь покупать мне конфеты, а я их жду до ужина? Как тебе, а?!"
-msgstr "[Che ne dici di semplificare la cosa: tu vai a comprarmi le caramelle adesso e io aspetto fino a cena? Che ne dici, eh?"
+msgstr "[_Alice_s_11_] Che ne dici di semplificare la cosa: tu esci a comprarmi le caramelle e io aspetto fino a cena? Che ne dici, eh?!"
 
 # game/scripts/story_01/bathroom.rpy:938 #-#-# translate crowdin ev_alice_shower_excuses3_56446431:
 msgid "[_Max_s_12_] Можно и так... Спасибо, что не выкручиваешь мне уши!"
-msgstr "[Puoi farlo... Grazie per non avermi storto le orecchie!"
+msgstr "[_Max_s_12_] Si può fare... Grazie per non avermi tirato le orecchie!"
 
 # game/scripts/story_01/bathroom.rpy:939 #-#-# translate crowdin ev_alice_shower_excuses3_d1e75e3b:
 msgid "[_Alice_s_15_] Просто экономлю время, которое тебе лучше потратить на то, чтобы я в итоге осталась очень довольна этим."
-msgstr "[Risparmia solo il tempo che dovresti spendere per assicurarti che io ne sia molto soddisfatto."
+msgstr "[_Alice_s_15_] Ti faccio solo risparmiare tempo che sarebbe meglio spendere per assicurarmi che alla fine ne sia molto soddisfatta."
 
 # game/scripts/story_01/bathroom.rpy:940 #-#-# translate crowdin ev_alice_shower_excuses3_d18ba94e:
 msgid "[_Max_s_00_] Тогда я пойду, да?"
-msgstr "[Allora ci andrò, vero?"
+msgstr "[_Max_s_00_] Allora vado, va bene?"
 
 # game/scripts/story_01/bathroom.rpy:943 #-#-# translate crowdin ev_alice_shower_excuses3_59fac062:
 msgid "[_Alice_s_16_] Бегом! Извращенец тормозной... [nointeract]"
-msgstr "[Corri! Pervertito ritardato... [nointeract]"
+msgstr "[_Alice_s_16_] Vai! Pervertito ritardato... [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:954 #-#-# translate crowdin ev_alice_shower_day_5_ba0cb1cf:
 msgid "[_tMax_s_12_] Я должен постараться спасти Алису от наказания за курение в комнате, так что лучше не рисковать сегодня утром. Если попадусь, то меня накажут, да и Алису я не спасу... [nointeract]"
@@ -1252,7 +1252,7 @@ msgstr "{i}guardare dal cortile{/i}"
 
 # game/scripts/story_01/bathroom.rpy:9
 msgid "{i}подсмотреть со стремянки{/i}"
-msgstr "{i}sbirciando dalla scaletta."
+msgstr "{i}sbirciare dalla scaletta{/i}"
 
 # game/scripts/story_01/bathroom.rpy:52
 msgid "{i}продолжить подглядывать{/i}"
