@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-01-03 09:35\n"
+"PO-Revision-Date: 2025-01-03 16:07\n"
 
 # TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/mia.rpy:7 #-#-# translate crowdin ev_063_eb6a6385:
 msgid "[_tMax_s_11_] Звонок в ворота! Похоже, к нам кто-то приехал..."
@@ -630,27 +630,27 @@ msgstr "[_tMax_s_11_] Suona il campanello! Deve essere arrivata Mia..."
 
 # game/scripts/story_01/mia.rpy:337 #-#-# translate crowdin ev_118_8d6c8d85:
 msgid "[_Mia_s_01_] Привет, Макс! А вот и снова я..."
-msgstr "[Ciao, Max! Eccomi di nuovo qui..."
+msgstr "[_Mia_s_01_] Ciao, Max! Eccomi di nuovo qui..."
 
 # game/scripts/story_01/mia.rpy:338 #-#-# translate crowdin ev_118_42bad710:
 msgid "[_Max_s_01_] Привет! Неужели вы всё-таки решили научиться плавать? Мне нравятся смелые женщины..."
-msgstr "[Hai deciso di imparare a nuotare? Mi piacciono le donne audaci..."
+msgstr "[_Max_s_01_] Ciao! Hai deciso di imparare a nuotare? Mi piacciono le donne coraggiose..."
 
 # game/scripts/story_01/mia.rpy:339 #-#-# translate crowdin ev_118_e17cd6d6:
 msgid "[_Mia_s_02_] Да, вот заехала за тобой, как видишь, прямо с работы. Подумала, если ты ничем не занят, то у нас будет небольшой шанс на то, чтобы затащить меня в воду хотя бы по пояс."
-msgstr "[Sì, sono venuto a prenderti, come puoi vedere, direttamente dal lavoro. Ho pensato che se non stavi facendo nulla, avremmo potuto avere una piccola possibilità di mettermi in acqua almeno fino alla vita."
+msgstr "[_Mia_s_02_] Sì, sono venuta a prenderti, come puoi vedere, direttamente dal lavoro. Ho pensato che se non stavi facendo nulla, avresti avuto una piccola possibilità di trascinarmi in acqua almeno fino alla vita."
 
 # game/scripts/story_01/mia.rpy:340 #-#-# translate crowdin ev_118_bc6ac16b:
 msgid "[_Max_s_03_] Для этого я точно свободен! Только джинсы с футболкой надену и можем ехать..."
-msgstr "[Sono completamente libero per questo! Mi metto solo dei jeans e una maglietta e possiamo andare...."
+msgstr "[_Max_s_03_] Sono decisamente libero per questo! Mi metto dei jeans e una maglietta e possiamo andare..."
 
 # game/scripts/story_01/mia.rpy:341 #-#-# translate crowdin ev_118_a152f9b2:
 msgid "[_Mia_s_04_] Отлично. Мама дома? Надо бы с ней поздороваться..."
-msgstr "[Fantastico. C'è la mamma? Dovrei salutarla."
+msgstr "[_Mia_s_04_] Oh, è fantastico. C'è la mamma? Dovrei salutarla..."
 
 # game/scripts/story_01/mia.rpy:345 #-#-# translate crowdin ev_118_25950ec1:
 msgid "[_Ann_s_02_] Здравствуй, Мия! Рада тебя видеть. Ты всё-таки за Максом приехала? И откуда у тебя ещё силы остаются после работы?"
-msgstr "[Ciao, Mia! E' bello vederti. Alla fine sei venuta a prendere Max? Come fai ad avere ancora energia dopo aver lavorato?"
+msgstr "[_Ann_s_02_] Ciao, Mia! È bello vederti. Alla fine sei venuta per Max? Come fai ad avere ancora le energie dopo il lavoro?"
 
 # game/scripts/story_01/mia.rpy:346 #-#-# translate crowdin ev_118_d9d72aaa:
 msgid "[_Mia_s_02_] Никаких проблем, Ань. Раз уж согласилась, то нужно хотя бы попробовать научиться плавать..."
