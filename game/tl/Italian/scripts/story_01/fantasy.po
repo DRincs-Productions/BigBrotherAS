@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-01-03 14:26\n"
+"PO-Revision-Date: 2025-01-03 16:08\n"
 
 # TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/fantasy.rpy:8 #-#-# translate crowdin ev_099_42c5624b:
 msgid "[_tMax_s_01_] Ну, что... Самое время немного погонять лысого. Кто же из девочек сможет мне с этим помочь? [nointeract]"
@@ -478,19 +478,19 @@ msgstr "[_Ann_s_06_] Ci puoi scommettere! Ti piace quando tua madre fa così, ve
 
 # game/scripts/story_01/fantasy.rpy:446 #-#-# translate crowdin ev_099_ann_in_bath_c7659160:
 msgid "[_Max_s_07_] Ах, мам, только не торопись. Я хочу наслаждаться этим как можно дольше..."
-msgstr "[Oh, mamma, fai con calma. Voglio godermela il più a lungo possibile..."
+msgstr "[_Max_s_07_] Oh, mamma, fai con calma. Voglio godermela il più a lungo possibile..."
 
 # game/scripts/story_01/fantasy.rpy:450 #-#-# translate crowdin ev_099_ann_in_bath_cb19a448:
 msgid "[_Ann_s_07_] Как скажешь, дорогой. Я буду только рада... Он у тебя такой горячий... и твёрдый! Прижмись им ко мне посильнее..."
-msgstr "[Come vuoi tu, tesoro. Sarò felicissima di... E' così sexy. e duro! Premilo forte contro di me."
+msgstr "[_Ann_s_07_] Come vuoi tu, tesoro. Ne sarei felice... È così sexy... E duro! Premilo forte contro di me..."
 
 # game/scripts/story_01/fantasy.rpy:451 #-#-# translate crowdin ev_099_ann_in_bath_5cfa7a0a:
 msgid "[_Max_s_09_] Д-а-а... Как же это приятно, чёрт возьми! Обожаю твою попку и то, как ты двигаешься... Ммм... Ты самая лучшая, мам! Я уже скоро кончу..."
-msgstr "[D-a-a-a-ah. E' una sensazione così dannatamente bella! Adoro il tuo culo e il modo in cui ti muovi.... Mmm... Sei la migliore, mamma! Sto per sborrare..."
+msgstr "[_Max_s_09_] Ahh! È una sensazione così dannatamente bella! Adoro il tuo culo e il modo in cui ti muovi... Mmm... Sei la migliore, mamma! Sto per sborrare..."
 
 # game/scripts/story_01/fantasy.rpy:453 #-#-# translate crowdin ev_099_ann_in_bath_7232d951:
 msgid "[_Ann_s_08_] О да, Макс! Давай, не держи в себе, кончи скорее на маму... Забрызгай меня своей горячей спермой! [nointeract]"
-msgstr "[Oh si', Max! Dai, non trattenerti, sborra su mamma... Spruzzami con il tuo sperma caldo! [nointeract]"
+msgstr "[_Ann_s_08_] Oh sì, Max! Dai, non trattenerti, sborra su mamma... Spruzzami con il tuo sperma caldo! [nointeract]"
 
 # game/scripts/story_01/fantasy.rpy:461 #-#-# translate crowdin ev_099_end_af2082a3:
 msgid "[_tMax_s_04_] Фух... Какая у меня богатая фантазия! Надо бы теперь смыть следы моих «преступных» действий с воображаемыми девчонками. Вернее, девчонки-то настоящие, это действия воображаемые... [nointeract]"
@@ -618,7 +618,7 @@ msgstr "Allora non avrò fretta..."
 
 # game/scripts/story_01/fantasy.rpy:372
 msgid "О, я с удовольствием отдамся в твои нежные ручки..."
-msgstr "Oh, mi piacerebbe arrendermi alle tue mani gentili....."
+msgstr "Oh, mi piacerebbe arrendermi alle tue mani gentili..."
 
 # game/scripts/story_01/fantasy.rpy:418
 msgid "Я же в этих мыслях не сижу сложив руки?"
