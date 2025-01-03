@@ -10,25 +10,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-08-15 09:02\n"
+"PO-Revision-Date: 2025-01-03 09:36\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/02_func.rpy:408
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/02_func.rpy:429
 msgid "Скрытность"
 msgstr "Gizlilik"
 
-# game/scripts/engine/02_func.rpy:409
+# game/scripts/engine/02_func.rpy:430
 msgid "Убеждение"
 msgstr "Inanç"
 
-# game/scripts/engine/02_func.rpy:410
+# game/scripts/engine/02_func.rpy:431
 msgid "Массаж"
 msgstr ""
 
-# game/scripts/engine/02_func.rpy:413
+# game/scripts/engine/02_func.rpy:434
 msgid "Настроение {char_name}"
 msgstr "Ruh hali {char_name}"
 
-# game/scripts/engine/02_func.rpy:413
+# game/scripts/engine/02_func.rpy:434
 msgid "мамы"
 msgstr "anneler"
+
+# game/scripts/engine/02_func.rpy:846
+msgid "Галерея снов обновлена!"
+msgstr "Rüya galerisi güncellendi!"
+
+# game/scripts/engine/02_func.rpy:860
+msgid "Галерея дополнений обновлена!"
+msgstr "Eklentiler galerisi güncellendi!"
 
