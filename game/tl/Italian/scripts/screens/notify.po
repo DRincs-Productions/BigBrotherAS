@@ -11,13 +11,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-08-15 09:00\n"
+"PO-Revision-Date: 2025-01-03 09:34\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/notify.rpy:36
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/notify.rpy:36
 msgid "Нужно завершить следующие задания:"
 msgstr "Bisogna completare i seguenti compiti:"
 
-# game/scripts/screens/notify.rpy:51
+# game/scripts/screens/notify.rpy:55
 msgid "Ok"
 msgstr "Ok"
 
