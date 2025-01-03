@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-08-15 09:02\n"
+"PO-Revision-Date: 2025-01-03 09:36\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/story_01/sunscreen.rpy:7 #-#-# translate crowdin ev_011_03c9dcee:
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/sunscreen.rpy:7 #-#-# translate crowdin ev_011_03c9dcee:
 msgid "[_Alice_s_01_] Как ты догадался, Шерлок? [nointeract]"
 msgstr ""
 
@@ -412,10 +412,6 @@ msgstr ""
 msgid "Тебя маслицем для загара намазать?"
 msgstr ""
 
-# game/scripts/story_01/sunscreen.rpy:58
-msgid "Открыто новое задание «Маслице для загара»!"
-msgstr ""
-
 # game/scripts/story_01/sunscreen.rpy:88
 msgid "Верх снять не хочешь, чтобы было удобнее?"
 msgstr "Quer tirar a capota para a tornar mais confortável?"
@@ -438,14 +434,6 @@ msgstr ""
 
 # game/scripts/story_01/sunscreen.rpy:174
 msgid "{i}натереть маслицем её ножки{/i}"
-msgstr ""
-
-# game/scripts/story_01/sunscreen.rpy:243
-msgid "Задание «Маслице для загара» завершено!"
-msgstr ""
-
-# game/scripts/story_01/sunscreen.rpy:246
-msgid "Открыто новое задание «Домашнее обучение массажу»!"
 msgstr ""
 
 # game/scripts/story_01/sunscreen.rpy:265
