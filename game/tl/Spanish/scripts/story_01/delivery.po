@@ -10,29 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-08-15 08:58\n"
+"PO-Revision-Date: 2025-01-03 09:32\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/story_01/delivery.rpy:26 #-#-# translate crowdin ev_delivery_eb6a6385:
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/delivery.rpy:26 #-#-# translate crowdin ev_delivery_eb6a6385:
 msgid "[_tMax_s_11_] Звонок в ворота! Похоже, к нам кто-то приехал..."
 msgstr "[_tMax_s_11_] ¡El tiembre de la puerta! Parece que alguien ha venido a vernos..."
 
 # game/scripts/story_01/delivery.rpy:30 #-#-# translate crowdin ev_delivery_56e163cf:
 msgid "[_tMax_s_03_] Отлично! Привезли то, что я заказывал. Это [txt]."
 msgstr "[_tMax_s_03_] Estupendo. Trajeron lo que pedí. Es [txt]."
-
-# §translate crowdin strings: #|#|# # game/scripts/story_01/delivery.rpy:34
-msgid "Задание «Способ заработать» обновлено!"
-msgstr "La oportunidad «Una forma de ganar dinero» ha sido actualizada!"
-
-# game/scripts/story_01/delivery.rpy:38
-msgid "Задание «Маслице для загара» обновлено!"
-msgstr "Se ha actualizado la oportunidad «Aceite bronceador»!"
-
-# game/scripts/story_01/delivery.rpy:41
-msgid "Задание «Стремянка» обновлено!"
-msgstr "Se ha actualizado la tarea \"escalera de mano\"."
-
-# game/scripts/story_01/delivery.rpy:43
-msgid "Задание «Приумножение заработка» обновлено!"
-msgstr "Actualización de la tarea de multiplicación de ganancias"
 
