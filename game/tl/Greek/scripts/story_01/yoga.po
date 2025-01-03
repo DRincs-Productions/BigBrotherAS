@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-01-03 09:34\n"
+"PO-Revision-Date: 2025-01-03 11:03\n"
 
 # TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/yoga.rpy:19 #-#-# translate crowdin forced_phys_ed_first_time_521877f4:
 msgid "[_Ann_s_11_] Макс, а ты почему не переоделся? У тебя же спортивная форма есть."
@@ -318,7 +318,7 @@ msgstr ""
 
 # game/scripts/story_01/yoga.rpy:268 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_8318dcd7:
 msgid "[_Ann_s_02_] Знаешь, что поможет тебе взбодриться? Упражнения на растяжку! Ты вон, как раз в шортах."
-msgstr ""
+msgstr "[Ξέρεις τι θα σε βοηθήσει να φτιάξεις το κέφι σου; Ασκήσεις διατάσεων! Φοράς σορτσάκι."
 
 # game/scripts/story_01/yoga.rpy:269 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_49124f87:
 msgid "[_Max_s_12_] Ну, можно и потянуться ещё немного..."
@@ -326,7 +326,7 @@ msgstr ""
 
 # game/scripts/story_01/yoga.rpy:274 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_45dbf1bb:
 msgid "[_Ann_s_04_] Давай вместе со мной. Гибкость лучше поддерживать с молодых лет, сынок. Если в это втянуться, то потом растягиваться станет даже приятно."
-msgstr ""
+msgstr "[Έλα μαζί μου. Η ευελιξία είναι καλύτερο να διατηρείται από μικρή ηλικία, γιε μου. Αν το συνηθίσεις, θα είναι ευχάριστο να τεντώνεσαι αργότερα."
 
 # game/scripts/story_01/yoga.rpy:275 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_bf3fc7f2:
 msgid "[_tMax_s_03_] Про «потом» не знаю, а мне уже сейчас приятно растягиваться. Ещё бы, ведь мама у меня такая конфетка!"
@@ -442,7 +442,7 @@ msgstr ""
 
 # game/scripts/story_01/yoga.rpy:369 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_8814e711:
 msgid "[_Ann_s_12_] Макс, давай сам попробуй, я ведь тоже занимаюсь. К тому же, я уже тебе помогаю тем, что даю ценные советы и слежу за тем, чтобы ты всё делал правильно."
-msgstr ""
+msgstr "[Μαξ, γιατί δεν το δοκιμάζεις κι εσύ; Είμαι κι εγώ επαγγελματίας. Άλλωστε, ήδη σε βοηθάω δίνοντάς σου πολύτιμες συμβουλές και φροντίζοντας να κάνεις τα πάντα σωστά."
 
 # game/scripts/story_01/yoga.rpy:372 #-#-# translate crowdin forced_phys_ed_repeated_lvl_1_acadcf1d:
 msgid "[_Ann_s_12_] Макс, давай сам попробуй, я ведь тоже занимаюсь. К тому же, я уже тебе помогаю тем, что даю возможность избежать наказания перед завтраком."
@@ -466,7 +466,7 @@ msgstr ""
 
 # game/scripts/story_01/yoga.rpy:398 #-#-# translate crowdin forced_phys_ed_self_pump_abs_c2c8c688:
 msgid "[_Ann_s_04_] Ну как, устал? Нарушать личное пространство своей сестры ещё есть желание, а?"
-msgstr ""
+msgstr "[Είσαι κουρασμένη; Θέλεις ακόμα να παραβιάσεις την ιδιωτική ζωή της αδερφής σου, ε;"
 
 # game/scripts/story_01/yoga.rpy:399 #-#-# translate crowdin forced_phys_ed_self_pump_abs_9768155b:
 msgid "[_Max_s_12_] Вряд ли. Что точно хочется, так это завалиться на кровать и отлёживаться."
@@ -474,7 +474,7 @@ msgstr ""
 
 # game/scripts/story_01/yoga.rpy:400 #-#-# translate crowdin forced_phys_ed_self_pump_abs_b3104ca2:
 msgid "[_Ann_s_01_] Иди давай, на этот раз с тебя хватит."
-msgstr ""
+msgstr "[_Ann_s_01_] Πήγαινε, αρκετά αυτή τη φορά."
 
 # game/scripts/story_01/yoga.rpy:403 #-#-# translate crowdin forced_phys_ed_self_pump_abs_120ffe50:
 msgid "[_Ann_s_04_] Ну как, устал? Силы ещё есть, чтобы шататься и подглядывать, а?"
@@ -494,11 +494,11 @@ msgstr ""
 
 # game/scripts/story_01/yoga.rpy:412 #-#-# translate crowdin forced_phys_ed_self_pump_abs_c87bc545:
 msgid "[_Ann_s_04_] Ну как, устал? Вижу, что устал. Ты молодец, хорошо потренировался. На сегодня достаточно, иди, отдыхай."
-msgstr ""
+msgstr "[Είσαι κουρασμένη; Μπορώ να πω ότι είσαι κουρασμένη. Έκανες καλή δουλειά. Έκανες καλή προπόνηση. Αρκετά για σήμερα, πήγαινε να ξεκουραστείς."
 
 # game/scripts/story_01/yoga.rpy:417 #-#-# translate crowdin forced_phys_ed_self_pump_abs_3f53e0d1:
 msgid "[_tMax_s_05_] Ухх... Какая же мама нереально сексуальная женщина! Уже сил терпеть нет, так и хочется взять и жёстко её оттрахать..."
-msgstr ""
+msgstr "[_tMax_s_05_] Uhhh... Η μαμά είναι τόσο σέξι γυναίκα! Δεν μπορώ να το αντέξω άλλο, θέλω να τη γαμήσω σκληρά....."
 
 # game/scripts/story_01/yoga.rpy:422 #-#-# translate crowdin forced_phys_ed_end_87ff48d3:
 msgid "[_Max_s_01_] Спасибо, мам."
