@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-01-03 09:31\n"
+"PO-Revision-Date: 2025-01-03 11:02\n"
 
 # TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/punishments.rpy:45 #-#-# translate crowdin punishments_allocation_d4a1750b:
 msgid "[_Ann_s_10_] Прежде, чем мы начнём, кое-кто заслуживает наказания и сейчас все на это посмотрят..."
@@ -234,7 +234,7 @@ msgstr "[_Lisa_s_15_] C'est vrai, maman ! Qu'il ait ce qu'il mérite !"
 
 # game/scripts/story_01/punishments.rpy:261 #-#-# translate crowdin mgg_punishment_punish_c21ce584:
 msgid "[_Ann_s_14_] Если вы не в курсе, то я наказываю Макса за то, что он мешал Лизе спать. Я уже предупреждала, что не люблю, когда кто-то нарушает личное пространство..."
-msgstr ""
+msgstr "[_Ann_s_14_] Au cas où vous ne le sauriez pas, je punis Max pour avoir dérangé le sommeil de Lisa. Je t'ai déjà prévenu que je n'aime pas quand quelqu'un viole mon espace personnel...."
 
 # game/scripts/story_01/punishments.rpy:262 #-#-# translate crowdin mgg_punishment_punish_6dbdab80_1:
 msgid "[_Lisa_s_15_] Правильно, мам! Пусть получит, что заслужил!"
@@ -282,11 +282,11 @@ msgstr "[_Max_s_14_] Je ne mérite rien !"
 
 # game/scripts/story_01/punishments.rpy:298 #-#-# translate crowdin reprimanded_reason_2eb4c671:
 msgid "[_Max_s_12_] Ну, я якобы мешал Лизе спать, хотя всего лишь встал раньше неё..."
-msgstr ""
+msgstr "[Je suis censé avoir perturbé le sommeil de Lisa, alors que je ne me suis levé qu'avant son arrivée sur ....."
 
 # game/scripts/story_01/punishments.rpy:299 #-#-# translate crowdin reprimanded_reason_79249d94:
 msgid "[_Lisa_s_15_] Он не просто мешал мне спать, мам, но ещё и разглядывал меня сидя вплотную! Накажи его! Пусть получит, что заслужил!"
-msgstr ""
+msgstr "[Il n'a pas seulement perturbé mon sommeil, maman, il m'a regardé de très près ! Punissez-le ! Qu'il ait ce qu'il mérite !"
 
 # game/scripts/story_01/punishments.rpy:300 #-#-# translate crowdin reprimanded_reason_26a66e7e_1:
 msgid "[_Max_s_14_] Да ничего я не заслужил!"
