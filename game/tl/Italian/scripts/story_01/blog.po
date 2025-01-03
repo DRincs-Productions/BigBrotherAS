@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-01-03 09:34\n"
+"PO-Revision-Date: 2025-01-03 11:03\n"
 
 # TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/blog.rpy:11 #-#-# translate crowdin ev_017_423a776a:
 msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
@@ -1380,59 +1380,59 @@ msgstr "[_tMax_s_01_] Probabilmente, Mike non è un nome troppo appariscente. Mi
 
 # game/scripts/story_01/blog.rpy:1059 #-#-# translate crowdin ev_107_32006b86:
 msgid "[_tMax_s_03_] Ха, а вот и Алиса! Попалась, наконец-то... Хорошо, что я решил взломать её компьютер, потому что по изображению в профиле её не узнать. Пускай она хитрая, но и я не пальцем деланный! Как-нибудь вечерком я загляну к тебе на трансляцию, Melissa"
-msgstr "[Ah, ecco Alice! Finalmente l'ho trovata... È un bene che abbia deciso di entrare nel suo computer, perché non la riconosceresti dalla foto del suo profilo. Sarà anche subdola, ma io non mi lascio intimidire! Una sera passerò dalla tua trasmissione, Melissa."
+msgstr "[_tMax_s_03_] Ah, ecco Alice! Finalmente l'ho trovata... Ho fatto bene a entrare nel suo computer, perché non si direbbe dalla foto del suo profilo. Sarà anche subdola, ma nemmeno io mi lascio intimidire. Una sera passerò dalla tua trasmissione, Melissa"
 
 # game/scripts/story_01/blog.rpy:1074 #-#-# translate crowdin ev_119_bb930847:
 msgid "[_Alice_s_11_] Эй, Макс, притормози! Скажу кое-что..."
-msgstr "[Ehi, Max, rallenta! Ti dirò una cosa..."
+msgstr "[_Alice_s_11_] Ehi, Max, rallenta! Ti dirò una cosa..."
 
 # game/scripts/story_01/blog.rpy:1075 #-#-# translate crowdin ev_119_71498e8e:
 msgid "[_Max_s_12_] Только сделай лицо попроще, а то мне как-то не по себе."
-msgstr "[Mantenete il viso semplice, perché non mi sento a mio agio."
+msgstr "[_Max_s_12_] Tieni il viso semplice, perché non mi sento a mio agio."
 
 # game/scripts/story_01/blog.rpy:1076 #-#-# translate crowdin ev_119_d0846d0e:
 msgid "[_Alice_s_15_] Ещё помнишь, о чём я тебя недавно просила? Если увидишь, что дверь в мою комнату закрыта, то не вздумай входить, понял? И стучаться..."
-msgstr "[Ricordi cosa ti ho chiesto l'altro giorno? Se vedi la porta della mia stanza chiusa, non entrare, capito? E bussa..."
+msgstr "[_Alice_s_15_] Inoltre, ti ricordi cosa ti ho chiesto l'altro giorno? Se vedi la porta della mia stanza chiusa, non entrare, capito? O bussa..."
 
 # game/scripts/story_01/blog.rpy:1077 #-#-# translate crowdin ev_119_1ac4605d:
 msgid "[_Max_s_11_] Ага, кажется понял. Ты просила не мешать, когда будешь вести..."
-msgstr "[Sì, credo di aver capito. Mi hai chiesto di non intralciare la strada mentre conducevi..."
+msgstr "[_Max_s_11_] Sì, credo di aver capito. Mi hai chiesto di non intralciarti mentre conducevi..."
 
 # game/scripts/story_01/blog.rpy:1078 #-#-# translate crowdin ev_119_a7594c37:
 msgid "[_Alice_s_14_] Ну-ка тс-с-с! Прибью, блин!!!"
-msgstr "[Shh, shh, shh, shh! Ti ammazzo, cazzo!"
+msgstr "[_Alice_s_14_] Shh! Ti ammazzo, cazzo!!!"
 
 # game/scripts/story_01/blog.rpy:1079 #-#-# translate crowdin ev_119_efd00c33:
 msgid "[_Max_s_03_] Ладно, ладно. Я всё понял, не мешаю и храню секрет."
-msgstr "[Va bene, va bene. Ho capito, stai fuori dai piedi e mantieni il segreto."
+msgstr "[_Max_s_03_] Va bene, va bene. Ho capito, mi tengo alla larga e mantengo il segreto."
 
 # game/scripts/story_01/blog.rpy:1080 #-#-# translate crowdin ev_119_bdbda631:
 msgid "[_Alice_s_11_] Уж надеюсь. И подглядывать не вздумай! Сразу придушу, без разговоров."
-msgstr "[Lo spero. E non sbirciare! Ti strangolo subito, senza fare domande."
+msgstr "[_Alice_s_11_] Lo spero. E non sbirciare! Ti strangolo subito, senza parlare."
 
 # game/scripts/story_01/blog.rpy:1081 #-#-# translate crowdin ev_119_ba18428f:
 msgid "[_Max_s_13_] Я так-то тоже могу придушить..."
-msgstr "[Posso anche strangolare..."
+msgstr "[_Max_s_13_] Anch'io so strangolare..."
 
 # game/scripts/story_01/blog.rpy:1083 #-#-# translate crowdin ev_119_8648ddad:
 msgid "[_Alice_s_14_] Чего?! [nointeract]"
-msgstr "[Cosa?! [nointeract]"
+msgstr "[_Alice_s_14_] Cosa?! [nointeract]"
 
 # game/scripts/story_01/blog.rpy:1094 #-#-# translate crowdin ev_120_57d67bef:
 msgid "[_tMax_s_11_] Алиса сказала, если дверь к ней закрыта, то ни заходить, ни стучаться нельзя. По-видимому, ведёт веб-трансляцию... [nointeract]"
-msgstr "[_tMax_s_11_] Alice ha detto che se la porta di casa sua è chiusa, non si può entrare o bussare. A quanto pare il webcasting.... [nointeract]"
+msgstr "[_tMax_s_11_] Alice ha detto che se la porta è chiusa, non si può entrare o bussare. A quanto pare, è in webcasting... [nointeract]"
 
 # game/scripts/story_01/blog.rpy:1108 #-#-# translate crowdin ev_126_1477f580:
 msgid "[_tMax_s_16_] Пока ничего интересного. Если Алиса и проводит веб-трансляции, то сразу после ужина..."
-msgstr "[Per ora niente di interessante. Se Alice sta facendo dei webcast, è subito dopo cena..."
+msgstr "[_tMax_s_16_] Finora non c'è niente di interessante. Se Alice sta facendo dei webcast, è subito dopo la cena..."
 
 # game/scripts/story_01/blog.rpy:1121 #-#-# translate crowdin ev_126_2717e9a0:
 msgid "[_tMax_s_11_] Прилягу-ка я на кровать, чтобы Лиза не увидела ничего такого, если зайдёт в комнату..."
-msgstr "[Mi sdraio sul letto, così Lisa non vedrà nulla di tutto questo se entra nella stanza..."
+msgstr "[_tMax_s_11_] Mi sdraio sul letto, così Lisa non vedrà nulla di tutto questo se entra nella stanza..."
 
 # game/scripts/story_01/blog.rpy:1126 #-#-# translate crowdin ev_126_8e2c7b14:
 msgid "[_tMax_s_11_] Прилягу-ка я на кровать, чтобы Лиза не увидела ничего такого..."
-msgstr "[Mi sdraio sul letto, così Lisa non vedrà nulla di tutto questo..."
+msgstr "[_tMax_s_11_] Mi sdraio sul letto, così Lisa non vedrà nulla che..."
 
 # game/scripts/story_01/blog.rpy:1136 #-#-# translate crowdin ev_126_483dadb0:
 msgid "[_Max_s_01_] Так... А вот и моя сестрёнка! Ничего интересного я не пропустил, ещё только всё начинается..."
@@ -1444,7 +1444,7 @@ msgstr "[_Max_s_13_] Sarà completamente implementato nella v0.08... [nointeract
 
 # game/scripts/story_01/blog.rpy:1148 #-#-# translate crowdin ev_126_3a9a3354:
 msgid "[_tMax_s_02_] Ага, у меня под ноутбуком есть кое-что, что я бы с огромным удовольствием дал тебе вместо леденца..."
-msgstr "[Sì, ho qualcosa sotto il mio portatile che sarei più che felice di darti al posto di un lecca-lecca...."
+msgstr "[_tMax_s_02_] Sì, ho qualcosa sotto il mio portatile che sarei più che felice di darti al posto di un lecca-lecca..."
 
 # game/scripts/story_01/blog.rpy:1152 #-#-# translate crowdin ev_126_0c784499:
 msgid "[_tMax_s_13_] Будет полноценно реализовано в v0.08... [nointeract]"
@@ -1452,7 +1452,7 @@ msgstr "[_tMax_s_13_] Sarà completamente implementato nella v0.08... [nointerac
 
 # game/scripts/story_01/blog.rpy:1160 #-#-# translate crowdin ev_126_427699a9:
 msgid "[_tMax_s_03_] О да! Сисечки я очень люблю... Хотелось бы, конечно, самому их потрогать, но..."
-msgstr "[Oh, sì. Adoro le tette. Vorrei poterle toccare di persona, ovviamente, ma...."
+msgstr "[_tMax_s_03_] Oh, sì. Adoro le tette. Vorrei poterle toccare personalmente, ma..."
 
 # game/scripts/story_01/blog.rpy:1164 #-#-# translate crowdin ev_126_0c784499_1:
 msgid "[_tMax_s_13_] Будет полноценно реализовано в v0.08... [nointeract]"
