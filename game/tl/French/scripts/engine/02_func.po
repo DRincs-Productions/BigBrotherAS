@@ -10,25 +10,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-08-15 08:57\n"
+"PO-Revision-Date: 2025-01-03 09:31\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/02_func.rpy:408
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/02_func.rpy:429
 msgid "Скрытность"
 msgstr "Furtivité"
 
-# game/scripts/engine/02_func.rpy:409
+# game/scripts/engine/02_func.rpy:430
 msgid "Убеждение"
 msgstr "Persuasion"
 
-# game/scripts/engine/02_func.rpy:410
+# game/scripts/engine/02_func.rpy:431
 msgid "Массаж"
 msgstr "Massage"
 
-# game/scripts/engine/02_func.rpy:413
+# game/scripts/engine/02_func.rpy:434
 msgid "Настроение {char_name}"
 msgstr "Humeur {char_name}"
 
-# game/scripts/engine/02_func.rpy:413
+# game/scripts/engine/02_func.rpy:434
 msgid "мамы"
 msgstr "mamans"
+
+# game/scripts/engine/02_func.rpy:846
+msgid "Галерея снов обновлена!"
+msgstr "La galerie des rêves a été mise à jour !"
+
+# game/scripts/engine/02_func.rpy:860
+msgid "Галерея дополнений обновлена!"
+msgstr "La galerie des modules complémentaires a été mise à jour !"
 
