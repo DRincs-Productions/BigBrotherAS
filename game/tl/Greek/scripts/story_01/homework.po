@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2024-08-15 08:59\n"
+"PO-Revision-Date: 2025-01-03 09:33\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/story_01/homework.rpy:9 #-#-# translate crowdin ev_034_38a2b149:
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/homework.rpy:9 #-#-# translate crowdin ev_034_38a2b149:
 msgid "[_Ann_s_10_] Так, Макс, а ну-ка постой! Я только сейчас вспомнила... Ты коробки разобрал?"
 msgstr ""
 
@@ -977,10 +977,6 @@ msgstr ""
 msgid "{i}остаться на вилле{/i}"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:358
-msgid "Открыто новое задание «При делах»!"
-msgstr ""
-
 # game/scripts/story_01/homework.rpy:468
 msgid "{i}уборка закончена!{/i}"
 msgstr ""
@@ -1007,14 +1003,6 @@ msgstr ""
 
 # game/scripts/story_01/homework.rpy:604
 msgid "{i}обнять маму{/i}"
-msgstr ""
-
-# game/scripts/story_01/homework.rpy:627
-msgid "Задание «При делах» обновлено!"
-msgstr ""
-
-# game/scripts/story_01/homework.rpy:672
-msgid "Задание «При делах» завершено!"
 msgstr ""
 
 # game/scripts/story_01/homework.rpy:698
