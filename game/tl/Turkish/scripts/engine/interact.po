@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-08-15 09:02\n"
+"PO-Revision-Date: 2025-01-03 09:36\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/engine/interact.rpy:37 #-#-# translate crowdin talks_start_41e41361:
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/engine/interact.rpy:37 #-#-# translate crowdin talks_start_41e41361:
 msgid "[_Alice_s_00_] Ну же, Макс, что хотел? [nointeract]"
 msgstr "[_Alice_s_00_] Hadi Max, ne istiyordun? [nointeract]"
 
@@ -161,6 +161,10 @@ msgid "Я решил потренироваться..."
 msgstr "Pratik yapmaya karar verdim..."
 
 # game/scripts/engine/interact.rpy:192
+msgid "Можно с тобой потренироваться?"
+msgstr "Seninle pratik yapabilir miyim?"
+
+# game/scripts/engine/interact.rpy:192
 msgid "У меня для тебя обещанная вкусняшка!"
 msgstr "Size söz verdiğim lezzetli ikramım var!"
 
@@ -207,4 +211,8 @@ msgstr "İyi öpüşüyor musun?"
 # game/scripts/engine/interact.rpy:192
 msgid "Мам, а как научиться хорошо целоваться?"
 msgstr "Anne, iyi öpüşmeyi nasıl öğreniyorsun?"
+
+# game/scripts/engine/interact.rpy:192
+msgid "У меня для тебя кое-что сладенькое!"
+msgstr "Senin için tatlı bir şeyim var!"
 
