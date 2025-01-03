@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2024-08-15 08:59\n"
+"PO-Revision-Date: 2025-01-03 09:33\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/engine/interact.rpy:37 #-#-# translate crowdin talks_start_41e41361:
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/engine/interact.rpy:37 #-#-# translate crowdin talks_start_41e41361:
 msgid "[_Alice_s_00_] Ну же, Макс, что хотел? [nointeract]"
 msgstr ""
 
@@ -161,6 +161,10 @@ msgid "Я решил потренироваться..."
 msgstr ""
 
 # game/scripts/engine/interact.rpy:192
+msgid "Можно с тобой потренироваться?"
+msgstr "Μπορώ να εξασκηθώ μαζί σας;"
+
+# game/scripts/engine/interact.rpy:192
 msgid "У меня для тебя обещанная вкусняшка!"
 msgstr "Eu tenho um mimo prometido para você!"
 
@@ -207,4 +211,8 @@ msgstr "Φιλάς καλά;"
 # game/scripts/engine/interact.rpy:192
 msgid "Мам, а как научиться хорошо целоваться?"
 msgstr "Μαμά, πώς μαθαίνεις να φιλάς καλά;"
+
+# game/scripts/engine/interact.rpy:192
+msgid "У меня для тебя кое-что сладенькое!"
+msgstr "Έχω κάτι γλυκό για εσάς!"
 
