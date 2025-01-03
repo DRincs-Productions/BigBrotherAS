@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-14 23:38
+﻿# TODO: Translation updated at 2024-12-25 17:41
 
 # game/scripts/story_01/up_skills.rpy:9
 translate crowdin ev_086_176058a9:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-14 23:38
+﻿# TODO: Translation updated at 2024-12-25 17:41
 
 # game/scripts/engine/interact.rpy:37
 translate crowdin talks_start_41e41361:
@@ -169,6 +169,10 @@ translate crowdin strings:
     new "Я решил потренироваться..."
 
     # game/scripts/engine/interact.rpy:192
+    old "Можно с тобой потренироваться?"
+    new "Можно с тобой потренироваться?"
+
+    # game/scripts/engine/interact.rpy:192
     old "У меня для тебя обещанная вкусняшка!"
     new "У меня для тебя обещанная вкусняшка!"
 
@@ -215,4 +219,8 @@ translate crowdin strings:
     # game/scripts/engine/interact.rpy:192
     old "Мам, а как научиться хорошо целоваться?"
     new "Мам, а как научиться хорошо целоваться?"
+
+    # game/scripts/engine/interact.rpy:192
+    old "У меня для тебя кое-что сладенькое!"
+    new "У меня для тебя кое-что сладенькое!"
 

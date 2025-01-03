@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-14 23:38
+﻿# TODO: Translation updated at 2024-12-25 17:41
 
 translate crowdin strings:
 
@@ -22,35 +22,35 @@ translate crowdin strings:
     old "ВСЕ"
     new "ВСЕ"
 
-    # game/scripts/screens/diary.rpy:140
+    # game/scripts/screens/diary.rpy:146
     old "Сейчас здесь нет заданий"
     new "Сейчас здесь нет заданий"
 
-    # game/scripts/screens/diary.rpy:185
+    # game/scripts/screens/diary.rpy:196
     old "Завершите задание, чтобы получить награду..."
     new "Завершите задание, чтобы получить награду..."
 
-    # game/scripts/screens/diary.rpy:187
+    # game/scripts/screens/diary.rpy:198
     old "Нужно приблизиться к завершению задания, чтобы узнать о награде..."
     new "Нужно приблизиться к завершению задания, чтобы узнать о награде..."
 
-    # game/scripts/screens/diary.rpy:190
+    # game/scripts/screens/diary.rpy:201
     old "НАГРАДА:"
     new "НАГРАДА:"
 
-    # game/scripts/screens/diary.rpy:337
+    # game/scripts/screens/diary.rpy:349
     old "МОЯ СТАРШАЯ СЕСТРЁНКА"
     new "МОЯ СТАРШАЯ СЕСТРЁНКА"
 
-    # game/scripts/screens/diary.rpy:345
+    # game/scripts/screens/diary.rpy:357
     old "МОЯ МАМА"
     new "МОЯ МАМА"
 
-    # game/scripts/screens/diary.rpy:352
+    # game/scripts/screens/diary.rpy:364
     old "МОЯ МЛАДШАЯ СЕСТРЁНКА"
     new "МОЯ МЛАДШАЯ СЕСТРЁНКА"
 
-    # game/scripts/screens/diary.rpy:367
+    # game/scripts/screens/diary.rpy:379
     old "НАШИ ВЗАИМООТНОШЕНИЯ:"
     new "НАШИ ВЗАИМООТНОШЕНИЯ:"
 

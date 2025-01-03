@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-14 23:38
+﻿# TODO: Translation updated at 2024-12-25 17:41
 
 # game/scripts/story_01/lounge_tv.rpy:8
 translate crowdin ev_ann_tv_talk_df9c7313:
@@ -402,403 +402,403 @@ translate crowdin ev_038_8da284a7:
     # Ann 12 "Теперь иди займись чем-нибудь, дай мне без происшествий досмотреть сериал." nointeract
     Ann 12 "Теперь иди займись чем-нибудь, дай мне без происшествий досмотреть сериал." nointeract
 
-# game/scripts/story_01/lounge_tv.rpy:258
+# game/scripts/story_01/lounge_tv.rpy:259
 translate crowdin ev_038_cad2abbe:
 
     # tMax 12 "Совсем недавно мама уже ругала меня за это. Лучше не расстраивать её лишний раз и подождать хотя бы несколько дней..." nointeract
     tMax 12 "Совсем недавно мама уже ругала меня за это. Лучше не расстраивать её лишний раз и подождать хотя бы несколько дней..." nointeract
 
-# game/scripts/story_01/lounge_tv.rpy:260
+# game/scripts/story_01/lounge_tv.rpy:261
 translate crowdin ev_038_aca779af:
 
     # tMax 12 "Совсем недавно мама уже ругала меня за это. Лучше не расстраивать её лишний раз и подождать хотя бы ещё денёк..." nointeract
     tMax 12 "Совсем недавно мама уже ругала меня за это. Лучше не расстраивать её лишний раз и подождать хотя бы ещё денёк..." nointeract
 
-# game/scripts/story_01/lounge_tv.rpy:270
+# game/scripts/story_01/lounge_tv.rpy:271
 translate crowdin ev_038_no_risk_83b78545:
 
     # Ann 04 "Ну что, отличный сериал, как мне кажется! А тебе понравилось, Макс?" nointeract
     Ann 04 "Ну что, отличный сериал, как мне кажется! А тебе понравилось, Макс?" nointeract
 
-# game/scripts/story_01/lounge_tv.rpy:272
+# game/scripts/story_01/lounge_tv.rpy:273
 translate crowdin ev_038_no_risk_364aa97a:
 
     # Ann 02 "Ну, я рада. Ладно, спасибо что составил мне компанию. Пойду в свою комнату, хватит глаза портить на сегодня..."
     Ann 02 "Ну, я рада. Ладно, спасибо что составил мне компанию. Пойду в свою комнату, хватит глаза портить на сегодня..."
 
-# game/scripts/story_01/lounge_tv.rpy:273
+# game/scripts/story_01/lounge_tv.rpy:274
 translate crowdin ev_038_no_risk_80f5b0f1:
 
     # Max 01 "Ага, давай..."
     Max 01 "Ага, давай..."
 
-# game/scripts/story_01/lounge_tv.rpy:276
+# game/scripts/story_01/lounge_tv.rpy:277
 translate crowdin ev_038_no_risk_7a5cb61d:
 
     # Ann 11 "Пофантазировать? Не поняла, ты о чём..."
     Ann 11 "Пофантазировать? Не поняла, ты о чём..."
 
-# game/scripts/story_01/lounge_tv.rpy:277
+# game/scripts/story_01/lounge_tv.rpy:278
 translate crowdin ev_038_no_risk_729c4d17:
 
     # Max 04 "Не бери в голову, это я так, пошутил..."
     Max 04 "Не бери в голову, это я так, пошутил..."
 
-# game/scripts/story_01/lounge_tv.rpy:278
+# game/scripts/story_01/lounge_tv.rpy:279
 translate crowdin ev_038_no_risk_9f03cc4b:
 
     # Ann 02 "Ясно. Ну, спасибо за компанию. Пойду в свою комнату, хватит глаза портить на сегодня..."
     Ann 02 "Ясно. Ну, спасибо за компанию. Пойду в свою комнату, хватит глаза портить на сегодня..."
 
-# game/scripts/story_01/lounge_tv.rpy:279
+# game/scripts/story_01/lounge_tv.rpy:280
 translate crowdin ev_038_no_risk_68fe7a10:
 
     # Max 01 "Ага, с тобой было очень уютно..."
     Max 01 "Ага, с тобой было очень уютно..."
 
-# game/scripts/story_01/lounge_tv.rpy:292
+# game/scripts/story_01/lounge_tv.rpy:293
 translate crowdin ev_091_f1c77e04:
 
     # Alice 04 "Что-то новенькое! Как будто ты умеешь это делать..."
     Alice 04 "Что-то новенькое! Как будто ты умеешь это делать..."
 
-# game/scripts/story_01/lounge_tv.rpy:293
+# game/scripts/story_01/lounge_tv.rpy:294
 translate crowdin ev_091_e89401d5:
 
     # Max 11 "Само собой. Стал бы я тогда предлагать?"
     Max 11 "Само собой. Стал бы я тогда предлагать?"
 
-# game/scripts/story_01/lounge_tv.rpy:294
+# game/scripts/story_01/lounge_tv.rpy:295
 translate crowdin ev_091_b7318e96:
 
     # Alice 11 "Правда?! Могу я спросить откуда? Раньше ты, вроде бы, не умел. Да и не представляю, где бы ты успел этому научиться..."
     Alice 11 "Правда?! Могу я спросить откуда? Раньше ты, вроде бы, не умел. Да и не представляю, где бы ты успел этому научиться..."
 
-# game/scripts/story_01/lounge_tv.rpy:295
+# game/scripts/story_01/lounge_tv.rpy:296
 translate crowdin ev_091_5c759365:
 
     # Max 01 "Онлайн-курсы, сестрёнка!"
     Max 01 "Онлайн-курсы, сестрёнка!"
 
-# game/scripts/story_01/lounge_tv.rpy:296
+# game/scripts/story_01/lounge_tv.rpy:297
 translate crowdin ev_091_49eb935d:
 
     # Alice 01 "Очень смешно, Макс. Разве можно научиться массажу через ютуб?"
     Alice 01 "Очень смешно, Макс. Разве можно научиться массажу через ютуб?"
 
-# game/scripts/story_01/lounge_tv.rpy:297
+# game/scripts/story_01/lounge_tv.rpy:298
 translate crowdin ev_091_879e9d03:
 
     # Max 12 "Это были платные обучающие курсы."
     Max 12 "Это были платные обучающие курсы."
 
-# game/scripts/story_01/lounge_tv.rpy:298
+# game/scripts/story_01/lounge_tv.rpy:299
 translate crowdin ev_091_ceab11be:
 
     # Alice 03 "А, ну если ты ещё и заплатил, то это всё меняет! Как-то я сильно сомневаюсь, что тебя там обучили чему-то полезному..."
     Alice 03 "А, ну если ты ещё и заплатил, то это всё меняет! Как-то я сильно сомневаюсь, что тебя там обучили чему-то полезному..."
 
-# game/scripts/story_01/lounge_tv.rpy:299
+# game/scripts/story_01/lounge_tv.rpy:300
 translate crowdin ev_091_5ad6b997:
 
     # Max 11 "Вот и давай опробуем мои знания на тебе?"
     Max 11 "Вот и давай опробуем мои знания на тебе?"
 
-# game/scripts/story_01/lounge_tv.rpy:301
+# game/scripts/story_01/lounge_tv.rpy:302
 translate crowdin ev_091_15a5358b:
 
     # Alice 11 "Знаешь, мне даже интересно, так что давай. Только учти, я очень привередлива в вопросах массажа! Если сделаешь что-то не так, сразу закончим." nointeract
     Alice 11 "Знаешь, мне даже интересно, так что давай. Только учти, я очень привередлива в вопросах массажа! Если сделаешь что-то не так, сразу закончим." nointeract
 
-# game/scripts/story_01/lounge_tv.rpy:306
+# game/scripts/story_01/lounge_tv.rpy:307
 translate crowdin ev_091_9d5e5d4f:
 
     # Alice 02 "Вот, держи мои ножки и будь с ними аккуратен! Надеюсь, что будет приятно..."
     Alice 02 "Вот, держи мои ножки и будь с ними аккуратен! Надеюсь, что будет приятно..."
 
-# game/scripts/story_01/lounge_tv.rpy:308
+# game/scripts/story_01/lounge_tv.rpy:309
 translate crowdin ev_091_61e4760a:
 
     # tMax 02 "Какая у Алисы нежная кожа... Интересно, о чём она сейчас думает? Нравится ли ей, как мои руки ласкают её ступни?" nointeract
     tMax 02 "Какая у Алисы нежная кожа... Интересно, о чём она сейчас думает? Нравится ли ей, как мои руки ласкают её ступни?" nointeract
 
-# game/scripts/story_01/lounge_tv.rpy:315
+# game/scripts/story_01/lounge_tv.rpy:316
 translate crowdin ev_091_28030355:
 
     # Alice 05 "А у тебя очень даже неплохо получается! Хорошо, что ты никакой не работяга. Руки у тебя нежные, что уже приятно..."
     Alice 05 "А у тебя очень даже неплохо получается! Хорошо, что ты никакой не работяга. Руки у тебя нежные, что уже приятно..."
 
-# game/scripts/story_01/lounge_tv.rpy:316
+# game/scripts/story_01/lounge_tv.rpy:317
 translate crowdin ev_091_7a8b3f14:
 
     # Max 11 "Пожалуй, для первого раза достаточно."
     Max 11 "Пожалуй, для первого раза достаточно."
 
-# game/scripts/story_01/lounge_tv.rpy:319
+# game/scripts/story_01/lounge_tv.rpy:320
 translate crowdin ev_091_e0743b8e:
 
     # Alice 03 "Как, всё что ли? Как-то быстро ты, но мне понравилось... Спасибо, Макс. Можешь же сделать девушке приятно, если захочешь!"
     Alice 03 "Как, всё что ли? Как-то быстро ты, но мне понравилось... Спасибо, Макс. Можешь же сделать девушке приятно, если захочешь!"
 
-# game/scripts/story_01/lounge_tv.rpy:320
+# game/scripts/story_01/lounge_tv.rpy:321
 translate crowdin ev_091_5d20b883:
 
     # Max 01 "Я и не так могу..."
     Max 01 "Я и не так могу..."
 
-# game/scripts/story_01/lounge_tv.rpy:322
+# game/scripts/story_01/lounge_tv.rpy:323
 translate crowdin ev_091_68523ce9:
 
     # Alice 01 "Да что ты? Боюсь даже представить, как... Но не буду. И тебе не советую. Так что давай, кыш с моего дивана!" nointeract
     Alice 01 "Да что ты? Боюсь даже представить, как... Но не буду. И тебе не советую. Так что давай, кыш с моего дивана!" nointeract
 
-# game/scripts/story_01/lounge_tv.rpy:332
+# game/scripts/story_01/lounge_tv.rpy:333
 translate crowdin ev_091_84d8c058:
 
     # Alice 15 "Ой, Макс, больно! Не надо так. Ты чуть лодыжку мне не вывихнул... Лучше иди потренируйся там на кошках каких-нибудь или в ютубе ещё поучись!"
     Alice 15 "Ой, Макс, больно! Не надо так. Ты чуть лодыжку мне не вывихнул... Лучше иди потренируйся там на кошках каких-нибудь или в ютубе ещё поучись!"
 
-# game/scripts/story_01/lounge_tv.rpy:333
+# game/scripts/story_01/lounge_tv.rpy:334
 translate crowdin ev_091_27557b1b:
 
     # Max 12 "Ладно, я пойду..."
     Max 12 "Ладно, я пойду..."
 
-# game/scripts/story_01/lounge_tv.rpy:336
+# game/scripts/story_01/lounge_tv.rpy:337
 translate crowdin ev_091_0f70a82b:
 
     # tMax 13 "Не знаю, как будет дальше, но если я буду делать массаж плохо или у Алисы будет плохое настроение, то её ещё и уговаривать придётся на этот массаж."
     tMax 13 "Не знаю, как будет дальше, но если я буду делать массаж плохо или у Алисы будет плохое настроение, то её ещё и уговаривать придётся на этот массаж."
 
-# game/scripts/story_01/lounge_tv.rpy:337
+# game/scripts/story_01/lounge_tv.rpy:338
 translate crowdin ev_091_02294882:
 
     # tMax 03 "А так, виды на сестрёнку открываются весьма неплохие, да и стремиться есть к чему... Надо набираться опыта, чтобы сделать полный массаж стоп для Алисы без каких либо ошибок."
     tMax 03 "А так, виды на сестрёнку открываются весьма неплохие, да и стремиться есть к чему... Надо набираться опыта, чтобы сделать полный массаж стоп для Алисы без каких либо ошибок."
 
-# game/scripts/story_01/lounge_tv.rpy:338
+# game/scripts/story_01/lounge_tv.rpy:339
 translate crowdin ev_091_09a4b1cf:
 
     # tMax 04 "Если у меня это получится, то можно будет уже и что-то для себя интересненькое выпросить у Алисы. Я бы вот с радостью стащил с неё джинсы..."
     tMax 04 "Если у меня это получится, то можно будет уже и что-то для себя интересненькое выпросить у Алисы. Я бы вот с радостью стащил с неё джинсы..."
 
-# game/scripts/story_01/lounge_tv.rpy:340
+# game/scripts/story_01/lounge_tv.rpy:341
 translate crowdin ev_091_849d05df:
 
     # tMax 12 "Правда, с нашими нынешними отношениями на такое я её точно не уговорю. Так что дело не только за успехами в массаже, но и над отношениями нужно будет поработать..."
     tMax 12 "Правда, с нашими нынешними отношениями на такое я её точно не уговорю. Так что дело не только за успехами в массаже, но и над отношениями нужно будет поработать..."
 
-# game/scripts/story_01/lounge_tv.rpy:342
+# game/scripts/story_01/lounge_tv.rpy:343
 translate crowdin ev_091_bdd78963:
 
     # tMax 11 "Хорошо, что наши отношения с ней улучшились в последнее время. Дело остаётся за успехом в массаже..."
     tMax 11 "Хорошо, что наши отношения с ней улучшились в последнее время. Дело остаётся за успехом в массаже..."
 
-# game/scripts/story_01/lounge_tv.rpy:354
+# game/scripts/story_01/lounge_tv.rpy:355
 translate crowdin ev_092_32c17050:
 
     # Alice 16 "Нет, Макс, вот вообще не хочу! Я не в настроении для этого. Может в другой раз..."
     Alice 16 "Нет, Макс, вот вообще не хочу! Я не в настроении для этого. Может в другой раз..."
 
-# game/scripts/story_01/lounge_tv.rpy:355
+# game/scripts/story_01/lounge_tv.rpy:356
 translate crowdin ev_092_952b88e7:
 
     # Max 12 "Как хочешь. Тогда не буду тебе мешать..."
     Max 12 "Как хочешь. Тогда не буду тебе мешать..."
 
-# game/scripts/story_01/lounge_tv.rpy:361
+# game/scripts/story_01/lounge_tv.rpy:362
 translate crowdin ev_092_14ce82f1:
 
     # Alice 03 "Дай-ка подумаю... Да! Я готова..." nointeract
     Alice 03 "Дай-ка подумаю... Да! Я готова..." nointeract
 
-# game/scripts/story_01/lounge_tv.rpy:371
+# game/scripts/story_01/lounge_tv.rpy:372
 translate crowdin ev_092_619a8dde:
 
     # Alice 12 "Ну, не знаю, не знаю..." nointeract
     Alice 12 "Ну, не знаю, не знаю..." nointeract
 
-# game/scripts/story_01/lounge_tv.rpy:378
+# game/scripts/story_01/lounge_tv.rpy:379
 translate crowdin ev_092_1434db13:
 
     # Alice 11 "Ну, давай. Если помнишь, то очень привередлива в вопросах массажа! Если сделаешь что-то не так, сразу закончим." nointeract
     Alice 11 "Ну, давай. Если помнишь, то очень привередлива в вопросах массажа! Если сделаешь что-то не так, сразу закончим." nointeract
 
-# game/scripts/story_01/lounge_tv.rpy:390
+# game/scripts/story_01/lounge_tv.rpy:391
 translate crowdin ev_092_31359de8:
 
     # Alice 12 "Нет, Макс, пока мне не хочется. Я как-то не в настроении для этого. Может в другой раз..."
     Alice 12 "Нет, Макс, пока мне не хочется. Я как-то не в настроении для этого. Может в другой раз..."
 
-# game/scripts/story_01/lounge_tv.rpy:392
+# game/scripts/story_01/lounge_tv.rpy:393
 translate crowdin ev_092_727dc6e8:
 
     # Alice 15 "Нет, Макс, может как-нибудь потом. Не хочу, чтобы было больно, как в прошлый раз..."
     Alice 15 "Нет, Макс, может как-нибудь потом. Не хочу, чтобы было больно, как в прошлый раз..."
 
-# game/scripts/story_01/lounge_tv.rpy:393
+# game/scripts/story_01/lounge_tv.rpy:394
 translate crowdin ev_092_952b88e7_1:
 
     # Max 12 "Как хочешь. Тогда не буду тебе мешать..."
     Max 12 "Как хочешь. Тогда не буду тебе мешать..."
 
-# game/scripts/story_01/lounge_tv.rpy:399
+# game/scripts/story_01/lounge_tv.rpy:400
 translate crowdin ev_092_start_massage_9d5e5d4f:
 
     # Alice 02 "Вот, держи мои ножки и будь с ними аккуратен! Надеюсь, что будет приятно..."
     Alice 02 "Вот, держи мои ножки и будь с ними аккуратен! Надеюсь, что будет приятно..."
 
-# game/scripts/story_01/lounge_tv.rpy:401
+# game/scripts/story_01/lounge_tv.rpy:402
 translate crowdin ev_092_start_massage_61e4760a:
 
     # tMax 02 "Какая у Алисы нежная кожа... Интересно, о чём она сейчас думает? Нравится ли ей, как мои руки ласкают её ступни?" nointeract
     tMax 02 "Какая у Алисы нежная кожа... Интересно, о чём она сейчас думает? Нравится ли ей, как мои руки ласкают её ступни?" nointeract
 
-# game/scripts/story_01/lounge_tv.rpy:407
+# game/scripts/story_01/lounge_tv.rpy:408
 translate crowdin ev_092_start_massage_b4f1882f:
 
     # Alice 05 "А у тебя очень даже неплохо получается! Хорошо, что ты никакой не работяга. Руки у тебя нежные, что уже приятно..." nointeract
     Alice 05 "А у тебя очень даже неплохо получается! Хорошо, что ты никакой не работяга. Руки у тебя нежные, что уже приятно..." nointeract
 
-# game/scripts/story_01/lounge_tv.rpy:425
+# game/scripts/story_01/lounge_tv.rpy:426
 translate crowdin ev_092_start_massage_84d8c058:
 
     # Alice 15 "Ой, Макс, больно! Не надо так. Ты чуть лодыжку мне не вывихнул... Лучше иди потренируйся там на кошках каких-нибудь или в ютубе ещё поучись!"
     Alice 15 "Ой, Макс, больно! Не надо так. Ты чуть лодыжку мне не вывихнул... Лучше иди потренируйся там на кошках каких-нибудь или в ютубе ещё поучись!"
 
-# game/scripts/story_01/lounge_tv.rpy:426
+# game/scripts/story_01/lounge_tv.rpy:427
 translate crowdin ev_092_start_massage_0f28aae0:
 
     # Max 12 "Ладно, пойду..."
     Max 12 "Ладно, пойду..."
 
-# game/scripts/story_01/lounge_tv.rpy:441
+# game/scripts/story_01/lounge_tv.rpy:442
 translate crowdin ev_092_jeans_off_4d042d0f:
 
     # Alice 04 "Да, что-то жарковато стало. Пожалуй, порадую тебя немного, раз ты так хорошо массаж делаешь..."
     Alice 04 "Да, что-то жарковато стало. Пожалуй, порадую тебя немного, раз ты так хорошо массаж делаешь..."
 
-# game/scripts/story_01/lounge_tv.rpy:442
+# game/scripts/story_01/lounge_tv.rpy:443
 translate crowdin ev_092_jeans_off_2ededd41:
 
     # Max 04 "Эй, помедленнее! Снимать джинсы нужно не спеша, ведь во время массажа и после него не должно быть много активности."
     Max 04 "Эй, помедленнее! Снимать джинсы нужно не спеша, ведь во время массажа и после него не должно быть много активности."
 
-# game/scripts/story_01/lounge_tv.rpy:444
+# game/scripts/story_01/lounge_tv.rpy:445
 translate crowdin ev_092_jeans_off_3996760a:
 
     # Alice 02 "Удобно ты устроился... Только не пялься, куда не надо. Лучше, продолжай массаж..." nointeract
     Alice 02 "Удобно ты устроился... Только не пялься, куда не надо. Лучше, продолжай массаж..." nointeract
 
-# game/scripts/story_01/lounge_tv.rpy:453
+# game/scripts/story_01/lounge_tv.rpy:454
 translate crowdin ev_092_jeans_off_8f90476a:
 
     # Alice 03 "Как, всё что ли? Как-то быстро... Мне, конечно, понравилось, но зачем я тогда раздевалась?"
     Alice 03 "Как, всё что ли? Как-то быстро... Мне, конечно, понравилось, но зачем я тогда раздевалась?"
 
-# game/scripts/story_01/lounge_tv.rpy:454
+# game/scripts/story_01/lounge_tv.rpy:455
 translate crowdin ev_092_jeans_off_7da43434:
 
     # Max 01 "Чтобы меня порадовать! Сама же сказала..."
     Max 01 "Чтобы меня порадовать! Сама же сказала..."
 
-# game/scripts/story_01/lounge_tv.rpy:456
+# game/scripts/story_01/lounge_tv.rpy:457
 translate crowdin ev_092_jeans_off_9ac09558:
 
     # Alice 01 "Ах ты хитрюга! Обманул меня и сидишь тут довольный... А ну кыш с моего дивана!" nointeract
     Alice 01 "Ах ты хитрюга! Обманул меня и сидишь тут довольный... А ну кыш с моего дивана!" nointeract
 
-# game/scripts/story_01/lounge_tv.rpy:464
+# game/scripts/story_01/lounge_tv.rpy:465
 translate crowdin ev_092_jeans_off_614f5642:
 
     # Alice 12 "Да, что-то жарковато стало. Хотя... Не-е-ет, нет, нет! Не буду я сейчас джинсы снимать. Не дождёшься!"
     Alice 12 "Да, что-то жарковато стало. Хотя... Не-е-ет, нет, нет! Не буду я сейчас джинсы снимать. Не дождёшься!"
 
-# game/scripts/story_01/lounge_tv.rpy:465
+# game/scripts/story_01/lounge_tv.rpy:466
 translate crowdin ev_092_jeans_off_90916d56:
 
     # Max 13 "А что такое случилось?!"
     Max 13 "А что такое случилось?!"
 
-# game/scripts/story_01/lounge_tv.rpy:467
+# game/scripts/story_01/lounge_tv.rpy:468
 translate crowdin ev_092_jeans_off_fb834006:
 
     # Alice 04 "Фух... Вот не притворяйся глупеньким. Вовремя я вспомнила о нашей с тобой договорённости, а то сейчас засветила бы кое-что! Лучше, продолжай массаж..." nointeract
     Alice 04 "Фух... Вот не притворяйся глупеньким. Вовремя я вспомнила о нашей с тобой договорённости, а то сейчас засветила бы кое-что! Лучше, продолжай массаж..." nointeract
 
-# game/scripts/story_01/lounge_tv.rpy:478
+# game/scripts/story_01/lounge_tv.rpy:479
 translate crowdin ev_092_jeans_off_01049fd6:
 
     # Alice 11 "Я так полагаю, единственное чем они тебе мешают, это разглядывать меня там, где не надо, так ведь?"
     Alice 11 "Я так полагаю, единственное чем они тебе мешают, это разглядывать меня там, где не надо, так ведь?"
 
-# game/scripts/story_01/lounge_tv.rpy:479
+# game/scripts/story_01/lounge_tv.rpy:480
 translate crowdin ev_092_jeans_off_2312feeb:
 
     # Max 11 "Нет, просто жарковато как-то, тебе не кажется?"
     Max 11 "Нет, просто жарковато как-то, тебе не кажется?"
 
-# game/scripts/story_01/lounge_tv.rpy:481
+# game/scripts/story_01/lounge_tv.rpy:482
 translate crowdin ev_092_jeans_off_85ffafbb:
 
     # Alice 04 "Даже если и так, то я всё равно не хочу раздеваться. А то у тебя полные штаны радости от этого ещё будут! Обойдёшься..." nointeract
     Alice 04 "Даже если и так, то я всё равно не хочу раздеваться. А то у тебя полные штаны радости от этого ещё будут! Обойдёшься..." nointeract
 
-# game/scripts/story_01/lounge_tv.rpy:483
+# game/scripts/story_01/lounge_tv.rpy:484
 translate crowdin ev_092_jeans_off_8931c50b:
 
     # Alice 04 "Даже если и так, то я всё равно не хочу раздеваться. А то у тебя полные шорты радости от этого ещё будут! Обойдёшься..." nointeract
     Alice 04 "Даже если и так, то я всё равно не хочу раздеваться. А то у тебя полные шорты радости от этого ещё будут! Обойдёшься..." nointeract
 
-# game/scripts/story_01/lounge_tv.rpy:501
+# game/scripts/story_01/lounge_tv.rpy:502
 translate crowdin ev_092_next_massage_e5b800d3:
 
     # Alice 07 "Ух, как хорошо... Макс, а ты сегодня молодец! В твоих руках столько чувственности и в то же время силы..."
     Alice 07 "Ух, как хорошо... Макс, а ты сегодня молодец! В твоих руках столько чувственности и в то же время силы..."
 
-# game/scripts/story_01/lounge_tv.rpy:502
+# game/scripts/story_01/lounge_tv.rpy:503
 translate crowdin ev_092_next_massage_7f4d33d9:
 
     # Max 03 "Ну, так я же опыта всё больше и больше набираюсь."
     Max 03 "Ну, так я же опыта всё больше и больше набираюсь."
 
-# game/scripts/story_01/lounge_tv.rpy:506
+# game/scripts/story_01/lounge_tv.rpy:507
 translate crowdin ev_092_next_massage_fc6936f5:
 
     # Alice 02 "Ну всё, Макс, спасибо! Мне понравилось... Ощущения после массажа очень классные!"
     Alice 02 "Ну всё, Макс, спасибо! Мне понравилось... Ощущения после массажа очень классные!"
 
-# game/scripts/story_01/lounge_tv.rpy:507
+# game/scripts/story_01/lounge_tv.rpy:508
 translate crowdin ev_092_next_massage_c1a6b191:
 
     # Max 01 "Не за что..."
     Max 01 "Не за что..."
 
-# game/scripts/story_01/lounge_tv.rpy:517
+# game/scripts/story_01/lounge_tv.rpy:521
 translate crowdin ev_092_next_massage_bd730f19:
 
     # Alice 15 "Ой, нет, что-то не то! Ты же так хорошо начал, но теперь стало уже неприятно. Так не пойдёт... Лучше иди и ещё поучись этому своему массажу на ютубе!"
     Alice 15 "Ой, нет, что-то не то! Ты же так хорошо начал, но теперь стало уже неприятно. Так не пойдёт... Лучше иди и ещё поучись этому своему массажу на ютубе!"
 
-# game/scripts/story_01/lounge_tv.rpy:518
+# game/scripts/story_01/lounge_tv.rpy:522
 translate crowdin ev_092_next_massage_0f28aae0:
 
     # Max 12 "Ладно, пойду..."
     Max 12 "Ладно, пойду..."
 
-# game/scripts/story_01/lounge_tv.rpy:527
+# game/scripts/story_01/lounge_tv.rpy:531
 translate crowdin ev_092_finish_e0743b8e:
 
     # Alice 03 "Как, всё что ли? Как-то быстро ты, но мне понравилось... Спасибо, Макс. Можешь же сделать девушке приятно, если захочешь!"
     Alice 03 "Как, всё что ли? Как-то быстро ты, но мне понравилось... Спасибо, Макс. Можешь же сделать девушке приятно, если захочешь!"
 
-# game/scripts/story_01/lounge_tv.rpy:528
+# game/scripts/story_01/lounge_tv.rpy:532
 translate crowdin ev_092_finish_5d20b883:
 
     # Max 01 "Я и не так могу..."
     Max 01 "Я и не так могу..."
 
-# game/scripts/story_01/lounge_tv.rpy:530
+# game/scripts/story_01/lounge_tv.rpy:534
 translate crowdin ev_092_finish_68523ce9:
 
     # Alice 01 "Да что ты? Боюсь даже представить, как... Но не буду. И тебе не советую. Так что давай, кыш с моего дивана!" nointeract
@@ -825,10 +825,6 @@ translate crowdin strings:
     # game/scripts/story_01/lounge_tv.rpy:31
     old "{i}начать просмотр{/i}"
     new "{i}начать просмотр{/i}"
-
-    # game/scripts/story_01/lounge_tv.rpy:100
-    old "Открыто новое задание «Что посмотрим, мам?»!"
-    new "Открыто новое задание «Что посмотрим, мам?»!"
 
     # game/scripts/story_01/lounge_tv.rpy:110
     old "Хорошо. Что смотришь?"
@@ -874,35 +870,31 @@ translate crowdin strings:
     old "{i}не рисковать{/i}"
     new "{i}не рисковать{/i}"
 
-    # game/scripts/story_01/lounge_tv.rpy:269
+    # game/scripts/story_01/lounge_tv.rpy:270
     old "Да, с тобой было очень уютно!"
     new "Да, с тобой было очень уютно!"
 
-    # game/scripts/story_01/lounge_tv.rpy:300
+    # game/scripts/story_01/lounge_tv.rpy:301
     old "Хорошо. Ложись на спину и я начну массаж..."
     new "Хорошо. Ложись на спину и я начну массаж..."
 
-    # game/scripts/story_01/lounge_tv.rpy:307
+    # game/scripts/story_01/lounge_tv.rpy:308
     old "{i}продолжить массаж{/i}"
     new "{i}продолжить массаж{/i}"
 
-    # game/scripts/story_01/lounge_tv.rpy:344
-    old "Задание «Талантливый массажист» обновлено!"
-    new "Задание «Талантливый массажист» обновлено!"
-
-    # game/scripts/story_01/lounge_tv.rpy:360
+    # game/scripts/story_01/lounge_tv.rpy:361
     old "Хорошо. Ложись на живот и я начну массаж..."
     new "Хорошо. Ложись на живот и я начну массаж..."
 
-    # game/scripts/story_01/lounge_tv.rpy:370
+    # game/scripts/story_01/lounge_tv.rpy:371
     old "Тебе понравится!"
     new "Тебе понравится!"
 
-    # game/scripts/story_01/lounge_tv.rpy:406
+    # game/scripts/story_01/lounge_tv.rpy:407
     old "Мне твои джинсы мешают. Снять не хочешь?"
     new "Мне твои джинсы мешают. Снять не хочешь?"
 
-    # game/scripts/story_01/lounge_tv.rpy:406
+    # game/scripts/story_01/lounge_tv.rpy:407
     old "{i}закончить массаж{/i}"
     new "{i}закончить массаж{/i}"
 

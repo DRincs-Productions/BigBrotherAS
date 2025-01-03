@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-14 23:38
+﻿# TODO: Translation updated at 2024-12-25 17:41
 
 # game/scripts/story_01/hidden_cams.rpy:12
 translate crowdin ev_003_089bb89e:
@@ -158,18 +158,6 @@ translate crowdin ev_install_cam_bathroom_1_7c9e4204:
 
 translate crowdin strings:
 
-    # game/scripts/story_01/hidden_cams.rpy:28
-    old "Задание «Любопытное содержимое» обновлено!"
-    new "Задание «Любопытное содержимое» обновлено!"
-
-    # game/scripts/story_01/hidden_cams.rpy:49
-    old "Задание «Любопытное содержимое» завершено!"
-    new "Задание «Любопытное содержимое» завершено!"
-
-    # game/scripts/story_01/hidden_cams.rpy:50
-    old "Открыто новое задание «Способ заработать»!"
-    new "Открыто новое задание «Способ заработать»!"
-
     # game/scripts/story_01/hidden_cams.rpy:75
     old "{i}Оплатить всё ($150){/i}"
     new "{i}Оплатить всё ($150){/i}"
@@ -181,14 +169,6 @@ translate crowdin strings:
     # game/scripts/story_01/hidden_cams.rpy:81
     old "{i}настроить работу сайта{/i}"
     new "{i}настроить работу сайта{/i}"
-
-    # game/scripts/story_01/hidden_cams.rpy:91
-    old "Задание «Способ заработать» завершено!"
-    new "Задание «Способ заработать» завершено!"
-
-    # game/scripts/story_01/hidden_cams.rpy:92
-    old "Открыто новое задание «Приумножение заработка»!"
-    new "Открыто новое задание «Приумножение заработка»!"
 
     # game/scripts/story_01/hidden_cams.rpy:142
     old "{i}пойти настроить камеру{/i}"

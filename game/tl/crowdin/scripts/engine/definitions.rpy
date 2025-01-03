@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-14 23:38
+﻿# TODO: Translation updated at 2024-12-25 17:41
 
 translate crowdin strings:
 
@@ -57,4 +57,8 @@ translate crowdin strings:
     # game/scripts/engine/definitions.rpy:35
     old "Двор"
     new "Двор"
+
+    # game/scripts/engine/definitions.rpy:45
+    old "Спальня"
+    new "Спальня"
 

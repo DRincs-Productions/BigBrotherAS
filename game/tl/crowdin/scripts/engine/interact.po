@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/engine/interact.rpy:37 #-#-# translate crowdin talks_start_41e41361:
+﻿# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/engine/interact.rpy:37 #-#-# translate crowdin talks_start_41e41361:
 msgid "[_Alice_s_00_] Ну же, Макс, что хотел? [nointeract]"
 msgstr "[_Alice_s_00_] Ну же, Макс, что хотел? [nointeract]"
 
@@ -147,6 +147,10 @@ msgid "Я решил потренироваться..."
 msgstr "Я решил потренироваться..."
 
 # game/scripts/engine/interact.rpy:192
+msgid "Можно с тобой потренироваться?"
+msgstr "Можно с тобой потренироваться?"
+
+# game/scripts/engine/interact.rpy:192
 msgid "У меня для тебя обещанная вкусняшка!"
 msgstr "У меня для тебя обещанная вкусняшка!"
 
@@ -193,4 +197,8 @@ msgstr "А ты хорошо целуешься?"
 # game/scripts/engine/interact.rpy:192
 msgid "Мам, а как научиться хорошо целоваться?"
 msgstr "Мам, а как научиться хорошо целоваться?"
+
+# game/scripts/engine/interact.rpy:192
+msgid "У меня для тебя кое-что сладенькое!"
+msgstr "У меня для тебя кое-что сладенькое!"
 

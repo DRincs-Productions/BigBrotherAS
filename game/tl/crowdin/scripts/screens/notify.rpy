@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-14 23:38
+﻿# TODO: Translation updated at 2024-12-25 17:41
 
 translate crowdin strings:
 
@@ -6,7 +6,7 @@ translate crowdin strings:
     old "Нужно завершить следующие задания:"
     new "Нужно завершить следующие задания:"
 
-    # game/scripts/screens/notify.rpy:51
+    # game/scripts/screens/notify.rpy:55
     old "Ok"
     new "Ok"
 

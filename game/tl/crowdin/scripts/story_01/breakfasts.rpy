@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-14 23:38
+﻿# TODO: Translation updated at 2024-12-25 17:41
 
 # game/scripts/story_01/breakfasts.rpy:30
 translate crowdin ev_breakfast_r1_6e8dcf3c:
@@ -829,10 +829,6 @@ translate crowdin ev_059_breakfast_2248d631:
     Lisa 05 "Да, было очень вкусно."
 
 translate crowdin strings:
-
-    # game/scripts/story_01/breakfasts.rpy:78
-    old "Открыто новое задание «Любопытное содержимое»!"
-    new "Открыто новое задание «Любопытное содержимое»!"
 
     # game/scripts/story_01/breakfasts.rpy:180
     old "Это всё соседи..."

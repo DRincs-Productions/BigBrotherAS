@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-08-14 23:38
+﻿# TODO: Translation updated at 2024-12-25 17:41
 
 # game/scripts/story_01/dinners.rpy:31
 translate crowdin ev_dinner_r1_24ac51ec:
@@ -919,14 +919,6 @@ translate crowdin ev_067_12502cd3:
     Max 01 "Ага, всем спасибо..."
 
 translate crowdin strings:
-
-    # game/scripts/story_01/dinners.rpy:98
-    old "Открыто новое задание «Школьный секретик Лизы»!"
-    new "Открыто новое задание «Школьный секретик Лизы»!"
-
-    # game/scripts/story_01/dinners.rpy:139
-    old "Открыто новое задание «Арахнофобия»!"
-    new "Открыто новое задание «Арахнофобия»!"
 
     # game/scripts/story_01/dinners.rpy:159
     old "Мама! Дай Лизе шанс подготовиться. Я ей помогу!"

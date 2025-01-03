@@ -1,40 +1,40 @@
-﻿# TODO: Translation updated at 2024-08-14 23:38
+﻿# TODO: Translation updated at 2024-12-25 17:41
 
 translate crowdin strings:
 
-    # game/scripts/mini-games/hack.rpy:91
+    # game/scripts/mini-games/hack.rpy:92
     old "Инструкция по взлому пароля"
     new "Инструкция по взлому пароля"
 
-    # game/scripts/mini-games/hack.rpy:119
+    # game/scripts/mini-games/hack.rpy:122
     old "Убрать последний символ"
     new "Убрать последний символ"
 
-    # game/scripts/mini-games/hack.rpy:125
+    # game/scripts/mini-games/hack.rpy:128
     old "Проверить последовательность символов"
     new "Проверить последовательность символов"
 
-    # game/scripts/mini-games/hack.rpy:131
+    # game/scripts/mini-games/hack.rpy:134
     old "Ввести пароль"
     new "Ввести пароль"
 
-    # game/scripts/mini-games/hack.rpy:166
+    # game/scripts/mini-games/hack.rpy:170
     old "Упорядочить"
     new "Упорядочить"
 
-    # game/scripts/mini-games/hack.rpy:186
+    # game/scripts/mini-games/hack.rpy:198
     old "Пароль, который вы хотите взломать, состоит из [hack.len] символов. Вам нужно вводить различные символы и проверять, верна ли их последовательность."
     new "Пароль, который вы хотите взломать, состоит из [hack.len] символов. Вам нужно вводить различные символы и проверять, верна ли их последовательность."
 
-    # game/scripts/mini-games/hack.rpy:187
+    # game/scripts/mini-games/hack.rpy:199
     old "Справа отображается история того, какие последовательности символов вы вводили для проверки, а так же два числа."
     new "Справа отображается история того, какие последовательности символов вы вводили для проверки, а так же два числа."
 
-    # game/scripts/mini-games/hack.rpy:188
+    # game/scripts/mini-games/hack.rpy:200
     old "Оранжевое число показывает, какое количество из введённых символов присутствует в данном пароле."
     new "Оранжевое число показывает, какое количество из введённых символов присутствует в данном пароле."
 
-    # game/scripts/mini-games/hack.rpy:189
+    # game/scripts/mini-games/hack.rpy:201
     old "Зелёное число показывает, сколько из этих символов находится на своём месте в данном пароле."
     new "Зелёное число показывает, сколько из этих символов находится на своём месте в данном пароле."
 
