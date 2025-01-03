@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-08-15 08:58\n"
+"PO-Revision-Date: 2025-01-03 09:32\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/story_01/homework.rpy:9 #-#-# translate crowdin ev_034_38a2b149:
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/homework.rpy:9 #-#-# translate crowdin ev_034_38a2b149:
 msgid "[_Ann_s_10_] Так, Макс, а ну-ка постой! Я только сейчас вспомнила... Ты коробки разобрал?"
 msgstr "[_Ann_s_10_] Vale, Max, ¡espera un momento! Acabo de acordarme. ¿Has deshecho las cajas?"
 
@@ -978,10 +978,6 @@ msgstr "{i}tienda de comestibles{/i}"
 msgid "{i}остаться на вилле{/i}"
 msgstr "{i}quedarse en la villa{/i}"
 
-# game/scripts/story_01/homework.rpy:358
-msgid "Открыто новое задание «При делах»!"
-msgstr "Se ha abierto una nueva oportunidad, «Por negocios»!"
-
 # game/scripts/story_01/homework.rpy:468
 msgid "{i}уборка закончена!{/i}"
 msgstr "{i}¡acabar la limpieza!{/i}"
@@ -1009,14 +1005,6 @@ msgstr "¿Por qué no dejas que te folle el culo?"
 # game/scripts/story_01/homework.rpy:604
 msgid "{i}обнять маму{/i}"
 msgstr "{i}Abraza a tu madre.{/i}"
-
-# game/scripts/story_01/homework.rpy:627
-msgid "Задание «При делах» обновлено!"
-msgstr "La oportunidad «Por negocios» ha sido actualizada!"
-
-# game/scripts/story_01/homework.rpy:672
-msgid "Задание «При делах» завершено!"
-msgstr "La oportunidad «Por negocios» está completa!"
 
 # game/scripts/story_01/homework.rpy:698
 msgid "Тогда меня нужно поцеловать для большей мотивации!"
