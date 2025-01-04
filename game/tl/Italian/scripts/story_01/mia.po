@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-01-04 09:52\n"
+"PO-Revision-Date: 2025-01-04 10:57\n"
 
 # TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/mia.rpy:7 #-#-# translate crowdin ev_063_eb6a6385:
 msgid "[_tMax_s_11_] Звонок в ворота! Похоже, к нам кто-то приехал..."
@@ -1030,19 +1030,19 @@ msgstr "[Non si arrabbi, capitano, temo di aver dimenticato tutto. Cercherò di 
 
 # game/scripts/story_01/mia.rpy:608 #-#-# translate crowdin ev_118_next2_0f622915:
 msgid "[_Max_s_12_] Ладно, давайте."
-msgstr "[Okay, andiamo."
+msgstr "[_Max_s_12_] Va bene, andiamo."
 
 # game/scripts/story_01/mia.rpy:612 #-#-# translate crowdin ev_118_next2_518ce7b3:
 msgid "[_tMax_s_03_] Всё же в спасателя я немного поиграл! Было тяжеловато, конечно, но её попку я, между делом, весьма приятненько пощупал, хе-хе."
-msgstr "[Sono riuscito a giocare un po' a fare il bagnino! E' stato un po' difficile, ovviamente, ma ho avuto modo di sentire il suo culo in modo piacevole, hehehe."
+msgstr "[_tMax_s_03_] Ho potuto giocare a fare il bagnino per un po'! È stato un po' duro, ovviamente, ma ho potuto sentire il suo culo tra una cosa e l'altra, hehehe."
 
 # game/scripts/story_01/mia.rpy:617 #-#-# translate crowdin ev_118_next2_0b3bd113:
 msgid "[_tMax_s_13_] Опачки! Только сейчас заметил, что у Мии тоже есть стремянка, как у меня."
-msgstr "[Wow! Ho notato solo ora che anche Mia ha una scaletta come me."
+msgstr "[_tMax_s_13_] Ops! Proprio adesso ho notato che anche Mia ha una scaletta, come me."
 
 # game/scripts/story_01/mia.rpy:618 #-#-# translate crowdin ev_118_next2_af0c2f80:
 msgid "[_tMax_s_16_] Чёрт, можно было не покупать, а просто одолжить у неё на время. Сейчас поинтересуюсь..."
-msgstr "[Merda, avrei dovuto prenderlo in prestito da lei. Chiederò in giro..."
+msgstr "[_tMax_s_16_] Merda, dovevo chiederla in prestito a lei. Glielo chiederò..."
 
 # game/scripts/story_01/mia.rpy:620 #-#-# translate crowdin ev_118_next2_c3ecd313:
 msgid "[_tMax_s_13_] Опачки! Только сейчас заметил, что у Мии есть такая же стремянка, которую я всё никак не куплю."
@@ -1050,21 +1050,21 @@ msgstr "[_tMax_s_13_] Wow! Ho notato solo ora che Mia ha la stessa scaletta che 
 
 # game/scripts/story_01/mia.rpy:621 #-#-# translate crowdin ev_118_next2_63939823:
 msgid "[_tMax_s_11_] Хм... Может, получится одолжить у неё на время? Сейчас поинтересуюсь..."
-msgstr "[_tMax_s_11_] Hmm... Forse potrei prenderlo in prestito da lei per un po'? Chiederò in giro..."
+msgstr "[_tMax_s_11_] Hmm... Forse potrei prenderlo in prestito da lei per un po'? Mi informerò ora..."
 
 # game/scripts/story_01/mia.rpy:626 #-#-# translate crowdin ev_118_next2_16822e8a:
 msgid "[_tMax_s_11_] Ванная комната сейчас занята Мией... [nointeract]"
-msgstr "[Il bagno è ora occupato da Mia... [nointeract]"
+msgstr "[_tMax_s_11_] Il bagno è ora occupato da Mia... [nointeract]"
 
 # game/scripts/story_01/mia.rpy:628 #-#-# translate crowdin ev_118_next2_faf41b50:
 msgid "[_Max_s_00_] А можно кое-что у вас спросить?"
-msgstr "[Posso chiederti una cosa?"
+msgstr "[_Max_s_00_] Posso chiederti una cosa?"
 
 # game/scripts/story_01/mia.rpy:629 #-#-# translate crowdin ev_118_next2_6195936f:
 msgid "[_Mia_] {b}Мия:{/b} \n"
 "Конечно, Макс, спрашивай. Только в ванную пока не заходи, я ещё не готова!"
-msgstr "{b} \n"
-"[Mia:{/b} Certo, Max, chiedi pure. Ma non andare ancora in bagno, non sono ancora pronta!"
+msgstr "[_Mia_] {b}Mia:{/b} \n"
+"Certo, Max, chiedi pure. Ma non andare ancora in bagno, non sono ancora pronta!"
 
 # game/scripts/story_01/mia.rpy:634 #-#-# translate crowdin ev_118_next2_ae8f9e80:
 msgid "[_Mia_s_13_] Вот чёрт, Макс!!! Напугал! Тебя разве не учили стучаться или хотя бы спрашивать разрешения, чтобы войти?"
