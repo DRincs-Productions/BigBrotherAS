@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-08-14 23:38
+# TODO: Translation updated at 2024-12-25 17:41
 
 # game/scripts/story_01/morningwood.rpy:15
 translate italian ev_001_ef68f9ed:
@@ -324,7 +324,7 @@ translate italian ev_021_db787ba5:
     # Lisa 01 "Да шучу я. Ну я поняла, к чему ты клонишь. Вот только не уверена, что ты тот, кто должен мне что-то объяснять..."
     Lisa 01 "Sto scherzando. Beh, ho capito dove vuoi arrivare. Solo che non sono sicura che sia tu a dovermi dare una spiegazione..."
 
-# game/scripts/story_01/morningwood.rpy:119
+# game/scripts/story_01/morningwood.rpy:122
 translate italian ev_021_2e3b21ea:
 
     # Max 13 "А ты знаешь много желающих тебе что-то объяснить?"
@@ -924,841 +924,841 @@ translate italian ev_111_50510945:
     # Lisa 11 "Конечно! Спасибо тебе, Макс!"
     Lisa 11 "Ma certo! Grazie, Max!"
 
-# game/scripts/story_01/morningwood.rpy:357
+# game/scripts/story_01/morningwood.rpy:358
 translate italian ev_112_35bbf0a6:
 
     # Lisa 03 "Макс, я кое-что дочитала... Скажем так, одну книжку с забавными картинками. Она оказалась и правда интересной. Я многое узнала..."
     Lisa 03 "Max, ho finito di leggere qualcosa... Diciamo un libro illustrato divertente. È stato molto interessante. Ho imparato molto..."
 
-# game/scripts/story_01/morningwood.rpy:358
+# game/scripts/story_01/morningwood.rpy:359
 translate italian ev_112_1d74d5e9:
 
     # Max 01 "Возможно, у тебя есть какие-то вопросы?"
     Max 01 "Hai forse qualche domanda da fare?"
 
-# game/scripts/story_01/morningwood.rpy:359
+# game/scripts/story_01/morningwood.rpy:360
 translate italian ev_112_ab51d8b0:
 
     # Lisa 02 "О да! Вопросов у меня много, но... Как я понимаю, ответы на них я получу уже в процессе... отношений с мальчиками..."
     Lisa 02 "Oh, sì! Ho molte domande, ma... Credo che troverò le risposte man mano che vado avanti. Con i ragazzi..."
 
-# game/scripts/story_01/morningwood.rpy:360
+# game/scripts/story_01/morningwood.rpy:361
 translate italian ev_112_47b1a3fe:
 
     # Max 11 "Ты всё равно можешь спрашивать меня о чём угодно в этом плане. Я же всё-таки мальчик."
     Max 11 "Puoi comunque chiedermi qualsiasi cosa a questo proposito. Dopotutto sono un ragazzo."
 
-# game/scripts/story_01/morningwood.rpy:361
+# game/scripts/story_01/morningwood.rpy:362
 translate italian ev_112_a742cd76:
 
     # Lisa 11 "Слушай, Макс... А ты умеешь целоваться?"
     Lisa 11 "Ascolta, Max... Sai come si bacia?"
 
-# game/scripts/story_01/morningwood.rpy:362
+# game/scripts/story_01/morningwood.rpy:363
 translate italian ev_112_12e2419e:
 
     # Max 03 "Конечно умею!"
     Max 03 "Certo che sì!"
 
-# game/scripts/story_01/morningwood.rpy:363
+# game/scripts/story_01/morningwood.rpy:364
 translate italian ev_112_2b522043:
 
     # Lisa 15 "Правда что ли? И с кем же ты, интересно, целовался? Хотя нет, не рассказывай, опять начнёшь нести свою любимую чушь про сотню подружек..."
     Lisa 15 "Davvero? E con chi ti sei baciato, mi chiedo? Anzi, no, non raccontare, ricomincerai a dire le tue solite sciocchezze sulle cento fidanzate..."
 
-# game/scripts/story_01/morningwood.rpy:364
+# game/scripts/story_01/morningwood.rpy:365
 translate italian ev_112_3b34bb11:
 
     # Max 02 "Почему про сотню, всего-то десятка два или три... Но если по правде, то с двумя девочками в школе я целовался, пока ещё учился."
     Max 02 "Perché cento, sono solo una decina, due o tre... Ma a dire la verità, ho limonato con due ragazze al liceo quando ancora andavo a scuola."
 
-# game/scripts/story_01/morningwood.rpy:365
+# game/scripts/story_01/morningwood.rpy:366
 translate italian ev_112_47ae060b:
 
     # Lisa 01 "Вот это уже больше похоже на правду... И как это, сильно сложно?"
     Lisa 01 "Questo sembra più vicino alla verità... E com’è, molto difficile?"
 
-# game/scripts/story_01/morningwood.rpy:366
+# game/scripts/story_01/morningwood.rpy:367
 translate italian ev_112_8a6e10a0:
 
     # Max 13 "Я бы не сказал, что это сильно сложно, но учиться там есть чему, это точно. Поначалу я многое делал неправильно. Даже стыдновато вспоминать..."
     Max 13 "Non direi che sia molto difficile, ma c'è molto da imparare, questo è certo. All'inizio ho fatto molte cose sbagliate. È imbarazzante ricordarlo..."
 
-# game/scripts/story_01/morningwood.rpy:370
+# game/scripts/story_01/morningwood.rpy:371
 translate italian ev_112_17f95177:
 
     # Lisa 10 "Ой, я не хочу, чтобы так было и у меня!"
     Lisa 10 "Oh, non voglio che mi succeda!"
 
-# game/scripts/story_01/morningwood.rpy:371
+# game/scripts/story_01/morningwood.rpy:372
 translate italian ev_112_4c3925df:
 
     # Max 12 "А всё равно будет, даже если прочитать кучу литературы и всё изучить до мельчайших подробностей. Потому что на практике всё доводится до ума с опытом."
     Max 12 "E succederà comunque, anche se leggi un sacco di letteratura e studi tutto nei minimi dettagli. Perché nella pratica tutto si perfeziona con l’esperienza."
 
-# game/scripts/story_01/morningwood.rpy:372
+# game/scripts/story_01/morningwood.rpy:373
 translate italian ev_112_381bb41c:
 
     # Lisa 12 "Блин! И что делать?"
     Lisa 12 "Merda! Che cosa faccio?"
 
-# game/scripts/story_01/morningwood.rpy:373
+# game/scripts/story_01/morningwood.rpy:374
 translate italian ev_112_1bb05d7c:
 
     # Max 11 "Ну, если не хочешь позориться перед другими мальчиками, то можешь со мной..."
     Max 11 "Beh, se non vuoi fare brutta figura davanti agli altri ragazzi, puoi farlo con me..."
 
-# game/scripts/story_01/morningwood.rpy:374
+# game/scripts/story_01/morningwood.rpy:375
 translate italian ev_112_d1d1e498:
 
     # Lisa 09 "Хм... Предлагаешь целоваться с тобой?"
     Lisa 09 "Hmm... Mi stai suggerendo di pomiciare con te?"
 
-# game/scripts/story_01/morningwood.rpy:375
+# game/scripts/story_01/morningwood.rpy:376
 translate italian ev_112_28d72b2f:
 
     # Max 04 "Ага. По крайней мере, сможешь понять, что и как там делается..."
     Max 04 "Sì. Almeno potrai capire cosa e come viene fatto lì..."
 
-# game/scripts/story_01/morningwood.rpy:376
+# game/scripts/story_01/morningwood.rpy:377
 translate italian ev_112_d57f7ea5:
 
     # Lisa 12 "Ты же мой брат, Макс! Это как-то..."
     Lisa 12 "Sei mio fratello, Max! È una specie di..."
 
-# game/scripts/story_01/morningwood.rpy:377
+# game/scripts/story_01/morningwood.rpy:378
 translate italian ev_112_fce3fcf3:
 
     # Max 03 "Подумаешь... Губы же есть. Позориться передо мной тебе не впервой... Помнишь, как несколько лет назад ты умудрилась..."
     Max 03 "Non è un problema. Hai le labbra. Non è la prima volta che ti metti in imbarazzo davanti a me. Ricordi qualche anno fa quando sei riuscita a..."
 
-# game/scripts/story_01/morningwood.rpy:378
+# game/scripts/story_01/morningwood.rpy:379
 translate italian ev_112_9b85cf7a:
 
     # Lisa 14 "Нет, Макс! Тсс..."
     Lisa 14 "No, Max! Shh..."
 
-# game/scripts/story_01/morningwood.rpy:379
+# game/scripts/story_01/morningwood.rpy:380
 translate italian ev_112_2e587f15:
 
     # Max 01 "И никто об этом не знает. К тому же, заметь, я не подшучиваю над тобой из-за этого. Ну, было и было, не страшно."
     Max 01 "E nessuno lo sa. E poi, non ti sto prendendo in giro per questo, bada bene. Beh, è successo, non è un problema."
 
-# game/scripts/story_01/morningwood.rpy:380
+# game/scripts/story_01/morningwood.rpy:381
 translate italian ev_112_31ea5e60:
 
     # Lisa 09 "Я даже не знаю..."
     Lisa 09 "Non lo so nemmeno io..."
 
-# game/scripts/story_01/morningwood.rpy:381
+# game/scripts/story_01/morningwood.rpy:382
 translate italian ev_112_db601c65:
 
     # Max 11 "Ты подумай над этим. Если всё же захочешь научиться целоваться, то я в твоём распоряжении."
     Max 11 "Pensaci su. Se vuoi ancora imparare a baciare, io sono qui per te."
 
-# game/scripts/story_01/morningwood.rpy:382
+# game/scripts/story_01/morningwood.rpy:383
 translate italian ev_112_cb27f83e:
 
     # Lisa 11 "Не уверена, но подумаю... Хотя, знаешь, может и попробуем, но не сейчас. Мне нужно настроиться на это."
     Lisa 11 "Non ne sono sicura, ma ci penserò. Anche se, sai, forse potremmo provare, ma non adesso. Ho bisogno di entrare nell'umore giusto per questo."
 
-# game/scripts/story_01/morningwood.rpy:383
+# game/scripts/story_01/morningwood.rpy:384
 translate italian ev_112_85e06d7b:
 
     # Max 02 "Как скажешь. Не торопись..."
     Max 02 "Come dici tu. Non c’è fretta..."
 
-# game/scripts/story_01/morningwood.rpy:387
+# game/scripts/story_01/morningwood.rpy:388
 translate italian ev_112_20b58cab:
 
     # tMax 06 "Ничего себе! Лиза практически согласилась со мной целоваться! Я уже предвкушаю..."
     tMax 06 "Wow! Lisa ha praticamente accettato di limonare con me! Sto già pregustando..."
 
-# game/scripts/story_01/morningwood.rpy:388
+# game/scripts/story_01/morningwood.rpy:389
 translate italian ev_112_fd30fc22:
 
     # tMax 11 "Надеюсь, что моего небольшого школьного опыта поцелуев хватит, чтобы Лизе понравилось учиться этому именно со мной."
     tMax 11 "Spero che la mia piccola esperienza di baci al liceo sia sufficiente perché Lisa si diverta a imparare come farlo solo con me."
 
-# game/scripts/story_01/morningwood.rpy:391
+# game/scripts/story_01/morningwood.rpy:392
 translate italian ev_112_22e7b1a6:
 
     # tMax 01 "Всё-таки, я ещё и книгу прочитал. Там было что взять на заметку и я обязательно это опробую..."
     tMax 01 "Comunque, ho letto anche il libro. C'era molto di cui prendere nota e sicuramente lo proverò..."
 
-# game/scripts/story_01/morningwood.rpy:392
+# game/scripts/story_01/morningwood.rpy:393
 translate italian ev_112_3c767e74:
 
     # tMax 12 "Но это если Лиза ещё согласится... Может ведь и запросто передумать. Нужно будет напоминать ей об этом время от времени, когда мы находимся в своей комнате..."
     tMax 12 "Ma questo se Lisa sarà ancora d’accordo... Potrebbe anche cambiare idea facilmente. Dovremo ricordarglielo di tanto in tanto quando siamo nella nostra stanza..."
 
-# game/scripts/story_01/morningwood.rpy:395
+# game/scripts/story_01/morningwood.rpy:396
 translate italian ev_112_1b4fc9ae:
 
     # tMax 11 "Главное, чтобы настроение у неё было хорошее. Если уж я Алису убедил заняться эротическими веб-трансляциями, то и Лизу смогу убедить со мной поцеловаться!"
     tMax 11 "A patto che sia di buon umore. Se riesco a convincere Alice a fare webcasting erotico, posso convincere Lisa a limonare con me!"
 
-# game/scripts/story_01/morningwood.rpy:398
+# game/scripts/story_01/morningwood.rpy:399
 translate italian ev_112_9dc53938:
 
     # tMax 11 "Главное, чтобы настроение у неё было хорошее. А вот потренироваться в убеждении лучше на Алисе. Если я в итоге всё же смогу убедить её заняться эротическими веб-трансляциями, то и Лизу наверняка получится убедить со мной поцеловаться!"
     tMax 11 "Finché è di buon umore. Ma è meglio che faccia pratica di persuasione con Alice. Se riesco a convincerla a fare webcasting erotico, sono sicuro di poter convincere anche Lisa a limonare con me!"
 
-# game/scripts/story_01/morningwood.rpy:411
+# game/scripts/story_01/morningwood.rpy:412
 translate italian ev_113_df4f8641:
 
     # Lisa 11 "Ой! Знаешь, а давай. Нужно же хотя бы попробовать..."
     Lisa 11 "Oh! Sai, andiamo. Dovremmo almeno provare..."
 
-# game/scripts/story_01/morningwood.rpy:412
+# game/scripts/story_01/morningwood.rpy:413
 translate italian ev_113_b00cd630:
 
     # Max 02 "Отлично! Вставай передо мной."
     Max 02 "Grande! Alzati davanti a me."
 
-# game/scripts/story_01/morningwood.rpy:418
+# game/scripts/story_01/morningwood.rpy:419
 translate italian ev_113_3726d860:
 
     # Lisa 09 "Нет, Макс! Я сегодня что-то не готова к этому. Давай как-нибудь потом..." nointeract
     Lisa 09 "No, Max! Non sono pronta per questo stasera. Facciamolo un'altra volta..." nointeract
 
-# game/scripts/story_01/morningwood.rpy:424
+# game/scripts/story_01/morningwood.rpy:425
 translate italian ev_113_fail_ece17667:
 
     # Lisa 09 "Нет, Макс! Сегодня я что-то не в настроении. Давай как-нибудь потом..." nointeract
     Lisa 09 "No, Max! Oggi non sono dell'umore giusto. Facciamolo un'altra volta..." nointeract
 
-# game/scripts/story_01/morningwood.rpy:433
+# game/scripts/story_01/morningwood.rpy:434
 translate italian ev_113_fail_8f44e48d:
 
     # Lisa 10 "Макс, что-то мне как-то страшно стало..."
     Lisa 10 "Max, mi sono sentita un po’ spaventata..."
 
-# game/scripts/story_01/morningwood.rpy:434
+# game/scripts/story_01/morningwood.rpy:435
 translate italian ev_113_fail_00f8e9cd:
 
     # Max 01 "Не бойся. В этом нет ничего страшного. Тебе лучше расслабиться, так получится лучше поцеловаться..."
     Max 01 "Non aver paura. Non c'è niente da temere. È meglio che ti rilassi per baciare meglio..."
 
-# game/scripts/story_01/morningwood.rpy:435
+# game/scripts/story_01/morningwood.rpy:436
 translate italian ev_113_fail_f4d130f2:
 
     # Lisa 09 "Легко сказать! Значит, как там... Мне нужно закрыть глаза и попасть губами в твои губы, так?"
     Lisa 09 "È facile da dire! Allora, com'è. Devo chiudere gli occhi e mettere le mie labbra sulle tue, giusto?"
 
-# game/scripts/story_01/morningwood.rpy:436
+# game/scripts/story_01/morningwood.rpy:437
 translate italian ev_113_fail_55b48f2f:
 
     # Max 02 "Ага. Если хочешь, чтобы «попасть» было проще, то сперва подойди ближе..."
     Max 02 "Sì. Se vuoi che sia più facile «colpire», avvicinati prima..."
 
-# game/scripts/story_01/morningwood.rpy:440
+# game/scripts/story_01/morningwood.rpy:441
 translate italian ev_113_fail_7c0fefd9:
 
     # Lisa 00 "Ну да, отсюда будет попроще..."
     Lisa 00 "Sì, beh, da qui sarà più facile..."
 
-# game/scripts/story_01/morningwood.rpy:441
+# game/scripts/story_01/morningwood.rpy:442
 translate italian ev_113_fail_49dea586:
 
     # Max 11 "Если так боишься промазать, то можешь попробовать с открытыми глазами. Закрывают их обычно уже когда до губ остаётся совсем чуть-чуть."
     Max 11 "Se hai così tanta paura di sbagliare, puoi provare con gli occhi aperti. Di solito li chiudono solo quando le labbra sono molto vicine."
 
-# game/scripts/story_01/morningwood.rpy:442
+# game/scripts/story_01/morningwood.rpy:443
 translate italian ev_113_fail_eb2885e9:
 
     # Lisa 11 "Вообще, это как-то очень странно, учиться целоваться у своего брата. Тебе так не кажется?"
     Lisa 11 "In effetti, è un po' strano imparare a baciare da tuo fratello. Non lo pensi anche tu?"
 
-# game/scripts/story_01/morningwood.rpy:443
+# game/scripts/story_01/morningwood.rpy:444
 translate italian ev_113_fail_f3dbc965:
 
     # Max 13 "Ты лучше сосредоточься на поцелуе, а не на том, что я твой брат. Мы, если помнишь, учимся..."
     Max 13 "È meglio che ti concentri sul bacio, non sul fatto che sono tuo fratello. Stiamo imparando, se ti ricordi..."
 
-# game/scripts/story_01/morningwood.rpy:444
+# game/scripts/story_01/morningwood.rpy:445
 translate italian ev_113_fail_d09229d5:
 
     # Lisa 01 "Хорошо. Думаю, я готова попробовать."
     Lisa 01 "Ok. Credo di essere pronta a provarlo."
 
-# game/scripts/story_01/morningwood.rpy:445
+# game/scripts/story_01/morningwood.rpy:446
 translate italian ev_113_fail_62f2f95e:
 
     # Max 04 "Отлично! Тогда давай, легко и спокойно поцелуемся. Не бойся, никто смеяться не будет..."
     Max 04 "Perfetto! Allora dai, baciamoci facilmente e tranquillamente. Non preoccuparti, nessuno riderà..."
 
-# game/scripts/story_01/morningwood.rpy:449
+# game/scripts/story_01/morningwood.rpy:450
 translate italian ev_113_fail_5b566dd2:
 
     # tMax 07 "Это же надо, я целуюсь со своей младшей сестрёнкой! Кажется, мне бы любой сейчас позавидовал... Какие у неё нежные и приятные губки!"
     tMax 07 "Sto limonando con la mia sorellina! Penso che chiunque sarebbe geloso di me in questo momento. Che labbra morbide e dolci che ha!"
 
-# game/scripts/story_01/morningwood.rpy:455
+# game/scripts/story_01/morningwood.rpy:456
 translate italian ev_113_fail_d7175216:
 
     # tMax 11 "Попробую слегка приобнять Лизу за талию. Сильно наглеть не буду, для первого поцелуя и этого будет достаточно. А ведь так и хочется прижать её к себе посильнее..."
     tMax 11 "Cerco di mettere un braccio intorno alla vita di Lisa. Non sarò troppo sfacciato, ma è sufficiente per un primo bacio. Voglio solo stringerla di più contro di me..."
 
-# game/scripts/story_01/morningwood.rpy:458
+# game/scripts/story_01/morningwood.rpy:460
 translate italian ev_113_fail_b08667ef:
 
     # Lisa 03 "Макс, я вроде попала, да?! Это и правда не так страшно, как казалось поначалу!"
     Lisa 03 "Max, ci sono riuscita, vero? In realtà non è così spaventoso come sembrava all'inizio!"
 
-# game/scripts/story_01/morningwood.rpy:459
+# game/scripts/story_01/morningwood.rpy:461
 translate italian ev_113_fail_715ef402:
 
     # Max 01 "Да, ты вполне справилась."
     Max 01 "Sì, sei stata abbastanza brava."
 
-# game/scripts/story_01/morningwood.rpy:460
+# game/scripts/story_01/morningwood.rpy:462
 translate italian ev_113_fail_085a603f:
 
     # Lisa 10 "Вполне?! А что было не так?"
     Lisa 10 "Davvero?! Cosa c'è che non va?"
 
-# game/scripts/story_01/morningwood.rpy:461
+# game/scripts/story_01/morningwood.rpy:463
 translate italian ev_113_fail_5cb908f5:
 
     # Max 03 "Нет, всё так. Просто, мы с тобой сейчас попробовали очень скромный «детский» поцелуй. Меня тётя Кира даже в щёку целовала куда круче!"
     Max 03 "No, è vero. È solo che io e te ci siamo appena dati un bacio da bambini di basso profilo. Zia Kira mi ha dato un bacio sulla guancia molto più bello!"
 
-# game/scripts/story_01/morningwood.rpy:462
+# game/scripts/story_01/morningwood.rpy:464
 translate italian ev_113_fail_689b6a01:
 
     # Lisa 02 "Хи-хи... Да, ты прав, тётя Кира целует так, что аж чувствуешь, насколько сильно она тебя любит."
     Lisa 02 "Hi-hi... Sì, hai ragione, zia Kira bacia in modo tale che senti quanto ti ama."
 
-# game/scripts/story_01/morningwood.rpy:463
+# game/scripts/story_01/morningwood.rpy:465
 translate italian ev_113_fail_da366670:
 
     # Max 04 "Вот и нам надо так же, только в губы."
     Max 04 "Questo è ciò che dobbiamo fare, solo sulle labbra."
 
-# game/scripts/story_01/morningwood.rpy:464
+# game/scripts/story_01/morningwood.rpy:466
 translate italian ev_113_fail_04d92271:
 
     # Lisa 11 "Ну... Может быть... Только не сегодня. Лучше в другой раз покажешь, как там надо целоваться «по-взрослому». Если я захочу, конечно."
     Lisa 11 "Beh... Forse. Ma non stasera. La prossima volta mi farai vedere come si bacia da «adulti». Se lo voglio, naturalmente."
 
-# game/scripts/story_01/morningwood.rpy:465
+# game/scripts/story_01/morningwood.rpy:467
 translate italian ev_113_fail_0454f0c1:
 
     # Max 01 "Ещё как покажу..."
     Max 01 "Lo farò..."
 
-# game/scripts/story_01/morningwood.rpy:477
+# game/scripts/story_01/morningwood.rpy:480
 translate italian ev_114_521bd49e:
 
     # Lisa 11 "Нууу... Знаешь, а давай! Почему бы и нет..."
     Lisa 11 "Beh... Sai, dai! Perché no..."
 
-# game/scripts/story_01/morningwood.rpy:478
+# game/scripts/story_01/morningwood.rpy:481
 translate italian ev_114_b00cd630:
 
     # Max 02 "Отлично! Вставай передо мной."
     Max 02 "Grande! Alzati davanti a me."
 
-# game/scripts/story_01/morningwood.rpy:483
+# game/scripts/story_01/morningwood.rpy:486
 translate italian ev_114_66fc391c:
 
     # Lisa 09 "Нет, Макс, я сегодня не хочу. Давай как-нибудь потом..." nointeract
     Lisa 09 "No, Max, oggi non me la sento. Facciamolo un'altra volta..." nointeract
 
-# game/scripts/story_01/morningwood.rpy:489
+# game/scripts/story_01/morningwood.rpy:492
 translate italian ev_114_fail_075fce67:
 
     # Lisa 09 "Нет, Макс, сегодня я не в настроении. Давай как-нибудь потом..." nointeract
     Lisa 09 "No, Max, non sono dell'umore giusto stasera. Facciamolo un'altra volta..." nointeract
 
-# game/scripts/story_01/morningwood.rpy:497
+# game/scripts/story_01/morningwood.rpy:500
 translate italian ev_114_fail_53accc60:
 
     # Lisa 02 "Как ты там в прошлый раз предлагал? Целоваться «по-взрослому», вроде... Ну, и как это?"
     Lisa 02 "Qual è stato il tuo ultimo suggerimento? Baciare gli adulti, credo. Com'è?"
 
-# game/scripts/story_01/morningwood.rpy:498
+# game/scripts/story_01/morningwood.rpy:501
 translate italian ev_114_fail_78c5d496:
 
     # Max 01 "Побольше страсти..."
     Max 01 "Più passione..."
 
-# game/scripts/story_01/morningwood.rpy:499
+# game/scripts/story_01/morningwood.rpy:502
 translate italian ev_114_fail_d42cbc52:
 
     # Lisa 09 "Макс, ты же мой брат. Какая тут может быть страсть?"
     Lisa 09 "Max, tu sei mio fratello. Che tipo di passione è questa?"
 
-# game/scripts/story_01/morningwood.rpy:500
+# game/scripts/story_01/morningwood.rpy:503
 translate italian ev_114_fail_d4e9bbf9:
 
     # Max 13 "Если захотеть, то будет. Ты просто стесняешься меня, так ведь?"
     Max 13 "Se vuoi, lo farai. Ti vergogni di me, vero?"
 
-# game/scripts/story_01/morningwood.rpy:501
+# game/scripts/story_01/morningwood.rpy:504
 translate italian ev_114_fail_cb248dd8:
 
     # Lisa 12 "Не то чтобы стесняюсь... Скорее, стесняюсь, показываться вот такой страстной, как ты предлагаешь."
     Lisa 12 "Non è che mi senta in imbarazzo. È più che altro che mi vergogno di apparire così appassionata come suggerisci tu."
 
-# game/scripts/story_01/morningwood.rpy:502
+# game/scripts/story_01/morningwood.rpy:505
 translate italian ev_114_fail_446b4d9d:
 
     # Max 12 "Думаешь, что будешь от этого выглядеть глупо или смешно?"
     Max 12 "Pensi che sembrerai stupida o ridicola per questo?"
 
-# game/scripts/story_01/morningwood.rpy:503
+# game/scripts/story_01/morningwood.rpy:506
 translate italian ev_114_fail_649be6af:
 
     # Lisa 10 "Я не знаю. Наверно..."
     Lisa 10 "Non so. Immagino..."
 
-# game/scripts/story_01/morningwood.rpy:507
+# game/scripts/story_01/morningwood.rpy:510
 translate italian ev_114_fail_4fff2a51:
 
     # Max 16 "Вот ты вроде хочешь повзрослеть, целоваться учишься, а мыслишь при этом как маленькая девочка. Хватит уже..."
     Max 16 "Vuoi crescere, stai imparando a baciare, ma pensi come una bambina. Basta così..."
 
-# game/scripts/story_01/morningwood.rpy:511
+# game/scripts/story_01/morningwood.rpy:514
 translate italian ev_114_fail_b9cc61be:
 
     # tMax 13 "Как бы мне умудриться так увлечь Лизу поцелуями, чтобы она захотела учиться этому ещё и ещё? Честно говоря, без понятия как..."
     tMax 13 "Come faccio a far appassionare Lisa ai baci tanto da farle venire voglia d'imparare sempre di più? Onestamente, non ho idea di come..."
 
-# game/scripts/story_01/morningwood.rpy:515
+# game/scripts/story_01/morningwood.rpy:518
 translate italian ev_114_fail_3c3f3777:
 
     # Lisa 12 "Нет, Макс, у меня что-то не получается страстно целоваться. Даже и не хочется, если честно."
     Lisa 12 "No, Max, non sono brava a baciare con passione. Non voglio nemmeno farlo, a dire il vero."
 
-# game/scripts/story_01/morningwood.rpy:516
+# game/scripts/story_01/morningwood.rpy:519
 translate italian ev_114_fail_d5c12b2e:
 
     # Max 15 "Тебе что, не понравилось?"
     Max 15 "Che c'è, non ti è piaciuto?"
 
-# game/scripts/story_01/morningwood.rpy:517
+# game/scripts/story_01/morningwood.rpy:520
 translate italian ev_114_fail_0ae898e1:
 
     # Lisa 10 "Ну, как тебе сказать... То ли мне для этого чего-то не хватает, то ли наоборот что-то мешает. Но, скорее всего, всё дело в том, что ты мой брат."
     Lisa 10 "Beh, come posso dire... O mi manca qualcosa per questo, o al contrario qualcosa mi ostacola. Ma, molto probabilmente, il punto è che sei mio fratello."
 
-# game/scripts/story_01/morningwood.rpy:518
+# game/scripts/story_01/morningwood.rpy:521
 translate italian ev_114_fail_2b262986:
 
     # Max 11 "Или нам просто нужно больше целоваться!"
     Max 11 "O forse dobbiamo solo baciarci di più!"
 
-# game/scripts/story_01/morningwood.rpy:519
+# game/scripts/story_01/morningwood.rpy:522
 translate italian ev_114_fail_f0625a19:
 
     # Lisa 09 "Точно. Мне нужно найти мальчика для этого, а ты с какой-нибудь девочкой будешь набираться опыта. Так будет правильнее, как мне кажется."
     Lisa 09 "Giusto. Devo trovare un ragazzo che lo faccia e tu farai esperienza con una ragazza. È la cosa giusta da fare, credo."
 
-# game/scripts/story_01/morningwood.rpy:520
+# game/scripts/story_01/morningwood.rpy:523
 translate italian ev_114_fail_7267ed68:
 
     # Max 12 "Может быть..."
     Max 12 "Forse..."
 
-# game/scripts/story_01/morningwood.rpy:524
+# game/scripts/story_01/morningwood.rpy:527
 translate italian ev_114_fail_7d401d2f:
 
     # tMax 13 "А если ей всё-таки чего-то не хватало во время наших поцелуев? Опыта у меня в этом немного, так что я вполне мог что-то упустить. Может в книге, которую я подарил Лизе, есть какие-то ответы на это?"
     tMax 13 "E se le fosse mancato qualcosa durante i nostri baci? Non ho molta esperienza in questo, quindi potrei aver trascurato qualcosa. Forse nel libro che ho regalato a Lisa ci sono alcune risposte a riguardo?"
 
-# game/scripts/story_01/morningwood.rpy:525
+# game/scripts/story_01/morningwood.rpy:528
 translate italian ev_114_fail_608518a6:
 
     # tMax 12 "Пожалуй, надо бы её всё-таки прочесть. Интересно, а куда она её положила, когда прочитала?"
     tMax 12 "Forse dovrei leggerlo, dopotutto. Mi chiedo dove l'abbia messo quando l'ha letto?"
 
-# game/scripts/story_01/morningwood.rpy:529
+# game/scripts/story_01/morningwood.rpy:532
 translate italian ev_114_fail_829f8456:
 
     # Max 16 "Вот ты вроде хочешь повзрослеть, целоваться учишься, а мыслишь при этом как маленькая девочка. Учись, как надо..."
     Max 16 "Vuoi crescere, impari a baciare, ma pensi ancora come una bambina. Impara come si fa..."
 
-# game/scripts/story_01/morningwood.rpy:533
+# game/scripts/story_01/morningwood.rpy:536
 translate italian ev_114_fail_09dd082b:
 
     # tMax 07 "Да, сестрёнка, твои нежные губки такие сладкие! В этот раз я попробую побольше обниматься во время поцелуев... Всё-таки в книге прикосновениям отводилось важное значение."
     tMax 07 "Sì, sorellina, le tue labbra morbide sono così dolci! Questa volta cercherò di coccolarmi di più durante i baci... Dopo tutto, il contatto era importante nel libro."
 
-# game/scripts/story_01/morningwood.rpy:537
+# game/scripts/story_01/morningwood.rpy:540
 translate italian ev_114_fail_41677782:
 
     # tMax 01 "С огромным удовольствием целовал бы свою сестрёнку весь день! Её горячий язычок даже начинает слегка поигрывать с моими губами, повторяя за мной..."
     tMax 01 "Sarebbe un grande piacere baciare la mia sorellina per tutto il giorno! La sua lingua calda inizia anche a giocare leggermente con le mie labbra, ripetendo dopo di me..."
 
-# game/scripts/story_01/morningwood.rpy:541
+# game/scripts/story_01/morningwood.rpy:544
 translate italian ev_114_fail_42d93504:
 
     # Lisa 05 "Ну всё, Макс, я думаю пока достаточно. Будем считать, что я даже чему-то научилась у тебя..."
     Lisa 05 "Va bene, Max, credo che per ora sia sufficiente. Diciamo che ho imparato qualcosa da te..."
 
-# game/scripts/story_01/morningwood.rpy:542
+# game/scripts/story_01/morningwood.rpy:545
 translate italian ev_114_fail_f94ec06b:
 
     # Max 02 "Здорово! А сами поцелуи тебе как, нравятся?"
     Max 02 "È fantastico! E il bacio in sé, ti piace?"
 
-# game/scripts/story_01/morningwood.rpy:543
+# game/scripts/story_01/morningwood.rpy:546
 translate italian ev_114_fail_428e889c:
 
     # Lisa 11 "Нууу, да... Я правда не совсем смогла выдать страсть, которую ты просил. Лишь немножко..."
     Lisa 11 "Beh, sì... Non sono riuscita a mostrare tutta la passione che mi hai chiesto. Solo un po’..."
 
-# game/scripts/story_01/morningwood.rpy:544
+# game/scripts/story_01/morningwood.rpy:547
 translate italian ev_114_fail_2ac95bca:
 
     # Max 03 "Думаю, со временем у тебя получится. Если, конечно, будем больше целоваться!"
     Max 03 "Penso che alla fine ci riuscirai. Se ci baceremo di più!"
 
-# game/scripts/story_01/morningwood.rpy:545
+# game/scripts/story_01/morningwood.rpy:548
 translate italian ev_114_fail_31bc701d:
 
     # Lisa 02 "Знаешь, я не против ещё какое-то время потренироваться поцелуям. Ты оказался куда более чутким и внимательным, чем мне казалось. Я думала будешь просто руки распускать и всё."
     Lisa 02 "Sai, non mi dispiacerebbe esercitarmi a baciare ancora per un po'. Sei molto più sensibile e attento di quanto pensassi. Credevo che saresti stato solo un po' troppo socievole e basta."
 
-# game/scripts/story_01/morningwood.rpy:546
+# game/scripts/story_01/morningwood.rpy:549
 translate italian ev_114_fail_bbe7d867:
 
     # Max 04 "Мы же учимся, Лиза. А руки распускать я уже умею..."
     Max 04 "Stiamo imparando, Lisa. Ma so già come allungare le mani..."
 
-# game/scripts/story_01/morningwood.rpy:547
+# game/scripts/story_01/morningwood.rpy:550
 translate italian ev_114_fail_ac781705:
 
     # Lisa 03 "Хи-хи... Спасибо, что «позанимался» со мной. На днях ведь попробуем снова?"
     Lisa 03 "Hee hee... Grazie per esserti «allenato» con me. Ci riproveremo uno di questi giorni, vero?"
 
-# game/scripts/story_01/morningwood.rpy:548
+# game/scripts/story_01/morningwood.rpy:551
 translate italian ev_114_fail_a37dbe8f:
 
     # Max 01 "Обязательно!"
     Max 01 "Lo farò di sicuro!"
 
-# game/scripts/story_01/morningwood.rpy:552
+# game/scripts/story_01/morningwood.rpy:555
 translate italian ev_114_fail_e663cb66:
 
     # tMax 06 "О да!!! Лизе определённо нравится со мной целоваться! Вон как бывает полезно читать, оказывается... Ещё приятнее то, что сестрёнка хочет целоваться со мной и дальше! А уж как хочу я..."
     tMax 06 "Oh sì!!! A Lisa piace sicuramente baciarmi! Ecco quanto può essere utile leggere, a quanto pare... Ancora più piacevole è che la sorellina vuole continuare a baciarmi! E quanto lo voglio io..."
 
-# game/scripts/story_01/morningwood.rpy:568
+# game/scripts/story_01/morningwood.rpy:572
 translate italian ev_115_search_start_17100d12:
 
     # tMax 12 "Так... Вариантов, где она хранит книжку, немного, но поискать всё равно придётся..." nointeract
     tMax 12 "Ok. Non ci sono molte opzioni su dove tiene il libro, ma dovremo cercare comunque..." nointeract
 
-# game/scripts/story_01/morningwood.rpy:572
+# game/scripts/story_01/morningwood.rpy:576
 translate italian ev_115_search_start_122e6cd0:
 
     # tMax 13 "Хм... Нет ни под подушкой, ни под самой кроватью. Куда же она положила эту книжку?"
     tMax 13 "Hmm. Non sotto il cuscino, né sotto il letto stesso. Dove ha messo quel libro?"
 
-# game/scripts/story_01/morningwood.rpy:580
+# game/scripts/story_01/morningwood.rpy:584
 translate italian ev_115_search_start_5fe0ab32:
 
     # tMax 13 "Нет, тут её точно нет. Нужно успокоиться и подумать, где я ещё не посмотрел?"
     tMax 13 "No, sicuramente non è qui. Devo calmarmi e pensare a dove non ho ancora guardato?"
 
-# game/scripts/story_01/morningwood.rpy:590
+# game/scripts/story_01/morningwood.rpy:594
 translate italian ev_115_search_start_978d0722:
 
     # tMax 02 "Ага, вот она и нашлась! Теперь буду брать книжку и читать, когда Лизы нет дома. Главное, возвращать каждый раз обратно, чтобы она ничего не заметила..."
     tMax 02 "Ecco, l’ho trovato! Ora prenderò il libro e leggerò quando Lisa non è a casa. L’importante è rimetterlo a posto ogni volta, così non se ne accorgerà..."
 
-# game/scripts/story_01/morningwood.rpy:606
+# game/scripts/story_01/morningwood.rpy:611
 translate italian ev_116_47030180:
 
     # Lisa 11 "Да, я не против! Давай попробуем..."
     Lisa 11 "Sì, non mi dispiace! Facciamo un tentativo..."
 
-# game/scripts/story_01/morningwood.rpy:607
+# game/scripts/story_01/morningwood.rpy:612
 translate italian ev_116_b00cd630:
 
     # Max 02 "Отлично! Вставай передо мной."
     Max 02 "Grande! Alzati davanti a me."
 
-# game/scripts/story_01/morningwood.rpy:611
+# game/scripts/story_01/morningwood.rpy:616
 translate italian ev_116_00177c92:
 
     # Lisa 02 "Так же, как и в прошлый раз или будет что-то новенькое?"
     Lisa 02 "Come l'ultima volta o ci sarà qualcosa di nuovo?"
 
-# game/scripts/story_01/morningwood.rpy:612
+# game/scripts/story_01/morningwood.rpy:617
 translate italian ev_116_fa3650c2:
 
     # Max 01 "Обязательно будет! Как только у тебя уйдёт ощущение скованности в поцелуях. Не думай слишком много, просто сосредоточься на ощущениях..."
     Max 01 "Succederà! Non appena la sensazione di rigidità nel baciare scompare. Non pensare troppo, concentrati sulle sensazioni..."
 
-# game/scripts/story_01/morningwood.rpy:616
+# game/scripts/story_01/morningwood.rpy:621
 translate italian ev_116_46fac469:
 
     # tMax 11 "Немного нежных прикосновений и Лиза уже сама начинает ко мне прижиматься! Ох, сестрёнка, как же приятно с тобой целоваться..."
     tMax 11 "Un piccolo tocco delicato e Lisa comincia già ad accoccolarsi a me! Oh, sorella, è così bello baciarti..."
 
-# game/scripts/story_01/morningwood.rpy:620
+# game/scripts/story_01/morningwood.rpy:625
 translate italian ev_116_6c5e3c08:
 
     # Lisa 12 "Эээ... А зачем? У нас же с этим как-то не заладилось."
     Lisa 12 "Ehm... Perché? Voglio dire, non è che stiamo facendo qualcosa di sbagliato."
 
-# game/scripts/story_01/morningwood.rpy:621
+# game/scripts/story_01/morningwood.rpy:626
 translate italian ev_116_edd2b970:
 
     # Max 11 "У меня появились мысли, почему не заладилось. Нужно проверить..."
     Max 11 "Ho un'idea del perché non abbia funzionato. Dovrò controllare..."
 
-# game/scripts/story_01/morningwood.rpy:622
+# game/scripts/story_01/morningwood.rpy:627
 translate italian ev_116_4bcfde8c:
 
     # Lisa 15 "Хм... Надеюсь, без шуток? Мне это интересно только в познавательных целях, а не как какое-то развлечение."
     Lisa 15 "Hmm... Niente scherzi, spero. Mi interessa solo a scopo conoscitivo, non come intrattenimento."
 
-# game/scripts/story_01/morningwood.rpy:623
+# game/scripts/story_01/morningwood.rpy:628
 translate italian ev_116_c096925a:
 
     # Max 02 "Конечно! Сейчас всё познаешь. Давай вставай..."
     Max 02 "Ma certo! Stai per imparare tutto. Forza, alzati..."
 
-# game/scripts/story_01/morningwood.rpy:627
+# game/scripts/story_01/morningwood.rpy:632
 translate italian ev_116_e819496e:
 
     # Lisa 01 "И что ты там такого придумал, интересно узнать?"
     Lisa 01 "Mi chiedo: che cosa ti è venuto in mente?"
 
-# game/scripts/story_01/morningwood.rpy:628
+# game/scripts/story_01/morningwood.rpy:633
 translate italian ev_116_35a5abb4:
 
     # Max 01 "А вот..."
     Max 01 "Ecco..."
 
-# game/scripts/story_01/morningwood.rpy:632
+# game/scripts/story_01/morningwood.rpy:637
 translate italian ev_116_2c75c746:
 
     # tMax 11 "Для начала, попробую слегка приобнять Лизу за талию. Сильно наглеть не буду, хотя... Это же не первый наш поцелуй..."
     tMax 11 "Per prima cosa, cercherò di mettere un braccio intorno alla vita di Lisa. Non sarò troppo sfacciato, però. Non è il nostro primo bacio..."
 
-# game/scripts/story_01/morningwood.rpy:636
+# game/scripts/story_01/morningwood.rpy:641
 translate italian ev_116_0cae7e3a:
 
     # tMax 07 "С огромным удовольствием целовал бы свою сестрёнку весь день! Как же хочется вцепиться руками в её милую попку и ещё сильнее прижать к себе..."
     tMax 07 "Vorrei baciare la mia sorellina tutto il giorno! Voglio stringere il suo dolce sedere con le mie mani e stringerlo ancora di più..."
 
-# game/scripts/story_01/morningwood.rpy:640
+# game/scripts/story_01/morningwood.rpy:645
 translate italian ev_116_1f4b171b:
 
     # Lisa 14 "Аа-ай! Макс! Меня что-то тронуло там внизу!"
     Lisa 14 "Aaargh! Max! Qualcosa mi ha toccato laggiù!"
 
-# game/scripts/story_01/morningwood.rpy:641
+# game/scripts/story_01/morningwood.rpy:646
 translate italian ev_116_81eb40ae:
 
     # Max 01 "Да, это был я. Вернее, мой..."
     Max 01 "Sì, ero io. O meglio, il mio..."
 
-# game/scripts/story_01/morningwood.rpy:642
+# game/scripts/story_01/morningwood.rpy:647
 translate italian ev_116_9b488e0a:
 
     # Lisa 12 "Фу! Ты что, так возбудился от наших поцелуев?! Нельзя же так..."
     Lisa 12 "Che schifo! I nostri baci ti hanno fatto eccitare così tanto?! Non puoi farlo..."
 
-# game/scripts/story_01/morningwood.rpy:643
+# game/scripts/story_01/morningwood.rpy:648
 translate italian ev_116_5b9381f6:
 
     # Max 13 "В смысле, «фу»? Вообще-то, так и должно быть у подростка."
     Max 13 "Che vuol dire «che schifo»? In realtà, è così che dovrebbe essere un adolescente."
 
-# game/scripts/story_01/morningwood.rpy:644
+# game/scripts/story_01/morningwood.rpy:649
 translate italian ev_116_dfaba147:
 
     # Lisa 16 "Должно быть?! Вообще-то, я не соглашалась на то, чтобы в меня членом тыкался мой брат! Тем более туда..."
     Lisa 16 "Dovrebbe esserlo? Non ero d'accordo che il cazzo di mio fratello mi toccasse! Tanto più lì..."
 
-# game/scripts/story_01/morningwood.rpy:645
+# game/scripts/story_01/morningwood.rpy:650
 translate italian ev_116_47d8cc9e:
 
     # Max 12 "Тебе и к такому нужно привыкать, ведь с другими мальчиками будет точно так же от поцелуев и объятий. Неужели об этом ничего не написано в той книге, что ты прочитала?"
     Max 12 "Devi abituarti anche a questo, perché gli altri ragazzi faranno lo stesso con i baci e gli abbracci. Non c'è scritto nulla a riguardo nel libro che hai letto?"
 
-# game/scripts/story_01/morningwood.rpy:651
+# game/scripts/story_01/morningwood.rpy:656
 translate italian ev_116_b0819ba6:
 
     # Lisa 10 "Ой! Ну, не знаю... Написано, но я к такому ещё не готова. Пока это слишком для меня... Нам лучше прекратить эти уроки."
     Lisa 10 "Oh! Non lo so. È scritto, ma non sono ancora pronta per questo. È ancora troppo per me. È meglio interrompere queste lezioni."
 
-# game/scripts/story_01/morningwood.rpy:652
+# game/scripts/story_01/morningwood.rpy:657
 translate italian ev_116_04975818:
 
     # Max 13 "Тебе же, вроде, нравилось?"
     Max 13 "Pensavo che ti piacesse, vero?"
 
-# game/scripts/story_01/morningwood.rpy:653
+# game/scripts/story_01/morningwood.rpy:658
 translate italian ev_116_82c59d5c:
 
     # Lisa 11 "Ну, как тебе сказать... Да, но... Если подумать, то это не то, чем обычно девчонки занимаются со своими братьями. Как-то странно, что мне это нравится..."
     Lisa 11 "Beh, come posso dire... Sì, ma... Se ci pensi, non è quello che le ragazze fanno con i loro fratelli. È un po' strano che mi piaccia..."
 
-# game/scripts/story_01/morningwood.rpy:654
+# game/scripts/story_01/morningwood.rpy:659
 translate italian ev_116_67dae82d:
 
     # Max 11 "Так давай и дальше целоваться!"
     Max 11 "Quindi continuiamo a baciarci!"
 
-# game/scripts/story_01/morningwood.rpy:655
+# game/scripts/story_01/morningwood.rpy:660
 translate italian ev_116_f0625a19:
 
     # Lisa 09 "Точно. Мне нужно найти мальчика для этого, а ты с какой-нибудь девочкой будешь набираться опыта. Так будет правильнее, как мне кажется."
     Lisa 09 "Giusto. Devo trovare un ragazzo che lo faccia e tu farai esperienza con una ragazza. È la cosa giusta da fare, credo."
 
-# game/scripts/story_01/morningwood.rpy:656
+# game/scripts/story_01/morningwood.rpy:661
 translate italian ev_116_7267ed68:
 
     # Max 12 "Может быть..."
     Max 12 "Forse..."
 
-# game/scripts/story_01/morningwood.rpy:662
+# game/scripts/story_01/morningwood.rpy:667
 translate italian ev_116_4feb6bc0:
 
     # Lisa 10 "Ой! Ну, не знаю... Написано, но я к такому ещё не готова. Пока это слишком для меня... И с тобой всё, больше не целуемся!"
     Lisa 10 "Oh! Non lo so. È scritto, ma non sono ancora pronta. È troppo per me. E basta, niente più baci!"
 
-# game/scripts/story_01/morningwood.rpy:663
+# game/scripts/story_01/morningwood.rpy:668
 translate italian ev_116_4c994616:
 
     # Max 14 "Эх... Жалко. Неплохо же, вроде, получилось в этот раз?"
     Max 14 "Eh... È un peccato. Non è andata male questa volta, vero?"
 
-# game/scripts/story_01/morningwood.rpy:664
+# game/scripts/story_01/morningwood.rpy:669
 translate italian ev_116_fb3b17ee:
 
     # Lisa 15 "Мне вообще кажется, что ты не особо хорошо целуешься, а ещё меня учишь. Лучше найди себе девушку и учитесь с ней целоваться."
     Lisa 15 "Non credo che tu sia un buon baciatore, e mi stai insegnando. Dovresti trovarti una ragazza e imparare a baciare con lei."
 
-# game/scripts/story_01/morningwood.rpy:665
+# game/scripts/story_01/morningwood.rpy:670
 translate italian ev_116_6b5acf19:
 
     # Max 00 "Да, надо бы..."
     Max 00 "Sì, dovremmo..."
 
-# game/scripts/story_01/morningwood.rpy:669
+# game/scripts/story_01/morningwood.rpy:674
 translate italian ev_116_5c1fba5d:
 
     # tMax 13 "Лиза, если подумать, права. Мне и правда нужно поднабраться опыта в поцелуях, а то я полез учить её целоваться, хотя сам не особо-то и умею. Вот только с кем целоваться?"
     tMax 13 "Lisa ha ragione, a pensarci bene. Ho davvero bisogno di fare un po' di esperienza nel baciare, e le sto insegnando a baciare, anche se non so bene come baciare. Ma chi baciare?"
 
-# game/scripts/story_01/morningwood.rpy:670
+# game/scripts/story_01/morningwood.rpy:675
 translate italian ev_116_13de5cb1:
 
     # tMax 12 "Таких желающих ещё поискать нужно. Может, Алиса или мама что-то подскажут в этом плане..."
     tMax 12 "Bisogna cercare bene per trovare qualcuno così desideroso. Forse Alice o mamma potrebbero dare qualche consiglio a riguardo..."
 
-# game/scripts/story_01/morningwood.rpy:684
+# game/scripts/story_01/morningwood.rpy:690
 translate italian ev_117_alice_7dae0155:
 
     # Alice 11 "Прости, Макс, что?!"
     Alice 11 "Scusa, Max, cosa?!"
 
-# game/scripts/story_01/morningwood.rpy:685
+# game/scripts/story_01/morningwood.rpy:691
 translate italian ev_117_alice_0e36d776:
 
     # Max 11 "Я спросил, хорошо ты целуешься или нет?"
     Max 11 "Ho chiesto se baci bene o no?"
 
-# game/scripts/story_01/morningwood.rpy:686
+# game/scripts/story_01/morningwood.rpy:692
 translate italian ev_117_alice_adb4b8ef:
 
     # Alice 04 "Да, не показалось... Тебе заняться больше нечем, Макс?"
     Alice 04 "Sì, non mi è sembrato... Non hai altro da fare, Max?"
 
-# game/scripts/story_01/morningwood.rpy:687
+# game/scripts/story_01/morningwood.rpy:693
 translate italian ev_117_alice_277c5e5c:
 
     # Max 13 "Мне вот НУЖНО научиться целоваться, и я подумал, вдруг ты мне чем-то поможешь..."
     Max 13 "Devo imparare a baciare e mi chiedevo se potessi aiutarmi con qualcosa..."
 
-# game/scripts/story_01/morningwood.rpy:688
+# game/scripts/story_01/morningwood.rpy:694
 translate italian ev_117_alice_951892a1:
 
     # Alice 02 "Я?! Помочь... Ты знаешь, я в каком-то фильме смотрела, там учились целоваться на помидорах. Попробуй, может получится хотя бы у тебя..."
     Alice 02 "Io?! Aiutare… Sai, ho visto in un film che imparavano a baciare sui pomodori. Prova, magari ci riesci almeno tu..."
 
-# game/scripts/story_01/morningwood.rpy:689
+# game/scripts/story_01/morningwood.rpy:695
 translate italian ev_117_alice_4c268eb2:
 
     # Max 16 "Алиса, я же серьёзно!"
     Max 16 "Alice, dico sul serio!"
 
-# game/scripts/story_01/morningwood.rpy:690
+# game/scripts/story_01/morningwood.rpy:696
 translate italian ev_117_alice_baf0eeb5:
 
     # Alice 11 "Макс, отвали. Я не буду целоваться с тобой, даже не мечтай. Найди себе девчонку, как все нормальные парни делают, и целуйся с ней до упаду."
     Alice 11 "Max, stai indietro. Non ho intenzione di pomiciare con te, non pensarci nemmeno. Trovati una ragazza, come fanno tutti i ragazzi normali, e limona con lei fino allo sfinimento."
 
-# game/scripts/story_01/morningwood.rpy:692
+# game/scripts/story_01/morningwood.rpy:698
 translate italian ev_117_alice_53ba5102:
 
     # Max 13 "Похоже, что придётся..." nointeract
     Max 13 "Sembra che dovrò..." nointeract
 
-# game/scripts/story_01/morningwood.rpy:701
+# game/scripts/story_01/morningwood.rpy:707
 translate italian ev_117_ann_a27a7334:
 
     # Ann 11 "Вот это вопрос, Макс! Неожиданный, я бы сказала... А зачем тебе? Неужели нашёл девушку и хочешь её впечатлить?"
     Ann 11 "Che domanda, Max! Inaspettata, direi... Perché vuoi farlo? Hai trovato una ragazza e vuoi fare colpo su di lei?"
 
-# game/scripts/story_01/morningwood.rpy:702
+# game/scripts/story_01/morningwood.rpy:708
 translate italian ev_117_ann_f1bf3331:
 
     # Max 11 "Ну, скажем так, подумываю найти..."
     Max 11 "Beh, diciamo solo che sto pensando di trovare..."
 
-# game/scripts/story_01/morningwood.rpy:703
+# game/scripts/story_01/morningwood.rpy:709
 translate italian ev_117_ann_934651aa:
 
     # Ann 01 "Понятно. Ну что я могу тебе сказать... Будь естественным, будь самим собой. Девушки это ценят. Если ты попытаешься выдавать себя за ловеласа, она это раскусит и бросит тебя..."
     Ann 01 "Capisco. Beh, cosa posso dirti... Sii naturale, sii te stesso. Le ragazze lo apprezzano. Se cerchi di fare il casanova, lei se ne accorgerà e ti lascerà..."
 
-# game/scripts/story_01/morningwood.rpy:704
+# game/scripts/story_01/morningwood.rpy:710
 translate italian ev_117_ann_3c8a5527:
 
     # Max 13 "Ага, ясно. А научиться-то как?"
     Max 13 "Sì, capisco. Ma come si impara?"
 
-# game/scripts/story_01/morningwood.rpy:705
+# game/scripts/story_01/morningwood.rpy:711
 translate italian ev_117_ann_d87dff0c:
 
     # Ann 02 "Так вот с этой девушкой, которую найдёшь, и учись целоваться. Лучше учителя тебе всё равно не найти!"
     Ann 02 "Quindi, con questa ragazza che troverai, impara a baciare. Non troverai un insegnante migliore!"
 
-# game/scripts/story_01/morningwood.rpy:706
+# game/scripts/story_01/morningwood.rpy:712
 translate italian ev_117_ann_f0203550:
 
     # Max 12 "Эх... Спасибо, мам..."
     Max 12 "Eh... Grazie, mamma..."
 
-# game/scripts/story_01/morningwood.rpy:707
+# game/scripts/story_01/morningwood.rpy:713
 translate italian ev_117_ann_9fc7850a:
 
     # Ann 03 "Не за что, Макс. Обращайся, если будет нужен ещё какой-то совет..."
     Ann 03 "Di niente, Max. Rivolgiti a me se avrai bisogno di altri consigli..."
 
-# game/scripts/story_01/morningwood.rpy:709
+# game/scripts/story_01/morningwood.rpy:715
 translate italian ev_117_ann_81a37a04:
 
     # Max 00 "Ага, обязательно..." nointeract
     Max 00 "Sì, lo farò..." nointeract
 
-# game/scripts/story_01/morningwood.rpy:735
+# game/scripts/story_01/morningwood.rpy:741
 translate italian ev_117_end_8eec5e79:
 
     # tMax 12 "Ну что, значит надо присматривать себе девушку. Может, Лиза с какой-нибудь своей одноклассницей познакомит или сам кого-нибудь встречу..."
     tMax 12 "Bene, quindi devo cercarmi una ragazza. Forse Lisa mi presenterà a qualche sua compagna di classe o incontrerò qualcuno da solo..."
 
-# game/scripts/story_01/morningwood.rpy:736
+# game/scripts/story_01/morningwood.rpy:742
 translate italian ev_117_end_47a9c037:
 
     # tMax 13 "Теперь, если я и полезу кого-то чему-то учить, то лучше сперва исследовать это вдоль и поперёк, чтобы не приходилось строить из себя крутого."
@@ -1774,10 +1774,6 @@ translate italian strings:
     old "Разве это должно пугать?"
     new "Dovrebbe essere spaventoso?"
 
-    # game/scripts/story_01/morningwood.rpy:143
-    old "Открыто новое задание «Наставник»!"
-    new "È aperto un nuovo incarico di mentore!"
-
     # game/scripts/story_01/morningwood.rpy:213
     old "{i}ждать...{/i}"
     new "{i}attendere...{/i}"
@@ -1786,23 +1782,15 @@ translate italian strings:
     old "Да трогай уже, он не кусается!"
     new "Sì, tocca già, non morde!"
 
-    # game/scripts/story_01/morningwood.rpy:315
-    old "Задание «Наставник» обновлено!"
-    new "L'incarico \"Mentore\" è stato aggiornato!"
-
-    # game/scripts/story_01/morningwood.rpy:566
+    # game/scripts/story_01/morningwood.rpy:570
     old "{i}искать у кровати{/i}"
     new "{i}cercare vicino al letto{/i}"
 
-    # game/scripts/story_01/morningwood.rpy:566
+    # game/scripts/story_01/morningwood.rpy:570
     old "{i}искать в шкафу{/i}"
     new "{i}guarda nell'armadio{/i}"
 
-    # game/scripts/story_01/morningwood.rpy:566
+    # game/scripts/story_01/morningwood.rpy:570
     old "{i}искать в столе{/i}"
     new "{i}cerca nella scrivania{/i}"
-
-    # game/scripts/story_01/morningwood.rpy:738
-    old "Задание «Наставник» завершено!"
-    new "Missione «Mentore» completata!"
 

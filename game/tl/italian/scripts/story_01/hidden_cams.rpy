@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-08-14 23:38
+# TODO: Translation updated at 2024-12-25 17:41
 
 # game/scripts/story_01/hidden_cams.rpy:12
 translate italian ev_003_089bb89e:
@@ -158,18 +158,6 @@ translate italian ev_install_cam_bathroom_1_7c9e4204:
 
 translate italian strings:
 
-    # game/scripts/story_01/hidden_cams.rpy:28
-    old "Задание «Любопытное содержимое» обновлено!"
-    new "Il compito Contenuto curioso è stato aggiornato!"
-
-    # game/scripts/story_01/hidden_cams.rpy:49
-    old "Задание «Любопытное содержимое» завершено!"
-    new "Il compito \"Contenuto curioso\" è completo!"
-
-    # game/scripts/story_01/hidden_cams.rpy:50
-    old "Открыто новое задание «Способ заработать»!"
-    new "Un nuovo incarico \"Un modo per fare soldi\" è aperto!"
-
     # game/scripts/story_01/hidden_cams.rpy:75
     old "{i}Оплатить всё ($150){/i}"
     new "{i}Pagare tutto ($150){/i}"
@@ -181,14 +169,6 @@ translate italian strings:
     # game/scripts/story_01/hidden_cams.rpy:81
     old "{i}настроить работу сайта{/i}"
     new "{i}avviare il sito{/i}"
-
-    # game/scripts/story_01/hidden_cams.rpy:91
-    old "Задание «Способ заработать» завершено!"
-    new "Il compito \"Un modo per fare soldi\" è terminato!"
-
-    # game/scripts/story_01/hidden_cams.rpy:92
-    old "Открыто новое задание «Приумножение заработка»!"
-    new "È aperto un nuovo incarico \"Aumenta i tuoi guadagni\"!"
 
     # game/scripts/story_01/hidden_cams.rpy:142
     old "{i}пойти настроить камеру{/i}"

@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-08-14 23:38
+# TODO: Translation updated at 2024-12-25 17:41
 
 # game/scripts/story_01/homework.rpy:9
 translate italian ev_034_38a2b149:
@@ -1434,10 +1434,6 @@ translate italian strings:
     old "{i}остаться на вилле{/i}"
     new "{i}soggiorno nella villa{/i}"
 
-    # game/scripts/story_01/homework.rpy:358
-    old "Открыто новое задание «При делах»!"
-    new "È stato aperto un nuovo incarico, \"On Business\"!"
-
     # game/scripts/story_01/homework.rpy:468
     old "{i}уборка закончена!{/i}"
     new "{i}la pulizia è finita!{/i}"
@@ -1465,14 +1461,6 @@ translate italian strings:
     # game/scripts/story_01/homework.rpy:604
     old "{i}обнять маму{/i}"
     new "{i}Abbraccia la tua mamma{/i}"
-
-    # game/scripts/story_01/homework.rpy:627
-    old "Задание «При делах» обновлено!"
-    new "Il compito \"On Business\" è stato aggiornato!"
-
-    # game/scripts/story_01/homework.rpy:672
-    old "Задание «При делах» завершено!"
-    new "Il compito «On Business» è completo!"
 
     # game/scripts/story_01/homework.rpy:698
     old "Тогда меня нужно поцеловать для большей мотивации!"

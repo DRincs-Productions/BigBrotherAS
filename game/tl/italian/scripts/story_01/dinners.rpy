@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-08-14 23:38
+# TODO: Translation updated at 2024-12-25 17:41
 
 # game/scripts/story_01/dinners.rpy:31
 translate italian ev_dinner_r1_24ac51ec:
@@ -919,14 +919,6 @@ translate italian ev_067_12502cd3:
     Max 01 "Sì, grazie a tutti..."
 
 translate italian strings:
-
-    # game/scripts/story_01/dinners.rpy:98
-    old "Открыто новое задание «Школьный секретик Лизы»!"
-    new "Una nuova missione «Il segreto scolastico di Lisa» è stata aperta!"
-
-    # game/scripts/story_01/dinners.rpy:139
-    old "Открыто новое задание «Арахнофобия»!"
-    new "La missione «Aracnofobia» è aperta!"
 
     # game/scripts/story_01/dinners.rpy:159
     old "Мама! Дай Лизе шанс подготовиться. Я ей помогу!"

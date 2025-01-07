@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-08-14 23:38
+# TODO: Translation updated at 2024-12-25 17:41
 
 # game/scripts/story_01/sunscreen.rpy:7
 translate italian ev_011_03c9dcee:
@@ -596,10 +596,6 @@ translate italian strings:
     old "Тебя маслицем для загара намазать?"
     new "Ti metto un po' di olio abbronzante?"
 
-    # game/scripts/story_01/sunscreen.rpy:58
-    old "Открыто новое задание «Маслице для загара»!"
-    new "Una nuova missione «Olio abbronzante» è aperta!"
-
     # game/scripts/story_01/sunscreen.rpy:88
     old "Верх снять не хочешь, чтобы было удобнее?"
     new "Volete togliere il top per renderlo più confortevole?"
@@ -623,14 +619,6 @@ translate italian strings:
     # game/scripts/story_01/sunscreen.rpy:174
     old "{i}натереть маслицем её ножки{/i}"
     new "{i}spalma l'olio abbronzante sui piedi{/i}"
-
-    # game/scripts/story_01/sunscreen.rpy:243
-    old "Задание «Маслице для загара» завершено!"
-    new "La missione «Olio abbronzante» è terminata!"
-
-    # game/scripts/story_01/sunscreen.rpy:246
-    old "Открыто новое задание «Домашнее обучение массажу»!"
-    new "Una nuova missione «Massaggio a domicilio» è aperta!"
 
     # game/scripts/story_01/sunscreen.rpy:265
     old "Обгореть на солнце не боишься?"
