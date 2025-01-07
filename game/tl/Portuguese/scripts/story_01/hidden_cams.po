@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-08-15 09:02\n"
+"PO-Revision-Date: 2025-01-03 09:36\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/story_01/hidden_cams.rpy:12 #-#-# translate crowdin ev_003_089bb89e:
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/hidden_cams.rpy:12 #-#-# translate crowdin ev_003_089bb89e:
 msgid "[_tMax_s_13_] Так, мама попросила разобрать коробки. Сейчас глянем, что тут у нас..."
 msgstr ""
 
@@ -116,19 +116,7 @@ msgstr ""
 msgid "[_tMax_s_13_] Правда, подглядывать в окна или заглядывать в комнаты всё равно временами нужно, а то я всю сноровку растеряю и меня станут ловить на раз-два..."
 msgstr ""
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/hidden_cams.rpy:28
-msgid "Задание «Любопытное содержимое» обновлено!"
-msgstr ""
-
-# game/scripts/story_01/hidden_cams.rpy:49
-msgid "Задание «Любопытное содержимое» завершено!"
-msgstr ""
-
-# game/scripts/story_01/hidden_cams.rpy:50
-msgid "Открыто новое задание «Способ заработать»!"
-msgstr ""
-
-# game/scripts/story_01/hidden_cams.rpy:75
+# §translate crowdin strings: #|#|# # game/scripts/story_01/hidden_cams.rpy:75
 msgid "{i}Оплатить всё ($150){/i}"
 msgstr ""
 
@@ -138,14 +126,6 @@ msgstr ""
 
 # game/scripts/story_01/hidden_cams.rpy:81
 msgid "{i}настроить работу сайта{/i}"
-msgstr ""
-
-# game/scripts/story_01/hidden_cams.rpy:91
-msgid "Задание «Способ заработать» завершено!"
-msgstr ""
-
-# game/scripts/story_01/hidden_cams.rpy:92
-msgid "Открыто новое задание «Приумножение заработка»!"
 msgstr ""
 
 # game/scripts/story_01/hidden_cams.rpy:142

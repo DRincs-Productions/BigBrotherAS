@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-08-15 09:02\n"
+"PO-Revision-Date: 2025-01-03 09:36\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/diary.rpy:24
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/diary.rpy:24
 msgid "Задания"
 msgstr "Görevler"
 
@@ -32,35 +32,35 @@ msgstr "YÜRÜRLÜĞE GİRDİ"
 msgid "ВСЕ"
 msgstr "TÜMÜ"
 
-# game/scripts/screens/diary.rpy:140
+# game/scripts/screens/diary.rpy:146
 msgid "Сейчас здесь нет заданий"
 msgstr "Şu anda burada herhangi bir görev yok"
 
-# game/scripts/screens/diary.rpy:185
+# game/scripts/screens/diary.rpy:196
 msgid "Завершите задание, чтобы получить награду..."
 msgstr "Ödülü almak için görevi tamamlayın..."
 
-# game/scripts/screens/diary.rpy:187
+# game/scripts/screens/diary.rpy:198
 msgid "Нужно приблизиться к завершению задания, чтобы узнать о награде..."
 msgstr "Ödülü öğrenmek için görevi tamamlamaya yaklaşmanız gerekiyor..."
 
-# game/scripts/screens/diary.rpy:190
+# game/scripts/screens/diary.rpy:201
 msgid "НАГРАДА:"
 msgstr "ÖDÜL:"
 
-# game/scripts/screens/diary.rpy:337
+# game/scripts/screens/diary.rpy:349
 msgid "МОЯ СТАРШАЯ СЕСТРЁНКА"
 msgstr "BÜYÜK KIZ KARDEŞİM"
 
-# game/scripts/screens/diary.rpy:345
+# game/scripts/screens/diary.rpy:357
 msgid "МОЯ МАМА"
 msgstr "BENİM ANNEM"
 
-# game/scripts/screens/diary.rpy:352
+# game/scripts/screens/diary.rpy:364
 msgid "МОЯ МЛАДШАЯ СЕСТРЁНКА"
 msgstr ""
 
-# game/scripts/screens/diary.rpy:367
+# game/scripts/screens/diary.rpy:379
 msgid "НАШИ ВЗАИМООТНОШЕНИЯ:"
 msgstr "ILIŞKIMIZ:"
 

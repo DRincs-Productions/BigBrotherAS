@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-08-18 11:32\n"
+"PO-Revision-Date: 2025-01-03 11:03\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/engine/interact.rpy:37 #-#-# translate crowdin talks_start_41e41361:
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/engine/interact.rpy:37 #-#-# translate crowdin talks_start_41e41361:
 msgid "[_Alice_s_00_] Ну же, Макс, что хотел? [nointeract]"
 msgstr "[_Alice_s_00_] Dai, Max, cosa vuoi? [nointeract]"
 
@@ -161,6 +161,10 @@ msgid "Я решил потренироваться..."
 msgstr "Ho deciso di esercitarmi..."
 
 # game/scripts/engine/interact.rpy:192
+msgid "Можно с тобой потренироваться?"
+msgstr "Posso esercitarmi con te?"
+
+# game/scripts/engine/interact.rpy:192
 msgid "У меня для тебя обещанная вкусняшка!"
 msgstr "Ho il dolcetto che ti ho promesso!"
 
@@ -207,4 +211,8 @@ msgstr "Sei un buon baciatore?"
 # game/scripts/engine/interact.rpy:192
 msgid "Мам, а как научиться хорошо целоваться?"
 msgstr "Mamma, come si impara ad essere un buon baciatore?"
+
+# game/scripts/engine/interact.rpy:192
+msgid "У меня для тебя кое-что сладенькое!"
+msgstr "Ho qualcosa di dolce per te!"
 

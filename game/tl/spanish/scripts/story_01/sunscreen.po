@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-08-15 08:59\n"
+"PO-Revision-Date: 2025-01-03 09:33\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/story_01/sunscreen.rpy:7 #-#-# translate crowdin ev_011_03c9dcee:
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/sunscreen.rpy:7 #-#-# translate crowdin ev_011_03c9dcee:
 msgid "[_Alice_s_01_] Как ты догадался, Шерлок? [nointeract]"
 msgstr "[_Alice_s_01_] ¿Cómo lo has averiguado, Sherlock? [nointeract]"
 
@@ -412,10 +412,6 @@ msgstr "Tal vez debería ponerte un poco de aceite bronceador?"
 msgid "Тебя маслицем для загара намазать?"
 msgstr "¿Necesitas aceite bronceador?"
 
-# game/scripts/story_01/sunscreen.rpy:58
-msgid "Открыто новое задание «Маслице для загара»!"
-msgstr "Una nueva oportunidad «Aceite bronceador» está abierta!"
-
 # game/scripts/story_01/sunscreen.rpy:88
 msgid "Верх снять не хочешь, чтобы было удобнее?"
 msgstr "¿Quieres quitarle la capota para que sea más cómodo?"
@@ -439,14 +435,6 @@ msgstr "Lo que tú digas... {i}(admira){/i}"
 # game/scripts/story_01/sunscreen.rpy:174
 msgid "{i}натереть маслицем её ножки{/i}"
 msgstr "{i}frotar aceite en sus pies{/i}"
-
-# game/scripts/story_01/sunscreen.rpy:243
-msgid "Задание «Маслице для загара» завершено!"
-msgstr "Oportunidad «Aceite bronceador» ¡se acabó!"
-
-# game/scripts/story_01/sunscreen.rpy:246
-msgid "Открыто новое задание «Домашнее обучение массажу»!"
-msgstr "¡Se abre una nueva oportunidad «Masaje a domicilio»!"
 
 # game/scripts/story_01/sunscreen.rpy:265
 msgid "Обгореть на солнце не боишься?"

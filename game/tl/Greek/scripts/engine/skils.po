@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2024-08-15 08:59\n"
+"PO-Revision-Date: 2025-01-03 09:33\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/skils.rpy:14
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/skils.rpy:14
 msgid "скрытность"
 msgstr ""
 
@@ -40,43 +40,47 @@ msgstr ""
 msgid "настроение"
 msgstr ""
 
-# game/scripts/engine/skils.rpy:193
+# game/scripts/engine/skils.rpy:197
 msgid "Я остался незамеченным!"
 msgstr ""
 
-# game/scripts/engine/skils.rpy:193
+# game/scripts/engine/skils.rpy:197
 msgid "Убеждение удалось!"
 msgstr ""
 
-# game/scripts/engine/skils.rpy:193
+# game/scripts/engine/skils.rpy:197
 msgid "Паук найден!"
 msgstr ""
 
-# game/scripts/engine/skils.rpy:193
+# game/scripts/engine/skils.rpy:197
 msgid "Ей понравился массаж!"
 msgstr ""
 
-# game/scripts/engine/skils.rpy:203
+# game/scripts/engine/skils.rpy:207
 msgid "Я чуть не попался!"
 msgstr ""
 
-# game/scripts/engine/skils.rpy:203
+# game/scripts/engine/skils.rpy:207
 msgid "Мне не стоит это делать!"
 msgstr ""
 
-# game/scripts/engine/skils.rpy:203
+# game/scripts/engine/skils.rpy:207
 msgid "Вот чёрт, я попался!"
 msgstr ""
 
-# game/scripts/engine/skils.rpy:203
+# game/scripts/engine/skils.rpy:207
 msgid "Убеждение не удалось!"
 msgstr ""
 
-# game/scripts/engine/skils.rpy:203
+# game/scripts/engine/skils.rpy:207
 msgid "Безрезультатно!"
 msgstr ""
 
-# game/scripts/engine/skils.rpy:203
+# game/scripts/engine/skils.rpy:207
 msgid "Ей не понравился массаж!"
 msgstr ""
+
+# game/scripts/engine/skils.rpy:217
+msgid "Выполнены ещё не все условия..."
+msgstr "Δεν έχουν εκπληρωθεί ακόμη όλες οι προϋποθέσεις..."
 

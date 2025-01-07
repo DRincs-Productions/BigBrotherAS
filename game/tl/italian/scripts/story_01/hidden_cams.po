@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-08-15 09:01\n"
+"PO-Revision-Date: 2025-01-03 09:35\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/story_01/hidden_cams.rpy:12 #-#-# translate crowdin ev_003_089bb89e:
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/hidden_cams.rpy:12 #-#-# translate crowdin ev_003_089bb89e:
 msgid "[_tMax_s_13_] Так, мама попросила разобрать коробки. Сейчас глянем, что тут у нас..."
 msgstr "[_tMax_s_13_] Bene, la mamma mi ha chiesto di aprire le scatole. Vediamo cosa abbiamo qui..."
 
@@ -116,19 +116,7 @@ msgstr "[_tMax_s_04_] È tutto funzionante! Ora, grazie alla telecamera del bagn
 msgid "[_tMax_s_13_] Правда, подглядывать в окна или заглядывать в комнаты всё равно временами нужно, а то я всю сноровку растеряю и меня станут ловить на раз-два..."
 msgstr "[_tMax_s_13_] È vero, a volte bisogna comunque sbirciare dalle finestre o guardare nelle stanze, altrimenti perderò tutta la mia abilità e mi prenderanno in un attimo..."
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/hidden_cams.rpy:28
-msgid "Задание «Любопытное содержимое» обновлено!"
-msgstr "Il compito Contenuto curioso è stato aggiornato!"
-
-# game/scripts/story_01/hidden_cams.rpy:49
-msgid "Задание «Любопытное содержимое» завершено!"
-msgstr "Il compito \"Contenuto curioso\" è completo!"
-
-# game/scripts/story_01/hidden_cams.rpy:50
-msgid "Открыто новое задание «Способ заработать»!"
-msgstr "Un nuovo incarico \"Un modo per fare soldi\" è aperto!"
-
-# game/scripts/story_01/hidden_cams.rpy:75
+# §translate crowdin strings: #|#|# # game/scripts/story_01/hidden_cams.rpy:75
 msgid "{i}Оплатить всё ($150){/i}"
 msgstr "{i}Pagare tutto ($150){/i}"
 
@@ -139,14 +127,6 @@ msgstr "{i}Un'altra volta... {/i}"
 # game/scripts/story_01/hidden_cams.rpy:81
 msgid "{i}настроить работу сайта{/i}"
 msgstr "{i}avviare il sito{/i}"
-
-# game/scripts/story_01/hidden_cams.rpy:91
-msgid "Задание «Способ заработать» завершено!"
-msgstr "Il compito \"Un modo per fare soldi\" è terminato!"
-
-# game/scripts/story_01/hidden_cams.rpy:92
-msgid "Открыто новое задание «Приумножение заработка»!"
-msgstr "È aperto un nuovo incarico \"Aumenta i tuoi guadagni\"!"
 
 # game/scripts/story_01/hidden_cams.rpy:142
 msgid "{i}пойти настроить камеру{/i}"

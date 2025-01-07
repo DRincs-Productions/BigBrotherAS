@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/engine/bonuses.po\n"
+"X-Crowdin-File-ID: 13122\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2025-01-03 09:37\n"
+
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/bonuses.rpy:122
+msgid "Мне нравится йога!"
+msgstr "Yogaya bayılırım!"
+
+# game/scripts/engine/bonuses.rpy:122
+msgid "В качестве альтернативы наказаниям за некоторые проступки я могу заниматься физкультурой во время маминой йоги.\n"
+"Это возможно, если я попался на подглядывании в душе за Лизой или мамой, а так же если Лиза проснулась от моих утренних прикосновений.\n"
+"И, раз уж так можно, то почему бы не улучшить это событие, хотя бы немного?"
+msgstr "Bazı suçlar için cezaya alternatif olarak, annemin yoga dersi sırasında egzersiz yapabiliyorum.\n"
+"Eğer duşta Lisa'yı ya da annemi dikizlerken yakalanırsam ya da Lisa sabah dokunuşlarımla uyanırsa bu mümkün.\n"
+"Madem mümkün, neden bu deneyimi biraz da olsa iyileştirmeyelim?"
+
+# game/scripts/engine/bonuses.rpy:122
+msgid "Три раза добиться от мамы помощи с прессом, отбывая наказание во время йоги"
+msgstr "Yoga sırasında annemden üç kez karın kaslarımı çalıştırması için yardım almak"
+
+# game/scripts/engine/bonuses.rpy:122
+msgid "Возможность свободного занятия физкультурой, пока мама занимается йогой"
+msgstr "Annem yoga yaparken özgürce egzersiz yapabilmek"
+
+# game/scripts/engine/bonuses.rpy:122
+msgid "Альтернативный визуальный ряд окончания физкультуры"
+msgstr "Beden Eğitimi dersinin sonu için alternatif görseller"
+
+# game/scripts/engine/bonuses.rpy:122
+msgid "Тот ещё фантазёр!"
+msgstr "Ne hayalperest ama!"
+
+# game/scripts/engine/bonuses.rpy:122
+msgid "Как же не хочется, чтобы фантазия с моей мокренькой младшей сестрёнкой заканчивалась.\n"
+"А ведь я мог бы постараться и продлить это наслаждение! Пускай не на много, но всё же..."
+msgstr "Islak küçük kız kardeşimle olan fantezimin bitmesini istemiyorum.\n"
+"Bu zevki uzatmaya çalışabilirim! Çok değil ama yine de...."
+
+# game/scripts/engine/bonuses.rpy:122
+msgid "«Горячий» кадр с Лизой и Максом в душе из будущих глав игры"
+msgstr "Oyunun gelecek bölümlerinden Lisa ve Max'in duşta \"sıcak\" çekimi"
+
+# game/scripts/engine/bonuses.rpy:122
+msgid "Фантазия с Лизой в душе дополняется анимационным моментом"
+msgstr "Lisa'nın duşta olduğu fantezi, hareketli bir anla tamamlanır"
+

@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-08-15 08:57\n"
+"PO-Revision-Date: 2025-01-03 09:31\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/story_01/hidden_cams.rpy:12 #-#-# translate crowdin ev_003_089bb89e:
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/hidden_cams.rpy:12 #-#-# translate crowdin ev_003_089bb89e:
 msgid "[_tMax_s_13_] Так, мама попросила разобрать коробки. Сейчас глянем, что тут у нас..."
 msgstr "[_tMax_s_13_] Ma mère m'a demandé de démonter les boîtes. Voyons ce que nous avons là..."
 
@@ -116,19 +116,7 @@ msgstr ""
 msgid "[_tMax_s_13_] Правда, подглядывать в окна или заглядывать в комнаты всё равно временами нужно, а то я всю сноровку растеряю и меня станут ловить на раз-два..."
 msgstr ""
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/hidden_cams.rpy:28
-msgid "Задание «Любопытное содержимое» обновлено!"
-msgstr "La mission Curious Content a été mise à jour !"
-
-# game/scripts/story_01/hidden_cams.rpy:49
-msgid "Задание «Любопытное содержимое» завершено!"
-msgstr "La mission «Curious Content« est terminée !"
-
-# game/scripts/story_01/hidden_cams.rpy:50
-msgid "Открыто новое задание «Способ заработать»!"
-msgstr "Une nouvelle mission «Un moyen de gagner de l'argent« est ouverte !"
-
-# game/scripts/story_01/hidden_cams.rpy:75
+# §translate crowdin strings: #|#|# # game/scripts/story_01/hidden_cams.rpy:75
 msgid "{i}Оплатить всё ($150){/i}"
 msgstr "{i}Payer tout (150 $){/i}"
 
@@ -139,14 +127,6 @@ msgstr "{i}Une autre fois...{/i}"
 # game/scripts/story_01/hidden_cams.rpy:81
 msgid "{i}настроить работу сайта{/i}"
 msgstr "{i}mettre en place le site{/i}"
-
-# game/scripts/story_01/hidden_cams.rpy:91
-msgid "Задание «Способ заработать» завершено!"
-msgstr "La mission «Un moyen de gagner de l'argent« est terminée !"
-
-# game/scripts/story_01/hidden_cams.rpy:92
-msgid "Открыто новое задание «Приумножение заработка»!"
-msgstr "Une nouvelle mission «Augmentez vos revenus« est ouverte !"
 
 # game/scripts/story_01/hidden_cams.rpy:142
 msgid "{i}пойти настроить камеру{/i}"

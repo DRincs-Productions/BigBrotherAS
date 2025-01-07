@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-08-15 09:02\n"
+"PO-Revision-Date: 2025-01-03 09:36\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/laptop.rpy:21
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/laptop.rpy:21
 msgid "ОНЛАЙН-КУРСЫ"
 msgstr "ONLINE KURSLAR"
 
@@ -33,8 +33,8 @@ msgid "Настройка VPN-сервиса"
 msgstr "VPN hizmetini yapılandırma"
 
 # game/scripts/screens/laptop.rpy:21
-msgid "САЙТ АЛИСЫ"
-msgstr "ALICE'İN SİTESİ"
+msgid "АЛИСА НА «MYCAMS»"
+msgstr "ALICE \"MYCAMS\" KONUSUNDA"
 
 # game/scripts/screens/laptop.rpy:21
 msgid "ЧИТ-МЕНЮ"
@@ -88,43 +88,47 @@ msgstr "İNTERNET GİRİŞİMCİLERİNE UYGUN KREDİLER"
 msgid "ВЗЯТЬ КРЕДИТ"
 msgstr "KREDI ALMAK"
 
-# game/scripts/screens/laptop.rpy:517
+# game/scripts/screens/laptop.rpy:523
 msgid "Общий доход:"
 msgstr "Toplam Gelir:"
 
-# game/scripts/screens/laptop.rpy:518
+# game/scripts/screens/laptop.rpy:524
 msgid "Последнее начисление:"
 msgstr "Son tahakkuk:"
 
-# game/scripts/screens/laptop.rpy:596
+# game/scripts/screens/laptop.rpy:602
 msgid "Общение"
 msgstr "İletişim"
 
-# game/scripts/screens/laptop.rpy:611
+# game/scripts/screens/laptop.rpy:617
 msgid "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
 msgstr "Bu kategorideki mevcut tüm kursları ve dersleri tamamladınız. Oyunun bir sonraki sürümünde yeni dersler görünebilir."
 
-# game/scripts/screens/laptop.rpy:619
+# game/scripts/screens/laptop.rpy:625
 msgid "Вы уже оплатили этот курс и можете в любой момент включить следующий доступный видеоурок."
 msgstr "Bu kurs için zaten ödeme yaptınız ve istediğiniz zaman bir sonraki mevcut video dersini açabilirsiniz."
 
-# game/scripts/screens/laptop.rpy:620
+# game/scripts/screens/laptop.rpy:626
 msgid "Занятие [learn] из 3"
 msgstr "Sınıf [learn] of 3"
 
-# game/scripts/screens/laptop.rpy:623
+# game/scripts/screens/laptop.rpy:629
 msgid "НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА"
 msgstr "VIDEO DERSINI IZLEMEYE BAŞLAYIN"
 
-# game/scripts/screens/laptop.rpy:627
+# game/scripts/screens/laptop.rpy:633
 msgid "ВЫ УЧИЛИСЬ СОВСЕМ НЕДАВНО. СДЕЛАЙТЕ ПЕРЕРЫВ!"
 msgstr "SON ZAMANLARDA ÇALIŞIYORDUNUZ. MOLA VER!"
 
-# game/scripts/screens/laptop.rpy:635
+# game/scripts/screens/laptop.rpy:641
 msgid "Количество занятий: 3"
 msgstr "Sınıf sayısı: 3"
 
-# game/scripts/screens/laptop.rpy:637
+# game/scripts/screens/laptop.rpy:643
 msgid "ПРИОБРЕСТИ ЭТОТ КУРС ЗА $[cource.price]"
 msgstr "BU KURSU $ KARŞILIĞINDA SATIN ALMAK IÇIN[cource.price]"
+
+# game/scripts/screens/laptop.rpy:696
+msgid "Удвоение дохода из любых источников"
+msgstr "Herhangi bir kaynaktan elde ettiğiniz geliri ikiye katlayın"
 

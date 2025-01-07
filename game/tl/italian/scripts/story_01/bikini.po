@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-08-15 09:00\n"
+"PO-Revision-Date: 2025-01-03 09:34\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/story_01/bikini.rpy:8 #-#-# translate crowdin ev_008_3c08b543:
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/bikini.rpy:8 #-#-# translate crowdin ev_008_3c08b543:
 msgid "[_Lisa_s_09_] Жарко... Но у меня другого и нет. Ты же знаешь, что наши вещи пропали. Вот там и все мои купальники были..."
 msgstr "[_Lisa_s_09_] Fa caldo... Ma non ho nient'altro. Sai che le nostre cose sono andate perse. È lì che si trovavano tutti i miei costumi da bagno..."
 
@@ -67,8 +67,4 @@ msgstr "[_Lisa_s_11_] Beh, ti ringrazierò..."
 # game/scripts/story_01/bikini.rpy:28 #-#-# translate crowdin ev_008_255a19b4:
 msgid "[_Max_s_01_] Ладно, идёт!"
 msgstr "[_Max_s_01_] Va bene, ci siamo!"
-
-# §translate crowdin strings: #|#|# # game/scripts/story_01/bikini.rpy:31
-msgid "Открыто новое задание «Новый купальник»!"
-msgstr "Il nuovo incarico \"Nuovo costume da bagno\" è aperto!"
 

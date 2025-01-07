@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-08-15 09:00\n"
+"PO-Revision-Date: 2025-01-03 09:34\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/story_01/breakfasts.rpy:30 #-#-# translate crowdin ev_breakfast_r1_6e8dcf3c:
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/breakfasts.rpy:30 #-#-# translate crowdin ev_breakfast_r1_6e8dcf3c:
 msgid "[_Ann_s_01_] Всех ещё раз с добрым утром, всем приятного аппетита! Ешьте, пока не остыло."
 msgstr "[_Ann_s_01_] Buongiorno a tutti e buon appetito! Mangiate prima che si raffreddi."
 
@@ -564,11 +564,7 @@ msgstr "[_Ann_s_01_] Sai, penso che Eric sia una persona perbene. Non incontravo
 msgid "[_Lisa_s_05_] Да, было очень вкусно."
 msgstr "[_Lisa_s_05_] Sì, era delizioso."
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/breakfasts.rpy:78
-msgid "Открыто новое задание «Любопытное содержимое»!"
-msgstr "È stato aperto un nuovo incarico di Contenuto curioso!"
-
-# game/scripts/story_01/breakfasts.rpy:180
+# §translate crowdin strings: #|#|# # game/scripts/story_01/breakfasts.rpy:180
 msgid "Это всё соседи..."
 msgstr "Sono i vicini..."
 

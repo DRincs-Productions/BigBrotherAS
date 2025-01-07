@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-08-18 14:16\n"
+"PO-Revision-Date: 2025-01-03 09:35\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/story_01/max_learning.rpy:8 #-#-# translate crowdin ev_029_47925c16:
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/max_learning.rpy:8 #-#-# translate crowdin ev_029_47925c16:
 msgid "[_Max_s_00_] Пришло время почитать... [nointeract]"
 msgstr "[_Max_s_00_] È ora di leggere...[nointeract]"
 
@@ -60,27 +60,27 @@ msgstr "[_Max_s_01_] Meno male che ho letto questo libro prima d'insegnare a mia
 msgid "[_Max_s_12_] Эх, всё-таки нужно было сперва прочитать эту книгу, а уже потом учить сестрёнку премудростям взрослой жизни. Только зазря опозорился! Теперь, можно лишь попробовать всё исправить. Если, конечно, получится..."
 msgstr "[_Max_s_12_] Avrei dovuto leggere prima questo libro e poi insegnare a mia sorella la saggezza della vita adulta. Mi sono messo in imbarazzo per niente! Ora non posso far altro che cercare di sistemare le cose. Se, ovviamente, ci riesco..."
 
-# game/scripts/story_01/max_learning.rpy:88 #-#-# translate crowdin ev_046_23ca8fd9:
+# game/scripts/story_01/max_learning.rpy:89 #-#-# translate crowdin ev_046_23ca8fd9:
 msgid "[_Max_s_01_] Хм... мне кажется такое можно и лёжа на кровати изучать. Надеюсь, меня не станет клонить в сон..."
 msgstr "[_Max_s_01_] Ehm... Penso che si possa fare stando a letto. Spero di non addormentarmi..."
 
-# game/scripts/story_01/max_learning.rpy:92 #-#-# translate crowdin ev_046_66ef962f:
+# game/scripts/story_01/max_learning.rpy:93 #-#-# translate crowdin ev_046_66ef962f:
 msgid "[_Max_s_11_] Хорошая штука эти онлайн-курсы. Можно научиться всему, не выходя из дома! Вот только и стоит это немало..."
 msgstr "[_Max_s_11_] I corsi online sono un'ottima cosa. Si può imparare tutto comodamente da casa propria! Ma costa anche molto..."
 
-# game/scripts/story_01/max_learning.rpy:96 #-#-# translate crowdin ev_046_81dac6d3:
+# game/scripts/story_01/max_learning.rpy:97 #-#-# translate crowdin ev_046_81dac6d3:
 msgid "[_Max_s_04_] Не сказать, что это сложное занятие, но знаний, а так же опыта в этом деле нужно много! И теперь я готов закреплять полученные знания на практике..."
 msgstr "[_Max_s_04_] Non posso dire che sia difficile, ma ci vuole molta conoscenza ed esperienza! E ora sono pronto a mettere in pratica ciò che ho imparato..."
 
-# game/scripts/story_01/max_learning.rpy:103 #-#-# translate crowdin ev_046_1c72ad2c:
+# game/scripts/story_01/max_learning.rpy:104 #-#-# translate crowdin ev_046_1c72ad2c:
 msgid "[_tMax_s_01_] И раз уж с Алисы это началось, то на ней я и начну практиковаться. Надеюсь, руки она мне не выдернет, если я сделаю что-то не так..."
 msgstr "[_tMax_s_01_] E visto che è iniziato con Alice, inizierò a esercitarmi su di lei. Spero che non mi strappi le braccia se faccio qualcosa di sbagliato..."
 
-# game/scripts/story_01/max_learning.rpy:114 #-#-# translate crowdin ev_046_2c43168e:
+# game/scripts/story_01/max_learning.rpy:115 #-#-# translate crowdin ev_046_2c43168e:
 msgid "[_tMax_s_01_] Мне как раз нужно убедить Алису в том, что показывать стриптиз через веб-камеру - не так уж и плохо. И даже может быть прибыльно, если она будет это делать с чувством..."
 msgstr "[_tMax_s_01_] Devo convincere Alice che spogliarsi in webcam non è poi così male. Potrebbe persino essere redditizio se lo facesse con un senso di..."
 
-# game/scripts/story_01/max_learning.rpy:117 #-#-# translate crowdin ev_046_66ef962f_1:
+# game/scripts/story_01/max_learning.rpy:118 #-#-# translate crowdin ev_046_66ef962f_1:
 msgid "[_Max_s_11_] Хорошая штука эти онлайн-курсы. Можно научиться всему, не выходя из дома! Вот только и стоит это немало..."
 msgstr "[_Max_s_11_] I corsi online sono un'ottima cosa. Si può imparare tutto comodamente da casa propria! Ma costa anche molto..."
 
@@ -128,27 +128,19 @@ msgstr "Il libro è stato studiato al 50%"
 msgid "Книга изучена на 75%"
 msgstr "Il libro è stato studiato al 75%"
 
-# game/scripts/story_01/max_learning.rpy:89
+# game/scripts/story_01/max_learning.rpy:90
 msgid "Курс изучен на 33%"
 msgstr "Il corso è completo al 33%"
 
-# game/scripts/story_01/max_learning.rpy:93
+# game/scripts/story_01/max_learning.rpy:94
 msgid "Курс изучен на 66%"
 msgstr "Il corso è completo al 66%"
 
-# game/scripts/story_01/max_learning.rpy:99
+# game/scripts/story_01/max_learning.rpy:100
 msgid "Курс полностью изучен"
 msgstr "Il corso è stato completamente approfondito"
 
-# game/scripts/story_01/max_learning.rpy:105
+# game/scripts/story_01/max_learning.rpy:106
 msgid "Получен навык «Массаж»!"
 msgstr "L'abilità «Massaggio» è stata ottenuta!"
-
-# game/scripts/story_01/max_learning.rpy:106
-msgid "Задание «Домашнее обучение массажу» завершено!"
-msgstr "La missione «Formazione sul massaggio a domicilio» è stata completata!"
-
-# game/scripts/story_01/max_learning.rpy:107
-msgid "Открыто новое задание «Талантливый массажист»!"
-msgstr "Una nuova missione «Massaggiatore di talento» è aperta!"
 

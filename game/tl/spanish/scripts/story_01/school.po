@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-08-15 08:59\n"
+"PO-Revision-Date: 2025-01-03 09:33\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/story_01/school.rpy:10 #-#-# translate crowdin ev_004_1fe4b55c:
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/school.rpy:10 #-#-# translate crowdin ev_004_1fe4b55c:
 msgid "[_Lisa_s_01_] Эй, Макс, я пошла в школу. Надеюсь, у меня всё заладится с самого первого дня..."
 msgstr "[_Lisa_s_01_] Hola, Max, me voy a la escuela. Espero hacerlo bien desde el primer día..."
 
@@ -148,375 +148,375 @@ msgstr "[_Lisa_s_02_] ¡Bueno, así es! ¡Eres mi hermano y siempre serás el ho
 msgid "[_Max_s_04_] Я тоже тебя люблю, сестрёнка!"
 msgstr "[_Max_s_04_] ¡Yo también te quiero, hermanita!"
 
-# game/scripts/story_01/school.rpy:88 #-#-# translate crowdin ev_005_cc1f6bd7:
+# game/scripts/story_01/school.rpy:89 #-#-# translate crowdin ev_005_cc1f6bd7:
 msgid "[_Lisa_s_01_] Но ты слишком не зазнавайся. И никому не рассказывай!"
 msgstr "[_Lisa_s_01_] Pero no te pongas demasiado gallito. Y no se lo digas a nadie!"
 
-# game/scripts/story_01/school.rpy:89 #-#-# translate crowdin ev_005_8c6f4d1d:
+# game/scripts/story_01/school.rpy:90 #-#-# translate crowdin ev_005_8c6f4d1d:
 msgid "[_Max_s_03_] Договорились!"
 msgstr "[_Max_s_03_] Trato hecho!"
 
-# game/scripts/story_01/school.rpy:90 #-#-# translate crowdin ev_005_99b995a8:
+# game/scripts/story_01/school.rpy:91 #-#-# translate crowdin ev_005_99b995a8:
 msgid "[_Lisa_s_00_] Как у тебя день прошёл?"
 msgstr "[_Lisa_s_00_] ¿Qué tal el día?"
 
-# game/scripts/story_01/school.rpy:91 #-#-# translate crowdin ev_005_f70b7ec5:
+# game/scripts/story_01/school.rpy:92 #-#-# translate crowdin ev_005_f70b7ec5:
 msgid "[_Max_s_11_] Привыкаю понемногу ко всему..."
 msgstr "[_Max_s_11_] Me estoy acostumbrando a todo..."
 
-# game/scripts/story_01/school.rpy:92 #-#-# translate crowdin ev_005_5b20a9d3:
+# game/scripts/story_01/school.rpy:93 #-#-# translate crowdin ev_005_5b20a9d3:
 msgid "[_Lisa_s_01_] Да уж, задача сложная. Невыносимые условия жизни и всё такое, да? Что планируешь делать, чем займёшься?"
 msgstr "[_Lisa_s_01_] Sí, es un reto. Condiciones de vida insoportables y todo eso, ¿eh? ¿Qué piensas hacer, qué vas a hacer?"
 
-# game/scripts/story_01/school.rpy:93 #-#-# translate crowdin ev_005_4497117e:
+# game/scripts/story_01/school.rpy:94 #-#-# translate crowdin ev_005_4497117e:
 msgid "[_Max_s_00_] Буду думать как заработать!"
 msgstr "[_Max_s_00_] ¡Ya pensaré en una forma de ganar dinero!"
 
-# game/scripts/story_01/school.rpy:95 #-#-# translate crowdin ev_005_fecb3028:
+# game/scripts/story_01/school.rpy:96 #-#-# translate crowdin ev_005_fecb3028:
 msgid "[_Lisa_s_11_] Что, прямо с первого дня? Отдохни, искупайся для начала. Может быть, мысли появятся... [nointeract]"
 msgstr "[_Lisa_s_11_] ¿Qué, desde el primer día? Descansa, date un baño primero. Tal vez se te ocurran algunas ideas. [nointeract]"
 
-# game/scripts/story_01/school.rpy:101 #-#-# translate crowdin ev_005_9a5d05ce:
+# game/scripts/story_01/school.rpy:102 #-#-# translate crowdin ev_005_9a5d05ce:
 msgid "[_Lisa_s_03_] Лично я планирую купаться и загорать. Загорать и купаться. Пока не надоест. А потом повторю!"
 msgstr "[_Lisa_s_03_] Personalmente, pienso nadar y tomar el sol. Tomar el sol y nadar. Hasta que me aburra. Y entonces volveré a hacerlo!"
 
-# game/scripts/story_01/school.rpy:102 #-#-# translate crowdin ev_005_dedd4d5f:
+# game/scripts/story_01/school.rpy:103 #-#-# translate crowdin ev_005_dedd4d5f:
 msgid "[_Max_s_02_] Отличный план! Так что там у тебя за подружка появилась?"
 msgstr "[_Max_s_02_] ¡Buen plan! ¿Quién es tu novia?"
 
-# game/scripts/story_01/school.rpy:103 #-#-# translate crowdin ev_005_9fda9918:
+# game/scripts/story_01/school.rpy:104 #-#-# translate crowdin ev_005_9fda9918:
 msgid "[_Lisa_s_02_] Обычная такая подружка... Какие подружки бывают обычно, вот у меня такая!"
 msgstr "[_Lisa_s_02_] Es sólo una novia normal. ¿Qué tipo de novias son comunes? ¡Yo tengo una!"
 
-# game/scripts/story_01/school.rpy:104 #-#-# translate crowdin ev_005_b2074a07:
+# game/scripts/story_01/school.rpy:105 #-#-# translate crowdin ev_005_b2074a07:
 msgid "[_Max_s_13_] Имя-то у этой подружки хоть есть?"
 msgstr "[_Max_s_13_] ¿Esta novia tiene siquiera un nombre?"
 
-# game/scripts/story_01/school.rpy:105 #-#-# translate crowdin ev_005_9c9c6859:
+# game/scripts/story_01/school.rpy:106 #-#-# translate crowdin ev_005_9c9c6859:
 msgid "[_Lisa_s_10_] Ну... Э-э-э... Эх... Раскусил ты меня. Да, это не подружка..."
 msgstr "[_Lisa_s_10_] Bien. Erm. Oh. Me has pillado. Sí, no es una novia..."
 
-# game/scripts/story_01/school.rpy:106 #-#-# translate crowdin ev_005_095efff2:
+# game/scripts/story_01/school.rpy:107 #-#-# translate crowdin ev_005_095efff2:
 msgid "[_Max_s_11_] Так кто он?"
 msgstr "[_Max_s_11_] ¿Quién es?"
 
-# game/scripts/story_01/school.rpy:107 #-#-# translate crowdin ev_005_08a94415:
+# game/scripts/story_01/school.rpy:108 #-#-# translate crowdin ev_005_08a94415:
 msgid "[_Lisa_s_11_] А вот не скажу! Может быть, в другой раз..."
 msgstr "[_Lisa_s_11_] No te lo diré. Tal vez en otra ocasión..."
 
-# game/scripts/story_01/school.rpy:108 #-#-# translate crowdin ev_005_efe15374:
+# game/scripts/story_01/school.rpy:109 #-#-# translate crowdin ev_005_efe15374:
 msgid "[_Max_s_03_] Хорошо. В другой, так в другой. Отдыхай..."
 msgstr "[_Max_s_03_] De acuerdo. El otro, luego el otro. Descansa un poco..."
 
-# game/scripts/story_01/school.rpy:110 #-#-# translate crowdin ev_005_c680a9de:
+# game/scripts/story_01/school.rpy:111 #-#-# translate crowdin ev_005_c680a9de:
 msgid "[_Lisa_s_02_] Ты что, Макс, уже наплавался? [nointeract]"
 msgstr "[_Lisa_s_02_] ¿Ya te cansaste de nadar, Max? [nointeract]"
 
-# game/scripts/story_01/school.rpy:123 #-#-# translate crowdin ev_005_2888b1b8:
+# game/scripts/story_01/school.rpy:124 #-#-# translate crowdin ev_005_2888b1b8:
 msgid "[_tMax_s_01_] Приятно наблюдать, как Лиза плавает. Так задорно своими стройными ножками двигает... [nointeract]"
 msgstr "[_tMax_s_01_] Es agradable ver nadar a Lisa. Mueve sus torneadas piernas tan alegremente.... [nointeract]"
 
-# game/scripts/story_01/school.rpy:131 #-#-# translate crowdin ev_005_706e6985:
+# game/scripts/story_01/school.rpy:132 #-#-# translate crowdin ev_005_706e6985:
 msgid "[_tMax_s_04_] А как она под водой красиво смотрится! Так и хочется сделать что-нибудь эдакое... [nointeract]"
 msgstr "[_tMax_s_04_] ¡Y qué bonito se ve bajo el agua! Me dan ganas de hacer algo especial.... [nointeract]"
 
-# game/scripts/story_01/school.rpy:138 #-#-# translate crowdin ev_005_a599bccd:
+# game/scripts/story_01/school.rpy:139 #-#-# translate crowdin ev_005_a599bccd:
 msgid "[_Lisa_s_02_] Фух, я наплавалась. Теперь буду загорать!"
 msgstr "[_Lisa_s_02_] Uf, ya me he bañado. Ahora voy a tomar el sol!"
 
-# game/scripts/story_01/school.rpy:139 #-#-# translate crowdin ev_005_7d0014e5:
+# game/scripts/story_01/school.rpy:140 #-#-# translate crowdin ev_005_7d0014e5:
 msgid "[_Max_s_01_] А мне пора делами заниматься..."
 msgstr "[_Max_s_01_] Tengo cosas que hacer..."
 
-# game/scripts/story_01/school.rpy:158 #-#-# translate crowdin ev_010_c7b37111:
+# game/scripts/story_01/school.rpy:159 #-#-# translate crowdin ev_010_c7b37111:
 msgid "[_Lisa_s_09_] Ну да. А что?"
 msgstr "[_Lisa_s_09_] Sí. ¿Por qué?"
 
-# game/scripts/story_01/school.rpy:159 #-#-# translate crowdin ev_010_9268df61:
+# game/scripts/story_01/school.rpy:160 #-#-# translate crowdin ev_010_9268df61:
 msgid "[_Max_s_13_] А как же подробности?"
 msgstr "[_Max_s_13_] ¿Y los detalles?"
 
-# game/scripts/story_01/school.rpy:160 #-#-# translate crowdin ev_010_7ed3aac6:
+# game/scripts/story_01/school.rpy:161 #-#-# translate crowdin ev_010_7ed3aac6:
 msgid "[_Lisa_s_01_] Просто мальчик, который мне понравился. Он со мной заговорил... Так и познакомились."
 msgstr "[_Lisa_s_01_] Sólo un chico que me gustaba. Empezó a hablarme. Así nos conocimos."
 
-# game/scripts/story_01/school.rpy:161 #-#-# translate crowdin ev_010_f5dbdfe7:
+# game/scripts/story_01/school.rpy:162 #-#-# translate crowdin ev_010_f5dbdfe7:
 msgid "[_Max_s_01_] Да не стесняйся, расскажи о нём!"
 msgstr "[_Max_s_01_] ¡No seas tímida, háblame de él!"
 
-# game/scripts/story_01/school.rpy:162 #-#-# translate crowdin ev_010_1e7193d0:
+# game/scripts/story_01/school.rpy:163 #-#-# translate crowdin ev_010_1e7193d0:
 msgid "[_Lisa_s_11_] Ну, парень как парень. Вот как ты, только не такой зануда и красивый."
 msgstr "[_Lisa_s_11_] Bueno, un tío es como un tío. Como tú, sólo que no tan aburrido y mas guapo."
 
-# game/scripts/story_01/school.rpy:163 #-#-# translate crowdin ev_010_c01df258:
+# game/scripts/story_01/school.rpy:164 #-#-# translate crowdin ev_010_c01df258:
 msgid "[_Max_s_15_] Эй, я не зануда!"
 msgstr "[_Max_s_15_] ¡Eh, no soy un aburrido!"
 
-# game/scripts/story_01/school.rpy:164 #-#-# translate crowdin ev_010_52ea2c8d:
+# game/scripts/story_01/school.rpy:165 #-#-# translate crowdin ev_010_52ea2c8d:
 msgid "[_Lisa_s_03_] Ещё какой зануда! Достаёшь меня допросами о моём парне..."
 msgstr "[_Lisa_s_03_] ¡Qué aburrimiento! Interrogándome sobre mi novio..."
 
-# game/scripts/story_01/school.rpy:165 #-#-# translate crowdin ev_010_b1a193c4:
+# game/scripts/story_01/school.rpy:166 #-#-# translate crowdin ev_010_b1a193c4:
 msgid "[_Max_s_11_] Ого, так он уже твой парень?!"
 msgstr "[_Max_s_11_] Vaya, ¿así que ya es tu novio?!"
 
-# game/scripts/story_01/school.rpy:166 #-#-# translate crowdin ev_010_24d10f89:
+# game/scripts/story_01/school.rpy:167 #-#-# translate crowdin ev_010_24d10f89:
 msgid "[_Lisa_s_09_] Нет, ну... я не так выразилась. Мы просто познакомились и, конечно, он не мой парень!"
 msgstr "[_Lisa_s_09_] No, bueno. no, es así como lo digo. Acabamos de conocernos, ¡y por supuesto que no es mi novio!"
 
-# game/scripts/story_01/school.rpy:167 #-#-# translate crowdin ev_010_c170b505:
+# game/scripts/story_01/school.rpy:168 #-#-# translate crowdin ev_010_c170b505:
 msgid "[_Max_s_04_] Я, между прочим, тоже ничего. Получше него буду."
 msgstr "[_Max_s_04_] Yo también soy bastante bueno, por cierto. Soy mejor que él."
 
-# game/scripts/story_01/school.rpy:168 #-#-# translate crowdin ev_010_e5ccc4ca:
+# game/scripts/story_01/school.rpy:169 #-#-# translate crowdin ev_010_e5ccc4ca:
 msgid "[_Lisa_s_03_] Ты мой братишка! Не говори ерунду. Мы и так с тобой спим вместе. Ну, в одной комнате!"
 msgstr "[_Lisa_s_03_] ¡Eres mi hermano pequeño! No digas tonterías. Dormimos juntos de todos modos. Bueno, ¡en la misma habitación!"
 
-# game/scripts/story_01/school.rpy:169 #-#-# translate crowdin ev_010_d2481207:
+# game/scripts/story_01/school.rpy:170 #-#-# translate crowdin ev_010_d2481207:
 msgid "[_Max_s_03_] Думаю, твой парень должен знать, что мы спим вместе."
 msgstr "[_Max_s_03_] Creo que tu novio debería saber que nos acostamos."
 
-# game/scripts/story_01/school.rpy:170 #-#-# translate crowdin ev_010_4d69ec2f:
+# game/scripts/story_01/school.rpy:171 #-#-# translate crowdin ev_010_4d69ec2f:
 msgid "[_Lisa_s_02_] Дурак! Я же в шутку это сказала. И, вообще, прекращай меня доставать!"
 msgstr "[_Lisa_s_02_] ¡Tonto! Sólo estaba bromeando. Y de todos modos, ¡deja de molestarme!"
 
-# game/scripts/story_01/school.rpy:171 #-#-# translate crowdin ev_010_858df039:
+# game/scripts/story_01/school.rpy:172 #-#-# translate crowdin ev_010_858df039:
 msgid "[_Max_s_13_] Я вообще-то переживаю за свою младшую сестрёнку! Поэтому мне и интересно..."
 msgstr "[_Max_s_13_] ¡En realidad estoy preocupado por mi hermana pequeña! Por eso te pregunto..."
 
-# game/scripts/story_01/school.rpy:172 #-#-# translate crowdin ev_010_078ed1ff:
+# game/scripts/story_01/school.rpy:173 #-#-# translate crowdin ev_010_078ed1ff:
 msgid "[_Lisa_s_11_] Извини. Я не подумала. Кстати, спасибо, что со мной болтаешь. Я обычно о таком Алисе рассказывала, но она стала слишком взрослой и мы как-то отдалились..."
 msgstr "[_Lisa_s_11_] Perdóname. No estaba pensando. Gracias por hablar conmigo, por cierto. Solía contárselo a Alice, pero se hizo demasiado mayor y nos distanciamos un poco..."
 
-# game/scripts/story_01/school.rpy:173 #-#-# translate crowdin ev_010_3940925d:
+# game/scripts/story_01/school.rpy:174 #-#-# translate crowdin ev_010_3940925d:
 msgid "[_Max_s_11_] Ну, со мной ты всегда можешь поболтать."
 msgstr "[_Max_s_11_] Bueno, siempre puedes hablar conmigo."
 
-# game/scripts/story_01/school.rpy:174 #-#-# translate crowdin ev_010_1f647314:
+# game/scripts/story_01/school.rpy:175 #-#-# translate crowdin ev_010_1f647314:
 msgid "[_Lisa_s_01_] Ладно, буду иметь в виду!"
 msgstr "[_Lisa_s_01_] Vale, ¡lo tendré en cuenta!"
 
-# game/scripts/story_01/school.rpy:175 #-#-# translate crowdin ev_010_b04f82cc:
+# game/scripts/story_01/school.rpy:176 #-#-# translate crowdin ev_010_b04f82cc:
 msgid "[_Max_s_00_] Что дальше думаешь делать?"
 msgstr "[_Max_s_00_] ¿Qué crees que vas a hacer ahora?"
 
-# game/scripts/story_01/school.rpy:176 #-#-# translate crowdin ev_010_c84dc01f:
+# game/scripts/story_01/school.rpy:177 #-#-# translate crowdin ev_010_c84dc01f:
 msgid "[_Lisa_s_10_] Я не знаю. Посмотрим, как всё пойдёт. Может быть, он уже с кем-то встречается, а тут пришла я такая красивая..."
 msgstr "[_Lisa_s_10_] No lo sé. Ya veremos cómo va. Tal vez él ya está viendo a alguien, y luego llego yo y soy tan bonita..."
 
-# game/scripts/story_01/school.rpy:177 #-#-# translate crowdin ev_010_9361a998:
+# game/scripts/story_01/school.rpy:178 #-#-# translate crowdin ev_010_9361a998:
 msgid "[_Max_s_13_] А не рано тебе с кем-то встречаться?"
 msgstr "[_Max_s_13_] ¿No es un poco pronto para que salgas con alguien?"
 
-# game/scripts/story_01/school.rpy:178 #-#-# translate crowdin ev_010_302be40c:
+# game/scripts/story_01/school.rpy:179 #-#-# translate crowdin ev_010_302be40c:
 msgid "[_Lisa_s_11_] Ты в моём возрасте уже тусил с этой своей, как её... Правда, она тебя бросила..."
 msgstr "[_Lisa_s_11_] Cuando tenías mi edad, ya salías con como se llamaba. Pero ella te dejó..."
 
-# game/scripts/story_01/school.rpy:179 #-#-# translate crowdin ev_010_52ff5bac:
+# game/scripts/story_01/school.rpy:180 #-#-# translate crowdin ev_010_52ff5bac:
 msgid "[_Max_s_12_] Это я её бросил!"
 msgstr "[_Max_s_12_] ¡Yo fui quien la dejó!"
 
-# game/scripts/story_01/school.rpy:180 #-#-# translate crowdin ev_010_dfed2c77:
+# game/scripts/story_01/school.rpy:181 #-#-# translate crowdin ev_010_dfed2c77:
 msgid "[_Lisa_s_02_] Ну да, потом её караулил под окнами, чтобы сказать, как ты её не любишь..."
 msgstr "[_Lisa_s_02_] Sí, entonces por eso te pusiste fuera de su ventana para decirle lo mucho que no la querías..."
 
-# game/scripts/story_01/school.rpy:181 #-#-# translate crowdin ev_010_357ba6cc:
+# game/scripts/story_01/school.rpy:182 #-#-# translate crowdin ev_010_357ba6cc:
 msgid "[_Max_s_01_] В любом случае, у меня опыта больше."
 msgstr "[_Max_s_01_] De todos modos, tengo más experiencia."
 
-# game/scripts/story_01/school.rpy:182 #-#-# translate crowdin ev_010_434b8364:
+# game/scripts/story_01/school.rpy:183 #-#-# translate crowdin ev_010_434b8364:
 msgid "[_Lisa_s_03_] Да уж, ты у нас опытный любовник!"
 msgstr "[_Lisa_s_03_] ¡Sí, eres un amante experimentado!"
 
-# game/scripts/story_01/school.rpy:183 #-#-# translate crowdin ev_010_95aeb60b:
+# game/scripts/story_01/school.rpy:184 #-#-# translate crowdin ev_010_95aeb60b:
 msgid "[_Max_s_11_] Я же не обо всём рассказывал..."
 msgstr "[_Max_s_11_] No es que te lo haya contado todo..."
 
-# game/scripts/story_01/school.rpy:184 #-#-# translate crowdin ev_010_e9eb7927:
+# game/scripts/story_01/school.rpy:185 #-#-# translate crowdin ev_010_e9eb7927:
 msgid "[_Lisa_s_01_] Любопытно... И о чём же ты умолчал?"
 msgstr "[_Lisa_s_01_] Curioso... ¿Qué no me contaste?"
 
-# game/scripts/story_01/school.rpy:185 #-#-# translate crowdin ev_010_305725b0:
+# game/scripts/story_01/school.rpy:186 #-#-# translate crowdin ev_010_305725b0:
 msgid "[_Max_s_04_] В школе по мне все девчонки с ума сходили! И со многими я встречался."
 msgstr "[_Max_s_04_] ¡Todas las chicas de la escuela estaban locas por mí! Y salí con muchas chicas."
 
-# game/scripts/story_01/school.rpy:186 #-#-# translate crowdin ev_010_942ba2cf:
+# game/scripts/story_01/school.rpy:187 #-#-# translate crowdin ev_010_942ba2cf:
 msgid "[_Lisa_s_02_] Так я тебе и поверила..."
 msgstr "[_Lisa_s_02_] Así y yo me lo creo..."
 
-# game/scripts/story_01/school.rpy:187 #-#-# translate crowdin ev_010_3203ad5d:
+# game/scripts/story_01/school.rpy:188 #-#-# translate crowdin ev_010_3203ad5d:
 msgid "[_Max_s_11_] Хочешь верь, хочешь нет, но опыт у меня в этих делах есть. Так что, если будет нужна помощь, обращайся."
 msgstr "[_Max_s_11_] Lo creas o no, tengo experiencia en estos asuntos. Así que, si necesitas ayuda, aquí me tienes."
 
-# game/scripts/story_01/school.rpy:188 #-#-# translate crowdin ev_010_c0e27f39:
+# game/scripts/story_01/school.rpy:189 #-#-# translate crowdin ev_010_c0e27f39:
 msgid "[_Lisa_s_01_] Хорошо, Макс, буду иметь в виду. И спасибо, что поболтал со мной."
 msgstr "[_Lisa_s_01_] Vale, Max, lo tendré en cuenta. Y gracias por hablar conmigo."
 
-# game/scripts/story_01/school.rpy:189 #-#-# translate crowdin ev_010_63a2b4c3:
+# game/scripts/story_01/school.rpy:190 #-#-# translate crowdin ev_010_63a2b4c3:
 msgid "[_Max_s_02_] Да не за что..."
 msgstr "[_Max_s_02_] De nada..."
 
-# game/scripts/story_01/school.rpy:202 #-#-# translate crowdin ev_041_713a11a8:
+# game/scripts/story_01/school.rpy:203 #-#-# translate crowdin ev_041_713a11a8:
 msgid "[_Lisa_s_09_] Макс, давай сменим тему..."
 msgstr "[_Lisa_s_09_] Max, cambiemos de tema..."
 
-# game/scripts/story_01/school.rpy:203 #-#-# translate crowdin ev_041_a568a0dc:
+# game/scripts/story_01/school.rpy:204 #-#-# translate crowdin ev_041_a568a0dc:
 msgid "[_Max_s_13_] Ну Лиза..."
 msgstr "[_Max_s_13_] Bueno, Lisa..."
 
-# game/scripts/story_01/school.rpy:204 #-#-# translate crowdin ev_041_133ab5ed:
+# game/scripts/story_01/school.rpy:205 #-#-# translate crowdin ev_041_133ab5ed:
 msgid "[_Lisa_s_00_] Ну ладно, Макс. Так чего ты хотел узнать?"
 msgstr "[_Lisa_s_00_] Muy bien, Max. ¿Qué querías saber?"
 
-# game/scripts/story_01/school.rpy:205 #-#-# translate crowdin ev_041_8a244529:
+# game/scripts/story_01/school.rpy:206 #-#-# translate crowdin ev_041_8a244529:
 msgid "[_Max_s_11_] Да всё! Что тебе удалось выяснить?"
 msgstr "[_Max_s_11_] ¡Ya está! ¿Qué has averiguado?"
 
-# game/scripts/story_01/school.rpy:206 #-#-# translate crowdin ev_041_c2795d1e:
+# game/scripts/story_01/school.rpy:207 #-#-# translate crowdin ev_041_c2795d1e:
 msgid "[_Lisa_s_10_] Об Алексе? Ну, у него есть подружка, оказывается. Самая красивая девочка в школе, говорят..."
 msgstr "[_Lisa_s_10_] ¿Sobre Alex? Bueno, resulta que tiene novia. La chica más guapa de la escuela, dicen..."
 
-# game/scripts/story_01/school.rpy:207 #-#-# translate crowdin ev_041_76348c30:
+# game/scripts/story_01/school.rpy:208 #-#-# translate crowdin ev_041_76348c30:
 msgid "[_Max_s_03_] Они всё врут. Теперь ты самая красивая девочка в школе!"
 msgstr "[_Max_s_03_] Están mintiendo. ¡Ahora eres la chica más guapa de la escuela!"
 
-# game/scripts/story_01/school.rpy:208 #-#-# translate crowdin ev_041_12dd4137:
+# game/scripts/story_01/school.rpy:209 #-#-# translate crowdin ev_041_12dd4137:
 msgid "[_Lisa_s_01_] Макс, ты такой сегодня... Спасибо за комплимент, но все мальчики без ума от подружки Алекса..."
 msgstr "[_Lisa_s_01_] Max, estás tan amable hoy... Gracias por el cumplido, pero todos los chicos están locos por la novia de Alex..."
 
-# game/scripts/story_01/school.rpy:209 #-#-# translate crowdin ev_041_eb268488:
+# game/scripts/story_01/school.rpy:210 #-#-# translate crowdin ev_041_eb268488:
 msgid "[_Max_s_12_] А ты её сама видела?"
 msgstr "[_Max_s_12_] ¿La has visto tú misma?"
 
-# game/scripts/story_01/school.rpy:210 #-#-# translate crowdin ev_041_78d40cd8:
+# game/scripts/story_01/school.rpy:211 #-#-# translate crowdin ev_041_78d40cd8:
 msgid "[_Lisa_s_11_] Конечно! Мы же в одном классе учимся. Её зовут Оливия."
 msgstr "[_Lisa_s_11_] ¡Claro que sí! Estamos en la misma clase. Se llama Olivia."
 
-# game/scripts/story_01/school.rpy:211 #-#-# translate crowdin ev_041_6f16ad8c:
+# game/scripts/story_01/school.rpy:212 #-#-# translate crowdin ev_041_6f16ad8c:
 msgid "[_Max_s_11_] И какая она?"
 msgstr "[_Max_s_11_] ¿Cómo es ella?"
 
-# game/scripts/story_01/school.rpy:212 #-#-# translate crowdin ev_041_5d6dc0ad:
+# game/scripts/story_01/school.rpy:213 #-#-# translate crowdin ev_041_5d6dc0ad:
 msgid "[_Lisa_s_02_] Ну, она такая хорошая, тихая, скромная. И очень симпатичная..."
 msgstr "[_Lisa_s_02_] Bueno, ella es muy agradable, tranquila, modesta. Y muy guapa..."
 
-# game/scripts/story_01/school.rpy:213 #-#-# translate crowdin ev_041_71f61efd:
+# game/scripts/story_01/school.rpy:214 #-#-# translate crowdin ev_041_71f61efd:
 msgid "[_Max_s_01_] Так тебе и девочки тоже нравятся?"
 msgstr "[_Max_s_01_] ¿Así que también te gustan las chicas?"
 
-# game/scripts/story_01/school.rpy:214 #-#-# translate crowdin ev_041_69d2d70e:
+# game/scripts/story_01/school.rpy:215 #-#-# translate crowdin ev_041_69d2d70e:
 msgid "[_Lisa_s_03_] В смысле? Мне мальчики нравятся, я же говорила уже. Но да, мне она кажется симпатичной..."
 msgstr "[_Lisa_s_03_] ¿Qué quieres decir? Me gustan los chicos, te lo dije antes. Pero sí, creo que es linda..."
 
-# game/scripts/story_01/school.rpy:215 #-#-# translate crowdin ev_041_ffa76775:
+# game/scripts/story_01/school.rpy:216 #-#-# translate crowdin ev_041_ffa76775:
 msgid "[_Max_s_04_] Понятно..."
 msgstr "[_Max_s_04_] Ya veo..."
 
-# game/scripts/story_01/school.rpy:216 #-#-# translate crowdin ev_041_d4676d1b:
+# game/scripts/story_01/school.rpy:217 #-#-# translate crowdin ev_041_d4676d1b:
 msgid "[_Lisa_s_12_] А мне вот не понятно, что теперь делать... Кажется, у меня нет никаких шансов..."
 msgstr "[_Lisa_s_12_] No sé qué hacer ahora. No creo que tenga ninguna posibilidad..."
 
-# game/scripts/story_01/school.rpy:217 #-#-# translate crowdin ev_041_a8c4657f:
+# game/scripts/story_01/school.rpy:218 #-#-# translate crowdin ev_041_a8c4657f:
 msgid "[_Max_s_11_] Подожди, а он сильно в неё влюблён?"
 msgstr "[_Max_s_11_] Espera, ¿está realmente enamorado de ella?"
 
-# game/scripts/story_01/school.rpy:218 #-#-# translate crowdin ev_041_46de64fb:
+# game/scripts/story_01/school.rpy:219 #-#-# translate crowdin ev_041_46de64fb:
 msgid "[_Lisa_s_11_] Ну, мы не очень много общались, но она ему нравится, это точно. Хотя, я ему тоже нравлюсь, похоже... Чуть-чуть..."
 msgstr "[_Lisa_s_11_] Bueno, no hemos hablado mucho, pero le gusta, eso seguro. Aunque parece que yo también le gusto. Un poco..."
 
-# game/scripts/story_01/school.rpy:219 #-#-# translate crowdin ev_041_3acfa0cc:
+# game/scripts/story_01/school.rpy:220 #-#-# translate crowdin ev_041_3acfa0cc:
 msgid "[_Max_s_01_] Вот видишь, не всё потеряно!"
 msgstr "[_Max_s_01_] Como ves, ¡no todo está perdido!"
 
-# game/scripts/story_01/school.rpy:220 #-#-# translate crowdin ev_041_06452fc9:
+# game/scripts/story_01/school.rpy:221 #-#-# translate crowdin ev_041_06452fc9:
 msgid "[_Lisa_s_10_] Ну да, не всё. Но около того. Я даже не представляю, что мне делать. Он мне так нравится..."
 msgstr "[_Lisa_s_10_] Sí, bueno, no todo. Pero está cerca. No tengo ni idea de lo que voy a hacer. Me gusta tanto..."
 
-# game/scripts/story_01/school.rpy:221 #-#-# translate crowdin ev_041_bfdf484e:
+# game/scripts/story_01/school.rpy:222 #-#-# translate crowdin ev_041_bfdf484e:
 msgid "[_Max_s_02_] Надо думать... Как только в моей голове созреет какой-нибудь коварный план, я с тобой поделюсь, хорошо?"
 msgstr "[_Max_s_02_] Tengo que pensar. En cuanto se me ocurra un plan astuto, lo compartiré contigo, ¿vale?"
 
-# game/scripts/story_01/school.rpy:222 #-#-# translate crowdin ev_041_d6771769:
+# game/scripts/story_01/school.rpy:223 #-#-# translate crowdin ev_041_d6771769:
 msgid "[_Lisa_s_11_] Хорошо. Спасибо, Макс, что поговорил. Мне это было нужно..."
 msgstr "[_Lisa_s_11_] Gracias. Gracias, Max, por hablar conmigo. Lo necesitaba..."
 
-# game/scripts/story_01/school.rpy:223 #-#-# translate crowdin ev_041_27dab893:
+# game/scripts/story_01/school.rpy:224 #-#-# translate crowdin ev_041_27dab893:
 msgid "[_Max_s_01_] Всегда пожалуйста!"
 msgstr "[_Max_s_01_] De nada!"
 
-# game/scripts/story_01/school.rpy:230 #-#-# translate crowdin ev_041_128da81b:
+# game/scripts/story_01/school.rpy:231 #-#-# translate crowdin ev_041_128da81b:
 msgid "[_tMax_s_13_] Что же мне предложить Лизе? С одной стороны хочется ей помочь дельным советом, а с другой, не хочется отдавать младшую сестрёнку в руки какому-то там Алексу."
 msgstr "[_tMax_s_13_] ¿Qué le sugiero a Lisa? Por un lado, quiero ayudarla con consejos, pero por otro, no quiero poner a mi hermana pequeña en manos de Alex."
 
-# game/scripts/story_01/school.rpy:231 #-#-# translate crowdin ev_041_a4f6fca1:
+# game/scripts/story_01/school.rpy:232 #-#-# translate crowdin ev_041_a4f6fca1:
 msgid "[_tMax_s_11_] Может, поступить хитро и предложить ей подружиться с Оливией? Таким образом Лиза сможет узнать от неё, действительно ли Алекс так хорош, как ей кажется."
 msgstr "[_tMax_s_11_] Tal vez debería ser astuto y pedirle que sea amiga de Olivia. De ese modo, Lisa podría averiguar por ella si Alex es realmente tan bueno como cree."
 
-# game/scripts/story_01/school.rpy:232 #-#-# translate crowdin ev_041_f6382e5d:
+# game/scripts/story_01/school.rpy:233 #-#-# translate crowdin ev_041_f6382e5d:
 msgid "[_tMax_s_01_] Наверняка ведь, он не слишком идеален... А может и ещё хуже... К тому же, если Лиза сможет сдружиться с Оливией, то рано или поздно приведёт её к нам в гости."
 msgstr "[_tMax_s_01_] Seguro que no es demasiado perfecto. O tal vez incluso peor. Además, si Lisa puede hacerse amiga de Olivia, la traerá a nuestra casa tarde o temprano."
 
-# game/scripts/story_01/school.rpy:233 #-#-# translate crowdin ev_041_2567aac1:
+# game/scripts/story_01/school.rpy:234 #-#-# translate crowdin ev_041_2567aac1:
 msgid "[_tMax_s_00_] Но далеко загадывать не буду... Сегодня ещё подумаю, как мне убедить Лизу в том, что это хороший план, а уже завтра можно будет предлагать..."
 msgstr "[_tMax_s_00_] Pero no voy a adelantarme demasiado... Hoy pensaré en cómo convencer a Lisa de que es un buen plan, y mañana podré proponérselo..."
 
-# game/scripts/story_01/school.rpy:248 #-#-# translate crowdin ev_044_df2c9a67:
+# game/scripts/story_01/school.rpy:249 #-#-# translate crowdin ev_044_df2c9a67:
 msgid "[_Lisa_s_11_] Да, что насчёт него? Появились какие-то мысли?"
 msgstr "[_Lisa_s_11_] Sí, ¿qué pasa con él? ¿Alguna idea?"
 
-# game/scripts/story_01/school.rpy:249 #-#-# translate crowdin ev_044_54637f7c:
+# game/scripts/story_01/school.rpy:250 #-#-# translate crowdin ev_044_54637f7c:
 msgid "[_Max_s_01_] Ага, могу предложить кое-что..."
 msgstr "[_Max_s_01_] Sí, puedo sugerirte algo..."
 
-# game/scripts/story_01/school.rpy:250 #-#-# translate crowdin ev_044_dd34248c:
+# game/scripts/story_01/school.rpy:251 #-#-# translate crowdin ev_044_dd34248c:
 msgid "[_Lisa_s_01_] Супер! Я тебя слушаю..."
 msgstr "[_Lisa_s_01_] ¡Genial! Te estoy escuchando..."
 
-# game/scripts/story_01/school.rpy:251 #-#-# translate crowdin ev_044_22f43551:
+# game/scripts/story_01/school.rpy:252 #-#-# translate crowdin ev_044_22f43551:
 msgid "[_Max_s_11_] Думаю, тебе стоит попробовать подружиться с Оливией."
 msgstr "[_Max_s_11_] Creo que deberías intentar ser amiga de Olivia."
 
-# game/scripts/story_01/school.rpy:252 #-#-# translate crowdin ev_044_97c7fda2:
+# game/scripts/story_01/school.rpy:253 #-#-# translate crowdin ev_044_97c7fda2:
 msgid "[_Lisa_s_10_] С Оливией?! Дружить? По-моему, дружить с девочкой, которая встречается с парнем, который мне интересен, не самая лучшая идея."
 msgstr "[_Lisa_s_10_] ¡¿Olivia?! ¿Amigas? No creo que sea buena idea ser amiga de una chica que está saliendo con el chico que me interesa."
 
-# game/scripts/story_01/school.rpy:253 #-#-# translate crowdin ev_044_aa56ac8e:
+# game/scripts/story_01/school.rpy:254 #-#-# translate crowdin ev_044_aa56ac8e:
 msgid "[_Max_s_00_] Разве?"
 msgstr "[_Max_s_00_] ¿Lo es?"
 
-# game/scripts/story_01/school.rpy:254 #-#-# translate crowdin ev_044_a7c54bc0:
+# game/scripts/story_01/school.rpy:255 #-#-# translate crowdin ev_044_a7c54bc0:
 msgid "[_Lisa_s_12_] Ну, как своей подружке, она ведь явно будет рассказывать, чем они с Алексом занимаются... А я не уверена, что хочу знать! Особенно в подробностях..."
 msgstr "[_Lisa_s_12_] Bueno, como su novia, obviamente va a decirme lo que ella y Alex están haciendo.... No estoy seguro de querer saberlo. Especialmente en detalle..."
 
-# game/scripts/story_01/school.rpy:255 #-#-# translate crowdin ev_044_54f4c962:
+# game/scripts/story_01/school.rpy:256 #-#-# translate crowdin ev_044_54f4c962:
 msgid "[_Max_s_03_] В том и смысл! Если ты будешь общаться с Алексом сама, то ещё не известно, каким он себя покажет. А вот через дружбу с Оливией ты сможешь узнать, действительно ли он так хорош, как тебе кажется."
 msgstr "[_Max_s_03_] ¡Esa es la cuestión! Si hablas con Alex por tu cuenta, no sabes cómo va a ser. Pero a través de la amistad con Olivia, puedes averiguar si realmente es tan bueno como crees."
 
-# game/scripts/story_01/school.rpy:256 #-#-# translate crowdin ev_044_29f3a5d0:
+# game/scripts/story_01/school.rpy:257 #-#-# translate crowdin ev_044_29f3a5d0:
 msgid "[_Lisa_s_00_] А знаешь, может быть ты и прав. Есть правда одно но... Даже если мы с ней подружимся, она ведь не выдаст о нём всё, что только знает и думает. Для такой дружбы нужно время..."
 msgstr "[_Lisa_s_00_] Sabes, tal vez tengas razón. Sólo hay una cosa, sin embargo. Incluso si nos hacemos amigas, ella no va a contarme todo lo que sabe y piensa de él. Ese tipo de amistad lleva tiempo..."
 
-# game/scripts/story_01/school.rpy:257 #-#-# translate crowdin ev_044_71dc7c29:
+# game/scripts/story_01/school.rpy:258 #-#-# translate crowdin ev_044_71dc7c29:
 msgid "[_Max_s_12_] Да, но это лучше, чем попытаться их, например, рассорить или ещё чего... Если Оливия очень нравится Алексу и из-за тебя они расстанутся, он вообще тебя может возненавидеть."
 msgstr "[_Max_s_12_] Sí, pero es mejor que intentar que rompan o algo así... Si a Alex le gusta Olivia y rompe con ella, podría odiarte."
 
-# game/scripts/story_01/school.rpy:258 #-#-# translate crowdin ev_044_132dca04:
+# game/scripts/story_01/school.rpy:259 #-#-# translate crowdin ev_044_132dca04:
 msgid "[_Lisa_s_09_] Нет, врагов я себе наживать в школе не собираюсь."
 msgstr "[_Lisa_s_09_] No, no voy a hacer enemigos en la escuela."
 
-# game/scripts/story_01/school.rpy:259 #-#-# translate crowdin ev_044_c96056f5:
+# game/scripts/story_01/school.rpy:260 #-#-# translate crowdin ev_044_c96056f5:
 msgid "[_Max_s_11_] Тогда наберись терпения и попробуй подружиться с Оливией. И если всё выйдет, то и об Алексе сможешь узнать всякого... А там и поймёшь, надо ли оно тебе..."
 msgstr "[_Max_s_11_] Entonces ten paciencia e intenta ser amiga de Olivia. Y si funciona, llegarás a saber mucho sobre Alex. Y entonces verás si es lo correcto para ti..."
 
-# game/scripts/story_01/school.rpy:260 #-#-# translate crowdin ev_044_2f75e811:
+# game/scripts/story_01/school.rpy:261 #-#-# translate crowdin ev_044_2f75e811:
 msgid "[_Lisa_s_02_] Значит, так и сделаю. Спасибо за совет, Макс!"
 msgstr "[_Lisa_s_02_] Entonces eso es lo que haré. Gracias por el consejo, Max!"
 
-# game/scripts/story_01/school.rpy:261 #-#-# translate crowdin ev_044_e69dd43f:
+# game/scripts/story_01/school.rpy:262 #-#-# translate crowdin ev_044_e69dd43f:
 msgid "[_Max_s_01_] Обращайся, если что... И удачи тебе."
 msgstr "[_Max_s_01_] Ponte en contacto si necesitas algo... Y buena suerte."
 
-# game/scripts/story_01/school.rpy:268 #-#-# translate crowdin ev_044_2b5641cb:
+# game/scripts/story_01/school.rpy:269 #-#-# translate crowdin ev_044_2b5641cb:
 msgid "[_tMax_s_13_] Не знаю, сколько времени понадобится, чтобы у Лизы получилось ненавязчиво подружиться с Оливией. Пожалуй, мне стоит интересоваться её успехами время от времени..."
 msgstr "[_tMax_s_13_] No sé cuánto tardará Lisa en hacerse amiga discreta de Olivia. Probablemente debería comprobar sus progresos de vez en cuando ...."
 
@@ -528,15 +528,11 @@ msgstr "{i}esperar a Lisa en el patio{/i}"
 msgid "{i}идти к бассейну{/i}"
 msgstr "{i}ir a la piscina{/i}"
 
-# game/scripts/story_01/school.rpy:109
+# game/scripts/story_01/school.rpy:110
 msgid "Нет, поплаваю с тобой ещё немного..."
 msgstr "No, nadaré contigo un poco más..."
 
-# game/scripts/story_01/school.rpy:109
+# game/scripts/story_01/school.rpy:110
 msgid "Ага. Пора делами заниматься..."
 msgstr "Sí. Hora de ponerse a trabajar..."
-
-# game/scripts/story_01/school.rpy:192
-msgid "Задание «Школьный секретик Лизы» обновлено!"
-msgstr "¡La oportunidad de «El secreto escolar de Lisa» ha sido actualizada!"
 

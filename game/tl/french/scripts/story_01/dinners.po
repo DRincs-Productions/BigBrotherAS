@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-08-15 08:57\n"
+"PO-Revision-Date: 2025-01-03 09:31\n"
 
-# TODO: Translation updated at 2024-08-14 23:38 #|#|# # game/scripts/story_01/dinners.rpy:31 #-#-# translate crowdin ev_dinner_r1_24ac51ec:
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/dinners.rpy:31 #-#-# translate crowdin ev_dinner_r1_24ac51ec:
 msgid "[_Ann_s_01_] Всем приятного аппетита! Алиса столько всего наготовила сегодня, умничка. Давайте ужинать..."
 msgstr "[_Ann_s_01_] Bon appétit à tous ! Alice a beaucoup cuisiné aujourd'hui, bonne fille. Dînons ensemble."
 
@@ -624,15 +624,7 @@ msgstr "[_Ann_s_03_] C'est mon garçon ! Bon, eh bien, merci beaucoup à tous po
 msgid "[_Max_s_01_] Ага, всем спасибо..."
 msgstr "[_Max_s_01_] Oui, merci à tous...."
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/dinners.rpy:98
-msgid "Открыто новое задание «Школьный секретик Лизы»!"
-msgstr "Une nouvelle mission, Le secret d'école de Lisa, est ouverte !"
-
-# game/scripts/story_01/dinners.rpy:139
-msgid "Открыто новое задание «Арахнофобия»!"
-msgstr "Une nouvelle quête Arachnophobie est ouverte !"
-
-# game/scripts/story_01/dinners.rpy:159
+# §translate crowdin strings: #|#|# # game/scripts/story_01/dinners.rpy:159
 msgid "Мама! Дай Лизе шанс подготовиться. Я ей помогу!"
 msgstr "Maman ! Donne à Lisa une chance de se préparer. Je vais l'aider !"
 
