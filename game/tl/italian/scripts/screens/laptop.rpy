@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-08-14 23:38
+# TODO: Translation updated at 2024-12-25 17:41
 
 translate italian strings:
 
@@ -23,8 +23,8 @@ translate italian strings:
     new "Configurazione del servizio VPN"
 
     # game/scripts/screens/laptop.rpy:21
-    old "САЙТ АЛИСЫ"
-    new "SITO DI ALICE"
+    old "АЛИСА НА «MYCAMS»"
+    new "ALICE SU \"MYCAMS\""
 
     # game/scripts/screens/laptop.rpy:21
     old "ЧИТ-МЕНЮ"
@@ -78,43 +78,47 @@ translate italian strings:
     old "ВЗЯТЬ КРЕДИТ"
     new "PRENDI UN PRESTITO"
 
-    # game/scripts/screens/laptop.rpy:517
+    # game/scripts/screens/laptop.rpy:523
     old "Общий доход:"
     new "Reddito totale:"
 
-    # game/scripts/screens/laptop.rpy:518
+    # game/scripts/screens/laptop.rpy:524
     old "Последнее начисление:"
     new "Ultimo pagamento:"
 
-    # game/scripts/screens/laptop.rpy:596
+    # game/scripts/screens/laptop.rpy:602
     old "Общение"
     new "Comunicazione"
 
-    # game/scripts/screens/laptop.rpy:611
+    # game/scripts/screens/laptop.rpy:617
     old "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
     new "Hai completato tutti i corsi e le classi disponibili di questa categoria. Forse nuove lezioni appariranno nella prossima versione del gioco."
 
-    # game/scripts/screens/laptop.rpy:619
+    # game/scripts/screens/laptop.rpy:625
     old "Вы уже оплатили этот курс и можете в любой момент включить следующий доступный видеоурок."
     new "Hai già pagato per questo corso e puoi attivare il prossimo video tutorial disponibile in qualsiasi momento."
 
-    # game/scripts/screens/laptop.rpy:620
+    # game/scripts/screens/laptop.rpy:626
     old "Занятие [learn] из 3"
     new "Lezione [learn] di 3"
 
-    # game/scripts/screens/laptop.rpy:623
+    # game/scripts/screens/laptop.rpy:629
     old "НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА"
     new "INIZIA A GUARDARE IL VIDEO TUTORIAL"
 
-    # game/scripts/screens/laptop.rpy:627
+    # game/scripts/screens/laptop.rpy:633
     old "ВЫ УЧИЛИСЬ СОВСЕМ НЕДАВНО. СДЕЛАЙТЕ ПЕРЕРЫВ!"
     new "HAI STUDIATO DI NUOVO. FAI UNA PAUSA!"
 
-    # game/scripts/screens/laptop.rpy:635
+    # game/scripts/screens/laptop.rpy:641
     old "Количество занятий: 3"
     new "Numero di lezioni: 3"
 
-    # game/scripts/screens/laptop.rpy:637
+    # game/scripts/screens/laptop.rpy:643
     old "ПРИОБРЕСТИ ЭТОТ КУРС ЗА $[cource.price]"
     new "PER ACQUISTARE IL CORSO A $[cource.price]"
+
+    # game/scripts/screens/laptop.rpy:696
+    old "Удвоение дохода из любых источников"
+    new "Raddoppiare le entrate da qualsiasi fonte"
 

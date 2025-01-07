@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-08-14 23:38
+# TODO: Translation updated at 2024-12-25 17:41
 
 # game/scripts/engine/interact.rpy:37
 translate italian talks_start_41e41361:
@@ -169,6 +169,10 @@ translate italian strings:
     new "Ho deciso di esercitarmi..."
 
     # game/scripts/engine/interact.rpy:192
+    old "Можно с тобой потренироваться?"
+    new "Posso esercitarmi con te?"
+
+    # game/scripts/engine/interact.rpy:192
     old "У меня для тебя обещанная вкусняшка!"
     new "Ho il dolcetto che ti ho promesso!"
 
@@ -215,4 +219,8 @@ translate italian strings:
     # game/scripts/engine/interact.rpy:192
     old "Мам, а как научиться хорошо целоваться?"
     new "Mamma, come si impara ad essere un buon baciatore?"
+
+    # game/scripts/engine/interact.rpy:192
+    old "У меня для тебя кое-что сладенькое!"
+    new "Ho qualcosa di dolce per te!"
 

@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-08-14 23:38
+# TODO: Translation updated at 2024-12-25 17:41
 
 translate italian strings:
 
@@ -30,43 +30,47 @@ translate italian strings:
     old "настроение"
     new "umore"
 
-    # game/scripts/engine/skils.rpy:193
+    # game/scripts/engine/skils.rpy:197
     old "Я остался незамеченным!"
     new "Non sono stato notato!"
 
-    # game/scripts/engine/skils.rpy:193
+    # game/scripts/engine/skils.rpy:197
     old "Убеждение удалось!"
     new "La persuasione è riuscita!"
 
-    # game/scripts/engine/skils.rpy:193
+    # game/scripts/engine/skils.rpy:197
     old "Паук найден!"
     new "Un ragno è stato trovato!"
 
-    # game/scripts/engine/skils.rpy:193
+    # game/scripts/engine/skils.rpy:197
     old "Ей понравился массаж!"
     new "Il massaggio le è piaciuto molto!"
 
-    # game/scripts/engine/skils.rpy:203
+    # game/scripts/engine/skils.rpy:207
     old "Я чуть не попался!"
     new "Mi hanno quasi scoperto!"
 
-    # game/scripts/engine/skils.rpy:203
+    # game/scripts/engine/skils.rpy:207
     old "Мне не стоит это делать!"
     new "Non dovrei farlo!"
 
-    # game/scripts/engine/skils.rpy:203
+    # game/scripts/engine/skils.rpy:207
     old "Вот чёрт, я попался!"
     new "Oh, merda, mi hanno beccato!"
 
-    # game/scripts/engine/skils.rpy:203
+    # game/scripts/engine/skils.rpy:207
     old "Убеждение не удалось!"
     new "La persuasione è fallita!"
 
-    # game/scripts/engine/skils.rpy:203
+    # game/scripts/engine/skils.rpy:207
     old "Безрезультатно!"
     new "Senza successo!"
 
-    # game/scripts/engine/skils.rpy:203
+    # game/scripts/engine/skils.rpy:207
     old "Ей не понравился массаж!"
     new "Non le è piaciuto il massaggio!"
+
+    # game/scripts/engine/skils.rpy:217
+    old "Выполнены ещё не все условия..."
+    new "Non tutte le condizioni sono ancora soddisfatte..."
 

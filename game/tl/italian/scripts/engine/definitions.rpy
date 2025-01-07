@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-08-14 23:38
+# TODO: Translation updated at 2024-12-25 17:41
 
 translate italian strings:
 
@@ -57,4 +57,8 @@ translate italian strings:
     # game/scripts/engine/definitions.rpy:35
     old "Двор"
     new "Cortile"
+
+    # game/scripts/engine/definitions.rpy:45
+    old "Спальня"
+    new "Camera da letto"
 

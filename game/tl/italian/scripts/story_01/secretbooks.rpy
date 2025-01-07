@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-08-14 23:38
+# TODO: Translation updated at 2024-12-25 17:41
 
 # game/scripts/story_01/secretbooks.rpy:7
 translate italian ev_013_2ca4e9e8:
@@ -110,10 +110,6 @@ translate italian ev_015_d49245e3:
 
 translate italian strings:
 
-    # game/scripts/story_01/secretbooks.rpy:19
-    old "Открыто новое задание «Книжный секретик»!"
-    new "Una nuova missione «Libro Segreto» è aperta!"
-
     # game/scripts/story_01/secretbooks.rpy:34
     old "{i}искать под подушкой{/i}"
     new "{i}guarda sotto il cuscino{/i}"
@@ -121,8 +117,4 @@ translate italian strings:
     # game/scripts/story_01/secretbooks.rpy:34
     old "{i}искать под кроватью{/i}"
     new "{i}cerca sotto il letto{/i}"
-
-    # game/scripts/story_01/secretbooks.rpy:58
-    old "Задание «Книжный секретик» обновлено!"
-    new "La missione «Libro segreto» è stata aggiornata!"
 

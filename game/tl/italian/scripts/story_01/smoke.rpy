@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-08-14 23:38
+# TODO: Translation updated at 2024-12-25 17:41
 
 # game/scripts/story_01/smoke.rpy:11
 translate italian ev_025_7cf4d55a:
@@ -198,457 +198,457 @@ translate italian ev_026_240bdbf6_1:
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "Fino ad allora, piantala d'infastidirmi. Lasciami fumare in pace!" nointeract
 
-# game/scripts/story_01/smoke.rpy:124
+# game/scripts/story_01/smoke.rpy:122
 translate italian ev_026_bacdb8a1:
 
     # Alice 01 "Да я вообще-то и так без лифчика всё время хожу, только когда сплю надеваю..."
     Alice 01 "Sì, in realtà sto sempre senza reggiseno, lo metto solo quando dormo..."
 
-# game/scripts/story_01/smoke.rpy:125
+# game/scripts/story_01/smoke.rpy:123
 translate italian ev_026_e23ab051:
 
     # Max 01 "Значит, тогда просто спи без него."
     Max 01 "Allora, dormi senza."
 
-# game/scripts/story_01/smoke.rpy:126
+# game/scripts/story_01/smoke.rpy:124
 translate italian ev_026_3db3ad7a:
 
     # Alice 11 "Не знаю, что тебе это даст, но лучше я соглашусь на этот пустяк... Пока ты что-нибудь ещё не попросил."
     Alice 11 "Non so che utilità abbia per te, ma preferisco accontentarmi di questa sciocchezza... Prima di chiedere qualcos'altro."
 
-# game/scripts/story_01/smoke.rpy:128
+# game/scripts/story_01/smoke.rpy:126
 translate italian ev_026_f96e6325:
 
     # Alice 11 "Так уж и быть, я соглашусь на этот пустяк... Пока ты что-нибудь ещё не попросил."
     Alice 11 "Va bene, mi accontenterò di questa sciocchezza... Prima di chiedere altro."
 
-# game/scripts/story_01/smoke.rpy:129
+# game/scripts/story_01/smoke.rpy:127
 translate italian ev_026_2c3eb85c:
 
     # Max 04 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 04 "Ma se vedo che continui a fumare quella robaccia, ti chiederò di nuovo qualcosa."
 
-# game/scripts/story_01/smoke.rpy:131
+# game/scripts/story_01/smoke.rpy:129
 translate italian ev_026_c4fed131:
 
     # Alice 01 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 01 "Fino ad allora, smettila d'infastidirmi. Fammi fumare in pace!" nointeract
 
-# game/scripts/story_01/smoke.rpy:139
+# game/scripts/story_01/smoke.rpy:136
 translate italian ev_026_11fd9e93:
 
     # Alice 15 "Обойдёшься! Подглядывать же наверняка станешь, извращенец мелкий. Значит так, я дам тебе $10 и ты отвалишь, ясно?"
     Alice 15 "Andrà tutto bene! Scommetto che stai per fare capolino, piccolo pervertito. Va bene, ti do $10 e tu ti tiri indietro, va bene?"
 
-# game/scripts/story_01/smoke.rpy:140
+# game/scripts/story_01/smoke.rpy:137
 translate italian ev_026_dd8c984b_2:
 
     # Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 13 "Ma se vedo che continui a fumare quella robaccia, ti chiederò di nuovo qualcosa."
 
-# game/scripts/story_01/smoke.rpy:142
+# game/scripts/story_01/smoke.rpy:139
 translate italian ev_026_240bdbf6_2:
 
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "Fino ad allora, piantala d'infastidirmi. Lasciami fumare in pace!" nointeract
 
-# game/scripts/story_01/smoke.rpy:151
+# game/scripts/story_01/smoke.rpy:147
 translate italian ev_026_bbdfc32e:
 
     # Alice 04 "Этот пустяк я легко могу делать и дальше... Если уж тебе так угодно."
     Alice 04 "Posso facilmente continuare a fare questa sciocchezza... Se è quello che vuoi."
 
-# game/scripts/story_01/smoke.rpy:152
+# game/scripts/story_01/smoke.rpy:148
 translate italian ev_026_dd8c984b_3:
 
     # Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 13 "Ma se vedo che continui a fumare quella robaccia, ti chiederò di nuovo qualcosa."
 
-# game/scripts/story_01/smoke.rpy:154
+# game/scripts/story_01/smoke.rpy:150
 translate italian ev_026_240bdbf6_3:
 
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "Fino ad allora, piantala d'infastidirmi. Lasciami fumare in pace!" nointeract
 
-# game/scripts/story_01/smoke.rpy:163
+# game/scripts/story_01/smoke.rpy:159
 translate italian ev_026_7271cfe6:
 
     # Alice 11 "Маленький извращенец... Ладно, но даже не пытайся за мной подсматривать. Иначе я стану тушить все свои сигареты об тебя!"
     Alice 11 "Piccolo pervertito... Va bene, ma non provare a guardarmi. Altrimenti ti spengo tutte le mie sigarette addosso!"
 
-# game/scripts/story_01/smoke.rpy:164
+# game/scripts/story_01/smoke.rpy:160
 translate italian ev_026_dd8c984b_4:
 
     # Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 13 "Ma se vedo che continui a fumare quella robaccia, ti chiederò di nuovo qualcosa."
 
-# game/scripts/story_01/smoke.rpy:166
+# game/scripts/story_01/smoke.rpy:162
 translate italian ev_026_240bdbf6_4:
 
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "Fino ad allora, piantala d'infastidirmi. Lasciami fumare in pace!" nointeract
 
-# game/scripts/story_01/smoke.rpy:173
+# game/scripts/story_01/smoke.rpy:169
 translate italian ev_026_11fd9e93_1:
 
     # Alice 15 "Обойдёшься! Подглядывать же наверняка станешь, извращенец мелкий. Значит так, я дам тебе $10 и ты отвалишь, ясно?"
     Alice 15 "Andrà tutto bene! Scommetto che stai per fare capolino, piccolo pervertito. Va bene, ti do $10 e tu ti tiri indietro, va bene?"
 
-# game/scripts/story_01/smoke.rpy:174
+# game/scripts/story_01/smoke.rpy:170
 translate italian ev_026_dd8c984b_5:
 
     # Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 13 "Ma se vedo che continui a fumare quella robaccia, ti chiederò di nuovo qualcosa."
 
-# game/scripts/story_01/smoke.rpy:176
+# game/scripts/story_01/smoke.rpy:172
 translate italian ev_026_240bdbf6_5:
 
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "Fino ad allora, piantala d'infastidirmi. Lasciami fumare in pace!" nointeract
 
-# game/scripts/story_01/smoke.rpy:185
+# game/scripts/story_01/smoke.rpy:180
 translate italian ev_026_fde7cf90:
 
     # Alice 11 "Как скажешь, извращенец мелкий... И не пытайся за мной подсматривать, а то я стану тушить все свои сигареты об тебя!"
     Alice 11 "Come vuoi tu, piccolo pervertito. E non provare a guardarmi o ti spengo tutte le mie sigarette addosso!"
 
-# game/scripts/story_01/smoke.rpy:186
+# game/scripts/story_01/smoke.rpy:181
 translate italian ev_026_dd8c984b_6:
 
     # Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 13 "Ma se vedo che continui a fumare quella robaccia, ti chiederò di nuovo qualcosa."
 
-# game/scripts/story_01/smoke.rpy:188
+# game/scripts/story_01/smoke.rpy:183
 translate italian ev_026_240bdbf6_6:
 
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "Fino ad allora, piantala d'infastidirmi. Lasciami fumare in pace!" nointeract
 
-# game/scripts/story_01/smoke.rpy:194
+# game/scripts/story_01/smoke.rpy:189
 translate italian ev_026_c5fa89be:
 
     # Alice 01 "Всё-таки не дают тебе покоя мои трусики, да? Ну, хорошо. Всё равно я почти всё время в джинсах, так что не страшно. Значит, договорились?"
     Alice 01 "Non ne hai mai abbastanza delle mie mutandine, vero? Oh, ok. Comunque indosso quasi sempre i jeans, quindi non è un problema. Allora siamo d'accordo?"
 
-# game/scripts/story_01/smoke.rpy:195
+# game/scripts/story_01/smoke.rpy:190
 translate italian ev_026_14139fc0:
 
     # Max 01 "И под платье тоже не надевай!"
     Max 01 "E non indossarle nemmeno sotto un vestito!"
 
-# game/scripts/story_01/smoke.rpy:196
+# game/scripts/story_01/smoke.rpy:191
 translate italian ev_026_0e843a29:
 
     # Alice 14 "Ах ты... А если ветер?"
     Alice 14 "Oh, tu. E se c'è vento?"
 
-# game/scripts/story_01/smoke.rpy:197
+# game/scripts/story_01/smoke.rpy:192
 translate italian ev_026_b245cc1d:
 
     # Max 04 "Надеюсь, что будет ветер..."
     Max 04 "Speriamo che ci sia un po' di vento..."
 
-# game/scripts/story_01/smoke.rpy:198
+# game/scripts/story_01/smoke.rpy:193
 translate italian ev_026_49027823:
 
     # Alice 11 "Но спать я буду как обычно, понял? Ты и так слишком много выпросил, хватит условий."
     Alice 11 "Ma dormirò come al solito, capito? Hai già chiesto troppo, basta con le condizioni."
 
-# game/scripts/story_01/smoke.rpy:199
+# game/scripts/story_01/smoke.rpy:194
 translate italian ev_026_dd8c984b_7:
 
     # Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 13 "Ma se vedo che continui a fumare quella robaccia, ti chiederò di nuovo qualcosa."
 
-# game/scripts/story_01/smoke.rpy:201
+# game/scripts/story_01/smoke.rpy:196
 translate italian ev_026_240bdbf6_7:
 
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "Fino ad allora, piantala d'infastidirmi. Lasciami fumare in pace!" nointeract
 
-# game/scripts/story_01/smoke.rpy:211
+# game/scripts/story_01/smoke.rpy:205
 translate italian ev_026_be22a33d:
 
     # Alice 11 "Да пожалуйста! Буду спать, как обычно, а в остальное время без трусиков. Доволен?"
     Alice 11 "Non c'è di che! Dormirò come al solito, e il resto del tempo senza mutandine. Contento?"
 
-# game/scripts/story_01/smoke.rpy:212
+# game/scripts/story_01/smoke.rpy:206
 translate italian ev_026_dd8c984b_8:
 
     # Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 13 "Ma se vedo che continui a fumare quella robaccia, ti chiederò di nuovo qualcosa."
 
-# game/scripts/story_01/smoke.rpy:214
+# game/scripts/story_01/smoke.rpy:208
 translate italian ev_026_240bdbf6_8:
 
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "Fino ad allora, piantala d'infastidirmi. Lasciami fumare in pace!" nointeract
 
-# game/scripts/story_01/smoke.rpy:221
+# game/scripts/story_01/smoke.rpy:214
 translate italian ev_026_11fd9e93_2:
 
     # Alice 15 "Обойдёшься! Подглядывать же наверняка станешь, извращенец мелкий. Значит так, я дам тебе $10 и ты отвалишь, ясно?"
     Alice 15 "Andrà tutto bene! Scommetto che stai per fare capolino, piccolo pervertito. Va bene, ti do $10 e tu ti tiri indietro, va bene?"
 
-# game/scripts/story_01/smoke.rpy:222
+# game/scripts/story_01/smoke.rpy:215
 translate italian ev_026_dd8c984b_9:
 
     # Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 13 "Ma se vedo che continui a fumare quella robaccia, ti chiederò di nuovo qualcosa."
 
-# game/scripts/story_01/smoke.rpy:224
+# game/scripts/story_01/smoke.rpy:217
 translate italian ev_026_240bdbf6_9:
 
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "Fino ad allora, piantala d'infastidirmi. Lasciami fumare in pace!" nointeract
 
-# game/scripts/story_01/smoke.rpy:233
+# game/scripts/story_01/smoke.rpy:225
 translate italian ev_026_92918ae8:
 
     # Alice 11 "Зря я надеялась, что ты попросишь что-то попроще... Значит буду и дальше спать, как обычно, а в остальное время без трусиков."
     Alice 11 "Avrei dovuto sperare che chiedesse qualcosa di più semplice. Quindi continuerò a dormire come al solito e a non indossare le mutande per il resto del tempo."
 
-# game/scripts/story_01/smoke.rpy:234
+# game/scripts/story_01/smoke.rpy:226
 translate italian ev_026_dd8c984b_10:
 
     # Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 13 "Ma se vedo che continui a fumare quella robaccia, ti chiederò di nuovo qualcosa."
 
-# game/scripts/story_01/smoke.rpy:236
+# game/scripts/story_01/smoke.rpy:228
 translate italian ev_026_240bdbf6_10:
 
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "Fino ad allora, piantala d'infastidirmi. Lasciami fumare in pace!" nointeract
 
-# game/scripts/story_01/smoke.rpy:249
+# game/scripts/story_01/smoke.rpy:241
 translate italian ev_027_8a4a05d0:
 
     # Alice 11 "Нет, блин, просто зажгла сигарету, посмотреть как горит..."
     Alice 11 "No, amico, ho solo acceso una sigaretta per vedere come bruciava..."
 
-# game/scripts/story_01/smoke.rpy:250
+# game/scripts/story_01/smoke.rpy:242
 translate italian ev_027_422b4a0d:
 
     # Max 13 "А травку ты тогда зачем курила?"
     Max 13 "Perché fumavi erba allora?"
 
-# game/scripts/story_01/smoke.rpy:251
+# game/scripts/story_01/smoke.rpy:243
 translate italian ev_027_ee90bd8a:
 
     # Alice 15 "У меня стресс! Одежда потеряна, а у меня столько планов было... Теперь по-новой всё покупать. Ты ещё последние деньги за молчание забрал."
     Alice 15 "Sono stressata! I miei vestiti sono spariti e avevo così tanti progetti... Ora devo comprare tutto di nuovo. Anche gli ultimi soldi li ho spesi per il tuo silenzio."
 
-# game/scripts/story_01/smoke.rpy:252
+# game/scripts/story_01/smoke.rpy:244
 translate italian ev_027_05282710:
 
     # Max 12 "Да не переживай ты так. Я сразу как найду способ заработать, так и тебе помогу по-братски."
     Max 12 "Non preoccuparti. Non appena troverò un modo per fare soldi, ti aiuterò in modo fraterno."
 
-# game/scripts/story_01/smoke.rpy:254
+# game/scripts/story_01/smoke.rpy:246
 translate italian ev_027_25781469:
 
     # Alice 11 "Ага, поможешь ты, как же... Сама разберусь. Всё, не мешай, дай покурить в тишине и покое!" nointeract
     Alice 11 "Sì, mi aiuterai, vero... Lo farò da sola. Dai, non interferire, lasciami fumare in pace e tranquillità!" nointeract
 
-# game/scripts/story_01/smoke.rpy:259
+# game/scripts/story_01/smoke.rpy:251
 translate italian ev_027_d1815d4d:
 
     # tMax 13 "Стресс у неё значит... Помню, насчёт сигарет мама с Алисой когда-то ругались, но моя старшая сестра уже взрослая, а потому претензия к ней будет всего одна, чтобы сигаретным дымом не пахло дома."
     tMax 13 "Lo stress significa che è stressata... Ricordo che la mamma e Alice litigavano per le sigarette, ma la mia sorella maggiore è ormai adulta e ha solo una lamentela: non sentire l'odore del fumo di sigaretta in casa."
 
-# game/scripts/story_01/smoke.rpy:260
+# game/scripts/story_01/smoke.rpy:252
 translate italian ev_027_7dcda811:
 
     # tMax 01 "Ну, а травку она точно ещё будет покуривать. И вот когда я снова поймаю её за этим делом, то можно будет попробовать выпросить что-то намного интереснее денег..."
     tMax 01 "Beh, sicuramente continuerà a fumare erba. E quando la beccherò di nuovo a farlo, potrò provare a chiederle qualcosa di molto più interessante dei soldi..."
 
-# game/scripts/story_01/smoke.rpy:283
+# game/scripts/story_01/smoke.rpy:275
 translate italian ev_028_2949475f:
 
     # tMax 03 "А вот и голые сисечки Алисы загорают! Жаль их не видно..." nointeract
     tMax 03 "Ecco le tette nude di Alice che prendono il sole! Peccato che non si possano toccare..." nointeract
 
-# game/scripts/story_01/smoke.rpy:294
+# game/scripts/story_01/smoke.rpy:284
 translate italian ev_028_fbde9dc6:
 
     # Alice 14 "Чёрт побери, Макс! Напугал! {p=2}{nw}"
     Alice 14 "Dannazione, Max! Mi hai spaventata! {p=2}{nw}"
 
-# game/scripts/story_01/smoke.rpy:300
+# game/scripts/story_01/smoke.rpy:288
 translate italian ev_028_ccc6a72c:
 
     # Alice 15 "И давно ты тут стоишь и пялишься на меня?" nointeract
     Alice 15 "Da quanto tempo sei lì a fissarmi?" nointeract
 
-# game/scripts/story_01/smoke.rpy:310
+# game/scripts/story_01/smoke.rpy:296
 translate italian ev_028_0c744b95:
 
     # Alice 15 "Чёрт побери, Макс! Напугал! И давно ты тут стоишь и пялишься на меня?" nointeract
     Alice 15 "Dannazione, Max! Mi hai spaventata! Da quanto tempo sei lì a fissarmi?" nointeract
 
-# game/scripts/story_01/smoke.rpy:314
+# game/scripts/story_01/smoke.rpy:300
 translate italian ev_028_e94cb0a9:
 
     # Alice 11 "Вот что хочу, то и беру! И что я тебе не советую делать, так это мешать мне. Всё, брысь отсюда!" nointeract
     Alice 11 "Prenderò quello che voglio! E quello che non voglio che tu faccia è metterti sulla mia strada. Vattene da qui!" nointeract
 
-# game/scripts/story_01/smoke.rpy:319
+# game/scripts/story_01/smoke.rpy:305
 translate italian ev_028_48c819a4:
 
     # Alice 04 "Ах, вон оно что... Свою иди разглядывай в зеркале, а мне лучше не мешай. Хуже будет..." nointeract
     Alice 04 "Ah, ecco cosa… Vai a guardarti allo specchio, e sarebbe meglio se non mi disturbassi. Sarà peggio…" nointeract
 
-# game/scripts/story_01/smoke.rpy:329
+# game/scripts/story_01/smoke.rpy:313
 translate italian ev_028_21e51b14:
 
     # Alice 15 "Блин, Макс, напугал! Поглазеть что ли пришёл, извращенец мелкий?" nointeract
     Alice 15 "Merda, Max, mi hai spaventata! Sei venuto a guardare, piccolo pervertito?" nointeract
 
-# game/scripts/story_01/smoke.rpy:336
+# game/scripts/story_01/smoke.rpy:320
 translate italian ev_028_a96fabcd:
 
     # Alice 02 "Спасибо, нет! Я и так наслышана, чем ты там нашу маленькую сестрёнку пугаешь по утрам. Просто иди, куда шёл..." nointeract
     Alice 02 "Grazie, no! Ho sentito abbastanza di come spaventi la nostra sorellina al mattino. Vai dove devi andare..." nointeract
 
-# game/scripts/story_01/smoke.rpy:343
+# game/scripts/story_01/smoke.rpy:327
 translate italian ev_028_3e6195d5:
 
     # Alice 16 "Ты дурак что ли, Макс?! Как ляпнешь что-нибудь... Или ты из этих... которые любят ходить и всем свой стручок показывать? Проваливай давай..." nointeract
     Alice 16 "Sei stupido, Max? Dimmi qualcosa... O sei uno di quelli... Che ama andare in giro e mostrare a tutti il suo baccello? Vattene da qui..." nointeract
 
-# game/scripts/story_01/smoke.rpy:352
+# game/scripts/story_01/smoke.rpy:336
 translate italian ev_028_f6c74fd5:
 
     # Alice 01 "Да что ты говоришь... В каком несправедливом мире мы живём. Не дают на сиськи смотреть бедному нашему Максу и всё. Гуляй, несчастный..." nointeract
     Alice 01 "Cosa stai dicendo... In che mondo ingiusto viviamo. Non permettono al povero Max di guardare le tette, tutto qui. Fatti un giro, miserabile..." nointeract
 
-# game/scripts/story_01/smoke.rpy:359
+# game/scripts/story_01/smoke.rpy:343
 translate italian ev_028_7c8206a2:
 
     # Alice 15 "Вот я ещё сиськи напоказ здесь не выставляла для тебя! Шуруй отсюда, пока я ещё более-менее добрая..." nointeract
     Alice 15 "Non ho ancora mostrato le mie tette qui per te! Vattene da qui finché sono ancora più o meno gentile..." nointeract
 
-# game/scripts/story_01/smoke.rpy:375
+# game/scripts/story_01/smoke.rpy:359
 translate italian ev_060_f53b1584:
 
     # Alice 02 "Эй, Макс... Спасибо, что спас меня от наказания... Я это ценю."
     Alice 02 "Ciao, Max. Grazie per avermi salvato dalla punizione. Lo apprezzo molto."
 
-# game/scripts/story_01/smoke.rpy:376
+# game/scripts/story_01/smoke.rpy:360
 translate italian ev_060_723a5737:
 
     # Max 01 "Обращайся, Алиса. Но мы с тобой договаривались о кое-чём особенном для меня..."
     Max 01 "Non c'è di che, Alice. Ma io e te abbiamo concordato qualcosa di speciale per me..."
 
-# game/scripts/story_01/smoke.rpy:381
+# game/scripts/story_01/smoke.rpy:365
 translate italian ev_060_ed270007:
 
     # Alice 11 "Что тут сказать... К сожалению, я на такое согласилась. Ну, и... Что ты хочешь?" nointeract
     Alice 11 "Cosa posso dire? Purtroppo è quello che ho accettato. Quindi... Cosa vuoi?" nointeract
 
-# game/scripts/story_01/smoke.rpy:389
+# game/scripts/story_01/smoke.rpy:373
 translate italian ev_060_b869972f:
 
     # Alice 15 "Макс! Ты невыносим. Я уже подумала, что ты нормальный брат, но как видно зря..."
     Alice 15 "Max! Sei insopportabile. Pensavo fossi un fratello normale, ma credo che non lo sia..."
 
-# game/scripts/story_01/smoke.rpy:390
+# game/scripts/story_01/smoke.rpy:374
 translate italian ev_060_1cd98888:
 
     # Max 14 "Да я пошутил!"
     Max 14 "Stavo scherzando!"
 
-# game/scripts/story_01/smoke.rpy:391
+# game/scripts/story_01/smoke.rpy:375
 translate italian ev_060_dc28839e:
 
     # Alice 11 "Шутник, блин... В общем, я сейчас чисто из благодарности за спасение представлю, что не слышала этой твоей просьбы. И спрошу в последний раз... Что ты хочешь?"
     Alice 11 "Sei un fottuto idiota. Comunque, per gratitudine per avermi salvato, farò finta di non averti sentito. E te lo chiederò un'ultima volta. Che cosa vuoi?"
 
-# game/scripts/story_01/smoke.rpy:392
+# game/scripts/story_01/smoke.rpy:376
 translate italian ev_060_d7129a5a:
 
     # Max 12 "Эээ... Раз так, то хотя бы перестань носить трусики..."
     Max 12 "Ehm... Se è così, almeno smetti di indossare le mutandine..."
 
-# game/scripts/story_01/smoke.rpy:393
+# game/scripts/story_01/smoke.rpy:377
 translate italian ev_060_34545854:
 
     # Alice 04 "Хм... Это... пожалуй, приемлемо. Я согласна. Если я снова стану курить травку и ты это заметишь, то буду ходить без трусиков и виноватая."
     Alice 04 "Hmm. È... Credo che sia accettabile. Lo farò. Se ricomincio a fumare erba e te ne accorgi, andrò in giro senza mutandine e mi sentirò in colpa."
 
-# game/scripts/story_01/smoke.rpy:394
+# game/scripts/story_01/smoke.rpy:378
 translate italian ev_060_a1a14eb0:
 
     # Max 13 "Эй! А я думал уже сейчас начнёшь?"
     Max 13 "Ehi! Credevo che a quest'ora avresti già iniziato?"
 
-# game/scripts/story_01/smoke.rpy:397
+# game/scripts/story_01/smoke.rpy:381
 translate italian ev_060_1f730573:
 
     # Alice 16 "Я же тогда вечером тебя предупредила, чтобы ты был осторожнее с желаниями, помнишь? А ты сразу «дай сиськи потрогать, я озабоченный»! В следующий раз будешь думать, что несёшь..."
     Alice 16 "L'altra sera ti avevo avvertito di stare attento a ciò che desideri, ricordi? E tu mi dici: \"Fammi toccare le tette, sono arrapato\"! La prossima volta fai attenzione a quello che dici..."
 
-# game/scripts/story_01/smoke.rpy:399
+# game/scripts/story_01/smoke.rpy:383
 translate italian ev_060_15b71227:
 
     # Alice 16 "Я же тогда вечером тебя предупредила, чтобы ты был осторожнее с желаниями, помнишь? А ты сразу «поласкай себя, я озабоченный»! В следующий раз будешь думать, что несёшь..."
     Alice 16 "L'altra sera ti avevo avvertito di stare attento a ciò che desideri, ricordi? E tu dici: \"Accarezzati, sono arrapato\"! La prossima volta penserai due volte a quello che dici..."
 
-# game/scripts/story_01/smoke.rpy:401
+# game/scripts/story_01/smoke.rpy:385
 translate italian ev_060_0515c06b:
 
     # Max 17 "Блин! А сейчас покурить не хочешь?"
     Max 17 "Merda! Vuoi fumare adesso?"
 
-# game/scripts/story_01/smoke.rpy:402
+# game/scripts/story_01/smoke.rpy:386
 translate italian ev_060_1964aedc:
 
     # Alice 14 "Ты что, сдурел?! Мама дома. Я может со злости и напакостила вчера, но пока мне больше не хочется."
     Alice 14 "Ma sei impazzito?! Mamma è a casa. Forse ieri sera ero arrabbiata, ma non ne ho voglia."
 
-# game/scripts/story_01/smoke.rpy:403
+# game/scripts/story_01/smoke.rpy:387
 translate italian ev_060_a960b890:
 
     # Max 16 "Жалко. Но я тебя понял."
     Max 16 "È un peccato. Ma ti capisco."
 
-# game/scripts/story_01/smoke.rpy:404
+# game/scripts/story_01/smoke.rpy:388
 translate italian ev_060_dcfce15d:
 
     # Alice 04 "О чудо, Макс что-то понял! Ладно, я просто веселюсь, не обижайся. Хорошего дня, Макс."
     Alice 04 "Oh, mio Dio, Max ha capito qualcosa! Ok, mi sto solo divertendo, senza offesa. Buona giornata, Max."
 
-# game/scripts/story_01/smoke.rpy:408
+# game/scripts/story_01/smoke.rpy:392
 translate italian ev_060_5409a3b8:
 
     # tMax 13 "Мне обязательно нужно будет поймать эту вертихвостку за курением травки! И вот тогда она у меня как миленькая будет без трусиков жить..."
     tMax 13 "Dovrò beccare quella bella gnocca a fumare erba! E poi la farò vivere in mutande come una ragazzina..."
 
-# game/scripts/story_01/smoke.rpy:409
+# game/scripts/story_01/smoke.rpy:393
 translate italian ev_060_2daeee0f:
 
     # tMax 04 "И за этим я с удовольствием понаблюдаю. Да и помимо этого мне есть, что попросить. Главное поймать и уговорить..."
     tMax 04 "E questo è qualcosa che mi piacerebbe vedere. E oltre a questo, ho molto da chiedere. Si tratta solo di catturarla e di convincerla..."
 
-# game/scripts/story_01/smoke.rpy:423
+# game/scripts/story_01/smoke.rpy:407
 translate italian ev_061_e661db54:
 
     # Alice 16 "Ты, Макс, сволочь! Вообще никак не попытался меня оправдать, а ведь обещал!"
     Alice 16 "Tu, Max, bastardo! Non hai cercato di giustificarmi affatto, e l'avevi promesso!"
 
-# game/scripts/story_01/smoke.rpy:424
+# game/scripts/story_01/smoke.rpy:408
 translate italian ev_061_bb6a9d54:
 
     # Max 12 "Я пытался! Прямо перед тем, как ты пришла. Просто мама не поверила..."
     Max 12 "Ci ho provato! Proprio prima che tu arrivassi. Mamma non ci credeva..."
 
-# game/scripts/story_01/smoke.rpy:425
+# game/scripts/story_01/smoke.rpy:409
 translate italian ev_061_a094bd04:
 
     # Alice 15 "Иди ты нафиг! Помощничек, блин, нашёлся!"
     Alice 15 "Fanculo a te! Sei un maledetto aiutante!"
 
-# game/scripts/story_01/smoke.rpy:426
+# game/scripts/story_01/smoke.rpy:410
 translate italian ev_061_55ac670d:
 
     # Max 16 "Извини. Так уж получилось."
@@ -671,10 +671,6 @@ translate italian strings:
     # game/scripts/story_01/smoke.rpy:30
     old "Хорошо. Согласен на $10."
     new "Va bene. Mi accontento di $10."
-
-    # game/scripts/story_01/smoke.rpy:67
-    old "Открыто новое задание «Вредная привычка Алисы»!"
-    new "Una nuova missione «La cattiva abitudine di Alice» è aperta!"
 
     # game/scripts/story_01/smoke.rpy:82
     old "Как же это нехорошо, Алиса!"
@@ -708,35 +704,31 @@ translate italian strings:
     old "Продолжай ходить без трусиков и я буду молчать..."
     new "Continua ad andare in giro senza mutandine e io rimarrò in silenzio..."
 
-    # game/scripts/story_01/smoke.rpy:264
-    old "Задание «Вредная привычка Алисы» обновлено!"
-    new "La missione «La cattiva abitudine di Alice» è stata aggiornata!"
-
-    # game/scripts/story_01/smoke.rpy:282
+    # game/scripts/story_01/smoke.rpy:274
     old "{i}подкрасться{/i}"
     new "{i}sgattaiolare{/i}"
 
-    # game/scripts/story_01/smoke.rpy:311
+    # game/scripts/story_01/smoke.rpy:297
     old "Я же должен знать, что ты тут в рот берёшь..."
     new "Dovrei sapere cosa stai mettendo in bocca..."
 
-    # game/scripts/story_01/smoke.rpy:311
+    # game/scripts/story_01/smoke.rpy:297
     old "Нельзя просто взять и пройти мимо такой попки!"
     new "Non si può passare davanti a un sedere così!"
 
-    # game/scripts/story_01/smoke.rpy:328
+    # game/scripts/story_01/smoke.rpy:312
     old "Я {b}БОЛЬШОЙ{/b} извращенец! Показать?"
     new "Io {b}sono un grande{/b} pervertito! Te lo faccio vedere?"
 
-    # game/scripts/story_01/smoke.rpy:328
+    # game/scripts/story_01/smoke.rpy:312
     old "Нельзя прикрываться! Так нечестно!"
     new "Non puoi coprirti! Non è giusto!"
 
-    # game/scripts/story_01/smoke.rpy:380
+    # game/scripts/story_01/smoke.rpy:364
     old "Дай потрогать твои сиськи..."
     new "Fammi toccare le tette..."
 
-    # game/scripts/story_01/smoke.rpy:380
+    # game/scripts/story_01/smoke.rpy:364
     old "Хочу посмотреть, как ты ласкаешь себя..."
     new "Voglio guardarti mentre ti accarezzi..."
 
