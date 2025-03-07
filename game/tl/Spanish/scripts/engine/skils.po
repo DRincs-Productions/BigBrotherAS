@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-01-03 09:32\n"
+"PO-Revision-Date: 2025-03-07 19:29\n"
 
 # TODO: Translation updated at 2024-12-25 17:41 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/skils.rpy:14
 msgid "скрытность"
@@ -54,7 +54,7 @@ msgstr "¡Has encontrado una araña!"
 
 # game/scripts/engine/skils.rpy:197
 msgid "Ей понравился массаж!"
-msgstr ""
+msgstr "¡Le encantó el masaje!"
 
 # game/scripts/engine/skils.rpy:207
 msgid "Я чуть не попался!"
