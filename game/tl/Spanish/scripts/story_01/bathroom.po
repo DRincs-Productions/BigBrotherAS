@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-01-03 09:32\n"
+"PO-Revision-Date: 2025-03-07 21:39\n"
 
 # TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/bathroom.rpy:10 #-#-# translate crowdin ev_ann_shower_c167172f:
 msgid "[_tMax_s_11_] Сейчас ванная комната должна быть занята мамой... [nointeract]"
@@ -1228,7 +1228,7 @@ msgstr "[_tMax_s_13_] Esos cursos me vendrían bien en cualquier caso, pero sól
 
 # game/scripts/story_01/bathroom.rpy:1931 #-#-# translate crowdin ev_090_c033adf1:
 msgid "[_tMax_s_11_] Эх, я уже третий день живу в доме с такими большими окнами и до сих пор не попробовал подсмотреть через одно из них за кем-нибудь в ванной. А ведь там сейчас мама... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_11_] Eh, llevo tres días viviendo en una casa con estas grandes ventanas, y todavía no he intentado espiar a través de una de ellas a alguien en el baño. Y ahí es donde está mi madre ahora mismo... [nointeract]"
 
 # game/scripts/story_01/bathroom.rpy:1938 #-#-# translate crowdin ev_090_4540e23f:
 msgid "[_tMax_s_14_] Эх... Жаль, что на стеклах есть эти скрывающие полоски. Самое интересное не разглядеть. А если подобраться ближе, то мама наверняка меня заметит..."
