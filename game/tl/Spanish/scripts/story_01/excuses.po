@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-01-03 09:32\n"
+"PO-Revision-Date: 2025-03-07 21:39\n"
 
 # TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/excuses.rpy:8 #-#-# translate crowdin tasty_open_alice_9d7c61dc:
 msgid "[_tMax_s_13_] Фух... Остался жив и то хорошо! Но теперь нужно достать для Алисы какие-нибудь сладости."
@@ -246,7 +246,7 @@ msgstr "[_Max_s_15_] ¡Aaargh! ¡Alice! ¡Duele!"
 
 # game/scripts/story_01/excuses.rpy:162 #-#-# translate crowdin ev_062_c618557f:
 msgid "[_Alice_s_11_] Будешь ещё, извращенец лохматый, за мной подглядывать? [nointeract]"
-msgstr "[_Alice_s_11_] ¿Vas a seguir espiándome, pervertido melenudo? [nointeract]"
+msgstr "[_Alice_16] ¿Seguirás espiándome, un pervertido peludo? [nointeract]"
 
 # game/scripts/story_01/excuses.rpy:168 #-#-# translate crowdin ev_062_1836d6a2_1:
 msgid "[_Alice_s_04_] Пожалуй, на этот раз, я поверю и ничего не расскажу маме. Но, на всякий случай, за подглядывание, нужно сильнее потянуть..."
