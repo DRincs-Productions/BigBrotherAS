@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/screens/navigation.po\n"
+"X-Crowdin-File-ID: 9093\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2025-01-03 09:32\n"
+
+# TODO: Translation updated at 2024-12-25 17:41 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/navigation.rpy:143
+msgid "Ждать окончания часа"
+msgstr "Esperando el final de la hora"
+
+# game/scripts/screens/navigation.rpy:158
+msgid "Поговорить"
+msgstr "Hablar"
+
+# game/scripts/screens/navigation.rpy:175
+msgid "Принять ванну"
+msgstr "Bañarse"
+
+# game/scripts/screens/navigation.rpy:183
+msgid "Принять душ"
+msgstr "Ducharse"
+
+# game/scripts/screens/navigation.rpy:191
+msgid "Лечь спать"
+msgstr "Vete a la cama"
+
+# game/scripts/screens/navigation.rpy:199
+msgid "Сесть за ноутбук"
+msgstr "Sentarse frente al portátil"
+
+# game/scripts/screens/navigation.rpy:213
+msgid "Взломать пароль Алисы"
+msgstr "Hackear la contraseña de Alice"
+
+# game/scripts/screens/navigation.rpy:221
+msgid "Разобрать коробки"
+msgstr "Deshacer las cajas"
+
+# game/scripts/screens/navigation.rpy:231
+msgid "Искать камеру"
+msgstr "Buscar una cámara"
+
+# game/scripts/screens/navigation.rpy:239
+msgid "Читать"
+msgstr "Leer"
+
+# game/scripts/screens/navigation.rpy:247
+msgid "Пылесосить дом"
+msgstr "Aspirar la casa"
+
+# game/scripts/screens/navigation.rpy:247
+msgid "нужен отдых"
+msgstr "necesitas descansar"
+
+# game/scripts/screens/navigation.rpy:259
+msgid "Чистить бассейн"
+msgstr "Limpiar la piscina"
+
+# game/scripts/screens/navigation.rpy:270
+msgid "Подстричь газон"
+msgstr "Cortar el césped"
+
+# game/scripts/screens/navigation.rpy:281
+msgid "Выйти в город"
+msgstr "Salir por la ciudad"
+
+# game/scripts/screens/navigation.rpy:288
+msgid "Покинуть виллу"
+msgstr "Salir de la villa"
+
+# game/scripts/screens/navigation.rpy:295
+msgid "Искать книгу"
+msgstr "En busca de un libro"
+
+# game/scripts/screens/navigation.rpy:312
+msgid "Искать пауков"
+msgstr "En busca de arañas"
+
+# game/scripts/screens/navigation.rpy:321
+msgid "Установить камеру"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:341
+msgid "Развернуть"
+msgstr "Ampliar"
+
+# game/scripts/screens/navigation.rpy:349
+msgid "Ждать 30 минут"
+msgstr "Espere 30 minutos"
+
+# game/scripts/screens/navigation.rpy:361
+msgid "Свернуть"
+msgstr "Contraer"
+
+# game/scripts/screens/navigation.rpy:394
+msgid "Поддержать игру на Boosty"
+msgstr "Apoya el juego en Boosty"
+
+# game/scripts/screens/navigation.rpy:400
+msgid "Поддержать игру на Patreon"
+msgstr "Apoya el juego en Patreon"
+
+# game/scripts/screens/navigation.rpy:406
+msgid "Меню игры"
+msgstr "Menú del juego"
+
+# game/scripts/screens/navigation.rpy:418
+msgid "Галерея"
+msgstr "Galería"
+
+# game/scripts/screens/navigation.rpy:429
+msgid "Обучение"
+msgstr "Tutorial"
+
+# game/scripts/screens/navigation.rpy:439
+msgid "Личный дневник"
+msgstr "Diario personal"
+
+# game/scripts/screens/navigation.rpy:551
+msgid "Скрыть"
+msgstr "Ocultar"
+
+# game/scripts/screens/navigation.rpy:589
+msgid "Продолжение следует..."
+msgstr "Continuará..."
+
+# game/scripts/screens/navigation.rpy:648
+msgid "Что бы выбрать?"
+msgstr "¿Qué elegiría usted?"
+
+# game/scripts/screens/navigation.rpy:660
+msgid "(куплено)"
+msgstr "(comprado)"
+
+# game/scripts/screens/navigation.rpy:671
+msgid "{i}готово{/i}"
+msgstr "{i}Hecho{/i}"
+
+# game/scripts/screens/navigation.rpy:726
+msgid "ВНИМАНИЕ"
+msgstr "ATENCIÓN"
+
+# game/scripts/screens/navigation.rpy:727
+msgid "КОНТЕНТ ДЛЯ ВЗРОСЛЫХ"
+msgstr "CONTENIDO PARA ADULTOS"
+
+# game/scripts/screens/navigation.rpy:731
+msgid "Эта игра содержит контент сексуального характера"
+msgstr "Este juego contiene contenido de naturaleza sexual"
+
+# game/scripts/screens/navigation.rpy:732
+msgid "Продолжая, ты подтверждаешь, что достаточно взрослый для такого контента"
+msgstr "Al continuar, confirmas que eres lo suficientemente mayor para este tipo de contenidos"
+
+# game/scripts/screens/navigation.rpy:734
+msgid "Все персонажи, изображённые в этой игре, вымышлены и старше 18 лет"
+msgstr "Todos los personajes de este juego son ficticios y mayores de 18 años"
+
+# game/scripts/screens/navigation.rpy:736
+msgid "Продолжить"
+msgstr "Continuar"
+
