@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-01-03 11:02\n"
+"PO-Revision-Date: 2025-03-08 10:37\n"
 
-# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/punishments.rpy:45 #-#-# translate crowdin punishments_allocation_d4a1750b:
+# TODO: Translation updated at 2025-03-05 22:37 #|#|# # game/scripts/story_01/punishments.rpy:45 #-#-# translate crowdin punishments_allocation_d4a1750b:
 msgid "[_Ann_s_10_] Прежде, чем мы начнём, кое-кто заслуживает наказания и сейчас все на это посмотрят..."
 msgstr "[_Ann_s_10_] Avant de commencer, quelqu'un mérite d'être puni et tout le monde va le regarder...."
 
@@ -268,77 +268,73 @@ msgstr "[_Ann_s_00_] Nous y voilà. Tenez-vous bien et je n'aurai pas à recouri
 msgid "[_Ann_s_00_] Ну вот. Ведите себя хорошо и мне не придётся прибегать к таким методам воспитания. А теперь, Макс, одевайся и садись, у нас есть и другие провинившиеся."
 msgstr "[_Ann_s_00_] Nous y voilà. Tenez-vous bien et je n'aurai pas à recourir à de telles méthodes d'éducation. Maintenant, Max, habille-toi et assieds-toi, nous avons d'autres délinquants."
 
-# game/scripts/story_01/punishments.rpy:293 #-#-# translate crowdin reprimanded_reason_30d8f54f:
+# game/scripts/story_01/punishments.rpy:294 #-#-# translate crowdin reprimanded_reason_30d8f54f:
 msgid "[_Max_s_12_] Ну, я случайно оказался рядом с душем, когда там была Лиза..."
 msgstr "[_Max_s_12_] Il se trouve que j'étais près de la douche quand Lisa était sur le site ......"
 
-# game/scripts/story_01/punishments.rpy:294 #-#-# translate crowdin reprimanded_reason_c1a6a5a4:
+# game/scripts/story_01/punishments.rpy:295 #-#-# translate crowdin reprimanded_reason_c1a6a5a4:
 msgid "[_Lisa_s_15_] Он видел меня голой, мам! Накажи его! Почему он отделывается только предупреждением? Пусть получит, что заслужил!"
 msgstr "[_Lisa_s_15_] Il m'a vue nue, maman ! Punissez-le ! Pourquoi n'a-t-il droit qu'à un avertissement ? Qu'il ait ce qu'il mérite !"
 
-# game/scripts/story_01/punishments.rpy:295 #-#-# translate crowdin reprimanded_reason_26a66e7e:
+# game/scripts/story_01/punishments.rpy:296 #-#-# translate crowdin reprimanded_reason_26a66e7e:
 msgid "[_Max_s_14_] Да ничего я не заслужил!"
 msgstr "[_Max_s_14_] Je ne mérite rien !"
 
-# game/scripts/story_01/punishments.rpy:298 #-#-# translate crowdin reprimanded_reason_2eb4c671:
+# game/scripts/story_01/punishments.rpy:299 #-#-# translate crowdin reprimanded_reason_2eb4c671:
 msgid "[_Max_s_12_] Ну, я якобы мешал Лизе спать, хотя всего лишь встал раньше неё..."
 msgstr "[Je suis censé avoir perturbé le sommeil de Lisa, alors que je ne me suis levé qu'avant son arrivée sur ....."
 
-# game/scripts/story_01/punishments.rpy:299 #-#-# translate crowdin reprimanded_reason_79249d94:
+# game/scripts/story_01/punishments.rpy:300 #-#-# translate crowdin reprimanded_reason_79249d94:
 msgid "[_Lisa_s_15_] Он не просто мешал мне спать, мам, но ещё и разглядывал меня сидя вплотную! Накажи его! Пусть получит, что заслужил!"
 msgstr "[Il n'a pas seulement perturbé mon sommeil, maman, il m'a regardé de très près ! Punissez-le ! Qu'il ait ce qu'il mérite !"
 
-# game/scripts/story_01/punishments.rpy:300 #-#-# translate crowdin reprimanded_reason_26a66e7e_1:
+# game/scripts/story_01/punishments.rpy:301 #-#-# translate crowdin reprimanded_reason_26a66e7e_1:
 msgid "[_Max_s_14_] Да ничего я не заслужил!"
 msgstr "[_Max_s_14_] Je ne mérite rien !"
 
-# game/scripts/story_01/punishments.rpy:304 #-#-# translate crowdin reprimanded_reason_bdcb3e48:
+# game/scripts/story_01/punishments.rpy:305 #-#-# translate crowdin reprimanded_reason_bdcb3e48:
 msgid "[_Max_s_12_] Ну, я случайно увидел, как ты принимаешь душ, мам..."
 msgstr "[_Max_s_12_] Il se trouve que je t'ai vu prendre une douche, Mum....."
 
-# game/scripts/story_01/punishments.rpy:306 #-#-# translate crowdin reprimanded_reason_4af8d164:
+# game/scripts/story_01/punishments.rpy:307 #-#-# translate crowdin reprimanded_reason_4af8d164:
 msgid "[_Max_s_12_] Ну, я случайно увидел, как ты переодеваешься, мам..."
 msgstr "[Je t'ai vue te changer de vêtements, maman..."
 
-# game/scripts/story_01/punishments.rpy:307 #-#-# translate crowdin reprimanded_reason_3d133b7f:
+# game/scripts/story_01/punishments.rpy:308 #-#-# translate crowdin reprimanded_reason_3d133b7f:
 msgid "[_Ann_s_12_] Очень хочу надеяться, что это действительно было случайно. Тем не менее, ты пойман и как я уже сказала, получаешь предупреждение."
 msgstr "[_Ann_s_12_] J'espère vraiment qu'il s'agissait d'un accident. Quoi qu'il en soit, vous êtes pris et, comme je l'ai dit, vous recevez un avertissement."
 
-# game/scripts/story_01/punishments.rpy:308 #-#-# translate crowdin reprimanded_reason_f6cb79d3:
+# game/scripts/story_01/punishments.rpy:309 #-#-# translate crowdin reprimanded_reason_f6cb79d3:
 msgid "[_Max_s_14_] Больше это не повторится!"
 msgstr "[_Max_s_14_] Cela ne se reproduira plus !"
 
-# game/scripts/story_01/punishments.rpy:311 #-#-# translate crowdin reprimanded_reason_0a14df48:
+# game/scripts/story_01/punishments.rpy:312 #-#-# translate crowdin reprimanded_reason_0a14df48:
 msgid "[_Max_s_12_] Ну, я оказался случайно рядом с душем, где мылась Алиса..."
 msgstr "[_Max_s_12_] Il se trouve que j'étais près de la douche où Alice se lavait....."
 
-# game/scripts/story_01/punishments.rpy:312 #-#-# translate crowdin reprimanded_reason_77f75157:
+# game/scripts/story_01/punishments.rpy:313 #-#-# translate crowdin reprimanded_reason_77f75157:
 msgid "[_Alice_s_15_] Случайно? Врёт он всё, мам! Он стоял и пялился на меня!"
 msgstr "[_Alice_s_15_] Par accident ? Il ment, maman ! Il était là, à me regarder !"
 
-# game/scripts/story_01/punishments.rpy:313 #-#-# translate crowdin reprimanded_reason_8f72234a:
+# game/scripts/story_01/punishments.rpy:314 #-#-# translate crowdin reprimanded_reason_8f72234a:
 msgid "[_Max_s_14_] Да я мимо проходил!"
 msgstr "[Je ne faisais que passer !"
 
-# game/scripts/story_01/punishments.rpy:319 #-#-# translate crowdin reprimanded_reason_0659dd02:
+# game/scripts/story_01/punishments.rpy:320 #-#-# translate crowdin reprimanded_reason_0659dd02:
 msgid "[_Ann_s_10_] Ты не закончил, Макс. Продолжай..."
 msgstr "[_Ann_s_10_] Tu n'as pas fini, Max. Continue."
 
-# game/scripts/story_01/punishments.rpy:321 #-#-# translate crowdin reprimanded_reason_c67b0860:
+# game/scripts/story_01/punishments.rpy:322 #-#-# translate crowdin reprimanded_reason_c67b0860:
 msgid "[_Ann_s_10_] Дальше, Макс, мы тебя внимательно слушаем..."
 msgstr "[_Ann_s_10_] Ensuite, Max, nous vous écoutons attentivement...."
 
-# game/scripts/story_01/punishments.rpy:323 #-#-# translate crowdin reprimanded_reason_61370c93:
+# game/scripts/story_01/punishments.rpy:324 #-#-# translate crowdin reprimanded_reason_61370c93:
 msgid "[_Ann_s_10_] А ты не забыл про кое-что ещё?"
 msgstr "[_Ann_s_10_] Vous n'oubliez pas autre chose ?"
 
 # §translate crowdin strings: #|#|# # game/scripts/story_01/punishments.rpy:86
 msgid "{i}заступиться за Лизу{/i}"
 msgstr "{i}pour défendre Lisa."
-
-# game/scripts/story_01/punishments.rpy:169
-msgid "{i}снять джинсы{/i}"
-msgstr "{i}enlever son jean{/i}"
 
 # game/scripts/story_01/punishments.rpy:174
 msgid "{i}снять шорты{/i}"
