@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-01-03 09:31\n"
+"PO-Revision-Date: 2025-03-08 10:37\n"
 
-# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/dreams.rpy:11 #-#-# translate crowdin ev_019_d1b851a2:
+# TODO: Translation updated at 2025-03-05 22:37 #|#|# # game/scripts/story_01/dreams.rpy:11 #-#-# translate crowdin ev_019_d1b851a2:
 msgid "[_tMax_s_00_] Что у нас тут интересного? Посмотрим..."
 msgstr "[_tMax_s_00_] Qu'avons-nous là d'intéressant ? Voyons voir..."
 
@@ -492,151 +492,311 @@ msgstr "[Ahh... D-a-a-a-a-a-a-a. Je ne savais pas que c'était si bon... Mmm. J'
 msgid "[_tMax_s_07_] Вау! Какая же у неё нежная и приятная киска... И такая влажненькая! Не буду торопиться и растяну этот классный момент, чтобы свести её с ума этим наслаждением! Ох, Лиза..."
 msgstr "[_tMax_s_07_] Ouah ! Quelle chatte douce et sucrée elle a. Et si humide ! Je vais prendre mon temps et étirer ce grand moment pour la rendre folle de ce plaisir ! Oh, Lisa."
 
-# game/scripts/story_01/dreams.rpy:352 #-#-# translate crowdin ev_124_f9e91945:
+# game/scripts/story_01/dreams.rpy:339 #-#-# translate crowdin ev_108_3d84da9c:
+msgid "[_Mia_s_01_] Видишь ли, Макс, гражданское право - это не та отрасль, куда можно просто прийти без каких-то специальных знаний и в процессе работы их наверстать. Но, раз уж ты хочешь оценить, что это за профессия такая, юрист, я тебе кое-что покажу..."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:340 #-#-# translate crowdin ev_108_ca37db56:
+msgid "[_Max_s_11_] А как ещё понять, будет ли это для меня интересно? Только если погрузиться в это с головой. Тем более, когда среди знакомых есть такой прекрасный юрист, как вы."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:341 #-#-# translate crowdin ev_108_539df092:
+msgid "[_Mia_s_02_] Ну, а мне как раз нужно разгрести большую кучу документов, так что побудешь немного моим ассистентом. Если, конечно, выдержишь. Эта работа требует большой сосредоточенности, внимания к деталям, а так же немалой сообразительности..."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:342 #-#-# translate crowdin ev_108_dc933d34:
+msgid "[_Max_s_02_] Думаю, я смогу с этим справиться."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:346 #-#-# translate crowdin ev_108_afbcc9df:
+msgid "[_Mia_s_04_] Неужели? На твоём месте, я бы не была так в этом уверена. Почти всегда есть что-то, что будет отвлекать. Хоть в офисе, хоть дома. Вот я, например, если работаю дома, то могу для удобства надеть свой любимый халатик или что-нибудь полегче."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:347 #-#-# translate crowdin ev_108_bc2e87af:
+msgid "[_Max_s_01_] Если бы это хоть как-то могло сказаться на моей внимательности, то я бы сказал об этом."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:348 #-#-# translate crowdin ev_108_7a531398:
+msgid "[_Mia_s_02_] Ну, посмотрим, посмотрим... Лично меня эта огромная стопка документов вынуждает активно поработать не только головой, но и ручками..."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:350 #-#-# translate crowdin ev_108_5eb2aff2:
+msgid "[_tMax_s_13_] Хм... Очень похоже на какие-то намёки или мне просто кажется? Честно говоря, сложно не думать о том, что я мог бы увидеть, если бы заглянул под стол... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:354 #-#-# translate crowdin ev_108_56ec9155:
+msgid "[_Mia_s_05_] Ммм... Должна сказать, Макс, что ты... неплохо справляешься со своими обязанностями. И меня это всё больше и больше возбуждает..."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:358 #-#-# translate crowdin ev_108_9ee0b65c:
+msgid "[_Mia_s_12_] Ай-я-яй, Макс! Будь, пожалуйста, аккуратнее. Нам нужно работать, а не собирать документы под столом, понапрасну растрачивая время."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:359 #-#-# translate crowdin ev_108_ad8f144f:
+msgid "[_Max_s_04_] Я всё быстро соберу..."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:361 #-#-# translate crowdin ev_108_3214ac14:
+msgid "[_Mia_s_04_] Только ничего не упусти, а то придётся снова лезть под стол, только уже более основательно..."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:362 #-#-# translate crowdin ev_108_ca51f9d2:
+msgid "[_tMax_s_05_] Ухх... А не слишком ли у неё откровенные трусики для работы дома? Говорит, для удобства, а на деле явно соблазняет меня..."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:366 #-#-# translate crowdin ev_108_13b391b0:
+msgid "[_Mia_s_05_] Ммм... Ну что, Макс, мы будем работать или прохлаждаться? Должна сказать, что первое возбуждает меня куда сильнее..."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:368 #-#-# translate crowdin ev_108_e23a8e57:
+msgid "[_Max_s_16_] Вы сказали, возбуждает?!"
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:369 #-#-# translate crowdin ev_108_62023f5c:
+msgid "[_Mia_s_06_] Ой, разве?! Тебе показалось... Ахх... Я почти уверена, что сказала «восхищает»."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:371 #-#-# translate crowdin ev_108_21db036f:
+msgid "[_tMax_s_12_] Ага, как же... По-моему, от восхищения так сексуально не постанывают, как Мия. Блин, а как невыносимо тесно стало в джинсах... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:375 #-#-# translate crowdin ev_108_809df380:
+msgid "[_Mia_s_07_] У нас так... хорошо всё получается, Макс! Я знаю, что ассистировать мне очень непросто и твоей... выдержке можно только позавидовать. Ахх..."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:376 #-#-# translate crowdin ev_108_627c7fc4:
+msgid "[_Max_s_03_] Без проблем. Помогать вам с работой... да ещё и в {b}ТАКОЙ{/b} обстановке... одно удовольствие..."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:380 #-#-# translate crowdin ev_108_c9d3d6d9:
+msgid "[_Mia_s_05_] Приятно, когда напротив сидит человек, который, так же как и я, может извлечь... большое наслаждение из этого кропотливого дела..."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:381 #-#-# translate crowdin ev_108_a4fd1c4b:
+msgid "[_Max_s_05_] А вам не кажется, что стоит взять небольшой и совершенно законный перерыв? Сами понимаете, назрел БОЛЬШОЙ вопрос и по нему следовало бы провести консультацию."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:383 #-#-# translate crowdin ev_108_97a9c562:
+msgid "[_Mia_s_06_] О да! Такой большой вопрос никак нельзя оставлять без ответа... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:388 #-#-# translate crowdin ev_108_94491f05:
+msgid "[_Mia_s_04_] Ммм... А ты, для своих лет, довольно одарённый мальчик. Твоя мама не зря тебя нахваливала."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:389 #-#-# translate crowdin ev_108_61428dbd:
+msgid "[_Max_s_02_] Я обязательно поделюсь с ней впечатлениями от процесса работы с вами."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:393 #-#-# translate crowdin ev_108_e2e34b3e:
+msgid "[_Mia_s_05_] Только не говори ей, насколько углублённо мы прорабатывали, возникающие в процессе работы, вопросы..."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:394 #-#-# translate crowdin ev_108_bd7e9202:
+msgid "[_Max_s_01_] Само собой."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:398 #-#-# translate crowdin ev_108_d33d63d9:
+msgid "[_tMax_s_09_] Ух ты, чёрт! Мой член так легко проскользнул в её нежный ротик... Д-а-а... С каким же удовольствием она сосёт и ещё продолжает ласкать себя пальчиками. Просто обалденная женщина!"
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:407 #-#-# translate crowdin ev_108_9ee0b65c_1:
+msgid "[_Mia_s_12_] Ай-я-яй, Макс! Будь, пожалуйста, аккуратнее. Нам нужно работать, а не собирать документы под столом, понапрасну растрачивая время."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:408 #-#-# translate crowdin ev_108_ad8f144f_1:
+msgid "[_Max_s_04_] Я всё быстро соберу..."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:409 #-#-# translate crowdin ev_108_3214ac14_1:
+msgid "[_Mia_s_04_] Только ничего не упусти, а то придётся снова лезть под стол, только уже более основательно..."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:410 #-#-# translate crowdin ev_108_ed9e3468:
+msgid "[_Max_s_02_] Мне хватит и одного раза..."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:416 #-#-# translate crowdin ev_108_c4c2b9cb:
+msgid "[_Mia_s_10_] Макс, ты такой неряшливый, просто ужас! Вот как ты думаешь, нужен мне такой помощник или я быстрее бы справилась сама, а?"
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:417 #-#-# translate crowdin ev_108_d1b14158:
+msgid "[_Max_s_11_] А если я нарочно?"
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:418 #-#-# translate crowdin ev_108_27673398:
+msgid "[_Mia_s_02_] Помнится, кто-то мне говорил, что может работать, даже если его будет что-то отвлекать! Теперь даже не знаю, давать тебе шанс доказать обратное или это трата времени впустую?"
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:419 #-#-# translate crowdin ev_108_3d31f65b:
+msgid "[_Max_s_02_] Точно не впустую..."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:424 #-#-# translate crowdin ev_108_5251add4:
+msgid "[_Mia_s_07_] Охх... Макс! Похоже, что твоя мама не зря тебя нахваливала. Ммм... Мальчик ты определённо находчивый... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:429 #-#-# translate crowdin ev_108_0659e478:
+msgid "[_Mia_s_08_] Боже мой, это восхитительно! Да-а-а, Макс! Как же хорошо... Не знаю, где и когда ты этому успел научиться, но... мне так нравится! Ухх..."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:430 #-#-# translate crowdin ev_108_8c802054:
+msgid "[_tMax_s_11_] Пожалуй, не стоит хвастаться тем, кто меня этому научил. Уж слишком деликатная эта тема."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:447 #-#-# translate crowdin ev_124_f9e91945:
 msgid "[_tMax_s_04_] Ммм... Уже скоро ужин! Что-то я проголодался сегодня больше, чем обычно..."
 msgstr "[Mmm... C'est bientôt l'heure du dîner ! J'ai plus faim que d'habitude aujourd'hui...."
 
-# game/scripts/story_01/dreams.rpy:357 #-#-# translate crowdin ev_124_ee045e5c:
+# game/scripts/story_01/dreams.rpy:452 #-#-# translate crowdin ev_124_ee045e5c:
 msgid "[_tMax_s_11_] Хм... Мне показалось или я слышал, как к нам во двор заехала машина? Должно быть, это Эрик снова подбросил мою маму до дома. [nointeract]"
 msgstr "[Um... C'est moi ou j'ai entendu une voiture entrer dans notre jardin ? Ça doit être Eric qui dépose encore ma mère à la maison. [nointeract]"
 
-# game/scripts/story_01/dreams.rpy:364 #-#-# translate crowdin ev_124_c0dda70e:
+# game/scripts/story_01/dreams.rpy:459 #-#-# translate crowdin ev_124_c0dda70e:
 msgid "[_tMax_s_15_] Вот чёрт, мама уже целуется с Эриком! И что теперь будет? Как мне на это реагировать? [nointeract]"
 msgstr "[Oh, merde, maman est déjà en train d'embrasser Eric ! Qu'est-ce qui va se passer maintenant ? Comment suis-je censé réagir à ça ? [nointeract]"
 
-# game/scripts/story_01/dreams.rpy:371 #-#-# translate crowdin ev_124_e2d36341:
-msgid "[_Ann_s_11_] Но, сынок, мы с Эриком взрослые свободные люди. Такое нужно просто принять и не мешать нам..."
-msgstr "[Mais, fils, Eric et moi sommes des adultes libres. Tu dois juste l'accepter et laisser tomber..."
+# game/scripts/story_01/dreams.rpy:462 #-#-# translate crowdin ev_124_bbd90fca:
+msgid "[_tMax_s_13_] Интересно, а они ещё что-то будут делать в машине, кроме как целоваться, или остановятся и пойдут в дом? [nointeract]"
+msgstr ""
 
-# game/scripts/story_01/dreams.rpy:372 #-#-# translate crowdin ev_124_981b5e76:
+# game/scripts/story_01/dreams.rpy:467 #-#-# translate crowdin ev_124_0d8279a6:
+msgid "[_tMax_s_15_] Ничего себе!!! Пока я тихонько крался по балкону мама уже успела во всю начать отсасывать Эрику! Вот это она, конечно, даёт..."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:473 #-#-# translate crowdin ev_124_6011e616:
+msgid "[_Ann_s_11_] Тебя так смутило увиденное, сынок? Но, пойми, мы с Эриком взрослые свободные люди. Такое нужно просто принять и не мешать нам..."
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:474 #-#-# translate crowdin ev_124_981b5e76:
 msgid "[_Max_s_16_] Да хрен там!!! Я не хочу видеть, как тебя лапают всякие мужики! Я сам позабочусь о том, чтобы ты была счастлива."
 msgstr "[Putain de merde ! !! Je ne veux pas te voir te faire tripoter par un homme ! Je m'assurerai que tu sois heureuse moi-même."
 
-# game/scripts/story_01/dreams.rpy:374 #-#-# translate crowdin ev_124_0ba8bc00:
+# game/scripts/story_01/dreams.rpy:476 #-#-# translate crowdin ev_124_0ba8bc00:
 msgid "[_Ann_s_10_] Хм... Хорошо, заходи ко мне в комнату и мы посмотрим, что у тебя получится... [nointeract]"
 msgstr "[Hmm... Ok, viens dans ma chambre et on verra ce que tu as... [nointeract]"
 
-# game/scripts/story_01/dreams.rpy:380 #-#-# translate crowdin ev_124_4ae7a79b:
+# game/scripts/story_01/dreams.rpy:482 #-#-# translate crowdin ev_124_4ae7a79b:
 msgid "[_Ann_s_01_] Ну, сынок... Как, поможешь маме раздеться после долгого и тяжёлого рабочего дня?"
 msgstr "[Eh bien, mon fils... Que dirais-tu d'aider ta mère à se déshabiller après une longue et dure journée de travail ?"
 
-# game/scripts/story_01/dreams.rpy:381 #-#-# translate crowdin ev_124_aef4a271:
+# game/scripts/story_01/dreams.rpy:483 #-#-# translate crowdin ev_124_aef4a271:
 msgid "[_Max_s_01_] А как же! С удовольствием..."
 msgstr "[Et comment ! Ce serait un plaisir..."
 
-# game/scripts/story_01/dreams.rpy:382 #-#-# translate crowdin ev_124_48f80952:
+# game/scripts/story_01/dreams.rpy:484 #-#-# translate crowdin ev_124_48f80952:
 msgid "[_Ann_s_12_] Честно говоря, я успела соскучиться по тебе, хоть и прошло-то не так уж много времени с утра, если подумать."
 msgstr "[_Ann_s_12_] Honnêtement, tu m'as manqué, même si cela ne fait pas si longtemps que ça depuis ce matin, si on y réfléchit bien."
 
-# game/scripts/story_01/dreams.rpy:383 #-#-# translate crowdin ev_124_acbddfad:
+# game/scripts/story_01/dreams.rpy:485 #-#-# translate crowdin ev_124_acbddfad:
 msgid "[_Max_s_02_] Теперь ты дома и я покажу тебе насколько это меня радует..."
 msgstr "[Maintenant tu es à la maison et je vais te montrer à quel point ça me rend heureux...."
 
-# game/scripts/story_01/dreams.rpy:387 #-#-# translate crowdin ev_124_8b57f4a9:
+# game/scripts/story_01/dreams.rpy:489 #-#-# translate crowdin ev_124_8b57f4a9:
 msgid "[_tMax_s_07_] Блаженно чувствовать прикосновение маминых губ на своём лице, как и ощущать упругость её шикарной груди, которой она так крепко прижимается ко мне."
 msgstr "[C'est un bonheur de sentir le contact des lèvres de maman sur mon visage, tout comme de sentir la fermeté de ses seins magnifiques qu'elle presse si fort contre moi."
 
-# game/scripts/story_01/dreams.rpy:388 #-#-# translate crowdin ev_124_c711d1ad:
+# game/scripts/story_01/dreams.rpy:490 #-#-# translate crowdin ev_124_c711d1ad:
 msgid "[_tMax_s_11_] Да, что-то я сильно задумался и совсем позабыл про то, что собирался продемонстрировать, насколько сильно я рад её возвращению..."
 msgstr "[Oui, j'y ai beaucoup pensé et j'ai complètement oublié que j'allais montrer à quel point je suis excité par son retour..."
 
-# game/scripts/story_01/dreams.rpy:392 #-#-# translate crowdin ev_124_3b3fc9dd:
+# game/scripts/story_01/dreams.rpy:494 #-#-# translate crowdin ev_124_3b3fc9dd:
 msgid "[_Ann_s_03_] Ох, Макс, ты у меня такой напористый! Тоже соскучился? Если твои руки так сильно жаждут моей попки, то пока я расстёгиваю блузку, ты можешь помочь мне с юбкой."
 msgstr "[Oh, Max, tu es si pressant ! Je t'ai manqué aussi ? Si tes mains sont si avides de mon cul, tu peux m'aider avec ma jupe pendant que je défais mon chemisier."
 
-# game/scripts/story_01/dreams.rpy:393 #-#-# translate crowdin ev_124_a5a247a2:
+# game/scripts/story_01/dreams.rpy:495 #-#-# translate crowdin ev_124_a5a247a2:
 msgid "[_Max_s_03_] Как раз хотел предложить тебе то же самое!"
 msgstr "[J'allais justement vous suggérer la même chose !"
 
-# game/scripts/story_01/dreams.rpy:397 #-#-# translate crowdin ev_124_5495acd5:
+# game/scripts/story_01/dreams.rpy:499 #-#-# translate crowdin ev_124_5495acd5:
 msgid "[_tMax_s_04_] Ммм... Мамина округлая попка просто сводит меня с ума! До чего же она сексуальна..."
 msgstr "[_tMax_s_04_] Mmm... Le cul arrondi de maman me rend fou ! C'est tellement sexy..."
 
-# game/scripts/story_01/dreams.rpy:398 #-#-# translate crowdin ev_124_dbae5969:
+# game/scripts/story_01/dreams.rpy:500 #-#-# translate crowdin ev_124_dbae5969:
 msgid "[_Ann_s_04_] Даже не знаю на счёт трусиков, дорогой? Обычно они на мне, когда мы ужинаем, но..."
 msgstr "[Je ne sais pas pour les culottes, chérie ? Je les porte habituellement quand nous sortons dîner, mais...."
 
-# game/scripts/story_01/dreams.rpy:399 #-#-# translate crowdin ev_124_0b583350:
+# game/scripts/story_01/dreams.rpy:501 #-#-# translate crowdin ev_124_0b583350:
 msgid "[_Max_s_01_] Не в этот раз, мам."
 msgstr "[Pas cette fois, maman."
 
-# game/scripts/story_01/dreams.rpy:403 #-#-# translate crowdin ev_124_a06d0e3a:
+# game/scripts/story_01/dreams.rpy:505 #-#-# translate crowdin ev_124_a06d0e3a:
 msgid "[_Ann_s_02_] Почему-то я так и думала... Ну, тогда лифчик и подавно мне сегодня больше не понадобится, верно?"
 msgstr "[Pour une raison que j'ignore, j'ai pensé que oui... Alors, je n'aurai pas besoin de soutien-gorge aujourd'hui, n'est-ce pas ?"
 
-# game/scripts/story_01/dreams.rpy:404 #-#-# translate crowdin ev_124_c1a4455d:
+# game/scripts/story_01/dreams.rpy:506 #-#-# translate crowdin ev_124_c1a4455d:
 msgid "[_Max_s_03_] Хе-хе, ещё бы. А знаешь, до ужина ещё есть немного времени, так что можно не спешить одеваться..."
 msgstr "[Heh-heh, je parie. Et vous savez, il reste encore un peu de temps avant le dîner, alors vous pouvez prendre votre temps pour vous habiller...."
 
-# game/scripts/story_01/dreams.rpy:406 #-#-# translate crowdin ev_124_fc516ae1:
+# game/scripts/story_01/dreams.rpy:508 #-#-# translate crowdin ev_124_fc516ae1:
 msgid "[_Ann_s_06_] В самом деле? Ммм... Тогда мы вполне могли бы с тобой скоротать это время за каким-нибудь приятным занятием. Лично мне уже невтерпёж, снимай скорее шорты... [nointeract]"
 msgstr "[_Ann_s06_] Vraiment ? Hmm... Alors toi et moi pourrions passer du temps à faire quelque chose de bien. Personnellement, je commence à m'impatienter, alors enlève ton short... [nointeract]"
 
-# game/scripts/story_01/dreams.rpy:411 #-#-# translate crowdin ev_124_1d69df72:
+# game/scripts/story_01/dreams.rpy:513 #-#-# translate crowdin ev_124_1d69df72:
 msgid "[_Ann_s_04_] Я весь день только и думала о том, как по возвращению домой ты возьмёшь и хорошенько оттрахаешь меня... [nointeract]"
 msgstr "[J'ai pensé toute la journée qu'en rentrant à la maison, tu me baiserais bien... [nointeract]"
 
-# game/scripts/story_01/dreams.rpy:416 #-#-# translate crowdin ev_124_27bcf013:
+# game/scripts/story_01/dreams.rpy:518 #-#-# translate crowdin ev_124_27bcf013:
 msgid "[_Ann_s_07_] Ах! Я так люблю, когда ты делаешь это для меня... Ох, это... нет слов, как приятно... Ахх... Ты самый лучший мужчина на свете!"
 msgstr "[Ah ! J'aime quand tu fais ça pour moi... Oh, c'est... il n'y a pas de mots, c'est si bon. Ahh... Tu es le meilleur homme du monde !"
 
-# game/scripts/story_01/dreams.rpy:417 #-#-# translate crowdin ev_124_1ec7ce88:
+# game/scripts/story_01/dreams.rpy:519 #-#-# translate crowdin ev_124_1ec7ce88:
 msgid "[_tMax_s_11_] А ведь это я только начал! Ради такой шикарной женщины грех не постараться ещё немного..."
 msgstr "[Je ne fais que commencer ! Pour l'amour d'une femme aussi magnifique, c'est un péché de ne pas essayer un peu plus fort..."
 
-# game/scripts/story_01/dreams.rpy:422 #-#-# translate crowdin ev_124_3b0450d8:
+# game/scripts/story_01/dreams.rpy:524 #-#-# translate crowdin ev_124_3b0450d8:
 msgid "[_Ann_s_08_] Д-а-а! Твой язычок сводит меня с ума... Это... невероятно... Как же хорошо! Ммм... [nointeract]"
 msgstr "[Ta langue me rend fou. C'est... incroyable. C'est tellement bon ! Mmm. [nointeract]"
 
-# game/scripts/story_01/dreams.rpy:427 #-#-# translate crowdin ev_124_b745506c:
+# game/scripts/story_01/dreams.rpy:529 #-#-# translate crowdin ev_124_b745506c:
 msgid "[_Ann_s_12_] Ох, не дразни меня, сынок... Давай, трахни меня, скорее!"
 msgstr "[Oh, ne me taquine pas, fils... Allez, baise-moi, dépêche-toi !"
 
-# game/scripts/story_01/dreams.rpy:428 #-#-# translate crowdin ev_124_38de2fc5:
+# game/scripts/story_01/dreams.rpy:530 #-#-# translate crowdin ev_124_38de2fc5:
 msgid "[_Max_s_09_] Ухх... Какая же ты мокренькая, мам..."
 msgstr "[Uhh... Tu es si mouillée, mum...."
 
-# game/scripts/story_01/dreams.rpy:434 #-#-# translate crowdin ev_124_65bd48e9:
+# game/scripts/story_01/dreams.rpy:536 #-#-# translate crowdin ev_124_65bd48e9:
 msgid "[_Ann_s_03_] Не волнуйся, Макс, силы на то, чтобы приласкать тебя я найду всегда, даже если сильно устала..."
 msgstr "[Ne t'inquiète pas, Max, je trouverai toujours la force de te caresser, même si je suis très fatiguée...."
 
-# game/scripts/story_01/dreams.rpy:435 #-#-# translate crowdin ev_124_c9b6550b:
+# game/scripts/story_01/dreams.rpy:537 #-#-# translate crowdin ev_124_c9b6550b:
 msgid "[_Max_s_05_] Ох, мам, ты просто невероятная женщина!"
 msgstr "[Oh, maman, tu es une femme incroyable !"
 
-# game/scripts/story_01/dreams.rpy:439 #-#-# translate crowdin ev_124_028cd6e5:
+# game/scripts/story_01/dreams.rpy:541 #-#-# translate crowdin ev_124_028cd6e5:
 msgid "[_Ann_s_06_] Спасибо, дорогой! Ммм... Я вдруг поняла, почему твой член кажется мне таким невероятно притягательным... Это у нас семейное!"
 msgstr "[Ann_s_06_] Merci, chérie ! Mmm... J'ai soudain compris pourquoi je trouvais ta bite si incroyablement attirante.... C'est un truc de famille."
 
-# game/scripts/story_01/dreams.rpy:440 #-#-# translate crowdin ev_124_c5485a08:
+# game/scripts/story_01/dreams.rpy:542 #-#-# translate crowdin ev_124_c5485a08:
 msgid "[_Max_s_06_] О да, это ты верно подметила!"
 msgstr "[_Max_s_06_] Oh oui, tu as raison !"
 
-# game/scripts/story_01/dreams.rpy:444 #-#-# translate crowdin ev_124_fb68b1ae:
+# game/scripts/story_01/dreams.rpy:546 #-#-# translate crowdin ev_124_fb68b1ae:
 msgid "[_Max_s_08_] Ахх... Какое же это наслаждение, когда она берёт мой член в рот! Я прямо чувствую, с каким удовольствием она это делает. И язычком помогает и второй рукой яичками играет... Просто обалденно!"
 msgstr "[Ahh... Quel plaisir quand elle prend ma bite dans sa bouche ! Je sens le plaisir qu'elle éprouve à le faire. Et avec sa langue, elle m'aide et avec son autre main, elle joue avec mes testicules.... C'est incroyable !"
 
-# game/scripts/story_01/dreams.rpy:445 #-#-# translate crowdin ev_124_2cfed39c:
+# game/scripts/story_01/dreams.rpy:547 #-#-# translate crowdin ev_124_2cfed39c:
 msgid "[_Max_s_10_] Ммм... Ну ты даёшь, мам! Чёрт, как же я тебя сейчас оттрахаю... Садись на меня..."
 msgstr "[Mmm. Tu es si drôle, maman ! Merde, je vais te baiser si fort. Mets-toi sur moi."
 
-# game/scripts/story_01/dreams.rpy:449 #-#-# translate crowdin ev_124_b745506c_1:
+# game/scripts/story_01/dreams.rpy:551 #-#-# translate crowdin ev_124_b745506c_1:
 msgid "[_Ann_s_12_] Ох, не дразни меня, сынок... Давай, трахни меня, скорее!"
 msgstr "[Oh, ne me taquine pas, fils... Allez, baise-moi, dépêche-toi !"
 
-# game/scripts/story_01/dreams.rpy:450 #-#-# translate crowdin ev_124_38de2fc5_1:
+# game/scripts/story_01/dreams.rpy:552 #-#-# translate crowdin ev_124_38de2fc5_1:
 msgid "[_Max_s_09_] Ухх... Какая же ты мокренькая, мам..."
 msgstr "[Uhh... Tu es si mouillée, mum...."
 
-# game/scripts/story_01/dreams.rpy:457 #-#-# translate crowdin ev_124_1d69df72_1:
+# game/scripts/story_01/dreams.rpy:559 #-#-# translate crowdin ev_124_1d69df72_1:
 msgid "[_Ann_s_04_] Я весь день только и думала о том, как по возвращению домой ты возьмёшь и хорошенько оттрахаешь меня... [nointeract]"
 msgstr "[J'ai pensé toute la journée qu'en rentrant à la maison, tu me baiserais bien... [nointeract]"
 
-# game/scripts/story_01/dreams.rpy:462 #-#-# translate crowdin ev_124_b745506c_2:
+# game/scripts/story_01/dreams.rpy:564 #-#-# translate crowdin ev_124_b745506c_2:
 msgid "[_Ann_s_12_] Ох, не дразни меня, сынок... Давай, трахни меня, скорее!"
 msgstr "[Oh, ne me taquine pas, fils... Allez, baise-moi, dépêche-toi !"
 
-# game/scripts/story_01/dreams.rpy:463 #-#-# translate crowdin ev_124_38de2fc5_2:
+# game/scripts/story_01/dreams.rpy:565 #-#-# translate crowdin ev_124_38de2fc5_2:
 msgid "[_Max_s_09_] Ухх... Какая же ты мокренькая, мам..."
 msgstr "[Uhh... Tu es si mouillée, mum...."
 
@@ -704,39 +864,67 @@ msgstr "Vous le découvrirez la prochaine fois, mais pour l'instant, continuez �
 msgid "Если хочешь узнать, то я сейчас покажу..."
 msgstr "Si vous voulez savoir, je vais vous montrer maintenant...."
 
-# game/scripts/story_01/dreams.rpy:356
+# game/scripts/story_01/dreams.rpy:349
+msgid "{i}работать не отвлекаясь{/i}"
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:349
+msgid "{i}выронить несколько документов{/i}"
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:370
+msgid "{i}высунуть член{/i}"
+msgstr "{i}sortir la bite{/i}"
+
+# game/scripts/story_01/dreams.rpy:370
+msgid "{i}снова уронить документы{/i}"
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:382
+msgid "{i}снять джинсы{/i}"
+msgstr "{i}enlever son jean{/i}"
+
+# game/scripts/story_01/dreams.rpy:423
+msgid "{i}ласкать её киску языком{/i}"
+msgstr "{i}caresser sa chatte avec votre langue{/i}"
+
+# game/scripts/story_01/dreams.rpy:451
 msgid "{i}пойти посмотреть с балкона{/i}"
 msgstr "{i}d'aller regarder depuis le balcon."
 
-# game/scripts/story_01/dreams.rpy:363
+# game/scripts/story_01/dreams.rpy:458
 msgid "Да нормально, ведь зачем ещё подвозить её до дома! \n"
 "{i}(путь дружбы с Эриком){/i}"
 msgstr "\n"
 "{i}C'est bien, parce que sinon pourquoi je l'aurais raccompagnée ? (Le voyage d'amitié d'Eric){/i}"
 
-# game/scripts/story_01/dreams.rpy:363
+# game/scripts/story_01/dreams.rpy:458
 msgid "Блин, да мне это совсем не нравится! Даже смотреть противно... \n"
 "{i}(путь вражды с Эриком){/i}"
 msgstr "Je n'aime pas du tout ça ! C'est dégoûtant à regarder... \n"
 "{i}(façon de se disputer avec Eric){/i}"
 
-# game/scripts/story_01/dreams.rpy:405
+# game/scripts/story_01/dreams.rpy:461
+msgid "{i}подсмотреть за ними поближе{/i}"
+msgstr ""
+
+# game/scripts/story_01/dreams.rpy:507
 msgid "Ложись на кровать..."
 msgstr "S'allonger sur le lit..."
 
-# game/scripts/story_01/dreams.rpy:405
+# game/scripts/story_01/dreams.rpy:507
 msgid "Мам, а ты сильно устала?"
 msgstr "Maman, tu es fatiguée ?"
 
-# game/scripts/story_01/dreams.rpy:405
+# game/scripts/story_01/dreams.rpy:507
 msgid "Давай я буду сзади..."
 msgstr "Laissez-moi prendre l'arrière..."
 
-# game/scripts/story_01/dreams.rpy:410
+# game/scripts/story_01/dreams.rpy:512
 msgid "{i}ласкать мамину киску языком{/i}"
 msgstr "{i}"
 
-# game/scripts/story_01/dreams.rpy:421
+# game/scripts/story_01/dreams.rpy:523
 msgid "{i}войти в маму{/i}"
 msgstr "{i}entrer mum{/i}"
 
