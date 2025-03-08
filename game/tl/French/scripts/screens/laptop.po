@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-01-03 09:31\n"
+"PO-Revision-Date: 2025-03-08 10:37\n"
 
-# TODO: Translation updated at 2024-12-25 17:41 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/laptop.rpy:21
+# TODO: Translation updated at 2025-03-05 22:37 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/laptop.rpy:21
 msgid "ОНЛАЙН-КУРСЫ"
 msgstr "COURS EN LIGNE"
 
@@ -80,55 +80,83 @@ msgstr "Il n'y a pas de produits disponibles pour le moment. Revenez plus tard."
 msgid "Что будем искать?"
 msgstr "Qu'est ce que je recherche?"
 
-# game/scripts/screens/laptop.rpy:477
-msgid "ВЫГОДНЫЕ ЗАЙМЫ ИНТЕРНЕТ-ПРЕДПРИНИМАТЕЛЯМ"
-msgstr "PRÊTS INTERESSANT POUR LES ENTREPRENEURS D'INTERNET"
-
 # game/scripts/screens/laptop.rpy:481
-msgid "ВЗЯТЬ КРЕДИТ"
-msgstr "CONTRACTER UN PRÊT"
-
-# game/scripts/screens/laptop.rpy:523
 msgid "Общий доход:"
 msgstr "Revenu total:"
 
-# game/scripts/screens/laptop.rpy:524
+# game/scripts/screens/laptop.rpy:482
 msgid "Последнее начисление:"
 msgstr "Dernière régularisation :"
 
-# game/scripts/screens/laptop.rpy:602
+# game/scripts/screens/laptop.rpy:560
 msgid "Общение"
 msgstr "Réseaux Sociaux"
 
-# game/scripts/screens/laptop.rpy:617
+# game/scripts/screens/laptop.rpy:575
 msgid "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
 msgstr "Vous avez terminé tous les leçons et cours disponibles dans cette catégorie. Peut-être que de nouvelles leçons apparaîtront dans la prochaine version du jeu."
 
-# game/scripts/screens/laptop.rpy:625
+# game/scripts/screens/laptop.rpy:583
 msgid "Вы уже оплатили этот курс и можете в любой момент включить следующий доступный видеоурок."
 msgstr "Vous avez déjà payé pour ce cours et pouvez activer le prochain didacticiel vidéo disponible à tout moment."
 
-# game/scripts/screens/laptop.rpy:626
+# game/scripts/screens/laptop.rpy:584
 msgid "Занятие [learn] из 3"
 msgstr "Classe [learn] de 3"
 
-# game/scripts/screens/laptop.rpy:629
+# game/scripts/screens/laptop.rpy:587
 msgid "НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА"
 msgstr "COMMENCER À REGARDER LA LEÇON VIDÉO"
 
-# game/scripts/screens/laptop.rpy:633
+# game/scripts/screens/laptop.rpy:591
 msgid "ВЫ УЧИЛИСЬ СОВСЕМ НЕДАВНО. СДЕЛАЙТЕ ПЕРЕРЫВ!"
 msgstr "QUE VOUS AVEZ ÉTUDIÉS RÉCEMMENT. FAITES UNE PAUSE !"
 
-# game/scripts/screens/laptop.rpy:641
+# game/scripts/screens/laptop.rpy:599
 msgid "Количество занятий: 3"
 msgstr "Nombre de classes : 3"
 
-# game/scripts/screens/laptop.rpy:643
+# game/scripts/screens/laptop.rpy:601
 msgid "ПРИОБРЕСТИ ЭТОТ КУРС ЗА $[cource.price]"
 msgstr "POUR ACHETER CE COURS AU PRIX DE[cource.price]"
 
-# game/scripts/screens/laptop.rpy:696
+# game/scripts/screens/laptop.rpy:653
 msgid "Удвоение дохода из любых источников"
 msgstr "Doublez vos revenus, quelle qu'en soit la source"
+
+# game/scripts/screens/laptop.rpy:735
+msgid "ШОУ МЕЛИССЫ!"
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:776
+msgid "ЦЕЛЬ СБОРОВ!"
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:780
+msgid "Покрасоваться перед зрителями..."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:782
+msgid "Наслаждаться леденцом..."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:784
+msgid "Переодеться в другую одежду..."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:794
+msgid "Дразнить зрителей грудью..."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:796
+msgid "Дразнить зрителей попкой..."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:798
+msgid "Попасть на мою приватную трансляцию..."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:809
+msgid "${} из ${}"
+msgstr ""
 
