@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-12-25 17:41
+﻿# TODO: Translation updated at 2025-03-05 22:37
 
 # game/scripts/story_01/yoga.rpy:19
 translate crowdin forced_phys_ed_first_time_521877f4:
@@ -384,355 +384,355 @@ translate crowdin forced_phys_ed_repeated_lvl_1_3621921b_1:
     # Max 00 "Давай начинать..."
     Max 00 "Давай начинать..."
 
-# game/scripts/story_01/yoga.rpy:233
+# game/scripts/story_01/yoga.rpy:232
 translate crowdin forced_phys_ed_repeated_lvl_1_69b82c7c:
 
     # Ann 10 "Если правда хочешь, то конечно. Только давай со всей ответственностью к этому подходи. Лишнюю одежду снимай, всё полегче будет." nointeract
     Ann 10 "Если правда хочешь, то конечно. Только давай со всей ответственностью к этому подходи. Лишнюю одежду снимай, всё полегче будет." nointeract
 
-# game/scripts/story_01/yoga.rpy:237
+# game/scripts/story_01/yoga.rpy:236
 translate crowdin forced_phys_ed_repeated_lvl_1_d7dc4fd4:
 
     # Ann 10 "Если правда хочешь, то конечно. Только давай со всей ответственностью к этому подходи."
     Ann 10 "Если правда хочешь, то конечно. Только давай со всей ответственностью к этому подходи."
 
-# game/scripts/story_01/yoga.rpy:238
+# game/scripts/story_01/yoga.rpy:237
 translate crowdin forced_phys_ed_repeated_lvl_1_3621921b_2:
 
     # Max 00 "Давай начинать..."
     Max 00 "Давай начинать..."
 
-# game/scripts/story_01/yoga.rpy:246
+# game/scripts/story_01/yoga.rpy:244
 translate crowdin forced_phys_ed_repeated_lvl_1_a4e8aac6:
 
     # Ann 01 "Вставай рядом, немного разомнёмся... И вставай так, чтобы не видеть Лизу!"
     Ann 01 "Вставай рядом, немного разомнёмся... И вставай так, чтобы не видеть Лизу!"
 
-# game/scripts/story_01/yoga.rpy:247
+# game/scripts/story_01/yoga.rpy:245
 translate crowdin forced_phys_ed_repeated_lvl_1_284d183c:
 
     # Max 14 "Эх, как всегда..."
     Max 14 "Эх, как всегда..."
 
-# game/scripts/story_01/yoga.rpy:253
+# game/scripts/story_01/yoga.rpy:251
 translate crowdin forced_phys_ed_repeated_lvl_1_a2e3bedb:
 
     # Ann 02 "И давай поактивнее разминайся, чтобы мне не пришлось с тобой ругаться. Внимательно смотри за мной и повторяй..."
     Ann 02 "И давай поактивнее разминайся, чтобы мне не пришлось с тобой ругаться. Внимательно смотри за мной и повторяй..."
 
-# game/scripts/story_01/yoga.rpy:254
+# game/scripts/story_01/yoga.rpy:252
 translate crowdin forced_phys_ed_repeated_lvl_1_a6b59ac8:
 
     # tMax 04 "Не переживай, мам, за твоей сочной попкой я буду смотреть ОЧЕНЬ внимательно."
     tMax 04 "Не переживай, мам, за твоей сочной попкой я буду смотреть ОЧЕНЬ внимательно."
 
-# game/scripts/story_01/yoga.rpy:255
+# game/scripts/story_01/yoga.rpy:253
 translate crowdin forced_phys_ed_repeated_lvl_1_4786c45c:
 
     # Ann 03 "Энергичнее, Макс! Что-то ты какой-то еле живой."
     Ann 03 "Энергичнее, Макс! Что-то ты какой-то еле живой."
 
-# game/scripts/story_01/yoga.rpy:256
+# game/scripts/story_01/yoga.rpy:254
 translate crowdin forced_phys_ed_repeated_lvl_1_3f82d39b:
 
     # Max 11 "Я стараюсь, но ещё как-то не особо проснулся."
     Max 11 "Я стараюсь, но ещё как-то не особо проснулся."
 
-# game/scripts/story_01/yoga.rpy:261
+# game/scripts/story_01/yoga.rpy:259
 translate crowdin forced_phys_ed_repeated_lvl_1_2b0a6573:
 
     # Ann 11 "Хорошо бы ещё было ноги растянуть, но в джинсах тебе это будет крайне проблематично сделать."
     Ann 11 "Хорошо бы ещё было ноги растянуть, но в джинсах тебе это будет крайне проблематично сделать."
 
-# game/scripts/story_01/yoga.rpy:262
+# game/scripts/story_01/yoga.rpy:260
 translate crowdin forced_phys_ed_repeated_lvl_1_53416605:
 
     # Max 16 "Да ну, мам, какая растяжка! У меня и без этого джинсы во всех швах трещат."
     Max 16 "Да ну, мам, какая растяжка! У меня и без этого джинсы во всех швах трещат."
 
-# game/scripts/story_01/yoga.rpy:264
+# game/scripts/story_01/yoga.rpy:262
 translate crowdin forced_phys_ed_repeated_lvl_1_74a2be70:
 
     # Ann 01 "Значит переходим к основным упражнениям. Я буду заниматься йогой, а ты отжимайся, приседай и упражнения на пресс делай. И на совесть, Макс!" nointeract
     Ann 01 "Значит переходим к основным упражнениям. Я буду заниматься йогой, а ты отжимайся, приседай и упражнения на пресс делай. И на совесть, Макс!" nointeract
 
-# game/scripts/story_01/yoga.rpy:268
+# game/scripts/story_01/yoga.rpy:266
 translate crowdin forced_phys_ed_repeated_lvl_1_8318dcd7:
 
     # Ann 02 "Знаешь, что поможет тебе взбодриться? Упражнения на растяжку! Ты вон, как раз в шортах."
     Ann 02 "Знаешь, что поможет тебе взбодриться? Упражнения на растяжку! Ты вон, как раз в шортах."
 
-# game/scripts/story_01/yoga.rpy:269
+# game/scripts/story_01/yoga.rpy:267
 translate crowdin forced_phys_ed_repeated_lvl_1_49124f87:
 
     # Max 12 "Ну, можно и потянуться ещё немного..."
     Max 12 "Ну, можно и потянуться ещё немного..."
 
-# game/scripts/story_01/yoga.rpy:274
+# game/scripts/story_01/yoga.rpy:272
 translate crowdin forced_phys_ed_repeated_lvl_1_45dbf1bb:
 
     # Ann 04 "Давай вместе со мной. Гибкость лучше поддерживать с молодых лет, сынок. Если в это втянуться, то потом растягиваться станет даже приятно."
     Ann 04 "Давай вместе со мной. Гибкость лучше поддерживать с молодых лет, сынок. Если в это втянуться, то потом растягиваться станет даже приятно."
 
-# game/scripts/story_01/yoga.rpy:275
+# game/scripts/story_01/yoga.rpy:273
 translate crowdin forced_phys_ed_repeated_lvl_1_bf3fc7f2:
 
     # tMax 03 "Про «потом» не знаю, а мне уже сейчас приятно растягиваться. Ещё бы, ведь мама у меня такая конфетка!"
     tMax 03 "Про «потом» не знаю, а мне уже сейчас приятно растягиваться. Ещё бы, ведь мама у меня такая конфетка!"
 
-# game/scripts/story_01/yoga.rpy:277
+# game/scripts/story_01/yoga.rpy:275
 translate crowdin forced_phys_ed_repeated_lvl_1_4cbdad2a:
 
     # Ann 01 "Теперь переходим к основным упражнениям. Я буду заниматься йогой, а ты отжимайся, приседай и упражнения на пресс делай. И на совесть, Макс!" nointeract
     Ann 01 "Теперь переходим к основным упражнениям. Я буду заниматься йогой, а ты отжимайся, приседай и упражнения на пресс делай. И на совесть, Макс!" nointeract
 
-# game/scripts/story_01/yoga.rpy:286
+# game/scripts/story_01/yoga.rpy:284
 translate crowdin forced_phys_ed_repeated_lvl_1_7132072f:
 
     # tMax 04 "На самом деле, не так уж и напряжно потренироваться вместе с мамой. От её гибкости и красоты просто нельзя оторвать взгляд..."
     tMax 04 "На самом деле, не так уж и напряжно потренироваться вместе с мамой. От её гибкости и красоты просто нельзя оторвать взгляд..."
 
-# game/scripts/story_01/yoga.rpy:287
+# game/scripts/story_01/yoga.rpy:285
 translate crowdin forced_phys_ed_repeated_lvl_1_25a94ece:
 
     # Ann 03 "Хорошо справляешься, Макс! Проснулся, наконец-то. Старайся отжиматься чётко и размеренно, а то я тебя здесь надолго задержу."
     Ann 03 "Хорошо справляешься, Макс! Проснулся, наконец-то. Старайся отжиматься чётко и размеренно, а то я тебя здесь надолго задержу."
 
-# game/scripts/story_01/yoga.rpy:288
+# game/scripts/story_01/yoga.rpy:286
 translate crowdin forced_phys_ed_repeated_lvl_1_2fc2b5fc:
 
     # Max 11 "Ох, мам... Я стараюсь, как могу. Фух, пожалуй хватит..."
     Max 11 "Ох, мам... Я стараюсь, как могу. Фух, пожалуй хватит..."
 
-# game/scripts/story_01/yoga.rpy:292
+# game/scripts/story_01/yoga.rpy:290
 translate crowdin forced_phys_ed_repeated_lvl_1_aac69f4c:
 
     # Ann 02 "Молодец! Можешь же, если захочешь. Немножко отдохни и начинай приседать."
     Ann 02 "Молодец! Можешь же, если захочешь. Немножко отдохни и начинай приседать."
 
-# game/scripts/story_01/yoga.rpy:293
+# game/scripts/story_01/yoga.rpy:291
 translate crowdin forced_phys_ed_repeated_lvl_1_0c342304:
 
     # Max 01 "Ага. А ты каждое утро такая бодрая и прекрасная! Эти занятия йогой явно идут тебе только на пользу."
     Max 01 "Ага. А ты каждое утро такая бодрая и прекрасная! Эти занятия йогой явно идут тебе только на пользу."
 
-# game/scripts/story_01/yoga.rpy:294
+# game/scripts/story_01/yoga.rpy:292
 translate crowdin forced_phys_ed_repeated_lvl_1_c7ca7916:
 
     # Ann 04 "Спасибо! Приятно каждый раз от тебя слышать, что я не зря этим занимаюсь... Это прекрасно мотивирует."
     Ann 04 "Спасибо! Приятно каждый раз от тебя слышать, что я не зря этим занимаюсь... Это прекрасно мотивирует."
 
-# game/scripts/story_01/yoga.rpy:295
+# game/scripts/story_01/yoga.rpy:293
 translate crowdin forced_phys_ed_repeated_lvl_1_7ceb99f5:
 
     # Max 03 "Так держать, мам!"
     Max 03 "Так держать, мам!"
 
-# game/scripts/story_01/yoga.rpy:297
+# game/scripts/story_01/yoga.rpy:295
 translate crowdin forced_phys_ed_repeated_lvl_1_9c6d668d:
 
     # Ann 01 "Но хватит отдыхать. Продолжаем..." nointeract
     Ann 01 "Но хватит отдыхать. Продолжаем..." nointeract
 
-# game/scripts/story_01/yoga.rpy:305
+# game/scripts/story_01/yoga.rpy:303
 translate crowdin forced_phys_ed_repeated_lvl_1_738c9fcb:
 
     # tMax 02 "Приседать-то куда легче, чем отжиматься. Хоть руки отдохнут. И мамой любоваться куда проще... Все эти изгибы, да с её шикарными формами, ммм..."
     tMax 02 "Приседать-то куда легче, чем отжиматься. Хоть руки отдохнут. И мамой любоваться куда проще... Все эти изгибы, да с её шикарными формами, ммм..."
 
-# game/scripts/story_01/yoga.rpy:306
+# game/scripts/story_01/yoga.rpy:304
 translate crowdin forced_phys_ed_repeated_lvl_1_b08ccd65:
 
     # Ann 02 "Правильно, Макс, вот так. Обращай внимание на глубину приседаний, а то большого толку от них не будет."
     Ann 02 "Правильно, Макс, вот так. Обращай внимание на глубину приседаний, а то большого толку от них не будет."
 
-# game/scripts/story_01/yoga.rpy:307
+# game/scripts/story_01/yoga.rpy:305
 translate crowdin forced_phys_ed_repeated_lvl_1_4edfb6ca:
 
     # Max 11 "Фух... Вот и всё, заканчиваю..."
     Max 11 "Фух... Вот и всё, заканчиваю..."
 
-# game/scripts/story_01/yoga.rpy:312
+# game/scripts/story_01/yoga.rpy:310
 translate crowdin forced_phys_ed_repeated_lvl_1_bf3e0265:
 
     # Ann 03 "Отлично! Отдышись и давай упражнение на пресс делай. Тебе осталось-то всего ничего. Продолжай в том же духе..." nointeract
     Ann 03 "Отлично! Отдышись и давай упражнение на пресс делай. Тебе осталось-то всего ничего. Продолжай в том же духе..." nointeract
 
-# game/scripts/story_01/yoga.rpy:318
+# game/scripts/story_01/yoga.rpy:316
 translate crowdin forced_phys_ed_repeated_lvl_1_e30d56ca:
 
     # Ann 12 "Ох, Макс... Ну... Хорошо, подержу. Немного времени у меня есть. Но будешь качать пресс до отказа, понял?"
     Ann 12 "Ох, Макс... Ну... Хорошо, подержу. Немного времени у меня есть. Но будешь качать пресс до отказа, понял?"
 
-# game/scripts/story_01/yoga.rpy:319
+# game/scripts/story_01/yoga.rpy:317
 translate crowdin forced_phys_ed_repeated_lvl_1_d2edec48:
 
     # Max 12 "Упс, вот влип! Но ладно, я готов."
     Max 12 "Упс, вот влип! Но ладно, я готов."
 
-# game/scripts/story_01/yoga.rpy:328
+# game/scripts/story_01/yoga.rpy:326
 translate crowdin forced_phys_ed_repeated_lvl_1_97623b8f:
 
     # tMax 04 "Супер! С такой мотивацией, прямо перед носом, я готов качать пресс хоть до вечера. Вряд ли смогу, но пытаться точно буду!"
     tMax 04 "Супер! С такой мотивацией, прямо перед носом, я готов качать пресс хоть до вечера. Вряд ли смогу, но пытаться точно буду!"
 
-# game/scripts/story_01/yoga.rpy:330
+# game/scripts/story_01/yoga.rpy:328
 translate crowdin forced_phys_ed_repeated_lvl_1_d858ccca:
 
     # Ann 02 "Отлично, Макс! Главное придерживайся техники в упражнениях, чтобы не навредить себе." nointeract
     Ann 02 "Отлично, Макс! Главное придерживайся техники в упражнениях, чтобы не навредить себе." nointeract
 
-# game/scripts/story_01/yoga.rpy:341
+# game/scripts/story_01/yoga.rpy:339
 translate crowdin forced_phys_ed_repeated_lvl_1_42f14189:
 
     # tMax 02 "Ох... В мамину пышную грудь так и хочется занырнуть. Причём так, бесцеремонно, по-хозяйски! Блин, как же тесно сейчас в джинсах стало..."
     tMax 02 "Ох... В мамину пышную грудь так и хочется занырнуть. Причём так, бесцеремонно, по-хозяйски! Блин, как же тесно сейчас в джинсах стало..."
 
-# game/scripts/story_01/yoga.rpy:343
+# game/scripts/story_01/yoga.rpy:341
 translate crowdin forced_phys_ed_repeated_lvl_1_451b6a41:
 
     # tMax 02 "Ох... В мамину пышную грудь так и хочется занырнуть. Причём так, бесцеремонно, по-хозяйски! Блин, надеюсь в этих шортах не видно, что у меня стоит..."
     tMax 02 "Ох... В мамину пышную грудь так и хочется занырнуть. Причём так, бесцеремонно, по-хозяйски! Блин, надеюсь в этих шортах не видно, что у меня стоит..."
 
-# game/scripts/story_01/yoga.rpy:349
+# game/scripts/story_01/yoga.rpy:347
 translate crowdin forced_phys_ed_repeated_lvl_1_f62c4819:
 
     # Ann 03 "Давай-давай, Макс! До отказа. Или ты думал, что я позволю тебе тут расслабляться?"
     Ann 03 "Давай-давай, Макс! До отказа. Или ты думал, что я позволю тебе тут расслабляться?"
 
-# game/scripts/story_01/yoga.rpy:350
+# game/scripts/story_01/yoga.rpy:348
 translate crowdin forced_phys_ed_repeated_lvl_1_844edfca:
 
     # Max 14 "Да всё, мам, хватит. А то уже живот сводит..."
     Max 14 "Да всё, мам, хватит. А то уже живот сводит..."
 
-# game/scripts/story_01/yoga.rpy:355
+# game/scripts/story_01/yoga.rpy:353
 translate crowdin forced_phys_ed_repeated_lvl_1_bb1ecdb3:
 
     # Ann 10 "Сынок, ты что там так внимательно разглядываешь, а?"
     Ann 10 "Сынок, ты что там так внимательно разглядываешь, а?"
 
-# game/scripts/story_01/yoga.rpy:356
+# game/scripts/story_01/yoga.rpy:354
 translate crowdin forced_phys_ed_repeated_lvl_1_983bd7ab:
 
     # Max 11 "Ничего, просто стараюсь до твоих рук дотянуться."
     Max 11 "Ничего, просто стараюсь до твоих рук дотянуться."
 
-# game/scripts/story_01/yoga.rpy:357
+# game/scripts/story_01/yoga.rpy:355
 translate crowdin forced_phys_ed_repeated_lvl_1_12029364:
 
     # Ann 03 "Правильно, пытайся... И давай, до отказа. Или ты думал, что я позволю тебе тут расслабляться?"
     Ann 03 "Правильно, пытайся... И давай, до отказа. Или ты думал, что я позволю тебе тут расслабляться?"
 
-# game/scripts/story_01/yoga.rpy:358
+# game/scripts/story_01/yoga.rpy:356
 translate crowdin forced_phys_ed_repeated_lvl_1_844edfca_1:
 
     # Max 14 "Да всё, мам, хватит. А то уже живот сводит..."
     Max 14 "Да всё, мам, хватит. А то уже живот сводит..."
 
-# game/scripts/story_01/yoga.rpy:361
+# game/scripts/story_01/yoga.rpy:359
 translate crowdin forced_phys_ed_repeated_lvl_1_f62c4819_1:
 
     # Ann 03 "Давай-давай, Макс! До отказа. Или ты думал, что я позволю тебе тут расслабляться?"
     Ann 03 "Давай-давай, Макс! До отказа. Или ты думал, что я позволю тебе тут расслабляться?"
 
-# game/scripts/story_01/yoga.rpy:362
+# game/scripts/story_01/yoga.rpy:360
 translate crowdin forced_phys_ed_repeated_lvl_1_844edfca_2:
 
     # Max 14 "Да всё, мам, хватит. А то уже живот сводит..."
     Max 14 "Да всё, мам, хватит. А то уже живот сводит..."
 
-# game/scripts/story_01/yoga.rpy:369
+# game/scripts/story_01/yoga.rpy:367
 translate crowdin forced_phys_ed_repeated_lvl_1_8814e711:
 
     # Ann 12 "Макс, давай сам попробуй, я ведь тоже занимаюсь. К тому же, я уже тебе помогаю тем, что даю ценные советы и слежу за тем, чтобы ты всё делал правильно."
     Ann 12 "Макс, давай сам попробуй, я ведь тоже занимаюсь. К тому же, я уже тебе помогаю тем, что даю ценные советы и слежу за тем, чтобы ты всё делал правильно."
 
-# game/scripts/story_01/yoga.rpy:372
+# game/scripts/story_01/yoga.rpy:370
 translate crowdin forced_phys_ed_repeated_lvl_1_acadcf1d:
 
     # Ann 12 "Макс, давай сам попробуй, я ведь тоже занимаюсь. К тому же, я уже тебе помогаю тем, что даю возможность избежать наказания перед завтраком."
     Ann 12 "Макс, давай сам попробуй, я ведь тоже занимаюсь. К тому же, я уже тебе помогаю тем, что даю возможность избежать наказания перед завтраком."
 
-# game/scripts/story_01/yoga.rpy:374
+# game/scripts/story_01/yoga.rpy:372
 translate crowdin forced_phys_ed_repeated_lvl_1_77671e12:
 
     # Max 16 "Эх... Ладно, сам так сам." nointeract
     Max 16 "Эх... Ладно, сам так сам." nointeract
 
-# game/scripts/story_01/yoga.rpy:385
+# game/scripts/story_01/yoga.rpy:383
 translate crowdin forced_phys_ed_self_pump_abs_7e61876c:
 
     # tMax 13 "Как же неудобно без поддержки... Особенно, когда назад отклоняюсь. Я, правда, ещё и на маму успеваю глазеть, может из-за этого так сложно."
     tMax 13 "Как же неудобно без поддержки... Особенно, когда назад отклоняюсь. Я, правда, ещё и на маму успеваю глазеть, может из-за этого так сложно."
 
-# game/scripts/story_01/yoga.rpy:386
+# game/scripts/story_01/yoga.rpy:384
 translate crowdin forced_phys_ed_self_pump_abs_068d6e69:
 
     # Ann 02 "Отлично, Макс! Главное придерживайся техники в упражнениях, чтобы не навредить себе."
     Ann 02 "Отлично, Макс! Главное придерживайся техники в упражнениях, чтобы не навредить себе."
 
-# game/scripts/story_01/yoga.rpy:387
+# game/scripts/story_01/yoga.rpy:385
 translate crowdin forced_phys_ed_self_pump_abs_84682d44:
 
     # tMax 14 "Фух... Если снова соглашусь на эти занятия, то нужно будет постараться уговорить маму мне помочь. С ней будет интереснее и легче..."
     tMax 14 "Фух... Если снова соглашусь на эти занятия, то нужно будет постараться уговорить маму мне помочь. С ней будет интереснее и легче..."
 
-# game/scripts/story_01/yoga.rpy:398
+# game/scripts/story_01/yoga.rpy:396
 translate crowdin forced_phys_ed_self_pump_abs_c2c8c688:
 
     # Ann 04 "Ну как, устал? Нарушать личное пространство своей сестры ещё есть желание, а?"
     Ann 04 "Ну как, устал? Нарушать личное пространство своей сестры ещё есть желание, а?"
 
-# game/scripts/story_01/yoga.rpy:399
+# game/scripts/story_01/yoga.rpy:397
 translate crowdin forced_phys_ed_self_pump_abs_9768155b:
 
     # Max 12 "Вряд ли. Что точно хочется, так это завалиться на кровать и отлёживаться."
     Max 12 "Вряд ли. Что точно хочется, так это завалиться на кровать и отлёживаться."
 
-# game/scripts/story_01/yoga.rpy:400
+# game/scripts/story_01/yoga.rpy:398
 translate crowdin forced_phys_ed_self_pump_abs_b3104ca2:
 
     # Ann 01 "Иди давай, на этот раз с тебя хватит."
     Ann 01 "Иди давай, на этот раз с тебя хватит."
 
-# game/scripts/story_01/yoga.rpy:403
+# game/scripts/story_01/yoga.rpy:401
 translate crowdin forced_phys_ed_self_pump_abs_120ffe50:
 
     # Ann 04 "Ну как, устал? Силы ещё есть, чтобы шататься и подглядывать, а?"
     Ann 04 "Ну как, устал? Силы ещё есть, чтобы шататься и подглядывать, а?"
 
-# game/scripts/story_01/yoga.rpy:404
+# game/scripts/story_01/yoga.rpy:402
 translate crowdin forced_phys_ed_self_pump_abs_9768155b_1:
 
     # Max 12 "Вряд ли. Что точно хочется, так это завалиться на кровать и отлёживаться."
     Max 12 "Вряд ли. Что точно хочется, так это завалиться на кровать и отлёживаться."
 
-# game/scripts/story_01/yoga.rpy:406
+# game/scripts/story_01/yoga.rpy:404
 translate crowdin forced_phys_ed_self_pump_abs_8c2567ca:
 
     # Ann 01 "Всё понятно с тобой. Иди давай, на этот раз с тебя хватит, отчитывать перед всеми не буду."
     Ann 01 "Всё понятно с тобой. Иди давай, на этот раз с тебя хватит, отчитывать перед всеми не буду."
 
-# game/scripts/story_01/yoga.rpy:408
+# game/scripts/story_01/yoga.rpy:406
 translate crowdin forced_phys_ed_self_pump_abs_ab68678b:
 
     # Ann 01 "Всё понятно с тобой. Иди давай, на этот раз с тебя хватит, наказывать перед всеми не буду."
     Ann 01 "Всё понятно с тобой. Иди давай, на этот раз с тебя хватит, наказывать перед всеми не буду."
 
-# game/scripts/story_01/yoga.rpy:412
+# game/scripts/story_01/yoga.rpy:410
 translate crowdin forced_phys_ed_self_pump_abs_c87bc545:
 
     # Ann 04 "Ну как, устал? Вижу, что устал. Ты молодец, хорошо потренировался. На сегодня достаточно, иди, отдыхай."
     Ann 04 "Ну как, устал? Вижу, что устал. Ты молодец, хорошо потренировался. На сегодня достаточно, иди, отдыхай."
 
-# game/scripts/story_01/yoga.rpy:417
+# game/scripts/story_01/yoga.rpy:415
 translate crowdin forced_phys_ed_self_pump_abs_3f53e0d1:
 
     # tMax 05 "Ухх... Какая же мама нереально сексуальная женщина! Уже сил терпеть нет, так и хочется взять и жёстко её оттрахать..."
     tMax 05 "Ухх... Какая же мама нереально сексуальная женщина! Уже сил терпеть нет, так и хочется взять и жёстко её оттрахать..."
 
-# game/scripts/story_01/yoga.rpy:422
+# game/scripts/story_01/yoga.rpy:420
 translate crowdin forced_phys_ed_end_87ff48d3:
 
     # Max 01 "Спасибо, мам."
@@ -744,23 +744,23 @@ translate crowdin strings:
     old "{i}снять верх{/i}"
     new "{i}снять верх{/i}"
 
-    # game/scripts/story_01/yoga.rpy:263
+    # game/scripts/story_01/yoga.rpy:261
     old "{i}отжиматься{/i}"
     new "{i}отжиматься{/i}"
 
-    # game/scripts/story_01/yoga.rpy:296
+    # game/scripts/story_01/yoga.rpy:294
     old "{i}приседать{/i}"
     new "{i}приседать{/i}"
 
-    # game/scripts/story_01/yoga.rpy:311
+    # game/scripts/story_01/yoga.rpy:309
     old "А ты подержишь меня за ноги?"
     new "А ты подержишь меня за ноги?"
 
-    # game/scripts/story_01/yoga.rpy:311
+    # game/scripts/story_01/yoga.rpy:309
     old "{i}качать пресс{/i}"
     new "{i}качать пресс{/i}"
 
-    # game/scripts/story_01/yoga.rpy:329
+    # game/scripts/story_01/yoga.rpy:327
     old "{i}лучше рассмотреть её грудь{/i}"
     new "{i}лучше рассмотреть её грудь{/i}"
 

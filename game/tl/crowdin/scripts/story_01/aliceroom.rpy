@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-12-25 17:41
+﻿# TODO: Translation updated at 2025-03-05 22:37
 
 # game/scripts/story_01/aliceroom.rpy:10
 translate crowdin ev_alice_dressed_51996b14:

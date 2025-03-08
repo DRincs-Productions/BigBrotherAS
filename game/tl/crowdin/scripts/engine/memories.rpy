@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-12-25 17:41
+﻿# TODO: Translation updated at 2025-03-05 22:37
 
 translate crowdin strings:
 
@@ -13,6 +13,10 @@ translate crowdin strings:
     # game/scripts/engine/memories.rpy:186
     old "Сексуальные уроки!"
     new "Сексуальные уроки!"
+
+    # game/scripts/engine/memories.rpy:186
+    old "Работа подождёт!"
+    new "Работа подождёт!"
 
     # game/scripts/engine/memories.rpy:186
     old "Только для одного!"
