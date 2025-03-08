@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-01-03 11:03\n"
+"PO-Revision-Date: 2025-03-08 10:37\n"
 
-# TODO: Translation updated at 2024-12-25 17:41 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:200
+# TODO: Translation updated at 2025-03-05 22:37 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:200
 msgid "Мама во время завтрака попросила меня посмотреть, что за коробки остались в доме после ремонта. \n"
 "Сейчас они у меня в комнате."
 msgstr "Durante la colazione, mia madre mi ha chiesto di vedere che tipo di scatole erano rimaste in casa dopo la ristrutturazione. \n"
@@ -234,6 +234,47 @@ msgstr "Controllare i dati del portatile di Alice"
 # game/scripts/engine/tasks.rpy:200
 msgid "Возможность просматривать вэб-трансляции с Алисой!"
 msgstr "La possibilità di visualizzare i webcast con Alice!"
+
+# game/scripts/engine/tasks.rpy:200
+msgid "Стримерша"
+msgstr ""
+
+# game/scripts/engine/tasks.rpy:200
+msgid "Пришлось повозиться, чтобы выяснить новый ник Алисы на сайте «MyCams».\n"
+"Свой ник я тоже поменял, так что можно совершенно не боясь смотреть её трансляции. Ох, и интересно, что я смогу там увидеть..."
+msgstr ""
+
+# game/scripts/engine/tasks.rpy:200
+msgid "Нужно завершить задание «Взломать блогершу»!"
+msgstr ""
+
+# game/scripts/engine/tasks.rpy:200
+msgid "Посмотреть трансляцию Алисы на сайте «MyCams»."
+msgstr ""
+
+# game/scripts/engine/tasks.rpy:200
+msgid "Алиса проводит трансляции сразу после ужина, но вряд ли каждый день..."
+msgstr ""
+
+# game/scripts/engine/tasks.rpy:200
+msgid "Добавить платёжную информацию в свой профиль на сайте «MyCams»."
+msgstr ""
+
+# game/scripts/engine/tasks.rpy:200
+msgid "Достаточно просто зайти на сайт «MyCams» в любое время..."
+msgstr ""
+
+# game/scripts/engine/tasks.rpy:200
+msgid "Попасть на приватную трансляцию Алисы на сайте «MyCams»."
+msgstr ""
+
+# game/scripts/engine/tasks.rpy:200
+msgid "Нужно победить в отборочном конкурсе шоу Алисы на сайте «MyCams»..."
+msgstr ""
+
+# game/scripts/engine/tasks.rpy:200
+msgid "Продолжение в v0.09..."
+msgstr ""
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Вредная привычка"
@@ -478,6 +519,10 @@ msgstr "Convincere Lisa per il primo bacio."
 # game/scripts/engine/tasks.rpy:200
 msgid "Нужно продвинуться в выполнении задания «Обедневшая блогерша»!"
 msgstr "Ho bisogno di andare avanti con il compito di «blogger impoverito»!"
+
+# game/scripts/engine/tasks.rpy:200
+msgid "Для этого Лиза должна быть в хорошем настроении..."
+msgstr ""
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Нужно подойти к Лизе и поговорить с ней на эту тему, когда она находится в своей комнате..."
