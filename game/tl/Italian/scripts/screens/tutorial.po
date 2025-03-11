@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-03-08 10:38\n"
+"PO-Revision-Date: 2025-03-11 13:25\n"
 
 # TODO: Translation updated at 2025-03-05 22:37 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/tutorial.rpy:14
 msgid "Главная панель игры располагается внизу."
@@ -160,11 +160,11 @@ msgstr "Quando si passa il cursore sull'indicatore dell'umore di un personaggio,
 
 # game/scripts/screens/tutorial.rpy:109
 msgid "Повышать настроение персонажей можно различными действиями, вроде помощи с мытьём посуды, накрытием на стол, совместным просмотром ТВ, плавания, натирания маслом для загара и т.д."
-msgstr ""
+msgstr "È possibile migliorare l'umore dei personaggi con varie azioni, come aiutare a lavare i piatti, apparecchiare la tavola, guardare la TV insieme, nuotare, spalmare l'olio solare, ecc."
 
 # game/scripts/screens/tutorial.rpy:109
 msgid "Если Макс будет замечен подглядывающим за тем, как персонажи переодеваются, то у него будет шанс сделать им комплимент. Успех этого зависит от уровня и опыта применения навыка «Убеждение»."
-msgstr ""
+msgstr "Se Max viene notato mentre sbircia i personaggi che si cambiano d'abito, avrà la possibilità di complimentarsi con loro. Il successo dipende dal livello e dall'esperienza dell'abilità «Persuasione»."
 
 # game/scripts/screens/tutorial.rpy:109
 msgid "Настроение персонажей, с которыми контактирует Макс, может слегка влиять на исход некоторых событий."
