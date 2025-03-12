@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-03-08 10:38\n"
+"PO-Revision-Date: 2025-03-12 10:43\n"
 
 # TODO: Translation updated at 2025-03-05 22:37 #|#|# # game/scripts/story_01/eric.rpy:10 #-#-# translate crowdin ev_055_e6d21536:
 msgid "[_Ann_s_02_] Макс, ты хотел увидеть платье? Вот оно..."
@@ -310,31 +310,31 @@ msgstr "[_Max_s_00_] Capito. Buonanotte, mamma. [nointeract]"
 
 # game/scripts/story_01/eric.rpy:231 #-#-# translate crowdin ev_128_99524b84:
 msgid "[_Ann_s_01_] А вот и я, мои дорогие. У нас сегодня гость. Знакомьтесь, это - Эрик. Он один из руководителей компании, в которой я работаю. Я пригласила его поужинать с нами."
-msgstr ""
+msgstr "[_Ann_s_01_] Eccomi qui, cari miei. Oggi abbiamo un ospite. Vi presento Eric. È uno dei dirigenti dell'azienda per cui lavoro. L'ho invitato a cena con noi."
 
 # game/scripts/story_01/eric.rpy:232 #-#-# translate crowdin ev_128_bd381f70:
 msgid "[_Eric_s_01_] Всем добрый вечер!"
-msgstr ""
+msgstr "[_Eric_s_01_] Buonasera a tutti!"
 
 # game/scripts/story_01/eric.rpy:233 #-#-# translate crowdin ev_128_4245affa:
 msgid "[_Alice_s_01_] Здравствуйте!"
-msgstr ""
+msgstr "[_Alice_s_01_] Buonasera!"
 
 # game/scripts/story_01/eric.rpy:234 #-#-# translate crowdin ev_128_ddcf02b7:
 msgid "[_Lisa_s_11_] Добрый вечер!"
-msgstr ""
+msgstr "[_Lisa_s_11_] Buonasera!"
 
 # game/scripts/story_01/eric.rpy:235 #-#-# translate crowdin ev_128_dd85397c:
 msgid "[_Max_s_12_] Ага, уже знакомы."
-msgstr ""
+msgstr "[_Max_s_12_] Ah, ci siamo già conosciuti."
 
 # game/scripts/story_01/eric.rpy:239 #-#-# translate crowdin ev_128_97e5845a:
 msgid "[_Ann_s_02_] Да, с Максом вы уже знакомы, а это мои дочери... Та, что посветлее и пониже - моя младшая дочь, Лиза. А та, что смуглее и выше - старшая дочь, Алиса."
-msgstr ""
+msgstr "[_Ann_s_02_] Sì, Max e te vi conoscete già, e queste sono le mie figlie... Quella più chiara e più bassa è la mia figlia minore, Lisa. E quella più scura e più alta è la figlia maggiore, Alice."
 
 # game/scripts/story_01/eric.rpy:240 #-#-# translate crowdin ev_128_3f9d5df0:
 msgid "[_Eric_s_03_] Ого! Определённо, все в маму, такие же красавицы..."
-msgstr ""
+msgstr "[_Eric_s_03_] Wow! Decisamente, tutte uguali alla mamma, così belle..."
 
 # game/scripts/story_01/eric.rpy:241 #-#-# translate crowdin ev_128_23c1676b:
 msgid "[_Alice_s_02_] Спасибо, Эрик!"
