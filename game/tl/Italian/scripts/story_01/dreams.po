@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-03-08 10:38\n"
+"PO-Revision-Date: 2025-03-12 08:59\n"
 
 # TODO: Translation updated at 2025-03-05 22:37 #|#|# # game/scripts/story_01/dreams.rpy:11 #-#-# translate crowdin ev_019_d1b851a2:
 msgid "[_tMax_s_00_] Что у нас тут интересного? Посмотрим..."
@@ -494,35 +494,35 @@ msgstr "[_tMax_s_07_] Wow! La sua figa è così morbida e piacevole. E così bag
 
 # game/scripts/story_01/dreams.rpy:339 #-#-# translate crowdin ev_108_3d84da9c:
 msgid "[_Mia_s_01_] Видишь ли, Макс, гражданское право - это не та отрасль, куда можно просто прийти без каких-то специальных знаний и в процессе работы их наверстать. Но, раз уж ты хочешь оценить, что это за профессия такая, юрист, я тебе кое-что покажу..."
-msgstr ""
+msgstr "[_Mia_s_01_] Vedi, Max, il diritto civile non è un settore in cui puoi semplicemente entrare senza conoscenze specialistiche e colmarle durante il lavoro. Ma, dato che vuoi farti un'idea di che tipo di professione sia quella dell'avvocato, ti mostrerò qualcosa..."
 
 # game/scripts/story_01/dreams.rpy:340 #-#-# translate crowdin ev_108_ca37db56:
 msgid "[_Max_s_11_] А как ещё понять, будет ли это для меня интересно? Только если погрузиться в это с головой. Тем более, когда среди знакомых есть такой прекрасный юрист, как вы."
-msgstr ""
+msgstr "[_Max_s_11_] E come altro potrei capire se mi interesserebbe? Solo immergendomi completamente. Soprattutto quando tra i miei conoscenti c'è un avvocato così eccellente come lei."
 
 # game/scripts/story_01/dreams.rpy:341 #-#-# translate crowdin ev_108_539df092:
 msgid "[_Mia_s_02_] Ну, а мне как раз нужно разгрести большую кучу документов, так что побудешь немного моим ассистентом. Если, конечно, выдержишь. Эта работа требует большой сосредоточенности, внимания к деталям, а так же немалой сообразительности..."
-msgstr ""
+msgstr "[_Mia_s_02_] Beh, io ho proprio bisogno di mettere in ordine una grande pila di documenti, quindi farai un po' da mio assistente. Se, ovviamente, ce la fai. Questo lavoro richiede molta concentrazione, attenzione ai dettagli, e anche una notevole perspicacia..."
 
 # game/scripts/story_01/dreams.rpy:342 #-#-# translate crowdin ev_108_dc933d34:
 msgid "[_Max_s_02_] Думаю, я смогу с этим справиться."
-msgstr ""
+msgstr "[_Max_s_02_] Penso di potercela fare."
 
 # game/scripts/story_01/dreams.rpy:346 #-#-# translate crowdin ev_108_afbcc9df:
 msgid "[_Mia_s_04_] Неужели? На твоём месте, я бы не была так в этом уверена. Почти всегда есть что-то, что будет отвлекать. Хоть в офисе, хоть дома. Вот я, например, если работаю дома, то могу для удобства надеть свой любимый халатик или что-нибудь полегче."
-msgstr ""
+msgstr "[_Mia_s_04_] Davvero? Al tuo posto, non ne sarei così sicura. C'è quasi sempre qualcosa che distrae. Che sia in ufficio o a casa. Io, per esempio, se lavoro da casa, per comodità posso indossare la mia vestaglia preferita o qualcosa di più leggero."
 
 # game/scripts/story_01/dreams.rpy:347 #-#-# translate crowdin ev_108_bc2e87af:
 msgid "[_Max_s_01_] Если бы это хоть как-то могло сказаться на моей внимательности, то я бы сказал об этом."
-msgstr ""
+msgstr "[_Max_s_01_] Se potesse influire in qualche modo sulla mia attenzione, lo direi."
 
 # game/scripts/story_01/dreams.rpy:348 #-#-# translate crowdin ev_108_7a531398:
 msgid "[_Mia_s_02_] Ну, посмотрим, посмотрим... Лично меня эта огромная стопка документов вынуждает активно поработать не только головой, но и ручками..."
-msgstr ""
+msgstr "[_Mia_s_02_] Beh, vedremo, vedremo... Personalmente, questa enorme pila di documenti mi costringe a lavorare attivamente non solo con la testa, ma anche con le mani..."
 
 # game/scripts/story_01/dreams.rpy:350 #-#-# translate crowdin ev_108_5eb2aff2:
 msgid "[_tMax_s_13_] Хм... Очень похоже на какие-то намёки или мне просто кажется? Честно говоря, сложно не думать о том, что я мог бы увидеть, если бы заглянул под стол... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_13_] Mh... Sembra quasi che tu stia facendo delle allusioni, o me lo sto solo immaginando? A dire il vero, è difficile non pensare a cosa potrei vedere se sbirciassi sotto il tavolo... [nointeract]"
 
 # game/scripts/story_01/dreams.rpy:354 #-#-# translate crowdin ev_108_56ec9155:
 msgid "[_Mia_s_05_] Ммм... Должна сказать, Макс, что ты... неплохо справляешься со своими обязанностями. И меня это всё больше и больше возбуждает..."
