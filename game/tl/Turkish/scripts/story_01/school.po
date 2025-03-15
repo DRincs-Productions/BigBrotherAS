@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-01-03 09:37\n"
+"PO-Revision-Date: 2025-03-15 14:06\n"
 
-# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/school.rpy:10 #-#-# translate crowdin ev_004_1fe4b55c:
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # game/scripts/story_01/school.rpy:10 #-#-# translate crowdin ev_004_1fe4b55c:
 msgid "[_Lisa_s_01_] Эй, Макс, я пошла в школу. Надеюсь, у меня всё заладится с самого первого дня..."
 msgstr ""
 
@@ -518,6 +518,246 @@ msgstr ""
 
 # game/scripts/story_01/school.rpy:269 #-#-# translate crowdin ev_044_2b5641cb:
 msgid "[_tMax_s_13_] Не знаю, сколько времени понадобится, чтобы у Лизы получилось ненавязчиво подружиться с Оливией. Пожалуй, мне стоит интересоваться её успехами время от времени..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:284 #-#-# translate crowdin ev_129_1d82824e:
+msgid "[_Lisa_s_09_] Пока никаких, Макс. Я ещё не знаю, как к ней подступиться и подружиться."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:285 #-#-# translate crowdin ev_129_0ec61878:
+msgid "[_Max_s_13_] Хм... А какие у неё вкусы?"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:286 #-#-# translate crowdin ev_129_fbc832f1:
+msgid "[_Lisa_s_12_] Кроме Алекса? Не знаю... Она для меня загадка. С одной стороны выглядит скромной девочкой, но парни за ней бегают толпой. И я никак не могу понять почему..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:287 #-#-# translate crowdin ev_129_c35a3d3b:
+msgid "[_Max_s_12_] И что, даже никаких идей?"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:288 #-#-# translate crowdin ev_129_6aac9175:
+msgid "[_Lisa_s_10_] Нет... Может быть, ты что-то посоветуешь?"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:289 #-#-# translate crowdin ev_129_1a8fce67:
+msgid "[_Max_s_11_] Ну, для начала можно выяснить в чём её секрет."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:290 #-#-# translate crowdin ev_129_0c253f04:
+msgid "[_Lisa_s_11_] Спасибо, Шерлок! А то я не догадалась... Но как?"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:291 #-#-# translate crowdin ev_129_1e26cbac:
+msgid "[_Max_s_02_] Да это же очевидно! Спроси у кого-нибудь..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:292 #-#-# translate crowdin ev_129_2b70d627:
+msgid "[_Lisa_s_02_] У кого?! Или ты думаешь, мне теперь нужно подружиться с кем-то, кто бегает за Оливией, чтобы узнать её секрет, чтобы подружиться с ней, чтобы... Ну ты понял..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:293 #-#-# translate crowdin ev_129_f6b4170b:
+msgid "[_Max_s_04_] Именно! Даже я бы лучше не сказал!"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:294 #-#-# translate crowdin ev_129_d0bda21e:
+msgid "[_Lisa_s_01_] Спасибо. Ладно, я попробую..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:295 #-#-# translate crowdin ev_129_0e92b66a:
+msgid "[_Max_s_01_] Вот и отлично. Держи меня в курсе..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:302 #-#-# translate crowdin ev_129_8613ce20:
+msgid "[_tMax_s_12_] Теперь остаётся ждать, пока Лиза попытается подружиться с кем-то, кому ещё нравится Оливия, чтобы выпытать у него побольше информации об этой девушке..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:314 #-#-# translate crowdin ev_130_0ad40dc2:
+msgid "[_Lisa_s_11_] Ага... Только не знаю, как мне это поможет..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:315 #-#-# translate crowdin ev_130_6d3c3ecb:
+msgid "[_Max_s_11_] Рассказывай!"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:316 #-#-# translate crowdin ev_130_6ec01e77:
+msgid "[_Lisa_s_00_] В общем, я подружилась с одним мальчиком, который бегает за этой самой Оливией..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:317 #-#-# translate crowdin ev_130_90057ed1:
+msgid "[_Max_s_02_] Ну, и?"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:318 #-#-# translate crowdin ev_130_b889d00c:
+msgid "[_Lisa_s_09_] Не перебивай. Мальчик этот когда станет взрослым, я уверена, превратится в маньяка. Уж слишком он помешанный на ней... Ну так вот, у Оливии есть одна... фишка, если можно так сказать..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:319 #-#-# translate crowdin ev_130_9fc5df17:
+msgid "[_Max_s_14_] Да говори уже!"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:320 #-#-# translate crowdin ev_130_077b6322:
+msgid "[_Lisa_s_11_] Ты чего такой нервный, Макс? Я же и рассказываю! В общем, Оливия не носит нижнее бельё... Вот. И я думаю, что это бесполезная информация..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:321 #-#-# translate crowdin ev_130_6e280ff2:
+msgid "[_Max_s_06_] Класс! Это всё объясняет..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:322 #-#-# translate crowdin ev_130_ff409bce:
+msgid "[_Lisa_s_09_] В том плане, что теперь ясно, почему все мальчики бегают за Оливией? Ну да... Но что с этим знанием делать?"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:323 #-#-# translate crowdin ev_130_6aa0fb89:
+msgid "[_Max_s_01_] А это уже повод втянуть Оливию в интересный разговор!"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:324 #-#-# translate crowdin ev_130_dd6efda2:
+msgid "[_Lisa_s_12_] Это как? Типа: «Оливия, у нас столько общего, я тоже не ношу трусы, давай дружить...» Так? Глупее идеи не слышала..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:325 #-#-# translate crowdin ev_130_d5f0afc2:
+msgid "[_Max_s_03_] Подумаешь, немного соврёшь ради дела... Для перестраховки, можешь даже какое-то время не надевать трусики в школу!"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:326 #-#-# translate crowdin ev_130_e1642146:
+msgid "[_Lisa_s_15_] Не собираюсь я ходить в школу без трусов! Подозреваю, что ты был бы очень доволен, но нет. Даже не мечтай..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:327 #-#-# translate crowdin ev_130_89068abb:
+msgid "[_Max_s_04_] Тогда просто поинтересуйся у Оливии, почему она не носит нижнее бельё!"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:328 #-#-# translate crowdin ev_130_9917cb49:
+msgid "[_Lisa_s_03_] Ну и она ответит что-то из серии «а я так хочу»... И что потом?"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:329 #-#-# translate crowdin ev_130_507f946b:
+msgid "[_Max_s_11_] А ты спроси. Вдруг разговоритесь..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:330 #-#-# translate crowdin ev_130_6ffff924:
+msgid "[_Lisa_s_11_] Ну, ладно. Может и получится... В любом случае, других идей нет. Я попробую спросить."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:331 #-#-# translate crowdin ev_130_08487c7f:
+msgid "[_Max_s_01_] Вот и молодчинка!"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:338 #-#-# translate crowdin ev_130_4d0c2d72:
+msgid "[_tMax_s_11_] Надеюсь, эта тема с трусиками поможет Лизе подружиться с Оливией. Подожду немного и узнаю, что из этой затеи получилось..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:350 #-#-# translate crowdin ev_131_7804651c:
+msgid "[_Lisa_s_03_] Ты же понимаешь, что этот вопрос без контекста звучит очень... странно, да?"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:351 #-#-# translate crowdin ev_131_a697ad16:
+msgid "[_Max_s_03_] Догадываюсь. Ну так как?"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:352 #-#-# translate crowdin ev_131_52eb7b05:
+msgid "[_Lisa_s_02_] Ты был прав, эта информация оказалась не такой уж и бесполезной! Оливия была рада поболтать на эту тему и рассказала, что она из семьи натуристов..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:353 #-#-# translate crowdin ev_131_78f0fca1:
+msgid "[_Max_s_13_] Это кто такие?"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:354 #-#-# translate crowdin ev_131_53fe89a7:
+msgid "[_Lisa_s_11_] В общем, они сторонники всего натурального или как-то так. Я не поняла... Но главная особенность в том, что они дома все ходят голые, представляешь!"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:355 #-#-# translate crowdin ev_131_cc38c54b:
+msgid "[_Max_s_06_] Обалдеть! А к ним можно в гости?"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:356 #-#-# translate crowdin ev_131_9b6a2539:
+msgid "[_Lisa_s_03_] Очень смешно, Макс! Вот придёт Оливия когда-нибудь к нам в гости и будешь её тут уговаривать раздеться..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:357 #-#-# translate crowdin ev_131_ddd1ed85:
+msgid "[_Max_s_04_] Ещё как буду..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:358 #-#-# translate crowdin ev_131_33e8ec2e:
+msgid "[_Lisa_s_01_] И по этой причине Оливия не носит нижнее бельё. Говорит, что с радостью разделась бы, если бы её за это не выгнали бы из школы..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:359 #-#-# translate crowdin ev_131_1a4e890e:
+msgid "[_Max_s_01_] А мне эта Оливия нравится всё больше и больше!"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:360 #-#-# translate crowdin ev_131_fd8ac4dc:
+msgid "[_Lisa_s_10_] Ещё один адепт в её секте объявился! Все вы парни думаете одинаково и только об одном..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:361 #-#-# translate crowdin ev_131_91daa4cb:
+msgid "[_Max_s_11_] Постой, так вы подружились или как?"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:362 #-#-# translate crowdin ev_131_3a942227:
+msgid "[_Lisa_s_02_] Можно и так сказать... В общем, мы разговорились и она рассказала, что живёт тут недалеко, у них тоже большой дом и она больше всего любит воду и солнце..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:363 #-#-# translate crowdin ev_131_94eacb89:
+msgid "[_Max_s_13_] Видимо, бассейн у них тоже есть?"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:364 #-#-# translate crowdin ev_131_a66766a0:
+msgid "[_Lisa_s_11_] Есть. И дом, как я поняла, у них шикарный. Ну, она не из бедной семьи, мягко говоря..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:365 #-#-# translate crowdin ev_131_35a5bea7:
+msgid "[_Max_s_12_] Значит, заманить её бассейном не выйдет..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:366 #-#-# translate crowdin ev_131_49415e79:
+msgid "[_Lisa_s_09_] Не совсем так. У них какая-то проблема с их бассейном и там или грибок завёлся или какие-то насекомые, я не поняла, но они уже давно не купаются там, боятся..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:367 #-#-# translate crowdin ev_131_7bc55748:
+msgid "[_Max_s_16_] Так если они богатые, могут починить, почистить, убрать проблемы..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:368 #-#-# translate crowdin ev_131_5dc4c5cb:
+msgid "[_Lisa_s_00_] Ага, только этим обычно её папа занимается, а сейчас он с ними не живёт... Так бассейн у них и пустует... Погоди, а зачем ты её сюда заманивать собрался?"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:369 #-#-# translate crowdin ev_131_57cb235f:
+msgid "[_Max_s_04_] Одно дело в школе общаться и совсем другое, вместе отдыхать, загорать и плавать!"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:370 #-#-# translate crowdin ev_131_6fa7448f:
+msgid "[_Lisa_s_02_] Думаешь, мы так с ней быстрее станем лучшими подругами? Конечно, может и так... Но ты же это не поэтому предложил?"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:371 #-#-# translate crowdin ev_131_ef6f91a6:
+msgid "[_Max_s_11_] А зачем ещё?"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:372 #-#-# translate crowdin ev_131_82d2cd4b:
+msgid "[_Lisa_s_11_] Думается мне, чтобы раздеть мою одноклассницу..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:373 #-#-# translate crowdin ev_131_622180ca:
+msgid "[_Max_s_03_] Знаешь, одно другому не мешает. Да и кто я такой, чтобы запрещать ей раздеваться, если ей так это нравится!"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:374 #-#-# translate crowdin ev_131_32d93c9d:
+msgid "[_Lisa_s_01_] Какие вы мальчики озабоченные! Ну да ладно... Если общения в школе нам с ней станет мало, то я позову её к нам в гости."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:375 #-#-# translate crowdin ev_131_ac8670b6:
+msgid "[_Max_s_01_] Ох, Лиза, поскорее бы!"
+msgstr ""
+
+# game/scripts/story_01/school.rpy:382 #-#-# translate crowdin ev_131_94ba52b1:
+msgid "[_tMax_s_03_] Значит, Оливия из семьи каких-то нудистов или натуристов... Как же будет классно, если Лиза позовёт её сюда. Они бы общались, загорали и купались вне школы, что, как я думаю, их бы ещё больше сблизило..."
+msgstr ""
+
+# game/scripts/story_01/school.rpy:383 #-#-# translate crowdin ev_131_ef03f245:
+msgid "[_tMax_s_04_] А там и я буду где-то неподалёку от них. Особенно, если новая школьная подружка Лизы решит оголиться, хе-хе... Буду с нетерпением этого ждать..."
 msgstr ""
 
 # §translate crowdin strings: #|#|# # game/scripts/story_01/school.rpy:42
