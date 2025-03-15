@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-01-03 16:07\n"
+"PO-Revision-Date: 2025-03-15 14:05\n"
 
-# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/story_01/excuses.rpy:8 #-#-# translate crowdin tasty_open_alice_9d7c61dc:
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # game/scripts/story_01/excuses.rpy:8 #-#-# translate crowdin tasty_open_alice_9d7c61dc:
 msgid "[_tMax_s_13_] Фух... Остался жив и то хорошо! Но теперь нужно достать для Алисы какие-нибудь сладости."
 msgstr "[_tMax_s_13_] Uff... Sono vivo e vegeto! Ma ora dobbiamo portare ad Alice qualche dolcetto."
 
@@ -996,87 +996,87 @@ msgstr "[_Lisa_s_01_] Ok, ok, non c'è bisogno di continuare, ti credo."
 msgid "[_Max_s_01_] Вот и правильно. [nointeract]"
 msgstr "[_Max_s_01_] È la cosa giusta da fare. [nointeract]"
 
-# game/scripts/story_01/excuses.rpy:737 #-#-# translate crowdin ev_123_finally_e9936521_1:
+# game/scripts/story_01/excuses.rpy:738 #-#-# translate crowdin ev_123_finally_e9936521_1:
 msgid "[_Lisa_s_10_] Знаешь, я передумала, а то как-то сомнительно! Вдруг, это всё-таки ты меня трогал..."
 msgstr "[_Lisa_s_10_] Sai, ho cambiato idea, perché è un po' sospetto. Forse sei stato tu a toccarmi..."
 
-# game/scripts/story_01/excuses.rpy:738 #-#-# translate crowdin ev_123_finally_5340e813_1:
+# game/scripts/story_01/excuses.rpy:739 #-#-# translate crowdin ev_123_finally_5340e813_1:
 msgid "[_Max_s_13_] Ну, вот опять... Это просто недоразумение и всё."
 msgstr "[_Max_s_13_] Ci risiamo... È solo un malinteso, tutto qui."
 
-# game/scripts/story_01/excuses.rpy:739 #-#-# translate crowdin ev_123_finally_64f89ddc_2:
+# game/scripts/story_01/excuses.rpy:740 #-#-# translate crowdin ev_123_finally_64f89ddc_2:
 msgid "[_Lisa_s_01_] Ладно-ладно, можешь не продолжать, я тебе верю."
 msgstr "[_Lisa_s_01_] Ok, ok, non c'è bisogno di continuare, ti credo."
 
-# game/scripts/story_01/excuses.rpy:741 #-#-# translate crowdin ev_123_finally_1da8c2db_2:
+# game/scripts/story_01/excuses.rpy:742 #-#-# translate crowdin ev_123_finally_1da8c2db_2:
 msgid "[_Max_s_01_] Вот и правильно. [nointeract]"
 msgstr "[_Max_s_01_] È la cosa giusta da fare. [nointeract]"
 
-# game/scripts/story_01/excuses.rpy:748 #-#-# translate crowdin ev_123_finally_79925892_1:
+# game/scripts/story_01/excuses.rpy:749 #-#-# translate crowdin ev_123_finally_79925892_1:
 msgid "[_Lisa_s_13_] Ого! Вот это здорово, Макс! Ты снова выбрал мои любимые шоколадки! Спасибо тебе большое!"
 msgstr "[_Lisa_s_13_] Wow! È fantastico, Max! Hai scelto di nuovo i miei cioccolatini preferiti! Grazie mille!"
 
-# game/scripts/story_01/excuses.rpy:749 #-#-# translate crowdin ev_123_finally_5753064f_1:
+# game/scripts/story_01/excuses.rpy:750 #-#-# translate crowdin ev_123_finally_5753064f_1:
 msgid "[_Max_s_02_] Да пустяки... Мне нравится радовать свою младшую сестрёнку!"
 msgstr "[_Max_s_02_] Non è niente... Mi piace compiacere la mia sorellina!"
 
-# game/scripts/story_01/excuses.rpy:750 #-#-# translate crowdin ev_123_finally_f2a6cc53:
+# game/scripts/story_01/excuses.rpy:751 #-#-# translate crowdin ev_123_finally_f2a6cc53:
 msgid "[_Lisa_s_03_] И раз это куда больше того, на что я надеялась, то и у своей кровати никого сидящего и глазеющего я не видела!"
 msgstr "[_Lisa_s_03_] E poiché questo è molto più di quanto sperassi, non ho visto nessuno seduto a guardare al mio capezzale!"
 
-# game/scripts/story_01/excuses.rpy:751 #-#-# translate crowdin ev_123_finally_e13f047d_1:
+# game/scripts/story_01/excuses.rpy:752 #-#-# translate crowdin ev_123_finally_e13f047d_1:
 msgid "[_Max_s_11_] Отлично! Я рад, что мы с этим разобрались..."
 msgstr "[_Max_s_11_] Oh, fantastico! Sono contento che abbiamo risolto la questione..."
 
-# game/scripts/story_01/excuses.rpy:755 #-#-# translate crowdin ev_123_finally_9b80d49e_1:
+# game/scripts/story_01/excuses.rpy:756 #-#-# translate crowdin ev_123_finally_9b80d49e_1:
 msgid "[_Lisa_s_05_] Я хочу крепкие обнимашки! Иди ко мне..."
 msgstr "[_Lisa_s_05_] Voglio un grande abbraccio! Vieni qui..."
 
-# game/scripts/story_01/excuses.rpy:756 #-#-# translate crowdin ev_123_finally_ce5592f8_1:
+# game/scripts/story_01/excuses.rpy:757 #-#-# translate crowdin ev_123_finally_ce5592f8_1:
 msgid "[_tMax_s_04_] Вот это да! Лиза практически накинулась на меня с объятиями... Это так классно, когда она прижимается ко мне своей грудью!"
 msgstr "[_tMax_s_04_]  Wow! Lisa mi ha praticamente gettato le braccia al collo... È così bello quando preme i suoi seni contro di me!"
 
-# game/scripts/story_01/excuses.rpy:758 #-#-# translate crowdin ev_123_finally_ff2fbddf:
+# game/scripts/story_01/excuses.rpy:759 #-#-# translate crowdin ev_123_finally_ff2fbddf:
 msgid "[_Lisa_s_04_] Знаешь, я думаю, ты достоин гораздо большего, чем просто обнимашки! Тебя ждёт поцелуй в щёчку! [nointeract]"
 msgstr "[_Lisa_s_04_] Sai, credo che tu meriti molto di più di un semplice abbraccio! Ti aspetta un bacio sulla guancia! [nointeract]"
 
-# game/scripts/story_01/excuses.rpy:762 #-#-# translate crowdin ev_123_finally_d5712cd0:
+# game/scripts/story_01/excuses.rpy:763 #-#-# translate crowdin ev_123_finally_d5712cd0:
 msgid "[_tMax_s_05_] Охх... Поцелуи от моей младшей сестрёнки - это так приятно! А если она ещё и своей грудью прижимается ко мне..."
 msgstr "[_tMax_s_05_] Ohhh... I baci della mia sorellina sono così belli! E se poi mi preme anche i seni contro..."
 
-# game/scripts/story_01/excuses.rpy:766 #-#-# translate crowdin ev_123_finally_5ff0fe45_1:
+# game/scripts/story_01/excuses.rpy:767 #-#-# translate crowdin ev_123_finally_5ff0fe45_1:
 msgid "[_Lisa_s_02_] Ну всё, хорошего понемногу... И не трись больше у моей кровати по утрам!"
 msgstr "[_Lisa_s_02_] Bene, questo è tutto, un po' di roba buona... E non strofinarti più accanto al mio letto la mattina!"
 
-# game/scripts/story_01/excuses.rpy:767 #-#-# translate crowdin ev_123_finally_1121eee0_2:
+# game/scripts/story_01/excuses.rpy:768 #-#-# translate crowdin ev_123_finally_1121eee0_2:
 msgid "[_Max_s_11_] Это просто недоразумение и всё..."
 msgstr "[_Max_s_11_] È solo un malinteso, tutto qui..."
 
-# game/scripts/story_01/excuses.rpy:768 #-#-# translate crowdin ev_123_finally_64f89ddc_3:
+# game/scripts/story_01/excuses.rpy:769 #-#-# translate crowdin ev_123_finally_64f89ddc_3:
 msgid "[_Lisa_s_01_] Ладно-ладно, можешь не продолжать, я тебе верю."
 msgstr "[_Lisa_s_01_] Ok, ok, non c'è bisogno di continuare, ti credo."
 
-# game/scripts/story_01/excuses.rpy:770 #-#-# translate crowdin ev_123_finally_1da8c2db_3:
+# game/scripts/story_01/excuses.rpy:771 #-#-# translate crowdin ev_123_finally_1da8c2db_3:
 msgid "[_Max_s_01_] Вот и правильно. [nointeract]"
 msgstr "[_Max_s_01_] È la cosa giusta da fare. [nointeract]"
 
-# game/scripts/story_01/excuses.rpy:779 #-#-# translate crowdin ev_123_finally_3782af98:
+# game/scripts/story_01/excuses.rpy:780 #-#-# translate crowdin ev_123_finally_3782af98:
 msgid "[_tMax_s_07_] Зачем в щёчку, когда мы уже целовались в губы и это куда интереснее и приятнее? Хотя, Лиза вряд ли с этим согласится..."
 msgstr "[_tMax_s_07_] Perché sulla guancia, quando ci siamo già baciati sulle labbra ed è molto più interessante e piacevole? Anche se non credo che Lisa sarebbe d'accordo..."
 
-# game/scripts/story_01/excuses.rpy:783 #-#-# translate crowdin ev_123_finally_7c544c73:
+# game/scripts/story_01/excuses.rpy:784 #-#-# translate crowdin ev_123_finally_7c544c73:
 msgid "[_Lisa_s_11_] Макс, ну хватит! Я же не так хотела... И не трись больше у моей кровати по утрам!"
 msgstr "[_Lisa_s_11_] Max, basta! Non è quello che volevo... E non strofinarti più contro il mio letto la mattina!"
 
-# game/scripts/story_01/excuses.rpy:784 #-#-# translate crowdin ev_123_finally_1121eee0_3:
+# game/scripts/story_01/excuses.rpy:785 #-#-# translate crowdin ev_123_finally_1121eee0_3:
 msgid "[_Max_s_11_] Это просто недоразумение и всё..."
 msgstr "[_Max_s_11_] È solo un malinteso, tutto qui..."
 
-# game/scripts/story_01/excuses.rpy:785 #-#-# translate crowdin ev_123_finally_64f89ddc_4:
+# game/scripts/story_01/excuses.rpy:786 #-#-# translate crowdin ev_123_finally_64f89ddc_4:
 msgid "[_Lisa_s_01_] Ладно-ладно, можешь не продолжать, я тебе верю."
 msgstr "[_Lisa_s_01_] Ok, ok, non c'è bisogno di continuare, ti credo."
 
-# game/scripts/story_01/excuses.rpy:787 #-#-# translate crowdin ev_123_finally_1da8c2db_4:
+# game/scripts/story_01/excuses.rpy:788 #-#-# translate crowdin ev_123_finally_1da8c2db_4:
 msgid "[_Max_s_01_] Вот и правильно. [nointeract]"
 msgstr "[_Max_s_01_] È la cosa giusta da fare. [nointeract]"
 
@@ -1132,11 +1132,11 @@ msgstr "Ci puoi scommettere! (accetta il bacio sulla guancia)"
 msgid "Ещё как стоит! (поцеловать её в губы)"
 msgstr "Ci puoi scommettere! (baciandola sulle labbra)"
 
-# game/scripts/story_01/excuses.rpy:757
+# game/scripts/story_01/excuses.rpy:758
 msgid "{i}принять от неё поцелуй{/i}"
 msgstr "{i}accettare un suo bacio{/i}"
 
-# game/scripts/story_01/excuses.rpy:757
+# game/scripts/story_01/excuses.rpy:758
 msgid "{i}поцеловать её в губы{/i}"
 msgstr "{i}baciarla sulle labbra{/i}"
 
