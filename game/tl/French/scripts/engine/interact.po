@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-01-03 09:31\n"
+"PO-Revision-Date: 2025-03-15 14:03\n"
 
-# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/engine/interact.rpy:37 #-#-# translate crowdin talks_start_41e41361:
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # game/scripts/engine/interact.rpy:37 #-#-# translate crowdin talks_start_41e41361:
 msgid "[_Alice_s_00_] Ну же, Макс, что хотел? [nointeract]"
 msgstr "[_Alice_s_00_] Allez, Max, qu'est-ce que tu veux ? [nointeract]"
 
@@ -155,6 +155,18 @@ msgstr "Quant à votre petit ami..."
 # game/scripts/engine/interact.rpy:192
 msgid "Насчёт Алекса..."
 msgstr "Quant à Alex..."
+
+# game/scripts/engine/interact.rpy:192
+msgid "Есть успехи с Оливией?"
+msgstr "Un peu de succès avec Olivia?"
+
+# game/scripts/engine/interact.rpy:192
+msgid "Что-нибудь узнала про Оливию?"
+msgstr "As-tu appris quelque chose sur Olivia ?"
+
+# game/scripts/engine/interact.rpy:192
+msgid "Ну, так что там с трусиками Оливии?"
+msgstr ""
 
 # game/scripts/engine/interact.rpy:192
 msgid "Я решил потренироваться..."
