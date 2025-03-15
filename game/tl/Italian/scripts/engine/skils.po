@@ -10,77 +10,77 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-01-03 09:34\n"
+"PO-Revision-Date: 2025-03-15 14:03\n"
 
-# TODO: Translation updated at 2024-12-25 17:41 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/skils.rpy:14
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/skils.rpy:16
 msgid "скрытность"
 msgstr "furtività"
 
-# game/scripts/engine/skils.rpy:14
+# game/scripts/engine/skils.rpy:16
 msgid "убеждение"
 msgstr "convinzione"
 
-# game/scripts/engine/skils.rpy:14
+# game/scripts/engine/skils.rpy:16
 msgid "удача"
 msgstr "fortuna"
 
-# game/scripts/engine/skils.rpy:14
+# game/scripts/engine/skils.rpy:16
 msgid "массаж"
 msgstr "massaggio"
 
-# game/scripts/engine/skils.rpy:14
+# game/scripts/engine/skils.rpy:16
 msgid "поцелуи"
 msgstr "baci"
 
-# game/scripts/engine/skils.rpy:14
+# game/scripts/engine/skils.rpy:16
 msgid "сексуальный опыт"
 msgstr "esperienza sessuale"
 
-# game/scripts/engine/skils.rpy:54
+# game/scripts/engine/skils.rpy:56
 msgid "настроение"
 msgstr "umore"
 
-# game/scripts/engine/skils.rpy:197
+# game/scripts/engine/skils.rpy:201
 msgid "Я остался незамеченным!"
 msgstr "Non sono stato notato!"
 
-# game/scripts/engine/skils.rpy:197
+# game/scripts/engine/skils.rpy:201
 msgid "Убеждение удалось!"
 msgstr "La persuasione è riuscita!"
 
-# game/scripts/engine/skils.rpy:197
+# game/scripts/engine/skils.rpy:201
 msgid "Паук найден!"
 msgstr "Un ragno è stato trovato!"
 
-# game/scripts/engine/skils.rpy:197
+# game/scripts/engine/skils.rpy:201
 msgid "Ей понравился массаж!"
 msgstr "Il massaggio le è piaciuto molto!"
 
-# game/scripts/engine/skils.rpy:207
+# game/scripts/engine/skils.rpy:211
 msgid "Я чуть не попался!"
 msgstr "Mi hanno quasi scoperto!"
 
-# game/scripts/engine/skils.rpy:207
+# game/scripts/engine/skils.rpy:211
 msgid "Мне не стоит это делать!"
 msgstr "Non dovrei farlo!"
 
-# game/scripts/engine/skils.rpy:207
+# game/scripts/engine/skils.rpy:211
 msgid "Вот чёрт, я попался!"
 msgstr "Oh, merda, mi hanno beccato!"
 
-# game/scripts/engine/skils.rpy:207
+# game/scripts/engine/skils.rpy:211
 msgid "Убеждение не удалось!"
 msgstr "La persuasione è fallita!"
 
-# game/scripts/engine/skils.rpy:207
+# game/scripts/engine/skils.rpy:211
 msgid "Безрезультатно!"
 msgstr "Senza successo!"
 
-# game/scripts/engine/skils.rpy:207
+# game/scripts/engine/skils.rpy:211
 msgid "Ей не понравился массаж!"
 msgstr "Non le è piaciuto il massaggio!"
 
-# game/scripts/engine/skils.rpy:217
+# game/scripts/engine/skils.rpy:221
 msgid "Выполнены ещё не все условия..."
 msgstr "Non tutte le condizioni sono ancora soddisfatte..."
 
