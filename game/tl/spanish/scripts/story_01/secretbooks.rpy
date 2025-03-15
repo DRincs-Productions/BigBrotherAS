@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-08-14 23:38
+# TODO: Translation updated at 2025-03-08 15:49
 
 # game/scripts/story_01/secretbooks.rpy:7
 translate spanish ev_013_2ca4e9e8:
@@ -110,10 +110,6 @@ translate spanish ev_015_d49245e3:
 
 translate spanish strings:
 
-    # game/scripts/story_01/secretbooks.rpy:19
-    old "Открыто новое задание «Книжный секретик»!"
-    new "¡Una nueva oportunidad «Libro secreto» está abierta!"
-
     # game/scripts/story_01/secretbooks.rpy:34
     old "{i}искать под подушкой{/i}"
     new "{i}mirar debajo de la almohada{/i}"
@@ -121,8 +117,4 @@ translate spanish strings:
     # game/scripts/story_01/secretbooks.rpy:34
     old "{i}искать под кроватью{/i}"
     new "{i}buscar debajo de la cama{/i}"
-
-    # game/scripts/story_01/secretbooks.rpy:58
-    old "Задание «Книжный секретик» обновлено!"
-    new "La oportunidad «Libro secreto» ha sido actualizada!"
 

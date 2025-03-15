@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-12-25 17:41
+# TODO: Translation updated at 2025-03-08 15:49
 
 # game/scripts/story_01/excuses.rpy:8
 translate italian tasty_open_alice_9d7c61dc:
@@ -1476,127 +1476,127 @@ translate italian ev_123_finally_1da8c2db_1:
     # Max 01 "Вот и правильно." nointeract
     Max 01 "È la cosa giusta da fare." nointeract
 
-# game/scripts/story_01/excuses.rpy:737
+# game/scripts/story_01/excuses.rpy:738
 translate italian ev_123_finally_e9936521_1:
 
     # Lisa 10 "Знаешь, я передумала, а то как-то сомнительно! Вдруг, это всё-таки ты меня трогал..."
     Lisa 10 "Sai, ho cambiato idea, perché è un po' sospetto. Forse sei stato tu a toccarmi..."
 
-# game/scripts/story_01/excuses.rpy:738
+# game/scripts/story_01/excuses.rpy:739
 translate italian ev_123_finally_5340e813_1:
 
     # Max 13 "Ну, вот опять... Это просто недоразумение и всё."
     Max 13 "Ci risiamo... È solo un malinteso, tutto qui."
 
-# game/scripts/story_01/excuses.rpy:739
+# game/scripts/story_01/excuses.rpy:740
 translate italian ev_123_finally_64f89ddc_2:
 
     # Lisa 01 "Ладно-ладно, можешь не продолжать, я тебе верю."
     Lisa 01 "Ok, ok, non c'è bisogno di continuare, ti credo."
 
-# game/scripts/story_01/excuses.rpy:741
+# game/scripts/story_01/excuses.rpy:742
 translate italian ev_123_finally_1da8c2db_2:
 
     # Max 01 "Вот и правильно." nointeract
     Max 01 "È la cosa giusta da fare." nointeract
 
-# game/scripts/story_01/excuses.rpy:748
+# game/scripts/story_01/excuses.rpy:749
 translate italian ev_123_finally_79925892_1:
 
     # Lisa 13 "Ого! Вот это здорово, Макс! Ты снова выбрал мои любимые шоколадки! Спасибо тебе большое!"
     Lisa 13 "Wow! È fantastico, Max! Hai scelto di nuovo i miei cioccolatini preferiti! Grazie mille!"
 
-# game/scripts/story_01/excuses.rpy:749
+# game/scripts/story_01/excuses.rpy:750
 translate italian ev_123_finally_5753064f_1:
 
     # Max 02 "Да пустяки... Мне нравится радовать свою младшую сестрёнку!"
     Max 02 "Non è niente... Mi piace compiacere la mia sorellina!"
 
-# game/scripts/story_01/excuses.rpy:750
+# game/scripts/story_01/excuses.rpy:751
 translate italian ev_123_finally_f2a6cc53:
 
     # Lisa 03 "И раз это куда больше того, на что я надеялась, то и у своей кровати никого сидящего и глазеющего я не видела!"
     Lisa 03 "E poiché questo è molto più di quanto sperassi, non ho visto nessuno seduto a guardare al mio capezzale!"
 
-# game/scripts/story_01/excuses.rpy:751
+# game/scripts/story_01/excuses.rpy:752
 translate italian ev_123_finally_e13f047d_1:
 
     # Max 11 "Отлично! Я рад, что мы с этим разобрались..."
     Max 11 "Oh, fantastico! Sono contento che abbiamo risolto la questione..."
 
-# game/scripts/story_01/excuses.rpy:755
+# game/scripts/story_01/excuses.rpy:756
 translate italian ev_123_finally_9b80d49e_1:
 
     # Lisa 05 "Я хочу крепкие обнимашки! Иди ко мне..."
     Lisa 05 "Voglio un grande abbraccio! Vieni qui..."
 
-# game/scripts/story_01/excuses.rpy:756
+# game/scripts/story_01/excuses.rpy:757
 translate italian ev_123_finally_ce5592f8_1:
 
     # tMax 04 "Вот это да! Лиза практически накинулась на меня с объятиями... Это так классно, когда она прижимается ко мне своей грудью!"
     tMax 04 " Wow! Lisa mi ha praticamente gettato le braccia al collo... È così bello quando preme i suoi seni contro di me!"
 
-# game/scripts/story_01/excuses.rpy:758
+# game/scripts/story_01/excuses.rpy:759
 translate italian ev_123_finally_ff2fbddf:
 
     # Lisa 04 "Знаешь, я думаю, ты достоин гораздо большего, чем просто обнимашки! Тебя ждёт поцелуй в щёчку!" nointeract
     Lisa 04 "Sai, credo che tu meriti molto di più di un semplice abbraccio! Ti aspetta un bacio sulla guancia!" nointeract
 
-# game/scripts/story_01/excuses.rpy:762
+# game/scripts/story_01/excuses.rpy:763
 translate italian ev_123_finally_d5712cd0:
 
     # tMax 05 "Охх... Поцелуи от моей младшей сестрёнки - это так приятно! А если она ещё и своей грудью прижимается ко мне..."
     tMax 05 "Ohhh... I baci della mia sorellina sono così belli! E se poi mi preme anche i seni contro..."
 
-# game/scripts/story_01/excuses.rpy:766
+# game/scripts/story_01/excuses.rpy:767
 translate italian ev_123_finally_5ff0fe45_1:
 
     # Lisa 02 "Ну всё, хорошего понемногу... И не трись больше у моей кровати по утрам!"
     Lisa 02 "Bene, questo è tutto, un po' di roba buona... E non strofinarti più accanto al mio letto la mattina!"
 
-# game/scripts/story_01/excuses.rpy:767
+# game/scripts/story_01/excuses.rpy:768
 translate italian ev_123_finally_1121eee0_2:
 
     # Max 11 "Это просто недоразумение и всё..."
     Max 11 "È solo un malinteso, tutto qui..."
 
-# game/scripts/story_01/excuses.rpy:768
+# game/scripts/story_01/excuses.rpy:769
 translate italian ev_123_finally_64f89ddc_3:
 
     # Lisa 01 "Ладно-ладно, можешь не продолжать, я тебе верю."
     Lisa 01 "Ok, ok, non c'è bisogno di continuare, ti credo."
 
-# game/scripts/story_01/excuses.rpy:770
+# game/scripts/story_01/excuses.rpy:771
 translate italian ev_123_finally_1da8c2db_3:
 
     # Max 01 "Вот и правильно." nointeract
     Max 01 "È la cosa giusta da fare." nointeract
 
-# game/scripts/story_01/excuses.rpy:779
+# game/scripts/story_01/excuses.rpy:780
 translate italian ev_123_finally_3782af98:
 
     # tMax 07 "Зачем в щёчку, когда мы уже целовались в губы и это куда интереснее и приятнее? Хотя, Лиза вряд ли с этим согласится..."
     tMax 07 "Perché sulla guancia, quando ci siamo già baciati sulle labbra ed è molto più interessante e piacevole? Anche se non credo che Lisa sarebbe d'accordo..."
 
-# game/scripts/story_01/excuses.rpy:783
+# game/scripts/story_01/excuses.rpy:784
 translate italian ev_123_finally_7c544c73:
 
     # Lisa 11 "Макс, ну хватит! Я же не так хотела... И не трись больше у моей кровати по утрам!"
     Lisa 11 "Max, basta! Non è quello che volevo... E non strofinarti più contro il mio letto la mattina!"
 
-# game/scripts/story_01/excuses.rpy:784
+# game/scripts/story_01/excuses.rpy:785
 translate italian ev_123_finally_1121eee0_3:
 
     # Max 11 "Это просто недоразумение и всё..."
     Max 11 "È solo un malinteso, tutto qui..."
 
-# game/scripts/story_01/excuses.rpy:785
+# game/scripts/story_01/excuses.rpy:786
 translate italian ev_123_finally_64f89ddc_4:
 
     # Lisa 01 "Ладно-ладно, можешь не продолжать, я тебе верю."
     Lisa 01 "Ok, ok, non c'è bisogno di continuare, ti credo."
 
-# game/scripts/story_01/excuses.rpy:787
+# game/scripts/story_01/excuses.rpy:788
 translate italian ev_123_finally_1da8c2db_4:
 
     # Max 01 "Вот и правильно." nointeract
@@ -1656,11 +1656,11 @@ translate italian strings:
     old "Ещё как стоит! (поцеловать её в губы)"
     new "Ci puoi scommettere! (baciandola sulle labbra)"
 
-    # game/scripts/story_01/excuses.rpy:757
+    # game/scripts/story_01/excuses.rpy:758
     old "{i}принять от неё поцелуй{/i}"
     new "{i}accettare un suo bacio{/i}"
 
-    # game/scripts/story_01/excuses.rpy:757
+    # game/scripts/story_01/excuses.rpy:758
     old "{i}поцеловать её в губы{/i}"
     new "{i}baciarla sulle labbra{/i}"
 

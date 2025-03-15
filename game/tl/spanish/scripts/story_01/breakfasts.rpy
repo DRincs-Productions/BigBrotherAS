@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-08-14 23:38
+# TODO: Translation updated at 2025-03-08 15:49
 
 # game/scripts/story_01/breakfasts.rpy:30
 translate spanish ev_breakfast_r1_6e8dcf3c:
@@ -829,10 +829,6 @@ translate spanish ev_059_breakfast_2248d631:
     Lisa 05 "Sí, estaba delicioso."
 
 translate spanish strings:
-
-    # game/scripts/story_01/breakfasts.rpy:78
-    old "Открыто новое задание «Любопытное содержимое»!"
-    new "Se ha abierto una nueva oportunidad «Contenido Curioso»!"
 
     # game/scripts/story_01/breakfasts.rpy:180
     old "Это всё соседи..."

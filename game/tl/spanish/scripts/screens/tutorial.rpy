@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-08-14 23:38
+# TODO: Translation updated at 2025-03-08 15:49
 
 translate spanish strings:
 
@@ -139,122 +139,126 @@ translate spanish strings:
     new "Al situar el cursor sobre el indicador de estado de ánimo de un personaje, el jugador obtendrá una pista sobre el estado de ánimo actual, así como el porcentaje que falta para que cambie."
 
     # game/scripts/screens/tutorial.rpy:109
-    old "Повышать настроение персонажей можно различными действиями, вроде помощи с мытьём посуды, накрытием на стол, совместным просмотром ТВ и т.д."
-    new "Puedes mejorar el humor de los personajes con diversas acciones, como ayudar a lavar los platos, poner la mesa, ver la tele juntos, etc."
+    old "Повышать настроение персонажей можно различными действиями, вроде помощи с мытьём посуды, накрытием на стол, совместным просмотром ТВ, плавания, натирания маслом для загара и т.д."
+    new ""
+
+    # game/scripts/screens/tutorial.rpy:109
+    old "Если Макс будет замечен подглядывающим за тем, как персонажи переодеваются, то у него будет шанс сделать им комплимент. Успех этого зависит от уровня и опыта применения навыка «Убеждение»."
+    new ""
 
     # game/scripts/screens/tutorial.rpy:109
     old "Настроение персонажей, с которыми контактирует Макс, может слегка влиять на исход некоторых событий."
     new "El estado de ánimo de los personajes con los que Max entra en contacto puede influir ligeramente en el desenlace de algunos acontecimientos."
 
-    # game/scripts/screens/tutorial.rpy:124
+    # game/scripts/screens/tutorial.rpy:126
     old "По понедельникам, после завтрака, Анна будет выдавать Максу карманные деньги на неделю, как и надбавку за выполнение различных дел по дому."
     new "Los lunes, después de desayunar, Ann le da a Max dinero para la semana, así como una paga por hacer varias tareas en casa."
 
-    # game/scripts/screens/tutorial.rpy:124
+    # game/scripts/screens/tutorial.rpy:126
     old "Максу лучше выполнить эти дела до выходных, чтобы не расстраивать Анну и не потерять в надбавке к карманным."
     new "Será mejor que Max termine estas tareas antes del fin de semana para no enfadar a Ann y perder la paga."
 
-    # game/scripts/screens/tutorial.rpy:124
+    # game/scripts/screens/tutorial.rpy:126
     old "Ему нужно выполнить следующее: пропылесосить пол в доме, подрезать траву на газоне, почистить воду в бассейне и сходить за продуктами в магазин."
     new "Tiene que hacer lo siguiente: aspirar el suelo de la casa, cortar el césped, limpiar el agua de la piscina e ir a hacer la compra."
 
-    # game/scripts/screens/tutorial.rpy:124
+    # game/scripts/screens/tutorial.rpy:126
     old "Соответствующие иконки действий появятся в комнате Макса (пылесосить дом) и во дворе (подстричь газон, чистить бассейн, покинуть виллу) между завтраком и ужином, с понедельника по пятницу."
     new "Los iconos de acción correspondientes aparecerán en la habitación de Max (aspirar la casa) y en el patio (cortar el césped, limpiar la piscina, dejar el chalet) entre el desayuno y la cena, de lunes a viernes."
 
-    # game/scripts/screens/tutorial.rpy:124
+    # game/scripts/screens/tutorial.rpy:126
     old "Каждое из этих дел отнимет у Макса около часа времени и скажется на показателе его чистоты."
     new "Cada uno de estos casos llevaría aproximadamente una hora del tiempo de Max y afectaría a su puntuación de limpieza."
 
-    # game/scripts/screens/tutorial.rpy:124
+    # game/scripts/screens/tutorial.rpy:126
     old "Так же не забывайте, что после каждого выполненного дела Максу нужно отдохнуть несколько часов, прежде чем он сможет приступить к выполнению других дел по дому."
     new "Además, no olvides que después de cada tarea terminada, Max necesita descansar unas horas antes de poder empezar a hacer otras tareas en casa."
 
-    # game/scripts/screens/tutorial.rpy:124
+    # game/scripts/screens/tutorial.rpy:126
     old "По пятницам Макс будет отчитываться Анне о своих успехах и если он что-то не успел сделать, то будет делать это принудительно в субботу."
     new "Los viernes, Max informará a Ann de sus progresos y, si no ha hecho algo a tiempo, lo hará a la fuerza el sábado."
 
-    # game/scripts/screens/tutorial.rpy:172
+    # game/scripts/screens/tutorial.rpy:174
     old "Управление"
     new "Gestión"
 
-    # game/scripts/screens/tutorial.rpy:176
+    # game/scripts/screens/tutorial.rpy:178
     old "Навыки"
     new "Habilidades"
 
-    # game/scripts/screens/tutorial.rpy:178
+    # game/scripts/screens/tutorial.rpy:180
     old "Настроение"
     new "Humor"
 
-    # game/scripts/screens/tutorial.rpy:181
+    # game/scripts/screens/tutorial.rpy:183
     old "Обязанности по дому"
     new "Tareas domésticas"
 
-    # game/scripts/screens/tutorial.rpy:319
+    # game/scripts/screens/tutorial.rpy:321
     old "Ур.1"
     new ""
 
-    # game/scripts/screens/tutorial.rpy:334
+    # game/scripts/screens/tutorial.rpy:336
     old "Сейчас Лиза должна собираться в школу..."
     new "Ahora Lisa tiene que prepararse para la escuela..."
 
-    # game/scripts/screens/tutorial.rpy:337
+    # game/scripts/screens/tutorial.rpy:339
     old "{i}заглянуть в окно{/i}"
     new "{i}asómate a la ventana"
 
-    # game/scripts/screens/tutorial.rpy:337
+    # game/scripts/screens/tutorial.rpy:339
     old "Шанс"
     new "Probabilidad"
 
-    # game/scripts/screens/tutorial.rpy:342
+    # game/scripts/screens/tutorial.rpy:344
     old "опыт применения навыка"
     new "experiencia en la aplicación de una habilidad"
 
-    # game/scripts/screens/tutorial.rpy:348
+    # game/scripts/screens/tutorial.rpy:350
     old "Ой, Макс! Я не одета!!! Не мешай мне собираться в школу!"
     new "¡Oh, Max! ¡No estoy vestida! ¡No me impidas prepararme para la escuela!"
 
-    # game/scripts/screens/tutorial.rpy:352
+    # game/scripts/screens/tutorial.rpy:354
     old "Не стесняйся, без одежды ты очень красиво смотришься!"
     new "No seas tímida, ¡estás muy guapa sin ropa!"
 
-    # game/scripts/screens/tutorial.rpy:356
+    # game/scripts/screens/tutorial.rpy:358
     old "Я наоборот, помочь хотел..."
     new "Al contrario, quería ayudar..."
 
-    # game/scripts/screens/tutorial.rpy:364
+    # game/scripts/screens/tutorial.rpy:366
     old "настроение Лизы"
     new "el estado de ánimo de Lisa"
 
-    # game/scripts/screens/tutorial.rpy:430
+    # game/scripts/screens/tutorial.rpy:432
     old "Неужели тебе надоело бездельничать и ты пришёл мне помочь?"
     new "¿Te cansaste de no hacer nada y viniste a ayudarme?"
 
-    # game/scripts/screens/tutorial.rpy:433
+    # game/scripts/screens/tutorial.rpy:435
     old "Ага. Давай, я домою остальное..."
     new "Sí. Déjame limpiar el resto..."
 
-    # game/scripts/screens/tutorial.rpy:434
+    # game/scripts/screens/tutorial.rpy:436
     old "Нет, просто хотел поглазеть..."
     new "No, sólo quería comprobarlo..."
 
-    # game/scripts/screens/tutorial.rpy:438
+    # game/scripts/screens/tutorial.rpy:440
     old "Макс! Ты офигел что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла!"
     new "¡Max! ¡¿Estás loco?! ¿Estás loco? ¡Sal de aquí antes de que te patee la cabeza!"
 
-    # game/scripts/screens/tutorial.rpy:441
+    # game/scripts/screens/tutorial.rpy:443
     old "Ты бы классно смотрелась на обложке журнала!"
     new "¡Quedarías genial en la portada de una revista!"
 
-    # game/scripts/screens/tutorial.rpy:445
+    # game/scripts/screens/tutorial.rpy:447
     old "настроение Алисы"
     new "el estado de ánimo de Alice"
 
-    # game/scripts/screens/tutorial.rpy:581
+    # game/scripts/screens/tutorial.rpy:583
     old "Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
     new "Aquí encontrarás información sobre qué y cómo se configura el juego..."
 
-    # game/scripts/screens/tutorial.rpy:583
+    # game/scripts/screens/tutorial.rpy:585
     old "Теперь вы управляете жизнью Макса! Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
     new "¡Ahora tienes el control de la vida de Max! Aquí encontrarás información sobre qué y cómo se organiza este juego..."
 

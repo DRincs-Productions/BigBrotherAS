@@ -1,40 +1,40 @@
 # TODO: Translation updated at 2025-03-08 15:49
 
-translate italian strings:
+translate spanish strings:
 
     # game/scripts/mini-games/hack.rpy:92
     old "Инструкция по взлому пароля"
-    new "Istruzioni per il cracking della password"
+    new "Instrucciones para descifrar contraseñas"
 
     # game/scripts/mini-games/hack.rpy:122
     old "Убрать последний символ"
-    new "Cancellare l'ultimo carattere"
+    new "Borrar el último carácter"
 
     # game/scripts/mini-games/hack.rpy:128
     old "Проверить последовательность символов"
-    new "Controllare la sequenza dei caratteri"
+    new "Comprobar la secuencia de caracteres"
 
     # game/scripts/mini-games/hack.rpy:134
     old "Ввести пароль"
-    new "Inserire la password"
+    new "Introduzca la contraseña"
 
     # game/scripts/mini-games/hack.rpy:170
     old "Упорядочить"
-    new "Ordinare"
+    new "Organice"
 
     # game/scripts/mini-games/hack.rpy:198
     old "Пароль, который вы хотите взломать, состоит из [hack.len] символов. Вам нужно вводить различные символы и проверять, верна ли их последовательность."
-    new "La password che si vuole violare è composta da [hack.len] caratteri. È necessario inserire diversi caratteri e verificare se la loro sequenza è corretta."
+    new "La contraseña que desea piratear consta de [hack.len] caracteres. Tienes que introducir diferentes caracteres y comprobar si su secuencia es correcta."
 
     # game/scripts/mini-games/hack.rpy:199
     old "Справа отображается история того, какие последовательности символов вы вводили для проверки, а так же два числа."
-    new "Sulla destra è possibile vedere la cronologia delle sequenze di caratteri inserite per il test, oltre a due numeri."
+    new "A la derecha, puedes ver un historial de las secuencias de caracteres que has introducido para probar, así como dos números."
 
     # game/scripts/mini-games/hack.rpy:200
     old "Оранжевое число показывает, какое количество из введённых символов присутствует в данном пароле."
-    new "Il numero arancione indica quanti dei caratteri inseriti sono presenti nella password."
+    new "El número naranja indica cuántos de los caracteres introducidos están presentes en esta contraseña."
 
     # game/scripts/mini-games/hack.rpy:201
     old "Зелёное число показывает, сколько из этих символов находится на своём месте в данном пароле."
-    new "Il numero verde indica quanti di questi caratteri sono al loro posto in una determinata password."
+    new "El número verde muestra cuántos de estos caracteres están en el lugar que les corresponde en una contraseña determinada."
 

@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-12-25 17:41
+# TODO: Translation updated at 2025-03-08 15:49
 
 translate italian strings:
 
@@ -70,55 +70,83 @@ translate italian strings:
     old "Что будем искать?"
     new "Cosa cerchiamo?"
 
-    # game/scripts/screens/laptop.rpy:477
-    old "ВЫГОДНЫЕ ЗАЙМЫ ИНТЕРНЕТ-ПРЕДПРИНИМАТЕЛЯМ"
-    new "PRESTITI REDDITIZI AGLI IMPRENDITORI DI INTERNET"
-
     # game/scripts/screens/laptop.rpy:481
-    old "ВЗЯТЬ КРЕДИТ"
-    new "PRENDI UN PRESTITO"
-
-    # game/scripts/screens/laptop.rpy:523
     old "Общий доход:"
     new "Reddito totale:"
 
-    # game/scripts/screens/laptop.rpy:524
+    # game/scripts/screens/laptop.rpy:482
     old "Последнее начисление:"
     new "Ultimo pagamento:"
 
-    # game/scripts/screens/laptop.rpy:602
+    # game/scripts/screens/laptop.rpy:560
     old "Общение"
     new "Comunicazione"
 
-    # game/scripts/screens/laptop.rpy:617
+    # game/scripts/screens/laptop.rpy:575
     old "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
     new "Hai completato tutti i corsi e le classi disponibili di questa categoria. Forse nuove lezioni appariranno nella prossima versione del gioco."
 
-    # game/scripts/screens/laptop.rpy:625
+    # game/scripts/screens/laptop.rpy:583
     old "Вы уже оплатили этот курс и можете в любой момент включить следующий доступный видеоурок."
     new "Hai già pagato per questo corso e puoi attivare il prossimo video tutorial disponibile in qualsiasi momento."
 
-    # game/scripts/screens/laptop.rpy:626
+    # game/scripts/screens/laptop.rpy:584
     old "Занятие [learn] из 3"
     new "Lezione [learn] di 3"
 
-    # game/scripts/screens/laptop.rpy:629
+    # game/scripts/screens/laptop.rpy:587
     old "НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА"
     new "INIZIA A GUARDARE IL VIDEO TUTORIAL"
 
-    # game/scripts/screens/laptop.rpy:633
+    # game/scripts/screens/laptop.rpy:591
     old "ВЫ УЧИЛИСЬ СОВСЕМ НЕДАВНО. СДЕЛАЙТЕ ПЕРЕРЫВ!"
     new "HAI STUDIATO DI NUOVO. FAI UNA PAUSA!"
 
-    # game/scripts/screens/laptop.rpy:641
+    # game/scripts/screens/laptop.rpy:599
     old "Количество занятий: 3"
     new "Numero di lezioni: 3"
 
-    # game/scripts/screens/laptop.rpy:643
+    # game/scripts/screens/laptop.rpy:601
     old "ПРИОБРЕСТИ ЭТОТ КУРС ЗА $[cource.price]"
     new "PER ACQUISTARE IL CORSO A $[cource.price]"
 
-    # game/scripts/screens/laptop.rpy:696
+    # game/scripts/screens/laptop.rpy:653
     old "Удвоение дохода из любых источников"
     new "Raddoppiare le entrate da qualsiasi fonte"
+
+    # game/scripts/screens/laptop.rpy:735
+    old "ШОУ МЕЛИССЫ!"
+    new "LO SPETTACOLO DI MELISSA!"
+
+    # game/scripts/screens/laptop.rpy:776
+    old "ЦЕЛЬ СБОРОВ!"
+    new "L'OBIETTIVO DELLE COLLEZIONI!"
+
+    # game/scripts/screens/laptop.rpy:780
+    old "Покрасоваться перед зрителями..."
+    new "Mettersi in mostra davanti agli spettatori..."
+
+    # game/scripts/screens/laptop.rpy:782
+    old "Наслаждаться леденцом..."
+    new "Godersi un lecca-lecca..."
+
+    # game/scripts/screens/laptop.rpy:784
+    old "Переодеться в другую одежду..."
+    new "Cambiare un altro vestito..."
+
+    # game/scripts/screens/laptop.rpy:794
+    old "Дразнить зрителей грудью..."
+    new "Stuzzicare il pubblico con i seni..."
+
+    # game/scripts/screens/laptop.rpy:796
+    old "Дразнить зрителей попкой..."
+    new "Stuzzicate il pubblico con il culo..."
+
+    # game/scripts/screens/laptop.rpy:798
+    old "Попасть на мою приватную трансляцию..."
+    new "Accedere alla mia trasmissione privata..."
+
+    # game/scripts/screens/laptop.rpy:809
+    old "${} из ${}"
+    new "${} da ${}"
 

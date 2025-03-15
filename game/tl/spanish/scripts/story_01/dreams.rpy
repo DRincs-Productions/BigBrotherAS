@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-08-14 23:38
+# TODO: Translation updated at 2025-03-08 15:49
 
 # game/scripts/story_01/dreams.rpy:11
 translate spanish ev_019_d1b851a2:
@@ -598,7 +598,7 @@ translate spanish ev_072_1717b4a3:
 translate spanish ev_072_5228bce0:
 
     # Max 03 "Охх... Да, сестрёнка, у тебя неплохо получается. Продолжай..."
-    Max 03 "Ohh. Sí, hermanita, lo estás haciendo muy bien. Continua."
+    "[Ohh. Sí, hermanita, lo estás haciendo muy bien. Sigue así..."
 
 # game/scripts/story_01/dreams.rpy:288
 translate spanish ev_072_20d37169:
@@ -714,6 +714,468 @@ translate spanish ev_072_0ea30674:
     # tMax 07 "Вау! Какая же у неё нежная и приятная киска... И такая влажненькая! Не буду торопиться и растяну этот классный момент, чтобы свести её с ума этим наслаждением! Ох, Лиза..."
     tMax 07 "¡Vaya! Qué coño tan suave y dulce tiene. ¡Y tan mojado! ¡Voy a tomarme mi tiempo y estirar este gran momento para volverla loca de placer! Oh, Lisa."
 
+# game/scripts/story_01/dreams.rpy:339
+translate spanish ev_108_3d84da9c:
+
+    # Mia 01 "Видишь ли, Макс, гражданское право - это не та отрасль, куда можно просто прийти без каких-то специальных знаний и в процессе работы их наверстать. Но, раз уж ты хочешь оценить, что это за профессия такая, юрист, я тебе кое-что покажу..."
+    ""
+
+# game/scripts/story_01/dreams.rpy:340
+translate spanish ev_108_ca37db56:
+
+    # Max 11 "А как ещё понять, будет ли это для меня интересно? Только если погрузиться в это с головой. Тем более, когда среди знакомых есть такой прекрасный юрист, как вы."
+    ""
+
+# game/scripts/story_01/dreams.rpy:341
+translate spanish ev_108_539df092:
+
+    # Mia 02 "Ну, а мне как раз нужно разгрести большую кучу документов, так что побудешь немного моим ассистентом. Если, конечно, выдержишь. Эта работа требует большой сосредоточенности, внимания к деталям, а так же немалой сообразительности..."
+    ""
+
+# game/scripts/story_01/dreams.rpy:342
+translate spanish ev_108_dc933d34:
+
+    # Max 02 "Думаю, я смогу с этим справиться."
+    ""
+
+# game/scripts/story_01/dreams.rpy:346
+translate spanish ev_108_afbcc9df:
+
+    # Mia 04 "Неужели? На твоём месте, я бы не была так в этом уверена. Почти всегда есть что-то, что будет отвлекать. Хоть в офисе, хоть дома. Вот я, например, если работаю дома, то могу для удобства надеть свой любимый халатик или что-нибудь полегче."
+    ""
+
+# game/scripts/story_01/dreams.rpy:347
+translate spanish ev_108_bc2e87af:
+
+    # Max 01 "Если бы это хоть как-то могло сказаться на моей внимательности, то я бы сказал об этом."
+    ""
+
+# game/scripts/story_01/dreams.rpy:348
+translate spanish ev_108_7a531398:
+
+    # Mia 02 "Ну, посмотрим, посмотрим... Лично меня эта огромная стопка документов вынуждает активно поработать не только головой, но и ручками..."
+    ""
+
+# game/scripts/story_01/dreams.rpy:350
+translate spanish ev_108_5eb2aff2:
+
+    # tMax 13 "Хм... Очень похоже на какие-то намёки или мне просто кажется? Честно говоря, сложно не думать о том, что я мог бы увидеть, если бы заглянул под стол..." nointeract
+    ""
+
+# game/scripts/story_01/dreams.rpy:354
+translate spanish ev_108_56ec9155:
+
+    # Mia 05 "Ммм... Должна сказать, Макс, что ты... неплохо справляешься со своими обязанностями. И меня это всё больше и больше возбуждает..."
+    ""
+
+# game/scripts/story_01/dreams.rpy:358
+translate spanish ev_108_9ee0b65c:
+
+    # Mia 12 "Ай-я-яй, Макс! Будь, пожалуйста, аккуратнее. Нам нужно работать, а не собирать документы под столом, понапрасну растрачивая время."
+    ""
+
+# game/scripts/story_01/dreams.rpy:359
+translate spanish ev_108_ad8f144f:
+
+    # Max 04 "Я всё быстро соберу..."
+    ""
+
+# game/scripts/story_01/dreams.rpy:361
+translate spanish ev_108_3214ac14:
+
+    # Mia 04 "Только ничего не упусти, а то придётся снова лезть под стол, только уже более основательно..."
+    ""
+
+# game/scripts/story_01/dreams.rpy:362
+translate spanish ev_108_ca51f9d2:
+
+    # tMax 05 "Ухх... А не слишком ли у неё откровенные трусики для работы дома? Говорит, для удобства, а на деле явно соблазняет меня..."
+    ""
+
+# game/scripts/story_01/dreams.rpy:366
+translate spanish ev_108_13b391b0:
+
+    # Mia 05 "Ммм... Ну что, Макс, мы будем работать или прохлаждаться? Должна сказать, что первое возбуждает меня куда сильнее..."
+    ""
+
+# game/scripts/story_01/dreams.rpy:368
+translate spanish ev_108_e23a8e57:
+
+    # Max 16 "Вы сказали, возбуждает?!"
+    ""
+
+# game/scripts/story_01/dreams.rpy:369
+translate spanish ev_108_62023f5c:
+
+    # Mia 06 "Ой, разве?! Тебе показалось... Ахх... Я почти уверена, что сказала «восхищает»."
+    ""
+
+# game/scripts/story_01/dreams.rpy:371
+translate spanish ev_108_21db036f:
+
+    # tMax 12 "Ага, как же... По-моему, от восхищения так сексуально не постанывают, как Мия. Блин, а как невыносимо тесно стало в джинсах..." nointeract
+    ""
+
+# game/scripts/story_01/dreams.rpy:375
+translate spanish ev_108_809df380:
+
+    # Mia 07 "У нас так... хорошо всё получается, Макс! Я знаю, что ассистировать мне очень непросто и твоей... выдержке можно только позавидовать. Ахх..."
+    ""
+
+# game/scripts/story_01/dreams.rpy:376
+translate spanish ev_108_627c7fc4:
+
+    # Max 03 "Без проблем. Помогать вам с работой... да ещё и в {b}ТАКОЙ{/b} обстановке... одно удовольствие..."
+    ""
+
+# game/scripts/story_01/dreams.rpy:380
+translate spanish ev_108_c9d3d6d9:
+
+    # Mia 05 "Приятно, когда напротив сидит человек, который, так же как и я, может извлечь... большое наслаждение из этого кропотливого дела..."
+    ""
+
+# game/scripts/story_01/dreams.rpy:381
+translate spanish ev_108_a4fd1c4b:
+
+    # Max 05 "А вам не кажется, что стоит взять небольшой и совершенно законный перерыв? Сами понимаете, назрел БОЛЬШОЙ вопрос и по нему следовало бы провести консультацию."
+    ""
+
+# game/scripts/story_01/dreams.rpy:383
+translate spanish ev_108_97a9c562:
+
+    # Mia 06 "О да! Такой большой вопрос никак нельзя оставлять без ответа..." nointeract
+    ""
+
+# game/scripts/story_01/dreams.rpy:388
+translate spanish ev_108_94491f05:
+
+    # Mia 04 "Ммм... А ты, для своих лет, довольно одарённый мальчик. Твоя мама не зря тебя нахваливала."
+    ""
+
+# game/scripts/story_01/dreams.rpy:389
+translate spanish ev_108_61428dbd:
+
+    # Max 02 "Я обязательно поделюсь с ней впечатлениями от процесса работы с вами."
+    ""
+
+# game/scripts/story_01/dreams.rpy:393
+translate spanish ev_108_e2e34b3e:
+
+    # Mia 05 "Только не говори ей, насколько углублённо мы прорабатывали, возникающие в процессе работы, вопросы..."
+    ""
+
+# game/scripts/story_01/dreams.rpy:394
+translate spanish ev_108_bd7e9202:
+
+    # Max 01 "Само собой."
+    ""
+
+# game/scripts/story_01/dreams.rpy:398
+translate spanish ev_108_d33d63d9:
+
+    # tMax 09 "Ух ты, чёрт! Мой член так легко проскользнул в её нежный ротик... Д-а-а... С каким же удовольствием она сосёт и ещё продолжает ласкать себя пальчиками. Просто обалденная женщина!"
+    ""
+
+# game/scripts/story_01/dreams.rpy:407
+translate spanish ev_108_9ee0b65c_1:
+
+    # Mia 12 "Ай-я-яй, Макс! Будь, пожалуйста, аккуратнее. Нам нужно работать, а не собирать документы под столом, понапрасну растрачивая время."
+    ""
+
+# game/scripts/story_01/dreams.rpy:408
+translate spanish ev_108_ad8f144f_1:
+
+    # Max 04 "Я всё быстро соберу..."
+    ""
+
+# game/scripts/story_01/dreams.rpy:409
+translate spanish ev_108_3214ac14_1:
+
+    # Mia 04 "Только ничего не упусти, а то придётся снова лезть под стол, только уже более основательно..."
+    ""
+
+# game/scripts/story_01/dreams.rpy:410
+translate spanish ev_108_ed9e3468:
+
+    # Max 02 "Мне хватит и одного раза..."
+    ""
+
+# game/scripts/story_01/dreams.rpy:416
+translate spanish ev_108_c4c2b9cb:
+
+    # Mia 10 "Макс, ты такой неряшливый, просто ужас! Вот как ты думаешь, нужен мне такой помощник или я быстрее бы справилась сама, а?"
+    ""
+
+# game/scripts/story_01/dreams.rpy:417
+translate spanish ev_108_d1b14158:
+
+    # Max 11 "А если я нарочно?"
+    ""
+
+# game/scripts/story_01/dreams.rpy:418
+translate spanish ev_108_27673398:
+
+    # Mia 02 "Помнится, кто-то мне говорил, что может работать, даже если его будет что-то отвлекать! Теперь даже не знаю, давать тебе шанс доказать обратное или это трата времени впустую?"
+    ""
+
+# game/scripts/story_01/dreams.rpy:419
+translate spanish ev_108_3d31f65b:
+
+    # Max 02 "Точно не впустую..."
+    ""
+
+# game/scripts/story_01/dreams.rpy:424
+translate spanish ev_108_5251add4:
+
+    # Mia 07 "Охх... Макс! Похоже, что твоя мама не зря тебя нахваливала. Ммм... Мальчик ты определённо находчивый..." nointeract
+    ""
+
+# game/scripts/story_01/dreams.rpy:429
+translate spanish ev_108_0659e478:
+
+    # Mia 08 "Боже мой, это восхитительно! Да-а-а, Макс! Как же хорошо... Не знаю, где и когда ты этому успел научиться, но... мне так нравится! Ухх..."
+    ""
+
+# game/scripts/story_01/dreams.rpy:430
+translate spanish ev_108_8c802054:
+
+    # tMax 11 "Пожалуй, не стоит хвастаться тем, кто меня этому научил. Уж слишком деликатная эта тема."
+    ""
+
+# game/scripts/story_01/dreams.rpy:447
+translate spanish ev_124_f9e91945:
+
+    # tMax 04 "Ммм... Уже скоро ужин! Что-то я проголодался сегодня больше, чем обычно..."
+    "[Mmm... ¡Es casi la hora de cenar! Hoy tengo más hambre que de costumbre...."
+
+# game/scripts/story_01/dreams.rpy:452
+translate spanish ev_124_ee045e5c:
+
+    # tMax 11 "Хм... Мне показалось или я слышал, как к нам во двор заехала машина? Должно быть, это Эрик снова подбросил мою маму до дома." nointeract
+    "[Um... ¿Fui yo o escuché un coche entrar en nuestro patio? Debe haber sido Eric dejando a mi mamá en casa otra vez." nointeract
+
+# game/scripts/story_01/dreams.rpy:459
+translate spanish ev_124_c0dda70e:
+
+    # tMax 15 "Вот чёрт, мама уже целуется с Эриком! И что теперь будет? Как мне на это реагировать?" nointeract
+    "[¡Mierda, mamá ya se está besando con Eric! ¿Qué va a pasar ahora? ¿Cómo se supone que debo reaccionar a eso?" nointeract
+
+# game/scripts/story_01/dreams.rpy:462
+translate spanish ev_124_bbd90fca:
+
+    # tMax 13 "Интересно, а они ещё что-то будут делать в машине, кроме как целоваться, или остановятся и пойдут в дом?" nointeract
+    ""
+
+# game/scripts/story_01/dreams.rpy:467
+translate spanish ev_124_0d8279a6:
+
+    # tMax 15 "Ничего себе!!! Пока я тихонько крался по балкону мама уже успела во всю начать отсасывать Эрику! Вот это она, конечно, даёт..."
+    ""
+
+# game/scripts/story_01/dreams.rpy:473
+translate spanish ev_124_6011e616:
+
+    # Ann 11 "Тебя так смутило увиденное, сынок? Но, пойми, мы с Эриком взрослые свободные люди. Такое нужно просто принять и не мешать нам..."
+    ""
+
+# game/scripts/story_01/dreams.rpy:474
+translate spanish ev_124_981b5e76:
+
+    # Max 16 "Да хрен там!!! Я не хочу видеть, как тебя лапают всякие мужики! Я сам позабочусь о том, чтобы ты была счастлива."
+    "[¡A la mierda con eso! ¡No quiero verte siendo manoseada por ningún hombre! Yo mismo me aseguraré de que seas feliz."
+
+# game/scripts/story_01/dreams.rpy:476
+translate spanish ev_124_0ba8bc00:
+
+    # Ann 10 "Хм... Хорошо, заходи ко мне в комнату и мы посмотрим, что у тебя получится..." nointeract
+    "[Hmm... Bueno, ven a mi habitación y vamos a ver lo que tienes ... [nointeractúa]"
+
+# game/scripts/story_01/dreams.rpy:482
+translate spanish ev_124_4ae7a79b:
+
+    # Ann 01 "Ну, сынок... Как, поможешь маме раздеться после долгого и тяжёлого рабочего дня?"
+    "[Bueno, hijo... ¿Qué tal si ayudas a tu madre a desvestirse después de un largo y duro día de trabajo?"
+
+# game/scripts/story_01/dreams.rpy:483
+translate spanish ev_124_aef4a271:
+
+    # Max 01 "А как же! С удовольствием..."
+    "[¡Claro! Será un placer..."
+
+# game/scripts/story_01/dreams.rpy:484
+translate spanish ev_124_48f80952:
+
+    # Ann 12 "Честно говоря, я успела соскучиться по тебе, хоть и прошло-то не так уж много времени с утра, если подумать."
+    Ann 12 "Sinceramente, te he echado de menos, aunque no ha pasado tanto tiempo desde esta mañana, si lo piensas."
+
+# game/scripts/story_01/dreams.rpy:485
+translate spanish ev_124_acbddfad:
+
+    # Max 02 "Теперь ты дома и я покажу тебе насколько это меня радует..."
+    Max 02 "Ahora estás en casa y te voy a mostrar lo feliz que me hace...."
+
+# game/scripts/story_01/dreams.rpy:489
+translate spanish ev_124_8b57f4a9:
+
+    # tMax 07 "Блаженно чувствовать прикосновение маминых губ на своём лице, как и ощущать упругость её шикарной груди, которой она так крепко прижимается ко мне."
+    tMax 07 "Es una dicha sentir el roce de los labios de mamá en mi cara, igual que sentir la firmeza de sus preciosos pechos que aprieta tan fuerte contra mí."
+
+# game/scripts/story_01/dreams.rpy:490
+translate spanish ev_124_c711d1ad:
+
+    # tMax 11 "Да, что-то я сильно задумался и совсем позабыл про то, что собирался продемонстрировать, насколько сильно я рад её возвращению..."
+    tMax 11 "Sí, algo en lo que he estado pensando mucho y olvidé por completo que iba a demostrar lo emocionado que estoy por su regreso..."
+
+# game/scripts/story_01/dreams.rpy:494
+translate spanish ev_124_3b3fc9dd:
+
+    # Ann 03 "Ох, Макс, ты у меня такой напористый! Тоже соскучился? Если твои руки так сильно жаждут моей попки, то пока я расстёгиваю блузку, ты можешь помочь мне с юбкой."
+    "[¡Oh, Max, eres tan insistente! ¿Tú también me has echado de menos? Si tus manos están tan hambrientas de mi culo, puedes ayudarme con la falda mientras me desabrocho la blusa."
+
+# game/scripts/story_01/dreams.rpy:495
+translate spanish ev_124_a5a247a2:
+
+    # Max 03 "Как раз хотел предложить тебе то же самое!"
+    "[Estaba a punto de sugerirte lo mismo."
+
+# game/scripts/story_01/dreams.rpy:499
+translate spanish ev_124_5495acd5:
+
+    # tMax 04 "Ммм... Мамина округлая попка просто сводит меня с ума! До чего же она сексуальна..."
+    "[Mmm... ¡El culo redondo de mamá me está volviendo loco! Es tan sexy..."
+
+# game/scripts/story_01/dreams.rpy:500
+translate spanish ev_124_dbae5969:
+
+    # Ann 04 "Даже не знаю на счёт трусиков, дорогой? Обычно они на мне, когда мы ужинаем, но..."
+    Ann 04 "No sé de bragas, cariño... Normalmente las llevo cuando salimos a cenar, pero...."
+
+# game/scripts/story_01/dreams.rpy:501
+translate spanish ev_124_0b583350:
+
+    # Max 01 "Не в этот раз, мам."
+    "[Esta vez no, mamá."
+
+# game/scripts/story_01/dreams.rpy:505
+translate spanish ev_124_a06d0e3a:
+
+    # Ann 02 "Почему-то я так и думала... Ну, тогда лифчик и подавно мне сегодня больше не понадобится, верно?"
+    Ann_s02_02 "Por alguna razón pensé que sí... Bueno, entonces no necesitaré sostén hoy, ¿verdad?"
+
+# game/scripts/story_01/dreams.rpy:506
+translate spanish ev_124_c1a4455d:
+
+    # Max 03 "Хе-хе, ещё бы. А знаешь, до ужина ещё есть немного времени, так что можно не спешить одеваться..."
+    "[Seguro. Y ya sabes, todavía hay un poco de tiempo antes de la cena, así que puedes tomarte tu tiempo para vestirte...."
+
+# game/scripts/story_01/dreams.rpy:508
+translate spanish ev_124_fc516ae1:
+
+    # Ann 06 "В самом деле? Ммм... Тогда мы вполне могли бы с тобой скоротать это время за каким-нибудь приятным занятием. Лично мне уже невтерпёж, снимай скорее шорты..." nointeract
+    "[¿En serio? Hmm... Entonces tú y yo podríamos pasar algún tiempo haciendo algo agradable. Personalmente, me estoy impacientando, así que quítate los calzoncillos... [nointeractúa]"
+
+# game/scripts/story_01/dreams.rpy:513
+translate spanish ev_124_1d69df72:
+
+    # Ann 04 "Я весь день только и думала о том, как по возвращению домой ты возьмёшь и хорошенько оттрахаешь меня..." nointeract
+    Ann 04 "Llevo todo el día pensando en que cuando llegue a casa me vas a follar bien..." nointeract
+
+# game/scripts/story_01/dreams.rpy:518
+translate spanish ev_124_27bcf013:
+
+    # Ann 07 "Ах! Я так люблю, когда ты делаешь это для меня... Ох, это... нет слов, как приятно... Ахх... Ты самый лучший мужчина на свете!"
+    "[¡Ah! Me encanta cuando haces eso por mí... Oh, es... no hay palabras, se siente tan bien. Ahh... ¡Eres el mejor hombre del mundo!"
+
+# game/scripts/story_01/dreams.rpy:519
+translate spanish ev_124_1ec7ce88:
+
+    # tMax 11 "А ведь это я только начал! Ради такой шикарной женщины грех не постараться ещё немного..."
+    "[¡Sólo estoy empezando! Por el bien de una mujer tan hermosa, es un pecado no esforzarse un poco más..."
+
+# game/scripts/story_01/dreams.rpy:524
+translate spanish ev_124_3b0450d8:
+
+    # Ann 08 "Д-а-а! Твой язычок сводит меня с ума... Это... невероятно... Как же хорошо! Ммм..." nointeract
+    "[Tu lengua me está volviendo loco. Es... increíble. ¡Se siente tan bien! Mmm." nointeract
+
+# game/scripts/story_01/dreams.rpy:529
+translate spanish ev_124_b745506c:
+
+    # Ann 12 "Ох, не дразни меня, сынок... Давай, трахни меня, скорее!"
+    Ann 12 "Oh, no me tomes el pelo, hijo... ¡Vamos, fóllame, date prisa!"
+
+# game/scripts/story_01/dreams.rpy:530
+translate spanish ev_124_38de2fc5:
+
+    # Max 09 "Ухх... Какая же ты мокренькая, мам..."
+    "[Uhh... Estás tan mojada, mum...."
+
+# game/scripts/story_01/dreams.rpy:536
+translate spanish ev_124_65bd48e9:
+
+    # Ann 03 "Не волнуйся, Макс, силы на то, чтобы приласкать тебя я найду всегда, даже если сильно устала..."
+    Ann 03 "No te preocupes, Max, siempre encontraré fuerzas para acariciarte, aunque esté muy cansada...."
+
+# game/scripts/story_01/dreams.rpy:537
+translate spanish ev_124_c9b6550b:
+
+    # Max 05 "Ох, мам, ты просто невероятная женщина!"
+    "[¡Mamá, eres una mujer increíble!"
+
+# game/scripts/story_01/dreams.rpy:541
+translate spanish ev_124_028cd6e5:
+
+    # Ann 06 "Спасибо, дорогой! Ммм... Я вдруг поняла, почему твой член кажется мне таким невероятно притягательным... Это у нас семейное!"
+    "[¡Gracias, cariño! Mmm... De repente me di cuenta por qué encuentro tu polla tan increíblemente atractiva.... Es una cosa de familia."
+
+# game/scripts/story_01/dreams.rpy:542
+translate spanish ev_124_c5485a08:
+
+    # Max 06 "О да, это ты верно подметила!"
+    "[¡Oh, sí, tienes razón!"
+
+# game/scripts/story_01/dreams.rpy:546
+translate spanish ev_124_fb68b1ae:
+
+    # Max 08 "Ахх... Какое же это наслаждение, когда она берёт мой член в рот! Я прямо чувствую, с каким удовольствием она это делает. И язычком помогает и второй рукой яичками играет... Просто обалденно!"
+    Max 08 "Ahh... ¡Qué placer es cuando ella toma mi polla en su boca! Puedo sentir el placer de ella haciéndolo. Y con su lengua me ayuda y con su otra mano juega con mis testículos.... ¡Es increíble!"
+
+# game/scripts/story_01/dreams.rpy:547
+translate spanish ev_124_2cfed39c:
+
+    # Max 10 "Ммм... Ну ты даёшь, мам! Чёрт, как же я тебя сейчас оттрахаю... Садись на меня..."
+    "[Mmm. ¡Eres tan graciosa, mamá! Mierda, te voy a follar muy duro. Ponte encima de mí."
+
+# game/scripts/story_01/dreams.rpy:551
+translate spanish ev_124_b745506c_1:
+
+    # Ann 12 "Ох, не дразни меня, сынок... Давай, трахни меня, скорее!"
+    Ann 12 "Oh, no me tomes el pelo, hijo... ¡Vamos, fóllame, date prisa!"
+
+# game/scripts/story_01/dreams.rpy:552
+translate spanish ev_124_38de2fc5_1:
+
+    # Max 09 "Ухх... Какая же ты мокренькая, мам..."
+    "[Uhh... Estás tan mojada, mum...."
+
+# game/scripts/story_01/dreams.rpy:559
+translate spanish ev_124_1d69df72_1:
+
+    # Ann 04 "Я весь день только и думала о том, как по возвращению домой ты возьмёшь и хорошенько оттрахаешь меня..." nointeract
+    Ann 04 "Llevo todo el día pensando en que cuando llegue a casa me vas a follar bien..." nointeract
+
+# game/scripts/story_01/dreams.rpy:564
+translate spanish ev_124_b745506c_2:
+
+    # Ann 12 "Ох, не дразни меня, сынок... Давай, трахни меня, скорее!"
+    Ann 12 "Oh, no me tomes el pelo, hijo... ¡Vamos, fóllame, date prisa!"
+
+# game/scripts/story_01/dreams.rpy:565
+translate spanish ev_124_38de2fc5_2:
+
+    # Max 09 "Ухх... Какая же ты мокренькая, мам..."
+    "[Uhh... Estás tan mojada, mum...."
+
 translate spanish strings:
 
     # game/scripts/story_01/dreams.rpy:16
@@ -779,4 +1241,64 @@ translate spanish strings:
     # game/scripts/story_01/dreams.rpy:290
     old "Если хочешь узнать, то я сейчас покажу..."
     new "Si quieres saberlo, te lo enseño ahora...."
+
+    # game/scripts/story_01/dreams.rpy:349
+    old "{i}работать не отвлекаясь{/i}"
+    new ""
+
+    # game/scripts/story_01/dreams.rpy:349
+    old "{i}выронить несколько документов{/i}"
+    new ""
+
+    # game/scripts/story_01/dreams.rpy:370
+    old "{i}высунуть член{/i}"
+    new "{i}sacar la polla."
+
+    # game/scripts/story_01/dreams.rpy:370
+    old "{i}снова уронить документы{/i}"
+    new ""
+
+    # game/scripts/story_01/dreams.rpy:382
+    old "{i}снять джинсы{/i}"
+    new "{i}quítate los vaqueros{/i}"
+
+    # game/scripts/story_01/dreams.rpy:423
+    old "{i}ласкать её киску языком{/i}"
+    new "{i}para acariciar su coño con mi lengua."
+
+    # game/scripts/story_01/dreams.rpy:451
+    old "{i}пойти посмотреть с балкона{/i}"
+    new "{i}para ir a mirar desde el balcón."
+
+    # game/scripts/story_01/dreams.rpy:458
+    old "Да нормально, ведь зачем ещё подвозить её до дома! \n{i}(путь дружбы с Эриком){/i}"
+    new "\n{i}Está bien, porque si no, ¿por qué iba a llevarla a casa? (Viaje de amistad de Eric){/i}"
+
+    # game/scripts/story_01/dreams.rpy:458
+    old "Блин, да мне это совсем не нравится! Даже смотреть противно... \n{i}(путь вражды с Эриком){/i}"
+    new "¡Tío, esto no me gusta nada! Es asqueroso incluso verlo... \n{i}(manera de enemistarse con Eric){/i}"
+
+    # game/scripts/story_01/dreams.rpy:461
+    old "{i}подсмотреть за ними поближе{/i}"
+    new ""
+
+    # game/scripts/story_01/dreams.rpy:507
+    old "Ложись на кровать..."
+    new "Túmbate en la cama..."
+
+    # game/scripts/story_01/dreams.rpy:507
+    old "Мам, а ты сильно устала?"
+    new "Mamá, ¿estás cansada?"
+
+    # game/scripts/story_01/dreams.rpy:507
+    old "Давай я буду сзади..."
+    new "Déjame tomar la parte de atrás..."
+
+    # game/scripts/story_01/dreams.rpy:512
+    old "{i}ласкать мамину киску языком{/i}"
+    new "{i}acariciar el coño de mamá con mi lengua{/i}"
+
+    # game/scripts/story_01/dreams.rpy:523
+    old "{i}войти в маму{/i}"
+    new "{i}entrar mum{/i}"
 

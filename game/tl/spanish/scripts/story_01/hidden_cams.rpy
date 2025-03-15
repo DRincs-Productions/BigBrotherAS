@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-08-14 23:38
+# TODO: Translation updated at 2025-03-08 15:49
 
 # game/scripts/story_01/hidden_cams.rpy:12
 translate spanish ev_003_089bb89e:
@@ -100,75 +100,63 @@ translate spanish ev_030_b6914fd6:
 translate spanish ev_030_71d509bc:
 
     # tMax 16 "Правда, если придётся устанавливать камеру под потолок, как это сделано в гостиной, то мне понадобится ещё и стремянка. Ох, придётся подкопить немало деньжат..."
-    ""
+    tMax 16 "Sin embargo, si tengo que instalar la cámara bajo el techo como hago en el salón, necesitaré una escalera de mano. Tendré que ahorrar mucho dinero...."
 
 # game/scripts/story_01/hidden_cams.rpy:122
 translate spanish ev_install_cam_not_time_de1b0ce2:
 
     # tMax 13 "Сейчас не лучшее время, чтобы устанавливать скрытую камеру!"
-    ""
+    "[¡No es un buen momento para instalar una cámara oculta!"
 
 # game/scripts/story_01/hidden_cams.rpy:126
 translate spanish ev_install_cam_many_people_28c0be59:
 
     # tMax 13 "Сейчас не лучшее время, чтобы устанавливать скрытую камеру! В доме слишком много народа..."
-    ""
+    tMax 13 "¡No es un buen momento para poner una cámara oculta! Hay demasiada gente en la casa..."
 
 # game/scripts/story_01/hidden_cams.rpy:135
 translate spanish ev_install_cam_bathroom_1_b838c286:
 
     # tMax 12 "Сейчас постараюсь спрятать эту камеру как можно лучше, пока Алиса не спустилась во двор. Вроде, получается..."
-    ""
+    "[Voy a tratar de ocultar esta cámara lo mejor que pueda antes de que Alice baje al patio. Creo que está funcionando."
 
 # game/scripts/story_01/hidden_cams.rpy:137
 translate spanish ev_install_cam_bathroom_1_e68feba9:
 
     # tMax 12 "Сейчас постараюсь спрятать эту камеру как можно лучше, пока дома никого нет. Вроде, получается..."
-    ""
+    "[Voy a tratar de ocultar esta cámara lo mejor que pueda mientras no haya nadie en casa. Parece que funciona..."
 
 # game/scripts/story_01/hidden_cams.rpy:138
 translate spanish ev_install_cam_bathroom_1_5aac82a5:
 
     # tMax 03 "В кадр как раз будет попадать то, что происходит в душе и ванне, да и мне не обязательно будет теперь рисковать, чтобы увидеть голеньких и мокрых сестёр или маму. Готово!"
-    ""
+    tMax 03 "La toma sólo captará lo que pasa en la ducha y el baño, y ahora no tengo que arriesgarme a ver a mis hermanas o a mamá desnudas y mojadas. ¡Hecho!"
 
 # game/scripts/story_01/hidden_cams.rpy:143
 translate spanish ev_install_cam_bathroom_1_71ff42cb:
 
     # tMax 11 "Конечно, с точки зрения морали ставить камеру в ванной комнате сомнительно. Однако, тут и так окно во всю стену. Так что, формально я лишь приоткрыл это окно..." nointeract
-    ""
+    tMax 11 "Por supuesto, es moralmente cuestionable poner una cámara en un cuarto de baño. Sin embargo, ya es una ventana de pared completa. Así que, técnicamente, sólo estoy abriendo esta ventana entreabierta..." nointeract
 
 # game/scripts/story_01/hidden_cams.rpy:148
 translate spanish ev_install_cam_bathroom_1_d1974012:
 
     # tMax 12 "Ещё надо подключить эту камеру и разобраться во всех настройках. Сложного тут ничего нет, но немного повозиться придётся..."
-    ""
+    "[Todavía tienes que conectar esta cámara y averiguar todos los ajustes. No es demasiado complicado, pero es un poco de una molestia...."
 
 # game/scripts/story_01/hidden_cams.rpy:152
 translate spanish ev_install_cam_bathroom_1_6d1a29c9:
 
     # tMax 04 "Вот всё и заработало! Теперь, благодаря камере в ванной комнате, мой сайт должен приносить побольше дохода, чем было. Да и на мокрые сисечки всегда приятно посмотреть, теперь ещё и с комфортом."
-    ""
+    "[¡Ya está funcionando! Ahora, gracias a la cámara del baño, mi sitio debería traer más ingresos que antes. Y siempre es agradable mirar tetas mojadas, ahora con comodidad."
 
 # game/scripts/story_01/hidden_cams.rpy:153
 translate spanish ev_install_cam_bathroom_1_7c9e4204:
 
     # tMax 13 "Правда, подглядывать в окна или заглядывать в комнаты всё равно временами нужно, а то я всю сноровку растеряю и меня станут ловить на раз-два..."
-    ""
+    tMax 13 "Sin embargo, espiar por las ventanas o asomarse a las habitaciones sigue siendo necesario de vez en cuando, o perderé toda la habilidad y me pillarán en una o dos ...."
 
 translate spanish strings:
-
-    # game/scripts/story_01/hidden_cams.rpy:28
-    old "Задание «Любопытное содержимое» обновлено!"
-    new "Se ha actualizado la oportunidad de «Contenidos curiosos»!"
-
-    # game/scripts/story_01/hidden_cams.rpy:49
-    old "Задание «Любопытное содержимое» завершено!"
-    new "La oprtunidad «Contenidos curiosos» está completa!"
-
-    # game/scripts/story_01/hidden_cams.rpy:50
-    old "Открыто новое задание «Способ заработать»!"
-    new "¡Una nueva oportunidad «Una forma de ganar dinero» está abierta!"
 
     # game/scripts/story_01/hidden_cams.rpy:75
     old "{i}Оплатить всё ($150){/i}"
@@ -181,14 +169,6 @@ translate spanish strings:
     # game/scripts/story_01/hidden_cams.rpy:81
     old "{i}настроить работу сайта{/i}"
     new "{i}configurar el sitio{/i}"
-
-    # game/scripts/story_01/hidden_cams.rpy:91
-    old "Задание «Способ заработать» завершено!"
-    new "La oportunidad «Una forma de ganar dinero» está terminada!"
-
-    # game/scripts/story_01/hidden_cams.rpy:92
-    old "Открыто новое задание «Приумножение заработка»!"
-    new "Una nueva oportunidad «Aumente sus ingresos» está abierta!"
 
     # game/scripts/story_01/hidden_cams.rpy:142
     old "{i}пойти настроить камеру{/i}"
