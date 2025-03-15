@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-03-05 22:37 #|#|# # game/scripts/engine/interact.rpy:37 #-#-# translate crowdin talks_start_41e41361:
+﻿# TODO: Translation updated at 2025-03-08 15:49 #|#|# # game/scripts/engine/interact.rpy:37 #-#-# translate crowdin talks_start_41e41361:
 msgid "[_Alice_s_00_] Ну же, Макс, что хотел? [nointeract]"
 msgstr "[_Alice_s_00_] Ну же, Макс, что хотел? [nointeract]"
 
@@ -141,6 +141,18 @@ msgstr "Насчёт твоего парня..."
 # game/scripts/engine/interact.rpy:192
 msgid "Насчёт Алекса..."
 msgstr "Насчёт Алекса..."
+
+# game/scripts/engine/interact.rpy:192
+msgid "Есть успехи с Оливией?"
+msgstr "Есть успехи с Оливией?"
+
+# game/scripts/engine/interact.rpy:192
+msgid "Что-нибудь узнала про Оливию?"
+msgstr "Что-нибудь узнала про Оливию?"
+
+# game/scripts/engine/interact.rpy:192
+msgid "Ну, так что там с трусиками Оливии?"
+msgstr "Ну, так что там с трусиками Оливии?"
 
 # game/scripts/engine/interact.rpy:192
 msgid "Я решил потренироваться..."

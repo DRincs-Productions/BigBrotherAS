@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-03-05 22:37
+﻿# TODO: Translation updated at 2025-03-08 15:49
 
 # game/scripts/engine/interact.rpy:37
 translate crowdin talks_start_41e41361:
@@ -163,6 +163,18 @@ translate crowdin strings:
     # game/scripts/engine/interact.rpy:192
     old "Насчёт Алекса..."
     new "Насчёт Алекса..."
+
+    # game/scripts/engine/interact.rpy:192
+    old "Есть успехи с Оливией?"
+    new "Есть успехи с Оливией?"
+
+    # game/scripts/engine/interact.rpy:192
+    old "Что-нибудь узнала про Оливию?"
+    new "Что-нибудь узнала про Оливию?"
+
+    # game/scripts/engine/interact.rpy:192
+    old "Ну, так что там с трусиками Оливии?"
+    new "Ну, так что там с трусиками Оливии?"
 
     # game/scripts/engine/interact.rpy:192
     old "Я решил потренироваться..."
