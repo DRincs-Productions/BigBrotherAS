@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-12-25 17:41
+# TODO: Translation updated at 2025-03-08 15:49
 
 # game/scripts/story_01/school.rpy:10
 translate italian ev_004_1fe4b55c:
@@ -761,6 +761,366 @@ translate italian ev_044_2b5641cb:
 
     # tMax 13 "Не знаю, сколько времени понадобится, чтобы у Лизы получилось ненавязчиво подружиться с Оливией. Пожалуй, мне стоит интересоваться её успехами время от времени..."
     tMax 13 "Non so quanto tempo ci vorrà perché Lisa faccia amicizia con Olivia in modo discreto. Probabilmente dovrei controllare i suoi progressi di tanto in tanto..."
+
+# game/scripts/story_01/school.rpy:284
+translate italian ev_129_1d82824e:
+
+    # Lisa 09 "Пока никаких, Макс. Я ещё не знаю, как к ней подступиться и подружиться."
+    Lisa 09 "Ancora nessuno, Max. Non so ancora come avvicinarmi a lei e fare amicizia."
+
+# game/scripts/story_01/school.rpy:285
+translate italian ev_129_0ec61878:
+
+    # Max 13 "Хм... А какие у неё вкусы?"
+    Max 13 "Hmm... Quali sono i suoi gusti?"
+
+# game/scripts/story_01/school.rpy:286
+translate italian ev_129_fbc832f1:
+
+    # Lisa 12 "Кроме Алекса? Не знаю... Она для меня загадка. С одной стороны выглядит скромной девочкой, но парни за ней бегают толпой. И я никак не могу понять почему..."
+    Lisa 12 "Tranne Alex? Non lo so... Lei è un mistero per me. Da un lato, sembra una ragazza modesta, ma i ragazzi la inseguono in mezzo alla folla. E non riesco a capire perché..."
+
+# game/scripts/story_01/school.rpy:287
+translate italian ev_129_c35a3d3b:
+
+    # Max 12 "И что, даже никаких идей?"
+    Max 12 "Quindi, nessuna idea?"
+
+# game/scripts/story_01/school.rpy:288
+translate italian ev_129_6aac9175:
+
+    # Lisa 10 "Нет... Может быть, ты что-то посоветуешь?"
+    Lisa 10 "No... Forse puoi consigliarmi qualcosa?"
+
+# game/scripts/story_01/school.rpy:289
+translate italian ev_129_1a8fce67:
+
+    # Max 11 "Ну, для начала можно выяснить в чём её секрет."
+    Max 11 "Bene, per prima cosa puoi scoprire qual è il suo segreto."
+
+# game/scripts/story_01/school.rpy:290
+translate italian ev_129_0c253f04:
+
+    # Lisa 11 "Спасибо, Шерлок! А то я не догадалась... Но как?"
+    Lisa 11 "Grazie, Sherlock! Come se non l'avessi capito... Ma come?"
+
+# game/scripts/story_01/school.rpy:291
+translate italian ev_129_1e26cbac:
+
+    # Max 02 "Да это же очевидно! Спроси у кого-нибудь..."
+    Max 02 "Beh, è ​​ovvio! Chiedi a qualcuno..."
+
+# game/scripts/story_01/school.rpy:292
+translate italian ev_129_2b70d627:
+
+    # Lisa 02 "У кого?! Или ты думаешь, мне теперь нужно подружиться с кем-то, кто бегает за Оливией, чтобы узнать её секрет, чтобы подружиться с ней, чтобы... Ну ты понял..."
+    Lisa 02 "Di chi?! Oppure pensi che ora io debba fare amicizia con qualcuno che sta inseguendo Olivia per scoprire il suo segreto, per fare amicizia con lei, per... Beh, hai capito..."
+
+# game/scripts/story_01/school.rpy:293
+translate italian ev_129_f6b4170b:
+
+    # Max 04 "Именно! Даже я бы лучше не сказал!"
+    Max 04 "Esattamente! Nemmeno io avrei potuto dirlo meglio!"
+
+# game/scripts/story_01/school.rpy:294
+translate italian ev_129_d0bda21e:
+
+    # Lisa 01 "Спасибо. Ладно, я попробую..."
+    Lisa 01 "Grazie. Ok, ci proverò..."
+
+# game/scripts/story_01/school.rpy:295
+translate italian ev_129_0e92b66a:
+
+    # Max 01 "Вот и отлично. Держи меня в курсе..."
+    Max 01 "Fantastico. Tienimi aggiornato..."
+
+# game/scripts/story_01/school.rpy:302
+translate italian ev_129_8613ce20:
+
+    # tMax 12 "Теперь остаётся ждать, пока Лиза попытается подружиться с кем-то, кому ещё нравится Оливия, чтобы выпытать у него побольше информации об этой девушке..."
+    tMax 12 "Ora non resta che aspettare che Lisa cerchi di fare amicizia con qualcuno a cui piace ancora Olivia, per ottenere da lui più informazioni su questa ragazza..."
+
+# game/scripts/story_01/school.rpy:314
+translate italian ev_130_0ad40dc2:
+
+    # Lisa 11 "Ага... Только не знаю, как мне это поможет..."
+    Lisa 11 "Sì... non so proprio come questo mi aiuterà..."
+
+# game/scripts/story_01/school.rpy:315
+translate italian ev_130_6d3c3ecb:
+
+    # Max 11 "Рассказывай!"
+    Max 11 "Dimmi!"
+
+# game/scripts/story_01/school.rpy:316
+translate italian ev_130_6ec01e77:
+
+    # Lisa 00 "В общем, я подружилась с одним мальчиком, который бегает за этой самой Оливией..."
+    Lisa 00 "Comunque, sono diventata amica di un ragazzo che insegue proprio questa Olivia..."
+
+# game/scripts/story_01/school.rpy:317
+translate italian ev_130_90057ed1:
+
+    # Max 02 "Ну, и?"
+    Max 02 "Bene, e allora?"
+
+# game/scripts/story_01/school.rpy:318
+translate italian ev_130_b889d00c:
+
+    # Lisa 09 "Не перебивай. Мальчик этот когда станет взрослым, я уверена, превратится в маньяка. Уж слишком он помешанный на ней... Ну так вот, у Оливии есть одна... фишка, если можно так сказать..."
+    Lisa 09 "Non interrompere. Quando questo ragazzo crescerà, sono sicuro che diventerà un maniaco. Lui è semplicemente troppo ossessionato da lei... Be', Olivia ha una... cosa, se così possiamo chiamarla..."
+
+# game/scripts/story_01/school.rpy:319
+translate italian ev_130_9fc5df17:
+
+    # Max 14 "Да говори уже!"
+    Max 14 "Parlate!"
+
+# game/scripts/story_01/school.rpy:320
+translate italian ev_130_077b6322:
+
+    # Lisa 11 "Ты чего такой нервный, Макс? Я же и рассказываю! В общем, Оливия не носит нижнее бельё... Вот. И я думаю, что это бесполезная информация..."
+    Lisa 11 "Perché sei così nervoso, Max? Ecco cosa ti sto dicendo! Comunque, Olivia non indossa biancheria intima... Tutto qui. E penso che questa sia un'informazione inutile..."
+
+# game/scripts/story_01/school.rpy:321
+translate italian ev_130_6e280ff2:
+
+    # Max 06 "Класс! Это всё объясняет..."
+    Max 06 "Classe! Questo spiega tutto..."
+
+# game/scripts/story_01/school.rpy:322
+translate italian ev_130_ff409bce:
+
+    # Lisa 09 "В том плане, что теперь ясно, почему все мальчики бегают за Оливией? Ну да... Но что с этим знанием делать?"
+    Lisa 09 "Voglio dire, adesso è chiaro perché tutti i ragazzi stanno correndo dietro a Olivia? Beh, sì... Ma cosa fare di questa conoscenza?"
+
+# game/scripts/story_01/school.rpy:323
+translate italian ev_130_6aa0fb89:
+
+    # Max 01 "А это уже повод втянуть Оливию в интересный разговор!"
+    Max 01 "E questo è già un motivo per coinvolgere Olivia in una conversazione interessante!"
+
+# game/scripts/story_01/school.rpy:324
+translate italian ev_130_dd6efda2:
+
+    # Lisa 12 "Это как? Типа: «Оливия, у нас столько общего, я тоже не ношу трусы, давай дружить...» Так? Глупее идеи не слышала..."
+    Lisa 12 "Come mai? Tipo: \"Olivia, abbiamo così tanto in comune, anch'io non indosso mutandine, diventiamo amiche...\" Giusto? Non ho mai sentito un'idea più stupida..."
+
+# game/scripts/story_01/school.rpy:325
+translate italian ev_130_d5f0afc2:
+
+    # Max 03 "Подумаешь, немного соврёшь ради дела... Для перестраховки, можешь даже какое-то время не надевать трусики в школу!"
+    Max 03 "Tanto per cominciare, mentirai un po' per il bene della questione... Per sicurezza, per un po' puoi anche non indossare le mutandine a scuola!"
+
+# game/scripts/story_01/school.rpy:326
+translate italian ev_130_e1642146:
+
+    # Lisa 15 "Не собираюсь я ходить в школу без трусов! Подозреваю, что ты был бы очень доволен, но нет. Даже не мечтай..."
+    Lisa 15 "Non andrò a scuola senza biancheria intima! Immagino che ne saresti molto contento, ma no. Non pensarci nemmeno..."
+
+# game/scripts/story_01/school.rpy:327
+translate italian ev_130_89068abb:
+
+    # Max 04 "Тогда просто поинтересуйся у Оливии, почему она не носит нижнее бельё!"
+    Max 04 "Allora chiedi a Olivia perché non indossa biancheria intima!"
+
+# game/scripts/story_01/school.rpy:328
+translate italian ev_130_9917cb49:
+
+    # Lisa 03 "Ну и она ответит что-то из серии «а я так хочу»... И что потом?"
+    Lisa 03 "Beh, lei risponderà qualcosa del tipo \"questo è quello che voglio\"... E poi?"
+
+# game/scripts/story_01/school.rpy:329
+translate italian ev_130_507f946b:
+
+    # Max 11 "А ты спроси. Вдруг разговоритесь..."
+    Max 11 "Bene, vi chiederete. All'improvviso inizi a parlare..."
+
+# game/scripts/story_01/school.rpy:330
+translate italian ev_130_6ffff924:
+
+    # Lisa 11 "Ну, ладно. Может и получится... В любом случае, других идей нет. Я попробую спросить."
+    Lisa 11 "Ok. Forse funzionerà... In ogni caso, non ci sono altre idee. Proverò a chiedere."
+
+# game/scripts/story_01/school.rpy:331
+translate italian ev_130_08487c7f:
+
+    # Max 01 "Вот и молодчинка!"
+    Max 01 "Quella è una giovane donna!"
+
+# game/scripts/story_01/school.rpy:338
+translate italian ev_130_4d0c2d72:
+
+    # tMax 11 "Надеюсь, эта тема с трусиками поможет Лизе подружиться с Оливией. Подожду немного и узнаю, что из этой затеи получилось..."
+    tMax 11 "Spero che questo argomento sulle mutandine aiuti Lisa a diventare amica di Olivia. Aspetterò un po' e vedrò cosa ne verrà fuori da questa iniziativa..."
+
+# game/scripts/story_01/school.rpy:350
+translate italian ev_131_7804651c:
+
+    # Lisa 03 "Ты же понимаешь, что этот вопрос без контекста звучит очень... странно, да?"
+    Lisa 03 "Ti rendi conto che questa domanda senza contesto suona molto... strana, vero?"
+
+# game/scripts/story_01/school.rpy:351
+translate italian ev_131_a697ad16:
+
+    # Max 03 "Догадываюсь. Ну так как?"
+    Max 03 "Lo immagino. Allora, com'è?"
+
+# game/scripts/story_01/school.rpy:352
+translate italian ev_131_52eb7b05:
+
+    # Lisa 02 "Ты был прав, эта информация оказалась не такой уж и бесполезной! Оливия была рада поболтать на эту тему и рассказала, что она из семьи натуристов..."
+    Lisa 02 "Avevi ragione, questa informazione non si è rivelata poi così inutile! Olivia era felice di parlarne e ha rivelato di provenire da una famiglia di naturisti..."
+
+# game/scripts/story_01/school.rpy:353
+translate italian ev_131_78f0fca1:
+
+    # Max 13 "Это кто такие?"
+    Max 13 "Chi sono?"
+
+# game/scripts/story_01/school.rpy:354
+translate italian ev_131_53fe89a7:
+
+    # Lisa 11 "В общем, они сторонники всего натурального или как-то так. Я не поняла... Но главная особенность в том, что они дома все ходят голые, представляешь!"
+    Lisa 11 "In generale, sono sostenitori di tutto ciò che è naturale o qualcosa del genere. Non ho capito... Ma la cosa principale è che girano tutti nudi per casa, puoi immaginare!"
+
+# game/scripts/story_01/school.rpy:355
+translate italian ev_131_cc38c54b:
+
+    # Max 06 "Обалдеть! А к ним можно в гости?"
+    Max 06 "Oh! Posso far loro visita?"
+
+# game/scripts/story_01/school.rpy:356
+translate italian ev_131_9b6a2539:
+
+    # Lisa 03 "Очень смешно, Макс! Вот придёт Оливия когда-нибудь к нам в гости и будешь её тут уговаривать раздеться..."
+    Lisa 03 "Molto divertente, Max! Un giorno Olivia verrà a trovarci e tu cercherai di convincerla a spogliarsi..."
+
+# game/scripts/story_01/school.rpy:357
+translate italian ev_131_ddd1ed85:
+
+    # Max 04 "Ещё как буду..."
+    Max 04 "Certamente che lo farò..."
+
+# game/scripts/story_01/school.rpy:358
+translate italian ev_131_33e8ec2e:
+
+    # Lisa 01 "И по этой причине Оливия не носит нижнее бельё. Говорит, что с радостью разделась бы, если бы её за это не выгнали бы из школы..."
+    Lisa 01 "Ed è per questo motivo che Olivia non indossa biancheria intima. Dice che si spoglierebbe volentieri se non venisse espulsa da scuola per questo..."
+
+# game/scripts/story_01/school.rpy:359
+translate italian ev_131_1a4e890e:
+
+    # Max 01 "А мне эта Оливия нравится всё больше и больше!"
+    Max 01 "Questa Olivia mi piace sempre di più!"
+
+# game/scripts/story_01/school.rpy:360
+translate italian ev_131_fd8ac4dc:
+
+    # Lisa 10 "Ещё один адепт в её секте объявился! Все вы парни думаете одинаково и только об одном..."
+    Lisa 10 "È apparso un altro seguace della sua setta! Voi tutti pensate la stessa cosa e solo una cosa..."
+
+# game/scripts/story_01/school.rpy:361
+translate italian ev_131_91daa4cb:
+
+    # Max 11 "Постой, так вы подружились или как?"
+    Max 11 "Aspetta, quindi siete diventati amici o cosa?"
+
+# game/scripts/story_01/school.rpy:362
+translate italian ev_131_3a942227:
+
+    # Lisa 02 "Можно и так сказать... В общем, мы разговорились и она рассказала, что живёт тут недалеко, у них тоже большой дом и она больше всего любит воду и солнце..."
+    Lisa 02 "Si potrebbe dire che... Comunque, abbiamo iniziato a parlare e mi ha detto che vive lì vicino, hanno anche loro una casa grande e che le cose che ama di più sono l'acqua e il sole..."
+
+# game/scripts/story_01/school.rpy:363
+translate italian ev_131_94eacb89:
+
+    # Max 13 "Видимо, бассейн у них тоже есть?"
+    Max 13 "A quanto pare hanno anche una piscina?"
+
+# game/scripts/story_01/school.rpy:364
+translate italian ev_131_a66766a0:
+
+    # Lisa 11 "Есть. И дом, как я поняла, у них шикарный. Ну, она не из бедной семьи, мягко говоря..."
+    Lisa 11 "Mangiare. E la loro casa, da quanto ho capito, è lussuosa. Be', per usare un eufemismo, non proviene da una famiglia povera..."
+
+# game/scripts/story_01/school.rpy:365
+translate italian ev_131_35a5bea7:
+
+    # Max 12 "Значит, заманить её бассейном не выйдет..."
+    Max 12 "Quindi non funzionerà attirarla con una piscina..."
+
+# game/scripts/story_01/school.rpy:366
+translate italian ev_131_49415e79:
+
+    # Lisa 09 "Не совсем так. У них какая-то проблема с их бассейном и там или грибок завёлся или какие-то насекомые, я не поняла, но они уже давно не купаются там, боятся..."
+    Lisa 09 "Non proprio. Hanno qualche problema con la piscina, forse c'è un fungo o qualche insetto, non capisco, ma non ci nuotano da molto tempo, hanno paura..."
+
+# game/scripts/story_01/school.rpy:367
+translate italian ev_131_7bc55748:
+
+    # Max 16 "Так если они богатые, могут починить, почистить, убрать проблемы..."
+    Max 16 "Quindi se sono ricchi, possono sistemare le cose, pulirle, rimuovere i problemi..."
+
+# game/scripts/story_01/school.rpy:368
+translate italian ev_131_5dc4c5cb:
+
+    # Lisa 00 "Ага, только этим обычно её папа занимается, а сейчас он с ними не живёт... Так бассейн у них и пустует... Погоди, а зачем ты её сюда заманивать собрался?"
+    Lisa 00 "Sì, ma di solito lo fa suo padre, e ora non vive più con loro... Quindi la loro piscina è vuota... Aspetta, perché stai cercando di attirarla qui?"
+
+# game/scripts/story_01/school.rpy:369
+translate italian ev_131_57cb235f:
+
+    # Max 04 "Одно дело в школе общаться и совсем другое, вместе отдыхать, загорать и плавать!"
+    Max 04 "Una cosa è socializzare a scuola, un'altra è rilassarsi, prendere il sole e nuotare insieme!"
+
+# game/scripts/story_01/school.rpy:370
+translate italian ev_131_6fa7448f:
+
+    # Lisa 02 "Думаешь, мы так с ней быстрее станем лучшими подругами? Конечно, может и так... Но ты же это не поэтому предложил?"
+    Lisa 02 "Credi che in questo modo diventeremo migliori amici più velocemente? Certo, forse è così... Ma non è per questo che l'hai suggerito?"
+
+# game/scripts/story_01/school.rpy:371
+translate italian ev_131_ef6f91a6:
+
+    # Max 11 "А зачем ещё?"
+    Max 11 "Per quale altro motivo?"
+
+# game/scripts/story_01/school.rpy:372
+translate italian ev_131_82d2cd4b:
+
+    # Lisa 11 "Думается мне, чтобы раздеть мою одноклассницу..."
+    Lisa 11 "Penso che per spogliare la mia compagna di classe..."
+
+# game/scripts/story_01/school.rpy:373
+translate italian ev_131_622180ca:
+
+    # Max 03 "Знаешь, одно другому не мешает. Да и кто я такой, чтобы запрещать ей раздеваться, если ей так это нравится!"
+    Max 03 "Sai, l'una non interferisce con l'altra. E chi sono io per impedirle di spogliarsi se le piace così tanto!"
+
+# game/scripts/story_01/school.rpy:374
+translate italian ev_131_32d93c9d:
+
+    # Lisa 01 "Какие вы мальчики озабоченные! Ну да ладно... Если общения в школе нам с ней станет мало, то я позову её к нам в гости."
+    Lisa 01 "Che ragazzi eccitati che siete! Va bene... Se la comunicazione a scuola diventasse troppo scarsa per noi, allora la inviterò a farci visita."
+
+# game/scripts/story_01/school.rpy:375
+translate italian ev_131_ac8670b6:
+
+    # Max 01 "Ох, Лиза, поскорее бы!"
+    Max 01 "Oh, Lisa, vorrei che accadesse prima!"
+
+# game/scripts/story_01/school.rpy:382
+translate italian ev_131_94ba52b1:
+
+    # tMax 03 "Значит, Оливия из семьи каких-то нудистов или натуристов... Как же будет классно, если Лиза позовёт её сюда. Они бы общались, загорали и купались вне школы, что, как я думаю, их бы ещё больше сблизило..."
+    tMax 03 "Quindi Olivia proviene da una famiglia di nudisti o naturisti... Quanto sarebbe bello se Lisa la invitasse qui. Socializzeranno, prenderanno il sole e nuoteranno fuori dalla scuola, il che penso li avvicinerà ancora di più..."
+
+# game/scripts/story_01/school.rpy:383
+translate italian ev_131_ef03f245:
+
+    # tMax 04 "А там и я буду где-то неподалёку от них. Особенно, если новая школьная подружка Лизы решит оголиться, хе-хе... Буду с нетерпением этого ждать..."
+    tMax 04 "E lì sarò da qualche parte non lontano da loro. Soprattutto se la nuova amica di scuola di Lisa decide di spogliarsi, eh eh... Non vedo l'ora..."
 
 translate italian strings:
 

@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-08-14 23:38
+# TODO: Translation updated at 2025-03-08 15:49
 
 # game/scripts/story_01/annroom.rpy:12
 translate spanish ev_ann_dressed_d0c78fcb:
@@ -64,7 +64,7 @@ translate spanish ev_ann_dressed_fail_voy_02_e4a67e8d:
 translate spanish ev_ann_dressed_fail_voy_02_8637f60a:
 
     # Ann 12 "Вот как? А я уже подумала, что ты совсем обнаглел, заявился сюда и глазеешь на меня! В любом случае, Макс, ты мне сейчас мешаешь..." nointeract
-    ""
+    Ann 12 "¿Es así? ¡Y yo pensaba que te habías vuelto completamente insolente, apareciendo aquí y mirándome medio desnuda! En cualquier caso, Max, ahora me estás molestando..." nointeract
 
 # game/scripts/story_01/annroom.rpy:157
 translate spanish ev_ann_dressed_fail_voy_02_359005f4:

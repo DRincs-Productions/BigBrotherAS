@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-12-25 17:41
+# TODO: Translation updated at 2025-03-08 15:49
 
 translate italian strings:
 
@@ -13,6 +13,10 @@ translate italian strings:
     # game/scripts/engine/memories.rpy:186
     old "Сексуальные уроки!"
     new "Lezioni sexy!"
+
+    # game/scripts/engine/memories.rpy:186
+    old "Работа подождёт!"
+    new "Il lavoro può aspettare!"
 
     # game/scripts/engine/memories.rpy:186
     old "Только для одного!"

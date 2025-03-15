@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-12-25 17:41
+# TODO: Translation updated at 2025-03-08 15:49
 
 # game/scripts/story_01/blog.rpy:11
 translate italian ev_017_423a776a:
@@ -2028,59 +2028,839 @@ translate italian ev_120_57d67bef:
     # tMax 11 "Алиса сказала, если дверь к ней закрыта, то ни заходить, ни стучаться нельзя. По-видимому, ведёт веб-трансляцию..." nointeract
     tMax 11 "Alice ha detto che se la porta è chiusa, non si può entrare o bussare. A quanto pare, è in webcasting..." nointeract
 
-# game/scripts/story_01/blog.rpy:1108
-translate italian ev_126_1477f580:
+# game/scripts/story_01/blog.rpy:1109
+translate italian ev_126_dca784a3:
 
-    # tMax 16 "Пока ничего интересного. Если Алиса и проводит веб-трансляции, то сразу после ужина..."
-    tMax 16 "Finora non c'è niente di interessante. Se Alice sta facendo dei webcast, è subito dopo la cena..."
+    # tMax 16 "Пока ничего интересного. Если Алиса и проводит веб-трансляции, то сразу после ужина..." nointeract
+    tMax 16 "Finora non c'è nulla d'interessante. Se Alice trasmette sul web, è subito dopo cena..." nointeract
 
-# game/scripts/story_01/blog.rpy:1121
-translate italian ev_126_2717e9a0:
+# game/scripts/story_01/blog.rpy:1123
+translate italian ev_126_b5ba4506:
 
-    # tMax 11 "Прилягу-ка я на кровать, чтобы Лиза не увидела ничего такого, если зайдёт в комнату..."
-    tMax 11 "Mi sdraio sul letto, così Lisa non vedrà nulla di tutto questo se entra nella stanza..."
+    # tMax 16 "Хм... Насколько я понимаю, Алиса ведёт веб-трансляцию, но я почему-то не могу её посмотреть. Странно... Может, я чего-то не знаю?" nointeract
+    tMax 16 "Hmmm... So che Alice sta trasmettendo sul web, ma per qualche motivo non riesco a vederlo. È strano. Forse c'è qualcosa che non so?" nointeract
 
-# game/scripts/story_01/blog.rpy:1126
-translate italian ev_126_8e2c7b14:
+# game/scripts/story_01/blog.rpy:1130
+translate italian ev_126_b3a6aa9d:
 
-    # tMax 11 "Прилягу-ка я на кровать, чтобы Лиза не увидела ничего такого..."
-    tMax 11 "Mi sdraio sul letto, così Lisa non vedrà nulla che..."
+    # tMax 13 "Эх... Алиса сейчас ведёт для кого-то приватную веб-трансляцию. Я бы тоже не отказался! В смысле, посмотреть..." nointeract
+    tMax 13 "Eh... Alice sta facendo un web cast privato per qualcuno in questo momento. Vorrei guardarlo anch'io! Voglio dire, guardare..." nointeract
 
-# game/scripts/story_01/blog.rpy:1136
-translate italian ev_126_483dadb0:
+# game/scripts/story_01/blog.rpy:1147
+translate italian ev_126_9bfd9ccb:
 
-    # Max 01 "Так... А вот и моя сестрёнка! Ничего интересного я не пропустил, ещё только всё начинается..."
-    Max 01 "Quindi... Ecco la mia sorellina! Non mi sono perso nulla di interessante, è appena iniziato..."
-
-# game/scripts/story_01/blog.rpy:1140
-translate italian ev_126_8f579e0c:
-
-    # Max 13 "Будет полноценно реализовано в v0.08..." nointeract
-    Max 13 "Sarà completamente implementato nella v0.08..." nointeract
-
-# game/scripts/story_01/blog.rpy:1148
-translate italian ev_126_3a9a3354:
-
-    # tMax 02 "Ага, у меня под ноутбуком есть кое-что, что я бы с огромным удовольствием дал тебе вместо леденца..."
-    tMax 02 "Sì, ho qualcosa sotto il mio portatile che sarei più che felice di darti al posto di un lecca-lecca..."
-
-# game/scripts/story_01/blog.rpy:1152
-translate italian ev_126_0c784499:
-
-    # tMax 13 "Будет полноценно реализовано в v0.08..." nointeract
-    tMax 13 "Sarà completamente implementato nella v0.08... [nointeract]."
+    # tMax 11 "Прилягу-ка я на кровать, чтобы Лиза не увидела ничего такого, если зайдёт в комнату..." nointeract
+    tMax 11 "Mi sdraio sul letto, così Lisa non vedrà nulla di tutto questo se entra nella stanza..." nointeract
 
 # game/scripts/story_01/blog.rpy:1160
-translate italian ev_126_427699a9:
+translate italian ev_126_c6ac317d:
 
-    # tMax 03 "О да! Сисечки я очень люблю... Хотелось бы, конечно, самому их потрогать, но..."
-    tMax 03 "Oh, sì. Adoro le tette. Vorrei poterle toccare personalmente, ma..."
+    # tMax 11 "Прилягу-ка я на кровать, чтобы Лиза не увидела ничего такого..." nointeract
+    tMax 11 "Mi sdraio sul letto così Lisa non vede nulla..." nointeract
 
-# game/scripts/story_01/blog.rpy:1164
-translate italian ev_126_0c784499_1:
+# game/scripts/story_01/blog.rpy:1201
+translate italian ev_126_first_42a81382:
 
-    # tMax 13 "Будет полноценно реализовано в v0.08..." nointeract
-    tMax 13 "Sarà completamente implementato nella v0.08... [nointeract]."
+    # Alice 01 "Всем новеньким зрителям ещё раз, привет! А те, кто уже бывал на моём канале, знают, что нужно делать. Посмотрим, что вам удастся сегодня увидеть..."
+    Alice 01 "A tutti i nuovi spettatori, ancora una volta, ciao! E quelli che sono già stati sul mio canale sanno cosa fare. Vediamo cosa riuscirete a vedere oggi..."
+
+# game/scripts/story_01/blog.rpy:1203
+translate italian ev_126_first_1392e621:
+
+    # tMax 11 "Так... А вот и моя сестрёнка! Сейчас посмотрим, что вообще происходит на этих её трансляциях..." nointeract
+    tMax 11 "Allora... Ecco mia sorella! Ora vediamo cosa sta succedendo nelle sue trasmissioni..." nointeract
+
+# game/scripts/story_01/blog.rpy:1209
+translate italian ev_126_first_58c1b0e6:
+
+    # Alice 12 "Скромненько, ребята. Давайте поактивнее, чтобы мне не пришлось сидеть без дела!"
+    Alice 12 "Un po' modesto, ragazzi. Su, fatevi sentire un po' di più, così non dovrò restare con le mani in mano!"
+
+# game/scripts/story_01/blog.rpy:1210
+translate italian ev_126_first_1f7a39b4:
+
+    # tMax 13 "Хм... А у неё в составе шоу есть довольно интересные позиции. Целых $6 собирают на то, чтобы она просто красиво позировала? Таким меня уже не соблазнить..."
+    tMax 13 "\"Hmm... Nel suo spettacolo ci sono posizioni piuttosto interessanti. Raccolgono ben $6 solo perché lei posa in modo elegante? Con me non funziona più così facilmente..."
+
+# game/scripts/story_01/blog.rpy:1214
+translate italian ev_126_first_e03c1eb7:
+
+    # Alice 02 "Спасибо, ребята! Теперь моя очередь вас порадовать. Любуйтесь..."
+    Alice 02 "Grazie, ragazzi! Ora tocca a me farvi felici. Ammirate..."
+
+# game/scripts/story_01/blog.rpy:1220
+translate italian ev_126_first_4e4bfdf2:
+
+    # Alice 04 "Меня же хорошо видно? А то мало ли, я тут позирую для вас напрасно..."
+    Alice 04 "Mi si vede bene? Non si sa mai, magari sto posando per voi inutilmente..."
+
+# game/scripts/story_01/blog.rpy:1221
+translate italian ev_126_first_76c67566:
+
+    # tMax 04 "Этим я могу любоваться и вживую каждый день. Порой на Алисе даже не всё из одежды есть... Но тут всё так спокойно, никаких угроз..."
+    tMax 04 "Posso ammirarlo dal vivo ogni giorno. A volte Alice non ha nemmeno tutto il necessario in termini di vestiti... Ma qui è tutto così tranquillo, senza alcuna minaccia..."
+
+# game/scripts/story_01/blog.rpy:1225
+translate italian ev_126_first_3f9148f8:
+
+    # Alice 03 "Ну, как вам? Надеюсь, у меня получилось покрасоваться перед вами так, чтобы вы захотели увидеть что-то ещё."
+    Alice 03 "Allora, che ve ne pare? Spero di essere riuscita a mettermi in mostra davanti a voi in modo che desideriate vedere qualcos'altro."
+
+# game/scripts/story_01/blog.rpy:1226
+translate italian ev_126_first_e540bb64:
+
+    # tMax 11 "Интересно, а что там за следующая позиция с леденцом?"
+    tMax 11 "Interessante, e qual è la prossima posizione con il lecca-lecca?"
+
+# game/scripts/story_01/blog.rpy:1232
+translate italian ev_126_first_9ffb67c0:
+
+    # Alice 02 "Сейчас у нас с вами на очереди то, чем я стараюсь не злоупотреблять в свободное от трансляций время. Самое сладенькое оставляю специально для вас..."
+    Alice 02 "Ora abbiamo in programma qualcosa che cerco di non esagerare nel tempo libero dalle trasmissioni. Lascio il meglio, il più dolce, appositamente per voi..."
+
+# game/scripts/story_01/blog.rpy:1234
+translate italian ev_126_first_035c117d:
+
+    # tMax 06 "Ах ты развратница такая! Наверняка будет эротично облизывать и сосать леденец. Любопытно будет посмотреть..." nointeract
+    tMax 06 "Sei una ragazza così birichina! Sono sicuro che leccherà e succhierà eroticamente il lecca-lecca. Sarò curioso di vedere..." nointeract
+
+# game/scripts/story_01/blog.rpy:1240
+translate italian ev_126_first_ecb6577d:
+
+    # Alice 15 "Что же вы такие сегодня неактивные? Я ведь так и заскучать могу."
+    Alice 15 "Perché siete così inattivi oggi? Potrei annoiarmi."
+
+# game/scripts/story_01/blog.rpy:1241
+translate italian ev_126_first_fbce69dc:
+
+    # tMax 15 "Так, погодите... Этого мало! Подкиньте ещё деньжат моей сестрёнке, а то я уже настроился посмотреть, как она будет наслаждаться леденцом."
+    tMax 15 "\"Ma aspettate... Non basta! Date ancora un po' di soldi a mia sorellina, ormai mi sono preparato a vedere come si gode il lecca-lecca."
+
+# game/scripts/story_01/blog.rpy:1245
+translate italian ev_126_first_08959ea7:
+
+    # Alice 11 "Хм... Сегодня без сладенького? Ладно, буду считать, что вы так заботитесь о моей фигуре."
+    Alice 11 "Hm... Niente dolcetti oggi? Va bene, considererò che vi state prendendo cura della mia linea."
+
+# game/scripts/story_01/blog.rpy:1249
+translate italian ev_126_first_c351be6e:
+
+    # tMax 16 "Вот кто так делает?! Жадины! Ладно, надеюсь, я ещё узнаю, на что способен ротик Алисы..."
+    tMax 16 "Chi lo fa? Avidi bastardi! Beh, spero di scoprire cosa può fare la bocca di Alice..."
+
+# game/scripts/story_01/blog.rpy:1260
+translate italian ev_126_first_8445b4c2:
+
+    # Alice 01 "Как думаете, ребята... Может, мне пора переодеться во что-нибудь другое? Выбирайте, что вам больше всего хотелось бы на мне увидеть... Хотя, вдруг вас всё устраивает?"
+    Alice 01 "Cosa ne pensate? Forse è ora che mi cambio di abito. Qualunque cosa vi piaccia di più su di me... Anche se forse a voi sta bene così?"
+
+# game/scripts/story_01/blog.rpy:1262
+translate italian ev_126_first_ae8a785c:
+
+    # tMax 02 "Кажется, сестрёнку я видел уже во всём, что у неё только есть из одежды. Хотя, если речь о том тёмном нижнем белье, которое я ей подарил, то я однозначно ЗА смену одежды..." nointeract
+    tMax 02 "Credo di aver già visto mia sorella con tutto quello che indossa. Anche se, se stiamo parlando della biancheria intima scura che le ho regalato, sono decisamente a favore di un cambio di vestiti..." nointeract
+
+# game/scripts/story_01/blog.rpy:1270
+translate italian ev_126_first_343d4e4b:
+
+    # Alice 03 "А знаете, вы у меня неплохо сегодня справляетесь. Такая активность!"
+    Alice 03 "\"E sapete, oggi ve la state cavando davvero bene. Che attività!"
+
+# game/scripts/story_01/blog.rpy:1271
+translate italian ev_126_first_f0618dc7:
+
+    # tMax 13 "Получается, если суммарно наберётся $14, то она сменит одежду на ту, на которую пришлось больше денег? Похоже на то..."
+    tMax 13 "\"Quindi, se si raccoglieranno in totale $14, lei cambierà vestito con quello per cui sono stati dati più soldi? Sembra di sì..."
+
+# game/scripts/story_01/blog.rpy:1276
+translate italian ev_126_first_3d14beef:
+
+    # Alice 00 "Ну, что... Получается, я останусь в том, что на мне сейчас надето."
+    Alice 00 "\"Allora... Quindi rimarrò con quello che indosso adesso."
+
+# game/scripts/story_01/blog.rpy:1280
+translate italian ev_126_first_23d22f27:
+
+    # tMax 01 "Ха! Всего-то $1 не хватило. Правда, во что бы из этого она не переоделась, всё равно самое интересное останется скрыто одеждой."
+    tMax 01 "Ah! Solo $1 scarso. Ma qualunque cosa indossi, la parte migliore sarà comunque nascosta dai vestiti."
+
+# game/scripts/story_01/blog.rpy:1286
+translate italian ev_126_first_56f5085a:
+
+    # Alice 02 "Вот мы уже и до моей груди добрались. Что скажете, самое время её немного поласкать? Вы же наверняка этого и ждёте, да?"
+    Alice 02 "Ora arriviamo al mio seno. Che ne dici, è il momento di accarezzarle un po'? Scommetto che non vedi l'ora, vero?"
+
+# game/scripts/story_01/blog.rpy:1288
+translate italian ev_126_first_0ccc46a5:
+
+    # tMax 05 "Прямо даже поласкать?! Хотелось бы, конечно, чтобы её сиськи ласкали мои руки, но и просто посмотреть, как она сама это делает я очень даже не против..." nointeract
+    tMax 05 "Tipo accarezzarle? Vorrei che le sue tette fossero accarezzate dalle mie mani, ma non mi dispiace guardarle mentre lo fa da sola..." nointeract
+
+# game/scripts/story_01/blog.rpy:1294
+translate italian ev_126_first_abb27ff7:
+
+    # Alice 03 "А неплохо вы у меня сегодня справляетесь! Это радует."
+    Alice 03 "Oggi ve la siete cavata piuttosto bene! Questo mi fa piacere."
+
+# game/scripts/story_01/blog.rpy:1295
+translate italian ev_126_first_db58fc64:
+
+    # tMax 14 "Блин, да докиньте ей кто-нибудь $5, срочно! Речь же о сиськах всё-таки идёт!!!"
+    tMax 14 "Accidenti, qualcuno le dia $5, subito! Si tratta di tette, dopotutto!!!"
+
+# game/scripts/story_01/blog.rpy:1299
+translate italian ev_126_first_28864e75:
+
+    # Alice 04 "Конечно, ждёте... Нельзя же оставлять такие сисечки без внимания, правда ведь?"
+    Alice 04 "Certo che aspettate... Non si possono lasciare tette così senza attenzione, vero?"
+
+# game/scripts/story_01/blog.rpy:1307
+translate italian ev_126_first_e8d0d598:
+
+    # Alice 07 "Ухх, ребята... До чего же вам, наверное, приятно тискать женскую грудь, если уж даже мне нравится делать это самой!"
+    Alice 07 "Uhh, ragazzi... Dev'essere davvero piacevole per voi stringere il seno di una donna, se piace persino a me farlo da sola!"
+
+# game/scripts/story_01/blog.rpy:1308
+translate italian ev_126_first_4e6f9498:
+
+    # tMax 06 "Да, сестрёнка! Давай же, засвети свои сосочки скорее..."
+    tMax 06 "Sì, sorellina! Dai, fai vedere presto i tuoi capezzoli..."
+
+# game/scripts/story_01/blog.rpy:1312
+translate italian ev_126_first_862a2b71:
+
+    # Alice 06 "Ммм... Честно говоря, я уже так завелась, что еле сдерживаюсь, чтобы не запустить свои руки кое-куда пониже! Надеюсь, вы остались довольны этим..."
+    Alice 06 "Mmm... A dire il vero, mi sono già eccitata così tanto che mi trattengo a stento dal portare le mani laggiù! Spero che siate rimasti soddisfatti di questo..."
+
+# game/scripts/story_01/blog.rpy:1313
+translate italian ev_126_first_780688a7:
+
+    # tMax 16 "Эй! И всё что ли??? Я то думал... Хотя, это же Алиса. С моей стороны было глупо думать, что она тут оголит больше, чем уже есть."
+    tMax 16 "Ehi! È tutto qui??? Pensavo... Anche se, questa è Alice. Da parte mia è stato stupido pensare che si sarebbe spogliata più di quanto abbia già fatto."
+
+# game/scripts/story_01/blog.rpy:1320
+translate italian ev_126_first_2e79a23d:
+
+    # Alice 01 "Ну, а что на счёт моей попки? Хотите, чтобы я повернулась или вам хватило того, что вы уже видели, когда я позировала?"
+    Alice 01 "E che dire del mio sedere? Volete che mi giri o vi basta quello che avete già visto quando ho posato?"
+
+# game/scripts/story_01/blog.rpy:1322
+translate italian ev_126_first_35cc0ab2:
+
+    # tMax 03 "На твою попку, Алиса, мне никогда не надоест смотреть! Порой хочется даже шлёпнуть по ней хорошенько..." nointeract
+    tMax 03 "Non mi stancherò mai di guardare il tuo sedere, Alice! A volte ho persino voglia di sculacciarlo per bene..." nointeract
+
+# game/scripts/story_01/blog.rpy:1328
+translate italian ev_126_first_58c1b0e6_1:
+
+    # Alice 12 "Скромненько, ребята. Давайте поактивнее, чтобы мне не пришлось сидеть без дела!"
+    Alice 12 "Un po' modesto, ragazzi. Su, fatevi sentire un po' di più, così non dovrò restare con le mani in mano!"
+
+# game/scripts/story_01/blog.rpy:1329
+translate italian ev_126_first_c5cee271:
+
+    # tMax 12 "Ещё $10 надо. Я не стал платёжную информацию вводить, когда регистрировался на этом сайте, а вот сейчас вполне можно было бы и поддержать Алису парой $."
+    tMax 12 "Servono altri $10. Non ho inserito i dati di pagamento quando mi sono registrato su questo sito, ma ora potrei benissimo supportare Alice con un paio di $."
+
+# game/scripts/story_01/blog.rpy:1333
+translate italian ev_126_first_d13c6033:
+
+    # Alice 02 "Ну, нет так нет, ребята. Эта трансляция подходит к концу. Спасибо всем, кто поддержал меня. Скоро увидимся снова!"
+    Alice 02 "Beh, se non è così, non è così, ragazzi. Questa trasmissione sta per finire. Grazie a tutti coloro che mi hanno supportato. Ci rivedremo presto!"
+
+# game/scripts/story_01/blog.rpy:1334
+translate italian ev_126_first_be753d68:
+
+    # tMax 13 "Не понял, а что там на счёт последнего пункта шоу? Что за приватная трансляция?"
+    tMax 13 "Non ho capito, e che dire dell'ultimo punto dello spettacolo? Cos'è una trasmissione privata?"
+
+# game/scripts/story_01/blog.rpy:1342
+translate italian ev_126_first_50563caf:
+
+    # Alice 02 "Итак, посмотрим, сколько сегодня зрителей смогут побороться за попадание на мою приватную трансляцию... Напоминаю, для этого вам нужно было либо совершить три взноса в течение моего шоу, либо сумма ваших взносов должна быть минимум $15."
+    Alice 02 "Allora, vediamo quanti spettatori di oggi riusciranno a competere per l'accesso alla mia trasmissione privata... Vi ricordo che per farlo, dovete aver effettuato tre donazioni durante il mio spettacolo, oppure l'ammontare delle vostre donazioni deve essere di almeno $15."
+
+# game/scripts/story_01/blog.rpy:1344
+translate italian ev_126_first_69b780f5:
+
+    # tMax 11 "Интересно, что там будет в этом привате? Если что-то откровеннее, чем было на общей трансляции, то я определённо хочу туда попасть!" nointeract
+    tMax 11 "Mi chiedo cosa ci sarà in quella privata? Se c'è qualcosa di più esplicito di quello che c'era nella trasmissione pubblica, allora voglio assolutamente andarci![nointeract]"
+
+# game/scripts/story_01/blog.rpy:1353
+translate italian ev_126_first_b8f6154e:
+
+    # Alice 03 "Ага, вот и сами претенденты! Если кто-то из вас заинтересован в моей приватной трансляции, то для вас конкурс... Первый взнос от $10 до $30. И учтите, кто внесёт меньше остальных - выбывает из списка претендентов."
+    Alice 03 "Ah, ecco i candidati! Se qualcuno di voi è interessato alla mia trasmissione privata, allora c'è un concorso per voi... Prima donazione da $10 a $30. E tenete presente che chi dona meno degli altri viene escluso dalla lista dei candidati."
+
+# game/scripts/story_01/blog.rpy:1355
+translate italian ev_126_first_8af2ecc6:
+
+    # tMax 12 "Первый? Аж несколько взносов будет? Даже не знаю... Пожалуй, внести платёжную информацию всё же будет не лишним. Поддержу немного сестрёнку в её начинаниях." nointeract
+    tMax 12 "La prima? Ci saranno diverse donazioni? Non lo so... Forse inserire i dati di pagamento non sarebbe una cattiva idea. Supporterò un po' la mia sorellina nei suoi inizi." nointeract
+
+# game/scripts/story_01/blog.rpy:1366
+translate italian ev_126_payment_48a60649:
+
+    # tMax 00 "Сейчас прикреплю свой банковский счёт к профилю на «MyCams», чтобы была возможность совершать взносы на трансляциях Алисы..."
+    tMax 00 "Ora collegherò il mio conto bancario al mio profilo su «MyCams», così potrò fare donazioni alle trasmissioni di Alice..."
+
+# game/scripts/story_01/blog.rpy:1368
+translate italian ev_126_payment_68c95643:
+
+    # tMax 01 "Готово! Теперь можно поддержать сестрёнку как во время общей трансляции, так и во время привата. Хотя, я даже не знаю, что она там делает. Вот это и надо будет выяснить..." nointeract
+    tMax 01 "Fatto! Ora posso supportare la mia sorellina sia durante la trasmissione pubblica che durante quella privata. Anche se, non so nemmeno cosa faccia lì. Proprio questo dovrò scoprire..." nointeract
+
+# game/scripts/story_01/blog.rpy:1385
+translate italian ev_126_part_1_42a81382:
+
+    # Alice 01 "Всем новеньким зрителям ещё раз, привет! А те, кто уже бывал на моём канале, знают, что нужно делать. Посмотрим, что вам удастся сегодня увидеть..."
+    Alice 01 "A tutti i nuovi spettatori, ancora una volta, ciao! E quelli che sono già stati sul mio canale sanno cosa fare. Vediamo cosa riuscirete a vedere oggi..."
+
+# game/scripts/story_01/blog.rpy:1387
+translate italian ev_126_part_1_8c37a910:
+
+    # tMax 11 "Так... Вот и моя сестрёнка! Ничего интересного я не пропустил, ещё всё только начинается..." nointeract
+    tMax 11 "Bene... Ecco la mia sorellina! Non mi sono perso niente d'interessante, è appena iniziato tutto..." nointeract
+
+# game/scripts/story_01/blog.rpy:1393
+translate italian ev_126_part_1_73c7b05b:
+
+    # Alice 15 "Какие-то вы у меня сегодня неактивные. Я ведь знаю, что вы можете, если захотите!"
+    Alice 15 "Oggi siete un po' inattivi. So che potete fare di meglio, se volete!"
+
+# game/scripts/story_01/blog.rpy:1395
+translate italian ev_126_part_1_58c1b0e6:
+
+    # Alice 12 "Скромненько, ребята. Давайте поактивнее, чтобы мне не пришлось сидеть без дела!"
+    Alice 12 "Un po' modesto, ragazzi. Su, fatevi sentire un po' di più, così non dovrò restare con le mani in mano!"
+
+# game/scripts/story_01/blog.rpy:1397
+translate italian ev_126_part_1_343d4e4b:
+
+    # Alice 03 "А знаете, вы у меня неплохо сегодня справляетесь. Такая активность!"
+    Alice 03 "\"E sapete, oggi ve la state cavando davvero bene. Che attività!"
+
+# game/scripts/story_01/blog.rpy:1400
+translate italian ev_126_part_1_75967da8:
+
+    # tMax 06 "Как это классно, когда мне не нужно тратиться, чтобы Алиса исполняла цели своего шоу..."
+    tMax 06 "Com'è bello quando non devo spendere soldi perché Alice raggiunga gli obiettivi del suo spettacolo..."
+
+# game/scripts/story_01/blog.rpy:1404
+translate italian ev_126_part_1_11b3c17f:
+
+    # tMax 12 "Ну, что... Тоже поучаствовать или будь что будет?" nointeract
+    tMax 12 "Beh, che faccio... Partecipo anch'io o lascio che vada come deve andare?" nointeract
+
+# game/scripts/story_01/blog.rpy:1411
+translate italian ev_126_part_1_73ffdf90:
+
+    # tMax 12 "Помог бы, да не могу. Вся надежда на остальных твоих зрителей, сестрёнка..."
+    tMax 12 "Ti aiuterei, ma non posso. Tutta la speranza è riposta negli altri tuoi spettatori, sorellina..."
+
+# game/scripts/story_01/blog.rpy:1417
+translate italian ev_126_part_1_e03c1eb7:
+
+    # Alice 02 "Спасибо, ребята! Теперь моя очередь вас порадовать. Любуйтесь..."
+    Alice 02 "Grazie, ragazzi! Ora tocca a me farvi felici. Ammirate..."
+
+# game/scripts/story_01/blog.rpy:1423
+translate italian ev_126_part_1_4e4bfdf2:
+
+    # Alice 04 "Меня же хорошо видно? А то мало ли, я тут позирую для вас напрасно..."
+    Alice 04 "Mi si vede bene? Non si sa mai, magari sto posando per voi inutilmente..."
+
+# game/scripts/story_01/blog.rpy:1424
+translate italian ev_126_part_1_76c67566:
+
+    # tMax 04 "Этим я могу любоваться и вживую каждый день. Порой на Алисе даже не всё из одежды есть... Но тут всё так спокойно, никаких угроз..."
+    tMax 04 "Posso ammirarlo dal vivo ogni giorno. A volte Alice non ha nemmeno tutto il necessario in termini di vestiti... Ma qui è tutto così tranquillo, senza alcuna minaccia..."
+
+# game/scripts/story_01/blog.rpy:1428
+translate italian ev_126_part_1_3f9148f8:
+
+    # Alice 03 "Ну, как вам? Надеюсь, у меня получилось покрасоваться перед вами так, чтобы вы захотели увидеть что-то ещё."
+    Alice 03 "Allora, che ve ne pare? Spero di essere riuscita a mettermi in mostra davanti a voi in modo che desideriate vedere qualcos'altro."
+
+# game/scripts/story_01/blog.rpy:1429
+translate italian ev_126_part_1_510a41cb:
+
+    # tMax 01 "Да, Алиса! Вряд ли твоя попка, тем более под таким ракурсом, может кого-то оставить равнодушным."
+    tMax 01 "Sì, Alice! Difficilmente il tuo sedere, soprattutto da questa angolazione, può lasciare qualcuno indifferente."
+
+# game/scripts/story_01/blog.rpy:1432
+translate italian ev_126_part_1_7ee04bd6:
+
+    # Alice 11 "Эх, неужели вам совсем не хочется посмотреть, как я буду перед вами красоваться? Или вы с нетерпением ждёте то, что будет дальше?"
+    Alice 11 "Ehi, davvero non avete voglia di vedermi pavoneggiarmi davanti a voi? O state aspettando con impazienza quello che succederà dopo?"
+
+# game/scripts/story_01/blog.rpy:1434
+translate italian ev_126_part_1_6fb1c233:
+
+    # tMax 01 "Может быть, Алиса... Может быть."
+    tMax 01 "Forse, Alice... Forse."
+
+# game/scripts/story_01/blog.rpy:1442
+translate italian ev_126_part_1_9ffb67c0:
+
+    # Alice 02 "Сейчас у нас с вами на очереди то, чем я стараюсь не злоупотреблять в свободное от трансляций время. Самое сладенькое оставляю специально для вас..."
+    Alice 02 "Ora abbiamo in programma qualcosa che cerco di non esagerare nel tempo libero dalle trasmissioni. Lascio il meglio, il più dolce, appositamente per voi..."
+
+# game/scripts/story_01/blog.rpy:1444
+translate italian ev_126_part_1_7333b791:
+
+    # tMax 03 "Ага, у меня под ноутбуком есть кое-что, что я бы с огромным удовольствием предложил тебе вместо леденца..." nointeract
+    tMax 03 "Ah, sotto il mio portatile ho qualcosa che ti offrirei con grande piacere al posto di una caramella..." nointeract
+
+# game/scripts/story_01/blog.rpy:1450
+translate italian ev_126_part_1_ecb6577d:
+
+    # Alice 15 "Что же вы такие сегодня неактивные? Я ведь так и заскучать могу."
+    Alice 15 "Perché siete così inattivi oggi? Potrei annoiarmi."
+
+# game/scripts/story_01/blog.rpy:1452
+translate italian ev_126_part_1_6b266276:
+
+    # Alice 12 "Не скромничайте так, ребята! Вы же можете быть поактивнее, насколько я помню."
+    Alice 12 "Non siate così timidi, ragazzi! Potete essere più attivi, per quanto mi ricordo."
+
+# game/scripts/story_01/blog.rpy:1454
+translate italian ev_126_part_1_abb27ff7:
+
+    # Alice 03 "А неплохо вы у меня сегодня справляетесь! Это радует."
+    Alice 03 "Oggi ve la siete cavata piuttosto bene! Questo mi fa piacere."
+
+# game/scripts/story_01/blog.rpy:1457
+translate italian ev_126_part_1_75967da8_1:
+
+    # tMax 06 "Как это классно, когда мне не нужно тратиться, чтобы Алиса исполняла цели своего шоу..."
+    tMax 06 "Com'è bello quando non devo spendere soldi perché Alice raggiunga gli obiettivi del suo spettacolo..."
+
+# game/scripts/story_01/blog.rpy:1461
+translate italian ev_126_part_1_1c1b12b5:
+
+    # tMax 13 "Так, погодите... Может, мне попробовать спасти ситуацию или не стоит?" nointeract
+    tMax 13 "Aspettate... Forse dovrei provare a salvare la situazione o non ne vale la pena?" nointeract
+
+# game/scripts/story_01/blog.rpy:1469
+translate italian ev_126_part_1_7407b4b2:
+
+    # tMax 13 "Возможно, зрители ещё немного расщедрятся и цель сборов всё-таки будет достигнута..."
+    tMax 13 "Forse gli spettatori si faranno un po' più generosi e l'obiettivo della raccolta fondi verrà comunque raggiunto..."
+
+# game/scripts/story_01/blog.rpy:1475
+translate italian ev_126_part_1_ede101c0:
+
+    # Alice 04 "Так, ребята, я догадываюсь, что вы сейчас будете представлять вместо леденца... Но что поделать, пора наслаждаться..."
+    Alice 04 "Bene, ragazzi, immagino cosa state immaginando al posto della caramella... Ma che ci posso fare, è ora di divertirsi..."
+
+# game/scripts/story_01/blog.rpy:1481
+translate italian ev_126_part_1_1063a698:
+
+    # Alice 06 "Ммм... Я так люблю чувствовать, как его сладость проникает сквозь мои губы прямо в ротик! Так вкусно..."
+    Alice 06 "Mmm... Mi piace così tanto sentire la sua dolcezza penetrare dalle mie labbra direttamente nella mia bocca! Così buono..."
+
+# game/scripts/story_01/blog.rpy:1482
+translate italian ev_126_part_1_90eca58a:
+
+    # tMax 04 "Если Алиса и с членом так же чувственно стала бы играться своим язычком, то у меня определённо БОЛЬШИЕ планы на её ротик!"
+    tMax 04 "Se Alice giocasse con la sua lingua con la stessa sensualità anche con un cazzo, avrei sicuramente GRANDI piani per la sua bocca!"
+
+# game/scripts/story_01/blog.rpy:1489
+translate italian ev_126_part_1_42a120a3:
+
+    # tMax 05 "Ухх... Вот это Алиса, конечно, шалунья! Насмотришься такого исполнения от сестрёнки, а потом ещё нужно будет без ухмылки ей в глаза смотреть." nointeract
+    tMax 05 "Uhh... Questa Alice è davvero una birichina! A forza di vedere queste performance dalla mia sorellina, poi dovrò guardarla negli occhi senza sorridere." nointeract
+
+# game/scripts/story_01/blog.rpy:1500
+translate italian ev_126_part_1_08959ea7:
+
+    # Alice 11 "Хм... Сегодня без сладенького? Ладно, буду считать, что вы так заботитесь о моей фигуре."
+    Alice 11 "Hm... Niente dolcetti oggi? Va bene, considererò che vi state prendendo cura della mia linea."
+
+# game/scripts/story_01/blog.rpy:1503
+translate italian ev_126_part_1_2c4c4487:
+
+    # tMax 02 "Похоже, у нас всех просто нет денег, сестрёнка. Или мы жадные." nointeract
+    tMax 02 "Sembra che siamo tutti senza soldi, sorellina. O siamo avidi." nointeract
+
+# game/scripts/story_01/blog.rpy:1523
+translate italian ev_126_part_2_8445b4c2:
+
+    # Alice 01 "Как думаете, ребята... Может, мне пора переодеться во что-нибудь другое? Выбирайте, что вам больше всего хотелось бы на мне увидеть... Хотя, вдруг вас всё устраивает?"
+    Alice 01 "Cosa ne pensate? Forse è ora che mi cambio di abito. Qualunque cosa vi piaccia di più su di me... Anche se forse a voi sta bene così?"
+
+# game/scripts/story_01/blog.rpy:1525
+translate italian ev_126_part_2_23c2da60:
+
+    # tMax 01 "Больше всего хотелось бы увидеть Алису в чём-нибудь развратном или вовсе голенькую, но увы. Пока приходится радоваться тому, что есть..." nointeract
+    tMax 01 "Mi piacerebbe soprattutto vedere Alice in qualcosa di lascivo o completamente nuda, ma ahimè. Per ora dobbiamo accontentarci di quello che c'è..." nointeract
+
+# game/scripts/story_01/blog.rpy:1532
+translate italian ev_126_part_2_73c7b05b:
+
+    # Alice 15 "Какие-то вы у меня сегодня неактивные. Я ведь знаю, что вы можете, если захотите!"
+    Alice 15 "Oggi siete un po' inattivi. So che potete fare di meglio, se volete!"
+
+# game/scripts/story_01/blog.rpy:1534
+translate italian ev_126_part_2_58c1b0e6:
+
+    # Alice 12 "Скромненько, ребята. Давайте поактивнее, чтобы мне не пришлось сидеть без дела!"
+    Alice 12 "Un po' modesto, ragazzi. Su, fatevi sentire un po' di più, così non dovrò restare con le mani in mano!"
+
+# game/scripts/story_01/blog.rpy:1536
+translate italian ev_126_part_2_343d4e4b:
+
+    # Alice 03 "А знаете, вы у меня неплохо сегодня справляетесь. Такая активность!"
+    Alice 03 "\"E sapete, oggi ve la state cavando davvero bene. Che attività!"
+
+# game/scripts/story_01/blog.rpy:1539
+translate italian ev_126_part_2_75967da8:
+
+    # tMax 06 "Как это классно, когда мне не нужно тратиться, чтобы Алиса исполняла цели своего шоу..."
+    tMax 06 "Com'è bello quando non devo spendere soldi perché Alice raggiunga gli obiettivi del suo spettacolo..."
+
+# game/scripts/story_01/blog.rpy:1543
+translate italian ev_126_part_2_11b3c17f:
+
+    # tMax 12 "Ну, что... Тоже поучаствовать или будь что будет?" nointeract
+    tMax 12 "Beh, che faccio... Partecipo anch'io o lascio che vada come deve andare?" nointeract
+
+# game/scripts/story_01/blog.rpy:1555
+translate italian ev_126_part_2_73ffdf90:
+
+    # tMax 12 "Помог бы, да не могу. Вся надежда на остальных твоих зрителей, сестрёнка..."
+    tMax 12 "Ti aiuterei, ma non posso. Tutta la speranza è riposta negli altri tuoi spettatori, sorellina..."
+
+# game/scripts/story_01/blog.rpy:1562
+translate italian ev_126_part_2_736d03a7:
+
+    # Alice 02 "Значит, вот в чём вы больше всего хотите меня сегодня видеть... Сейчас переоденусь..."
+    Alice 02 "Quindi è così che volete vedermi di più oggi... Ora mi cambio..."
+
+# game/scripts/story_01/blog.rpy:1569
+translate italian ev_126_part_2_469a82c3:
+
+    # Alice 03 "Ребята, только не подглядывать, хорошо? Я отойду, но быстро вернусь, даже соскучиться не успеете." nointeract
+    Alice 03 "Ragazzi, non sbirciate, ok? Mi allontano, ma torno subito, non farete nemmeno in tempo a sentire la mia mancanza." nointeract
+
+# game/scripts/story_01/blog.rpy:1577
+translate italian ev_126_part_2_a24d015d:
+
+    # Alice 04 "А вот и я! Как вам? Довольны тем, во что вы меня переодели? Немного покрасуюсь перед вами, чтобы вы точно остались довольны этим выбором..."
+    Alice 04 "Eccomi qui! Come vi sembro? Siete contenti di come mi avete fatto cambiare? Mi pavoneggerò un po' davanti a voi, così sarete sicuri di essere soddisfatti di questa scelta..."
+
+# game/scripts/story_01/blog.rpy:1581
+translate italian ev_126_part_2_556b3e1d:
+
+    # tMax 04 "Жаль, что нельзя задонатить на то, чтобы увидеть, как она переодевается. Вот за таким я готов наблюдать не моргая."
+    tMax 04 "Peccato che non si possa donare per vederla mentre si cambia. Guarderei una cosa del genere senza battere ciglio."
+
+# game/scripts/story_01/blog.rpy:1585
+translate italian ev_126_part_2_3d14beef:
+
+    # Alice 00 "Ну, что... Получается, я останусь в том, что на мне сейчас надето."
+    Alice 00 "\"Allora... Quindi rimarrò con quello che indosso adesso."
+
+# game/scripts/story_01/blog.rpy:1587
+translate italian ev_126_part_2_16429c2a:
+
+    # tMax 11 "Ты и в этом неплохо смотришься. Что ни выбери, всё равно самое интересное останется скрыто одеждой."
+    tMax 11 "Stai bene anche in questo. Qualunque cosa tu scelga, la cosa più interessante rimarrà comunque nascosta dai vestiti."
+
+# game/scripts/story_01/blog.rpy:1595
+translate italian ev_126_part_2_56f5085a:
+
+    # Alice 02 "Вот мы уже и до моей груди добрались. Что скажете, самое время её немного поласкать? Вы же наверняка этого и ждёте, да?"
+    Alice 02 "Ora arriviamo al mio seno. Che ne dici, è il momento di accarezzarle un po'? Scommetto che non vedi l'ora, vero?"
+
+# game/scripts/story_01/blog.rpy:1597
+translate italian ev_126_part_2_6e31fc7c:
+
+    # tMax 02 "О да, сисечки я очень люблю! Хотелось бы, конечно, самому их потрогать, но..." nointeract
+    tMax 02 "Oh sì, adoro le tette! Mi piacerebbe toccarle di persona, certo, ma..." nointeract
+
+# game/scripts/story_01/blog.rpy:1603
+translate italian ev_126_part_2_ecb6577d:
+
+    # Alice 15 "Что же вы такие сегодня неактивные? Я ведь так и заскучать могу."
+    Alice 15 "Perché siete così inattivi oggi? Potrei annoiarmi."
+
+# game/scripts/story_01/blog.rpy:1605
+translate italian ev_126_part_2_6b266276:
+
+    # Alice 12 "Не скромничайте так, ребята! Вы же можете быть поактивнее, насколько я помню."
+    Alice 12 "Non siate così timidi, ragazzi! Potete essere più attivi, per quanto mi ricordo."
+
+# game/scripts/story_01/blog.rpy:1607
+translate italian ev_126_part_2_abb27ff7:
+
+    # Alice 03 "А неплохо вы у меня сегодня справляетесь! Это радует."
+    Alice 03 "Oggi ve la siete cavata piuttosto bene! Questo mi fa piacere."
+
+# game/scripts/story_01/blog.rpy:1610
+translate italian ev_126_part_2_75967da8_1:
+
+    # tMax 06 "Как это классно, когда мне не нужно тратиться, чтобы Алиса исполняла цели своего шоу..."
+    tMax 06 "Com'è bello quando non devo spendere soldi perché Alice raggiunga gli obiettivi del suo spettacolo..."
+
+# game/scripts/story_01/blog.rpy:1614
+translate italian ev_126_part_2_1c1b12b5:
+
+    # tMax 13 "Так, погодите... Может, мне попробовать спасти ситуацию или не стоит?" nointeract
+    tMax 13 "Aspettate... Forse dovrei provare a salvare la situazione o non ne vale la pena?" nointeract
+
+# game/scripts/story_01/blog.rpy:1621
+translate italian ev_126_part_2_7407b4b2:
+
+    # tMax 13 "Возможно, зрители ещё немного расщедрятся и цель сборов всё-таки будет достигнута..."
+    tMax 13 "Forse gli spettatori si faranno un po' più generosi e l'obiettivo della raccolta fondi verrà comunque raggiunto..."
+
+# game/scripts/story_01/blog.rpy:1627
+translate italian ev_126_part_2_28864e75:
+
+    # Alice 04 "Конечно, ждёте... Нельзя же оставлять такие сисечки без внимания, правда ведь?"
+    Alice 04 "Certo che aspettate... Non si possono lasciare tette così senza attenzione, vero?"
+
+# game/scripts/story_01/blog.rpy:1633
+translate italian ev_126_part_2_e8d0d598:
+
+    # Alice 07 "Ухх, ребята... До чего же вам, наверное, приятно тискать женскую грудь, если уж даже мне нравится делать это самой!"
+    Alice 07 "Uhh, ragazzi... Dev'essere davvero piacevole per voi stringere il seno di una donna, se piace persino a me farlo da sola!"
+
+# game/scripts/story_01/blog.rpy:1634
+translate italian ev_126_part_2_5dda8596:
+
+    # tMax 16 "И при этом она ещё удивляется каждый раз, что в моей жизни даже дня не проходит без раздумий о том, как бы мне облапать её миленькие сисечки, да ещё и выжить при этом..."
+    tMax 16 "E si stupisce ancora ogni volta che nella mia vita non passa un giorno senza che pensi a come potrei palpare le sue graziose tette e sopravvivere allo stesso tempo..."
+
+# game/scripts/story_01/blog.rpy:1635
+translate italian ev_126_part_2_a00dd33e:
+
+    # tMax 13 "Наверное?! А член у меня привставал не от того, что я трогал её грудь, а просто так, да? Немного обидно, сестрёнка..."
+    tMax 13 "Forse?! E il mio membro non si è alzato perché le toccavo il seno, ma così, giusto? Un po' offensivo, sorellina..."
+
+# game/scripts/story_01/blog.rpy:1639
+translate italian ev_126_part_2_862a2b71:
+
+    # Alice 06 "Ммм... Честно говоря, я уже так завелась, что еле сдерживаюсь, чтобы не запустить свои руки кое-куда пониже! Надеюсь, вы остались довольны этим..."
+    Alice 06 "Mmm... A dire il vero, mi sono già eccitata così tanto che mi trattengo a stento dal portare le mani laggiù! Spero che siate rimasti soddisfatti di questo..."
+
+# game/scripts/story_01/blog.rpy:1641
+translate italian ev_126_part_2_113188a7:
+
+    # tMax 04 "Ты бы ещё сосочки полностью засветила и было бы супер! Как бы там ни было, но всё равно приятно за таким наблюдать." nointeract
+    tMax 04 "Se solo mostrassi anche i capezzoli completamente, sarebbe fantastico! Ad ogni modo, è comunque piacevole guardare." nointeract
+
+# game/scripts/story_01/blog.rpy:1649
+translate italian ev_126_part_2_20a57b9c:
+
+    # Alice 03 "Какие у меня сегодня стеснительные зрители! Или коварные? Ведь это ещё не всё..."
+    Alice 03 "Che spettatori timidi ho oggi! O forse astuti? Dopotutto, non è ancora finita..."
+
+# game/scripts/story_01/blog.rpy:1652
+translate italian ev_126_part_2_6f837d6b:
+
+    # tMax 11 "Не всех можно соблазнить сиськами, Алиса! Тем более, если они скрыты одеждой." nointeract
+    tMax 11 "Non tutti possono essere sedotti dalle tette, Alice! Soprattutto se sono nascoste dai vestiti." nointeract
+
+# game/scripts/story_01/blog.rpy:1666
+translate italian ev_126_part_3_2e79a23d:
+
+    # Alice 01 "Ну, а что на счёт моей попки? Хотите, чтобы я повернулась или вам хватило того, что вы уже видели, когда я позировала?"
+    Alice 01 "E che dire del mio sedere? Volete che mi giri o vi basta quello che avete già visto quando ho posato?"
+
+# game/scripts/story_01/blog.rpy:1668
+translate italian ev_126_part_3_35cc0ab2:
+
+    # tMax 03 "На твою попку, Алиса, мне никогда не надоест смотреть! Порой хочется даже шлёпнуть по ней хорошенько..." nointeract
+    tMax 03 "Non mi stancherò mai di guardare il tuo sedere, Alice! A volte ho persino voglia di sculacciarlo per bene..." nointeract
+
+# game/scripts/story_01/blog.rpy:1674
+translate italian ev_126_part_3_73c7b05b:
+
+    # Alice 15 "Какие-то вы у меня сегодня неактивные. Я ведь знаю, что вы можете, если захотите!"
+    Alice 15 "Oggi siete un po' inattivi. So che potete fare di meglio, se volete!"
+
+# game/scripts/story_01/blog.rpy:1676
+translate italian ev_126_part_3_58c1b0e6:
+
+    # Alice 12 "Скромненько, ребята. Давайте поактивнее, чтобы мне не пришлось сидеть без дела!"
+    Alice 12 "Un po' modesto, ragazzi. Su, fatevi sentire un po' di più, così non dovrò restare con le mani in mano!"
+
+# game/scripts/story_01/blog.rpy:1678
+translate italian ev_126_part_3_343d4e4b:
+
+    # Alice 03 "А знаете, вы у меня неплохо сегодня справляетесь. Такая активность!"
+    Alice 03 "\"E sapete, oggi ve la state cavando davvero bene. Che attività!"
+
+# game/scripts/story_01/blog.rpy:1681
+translate italian ev_126_part_3_75967da8:
+
+    # tMax 06 "Как это классно, когда мне не нужно тратиться, чтобы Алиса исполняла цели своего шоу..."
+    tMax 06 "Com'è bello quando non devo spendere soldi perché Alice raggiunga gli obiettivi del suo spettacolo..."
+
+# game/scripts/story_01/blog.rpy:1685
+translate italian ev_126_part_3_11b3c17f:
+
+    # tMax 12 "Ну, что... Тоже поучаствовать или будь что будет?" nointeract
+    tMax 12 "Beh, che faccio... Partecipo anch'io o lascio che vada come deve andare?" nointeract
+
+# game/scripts/story_01/blog.rpy:1692
+translate italian ev_126_part_3_73ffdf90:
+
+    # tMax 12 "Помог бы, да не могу. Вся надежда на остальных твоих зрителей, сестрёнка..."
+    tMax 12 "Ti aiuterei, ma non posso. Tutta la speranza è riposta negli altri tuoi spettatori, sorellina..."
+
+# game/scripts/story_01/blog.rpy:1698
+translate italian ev_126_part_3_8c192b29:
+
+    # Alice 02 "Ага, значит, не насмотрелись... Куда бы мне так присесть, чтобы вам было хорошо её видно? Кажется, знаю..."
+    Alice 02 "Ah, quindi non vi siete stancati di guardare... Dove potrei sedermi in modo che possiate vederlo bene? Credo di sapere..."
+
+# game/scripts/story_01/blog.rpy:1704
+translate italian ev_126_part_3_fe482af0:
+
+    # Alice 04 "Вот так должно быть хорошо, да ведь, ребята? Или хотите оказаться ещё поближе к моей попке?"
+    Alice 04 "Così dovrebbe andare bene, vero ragazzi? O volete essere ancora più vicini al mio sedere?"
+
+# game/scripts/story_01/blog.rpy:1705
+translate italian ev_126_part_3_27c44f3a:
+
+    # tMax 04 "Я хотел бы быть максимально близко к ней... Ещё лучше, чтобы она садилась не на стол, а на меня."
+    tMax 04 "Mi piacerebbe essere il più vicino possibile a lei... Meglio ancora se si sedesse non sul tavolo, ma su di me."
+
+# game/scripts/story_01/blog.rpy:1709
+translate italian ev_126_part_3_8447dcf6:
+
+    # Alice 06 "Со стула, наверное, вам будет меня видно ещё лучше... Похоже на то. Как вам? У кого-то из вас руки всё ещё на столе?"
+    Alice 06 "Dalla sedia, probabilmente mi vedrete ancora meglio... Sembra di sì. Come vi sembro? Qualcuno di voi ha ancora le mani sul tavolo?"
+
+# game/scripts/story_01/blog.rpy:1710
+translate italian ev_126_part_3_3a600252:
+
+    # tMax 06 "Чёрт, если бы не Лиза, то я бы уже во всю полировал свой штуцер! Ох, как же хочется засадить в эту упругую попку..."
+    tMax 06 "Accidenti, se non fosse per Lisa, mi sarei già pulito il fucile per bene! Oh, come vorrei infilzarlo in quel sedere sodo..."
+
+# game/scripts/story_01/blog.rpy:1714
+translate italian ev_126_part_3_d13c6033:
+
+    # Alice 02 "Ну, нет так нет, ребята. Эта трансляция подходит к концу. Спасибо всем, кто поддержал меня. Скоро увидимся снова!"
+    Alice 02 "Beh, se non è così, non è così, ragazzi. Questa trasmissione sta per finire. Grazie a tutti coloro che mi hanno supportato. Ci rivedremo presto!"
+
+# game/scripts/story_01/blog.rpy:1716
+translate italian ev_126_part_3_e3eab840:
+
+    # tMax 01 "Ещё бы! На одном этаже с тобой живём, сестрёнка, как тут не увидеться."
+    tMax 01 "Certo che sì! Viviamo nella stessa casa, sorellina, come potremmo non vederci."
+
+# game/scripts/story_01/blog.rpy:1724
+translate italian ev_126_part_3_90202b60:
+
+    # Alice 02 "Итак, посмотрим, сколько сегодня зрителей смогут побороться за попадание на мою приватную трансляцию... \nНапоминаю, для этого вам нужно было либо совершить три взноса в течение моего шоу, либо сумма ваших взносов должна быть минимум $[alice_stream.amount]."
+    Alice 02 "Allora, vediamo quanti spettatori di oggi riusciranno a competere per l'accesso alla mia trasmissione privata... Vi ricordo che per farlo, dovete aver effettuato tre donazioni durante il mio spettacolo, oppure l'ammontare delle vostre donazioni deve essere di almeno $[alice_stream.amount]."
+
+# game/scripts/story_01/blog.rpy:1726
+translate italian ev_126_part_3_b8144e43:
+
+    # tMax 11 "Это может быть ещё интереснее, ведь в привате можно попытаться выпросить у Алисы что-нибудь пооткровеннее, чем то, что было на общей трансляции." nointeract
+    tMax 11 "Potrebbe essere ancora più interessante, perché nel privato si può provare a chiedere ad Alice qualcosa di più esplicito di quello che c'era nella trasmissione pubblica." nointeract
+
+# game/scripts/story_01/blog.rpy:1733
+translate italian ev_126_part_3_117b8e5d:
+
+    # tMax 16 "Собственно, а чего я жду? Я же вообще никак не поддержал шоу Алисы." nointeract
+    tMax 16 "In realtà, cosa sto aspettando? Non ho affatto supportato lo spettacolo di Alice." nointeract
+
+# game/scripts/story_01/blog.rpy:1742
+translate italian ev_126_part_3_73a59ca9:
+
+    # tMax 14 "Эх, не стал я претендентом! Что тут сказать... Надо было быть активнее." nointeract
+    tMax 14 "Eh, non sono diventato un candidato! Che dire... Avrei dovuto essere più attivo." nointeract
+
+# game/scripts/story_01/blog.rpy:1752
+translate italian ev_126_part_3_b8f6154e:
+
+    # Alice 03 "Ага, вот и сами претенденты! Если кто-то из вас заинтересован в моей приватной трансляции, то для вас конкурс... Первый взнос от $10 до $30. И учтите, кто внесёт меньше остальных - выбывает из списка претендентов."
+    Alice 03 "Ah, ecco i candidati! Se qualcuno di voi è interessato alla mia trasmissione privata, allora c'è un concorso per voi... Prima donazione da $10 a $30. E tenete presente che chi dona meno degli altri viene escluso dalla lista dei candidati."
+
+# game/scripts/story_01/blog.rpy:1754
+translate italian ev_126_part_3_12b74914:
+
+    # tMax 01 "Отлично, в списке я пока есть, а это значит, что можно побороться за мою сестрёнку! А можно и не бороться..." nointeract
+    tMax 01 "Ottimo, sono ancora nella lista, e questo significa che posso competere per la mia sorellina! O forse no..." nointeract
+
+# game/scripts/story_01/blog.rpy:1766
+translate italian ev_126_part_3_4eef4a72:
+
+    # Alice 11 "Так, кое-кто у нас явно выбывает. {i}{b}[rv[0]]{/b}{/i}, уж извини, но ты явно не горишь большим желанием попасть ко мне на приватную трансляцию."
+    Alice 11 "Bene, qualcuno di noi è chiaramente fuori. {i}{b}[rv[0]]{/b}{/i}, mi dispiace, ma non sembri affatto desideroso di venire alla mia trasmissione privata."
+
+# game/scripts/story_01/blog.rpy:1768
+translate italian ev_126_part_3_772f9dfb:
+
+    # Alice 11 "Так, кое-кто у нас явно выбывает. {i}{b}[rv[0]]{/b}{/i} и {i}{b}[rv[1]]{/b}{/i}, уж извините, ребята, но вы явно не горите большим желанием попасть ко мне на приватную трансляцию."
+    Alice 11 "Bene, qualcuno di noi è chiaramente fuori. {i}{b}[rv[0]]{/b}{/i} e {i}{b}[rv[1]]{/b}{/i}, mi dispiace ragazzi, ma non sembrate affatto desiderosi di venire alla mia trasmissione privata."
+
+# game/scripts/story_01/blog.rpy:1776
+translate italian ev_126_part_3_4e65230e:
+
+    # tMax 14 "Вот блин, я не смог попасть в приват к Алисе! Зря пожадничал. В следующий раз надо будет не облажаться..." nointeract
+    tMax 14 "Accidenti, non sono riuscito ad andare nel privato di Alice! Ho fatto male a essere tirchio. La prossima volta dovrò fare meglio..." nointeract
+
+# game/scripts/story_01/blog.rpy:1781
+translate italian ev_126_part_3_362ea3f2:
+
+    # tMax 12 "Фух... Я всё ещё претендент, но меня обошли по взносам. Как бы в итоге не вылететь..."
+    tMax 12 "Uff... Sono ancora un candidato, ma mi hanno superato con le donazioni. Spero di non essere escluso alla fine..."
+
+# game/scripts/story_01/blog.rpy:1783
+translate italian ev_126_part_3_a1437a8f:
+
+    # tMax 02 "Ого! Да я лидер по взносам за приват с Алисой. Правда, вылететь я ещё могу..."
+    tMax 02 "Wow! Sono il leader delle donazioni per il privato con Alice. Certo, potrei ancora essere escluso..."
+
+# game/scripts/story_01/blog.rpy:1785
+translate italian ev_126_part_3_18f1a76b:
+
+    # tMax 13 "Во как! Не я один тут выбился в лидеры по взносам. Не вылететь бы теперь..."
+    tMax 13 "Wow! Non sono l'unico ad essere diventato il leader delle donazioni qui. Speriamo di non essere esclusi ora..."
+
+# game/scripts/story_01/blog.rpy:1789
+translate italian ev_126_part_3_71535bf7:
+
+    # Alice 04 "Давайте, ребята... Последний взнос и станет ясно, в чьей компании я проведу приватную трансляцию."
+    Alice 04 "Forza, ragazzi... L'ultima donazione e sarà chiaro con chi passerò la trasmissione privata."
+
+# game/scripts/story_01/blog.rpy:1791
+translate italian ev_126_part_3_9c5977ba:
+
+    # tMax 01 "Хорошо, что в отличие от остальных зрителей, я потом смогу стрясти с Алисы деньги благодаря её косякам или фобии..." nointeract
+    tMax 01 "Meno male che, a differenza degli altri spettatori, potrò poi estorcere dei soldi ad Alice grazie ai suoi errori o fobie..." nointeract
+
+# game/scripts/story_01/blog.rpy:1802
+translate italian ev_126_part_3_b9744ecd:
+
+    # Alice 02 "Так вот, значит, кто у нас больше всех остальных хочет со мной пообщаться... {i}{b}[nickname]{/b}{/i}, дай мне немного времени, я устроюсь на кровати. Жду тебя там..."
+    Alice 02 "Quindi, è questo chi vuole chiacchierare con me più di tutti gli altri... {i}{b}[nickname]{/b}{/i},, dammi un attimo, mi sistemo sul letto. Ti aspetto lì..."
+
+# game/scripts/story_01/blog.rpy:1810
+translate italian ev_126_part_3_4e65230e_1:
+
+    # tMax 14 "Вот блин, я не смог попасть в приват к Алисе! Зря пожадничал. В следующий раз надо будет не облажаться..." nointeract
+    tMax 14 "Accidenti, non sono riuscito ad andare nel privato di Alice! Ho fatto male a essere tirchio. La prossima volta dovrò fare meglio..." nointeract
+
+# game/scripts/story_01/blog.rpy:1817
+translate italian ev_126_part_3_ad0b131b:
+
+    # tMax 06 "Зашибись, я смог попасть в приват к Алисе! Ухх... Сейчас как пообщаемся с тобой, сестрёнка, так пообщаемся..." nointeract
+    tMax 06 "Fantastico, sono riuscito ad andare nel privato di Alice! Uff... Adesso sì che chiacchiereremo per bene, sorellina..." nointeract
+
+# game/scripts/story_01/blog.rpy:1826
+translate italian ev_126_private_7c5b9d8a:
+
+    # Max 13 "Будет полноценно реализовано в v0.09..." nointeract
+    Max 13 "Sarà pienamente implementato nella v0.09..." nointeract
 
 translate italian strings:
 
@@ -2180,7 +2960,55 @@ translate italian strings:
     old "{i}вернуть всё, как было и уйти{/i}"
     new "{i}rimettere tutto a posto e andarsene{/i}"
 
-    # game/scripts/story_01/blog.rpy:1139
+    # game/scripts/story_01/blog.rpy:1108
+    old "{i}добавить платёжную информацию{/i}"
+    new "{i}aggiungi informazioni di pagamento{/i}"
+
+    # game/scripts/story_01/blog.rpy:1108
+    old "{i}покинуть сайт{/i}"
+    new "{i}lasciare il sito{/i}"
+
+    # game/scripts/story_01/blog.rpy:1146
+    old "{i}смотреть трансляцию Алисы{/i}"
+    new "{i}guardare la trasmissione di Alice{/i}"
+
+    # game/scripts/story_01/blog.rpy:1202
+    old "{i}наблюдать{/i}"
+    new "{i}guardare{/i}"
+
+    # game/scripts/story_01/blog.rpy:1354
     old "{i}закончить просмотр{/i}"
     new "{i}terminare la visione{/i}"
+
+    # game/scripts/story_01/blog.rpy:1403
+    old "{i}внести{/i}"
+    new "{i}versare{/i}"
+
+    # game/scripts/story_01/blog.rpy:1403
+    old "{i}ждать результатов{/i}"
+    new "{i}aspettare i risultati{/i}"
+
+    # game/scripts/story_01/blog.rpy:1488
+    old "{i}смотреть дальше{/i}"
+    new "{i}continuare a guardare{/i}"
+
+    # game/scripts/story_01/blog.rpy:1542
+    old "{i}внести на майку с трусиками{/i}"
+    new "{i}contribuire per una maglietta con mutandine{/i}"
+
+    # game/scripts/story_01/blog.rpy:1542
+    old "{i}внести на бикини{/i}"
+    new "{i}contribuire per un bikini{/i}"
+
+    # game/scripts/story_01/blog.rpy:1542
+    old "{i}внести на нижнее бельё (синее){/i}"
+    new "{i}contribuire per biancheria intima (blu){/i}"
+
+    # game/scripts/story_01/blog.rpy:1753
+    old "{i}покинуть конкурс{/i}"
+    new "{i}ritirarsi dal concorso{/i}"
+
+    # game/scripts/story_01/blog.rpy:1816
+    old "{i}приватная трансляция{/i}"
+    new "{i}trasmissione privata{/i}"
 

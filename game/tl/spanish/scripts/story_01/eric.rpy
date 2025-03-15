@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-08-14 23:38
+# TODO: Translation updated at 2025-03-08 15:49
 
 # game/scripts/story_01/eric.rpy:10
 translate spanish ev_055_e6d21536:
@@ -444,6 +444,318 @@ translate spanish ev_056_dont_meet_b3fa4a4b:
     # Max 00 "Понял. Доброй ночи, мам." nointeract
     Max 00 "Entendido. Buenas noches, mamá." nointeract
 
+# game/scripts/story_01/eric.rpy:231
+translate spanish ev_128_99524b84:
+
+    # Ann 01 "А вот и я, мои дорогие. У нас сегодня гость. Знакомьтесь, это - Эрик. Он один из руководителей компании, в которой я работаю. Я пригласила его поужинать с нами."
+    ""
+
+# game/scripts/story_01/eric.rpy:232
+translate spanish ev_128_bd381f70:
+
+    # Eric 01 "Всем добрый вечер!"
+    ""
+
+# game/scripts/story_01/eric.rpy:233
+translate spanish ev_128_4245affa:
+
+    # Alice 01 "Здравствуйте!"
+    ""
+
+# game/scripts/story_01/eric.rpy:234
+translate spanish ev_128_ddcf02b7:
+
+    # Lisa 11 "Добрый вечер!"
+    ""
+
+# game/scripts/story_01/eric.rpy:235
+translate spanish ev_128_dd85397c:
+
+    # Max 12 "Ага, уже знакомы."
+    ""
+
+# game/scripts/story_01/eric.rpy:239
+translate spanish ev_128_97e5845a:
+
+    # Ann 02 "Да, с Максом вы уже знакомы, а это мои дочери... Та, что посветлее и пониже - моя младшая дочь, Лиза. А та, что смуглее и выше - старшая дочь, Алиса."
+    ""
+
+# game/scripts/story_01/eric.rpy:240
+translate spanish ev_128_3f9d5df0:
+
+    # Eric 03 "Ого! Определённо, все в маму, такие же красавицы..."
+    ""
+
+# game/scripts/story_01/eric.rpy:241
+translate spanish ev_128_23c1676b:
+
+    # Alice 02 "Спасибо, Эрик!"
+    ""
+
+# game/scripts/story_01/eric.rpy:242
+translate spanish ev_128_248b127f:
+
+    # Lisa 02 "Мы рады с вами познакомиться!"
+    ""
+
+# game/scripts/story_01/eric.rpy:243
+translate spanish ev_128_cf700b82:
+
+    # Ann 03 "Я пойду быстренько переоденусь и сядем ужинать. Мы завтракаем и ужинаем здесь, на свежем воздухе. Пообщайтесь немного, пока я отсутствую. Всё, побежала..."
+    ""
+
+# game/scripts/story_01/eric.rpy:247
+translate spanish ev_128_4ff4333f:
+
+    # Eric 02 "Мама у вас, девочки, просто потрясающая, должен сказать. Правда, я могу судить только по рабочей обстановке. Как у вас с ней, хорошо получается дома уживаться? Или вернее будет сказать, ей с вами?"
+    ""
+
+# game/scripts/story_01/eric.rpy:248
+translate spanish ev_128_57e1e09e:
+
+    # Alice 11 "Как вам сказать... Да, но... она довольно строгая. Не хочется признавать, но по большей части, справедливая."
+    ""
+
+# game/scripts/story_01/eric.rpy:249
+translate spanish ev_128_d7c3d8a8:
+
+    # Lisa 01 "А вы с какой целью интересуетесь?"
+    ""
+
+# game/scripts/story_01/eric.rpy:250
+translate spanish ev_128_d64109d3:
+
+    # Max 13 "Кстати, да..."
+    ""
+
+# game/scripts/story_01/eric.rpy:251
+translate spanish ev_128_0bb8d7c7:
+
+    # Eric 01 "Да так, женщина она интересная и когда такая женщина приглашает поужинать - неприлично отказываться."
+    ""
+
+# game/scripts/story_01/eric.rpy:256
+translate spanish ev_128_9c7ec33e:
+
+    # Ann 04 "Фух... Я готова! Ну что, ужинаем пока не остыло?"
+    ""
+
+# game/scripts/story_01/eric.rpy:257
+translate spanish ev_128_92f945f7:
+
+    # Max 11 "Конечно!"
+    ""
+
+# game/scripts/story_01/eric.rpy:261
+translate spanish ev_128_9596c171:
+
+    # Ann 01 "Всем приятного аппетита! Похоже, всем всего хватило? А то я пригласила Эрика на ужин уже когда мы ехали в машине и не успела вас предупредить. Но Алиса у меня и без этого справилась."
+    ""
+
+# game/scripts/story_01/eric.rpy:262
+translate spanish ev_128_2b1195e1:
+
+    # Max 13 "Лучше предупреждать."
+    ""
+
+# game/scripts/story_01/eric.rpy:263
+translate spanish ev_128_06892c82:
+
+    # Eric 02 "Значит, готовку на старшенькую спихнула, пока на работе, так?"
+    ""
+
+# game/scripts/story_01/eric.rpy:264
+translate spanish ev_128_904ad4c8:
+
+    # Ann 10 "Именно. Она всё равно ерундой мается каждый день, так пусть хотя бы за ужин отвечает."
+    ""
+
+# game/scripts/story_01/eric.rpy:265
+translate spanish ev_128_b6a2dc8b:
+
+    # Alice 12 "Мам!!! Может, не надо меня перед гостем позорить? И вообще, ничего я не маюсь... Я пробую разные идеи... Мне даже Макс с этим помогает."
+    ""
+
+# game/scripts/story_01/eric.rpy:266
+translate spanish ev_128_f8d0f84e:
+
+    # Ann 12 "Макс у нас - это вообще отдельная тема. Мало того, что не знает, чем в жизни будет заниматься, так ещё и из школы выгнали."
+    ""
+
+# game/scripts/story_01/eric.rpy:267
+translate spanish ev_128_32e24533:
+
+    # Max 12 "Я так полагаю, мне это будут припоминать до самой старости, да?"
+    ""
+
+# game/scripts/story_01/eric.rpy:268
+translate spanish ev_128_1e88ee67:
+
+    # Ann 02 "Одна Лиза у нас самая порядочная и ответственная. Хотя, и с ней проблемы бывают."
+    ""
+
+# game/scripts/story_01/eric.rpy:269
+translate spanish ev_128_cb859453:
+
+    # Eric 08 "Должно быть трудно уследить за всеми детьми одной, вот они и разболтались. Так что давайте, за ум беритесь чтобы перед гостями стыдно не было."
+    ""
+
+# game/scripts/story_01/eric.rpy:270
+translate spanish ev_128_31c59fbd:
+
+    # Max 16 "Как-нибудь сами разберёмся."
+    ""
+
+# game/scripts/story_01/eric.rpy:271
+translate spanish ev_128_714ac23a:
+
+    # Ann 10 "Макс, давай-ка повежливее. Эрик правильно говорит и я сколько раз вам это говорила."
+    ""
+
+# game/scripts/story_01/eric.rpy:272
+translate spanish ev_128_1a59d17c:
+
+    # Max 13 "Как-будто это за пять минут делается. Нужно время..."
+    ""
+
+# game/scripts/story_01/eric.rpy:273
+translate spanish ev_128_bc47d53f:
+
+    # Eric 09 "Согласен, Макс. Не растрачивайте его на всякую ерунду. Надеюсь, когда ваша мама снова пригласит меня поужинать, вам уже будет чем похвастаться. Пора мне ехать, Ань."
+    ""
+
+# game/scripts/story_01/eric.rpy:277
+translate spanish ev_128_3ec32840:
+
+    # Ann 11 "Уже?! Я думала, ещё посидишь..."
+    ""
+
+# game/scripts/story_01/eric.rpy:278
+translate spanish ev_128_97ca6ec6:
+
+    # Eric 01 "Нет, надо с делами некоторыми разобраться."
+    ""
+
+# game/scripts/story_01/eric.rpy:279
+translate spanish ev_128_3b4e563b:
+
+    # Max 16 "Эээ... Давайте без рук! У вас рабочие отношения или какие?"
+    ""
+
+# game/scripts/story_01/eric.rpy:283
+translate spanish ev_128_df83efb7:
+
+    # Ann 10 "Ты почему себя так ведёшь, Макс?"
+    ""
+
+# game/scripts/story_01/eric.rpy:284
+translate spanish ev_128_e15ef78b:
+
+    # Eric 08 "Ничего, Ань. Парень меня всего второй раз в жизни видит и не знает, что я за человек. Кому как не ему вас, девочек, защищать от всяких мужиков, которые заваливаются к вам домой без предупреждения. Так ведь, Макс?"
+    ""
+
+# game/scripts/story_01/eric.rpy:285
+translate spanish ev_128_fc70f4f3:
+
+    # Max 13 "Вот именно."
+    ""
+
+# game/scripts/story_01/eric.rpy:286
+translate spanish ev_128_bfc01002:
+
+    # Eric 02 "Спасибо за ужин, всё было очень вкусно! Рад был с вами всеми познакомиться. Ещё увидимся..."
+    ""
+
+# game/scripts/story_01/eric.rpy:287
+translate spanish ev_128_1922128c:
+
+    # Alice 03 "Мы тоже были рады познакомиться!"
+    ""
+
+# game/scripts/story_01/eric.rpy:288
+translate spanish ev_128_ec0a6563:
+
+    # Lisa 02 "До свидания!"
+    ""
+
+# game/scripts/story_01/eric.rpy:292
+translate spanish ev_128_578996e4:
+
+    # Ann 14 "Я, конечно, всё понимаю, сынок, но с гостями нужно себя вести повежливее. Это не только тебя не красит, но и меня позорит, что я тебя так воспитала!"
+    ""
+
+# game/scripts/story_01/eric.rpy:293
+translate spanish ev_128_bd3cbc25:
+
+    # Max 12 "Да кто вообще знает, что у этого Эрика на уме?"
+    ""
+
+# game/scripts/story_01/eric.rpy:294
+translate spanish ev_128_0dbbc6ba:
+
+    # Ann 10 "Макс, он занимает высокую должность в компании, где я работаю. Кого попало туда не берут."
+    ""
+
+# game/scripts/story_01/eric.rpy:295
+translate spanish ev_128_d56730e8:
+
+    # Max 13 "Может быть. Посмотрим..."
+    ""
+
+# game/scripts/story_01/eric.rpy:299
+translate spanish ev_128_a0cdd718:
+
+    # tMax 17 "И зачем нас вообще с этим Эриком знакомить? Ладно, когда подружки с работы - это одно. А вот мужики с работы - это уже недобрый знак. Опять будет море слёз и куча пустых бутылок из под вина, как после расставания с моим отцом."
+    ""
+
+# game/scripts/story_01/eric.rpy:304
+translate spanish ev_128_6e35fdeb:
+
+    # tMax 12 "О! А Эрик ещё не уехал. По телефону о чём-то разговаривает..." nointeract
+    ""
+
+# game/scripts/story_01/eric.rpy:307
+translate spanish ev_128_c05867fb:
+
+    # Eric 00 "...найду, дело времени. Контакт я наладил. Думаю, уже скоро я её буду трахать... Может, даже не её одну, хе-хе..."
+    ""
+
+# game/scripts/story_01/eric.rpy:308
+translate spanish ev_128_4546c14f:
+
+    # tMax 16 "Сильное заявление! Интересно, кого это ты там собираешься трахать в таких количествах?"
+    ""
+
+# game/scripts/story_01/eric.rpy:309
+translate spanish ev_128_049e9d8b:
+
+    # Eric 00 "Я понял, да. Не переживай, я-то с этой задачей справлюсь..."
+    ""
+
+# game/scripts/story_01/eric.rpy:313
+translate spanish ev_128_76b4e4ab:
+
+    # Max 17 "Вот и уезжает наконец-то. «Он занимает высокую должность в компании, кого попало туда не берут» она сказала... Ну да, ну да..."
+    ""
+
+# game/scripts/story_01/eric.rpy:317
+translate spanish ev_128_cbd653d1:
+
+    # tMax 13 "Честно говоря, это какой-то странный разговор был... Вроде и деловой, а разговаривали о том, что стоит задача кого-то там трахать."
+    ""
+
+# game/scripts/story_01/eric.rpy:318
+translate spanish ev_128_915029e5:
+
+    # tMax 12 "Может, Эрик пикапом в свободное от работы время занимается? Вполне себе версия. Смущает только его фраза «контакт я наладил». И это сразу после нашего ужина..."
+    ""
+
+# game/scripts/story_01/eric.rpy:319
+translate spanish ev_128_cb2cf8da:
+
+    # tMax 16 "Чёрт, а если он говорил про {b}НАС{/b}??? Хм... Как бы там ни было, надо с этого товарища глаз не спускать, если он снова будет здесь ошиваться..."
+    ""
+
 translate spanish strings:
 
     # game/scripts/story_01/eric.rpy:14
@@ -469,4 +781,8 @@ translate spanish strings:
     # game/scripts/story_01/eric.rpy:150
     old "Не встречать её!"
     new "¡No la conozcas!"
+
+    # game/scripts/story_01/eric.rpy:303
+    old "{i}прислушаться{/i}"
+    new ""
 

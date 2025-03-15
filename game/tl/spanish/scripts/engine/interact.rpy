@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-08-14 23:38
+# TODO: Translation updated at 2025-03-08 15:49
 
 # game/scripts/engine/interact.rpy:37
 translate spanish talks_start_41e41361:
@@ -165,8 +165,24 @@ translate spanish strings:
     new "En cuanto a Alex..."
 
     # game/scripts/engine/interact.rpy:192
+    old "Есть успехи с Оливией?"
+    new "¿Ha habido suerte con Olivia?"
+
+    # game/scripts/engine/interact.rpy:192
+    old "Что-нибудь узнала про Оливию?"
+    new "¿Averiguaste algo sobre Olivia?"
+
+    # game/scripts/engine/interact.rpy:192
+    old "Ну, так что там с трусиками Оливии?"
+    new ""
+
+    # game/scripts/engine/interact.rpy:192
     old "Я решил потренироваться..."
     new "Decidí practicar..."
+
+    # game/scripts/engine/interact.rpy:192
+    old "Можно с тобой потренироваться?"
+    new "¿Puedo practicar contigo?"
 
     # game/scripts/engine/interact.rpy:192
     old "У меня для тебя обещанная вкусняшка!"
@@ -215,4 +231,8 @@ translate spanish strings:
     # game/scripts/engine/interact.rpy:192
     old "Мам, а как научиться хорошо целоваться?"
     new "Mamá, ¿cómo se aprende a besar bien?"
+
+    # game/scripts/engine/interact.rpy:192
+    old "У меня для тебя кое-что сладенькое!"
+    new "¡Tengo algo dulce para ti!"
 

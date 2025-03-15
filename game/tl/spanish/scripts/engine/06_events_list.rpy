@@ -1,22 +1,22 @@
 # TODO: Translation updated at 2025-03-08 15:49
 
-translate italian strings:
+translate spanish strings:
 
     # game/scripts/engine/06_events_list.rpy:31
     old "Любопытное содержимое"
-    new "Contenuto curioso"
+    new "Contenido curioso"
 
     # game/scripts/engine/06_events_list.rpy:31
     old "Способ заработать"
-    new "Un modo per guadagnare soldi"
+    new "Una forma de ganar dinero"
 
     # game/scripts/engine/06_events_list.rpy:31
     old "Обедневшая блогерша"
-    new "Blogger impoverito"
+    new "Blogger empobrecido"
 
     # game/scripts/engine/06_events_list.rpy:31
     old "Взломать блогершу"
-    new "Hackerare il blogger"
+    new "Hackear al bloguero"
 
     # game/scripts/engine/06_events_list.rpy:31
     old "Арахнофобия"
@@ -24,41 +24,41 @@ translate italian strings:
 
     # game/scripts/engine/06_events_list.rpy:31
     old "Недобросовестный спасатель"
-    new "Un bagnino senza scrupoli"
+    new "Un socorrista sin escrúpulos"
 
     # game/scripts/engine/06_events_list.rpy:31
     old "Стоит ли рисковать?"
-    new "Vale la pena rischiare?"
+    new "¿Vale la pena correr el riesgo?"
 
     # game/scripts/engine/06_events_list.rpy:31
     old "Наставник"
-    new "Mentore"
+    new "Mentor"
 
     # game/scripts/engine/06_events_list.rpy:31
     old "Застенчивая школьница"
-    new "Studentessa timida"
+    new "Colegiala tímida"
 
     # game/scripts/engine/06_events_list.rpy:31
     old "Кнут или пряник?"
-    new "Carota o bastone?"
+    new "¿Palo o zanahoria?"
 
     # game/scripts/engine/06_events_list.rpy:31
     old "Маслице для загара"
-    new "Olio abbronzante"
+    new "Aceite bronceador"
 
     # game/scripts/engine/06_events_list.rpy:31
     old "Домашнее обучение массажу"
-    new "Formazione per il massaggio a domicilio"
+    new "Formación en masaje a domicilio"
 
     # game/scripts/engine/06_events_list.rpy:31
     old "Талантливый массажист"
-    new "Massaggiatore di talento"
+    new "Un masajista con talento"
 
     # game/scripts/engine/06_events_list.rpy:31
     old "Что посмотрим, мам?"
-    new "Visto cosa, mamma?"
+    new "¿Qué va a pasar, mamá?"
 
     # game/scripts/engine/06_events_list.rpy:31
     old "При делах"
-    new "Sei sul caso"
+    new "Estás en el caso"
 

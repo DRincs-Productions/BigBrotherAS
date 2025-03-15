@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-12-25 17:41
+# TODO: Translation updated at 2025-03-08 15:49
 
 # game/scripts/engine/interact.rpy:37
 translate italian talks_start_41e41361:
@@ -163,6 +163,18 @@ translate italian strings:
     # game/scripts/engine/interact.rpy:192
     old "Насчёт Алекса..."
     new "Per quanto riguarda Alex..."
+
+    # game/scripts/engine/interact.rpy:192
+    old "Есть успехи с Оливией?"
+    new "Qualche successo con Olivia?"
+
+    # game/scripts/engine/interact.rpy:192
+    old "Что-нибудь узнала про Оливию?"
+    new "Hai imparato qualcosa su Olivia?"
+
+    # game/scripts/engine/interact.rpy:192
+    old "Ну, так что там с трусиками Оливии?"
+    new "Allora, cosa succede con le mutandine di Olivia?"
 
     # game/scripts/engine/interact.rpy:192
     old "Я решил потренироваться..."

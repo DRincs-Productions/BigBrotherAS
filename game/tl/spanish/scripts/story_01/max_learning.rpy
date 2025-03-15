@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-08-14 23:38
+# TODO: Translation updated at 2025-03-08 15:49
 
 # game/scripts/story_01/max_learning.rpy:8
 translate spanish ev_029_47925c16:
@@ -72,37 +72,37 @@ translate spanish ev_029_sex_ed_21b1eb2c:
     # Max 12 "Эх, всё-таки нужно было сперва прочитать эту книгу, а уже потом учить сестрёнку премудростям взрослой жизни. Только зазря опозорился! Теперь, можно лишь попробовать всё исправить. Если, конечно, получится..."
     Max 12 "Oh, debería haber leído este libro primero antes de enseñar a mi hermana sobre la vida adulta. ¡Fue un desperdicio! Ahora, todo lo que podemos hacer es tratar de hacer las cosas bien. Si, por supuesto, funciona..."
 
-# game/scripts/story_01/max_learning.rpy:88
+# game/scripts/story_01/max_learning.rpy:89
 translate spanish ev_046_23ca8fd9:
 
     # Max 01 "Хм... мне кажется такое можно и лёжа на кровати изучать. Надеюсь, меня не станет клонить в сон..."
     Max 01 "Hmm. Creo que podría estudiar esto en la cama. Espero no tener sueño..."
 
-# game/scripts/story_01/max_learning.rpy:92
+# game/scripts/story_01/max_learning.rpy:93
 translate spanish ev_046_66ef962f:
 
     # Max 11 "Хорошая штука эти онлайн-курсы. Можно научиться всему, не выходя из дома! Вот только и стоит это немало..."
     Max 11 "Lo bueno de estos cursos en línea. Puedes aprenderlo todo desde la comodidad de tu casa. Pero cuesta mucho..."
 
-# game/scripts/story_01/max_learning.rpy:96
+# game/scripts/story_01/max_learning.rpy:97
 translate spanish ev_046_81dac6d3:
 
     # Max 04 "Не сказать, что это сложное занятие, но знаний, а так же опыта в этом деле нужно много! И теперь я готов закреплять полученные знания на практике..."
     Max 04 "No quiero decir que sea una ocupación difícil, ¡pero se necesitan muchos conocimientos y experiencia en este negocio! Y ahora estoy listo para consolidar mis conocimientos en la práctica..."
 
-# game/scripts/story_01/max_learning.rpy:103
+# game/scripts/story_01/max_learning.rpy:104
 translate spanish ev_046_1c72ad2c:
 
     # tMax 01 "И раз уж с Алисы это началось, то на ней я и начну практиковаться. Надеюсь, руки она мне не выдернет, если я сделаю что-то не так..."
     tMax 01 "Y ya que empezó con Alice, voy a empezar a practicar con ella. Espero que no me tire de las orejas si hago algo mal..."
 
-# game/scripts/story_01/max_learning.rpy:114
+# game/scripts/story_01/max_learning.rpy:115
 translate spanish ev_046_2c43168e:
 
     # tMax 01 "Мне как раз нужно убедить Алису в том, что показывать стриптиз через веб-камеру - не так уж и плохо. И даже может быть прибыльно, если она будет это делать с чувством..."
     "[Sólo necesito convencer a Alice de que desnudarse en una webcam no es tan malo. Incluso podría ser lucrativo si lo hace con un sentido de..."
 
-# game/scripts/story_01/max_learning.rpy:117
+# game/scripts/story_01/max_learning.rpy:118
 translate spanish ev_046_66ef962f_1:
 
     # Max 11 "Хорошая штука эти онлайн-курсы. Можно научиться всему, не выходя из дома! Вот только и стоит это немало..."
@@ -154,27 +154,19 @@ translate spanish strings:
     old "Книга изучена на 75%"
     new "El libro está estudiado en un 75"
 
-    # game/scripts/story_01/max_learning.rpy:89
+    # game/scripts/story_01/max_learning.rpy:90
     old "Курс изучен на 33%"
     new "El curso se ha completado en un 33%"
 
-    # game/scripts/story_01/max_learning.rpy:93
+    # game/scripts/story_01/max_learning.rpy:94
     old "Курс изучен на 66%"
     new "El curso se ha completado en un 66%"
 
-    # game/scripts/story_01/max_learning.rpy:99
+    # game/scripts/story_01/max_learning.rpy:100
     old "Курс полностью изучен"
     new "El curso se ha completado totalmente"
 
-    # game/scripts/story_01/max_learning.rpy:105
+    # game/scripts/story_01/max_learning.rpy:106
     old "Получен навык «Массаж»!"
     new "¡Obtuviste la habilidad \"Masaje\"!"
-
-    # game/scripts/story_01/max_learning.rpy:106
-    old "Задание «Домашнее обучение массажу» завершено!"
-    new "Se ha completado la tarea «Formación en masajes a domicilio»!"
-
-    # game/scripts/story_01/max_learning.rpy:107
-    old "Открыто новое задание «Талантливый массажист»!"
-    new "Se abre una nueva oportunidad de «Masajista con talento»!"
 

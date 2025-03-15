@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-12-25 17:41
+# TODO: Translation updated at 2025-03-08 15:49
 
 # game/scripts/story_01/punishments.rpy:45
 translate italian punishments_allocation_d4a1750b:
@@ -384,97 +384,97 @@ translate italian mgg_punishment_punish_6f75875d:
     # Ann 00 "Ну вот. Ведите себя хорошо и мне не придётся прибегать к таким методам воспитания. А теперь, Макс, одевайся и садись, у нас есть и другие провинившиеся."
     Ann 00 "Ecco qua. Comportatevi bene e non dovrò ricorrere a questi metodi educativi. Ora, Max, vestiti e siediti, abbiamo altri colpevoli."
 
-# game/scripts/story_01/punishments.rpy:293
+# game/scripts/story_01/punishments.rpy:294
 translate italian reprimanded_reason_30d8f54f:
 
     # Max 12 "Ну, я случайно оказался рядом с душем, когда там была Лиза..."
     Max 12 "Beh, mi è capitato di essere vicino alla doccia quando Lisa era lì..."
 
-# game/scripts/story_01/punishments.rpy:294
+# game/scripts/story_01/punishments.rpy:295
 translate italian reprimanded_reason_c1a6a5a4:
 
     # Lisa 15 "Он видел меня голой, мам! Накажи его! Почему он отделывается только предупреждением? Пусть получит, что заслужил!"
     Lisa 15 "Mi ha vista nuda, mamma! Puniscilo! Perché ha ricevuto solo un avvertimento? Che abbia ciò che si merita!"
 
-# game/scripts/story_01/punishments.rpy:295
+# game/scripts/story_01/punishments.rpy:296
 translate italian reprimanded_reason_26a66e7e:
 
     # Max 14 "Да ничего я не заслужил!"
     Max 14 "Non merito nulla!"
 
-# game/scripts/story_01/punishments.rpy:298
+# game/scripts/story_01/punishments.rpy:299
 translate italian reprimanded_reason_2eb4c671:
 
     # Max 12 "Ну, я якобы мешал Лизе спать, хотя всего лишь встал раньше неё..."
     Max 12 "Beh, presumibilmente ho impedito a Lisa di dormire, anche se mi sono appena alzato prima di lei..."
 
-# game/scripts/story_01/punishments.rpy:299
+# game/scripts/story_01/punishments.rpy:300
 translate italian reprimanded_reason_79249d94:
 
     # Lisa 15 "Он не просто мешал мне спать, мам, но ещё и разглядывал меня сидя вплотную! Накажи его! Пусть получит, что заслужил!"
     Lisa 15 "Non sta solo disturbando il mio sonno, mamma, mi stava fissando da vicino! Puniscilo! Che abbia ciò che si merita!"
 
-# game/scripts/story_01/punishments.rpy:300
+# game/scripts/story_01/punishments.rpy:301
 translate italian reprimanded_reason_26a66e7e_1:
 
     # Max 14 "Да ничего я не заслужил!"
     Max 14 "Non merito nulla!"
 
-# game/scripts/story_01/punishments.rpy:304
+# game/scripts/story_01/punishments.rpy:305
 translate italian reprimanded_reason_bdcb3e48:
 
     # Max 12 "Ну, я случайно увидел, как ты принимаешь душ, мам..."
     Max 12 "Beh, mi è capitato di vederti fare la doccia, mamma..."
 
-# game/scripts/story_01/punishments.rpy:306
+# game/scripts/story_01/punishments.rpy:307
 translate italian reprimanded_reason_4af8d164:
 
     # Max 12 "Ну, я случайно увидел, как ты переодеваешься, мам..."
     Max 12 "Beh, mi è capitato di vederti mentre ti cambiavi, mamma..."
 
-# game/scripts/story_01/punishments.rpy:307
+# game/scripts/story_01/punishments.rpy:308
 translate italian reprimanded_reason_3d133b7f:
 
     # Ann 12 "Очень хочу надеяться, что это действительно было случайно. Тем не менее, ты пойман и как я уже сказала, получаешь предупреждение."
     Ann 12 "Voglio davvero sperare che si sia trattato di un incidente. Tuttavia, sei stato beccato e, come ho detto, hai ricevuto un avvertimento."
 
-# game/scripts/story_01/punishments.rpy:308
+# game/scripts/story_01/punishments.rpy:309
 translate italian reprimanded_reason_f6cb79d3:
 
     # Max 14 "Больше это не повторится!"
     Max 14 "Non accadrà più!"
 
-# game/scripts/story_01/punishments.rpy:311
+# game/scripts/story_01/punishments.rpy:312
 translate italian reprimanded_reason_0a14df48:
 
     # Max 12 "Ну, я оказался случайно рядом с душем, где мылась Алиса..."
     Max 12 "Beh, mi è capitato di essere vicino alla doccia dove Alice si stava lavando..."
 
-# game/scripts/story_01/punishments.rpy:312
+# game/scripts/story_01/punishments.rpy:313
 translate italian reprimanded_reason_77f75157:
 
     # Alice 15 "Случайно? Врёт он всё, мам! Он стоял и пялился на меня!"
     Alice 15 "Per sbaglio? Sta mentendo, mamma! Stava lì a fissarmi!"
 
-# game/scripts/story_01/punishments.rpy:313
+# game/scripts/story_01/punishments.rpy:314
 translate italian reprimanded_reason_8f72234a:
 
     # Max 14 "Да я мимо проходил!"
     Max 14 "Passavo di qui!"
 
-# game/scripts/story_01/punishments.rpy:319
+# game/scripts/story_01/punishments.rpy:320
 translate italian reprimanded_reason_0659dd02:
 
     # Ann 10 "Ты не закончил, Макс. Продолжай..."
     Ann 10 "Non hai finito, Max. Continua..."
 
-# game/scripts/story_01/punishments.rpy:321
+# game/scripts/story_01/punishments.rpy:322
 translate italian reprimanded_reason_c67b0860:
 
     # Ann 10 "Дальше, Макс, мы тебя внимательно слушаем..."
     Ann 10 "Avanti, Max, ti ascoltiamo con molta attenzione..."
 
-# game/scripts/story_01/punishments.rpy:323
+# game/scripts/story_01/punishments.rpy:324
 translate italian reprimanded_reason_61370c93:
 
     # Ann 10 "А ты не забыл про кое-что ещё?"
@@ -485,10 +485,6 @@ translate italian strings:
     # game/scripts/story_01/punishments.rpy:86
     old "{i}заступиться за Лизу{/i}"
     new "{i}difendi Lisa{/i}"
-
-    # game/scripts/story_01/punishments.rpy:169
-    old "{i}снять джинсы{/i}"
-    new "{i}togliti i pantaloni{/i}"
 
     # game/scripts/story_01/punishments.rpy:174
     old "{i}снять шорты{/i}"

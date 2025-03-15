@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-12-25 17:41
+# TODO: Translation updated at 2025-03-08 15:49
 
 # game/scripts/story_01/eric.rpy:10
 translate italian ev_055_e6d21536:
@@ -444,6 +444,318 @@ translate italian ev_056_dont_meet_b3fa4a4b:
     # Max 00 "Понял. Доброй ночи, мам." nointeract
     Max 00 "Capito. Buonanotte, mamma." nointeract
 
+# game/scripts/story_01/eric.rpy:231
+translate italian ev_128_99524b84:
+
+    # Ann 01 "А вот и я, мои дорогие. У нас сегодня гость. Знакомьтесь, это - Эрик. Он один из руководителей компании, в которой я работаю. Я пригласила его поужинать с нами."
+    Ann 01 "Eccomi qui, cari miei. Oggi abbiamo un ospite. Vi presento Eric. È uno dei dirigenti dell'azienda per cui lavoro. L'ho invitato a cena con noi."
+
+# game/scripts/story_01/eric.rpy:232
+translate italian ev_128_bd381f70:
+
+    # Eric 01 "Всем добрый вечер!"
+    Eric 01 "Buonasera a tutti!"
+
+# game/scripts/story_01/eric.rpy:233
+translate italian ev_128_4245affa:
+
+    # Alice 01 "Здравствуйте!"
+    Alice 01 "Buonasera!"
+
+# game/scripts/story_01/eric.rpy:234
+translate italian ev_128_ddcf02b7:
+
+    # Lisa 11 "Добрый вечер!"
+    Lisa 11 "Buonasera!"
+
+# game/scripts/story_01/eric.rpy:235
+translate italian ev_128_dd85397c:
+
+    # Max 12 "Ага, уже знакомы."
+    Max 12 "Ah, ci siamo già conosciuti."
+
+# game/scripts/story_01/eric.rpy:239
+translate italian ev_128_97e5845a:
+
+    # Ann 02 "Да, с Максом вы уже знакомы, а это мои дочери... Та, что посветлее и пониже - моя младшая дочь, Лиза. А та, что смуглее и выше - старшая дочь, Алиса."
+    Ann 02 "Sì, Max e te vi conoscete già, e queste sono le mie figlie... Quella più chiara e più bassa è la mia figlia minore, Lisa. E quella più scura e più alta è la figlia maggiore, Alice."
+
+# game/scripts/story_01/eric.rpy:240
+translate italian ev_128_3f9d5df0:
+
+    # Eric 03 "Ого! Определённо, все в маму, такие же красавицы..."
+    Eric 03 "Wow! Decisamente, tutte uguali alla mamma, così belle..."
+
+# game/scripts/story_01/eric.rpy:241
+translate italian ev_128_23c1676b:
+
+    # Alice 02 "Спасибо, Эрик!"
+    Alice 02 "Grazie, Eric!"
+
+# game/scripts/story_01/eric.rpy:242
+translate italian ev_128_248b127f:
+
+    # Lisa 02 "Мы рады с вами познакомиться!"
+    Lisa 02 "Sono lieta di conoscerla!"
+
+# game/scripts/story_01/eric.rpy:243
+translate italian ev_128_cf700b82:
+
+    # Ann 03 "Я пойду быстренько переоденусь и сядем ужинать. Мы завтракаем и ужинаем здесь, на свежем воздухе. Пообщайтесь немного, пока я отсутствую. Всё, побежала..."
+    Ann 03 "Vado velocemente a cambiarmi e ci sediamo a cenare. Facciamo colazione e cena qui, all'aria aperta. Fate due chiacchiere mentre non ci sono. È tutto, vado..."
+
+# game/scripts/story_01/eric.rpy:247
+translate italian ev_128_4ff4333f:
+
+    # Eric 02 "Мама у вас, девочки, просто потрясающая, должен сказать. Правда, я могу судить только по рабочей обстановке. Как у вас с ней, хорошо получается дома уживаться? Или вернее будет сказать, ей с вами?"
+    Eric 02 "Devo dire, ragazze, vostra madre è semplicemente eccezionale.  A dire il vero, però, posso giudicare solo in base all'ambiente di lavoro. Come va con lei? Riuscite a convivere bene in casa?  O forse è meglio dire: è lei che deve sopportare voi?"
+
+# game/scripts/story_01/eric.rpy:248
+translate italian ev_128_57e1e09e:
+
+    # Alice 11 "Как вам сказать... Да, но... она довольно строгая. Не хочется признавать, но по большей части, справедливая."
+    Alice 11 "Come dire... Sì, però... È piuttosto severa. Non vorrei ammetterlo, ma per lo più è giusta."
+
+# game/scripts/story_01/eric.rpy:249
+translate italian ev_128_d7c3d8a8:
+
+    # Lisa 01 "А вы с какой целью интересуетесь?"
+    Lisa 01 "E lei, per quale motivo si interessa?"
+
+# game/scripts/story_01/eric.rpy:250
+translate italian ev_128_d64109d3:
+
+    # Max 13 "Кстати, да..."
+    Max 13 "A proposito, sì..."
+
+# game/scripts/story_01/eric.rpy:251
+translate italian ev_128_0bb8d7c7:
+
+    # Eric 01 "Да так, женщина она интересная и когда такая женщина приглашает поужинать - неприлично отказываться."
+    Eric 01 "Beh, è una donna interessante e quando una donna così invita a cena, è scortese rifiutare."
+
+# game/scripts/story_01/eric.rpy:256
+translate italian ev_128_9c7ec33e:
+
+    # Ann 04 "Фух... Я готова! Ну что, ужинаем пока не остыло?"
+    Ann 04 "Uff... Sono pronta! Allora, ceniamo prima che si freddi?"
+
+# game/scripts/story_01/eric.rpy:257
+translate italian ev_128_92f945f7:
+
+    # Max 11 "Конечно!"
+    Max 11 "Volentieri!"
+
+# game/scripts/story_01/eric.rpy:261
+translate italian ev_128_9596c171:
+
+    # Ann 01 "Всем приятного аппетита! Похоже, всем всего хватило? А то я пригласила Эрика на ужин уже когда мы ехали в машине и не успела вас предупредить. Но Алиса у меня и без этого справилась."
+    Ann 01 "Buon appetito a tutti!  Allora, è bastato per tutti? Sapete, ho invitato Eric a cena quando eravamo già in macchina e non ho fatto in tempo ad avvisarvi. Ma Alice se l'è cavata lo stesso."
+
+# game/scripts/story_01/eric.rpy:262
+translate italian ev_128_2b1195e1:
+
+    # Max 13 "Лучше предупреждать."
+    Max 13 "Meglio avvisare."
+
+# game/scripts/story_01/eric.rpy:263
+translate italian ev_128_06892c82:
+
+    # Eric 02 "Значит, готовку на старшенькую спихнула, пока на работе, так?"
+    Eric 02 "Quindi, hai scaricato la cucina sulla maggiore, mentre sei al lavoro, vero?"
+
+# game/scripts/story_01/eric.rpy:264
+translate italian ev_128_904ad4c8:
+
+    # Ann 10 "Именно. Она всё равно ерундой мается каждый день, так пусть хотя бы за ужин отвечает."
+    Ann 10 "Esatto. Tanto lei non fa niente di buono tutto il giorno, che almeno si occupi della cena."
+
+# game/scripts/story_01/eric.rpy:265
+translate italian ev_128_b6a2dc8b:
+
+    # Alice 12 "Мам!!! Может, не надо меня перед гостем позорить? И вообще, ничего я не маюсь... Я пробую разные идеи... Мне даже Макс с этим помогает."
+    Alice 12 "Mamma!!! Forse non dovresti farmi vergognare davanti all'ospite? E poi, non sto mica perdendo tempo... Sto provando diverse idee... E Max mi sta anche aiutando."
+
+# game/scripts/story_01/eric.rpy:266
+translate italian ev_128_f8d0f84e:
+
+    # Ann 12 "Макс у нас - это вообще отдельная тема. Мало того, что не знает, чем в жизни будет заниматься, так ещё и из школы выгнали."
+    Ann 12 "Max, lui, è proprio un discorso a parte. Non solo non sa cosa farà da grande, ma l'hanno pure cacciato da scuola."
+
+# game/scripts/story_01/eric.rpy:267
+translate italian ev_128_32e24533:
+
+    # Max 12 "Я так полагаю, мне это будут припоминать до самой старости, да?"
+    Max 12 "Credo che me lo faranno pesare fino alla vecchiaia, vero?"
+
+# game/scripts/story_01/eric.rpy:268
+translate italian ev_128_1e88ee67:
+
+    # Ann 02 "Одна Лиза у нас самая порядочная и ответственная. Хотя, и с ней проблемы бывают."
+    Ann 02 "La nostra Lisa è la più seria e responsabile. Però, anche con lei ci sono dei problemi."
+
+# game/scripts/story_01/eric.rpy:269
+translate italian ev_128_cb859453:
+
+    # Eric 08 "Должно быть трудно уследить за всеми детьми одной, вот они и разболтались. Так что давайте, за ум беритесь чтобы перед гостями стыдно не было."
+    Eric 08 "Deve essere difficile badare a tutti i bambini da sola, per questo si sono lasciati andare a chiacchierare.  Quindi, datevi una regolata per non farci fare brutta figura davanti agli ospiti."
+
+# game/scripts/story_01/eric.rpy:270
+translate italian ev_128_31c59fbd:
+
+    # Max 16 "Как-нибудь сами разберёмся."
+    Max 16 "Ce la vediamo noi."
+
+# game/scripts/story_01/eric.rpy:271
+translate italian ev_128_714ac23a:
+
+    # Ann 10 "Макс, давай-ка повежливее. Эрик правильно говорит и я сколько раз вам это говорила."
+    Ann 10 "Max, per favore sii più educato. Eric ha ragione e ve l'ho detto tante volte."
+
+# game/scripts/story_01/eric.rpy:272
+translate italian ev_128_1a59d17c:
+
+    # Max 13 "Как-будто это за пять минут делается. Нужно время..."
+    Max 13 "Come se si facesse in cinque minuti. Ci vuole tempo..."
+
+# game/scripts/story_01/eric.rpy:273
+translate italian ev_128_bc47d53f:
+
+    # Eric 09 "Согласен, Макс. Не растрачивайте его на всякую ерунду. Надеюсь, когда ваша мама снова пригласит меня поужинать, вам уже будет чем похвастаться. Пора мне ехать, Ань."
+    Eric 09 "Sono d'accordo, Max. Non sprecate tempo in sciocchezze. Spero che, quando vostra madre mi inviterà di nuovo a cena, avrete già qualcosa di buono da far vedere.  È ora che vada, Anna."
+
+# game/scripts/story_01/eric.rpy:277
+translate italian ev_128_3ec32840:
+
+    # Ann 11 "Уже?! Я думала, ещё посидишь..."
+    Ann 11 "Già?! Pensavo che ti fermassi ancora un po'..."
+
+# game/scripts/story_01/eric.rpy:278
+translate italian ev_128_97ca6ec6:
+
+    # Eric 01 "Нет, надо с делами некоторыми разобраться."
+    Eric 01 "No, devo sbrigare delle faccende."
+
+# game/scripts/story_01/eric.rpy:279
+translate italian ev_128_3b4e563b:
+
+    # Max 16 "Эээ... Давайте без рук! У вас рабочие отношения или какие?"
+    Max 16 "Ehm... State calmi con le mani!  La vostra è una relazione professionale o di che tipo?"
+
+# game/scripts/story_01/eric.rpy:283
+translate italian ev_128_df83efb7:
+
+    # Ann 10 "Ты почему себя так ведёшь, Макс?"
+    Ann 10 "Max, perché ti comporti così?"
+
+# game/scripts/story_01/eric.rpy:284
+translate italian ev_128_e15ef78b:
+
+    # Eric 08 "Ничего, Ань. Парень меня всего второй раз в жизни видит и не знает, что я за человек. Кому как не ему вас, девочек, защищать от всяких мужиков, которые заваливаются к вам домой без предупреждения. Так ведь, Макс?"
+    Eric 08 "Ma dai, Anna.  Il ragazzo mi vede solo per la seconda volta nella vita e non sa che persona sono. Chi, se non lui, dovrebbe proteggere voi ragazze da tutti quegli uomini che si presentano a casa vostra senza preavviso?  Non è forse così, Max?"
+
+# game/scripts/story_01/eric.rpy:285
+translate italian ev_128_fc70f4f3:
+
+    # Max 13 "Вот именно."
+    Max 13 "Esatto."
+
+# game/scripts/story_01/eric.rpy:286
+translate italian ev_128_bfc01002:
+
+    # Eric 02 "Спасибо за ужин, всё было очень вкусно! Рад был с вами всеми познакомиться. Ещё увидимся..."
+    Eric 02 "Grazie per la cena, era tutto molto buono! Molto lieto di aver conosciuto tutti voi. Arrivederci..."
+
+# game/scripts/story_01/eric.rpy:287
+translate italian ev_128_1922128c:
+
+    # Alice 03 "Мы тоже были рады познакомиться!"
+    Alice 03 "Anche noi siamo stati lieti di conoscerti!"
+
+# game/scripts/story_01/eric.rpy:288
+translate italian ev_128_ec0a6563:
+
+    # Lisa 02 "До свидания!"
+    Lisa 02 "Arrivederci!"
+
+# game/scripts/story_01/eric.rpy:292
+translate italian ev_128_578996e4:
+
+    # Ann 14 "Я, конечно, всё понимаю, сынок, но с гостями нужно себя вести повежливее. Это не только тебя не красит, но и меня позорит, что я тебя так воспитала!"
+    Ann 14 "Certo che capisco tutto, figliolo, ma con gli ospiti bisogna essere più educati. Non solo fai una brutta figura tu, ma fai vergognare anche me per come ti ho educato!"
+
+# game/scripts/story_01/eric.rpy:293
+translate italian ev_128_bd3cbc25:
+
+    # Max 12 "Да кто вообще знает, что у этого Эрика на уме?"
+    Max 12 "Ma chi lo sa cosa ha in mente Eric?"
+
+# game/scripts/story_01/eric.rpy:294
+translate italian ev_128_0dbbc6ba:
+
+    # Ann 10 "Макс, он занимает высокую должность в компании, где я работаю. Кого попало туда не берут."
+    Ann 10 "Max, lui ricopre una posizione di rilievo nell'azienda dove lavoro. Non assumono certo chiunque lì."
+
+# game/scripts/story_01/eric.rpy:295
+translate italian ev_128_d56730e8:
+
+    # Max 13 "Может быть. Посмотрим..."
+    Max 13 "Forse. Vedremo..."
+
+# game/scripts/story_01/eric.rpy:299
+translate italian ev_128_a0cdd718:
+
+    # tMax 17 "И зачем нас вообще с этим Эриком знакомить? Ладно, когда подружки с работы - это одно. А вот мужики с работы - это уже недобрый знак. Опять будет море слёз и куча пустых бутылок из под вина, как после расставания с моим отцом."
+    tMax 17 "E poi, perché mai dovremmo conoscere questo Eric?  Va bene quando sono amiche del lavoro, è un conto.  Ma i colleghi maschi, invece, è tutta un'altra storia e non promette nulla di buono.  Finirà di nuovo con un mare di lacrime e una montagna di bottiglie di vino vuote, come dopo la separazione da mio padre."
+
+# game/scripts/story_01/eric.rpy:304
+translate italian ev_128_6e35fdeb:
+
+    # tMax 12 "О! А Эрик ещё не уехал. По телефону о чём-то разговаривает..." nointeract
+    tMax 12 "Ah, guarda! Eric non è ancora andato via. È al telefono che parla di qualcosa..." nointeract
+
+# game/scripts/story_01/eric.rpy:307
+translate italian ev_128_c05867fb:
+
+    # Eric 00 "...найду, дело времени. Контакт я наладил. Думаю, уже скоро я её буду трахать... Может, даже не её одну, хе-хе..."
+    Eric 00 "...tanto la becco, è questione di tempo.  Ho fatto breccia, ormai.  Secondo me, non ci metterò molto a trombarmela...  Magari non solo lei, eh eh..."
+
+# game/scripts/story_01/eric.rpy:308
+translate italian ev_128_4546c14f:
+
+    # tMax 16 "Сильное заявление! Интересно, кого это ты там собираешься трахать в таких количествах?"
+    tMax 16 "Bella affermazione!  Sono curioso di sapere chi hai intenzione di scopare in tali quantità, lì?"
+
+# game/scripts/story_01/eric.rpy:309
+translate italian ev_128_049e9d8b:
+
+    # Eric 00 "Я понял, да. Не переживай, я-то с этой задачей справлюсь..."
+    Eric 00 "Ho capito, sì. Non preoccuparti, me la caverò io con questo compito..."
+
+# game/scripts/story_01/eric.rpy:313
+translate italian ev_128_76b4e4ab:
+
+    # Max 17 "Вот и уезжает наконец-то. «Он занимает высокую должность в компании, кого попало туда не берут» она сказала... Ну да, ну да..."
+    Max 17 "Finalmente se ne va, eh.  «Dice che ricopre una posizione di rilievo nell'azienda, che lì non prendono chiunque» ha detto...  Sì, sì..."
+
+# game/scripts/story_01/eric.rpy:317
+translate italian ev_128_cbd653d1:
+
+    # tMax 13 "Честно говоря, это какой-то странный разговор был... Вроде и деловой, а разговаривали о том, что стоит задача кого-то там трахать."
+    tMax 13 "A dire la verità, è stata una conversazione un po' strana...  Sembrava anche seria, ma parlavano del fatto che c'era un compito di scopare qualcuno lì."
+
+# game/scripts/story_01/eric.rpy:318
+translate italian ev_128_915029e5:
+
+    # tMax 12 "Может, Эрик пикапом в свободное от работы время занимается? Вполне себе версия. Смущает только его фраза «контакт я наладил». И это сразу после нашего ужина..."
+    tMax 12 "Magari Eric fa il camionista nel tempo libero dal lavoro?  È un'ipotesi plausibile, tutto sommato.  Mi mette un po' a disagio solo la sua frase «ho stabilito il contatto».  E poi, è successo subito dopo la nostra cena..."
+
+# game/scripts/story_01/eric.rpy:319
+translate italian ev_128_cb2cf8da:
+
+    # tMax 16 "Чёрт, а если он говорил про {b}НАС{/b}??? Хм... Как бы там ни было, надо с этого товарища глаз не спускать, если он снова будет здесь ошиваться..."
+    tMax 16 "Accidenti, e se stesse parlando di {b}NOI{/b}???  Mmmh...  Comunque sia, dobbiamo tenere d'occhio quel tipo, se dovesse farsi rivedere da queste parti..."
+
 translate italian strings:
 
     # game/scripts/story_01/eric.rpy:14
@@ -469,4 +781,8 @@ translate italian strings:
     # game/scripts/story_01/eric.rpy:150
     old "Не встречать её!"
     new "Non conoscerlo!"
+
+    # game/scripts/story_01/eric.rpy:303
+    old "{i}прислушаться{/i}"
+    new "{i}ascoltare{/i}"
 

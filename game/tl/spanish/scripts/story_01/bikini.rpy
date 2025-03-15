@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-08-14 23:38
+# TODO: Translation updated at 2025-03-08 15:49
 
 # game/scripts/story_01/bikini.rpy:8
 translate spanish ev_008_3c08b543:
@@ -83,10 +83,4 @@ translate spanish ev_008_255a19b4:
 
     # Max 01 "Ладно, идёт!"
     Max 01 "¡Muy bien, ya viene!"
-
-translate spanish strings:
-
-    # game/scripts/story_01/bikini.rpy:31
-    old "Открыто новое задание «Новый купальник»!"
-    new "La nueva oportunidad «Nuevo bañador» está abierta!"
 

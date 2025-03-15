@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-12-25 17:41
+# TODO: Translation updated at 2025-03-08 15:49
 
 translate italian strings:
 
@@ -213,6 +213,46 @@ translate italian strings:
     # game/scripts/engine/tasks.rpy:200
     old "Возможность просматривать вэб-трансляции с Алисой!"
     new "La possibilità di visualizzare i webcast con Alice!"
+
+    # game/scripts/engine/tasks.rpy:200
+    old "Стримерша"
+    new "Ragazza dello streaming"
+
+    # game/scripts/engine/tasks.rpy:200
+    old "Пришлось повозиться, чтобы выяснить новый ник Алисы на сайте «MyCams».\nСвой ник я тоже поменял, так что можно совершенно не боясь смотреть её трансляции. Ох, и интересно, что я смогу там увидеть..."
+    new "Ho dovuto lavorare un po per scoprire il nuovo nickname di Alice su «MyCams».\nHo cambiato anche il mio nickname, così posso guardare le sue trasmissioni senza alcun timore. Oh, mi chiedo cosa potrò vedere lì..."
+
+    # game/scripts/engine/tasks.rpy:200
+    old "Нужно завершить задание «Взломать блогершу»!"
+    new "È necessario completare l'attività «Hackera il blogger»!"
+
+    # game/scripts/engine/tasks.rpy:200
+    old "Посмотреть трансляцию Алисы на сайте «MyCams»."
+    new "Guarda la trasmissione di Alice sul sito web di «MyCams»."
+
+    # game/scripts/engine/tasks.rpy:200
+    old "Алиса проводит трансляции сразу после ужина, но вряд ли каждый день..."
+    new "Alice trasmette subito dopo cena, ma non tutti i giorni..."
+
+    # game/scripts/engine/tasks.rpy:200
+    old "Добавить платёжную информацию в свой профиль на сайте «MyCams»."
+    new "Aggiungere le informazioni di pagamento al proprio profilo sul sito web «MyCams»."
+
+    # game/scripts/engine/tasks.rpy:200
+    old "Достаточно просто зайти на сайт «MyCams» в любое время..."
+    new "Basta collegarsi al sito web di «MyCams» in qualsiasi momento..."
+
+    # game/scripts/engine/tasks.rpy:200
+    old "Попасть на приватную трансляцию Алисы на сайте «MyCams»."
+    new "Entra nella trasmissione privata di Alice sul sito web «MyCams»."
+
+    # game/scripts/engine/tasks.rpy:200
+    old "Нужно победить в отборочном конкурсе шоу Алисы на сайте «MyCams»..."
+    new "Bisogna vincere il concorso di qualificazione per lo show di Alice sul sito di «MyCams»..."
+
+    # game/scripts/engine/tasks.rpy:200
+    old "Продолжение в v0.09..."
+    new "Continua nella v0.09..."
 
     # game/scripts/engine/tasks.rpy:200
     old "Вредная привычка"
@@ -445,6 +485,10 @@ translate italian strings:
     # game/scripts/engine/tasks.rpy:200
     old "Нужно продвинуться в выполнении задания «Обедневшая блогерша»!"
     new "Ho bisogno di andare avanti con il compito di «blogger impoverito»!"
+
+    # game/scripts/engine/tasks.rpy:200
+    old "Для этого Лиза должна быть в хорошем настроении..."
+    new "Lisa deve essere di buon umore perché questo accada..."
 
     # game/scripts/engine/tasks.rpy:200
     old "Нужно подойти к Лизе и поговорить с ней на эту тему, когда она находится в своей комнате..."

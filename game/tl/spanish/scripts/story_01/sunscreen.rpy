@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-08-14 23:38
+# TODO: Translation updated at 2025-03-08 15:49
 
 # game/scripts/story_01/sunscreen.rpy:7
 translate spanish ev_011_03c9dcee:
@@ -596,10 +596,6 @@ translate spanish strings:
     old "Тебя маслицем для загара намазать?"
     new "¿Necesitas aceite bronceador?"
 
-    # game/scripts/story_01/sunscreen.rpy:58
-    old "Открыто новое задание «Маслице для загара»!"
-    new "Una nueva oportunidad «Aceite bronceador» está abierta!"
-
     # game/scripts/story_01/sunscreen.rpy:88
     old "Верх снять не хочешь, чтобы было удобнее?"
     new "¿Quieres quitarle la capota para que sea más cómodo?"
@@ -623,14 +619,6 @@ translate spanish strings:
     # game/scripts/story_01/sunscreen.rpy:174
     old "{i}натереть маслицем её ножки{/i}"
     new "{i}frotar aceite en sus pies{/i}"
-
-    # game/scripts/story_01/sunscreen.rpy:243
-    old "Задание «Маслице для загара» завершено!"
-    new "Oportunidad «Aceite bronceador» ¡se acabó!"
-
-    # game/scripts/story_01/sunscreen.rpy:246
-    old "Открыто новое задание «Домашнее обучение массажу»!"
-    new "¡Se abre una nueva oportunidad «Masaje a domicilio»!"
 
     # game/scripts/story_01/sunscreen.rpy:265
     old "Обгореть на солнце не боишься?"

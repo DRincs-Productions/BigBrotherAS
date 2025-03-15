@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-08-14 23:38
+# TODO: Translation updated at 2025-03-08 15:49
 
 # game/scripts/story_01/homework.rpy:9
 translate spanish ev_034_38a2b149:
@@ -1434,10 +1434,6 @@ translate spanish strings:
     old "{i}остаться на вилле{/i}"
     new "{i}quedarse en la villa{/i}"
 
-    # game/scripts/story_01/homework.rpy:358
-    old "Открыто новое задание «При делах»!"
-    new "Se ha abierto una nueva oportunidad, «Por negocios»!"
-
     # game/scripts/story_01/homework.rpy:468
     old "{i}уборка закончена!{/i}"
     new "{i}¡acabar la limpieza!{/i}"
@@ -1465,14 +1461,6 @@ translate spanish strings:
     # game/scripts/story_01/homework.rpy:604
     old "{i}обнять маму{/i}"
     new "{i}Abraza a tu madre.{/i}"
-
-    # game/scripts/story_01/homework.rpy:627
-    old "Задание «При делах» обновлено!"
-    new "La oportunidad «Por negocios» ha sido actualizada!"
-
-    # game/scripts/story_01/homework.rpy:672
-    old "Задание «При делах» завершено!"
-    new "La oportunidad «Por negocios» está completa!"
 
     # game/scripts/story_01/homework.rpy:698
     old "Тогда меня нужно поцеловать для большей мотивации!"
