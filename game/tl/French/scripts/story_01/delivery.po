@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/story_01/delivery.po\n"
+"X-Crowdin-File-ID: 9115\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2025-03-15 14:04\n"
+
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # game/scripts/story_01/delivery.rpy:26 #-#-# translate crowdin ev_delivery_eb6a6385:
+msgid "[_tMax_s_11_] Звонок в ворота! Похоже, к нам кто-то приехал..."
+msgstr "[_tMax_s_11_] La cloche de la porte ! On dirait que quelqu'un est venu nous voir..."
+
+# game/scripts/story_01/delivery.rpy:30 #-#-# translate crowdin ev_delivery_56e163cf:
+msgid "[_tMax_s_03_] Отлично! Привезли то, что я заказывал. Это [txt]."
+msgstr "[_tMax_s_03_] Très bien ! Ils ont apporté ce que j'avais commandé. C'est [txt]."
+
