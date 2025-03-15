@@ -10,217 +10,229 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-01-03 09:33\n"
+"PO-Revision-Date: 2025-03-15 14:02\n"
 
-# TODO: Translation updated at 2024-12-25 17:41 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/clothing.rpy:787
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/clothing.rpy:789
 msgid "Галерея переодеваний обновлена!"
 msgstr "¡La galería de travestis ha sido actualizada!"
 
-# game/scripts/engine/clothing.rpy:923
+# game/scripts/engine/clothing.rpy:925
 msgid "Лонгслив + джинсы"
 msgstr "Manga larga + vaqueros"
 
-# game/scripts/engine/clothing.rpy:923
+# game/scripts/engine/clothing.rpy:925
 msgid "Шорты"
 msgstr "Pantalones cortos"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Обнажённая"
 msgstr "Desnudo"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Джинсы"
 msgstr "Vaqueros"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Съехавшая майка + джинсы"
 msgstr "Camiseta deslizada + vaqueros"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Майка + трусики"
 msgstr "Camiseta + bragas"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Майка + съехавшие трусики"
 msgstr "Camiseta + bragas deslizadas"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Съехавшая майка + трусики"
 msgstr "Camiseta deslizada + bragas"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Съехавшие майка и трусики"
 msgstr "Camisa y bragas deslizadas"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Трусики"
 msgstr "Bragas"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Съехавшие трусики"
 msgstr "Las bragas se deslizaron hacia abajo"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Майка"
 msgstr "Camiseta sin mangas"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Съехавшая майка"
 msgstr "La camiseta sin mangas se ha caido"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Приподнятое выходное платье + трусики"
 msgstr "Vestido de fin de semana con vuelo + bragas"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Приподнятое и съехавшее выходное платье + трусики"
 msgstr "Vestido de fin de semana levantado y deslizado + bragas"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Приподнятое выходное платье"
 msgstr "Vestido de fin de semana con vuelo"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Приподнятое и съехавшее выходное платье"
 msgstr "Vestido de noche levantado y deslizado"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Нижнее бельё, съехавшее снизу (синее)"
 msgstr "La ropa interior se deslizó por la parte inferior (azul)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Нижнее бельё, съехавшее сверху (синее)"
 msgstr "La ropa interior se deslizó hacia abajo en la parte superior (azul)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Нижнее бельё, съехавшее сверху и снизу (синее)"
 msgstr "La ropa interior se desliza hacia abajo en la parte superior e inferior (azul)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Трусики от нижнего белья (синие)"
 msgstr "Bragas de ropa interior (azul)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Съехавшие трусики от нижнего белья (синие)"
 msgstr "Bragas de ropa interior deslizadas (azul)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Бикини, съехавшее сверху (чёрное)"
 msgstr "Bikini deslizadas hacia abajo (negro)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Трусики от бикини (чёрные)"
 msgstr "Bragas de bikini (negro)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Распахнутый халат"
 msgstr "Bata abierta"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Распахнутый халат + трусики"
 msgstr "Bata abierta + bragas"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Нижнее бельё (чёрное)"
 msgstr "Ropa interior (negra)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Нижнее бельё (чёрное), съехавшее снизу"
 msgstr "La ropa interior (negra) se deslizó por la parte inferior"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Нижнее бельё, съехавшее сверху (чёрное)"
 msgstr "La ropa interior se deslizó hacia abajo en la parte superior (negro)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Нижнее бельё, съехавшее сверху и снизу (чёрное)"
 msgstr "La ropa interior se deslizó hacia abajo en la parte superior e inferior (negro)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Трусики от нижнего белья (чёрные)"
 msgstr "Bragas de ropa interior (negro)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Съехавшие трусики от нижнего белья (чёрные)"
 msgstr "Bragas de ropa interior deslizadas (negro)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Бикини, съехавшее сверху (светлое)"
 msgstr "Bikini deslizado hacia abajo (ligero)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Трусики от бикини (светлые)"
 msgstr "Bragas de bikini (ligeras)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Съехавший халат"
 msgstr "Bata deslizada"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Съехавшая ночнушка"
 msgstr "Camisón que se ha movido"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Приподнятое и съехавшее вечернее платье"
 msgstr "Vestido de noche levantado y corredizo"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Джинсовые шорты + нижнее бельё (светлое)"
 msgstr "Shorts vaqueros + ropa interior (ligera)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Джинсовые шорты + нижнее бельё, съехавшее сверху (светлое)"
 msgstr "Shorts vaqueros + ropa interior deslizada hacia abajo en la parte superior (ligera)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Школьная юбка + нижнее бельё (светлое)"
 msgstr "Falda escolar + ropa interior (ligera)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Школьная юбка + нижнее бельё, съехавшее сверху (светлое)"
 msgstr "Falda escolar + ropa interior deslizada hacia abajo (ligera)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Нижнее бельё (светлое)"
 msgstr "Ropa interior (ligera)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Нижнее бельё, съехавшее снизу (светлое)"
 msgstr "La ropa interior se deslizó hacia abajo (de color claro)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Нижнее бельё, съехавшее сверху (светлое)"
 msgstr "La ropa interior se deslizó hacia abajo en la parte superior (ligera)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Нижнее бельё, съехавшее сверху и снизу (светлое)"
 msgstr "Ropa interior que se ha deslizado hacia abajo en la parte superior e inferior (de color claro)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Трусики от нижнего белья (светлые)"
 msgstr "Bragas de ropa interior (ligeras)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Съехавшие трусики от нижнего белья (светлые)"
 msgstr "Bragas de ropa interior deslizadas (ligeras)"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Съехавшее выходное платье"
 msgstr "Vestido holgado de fin de semana"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Пижама, съехавшая сверху"
 msgstr "Pijamas que se ha caído"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Пижамные шорты"
 msgstr "Pantalones cortos de pijama"
 
-# game/scripts/engine/clothing.rpy:966
+# game/scripts/engine/clothing.rpy:968
 msgid "Съехавший закрытый купальник"
 msgstr "Bañador de una pieza que se ha caído"
 
-# game/scripts/engine/clothing.rpy:1122
+# game/scripts/engine/clothing.rpy:1125
 msgid "Повседневная"
 msgstr "Casual"
+
+# game/scripts/engine/clothing.rpy:1136
+msgid "Майка с трусиками"
+msgstr ""
+
+# game/scripts/engine/clothing.rpy:1136
+msgid "Нижнее бельё (синее)"
+msgstr ""
+
+# game/scripts/engine/clothing.rpy:1136
+msgid "Бикини"
+msgstr ""
 

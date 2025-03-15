@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-01-03 09:32\n"
+"PO-Revision-Date: 2025-03-15 14:01\n"
 
-# TODO: Translation updated at 2024-12-25 17:41 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:200
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:200
 msgid "Мама во время завтрака попросила меня посмотреть, что за коробки остались в доме после ремонта. \n"
 "Сейчас они у меня в комнате."
 msgstr "Mi madre me pidió durante el desayuno que viera qué cajas habían quedado en casa después de la reforma. \n"
@@ -89,7 +89,8 @@ msgstr "Aumento de los ingresos"
 # game/scripts/engine/tasks.rpy:200
 msgid "Наконец-то, у меня есть свой собственный сайт, где транслируется изображение с камеры из гостиной! Теперь нужно увеличить аудиторию, ведь чем больше людей, тем больше доход. \n"
 "А для увеличения аудитории нужно, чтобы в кадре происходило что-то интересное. Дом у нас слишком большой, чтобы ограничиваться лишь одной скрытой камерой, но чтобы установить другие, мне ещё понадобится стремянка..."
-msgstr ""
+msgstr "¡Por fin tengo mi propio sitio web que emite la imagen de la cámara desde el salón de mi casa! Ahora necesito aumentar la audiencia, porque cuanta más gente, más ingresos. \n"
+"Y para aumentar la audiencia hay que tener algo interesante en el plano. Nuestra casa es demasiado grande para limitarnos a una sola cámara oculta..."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Нужно завершить задание «Способ заработать»!"
@@ -97,15 +98,15 @@ msgstr "¡Tienes que completar la oportunidad «Cómo ganar dinero»!"
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Купить или раздобыть стремянку."
-msgstr ""
+msgstr "Compra o consigue una escalera de mano."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Различные вещи можно покупать с помощью ноутбука, но иногда можно понадеяться на случай..."
-msgstr ""
+msgstr "Se pueden comprar varias cosas con la ayuda de un ordenador portátil, pero a veces..."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Купить скрытую камеру."
-msgstr ""
+msgstr "Compra una cámara oculta."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Установить скрытую камеру в ванной комнате."
@@ -113,7 +114,7 @@ msgstr "Instale una cámara oculta en el cuarto de baño."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Это можно сделать, если Алиса находится на 2-ом этаже, а остальных нет дома..."
-msgstr ""
+msgstr "Esto se puede hacer si Alice está en el 2º piso y los demás no están en casa...."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "В следующих версиях..."
@@ -234,6 +235,47 @@ msgstr "Comprueba los datos del portátil de Alice"
 # game/scripts/engine/tasks.rpy:200
 msgid "Возможность просматривать вэб-трансляции с Алисой!"
 msgstr "¡La posibilidad de ver webcasts con Alice!"
+
+# game/scripts/engine/tasks.rpy:200
+msgid "Стримерша"
+msgstr ""
+
+# game/scripts/engine/tasks.rpy:200
+msgid "Пришлось повозиться, чтобы выяснить новый ник Алисы на сайте «MyCams».\n"
+"Свой ник я тоже поменял, так что можно совершенно не боясь смотреть её трансляции. Ох, и интересно, что я смогу там увидеть..."
+msgstr ""
+
+# game/scripts/engine/tasks.rpy:200
+msgid "Нужно завершить задание «Взломать блогершу»!"
+msgstr ""
+
+# game/scripts/engine/tasks.rpy:200
+msgid "Посмотреть трансляцию Алисы на сайте «MyCams»."
+msgstr ""
+
+# game/scripts/engine/tasks.rpy:200
+msgid "Алиса проводит трансляции сразу после ужина, но вряд ли каждый день..."
+msgstr ""
+
+# game/scripts/engine/tasks.rpy:200
+msgid "Добавить платёжную информацию в свой профиль на сайте «MyCams»."
+msgstr ""
+
+# game/scripts/engine/tasks.rpy:200
+msgid "Достаточно просто зайти на сайт «MyCams» в любое время..."
+msgstr ""
+
+# game/scripts/engine/tasks.rpy:200
+msgid "Попасть на приватную трансляцию Алисы на сайте «MyCams»."
+msgstr ""
+
+# game/scripts/engine/tasks.rpy:200
+msgid "Нужно победить в отборочном конкурсе шоу Алисы на сайте «MyCams»..."
+msgstr ""
+
+# game/scripts/engine/tasks.rpy:200
+msgid "Продолжение в v0.09..."
+msgstr ""
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Вредная привычка"
@@ -480,6 +522,10 @@ msgid "Нужно продвинуться в выполнении задани�
 msgstr "¡Necesito avanzar en la tarea de \"bloguero empobrecido\"!"
 
 # game/scripts/engine/tasks.rpy:200
+msgid "Для этого Лиза должна быть в хорошем настроении..."
+msgstr ""
+
+# game/scripts/engine/tasks.rpy:200
 msgid "Нужно подойти к Лизе и поговорить с ней на эту тему, когда она находится в своей комнате..."
 msgstr "Tenemos que acercarnos a Lisa y hablarle de este tema cuando esté en su habitación....."
 
@@ -585,11 +631,11 @@ msgstr "Toca discretamente los pechos de Lisa mientras aún duerme."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Нужно завершить задание «При делах»!"
-msgstr ""
+msgstr "Tenemos que completar la tarea que tenemos entre manos."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Дождаться подходящего события, чтобы улучшить навык..."
-msgstr ""
+msgstr "Esperando el evento adecuado para mejorar la habilidad..."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Незаметно потрогать киску Лизы, пока она ещё спит."
@@ -713,23 +759,23 @@ msgstr "Necesidad de completar la tarea de \"estudio de masajes en casa\"."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Предложить Алисе массаж ног у ТВ."
-msgstr ""
+msgstr "Ofrécele a Alice un masaje en los pies frente al televisor."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Можно будет попробовать убедить на это Алису, когда мы будем вместе смотреть ТВ..."
-msgstr ""
+msgstr "Puede que intente convencer a Alice para que lo haga cuando veamos la tele juntos....."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Постараться сделать Алисе полный массаж ступней."
-msgstr ""
+msgstr "Intenta darle a Alice un masaje completo en los pies."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Для этого нужно не допускать ошибок во время массажа её ног у ТВ..."
-msgstr ""
+msgstr "Para ello, no hay que cometer errores al masajear sus pies en la TV....."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Убедить Алису снять джинсы."
-msgstr ""
+msgstr "Convence a Alice para que se quite los vaqueros."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Это можно будет сделать во время массажа ног Алисы у ТВ..."
@@ -767,35 +813,35 @@ msgstr "Necesidad de unirse a mamá para ver la TV...."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Прислушиваться к маминым просьбам и исполнять их."
-msgstr ""
+msgstr "Escuchar y cumplir las peticiones de mamá."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Если мама попросит что-то сделать, то лучше это сделать..."
-msgstr ""
+msgstr "Si mamá te pide que hagas algo, será mejor que lo hagas....."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Добиться похвалы от мамы за исполнение домашних обязанностей."
-msgstr ""
+msgstr "Consigue elogios de mamá por hacer tareas en casa."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Нужно выполнить все домашние обязанности вовремя..."
-msgstr ""
+msgstr "Necesidad de realizar todas las tareas domésticas a tiempo....."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Посмотреть ТВ с мамой, положив голову ей на ноги."
-msgstr ""
+msgstr "Ver la tele con mi madre con la cabeza sobre sus piernas."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Это можно делать, если домашние обязанности выполняются вовремя..."
-msgstr ""
+msgstr "Se puede hacer si las tareas domésticas se hacen a tiempo....."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Найти способ улучшить навык Скрытности до уровня 2."
-msgstr ""
+msgstr "Encuentra la forma de mejorar la habilidad Sigilo hasta el nivel 2."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Сделать так, чтобы с мамы сползла одежда во время просмотра ТВ."
-msgstr ""
+msgstr "Hacer que a mi madre se le resbale la ropa mientras ve la tele."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Вот и выползли минусы большого и классного дома - за ним требуется много ухода. А так как финансово позволить себе дворецкого или хотя бы просто уборщицу мы не можем, то естественно кучу всего повесили на единственного мужчину в семье, то есть меня. \n"

@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-01-03 11:03\n"
+"PO-Revision-Date: 2025-03-15 18:31\n"
 
-# TODO: Translation updated at 2024-12-25 17:41 #|#|# # game/scripts/engine/interact.rpy:37 #-#-# translate crowdin talks_start_41e41361:
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # game/scripts/engine/interact.rpy:37 #-#-# translate crowdin talks_start_41e41361:
 msgid "[_Alice_s_00_] Ну же, Макс, что хотел? [nointeract]"
 msgstr "[_Alice_s_00_] Dai, Max, cosa vuoi? [nointeract]"
 
@@ -155,6 +155,18 @@ msgstr "Per quanto riguarda il tuo ragazzo..."
 # game/scripts/engine/interact.rpy:192
 msgid "Насчёт Алекса..."
 msgstr "Per quanto riguarda Alex..."
+
+# game/scripts/engine/interact.rpy:192
+msgid "Есть успехи с Оливией?"
+msgstr "Qualche successo con Olivia?"
+
+# game/scripts/engine/interact.rpy:192
+msgid "Что-нибудь узнала про Оливию?"
+msgstr "Hai imparato qualcosa su Olivia?"
+
+# game/scripts/engine/interact.rpy:192
+msgid "Ну, так что там с трусиками Оливии?"
+msgstr "Allora, cosa succede con le mutandine di Olivia?"
 
 # game/scripts/engine/interact.rpy:192
 msgid "Я решил потренироваться..."

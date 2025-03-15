@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-01-03 09:33\n"
+"PO-Revision-Date: 2025-03-15 14:02\n"
 
-# TODO: Translation updated at 2024-12-25 17:41 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/memories.rpy:186
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/memories.rpy:186
 msgid "Приобщение к кулинарии!"
 msgstr "Introducción a la cocina!"
 
@@ -23,6 +23,10 @@ msgstr "¡Masaje emocionante!"
 # game/scripts/engine/memories.rpy:186
 msgid "Сексуальные уроки!"
 msgstr "¡Lecciones de sexo!"
+
+# game/scripts/engine/memories.rpy:186
+msgid "Работа подождёт!"
+msgstr ""
 
 # game/scripts/engine/memories.rpy:186
 msgid "Только для одного!"
