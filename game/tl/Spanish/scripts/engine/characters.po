@@ -10,121 +10,121 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-07 19:29\n"
+"PO-Revision-Date: 2025-03-15 14:01\n"
 
-# TODO: Translation updated at 2024-12-25 17:41 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/characters.rpy:414
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/characters.rpy:418
+msgid "Макс"
+msgstr "Max"
+
+# game/scripts/engine/characters.rpy:423
+msgid "Лиза"
+msgstr "Lisa"
+
+# game/scripts/engine/characters.rpy:426
+msgid "Алиса"
+msgstr "Alice"
+
+# game/scripts/engine/characters.rpy:429
+msgid "Мама"
+msgstr "Madre"
+
+# game/scripts/engine/characters.rpy:432
+msgid "Мия"
+msgstr "Mia"
+
+# game/scripts/engine/characters.rpy:435
+msgid "Эрик"
+msgstr "Eric"
+
+# game/scripts/engine/characters.rpy:443
 msgid "Я всегда в поисках приключений на свою пятую точку."
 msgstr "Siempre estoy buscando aventura, aun cuando me meta en problemas."
 
-# game/scripts/engine/characters.rpy:414
+# game/scripts/engine/characters.rpy:443
 msgid "Лиза, моя младшая сестрёнка. Милая и весёлая. Она ещё учится в школе.\n"
 "С ней мы общаемся на одной волне, хотя бывает и ссоримся. Но если что-то случается, то защиты она ищет именно у меня."
 msgstr "Lisa es mi hermana menor. Es dulce y divertida. Aún está en la escuela.\n"
 "Nos llevamos muy bien, aunque a veces nos peleamos. Pero si algo sucede, siempre me busca para protegerla."
 
-# game/scripts/engine/characters.rpy:414
+# game/scripts/engine/characters.rpy:443
 msgid "Алиса, моя старшая сестра. Немного стервозная. В любой непонятной ситуации поступает просто, бьёт по лицу.\n"
 "Она недавно закончила школу и, так же, как и я, ищет свой путь, целыми днями сидя за своим ноутбуком."
 msgstr "Alice es mi hermana mayor. Es un poco malvada. Ante una situación problemática, simplemente va y te golpea en la cara.\n"
 "Acaba de terminar la escuela y, al igual que yo, está buscando su camino, sentada frente a su portátil todo el día."
 
-# game/scripts/engine/characters.rpy:414
+# game/scripts/engine/characters.rpy:443
 msgid "Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании.\n"
 "Хотя, зарплата у неё вполне приличная, но почти всё уходит на оплату жилья, еду и одежду."
 msgstr "Ann es mi madre. Nos ha estado criando a mí y a mis dos hermanas durante años. Trabaja en la oficina de una empresa.\n"
 "Aunque su salario es bastante bueno, casi todo se gasta en alojamiento, comida y ropa."
 
-# game/scripts/engine/characters.rpy:414
+# game/scripts/engine/characters.rpy:443
 msgid "Не знаю почему, но при знакомстве с внезапным маминым ухажёром Эриком, я начал чувствовать, что ничего хорошего он в мою жизнь не принесёт.\n"
 "Как и в жизнь кого-либо из моей семьи. Может быть мне кажется, но какой-то он подозрительный..."
 msgstr "No sé por qué, pero al conocer al repentino novio de mi madre, Eric, empecé a sentir que no iba a aportar nada bueno a mi vida.\n"
 "Ni a nadie de mi familia. Tal vez sea sólo yo, pero parece sospechoso...."
 
-# game/scripts/engine/characters.rpy:414
+# game/scripts/engine/characters.rpy:443
 msgid "Мия, эффектная дама-адвокат. Оказывает юридические услуги для бизнеса моего отца. Похоже, что она профессионал своего дела и это круто.\n"
 "Ведь когда у тебя есть знакомый юрист, жить становится немного спокойнее. А вот то, какая она в жизни мне только предстоит узнать, если повезёт..."
 msgstr "Mia, la preciosa abogada. Proporciona servicios legales para el negocio de mi padre. Suena como si fuera una profesional, lo cual es genial.\n"
 "Quiero decir, tener un abogado hace la vida un poco más relajada. Pero cómo es en la vida real, tendré que averiguarlo, si tengo suerte..."
 
-# game/scripts/engine/characters.rpy:423
+# game/scripts/engine/characters.rpy:452
 msgid "Ужасное"
 msgstr "Terrible"
 
-# game/scripts/engine/characters.rpy:423
+# game/scripts/engine/characters.rpy:452
 msgid "Плохое"
 msgstr "Malo"
 
-# game/scripts/engine/characters.rpy:423
+# game/scripts/engine/characters.rpy:452
 msgid "Не очень"
 msgstr "No mucho"
 
-# game/scripts/engine/characters.rpy:423
+# game/scripts/engine/characters.rpy:452
 msgid "Нейтральное"
 msgstr "Neutro"
 
-# game/scripts/engine/characters.rpy:423
+# game/scripts/engine/characters.rpy:452
 msgid "Неплохое"
 msgstr "No está mal"
 
-# game/scripts/engine/characters.rpy:423
+# game/scripts/engine/characters.rpy:452
 msgid "Хорошее"
 msgstr "Buena"
 
-# game/scripts/engine/characters.rpy:423
+# game/scripts/engine/characters.rpy:452
 msgid "Прекрасное"
 msgstr "Perfecto"
 
-# game/scripts/engine/characters.rpy:433
+# game/scripts/engine/characters.rpy:462
 msgid "Враждебные"
 msgstr "Hostil"
 
-# game/scripts/engine/characters.rpy:433
+# game/scripts/engine/characters.rpy:462
 msgid "Плохие"
 msgstr "Malo"
 
-# game/scripts/engine/characters.rpy:433
+# game/scripts/engine/characters.rpy:462
 msgid "Неплохие"
 msgstr "No está mal"
 
-# game/scripts/engine/characters.rpy:433
+# game/scripts/engine/characters.rpy:462
 msgid "Хорошие"
 msgstr "Bien"
 
-# game/scripts/engine/characters.rpy:433
+# game/scripts/engine/characters.rpy:462
 msgid "Тёплые"
 msgstr "Caliente"
 
-# game/scripts/engine/characters.rpy:433
+# game/scripts/engine/characters.rpy:462
 msgid "Близкие"
 msgstr "Cerrar"
 
-# game/scripts/engine/characters.rpy:442
+# game/scripts/engine/characters.rpy:471
 msgid "А многого мне и не нужно."
 msgstr "Y no necesito mucho."
-
-# game/scripts/engine/characters.rpy:450
-msgid "Макс"
-msgstr "Max"
-
-# game/scripts/engine/characters.rpy:455
-msgid "Лиза"
-msgstr "Lisa"
-
-# game/scripts/engine/characters.rpy:458
-msgid "Алиса"
-msgstr "Alice"
-
-# game/scripts/engine/characters.rpy:461
-msgid "Мама"
-msgstr "Madre"
-
-# game/scripts/engine/characters.rpy:464
-msgid "Мия"
-msgstr "Mia"
-
-# game/scripts/engine/characters.rpy:467
-msgid "Эрик"
-msgstr "Eric"
 
 # game/scripts/engine/characters.rpy:476
 msgid "Я так часто слышу от Алисы различные угрозы и недовольства в свой адрес, что может показаться, будто она меня недолюбливает."
