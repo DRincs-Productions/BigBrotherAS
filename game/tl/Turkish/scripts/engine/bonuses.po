@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-01-03 09:37\n"
+"PO-Revision-Date: 2025-03-15 14:07\n"
 
-# TODO: Translation updated at 2024-12-25 17:41 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/bonuses.rpy:122
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/bonuses.rpy:122
 msgid "Мне нравится йога!"
 msgstr "Yogaya bayılırım!"
 
@@ -53,4 +53,21 @@ msgstr "Oyunun gelecek bölümlerinden Lisa ve Max'in duşta \"sıcak\" çekimi"
 # game/scripts/engine/bonuses.rpy:122
 msgid "Фантазия с Лизой в душе дополняется анимационным моментом"
 msgstr "Lisa'nın duşta olduğu fantezi, hareketli bir anla tamamlanır"
+
+# game/scripts/engine/bonuses.rpy:122
+msgid "Это надо видеть!"
+msgstr ""
+
+# game/scripts/engine/bonuses.rpy:122
+msgid "Неважно, что там показывают по ТВ в моей фантазии с Алисой, ведь смотреть я буду не на экран.\n"
+"Я лучше подетальнее представлю, что её ротик может вытворять с моим членом! Это однозначно стоит просмотра..."
+msgstr ""
+
+# game/scripts/engine/bonuses.rpy:122
+msgid "«Горячий» кадр с Алисой и Максом у ТВ из будущих глав игры"
+msgstr ""
+
+# game/scripts/engine/bonuses.rpy:122
+msgid "Фантазия с Алисой у ТВ дополняется анимационным моментом"
+msgstr ""
 
