@@ -10,121 +10,121 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-01-03 09:36\n"
+"PO-Revision-Date: 2025-03-15 14:02\n"
 
-# TODO: Translation updated at 2024-12-25 17:41 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/characters.rpy:414
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/characters.rpy:418
+msgid "Макс"
+msgstr "Maks"
+
+# game/scripts/engine/characters.rpy:423
+msgid "Лиза"
+msgstr "Lisa"
+
+# game/scripts/engine/characters.rpy:426
+msgid "Алиса"
+msgstr "Alice"
+
+# game/scripts/engine/characters.rpy:429
+msgid "Мама"
+msgstr "Anne"
+
+# game/scripts/engine/characters.rpy:432
+msgid "Мия"
+msgstr "Mia"
+
+# game/scripts/engine/characters.rpy:435
+msgid "Эрик"
+msgstr "Eric"
+
+# game/scripts/engine/characters.rpy:443
 msgid "Я всегда в поисках приключений на свою пятую точку."
 msgstr "Her zaman kıçımda macera arıyorum."
 
-# game/scripts/engine/characters.rpy:414
+# game/scripts/engine/characters.rpy:443
 msgid "Лиза, моя младшая сестрёнка. Милая и весёлая. Она ещё учится в школе.\n"
 "С ней мы общаемся на одной волне, хотя бывает и ссоримся. Но если что-то случается, то защиты она ищет именно у меня."
 msgstr "Lisa, küçük kız kardeşim. Tatlı ve neşeli. Halen okulda.\n"
 "Bazen kavga etsek de onunla aynı dalga boyunda iletişim kuruyoruz. Ama bir şey olursa korunmak için bana başvurur."
 
-# game/scripts/engine/characters.rpy:414
+# game/scripts/engine/characters.rpy:443
 msgid "Алиса, моя старшая сестра. Немного стервозная. В любой непонятной ситуации поступает просто, бьёт по лицу.\n"
 "Она недавно закончила школу и, так же, как и я, ищет свой путь, целыми днями сидя за своим ноутбуком."
 msgstr "Alice, ablam. Biraz şirret. Anlaşılmaz bir durumda basit davranır ve yüzüne vurur.\n"
 "O da okuldan yeni mezun oldu ve benim gibi bütün gün dizüstü bilgisayarının başında oturarak yolunu arıyor."
 
-# game/scripts/engine/characters.rpy:414
+# game/scripts/engine/characters.rpy:443
 msgid "Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании.\n"
 "Хотя, зарплата у неё вполне приличная, но почти всё уходит на оплату жилья, еду и одежду."
 msgstr "Anna, annem. Birkaç yıldır iki kız kardeşimi ve beni büyütüyor. Bir şirketin ofisinde çalışıyor.\n"
 "Maaşı oldukça iyi olmasına rağmen, neredeyse her şey barınma, yiyecek ve giyime gidiyor."
 
-# game/scripts/engine/characters.rpy:414
+# game/scripts/engine/characters.rpy:443
 msgid "Не знаю почему, но при знакомстве с внезапным маминым ухажёром Эриком, я начал чувствовать, что ничего хорошего он в мою жизнь не принесёт.\n"
 "Как и в жизнь кого-либо из моей семьи. Может быть мне кажется, но какой-то он подозрительный..."
 msgstr "Nedenini bilmiyorum ama annemin ani erkek arkadaşı Eric'le tanıştığımda onun hayatıma iyi bir şey getirmeyeceğini hissetmeye başladım.\n"
 "Ailemdeki herkesin hayatında olduğu gibi. Belki sadece benimdir, ama o biraz şüpheli..."
 
-# game/scripts/engine/characters.rpy:414
+# game/scripts/engine/characters.rpy:443
 msgid "Мия, эффектная дама-адвокат. Оказывает юридические услуги для бизнеса моего отца. Похоже, что она профессионал своего дела и это круто.\n"
 "Ведь когда у тебя есть знакомый юрист, жить становится немного спокойнее. А вот то, какая она в жизни мне только предстоит узнать, если повезёт..."
 msgstr "Mia, muhteşem bir bayan avukat. Babamın işi için hukuki hizmetler sağlıyor. Bir profesyonel gibi görünüyor ve bu çok hoş.\n"
 "Sonuçta avukat bir arkadaşınız olduğunda hayat biraz daha sakinleşiyor. Ama eğer şanslıysam, onun hayatta nasıl biri olduğunu öğrenmem gerekecek..."
 
-# game/scripts/engine/characters.rpy:423
+# game/scripts/engine/characters.rpy:452
 msgid "Ужасное"
 msgstr "Korkunç"
 
-# game/scripts/engine/characters.rpy:423
+# game/scripts/engine/characters.rpy:452
 msgid "Плохое"
 msgstr "Kötü"
 
-# game/scripts/engine/characters.rpy:423
+# game/scripts/engine/characters.rpy:452
 msgid "Не очень"
 msgstr "İyi değil"
 
-# game/scripts/engine/characters.rpy:423
+# game/scripts/engine/characters.rpy:452
 msgid "Нейтральное"
 msgstr "Doğal"
 
-# game/scripts/engine/characters.rpy:423
+# game/scripts/engine/characters.rpy:452
 msgid "Неплохое"
 msgstr "Fena değil"
 
-# game/scripts/engine/characters.rpy:423
+# game/scripts/engine/characters.rpy:452
 msgid "Хорошее"
 msgstr "İyi"
 
-# game/scripts/engine/characters.rpy:423
+# game/scripts/engine/characters.rpy:452
 msgid "Прекрасное"
 msgstr "Güzel"
 
-# game/scripts/engine/characters.rpy:433
+# game/scripts/engine/characters.rpy:462
 msgid "Враждебные"
 msgstr "Düşmanca"
 
-# game/scripts/engine/characters.rpy:433
+# game/scripts/engine/characters.rpy:462
 msgid "Плохие"
 msgstr "Kötü"
 
-# game/scripts/engine/characters.rpy:433
+# game/scripts/engine/characters.rpy:462
 msgid "Неплохие"
 msgstr "Fena değil"
 
-# game/scripts/engine/characters.rpy:433
+# game/scripts/engine/characters.rpy:462
 msgid "Хорошие"
 msgstr "İyi"
 
-# game/scripts/engine/characters.rpy:433
+# game/scripts/engine/characters.rpy:462
 msgid "Тёплые"
 msgstr "Ilık"
 
-# game/scripts/engine/characters.rpy:433
+# game/scripts/engine/characters.rpy:462
 msgid "Близкие"
 msgstr "Kapalı"
 
-# game/scripts/engine/characters.rpy:442
+# game/scripts/engine/characters.rpy:471
 msgid "А многого мне и не нужно."
 msgstr ""
-
-# game/scripts/engine/characters.rpy:450
-msgid "Макс"
-msgstr "Maks"
-
-# game/scripts/engine/characters.rpy:455
-msgid "Лиза"
-msgstr "Lisa"
-
-# game/scripts/engine/characters.rpy:458
-msgid "Алиса"
-msgstr "Alice"
-
-# game/scripts/engine/characters.rpy:461
-msgid "Мама"
-msgstr "Anne"
-
-# game/scripts/engine/characters.rpy:464
-msgid "Мия"
-msgstr "Mia"
-
-# game/scripts/engine/characters.rpy:467
-msgid "Эрик"
-msgstr "Eric"
 
 # game/scripts/engine/characters.rpy:476
 msgid "Я так часто слышу от Алисы различные угрозы и недовольства в свой адрес, что может показаться, будто она меня недолюбливает."
