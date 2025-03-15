@@ -10,121 +10,121 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-01-21 14:10\n"
+"PO-Revision-Date: 2025-03-15 14:02\n"
 
-# TODO: Translation updated at 2024-12-25 17:41 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/characters.rpy:414
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/characters.rpy:418
+msgid "Макс"
+msgstr "Max"
+
+# game/scripts/engine/characters.rpy:423
+msgid "Лиза"
+msgstr "Lisa"
+
+# game/scripts/engine/characters.rpy:426
+msgid "Алиса"
+msgstr "Alice"
+
+# game/scripts/engine/characters.rpy:429
+msgid "Мама"
+msgstr "Maman"
+
+# game/scripts/engine/characters.rpy:432
+msgid "Мия"
+msgstr "Mia"
+
+# game/scripts/engine/characters.rpy:435
+msgid "Эрик"
+msgstr "Eric"
+
+# game/scripts/engine/characters.rpy:443
 msgid "Я всегда в поисках приключений на свою пятую точку."
 msgstr "Je suis toujours à la recherche d'une aventure sur mon talon."
 
-# game/scripts/engine/characters.rpy:414
+# game/scripts/engine/characters.rpy:443
 msgid "Лиза, моя младшая сестрёнка. Милая и весёлая. Она ещё учится в школе.\n"
 "С ней мы общаемся на одной волне, хотя бывает и ссоримся. Но если что-то случается, то защиты она ищет именно у меня."
 msgstr "Lisa, ma petite sœur. Elle est gentille et drôle. Elle est encore à l'école.\n"
 "Elle et moi sommes sur la même longueur d'onde, même si nous nous disputons parfois. Mais si quelque chose arrive, c'est vers moi qu'elle se tourne pour se protéger."
 
-# game/scripts/engine/characters.rpy:414
+# game/scripts/engine/characters.rpy:443
 msgid "Алиса, моя старшая сестра. Немного стервозная. В любой непонятной ситуации поступает просто, бьёт по лицу.\n"
 "Она недавно закончила школу и, так же, как и я, ищет свой путь, целыми днями сидя за своим ноутбуком."
 msgstr "Alice, ma sœur aînée. Un peu salope. Dans toute situation d'incompréhension, elle agit simplement en me donnant un coup de poing dans la figure.\n"
 "Elle vient de terminer ses études et, comme moi, elle cherche sa voie, assise devant son ordinateur portable toute la journée."
 
-# game/scripts/engine/characters.rpy:414
+# game/scripts/engine/characters.rpy:443
 msgid "Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании.\n"
 "Хотя, зарплата у неё вполне приличная, но почти всё уходит на оплату жилья, еду и одежду."
 msgstr "Anna, ma mère. Elle nous élève elle-même, mes deux sœurs et moi, depuis quelques années. Elle travaille dans un bureau d'une entreprise.\n"
 "Bien que son salaire soit tout à fait décent, elle en consacre la majeure partie au loyer, à la nourriture et aux vêtements."
 
-# game/scripts/engine/characters.rpy:414
+# game/scripts/engine/characters.rpy:443
 msgid "Не знаю почему, но при знакомстве с внезапным маминым ухажёром Эриком, я начал чувствовать, что ничего хорошего он в мою жизнь не принесёт.\n"
 "Как и в жизнь кого-либо из моей семьи. Может быть мне кажется, но какой-то он подозрительный..."
 msgstr "Je ne sais pas pourquoi, mais dès que j'ai rencontré Eric, le petit ami soudain de ma mère, j'ai commencé à penser qu'il n'apporterait rien de bon dans ma vie.\n"
 "Ni à aucun membre de ma famille. C'est peut-être moi, mais il a l'air suspect...."
 
-# game/scripts/engine/characters.rpy:414
+# game/scripts/engine/characters.rpy:443
 msgid "Мия, эффектная дама-адвокат. Оказывает юридические услуги для бизнеса моего отца. Похоже, что она профессионал своего дела и это круто.\n"
 "Ведь когда у тебя есть знакомый юрист, жить становится немного спокойнее. А вот то, какая она в жизни мне только предстоит узнать, если повезёт..."
 msgstr "Mia, la magnifique avocate. Elle fournit des services juridiques à l'entreprise de mon père. On dirait que c'est une professionnelle, ce qui est cool.\n"
 "Je veux dire, avoir un avocat rend la vie un peu plus détendue. Mais ce qu'elle est dans la vraie vie, je vais devoir le découvrir, si j'ai de la chance...."
 
-# game/scripts/engine/characters.rpy:423
+# game/scripts/engine/characters.rpy:452
 msgid "Ужасное"
 msgstr "Terrible match"
 
-# game/scripts/engine/characters.rpy:423
+# game/scripts/engine/characters.rpy:452
 msgid "Плохое"
 msgstr "Mauvais"
 
-# game/scripts/engine/characters.rpy:423
+# game/scripts/engine/characters.rpy:452
 msgid "Не очень"
 msgstr "Pas vraiment"
 
-# game/scripts/engine/characters.rpy:423
+# game/scripts/engine/characters.rpy:452
 msgid "Нейтральное"
 msgstr "Neutre"
 
-# game/scripts/engine/characters.rpy:423
+# game/scripts/engine/characters.rpy:452
 msgid "Неплохое"
 msgstr "Décent"
 
-# game/scripts/engine/characters.rpy:423
+# game/scripts/engine/characters.rpy:452
 msgid "Хорошее"
 msgstr "Bon"
 
-# game/scripts/engine/characters.rpy:423
+# game/scripts/engine/characters.rpy:452
 msgid "Прекрасное"
 msgstr "Parfait"
 
-# game/scripts/engine/characters.rpy:433
+# game/scripts/engine/characters.rpy:462
 msgid "Враждебные"
 msgstr "Hostile"
 
-# game/scripts/engine/characters.rpy:433
+# game/scripts/engine/characters.rpy:462
 msgid "Плохие"
 msgstr "Mauvais"
 
-# game/scripts/engine/characters.rpy:433
+# game/scripts/engine/characters.rpy:462
 msgid "Неплохие"
 msgstr "Pas mauvais"
 
-# game/scripts/engine/characters.rpy:433
+# game/scripts/engine/characters.rpy:462
 msgid "Хорошие"
 msgstr "Bon"
 
-# game/scripts/engine/characters.rpy:433
+# game/scripts/engine/characters.rpy:462
 msgid "Тёплые"
 msgstr "Chaud"
 
-# game/scripts/engine/characters.rpy:433
+# game/scripts/engine/characters.rpy:462
 msgid "Близкие"
 msgstr "Fermer"
 
-# game/scripts/engine/characters.rpy:442
+# game/scripts/engine/characters.rpy:471
 msgid "А многого мне и не нужно."
 msgstr "Je n'ai pas besoin de grand-chose."
-
-# game/scripts/engine/characters.rpy:450
-msgid "Макс"
-msgstr "Max"
-
-# game/scripts/engine/characters.rpy:455
-msgid "Лиза"
-msgstr "Lisa"
-
-# game/scripts/engine/characters.rpy:458
-msgid "Алиса"
-msgstr "Alice"
-
-# game/scripts/engine/characters.rpy:461
-msgid "Мама"
-msgstr "Maman"
-
-# game/scripts/engine/characters.rpy:464
-msgid "Мия"
-msgstr "Mia"
-
-# game/scripts/engine/characters.rpy:467
-msgid "Эрик"
-msgstr "Eric"
 
 # game/scripts/engine/characters.rpy:476
 msgid "Я так часто слышу от Алисы различные угрозы и недовольства в свой адрес, что может показаться, будто она меня недолюбливает."
