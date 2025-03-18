@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/screens/diary.po\n"
+"X-Crowdin-File-ID: 9087\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2025-03-15 14:04\n"
+
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/diary.rpy:24
+msgid "Задания"
+msgstr "Görevler"
+
+# game/scripts/screens/diary.rpy:27
+msgid "Заметки"
+msgstr "Notlar"
+
+# game/scripts/screens/diary.rpy:54
+msgid "ТЕКУЩИЕ"
+msgstr "DEVAM EDİYOR"
+
+# game/scripts/screens/diary.rpy:62
+msgid "ВЫПОЛНЕННЫЕ"
+msgstr "YÜRÜRLÜĞE GİRDİ"
+
+# game/scripts/screens/diary.rpy:76
+msgid "ВСЕ"
+msgstr "TÜMÜ"
+
+# game/scripts/screens/diary.rpy:146
+msgid "Сейчас здесь нет заданий"
+msgstr "Şu anda burada herhangi bir görev yok"
+
+# game/scripts/screens/diary.rpy:196
+msgid "Завершите задание, чтобы получить награду..."
+msgstr "Ödülü almak için görevi tamamlayın..."
+
+# game/scripts/screens/diary.rpy:198
+msgid "Нужно приблизиться к завершению задания, чтобы узнать о награде..."
+msgstr "Ödülü öğrenmek için görevi tamamlamaya yaklaşmanız gerekiyor..."
+
+# game/scripts/screens/diary.rpy:201
+msgid "НАГРАДА:"
+msgstr "ÖDÜL:"
+
+# game/scripts/screens/diary.rpy:349
+msgid "МОЯ СТАРШАЯ СЕСТРЁНКА"
+msgstr "BÜYÜK KIZ KARDEŞİM"
+
+# game/scripts/screens/diary.rpy:357
+msgid "МОЯ МАМА"
+msgstr "BENİM ANNEM"
+
+# game/scripts/screens/diary.rpy:364
+msgid "МОЯ МЛАДШАЯ СЕСТРЁНКА"
+msgstr ""
+
+# game/scripts/screens/diary.rpy:379
+msgid "НАШИ ВЗАИМООТНОШЕНИЯ:"
+msgstr "ILIŞKIMIZ:"
+
