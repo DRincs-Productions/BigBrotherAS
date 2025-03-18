@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-03-15 14:01\n"
+"PO-Revision-Date: 2025-03-18 15:48\n"
 
 # TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:200
 msgid "Мама во время завтрака попросила меня посмотреть, что за коробки остались в доме после ремонта. \n"
@@ -89,7 +89,7 @@ msgstr "Augmentation des revenus"
 # game/scripts/engine/tasks.rpy:200
 msgid "Наконец-то, у меня есть свой собственный сайт, где транслируется изображение с камеры из гостиной! Теперь нужно увеличить аудиторию, ведь чем больше людей, тем больше доход. \n"
 "А для увеличения аудитории нужно, чтобы в кадре происходило что-то интересное. Дом у нас слишком большой, чтобы ограничиваться лишь одной скрытой камерой, но чтобы установить другие, мне ещё понадобится стремянка..."
-msgstr ""
+msgstr "Enfin, j'ai mon propre site Web qui diffuse le flux de la caméra de mon salon !  Nous devons maintenant augmenter notre audience, car plus il y a de monde, plus il y a de revenus. Et pour augmenter l’audience, il faut qu’il se passe quelque chose d’intéressant dans le cadre.  Notre maison est trop grande pour se limiter à une seule caméra cachée, mais pour en installer d'autres, j'aurai aussi besoin d'un escabeau..."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Нужно завершить задание «Способ заработать»!"
@@ -97,23 +97,23 @@ msgstr "Nous devons terminer la tâche «comment gagner de l'argent« !"
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Купить или раздобыть стремянку."
-msgstr ""
+msgstr "Achetez ou procurez-vous un escabeau."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Различные вещи можно покупать с помощью ноутбука, но иногда можно понадеяться на случай..."
-msgstr ""
+msgstr "Vous pouvez acheter diverses choses en utilisant votre ordinateur portable, mais parfois vous pouvez compter sur le hasard..."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Купить скрытую камеру."
-msgstr ""
+msgstr "Achetez une caméra cachée."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Установить скрытую камеру в ванной комнате."
-msgstr ""
+msgstr "Installer une caméra cachée dans la salle de bain."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Это можно сделать, если Алиса находится на 2-ом этаже, а остальных нет дома..."
-msgstr ""
+msgstr "Cela peut être fait si Alice est à la piscine et que les autres ne sont pas à la maison..."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "В следующих версиях..."
@@ -147,7 +147,7 @@ msgstr "Peut-être qu'un moyen se présentera bientôt....."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Нужно завершить задание «Арахнофобия»!"
-msgstr ""
+msgstr "La quête « Arachnophobie » doit être complétée !"
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Убедить Алису заняться эротическими веб-трансляциями."
@@ -171,7 +171,7 @@ msgstr "Aller au magasin de vêtements avec Alice."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Подарить Алисе тёмное нижнее бельё."
-msgstr ""
+msgstr "Donnez à Alice des sous-vêtements sombres."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Нужно вручить Алисе подарок, когда она находится в своей комнате..."
@@ -237,7 +237,7 @@ msgstr "La possibilité de visionner des webcasts avec Alice !"
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Стримерша"
-msgstr ""
+msgstr "Banderole"
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Пришлось повозиться, чтобы выяснить новый ник Алисы на сайте «MyCams».\n"
