@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-03-08 15:49
+﻿# TODO: Translation updated at 2025-07-27 23:15
 
 # game/scripts/story_01/annroom.rpy:12
 translate crowdin ev_ann_dressed_d0c78fcb:
@@ -168,91 +168,91 @@ translate crowdin ev_ann_sleep_mast1_177cdcb8:
     # tMax 05 "Офигеть! Как же классно снова видеть, как мама ласкает себя! Подобраться бы поближе..." nointeract
     tMax 05 "Офигеть! Как же классно снова видеть, как мама ласкает себя! Подобраться бы поближе..." nointeract
 
-# game/scripts/story_01/annroom.rpy:372
+# game/scripts/story_01/annroom.rpy:373
 translate crowdin ev_ann_sleep_mast1_b991380b:
 
     # tMax 12 "Ох, чёрт! Это очень рискованно... Понятия не имею, как я буду объясняться, если она меня заметит или услышит. Если и сваливать, то лучше сейчас, пока я ещё недалеко от окна..." nointeract
     tMax 12 "Ох, чёрт! Это очень рискованно... Понятия не имею, как я буду объясняться, если она меня заметит или услышит. Если и сваливать, то лучше сейчас, пока я ещё недалеко от окна..." nointeract
 
-# game/scripts/story_01/annroom.rpy:380
+# game/scripts/story_01/annroom.rpy:381
 translate crowdin ev_ann_sleep_mast1_787ca7be:
 
     # tMax 06 "Ухх... Наблюдая за тем, что происходит между этими раздвинутыми ножками, становится всё равно, что она моя мама..."
     tMax 06 "Ухх... Наблюдая за тем, что происходит между этими раздвинутыми ножками, становится всё равно, что она моя мама..."
 
-# game/scripts/story_01/annroom.rpy:382
+# game/scripts/story_01/annroom.rpy:383
 translate crowdin ev_ann_sleep_mast1_0db1360b:
 
     # tMax 11 "Так и хочется оттрахать, уж слишком соблазнительно она себя ласкает, но лучше сматываться отсюда, пока она ещё стонет!" nointeract
     tMax 11 "Так и хочется оттрахать, уж слишком соблазнительно она себя ласкает, но лучше сматываться отсюда, пока она ещё стонет!" nointeract
 
-# game/scripts/story_01/annroom.rpy:386
+# game/scripts/story_01/annroom.rpy:387
 translate crowdin ev_ann_sleep_mast1_f34b8199:
 
     # tMax 04 "Да уж, я увидел куда больше, чем думал! Со скрытностью у меня, похоже, полный порядок, раз я умудрился такое провернуть и не попасться!"
     tMax 04 "Да уж, я увидел куда больше, чем думал! Со скрытностью у меня, похоже, полный порядок, раз я умудрился такое провернуть и не попасться!"
 
-# game/scripts/story_01/annroom.rpy:387
+# game/scripts/story_01/annroom.rpy:388
 translate crowdin ev_ann_sleep_mast1_0fda04a2:
 
     # tMax 01 "Это значит, что теперь я смогу увидеть больше всякого интересного, да и шансов будет больше..."
     tMax 01 "Это значит, что теперь я смогу увидеть больше всякого интересного, да и шансов будет больше..."
 
-# game/scripts/story_01/annroom.rpy:401
+# game/scripts/story_01/annroom.rpy:402
 translate crowdin ev_ann_sleep_mast1_1d5fcc08:
 
     # tMax 13 "Нет, слишком опасно! Даже если повезёт и мама меня не увидит, то наверняка услышит. Может, в следующий раз, если таковой представится..." nointeract
     tMax 13 "Нет, слишком опасно! Даже если повезёт и мама меня не увидит, то наверняка услышит. Может, в следующий раз, если таковой представится..." nointeract
 
-# game/scripts/story_01/annroom.rpy:405
+# game/scripts/story_01/annroom.rpy:406
 translate crowdin ev_ann_sleep_mast1_bea58364:
 
     # tMax 13 "Если это снова повторится и я всё же смогу подкрасться к ней максимально близко, то после можно будет и в других местах за мамой попробовать подсмотреть."
     tMax 13 "Если это снова повторится и я всё же смогу подкрасться к ней максимально близко, то после можно будет и в других местах за мамой попробовать подсмотреть."
 
-# game/scripts/story_01/annroom.rpy:415
+# game/scripts/story_01/annroom.rpy:417
 translate crowdin ev_ann_sleep_mast1_787ca7be_1:
 
     # tMax 06 "Ухх... Наблюдая за тем, что происходит между этими раздвинутыми ножками, становится всё равно, что она моя мама..."
     tMax 06 "Ухх... Наблюдая за тем, что происходит между этими раздвинутыми ножками, становится всё равно, что она моя мама..."
 
-# game/scripts/story_01/annroom.rpy:417
+# game/scripts/story_01/annroom.rpy:419
 translate crowdin ev_ann_sleep_mast1_0db1360b_1:
 
     # tMax 11 "Так и хочется оттрахать, уж слишком соблазнительно она себя ласкает, но лучше сматываться отсюда, пока она ещё стонет!" nointeract
     tMax 11 "Так и хочется оттрахать, уж слишком соблазнительно она себя ласкает, но лучше сматываться отсюда, пока она ещё стонет!" nointeract
 
-# game/scripts/story_01/annroom.rpy:424
+# game/scripts/story_01/annroom.rpy:426
 translate crowdin ev_ann_sleep_mast1_1d5fcc08_1:
 
     # tMax 13 "Нет, слишком опасно! Даже если повезёт и мама меня не увидит, то наверняка услышит. Может, в следующий раз, если таковой представится..." nointeract
     tMax 13 "Нет, слишком опасно! Даже если повезёт и мама меня не увидит, то наверняка услышит. Может, в следующий раз, если таковой представится..." nointeract
 
-# game/scripts/story_01/annroom.rpy:446
+# game/scripts/story_01/annroom.rpy:448
 translate crowdin ev_024_48cd1387:
 
     # Ann 01 "Так, сынок, я отправляюсь на работу. Не безобразничайте тут, пока меня нет..."
     Ann 01 "Так, сынок, я отправляюсь на работу. Не безобразничайте тут, пока меня нет..."
 
-# game/scripts/story_01/annroom.rpy:447
+# game/scripts/story_01/annroom.rpy:449
 translate crowdin ev_024_b6f3ae4d:
 
     # Max 01 "Конечно, мам. Хорошего тебе дня!"
     Max 01 "Конечно, мам. Хорошего тебе дня!"
 
-# game/scripts/story_01/annroom.rpy:451
+# game/scripts/story_01/annroom.rpy:453
 translate crowdin ev_024_338fa70d:
 
     # Ann 04 "Спасибо, Макс! Тебе тоже. И пока не ушла, иди ко мне, я тебя в щёчку поцелую..." nointeract
     Ann 04 "Спасибо, Макс! Тебе тоже. И пока не ушла, иди ко мне, я тебя в щёчку поцелую..." nointeract
 
-# game/scripts/story_01/annroom.rpy:460
+# game/scripts/story_01/annroom.rpy:462
 translate crowdin ev_024_45cf9986:
 
     # tMax 04 "Как же приятно получать объятия и поцелуи от такой шикарной женщины, как моя мама! Приходится даже хорошенько вжаться в её бесподобную грудь, чтобы она достала губами до моего лица..."
     tMax 04 "Как же приятно получать объятия и поцелуи от такой шикарной женщины, как моя мама! Приходится даже хорошенько вжаться в её бесподобную грудь, чтобы она достала губами до моего лица..."
 
-# game/scripts/story_01/annroom.rpy:464
+# game/scripts/story_01/annroom.rpy:466
 translate crowdin ev_024_873762ea:
 
     # Ann 02 "До вечера, дорогой. Я побежала..."
@@ -288,19 +288,19 @@ translate crowdin strings:
     old "Да, был вопросик, но от такой красоты я всё позабыл..."
     new "Да, был вопросик, но от такой красоты я всё позабыл..."
 
-    # game/scripts/story_01/annroom.rpy:371
+    # game/scripts/story_01/annroom.rpy:372
     old "{i}подползти ещё ближе{/i}"
     new "{i}подползти ещё ближе{/i}"
 
-    # game/scripts/story_01/annroom.rpy:371
+    # game/scripts/story_01/annroom.rpy:372
     old "{i}тихонько уползти{/i}"
     new "{i}тихонько уползти{/i}"
 
-    # game/scripts/story_01/annroom.rpy:390
+    # game/scripts/story_01/annroom.rpy:391
     old "Навык «Скрытность» повышен до уровня 2!"
     new "Навык «Скрытность» повышен до уровня 2!"
 
-    # game/scripts/story_01/annroom.rpy:450
+    # game/scripts/story_01/annroom.rpy:452
     old "{i}подойти к маме{/i}"
     new "{i}подойти к маме{/i}"
 

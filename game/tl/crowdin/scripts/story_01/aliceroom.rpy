@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-03-08 15:49
+﻿# TODO: Translation updated at 2025-07-27 23:15
 
 # game/scripts/story_01/aliceroom.rpy:10
 translate crowdin ev_alice_dressed_51996b14:
@@ -19,10 +19,10 @@ translate crowdin ev_alice_dressed_voy_door_8a37451c:
     tMax 03 "О, вот это класс! Очень хочется присвистнуть от восхищения, как Алиса переодевается, но это чревато переломами..." nointeract
 
 # game/scripts/story_01/aliceroom.rpy:65
-translate crowdin ev_alice_dressed_voy_door_6349aa0c:
+translate crowdin ev_alice_dressed_voy_door_a9f58824:
 
-    # Alice 14 "Макс! Ты офигел что ли?! {p=2}{nw}"
-    Alice 14 "Макс! Ты офигел что ли?! {p=2}{nw}"
+    # Alice 14 "Макс! Ты офигел, что ли?! {p=2}{nw}"
+    Alice 14 "Макс! Ты офигел, что ли?! {p=2}{nw}"
 
 # game/scripts/story_01/aliceroom.rpy:71
 translate crowdin ev_alice_dressed_voy_door_5db8bd0e:
@@ -43,10 +43,10 @@ translate crowdin ev_alice_dressed_moment0_3dfd4f9e:
     Alice 02 "Вот и прекрасно. Дверь закрой!" nointeract
 
 # game/scripts/story_01/aliceroom.rpy:100
-translate crowdin ev_alice_dressed_moment2_6349aa0c:
+translate crowdin ev_alice_dressed_moment2_a9f58824:
 
-    # Alice 14 "Макс! Ты офигел что ли?! {p=2}{nw}"
-    Alice 14 "Макс! Ты офигел что ли?! {p=2}{nw}"
+    # Alice 14 "Макс! Ты офигел, что ли?! {p=2}{nw}"
+    Alice 14 "Макс! Ты офигел, что ли?! {p=2}{nw}"
 
 # game/scripts/story_01/aliceroom.rpy:106
 translate crowdin ev_alice_dressed_moment2_5db8bd0e:
@@ -55,10 +55,10 @@ translate crowdin ev_alice_dressed_moment2_5db8bd0e:
     Alice 15 "Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла!" nointeract
 
 # game/scripts/story_01/aliceroom.rpy:119
-translate crowdin ev_alice_dressed_moment1_84056b1d:
+translate crowdin ev_alice_dressed_moment1_e8828fa4:
 
-    # Alice 15 "Макс! Ты офигел что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла!" nointeract
-    Alice 15 "Макс! Ты офигел что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла!" nointeract
+    # Alice 15 "Макс! Ты офигел, что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла!" nointeract
+    Alice 15 "Макс! Ты офигел, что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла!" nointeract
 
 # game/scripts/story_01/aliceroom.rpy:129
 translate crowdin ev_alice_dressed_in_front_of_max_08a70370:

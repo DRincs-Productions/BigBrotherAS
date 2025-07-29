@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-03-08 15:49
+﻿# TODO: Translation updated at 2025-07-27 23:15
 
 # game/scripts/story_01/arachnophobia.rpy:7
 translate crowdin ev_032_247fb4c6:
@@ -679,10 +679,10 @@ translate crowdin ev_066_d718a4ed_1:
     Max 12 "Ясно, ты не в настроении. Ладно, где этот твой паук..."
 
 # game/scripts/story_01/arachnophobia.rpy:414
-translate crowdin ev_066_28398585:
+translate crowdin ev_066_2f62b1f6:
 
-    # Alice 15 "Да всё там же на кровати за подушками! Лови его..."
-    Alice 15 "Да всё там же на кровати за подушками! Лови его..."
+    # Alice 15 "Он всё там же на кровати за подушками! Лови его..."
+    Alice 15 "Он всё там же на кровати за подушками! Лови его..."
 
 # game/scripts/story_01/arachnophobia.rpy:419
 translate crowdin ev_066_ff00698c:
@@ -877,10 +877,10 @@ translate crowdin ev_070_money_d718a4ed:
     Max 12 "Ясно, ты не в настроении. Ладно, где этот твой паук..."
 
 # game/scripts/story_01/arachnophobia.rpy:564
-translate crowdin ev_070_money_28398585:
+translate crowdin ev_070_money_2f62b1f6:
 
-    # Alice 15 "Да всё там же на кровати за подушками! Лови его..."
-    Alice 15 "Да всё там же на кровати за подушками! Лови его..."
+    # Alice 15 "Он всё там же на кровати за подушками! Лови его..."
+    Alice 15 "Он всё там же на кровати за подушками! Лови его..."
 
 # game/scripts/story_01/arachnophobia.rpy:572
 translate crowdin ev_070_bust_b552e0d7:
@@ -919,10 +919,10 @@ translate crowdin ev_070_bust_d718a4ed:
     Max 12 "Ясно, ты не в настроении. Ладно, где этот твой паук..."
 
 # game/scripts/story_01/arachnophobia.rpy:590
-translate crowdin ev_070_bust_28398585:
+translate crowdin ev_070_bust_2f62b1f6:
 
-    # Alice 15 "Да всё там же на кровати за подушками! Лови его..."
-    Alice 15 "Да всё там же на кровати за подушками! Лови его..."
+    # Alice 15 "Он всё там же на кровати за подушками! Лови его..."
+    Alice 15 "Он всё там же на кровати за подушками! Лови его..."
 
 # game/scripts/story_01/arachnophobia.rpy:598
 translate crowdin ev_070_ass_ac593ea8:

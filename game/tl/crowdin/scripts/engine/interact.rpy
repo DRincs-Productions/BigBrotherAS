@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-03-08 15:49
+﻿# TODO: Translation updated at 2025-07-27 23:15
 
 # game/scripts/engine/interact.rpy:37
 translate crowdin talks_start_41e41361:
@@ -85,8 +85,8 @@ translate crowdin strings:
     new "Тебе не жарко в этом купальнике?"
 
     # game/scripts/engine/interact.rpy:192
-    old "Значит Алекс, да?"
-    new "Значит Алекс, да?"
+    old "Значит, Алекс, да?"
+    new "Значит, Алекс, да?"
 
     # game/scripts/engine/interact.rpy:192
     old "Хорошо загорается?"

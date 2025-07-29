@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-03-08 15:49 #|#|# # game/scripts/story_01/intro.rpy:6 #-#-# translate crowdin intro_52864ee0:
+﻿# TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/story_01/intro.rpy:6 #-#-# translate crowdin intro_52864ee0:
 msgid "[_Max_s_01_] Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку. [nointeract]"
 msgstr "[_Max_s_01_] Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку. [nointeract]"
 
@@ -123,8 +123,8 @@ msgid "{i}далее{/i}"
 msgstr "{i}далее{/i}"
 
 # game/scripts/story_01/intro.rpy:5
-msgid "{i}пропустить{/i}"
-msgstr "{i}пропустить{/i}"
+msgid "{i}пропустить пролог{/i}"
+msgstr "{i}пропустить пролог{/i}"
 
 # game/scripts/story_01/intro.rpy:41
 msgid "{i}несколько недель спустя...{/i}"
@@ -135,6 +135,6 @@ msgid "{i}спустя неделю...{/i}"
 msgstr "{i}спустя неделю...{/i}"
 
 # game/scripts/story_01/intro.rpy:67
-msgid "{i}Начать игру{/i}"
-msgstr "{i}Начать игру{/i}"
+msgid "{i}начать игру (Глава 1){/i}"
+msgstr "{i}начать игру (Глава 1){/i}"
 

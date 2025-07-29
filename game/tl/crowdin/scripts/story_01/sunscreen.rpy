@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-03-08 15:49
+﻿# TODO: Translation updated at 2025-07-27 23:15
 
 # game/scripts/story_01/sunscreen.rpy:7
 translate crowdin ev_011_03c9dcee:
@@ -37,10 +37,10 @@ translate crowdin ev_011_first_talk_oil_4467e358:
     Alice 12 "Может быть. Вот только у меня его нет... А у тебя?"
 
 # game/scripts/story_01/sunscreen.rpy:53
-translate crowdin ev_011_first_talk_oil_d086b3ce:
+translate crowdin ev_011_first_talk_oil_9631b163:
 
-    # Max 12 "Чёрт! И у меня нет. Ну, в другой раз значит..."
-    Max 12 "Чёрт! И у меня нет. Ну, в другой раз значит..."
+    # Max 12 "Чёрт! И у меня нет. Ну, в другой раз, значит..."
+    Max 12 "Чёрт! И у меня нет. Ну, в другой раз, значит..."
 
 # game/scripts/story_01/sunscreen.rpy:56
 translate crowdin ev_011_first_talk_oil_bcf60149:
