@@ -10,37 +10,37 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-03-15 14:03\n"
+"PO-Revision-Date: 2025-07-29 08:36\n"
 
-# TODO: Translation updated at 2025-03-08 15:49 #|#|# # game/scripts/engine/service.rpy:69 #-#-# translate crowdin nothing_to_do_423a776a:
+# TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/engine/service.rpy:73 #-#-# translate crowdin nothing_to_do_423a776a:
 msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
 msgstr "[_tMax_s_12_] Je n'ai rien d'autre à faire ici pour le moment..."
 
-# game/scripts/engine/service.rpy:462 #-#-# translate crowdin after_buy_d1c26937:
-msgid "[_tMax_s_12_] Да уж... Пришлось потратиться, но надеюсь мне удастся, благодаря этой книге, создать свой сайт и хорошо заработать."
-msgstr "[_tMax_s_12_] Oui... J'ai dû faire des folies, mais j'espère pouvoir, grâce à ce livre, créer mon propre site web et bien gagner ma vie."
+# game/scripts/engine/service.rpy:466 #-#-# translate crowdin after_buy_388f9ec2:
+msgid "[_tMax_s_12_] Да уж... Пришлось раскошелиться... Надеюсь, благодаря этой книге мне удастся создать свой сайт и хорошо заработать."
+msgstr ""
 
-# game/scripts/engine/service.rpy:463 #-#-# translate crowdin after_buy_8163c063:
-msgid "[_tMax_s_01_] Но книгу, как и любую другую вещь заказанную по интернету, доставят только завтра, так что пока можно отдыхать..."
-msgstr "[_tMax_s_01_] Mais le livre, comme toute autre chose commandée en ligne, ne sera pas livré avant demain, alors pour l'instant vous pouvez vous reposer..."
+# game/scripts/engine/service.rpy:467 #-#-# translate crowdin after_buy_1673198b:
+msgid "[_tMax_s_01_] Но книгу, как и другие товары, заказанные в интернете, доставят только завтра. Поэтому пока можно отдохнуть..."
+msgstr ""
 
-# game/scripts/engine/service.rpy:479 #-#-# translate crowdin webcam_show_8e2c7b14:
+# game/scripts/engine/service.rpy:483 #-#-# translate crowdin webcam_show_8e2c7b14:
 msgid "[_tMax_s_11_] Прилягу-ка я на кровать, чтобы Лиза не увидела ничего такого..."
 msgstr "[Je vais m'allonger sur le lit pour que Lisa ne voie rien de tout cela..."
 
-# game/scripts/engine/service.rpy:486 #-#-# translate crowdin webcam_show_2717e9a0:
+# game/scripts/engine/service.rpy:490 #-#-# translate crowdin webcam_show_2717e9a0:
 msgid "[_tMax_s_11_] Прилягу-ка я на кровать, чтобы Лиза не увидела ничего такого, если зайдёт в комнату..."
 msgstr "[Je vais m'allonger sur le lit pour que Lisa ne voie rien de tout cela si elle entre dans la pièce..."
 
-# §translate crowdin strings: #|#|# # game/scripts/engine/service.rpy:556
+# §translate crowdin strings: #|#|# # game/scripts/engine/service.rpy:560
 msgid "Вы хотите ознакомиться с особенностями игры?"
 msgstr "Voulez-vous vous familiariser avec les caractéristiques spéciales du jeu ?"
 
-# game/scripts/engine/service.rpy:556
+# game/scripts/engine/service.rpy:560
 msgid "Да, пройти обучение"
 msgstr "Oui, à former"
 
-# game/scripts/engine/service.rpy:556
+# game/scripts/engine/service.rpy:560
 msgid "Нет, я всё знаю"
 msgstr "Non, je sais tout."
 
