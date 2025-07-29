@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-03-15 14:07\n"
+"PO-Revision-Date: 2025-07-29 08:38\n"
 
-# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/bonuses.rpy:122
+# TODO: Translation updated at 2025-07-27 23:15 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/bonuses.rpy:123
 msgid "Мне нравится йога!"
 msgstr "Λατρεύω τη γιόγκα!"
 
-# game/scripts/engine/bonuses.rpy:122
+# game/scripts/engine/bonuses.rpy:123
 msgid "В качестве альтернативы наказаниям за некоторые проступки я могу заниматься физкультурой во время маминой йоги.\n"
 "Это возможно, если я попался на подглядывании в душе за Лизой или мамой, а так же если Лиза проснулась от моих утренних прикосновений.\n"
 "И, раз уж так можно, то почему бы не улучшить это событие, хотя бы немного?"
@@ -24,50 +24,67 @@ msgstr "Ως εναλλακτική λύση στην τιμωρία για ορ
 "Αυτό είναι δυνατό αν με πιάσουν να κρυφοκοιτάζω στο ντους τη Λίζα ή τη μαμά, ή αν η Λίζα ξυπνήσει από τα πρωινά μου αγγίγματα.\n"
 "Και, αφού είναι εφικτό, γιατί να μην βελτιώσουμε την εμπειρία, έστω και λίγο;"
 
-# game/scripts/engine/bonuses.rpy:122
+# game/scripts/engine/bonuses.rpy:123
 msgid "Три раза добиться от мамы помощи с прессом, отбывая наказание во время йоги"
 msgstr "Να βάλω τη μαμά μου να με βοηθήσει με τους κοιλιακούς μου τρεις φορές, ενώ υπηρετούσα την ώρα κατά τη διάρκεια της γιόγκα"
 
-# game/scripts/engine/bonuses.rpy:122
+# game/scripts/engine/bonuses.rpy:123
 msgid "Возможность свободного занятия физкультурой, пока мама занимается йогой"
 msgstr "Να μπορεί να ασκείται ελεύθερα ενώ η μαμά κάνει γιόγκα"
 
-# game/scripts/engine/bonuses.rpy:122
+# game/scripts/engine/bonuses.rpy:123
 msgid "Альтернативный визуальный ряд окончания физкультуры"
 msgstr "Εναλλακτικές εικόνες για το τέλος του μαθήματος της Φυσικής Αγωγής"
 
-# game/scripts/engine/bonuses.rpy:122
+# game/scripts/engine/bonuses.rpy:123
 msgid "Тот ещё фантазёр!"
 msgstr "Τι ονειροπόλος!"
 
-# game/scripts/engine/bonuses.rpy:122
+# game/scripts/engine/bonuses.rpy:123
 msgid "Как же не хочется, чтобы фантазия с моей мокренькой младшей сестрёнкой заканчивалась.\n"
 "А ведь я мог бы постараться и продлить это наслаждение! Пускай не на много, но всё же..."
 msgstr "Δεν θέλω να τελειώσει η φαντασίωση με την υγρή αδελφούλα μου.\n"
 "Θα μπορούσα να προσπαθήσω να παρατείνω την απόλαυση! Όχι πολύ, αλλά ακόμα....."
 
-# game/scripts/engine/bonuses.rpy:122
+# game/scripts/engine/bonuses.rpy:123
 msgid "«Горячий» кадр с Лизой и Максом в душе из будущих глав игры"
 msgstr "\"Καυτό\" πλάνο της Lisa και του Max στο ντους από μελλοντικά κεφάλαια του παιχνιδιού"
 
-# game/scripts/engine/bonuses.rpy:122
+# game/scripts/engine/bonuses.rpy:123
 msgid "Фантазия с Лизой в душе дополняется анимационным моментом"
 msgstr "Η φαντασίωση με τη Λίζα στο ντους συμπληρώνεται από μια ζωντανή στιγμή"
 
-# game/scripts/engine/bonuses.rpy:122
+# game/scripts/engine/bonuses.rpy:123
 msgid "Это надо видеть!"
 msgstr ""
 
-# game/scripts/engine/bonuses.rpy:122
+# game/scripts/engine/bonuses.rpy:123
 msgid "Неважно, что там показывают по ТВ в моей фантазии с Алисой, ведь смотреть я буду не на экран.\n"
 "Я лучше подетальнее представлю, что её ротик может вытворять с моим членом! Это однозначно стоит просмотра..."
 msgstr ""
 
-# game/scripts/engine/bonuses.rpy:122
+# game/scripts/engine/bonuses.rpy:123
 msgid "«Горячий» кадр с Алисой и Максом у ТВ из будущих глав игры"
 msgstr ""
 
-# game/scripts/engine/bonuses.rpy:122
+# game/scripts/engine/bonuses.rpy:123
 msgid "Фантазия с Алисой у ТВ дополняется анимационным моментом"
+msgstr ""
+
+# game/scripts/engine/bonuses.rpy:123
+msgid "И всем хорошо!"
+msgstr ""
+
+# game/scripts/engine/bonuses.rpy:123
+msgid "Это такое удовольствие, фантазировать о том, как мои руки скользят по маминому горячему и сногсшибательному телу.\n"
+"Особенно, когда её ротик с таким огромным наслаждением не забывает порадовать меня ещё сильнее! И как можно дольше..."
+msgstr ""
+
+# game/scripts/engine/bonuses.rpy:123
+msgid "«Горячий» кадр с Анной и Максом во дворе из будущих глав игры"
+msgstr ""
+
+# game/scripts/engine/bonuses.rpy:123
+msgid "Фантазия с загорающей Анной во дворе дополняется анимационным моментом"
 msgstr ""
 
