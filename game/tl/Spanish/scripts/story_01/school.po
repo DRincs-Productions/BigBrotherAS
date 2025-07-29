@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-15 14:06\n"
+"PO-Revision-Date: 2025-07-29 08:37\n"
 
-# TODO: Translation updated at 2025-03-08 15:49 #|#|# # game/scripts/story_01/school.rpy:10 #-#-# translate crowdin ev_004_1fe4b55c:
+# TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/story_01/school.rpy:10 #-#-# translate crowdin ev_004_1fe4b55c:
 msgid "[_Lisa_s_01_] Эй, Макс, я пошла в школу. Надеюсь, у меня всё заладится с самого первого дня..."
 msgstr "[_Lisa_s_01_] Hola, Max, me voy a la escuela. Espero hacerlo bien desde el primer día..."
 
@@ -64,9 +64,9 @@ msgstr "[_Lisa_s_01_] ¡Hola, Max! He vuelto."
 msgid "[_Max_s_03_] Супер! Как первый день?"
 msgstr "[_Max_s_03_] Estupendo. ¿Qué tal tu primer día?"
 
-# game/scripts/story_01/school.rpy:43 #-#-# translate crowdin ev_005_84a83294:
-msgid "[_Lisa_s_02_] Да ничего так. Сейчас расскажу, но сперва переоденусь и прыгну в бассейн. Только об этом и мечтала целый день! Я быстро... [nointeract]"
-msgstr "[_Lisa_s_02_] Está bastante bien. Te lo contaré, pero primero voy a cambiarme y tirarme a la piscina. ¡Es con lo único que he soñado todo el día! Ahora vuelvo. [nointeract]"
+# game/scripts/story_01/school.rpy:43 #-#-# translate crowdin ev_005_d4740de4:
+msgid "[_Lisa_s_02_] Да ничего так. Сейчас расскажу. Только сперва переоденусь и прыгну в бассейн. Целый день только об этом и мечтала! Я быстро... [nointeract]"
+msgstr ""
 
 # game/scripts/story_01/school.rpy:49 #-#-# translate crowdin ev_005_5f1e8448:
 msgid "[_tMax_s_07_] Мне всё больше и больше начинает нравиться это место! У нас здесь и классный бассейн, и чтобы позагорать есть специальная зона... Девчонок теперь постоянно можно будет видеть в купальниках, что может только радовать."
@@ -84,17 +84,17 @@ msgstr "[_Max_s_05_] Oh, hacía mucho tiempo que no te veía en traje de baño..
 msgid "[_Lisa_s_02_] Спасибо! Хорошо, что я из него не выросла, а то обидно бы было. Пошли... [nointeract]"
 msgstr "[_Lisa_s_02_] ¡Oh, gracias! Menos mal que no crecí, o habría sido una pena. Vamos... [nointeract]"
 
-# game/scripts/story_01/school.rpy:66 #-#-# translate crowdin ev_005_b6c17294:
-msgid "[_Lisa_s_03_] Неужели, я дома! До сих пор не могу поверить, что ЭТО наш дом!"
-msgstr "[_Lisa_s_03_] ¡No puedo creer que esté en casa! ¡Todavía no puedo creer que este sea nuestro hogar!"
+# game/scripts/story_01/school.rpy:66 #-#-# translate crowdin ev_005_99c01462:
+msgid "[_Lisa_s_03_] Неужели я дома! До сих пор не могу поверить, что ЭТО наш дом!"
+msgstr ""
 
 # game/scripts/story_01/school.rpy:67 #-#-# translate crowdin ev_005_71f7276b:
 msgid "[_Max_s_02_] Да я сам в шоке!"
 msgstr "[_Max_s_02_] Yo también estoy sorprendido!"
 
-# game/scripts/story_01/school.rpy:68 #-#-# translate crowdin ev_005_9168440f:
-msgid "[_Lisa_s_02_] Вот-вот! Целый день думала о нашем бассейне. Неужели, здесь всегда такая погода?"
-msgstr "[_Lisa_s_02_] ¡Así es! Llevo todo el día pensando en nuestra piscina. ¿Siempre hace este tiempo aquí?"
+# game/scripts/story_01/school.rpy:68 #-#-# translate crowdin ev_005_115e4c1c:
+msgid "[_Lisa_s_02_] Вот-вот! Целый день думала о нашем бассейне. Интересно, здесь всегда такая погода?"
+msgstr ""
 
 # game/scripts/story_01/school.rpy:69 #-#-# translate crowdin ev_005_4cdcea6d:
 msgid "[_Max_s_04_] Да, мы почти в раю."
@@ -116,9 +116,9 @@ msgstr "[_Lisa_s_02_] ¡Sabes, hay una escuela a la vuelta de la esquina! Diez m
 msgid "[_Max_s_01_] А сама школа как тебе?"
 msgstr "[_Max_s_01_] ¿Qué opinas de la escuela en sí?"
 
-# game/scripts/story_01/school.rpy:77 #-#-# translate crowdin ev_005_1f2f8493:
-msgid "[_Lisa_s_01_] Школа отличная! Меня хорошо приняли, все такие доброжелательные... А некоторые особенно..."
-msgstr "[_Lisa_s_01_] ¡La escuela es genial! Fui bien recibida, todo el mundo es tan amable... Y alguno de ellos especialmente..."
+# game/scripts/story_01/school.rpy:77 #-#-# translate crowdin ev_005_4ffcc53f:
+msgid "[_Lisa_s_01_] Школа отличная! Меня хорошо приняли. Все такие доброжелательные... А некоторые - особенно..."
+msgstr ""
 
 # game/scripts/story_01/school.rpy:78 #-#-# translate crowdin ev_005_0f719e7d:
 msgid "[_Max_s_13_] Некоторые? Ты о ком?"
@@ -164,9 +164,9 @@ msgstr "[_Lisa_s_00_] ¿Qué tal el día?"
 msgid "[_Max_s_11_] Привыкаю понемногу ко всему..."
 msgstr "[_Max_s_11_] Me estoy acostumbrando a todo..."
 
-# game/scripts/story_01/school.rpy:93 #-#-# translate crowdin ev_005_5b20a9d3:
-msgid "[_Lisa_s_01_] Да уж, задача сложная. Невыносимые условия жизни и всё такое, да? Что планируешь делать, чем займёшься?"
-msgstr "[_Lisa_s_01_] Sí, es un reto. Condiciones de vida insoportables y todo eso, ¿eh? ¿Qué piensas hacer, qué vas a hacer?"
+# game/scripts/story_01/school.rpy:93 #-#-# translate crowdin ev_005_e4c1c38b:
+msgid "[_Lisa_s_01_] Да уж, задача сложная. Невыносимые условия жизни и всё такое, да? Что планируешь делать? Чем займёшься?"
+msgstr ""
 
 # game/scripts/story_01/school.rpy:94 #-#-# translate crowdin ev_005_4497117e:
 msgid "[_Max_s_00_] Буду думать как заработать!"
@@ -184,9 +184,9 @@ msgstr "[_Lisa_s_03_] Personalmente, pienso nadar y tomar el sol. Tomar el sol y
 msgid "[_Max_s_02_] Отличный план! Так что там у тебя за подружка появилась?"
 msgstr "[_Max_s_02_] ¡Buen plan! ¿Quién es tu novia?"
 
-# game/scripts/story_01/school.rpy:104 #-#-# translate crowdin ev_005_9fda9918:
-msgid "[_Lisa_s_02_] Обычная такая подружка... Какие подружки бывают обычно, вот у меня такая!"
-msgstr "[_Lisa_s_02_] Es sólo una novia normal. ¿Qué tipo de novias son comunes? ¡Yo tengo una!"
+# game/scripts/story_01/school.rpy:104 #-#-# translate crowdin ev_005_7c7e7673:
+msgid "[_Lisa_s_02_] Обычная такая подружка... Какие подруги бывают обычно? Вот такая и у меня!"
+msgstr ""
 
 # game/scripts/story_01/school.rpy:105 #-#-# translate crowdin ev_005_b2074a07:
 msgid "[_Max_s_13_] Имя-то у этой подружки хоть есть?"
