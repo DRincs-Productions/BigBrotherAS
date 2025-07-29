@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-15 14:01\n"
+"PO-Revision-Date: 2025-07-29 08:37\n"
 
-# TODO: Translation updated at 2025-03-08 15:49 #|#|# # game/scripts/story_01/hidden_cams.rpy:12 #-#-# translate crowdin ev_003_089bb89e:
+# TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/story_01/hidden_cams.rpy:12 #-#-# translate crowdin ev_003_089bb89e:
 msgid "[_tMax_s_13_] Так, мама попросила разобрать коробки. Сейчас глянем, что тут у нас..."
 msgstr "[_tMax_s_13_] Vale, mamá me ha pedido que deshaga las cajas. Vamos a ver lo que tenemos aquí..."
 
@@ -36,9 +36,9 @@ msgstr "[_tMax_s_13_] No parece haber cámaras aquí... Tal vez deberíamos busc
 msgid "[_tMax_s_11_] Ого! Вот же она! Кто-то её так хорошо запрятал в стену, что найти камеру можно только точно зная, что ищешь..."
 msgstr "[_tMax_s_11_] ¡Ahí está! Alguien la ha escondido tan bien en la pared que sólo puedes encontrar la cámara si sabes exactamente lo que estás buscando..."
 
-# game/scripts/story_01/hidden_cams.rpy:46 #-#-# translate crowdin ev_006_4d99a2a9:
-msgid "[_tMax_s_12_] Так... Но она ни к чему не подключена сейчас. Видимо, отец так следил за ходом строительства и ремонта, а сейчас уже некому следить и не за чем..."
-msgstr "[_tMax_s_12_] Entonces... Pero ahora no está conectado a nada. Al parecer, mi padre solía vigilar la construcción y reforma, y ahora no hay nadie que lo vigile ni nada que ver..."
+# game/scripts/story_01/hidden_cams.rpy:46 #-#-# translate crowdin ev_006_6626d93b:
+msgid "[_tMax_s_12_] Так... Но она ни к чему не подключена сейчас. Видимо, отец так следил за ходом строительства и ремонта. А сейчас уже некому следить и не за чем..."
+msgstr ""
 
 # game/scripts/story_01/hidden_cams.rpy:47 #-#-# translate crowdin ev_006_2efad7ae:
 msgid "[_tMax_s_01_] Но если её подключить, то можно подглядывать и за кое-чем другим. Вот только нужно во всём как следует разобраться, поискав информацию в интернете!"
@@ -48,9 +48,9 @@ msgstr "[_tMax_s_01_] Pero si lo conecto, también puedo mirar otras cosas. ¡S�
 msgid "[_tMax_s_12_] Так, любопытно... Эти камеры можно настроить так, чтобы они транслировали изображение в интернет!"
 msgstr "[_tMax_s_12_] Así que, curioso... Estas cámaras se pueden configurar para transmitir imágenes a Internet!"
 
-# game/scripts/story_01/hidden_cams.rpy:61 #-#-# translate crowdin ev_007_f204a253:
-msgid "[_tMax_s_11_] Но что ещё интереснее, некоторые люди готовы платить за доступ к таким камерам... Может быть, мне сделать свой сайт и пусть люди мне платят за просмотр видео?"
-msgstr "[_tMax_s_11_] Pero lo que es aún más interesante es que algunas personas están dispuestas a pagar por acceder a esas cámaras..... ¿Quizá debería crear mi propia página web y hacer que la gente me pague por ver vídeos?"
+# game/scripts/story_01/hidden_cams.rpy:61 #-#-# translate crowdin ev_007_71c4cc0b:
+msgid "[_tMax_s_11_] Но что ещё интереснее, некоторые люди готовы платить за доступ к таким камерам... Может быть, мне сделать свой сайт, где люди будут платить мне за просмотр видео?"
+msgstr ""
 
 # game/scripts/story_01/hidden_cams.rpy:62 #-#-# translate crowdin ev_007_92878369:
 msgid "[_tMax_s_13_] Но я ничего толком не умею... Может быть, поможет какая-то литература? Иногда, специализированные книги куда лучше, чем то, что пишут в интернете!"
