@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-07-29 08:38\n"
+"PO-Revision-Date: 2025-08-02 15:37\n"
 
 # TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/engine/service.rpy:73 #-#-# translate crowdin nothing_to_do_423a776a:
 msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
@@ -18,11 +18,11 @@ msgstr "[_tMax_s_12_] Non c'è nient'altro da fare qui al momento..."
 
 # game/scripts/engine/service.rpy:466 #-#-# translate crowdin after_buy_388f9ec2:
 msgid "[_tMax_s_12_] Да уж... Пришлось раскошелиться... Надеюсь, благодаря этой книге мне удастся создать свой сайт и хорошо заработать."
-msgstr ""
+msgstr "[_tMax_s_12_] Eh già... Ho dovuto spendere un bel po'... Spero che grazie a questo libro riuscirò a creare il mio sito e a guadagnare bene."
 
 # game/scripts/engine/service.rpy:467 #-#-# translate crowdin after_buy_1673198b:
 msgid "[_tMax_s_01_] Но книгу, как и другие товары, заказанные в интернете, доставят только завтра. Поэтому пока можно отдохнуть..."
-msgstr ""
+msgstr "[_tMax_s_01_] Ma il libro, come gli altri articoli ordinati su internet, verrà consegnato solo domani. Quindi, per ora, posso rilassarmi un po’..."
 
 # game/scripts/engine/service.rpy:483 #-#-# translate crowdin webcam_show_8e2c7b14:
 msgid "[_tMax_s_11_] Прилягу-ка я на кровать, чтобы Лиза не увидела ничего такого..."
