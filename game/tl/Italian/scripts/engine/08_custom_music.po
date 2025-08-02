@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/engine/08_custom_music.po\n"
+"X-Crowdin-File-ID: 14708\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2025-08-02 14:38\n"
+
+# TODO: Translation updated at 2025-07-27 23:15 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/08_custom_music.rpy:450
+msgid "Фоновая музыка"
+msgstr "Musica di sottofondo"
+
+# game/scripts/engine/08_custom_music.rpy:450
+msgid "Утреннее время"
+msgstr "Mattina"
+
+# game/scripts/engine/08_custom_music.rpy:450
+msgid "Дневное время"
+msgstr "Pomeriggio"
+
+# game/scripts/engine/08_custom_music.rpy:450
+msgid "Вечернее время"
+msgstr "Sera"
+
+# game/scripts/engine/08_custom_music.rpy:450
+msgid "Ночное время"
+msgstr "Notte"
+
+# game/scripts/engine/08_custom_music.rpy:450
+msgid "Подсматривания"
+msgstr "Spiare"
+
+# game/scripts/engine/08_custom_music.rpy:450
+msgid "Подсматривания утром/днём/вечером"
+msgstr "Sbirciare al mattino/pomeriggio/sera"
+
+# game/scripts/engine/08_custom_music.rpy:450
+msgid "Подсматривания ночью"
+msgstr "Sbirciare di notte"
+
+# game/scripts/engine/08_custom_music.rpy:450
+msgid "Музыка персонажей"
+msgstr "Musica dei personaggi"
+
+# game/scripts/engine/08_custom_music.rpy:450
+msgid "События Алисы"
+msgstr "Eventi di Alice"
+
+# game/scripts/engine/08_custom_music.rpy:450
+msgid "... днём"
+msgstr "... nel pomeriggio"
+
+# game/scripts/engine/08_custom_music.rpy:450
+msgid "... ночью"
+msgstr "... di notte"
+
+# game/scripts/engine/08_custom_music.rpy:450
+msgid "... особые"
+msgstr "... speciale"
+
+# game/scripts/engine/08_custom_music.rpy:450
+msgid "События Анны"
+msgstr "Eventi di Anna"
+
+# game/scripts/engine/08_custom_music.rpy:450
+msgid "События Лизы"
+msgstr "Eventi di Lisa"
+
+# game/scripts/engine/08_custom_music.rpy:450
+msgid "События Мии"
+msgstr "Eventi di Mia"
+
+# game/scripts/engine/08_custom_music.rpy:450
+msgid "Отдельные события"
+msgstr "Eventi distinti"
+
+# game/scripts/engine/08_custom_music.rpy:450
+msgid "Йога с Анной"
+msgstr "Yoga con la mamma"
+
+# game/scripts/engine/08_custom_music.rpy:450
+msgid "ТВ с Алисой"
+msgstr "TV con Alice"
+
+# game/scripts/engine/08_custom_music.rpy:450
+msgid "Домашнее задание с Лизой"
+msgstr "Compiti a casa con Lisa"
+

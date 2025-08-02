@@ -1,0 +1,634 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/story_01/dinners.po\n"
+"X-Crowdin-File-ID: 9117\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2025-07-29 08:37\n"
+
+# TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/story_01/dinners.rpy:35 #-#-# translate crowdin ev_dinner_r1_24ac51ec:
+msgid "[_Ann_s_01_] Всем приятного аппетита! Алиса столько всего наготовила сегодня, умничка. Давайте ужинать..."
+msgstr "[_Ann_s_01_] ¡Buen provecho a todos! Alice cocinó mucho hoy, buena chica. Vamos a cenar."
+
+# game/scripts/story_01/dinners.rpy:38 #-#-# translate crowdin ev_dinner_r1_0be98adf:
+msgid "[_Alice_s_01_] Ага, я такая! Приятного аппетита..."
+msgstr "[_Alice_s_01_] ¡Sí, lo soy! Buen provecho..."
+
+# game/scripts/story_01/dinners.rpy:40 #-#-# translate crowdin ev_dinner_r1_011f98c8:
+msgid "[_Lisa_s_01_] Спасибо, Алиса! Приятного аппетита..."
+msgstr "[_Lisa_s_01_] Gracias, Alice. Disfruta...."
+
+# game/scripts/story_01/dinners.rpy:42 #-#-# translate crowdin ev_dinner_r1_1c8a4074:
+msgid "[_tMax_s_11_] Ммм... У Алисы получается готовить всё вкуснее и вкуснее! Денёк получился довольно обычным, поэтому и разговоров каких-то интересных не было. Всё хорошо..."
+msgstr "[_tMax_s_11_] Mmmm... La cocina de Alice es cada vez mejor. Fue un día bastante ordinario, así que no hubo conversaciones interesantes. Todo está bien."
+
+# game/scripts/story_01/dinners.rpy:44 #-#-# translate crowdin ev_dinner_r1_0ab12a9d:
+msgid "[_Ann_s_01_] Всем приятного аппетита! Много всего я сегодня наготовила, всем должно понравиться. Давайте ужинать..."
+msgstr "[_Ann_s_01_] ¡Buen provecho a todos! He hecho un montón de cosas hoy, todo el mundo debería disfrutar. Vamos a cenar."
+
+# game/scripts/story_01/dinners.rpy:47 #-#-# translate crowdin ev_dinner_r1_3cbf4df6:
+msgid "[_Alice_s_01_] Конечно, мам! Приятного аппетита..."
+msgstr "[_Alice_s_01_] ¡Claro, mamá! Buen provecho..."
+
+# game/scripts/story_01/dinners.rpy:49 #-#-# translate crowdin ev_dinner_r1_3cc30d0a:
+msgid "[_Lisa_s_01_] Спасибо, мам! Приятного аппетита..."
+msgstr "[_Lisa_s_01_] ¡Gracias, mamá! Buen provecho..."
+
+# game/scripts/story_01/dinners.rpy:51 #-#-# translate crowdin ev_dinner_r1_ed34edee:
+msgid "[_tMax_s_11_] Ммм... Вкуснее, чем готовит мама, больше никто не готовит! Денёк получился довольно обычным, поэтому и разговоров каких-то интересных не было. Всё хорошо..."
+msgstr "[_tMax_s_11_] Mmm. Nadie cocina mejor que mamá. Fue un día bastante ordinario, así que no hubo conversaciones interesantes. Todo está bien."
+
+# game/scripts/story_01/dinners.rpy:62 #-#-# translate crowdin ev_009_e3b48c17:
+msgid "[_Ann_s_02_] Рада, что все смогли сегодня собраться. Всем приятного аппетита! Ну, у кого как день прошёл?"
+msgstr "[_Ann_s_02_] Me alegro de que todos hayan podido reunirse hoy. ¡Buen provecho! ¿Qué tal el día?"
+
+# game/scripts/story_01/dinners.rpy:63 #-#-# translate crowdin ev_009_001f19e2:
+msgid "[_Alice_s_02_] Мам, да у нас всё как обычно. Это ты рассказывай, как первый рабочий день?"
+msgstr "[_Alice_s_02_] Mamá, es lo de siempre. Dime, ¿cómo fue tu primer día de trabajo?"
+
+# game/scripts/story_01/dinners.rpy:64 #-#-# translate crowdin ev_009_1d802de4:
+msgid "[_Ann_s_01_] Вы знаете, довольно неплохо. Такой офис! Такие все важные. Но я смогу там работать и даже планирую подняться по карьерной лестнице..."
+msgstr "[_Ann_s_01_] Sabes, es bastante bueno. ¡Qué oficina! Todo el mundo es tan importante. Pero puedo trabajar allí, e incluso planeo ascender en la organización..."
+
+# game/scripts/story_01/dinners.rpy:65 #-#-# translate crowdin ev_009_6dc50b10:
+msgid "[_Max_s_13_] Напомни, а кем ты работаешь?"
+msgstr "[_Max_s_13_] Recuérdame otra vez, ¿a qué te dedicas?"
+
+# game/scripts/story_01/dinners.rpy:66 #-#-# translate crowdin ev_009_e66ba414:
+msgid "[_Ann_s_11_] Что, Макс, с памятью проблемы? Может, попросить врача выписать тебе витамины? Я работаю в отделе развития и занимаюсь маркетингом."
+msgstr ""
+
+# game/scripts/story_01/dinners.rpy:67 #-#-# translate crowdin ev_009_42f759d1:
+msgid "[_Max_s_01_] Точно. Ну, поздравляю!"
+msgstr "[_Max_s_01_] Pues sí. Bueno, ¡felicidades!"
+
+# game/scripts/story_01/dinners.rpy:68 #-#-# translate crowdin ev_009_74079050:
+msgid "[_Ann_s_03_] Спасибо, Макс. Вы всё вопросы задаёте. Поели бы хоть немного. Кстати, Алиса, ты молодец, что приготовила ужин. Сама я бы ещё долго возилась."
+msgstr ""
+
+# game/scripts/story_01/dinners.rpy:69 #-#-# translate crowdin ev_009_59c4cc1b:
+msgid "[_Alice_s_01_] Не за что. Ты же сама меня научила всему, вот и пожинай плоды!"
+msgstr "[_Alice_s_01_] De nada. Fuiste tú quien me lo enseñó todo, ¡así que recoge los beneficios!"
+
+# game/scripts/story_01/dinners.rpy:70 #-#-# translate crowdin ev_009_302f53c5:
+msgid "[_Max_s_11_] А где находится твой офис?"
+msgstr "[_Max_s_11_] ¿Dónde se encuentra tu oficina?"
+
+# game/scripts/story_01/dinners.rpy:71 #-#-# translate crowdin ev_009_9b119a88:
+msgid "[_Ann_s_12_] Вот с этим беда. На общественном транспорте добираться долго. Но думаю, что эта проблема решится..."
+msgstr "[_Ann_s_12_] Ahí está el problema. Se tarda mucho en llegar en transporte público. Pero creo que este problema se resolverá..."
+
+# game/scripts/story_01/dinners.rpy:72 #-#-# translate crowdin ev_009_ee138e14:
+msgid "[_Lisa_s_11_] А с начальником повезло?"
+msgstr "[_Lisa_s_11_] ¿Ha habido suerte con el jefe?"
+
+# game/scripts/story_01/dinners.rpy:73 #-#-# translate crowdin ev_009_c1d533ec:
+msgid "[_Ann_s_10_] Ну мой непосредственный начальник - лысый толстый мужик, которого все ненавидят. Думаю, его скоро сменят. А вот босс моего начальника..."
+msgstr "[_Ann_s_10_] Bueno, mi jefe inmediato es un tipo calvo y gordo al que todo el mundo odia. Creo que pronto será sustituido. Pero el jefe de mi jefe..."
+
+# game/scripts/story_01/dinners.rpy:74 #-#-# translate crowdin ev_009_955b8ecb:
+msgid "[_Max_s_03_] Ещё толще и лысее?"
+msgstr "[_Max_s_03_] ¿Más gordo y más calvo?"
+
+# game/scripts/story_01/dinners.rpy:75 #-#-# translate crowdin ev_009_0365007f:
+msgid "[_Ann_s_04_] Вот он - мужчина что надо! Сразу меня заметил, помог разобраться в делах. И даже до дома подвёз! Может быть, он мне даже личного водителя выделит!"
+msgstr "[_Ann_s_04_] ¡Ese es el hombre! Me vio enseguida y me ayudó a solucionar las cosas. Incluso me trajo a casa. ¡Quizás incluso me ponga un chófer privado!"
+
+# game/scripts/story_01/dinners.rpy:76 #-#-# translate crowdin ev_009_c5f3e8ef:
+msgid "[_Max_s_12_] Ого! Да он в тебя влюбился?"
+msgstr "[_Max_s_12_] ¡Vaya! ¿Está enamorado de ti?"
+
+# game/scripts/story_01/dinners.rpy:77 #-#-# translate crowdin ev_009_645b8e37:
+msgid "[_Ann_s_11_] Почему сразу влюбился? Может быть, он джентльмен, который помогает новенькой на новом месте работы..."
+msgstr "[_Ann_s_11_] ¿Por qué se tiene que haber enamorado? Tal vez es un caballero ayudando a una chica nueva en un trabajo nuevo..."
+
+# game/scripts/story_01/dinners.rpy:78 #-#-# translate crowdin ev_009_e1d87a63:
+msgid "[_Max_s_13_] И как его зовут?"
+msgstr "[_Max_s_13_] ¿Cómo se llama?"
+
+# game/scripts/story_01/dinners.rpy:79 #-#-# translate crowdin ev_009_409ac362:
+msgid "[_Ann_s_01_] Его зовут Эрик. Фамилия вам ничего не даст, так что, это не важно. Может быть, я вас однажды и познакомлю..."
+msgstr "[_Ann_s_01_] Se llama Eric. Su apellido no te dirá nada, así que no importa. Tal vez te lo presente algún día..."
+
+# game/scripts/story_01/dinners.rpy:80 #-#-# translate crowdin ev_009_f2b30c18:
+msgid "[_Max_s_14_] Значит, он тебе нравится..."
+msgstr "[_Max_s_14_] Así que te gusta..."
+
+# game/scripts/story_01/dinners.rpy:81 #-#-# translate crowdin ev_009_71e76301:
+msgid "[_Ann_s_12_] Я уже сказала, что он симпатичный состоявшийся мужчина и это нормально... Или не сказала? Не важно. Хватит меня допрашивать, всё остывает!"
+msgstr "[_Ann_s_12_] Ya he dicho que es un hombre bien apuesto y eso está bien... ¿O no? No tiene importancia. ¡Deja de interrogarme, se está enfriando!"
+
+# game/scripts/story_01/dinners.rpy:82 #-#-# translate crowdin ev_009_237a7b12:
+msgid "[_Lisa_s_09_] Ну мам, расскажи больше..."
+msgstr ""
+
+# game/scripts/story_01/dinners.rpy:83 #-#-# translate crowdin ev_009_a440551c:
+msgid "[_Ann_s_02_] Сегодня не у меня одной первый день. Лиза тоже пошла в новую школу. Рассказывай, как у тебя всё прошло?"
+msgstr "[_Ann_s_02_] No soy el único que tuvo un primer día hoy. Lisa también fue a una escuela nueva. Dime, ¿cómo te fue a ti?"
+
+# game/scripts/story_01/dinners.rpy:84 #-#-# translate crowdin ev_009_bee8bd6e:
+msgid "[_Lisa_s_01_] Ну, школа находится тут совсем рядом, почти за углом. Уроки короткие, занятий мало. Но преподают интересно, гораздо лучше, чем в старой школе. Думаю, здесь даже Максу понравилось бы учиться!"
+msgstr "[_Lisa_s_01_] La escuela está a la vuelta de la esquina. Las clases son cortas, no hay mucho que hacer. Pero la enseñanza es interesante, mucho mejor que en la vieja escuela. ¡Creo que incluso a Max le gustaría estudiar allí!"
+
+# game/scripts/story_01/dinners.rpy:85 #-#-# translate crowdin ev_009_57b9e2c8:
+msgid "[_Ann_s_03_] Ну а ученики какие? Повезло с классом? Уже завела себе друзей и подруг?"
+msgstr "[_Ann_s_03_] ¿Y los alumnos? ¿Has tenido suerte con la clase? ¿Has hecho ya amigos y amigas?"
+
+# game/scripts/story_01/dinners.rpy:86 #-#-# translate crowdin ev_009_c60e19ee:
+msgid "[_Lisa_s_02_] Да, познакомилась... с одной подружкой. Класс супер... Всё хорошо, мам!"
+msgstr ""
+
+# game/scripts/story_01/dinners.rpy:87 #-#-# translate crowdin ev_009_3f8e29f7:
+msgid "[_Max_s_01_] Что за подружка? Как зовут?"
+msgstr "[_Max_s_01_] ¿Quién es el amigo? ¿Cómo se llama?"
+
+# game/scripts/story_01/dinners.rpy:88 #-#-# translate crowdin ev_009_ce277c38:
+msgid "[_Lisa_s_11_] Ой, да обычная подружка..."
+msgstr "[_Lisa_s_11_] Oh, sólo es un amigo normal..."
+
+# game/scripts/story_01/dinners.rpy:89 #-#-# translate crowdin ev_009_3e93b9d6:
+msgid "[_Alice_s_04_] Кажется, у кого-то секреты..."
+msgstr "[_Alice_s_04_] Parece que alguien tiene secretos..."
+
+# game/scripts/story_01/dinners.rpy:90 #-#-# translate crowdin ev_009_f218abab:
+msgid "[_Lisa_s_09_] Ну что вы, в самом деле. Ну да, с парнем познакомилась. Зовут Алекс. Учимся вместе, сидим рядом!"
+msgstr "[_Lisa_s_09_] Quiero decir, vamos, de verdad. Sí, conocí a un chico. Se llama Alex. Estudiamos juntos, ¡nos sentamos uno al lado del otro!"
+
+# game/scripts/story_01/dinners.rpy:91 #-#-# translate crowdin ev_009_4186981a:
+msgid "[_Max_s_11_] Так бы сразу и сказала!"
+msgstr "[_Max_s_11_] ¡Ojalá lo hubieras dicho antes!"
+
+# game/scripts/story_01/dinners.rpy:92 #-#-# translate crowdin ev_009_c8b74720:
+msgid "[_Lisa_s_12_] А я так и сказала! Всё. Больше ничего не спрашивайте!"
+msgstr "[_Lisa_s_12_] ¡Eso es lo que he dicho! Ya está. ¡No me preguntes nada más!"
+
+# game/scripts/story_01/dinners.rpy:93 #-#-# translate crowdin ev_009_fa72dad8:
+msgid "[_Ann_s_11_] Извини, Лиза, я же не знала. Я вот тоже познакомилась с Эриком в первый же день. Не мне тебя судить!"
+msgstr "[_Ann_s_11_] Lo siento, Lisa, no lo sabía. Yo también conocí a Eric en mi primer día. ¡No te juzgo!"
+
+# game/scripts/story_01/dinners.rpy:94 #-#-# translate crowdin ev_009_819371d9:
+msgid "[_Lisa_s_11_] Да всё в порядке, мам. Просто мы только познакомились, поболтали и улыбнулись друг другу. А всё выглядит так, будто у меня уже есть парень..."
+msgstr ""
+
+# game/scripts/story_01/dinners.rpy:95 #-#-# translate crowdin ev_009_6c068817:
+msgid "[_Ann_s_01_] Тоже верно... Так, ладно. Спасибо всем за ужин. Лиза, сейчас как раз твоя очередь мыть посуду?"
+msgstr "[_Ann_s_01_] Así es. Bien, de acuerdo. Gracias a todos por la cena. Lisa, ¿te toca lavar los platos?"
+
+# game/scripts/story_01/dinners.rpy:96 #-#-# translate crowdin ev_009_58c3ff02:
+msgid "[_Lisa_s_02_] Да, мам. Но если мне кто-то поможет... Например, Макс, то я не откажусь..."
+msgstr "[_Lisa_s_02_] Sí, mamá. Pero si puedo conseguir ayuda. Como Max, por ejemplo, no voy a decir que no..."
+
+# game/scripts/story_01/dinners.rpy:97 #-#-# translate crowdin ev_009_7267ed68:
+msgid "[_Max_s_12_] Может быть..."
+msgstr "[_Max_s_12_] Tal vez..."
+
+# game/scripts/story_01/dinners.rpy:98 #-#-# translate crowdin ev_009_091abc12:
+msgid "[_Ann_s_02_] Ладно, разбирайтесь сами. А я собираюсь принять ванну. Так что, меня не беспокоить!"
+msgstr "[_Ann_s_02_] Muy bien, resuélvanlo. Voy a tomar un baño. ¡Así que no me molestéis!"
+
+# game/scripts/story_01/dinners.rpy:99 #-#-# translate crowdin ev_009_f930d279:
+msgid "[_Max_s_01_] Хорошо, мам!"
+msgstr "[_Max_s_01_] ¡Muy bien, mamá!"
+
+# game/scripts/story_01/dinners.rpy:114 #-#-# translate crowdin ev_031_94439a9d:
+msgid "[_Ann_s_01_] Всем приятного аппетита. У кого какие новости? Рассказывайте..."
+msgstr "[_Ann_s_01_] Buen provecho a todos. ¿Qué noticias hay? Correr la voz..."
+
+# game/scripts/story_01/dinners.rpy:115 #-#-# translate crowdin ev_031_eeef1f40:
+msgid "[_Alice_s_12_] Я пытаюсь своим блогом заниматься. Вечерами. Иногда. Когда возможность подворачивается..."
+msgstr "[_Alice_s_12_] Intento hacer mi blog. Por las tardes. A veces. Cuando surge la oportunidad..."
+
+# game/scripts/story_01/dinners.rpy:116 #-#-# translate crowdin ev_031_f85b2904:
+msgid "[_Lisa_s_09_] Возможность? А что такое?"
+msgstr "[_Lisa_s_09_] ¿Oportunidad? ¿De qué se trata?"
+
+# game/scripts/story_01/dinners.rpy:117 #-#-# translate crowdin ev_031_7f00a3d9:
+msgid "[_Alice_s_11_] Лиза, я же тебе говорила, что в тех вещах, что пропали, были все мои кремы, лаки, про которые я и вела свой бьюти-блог..."
+msgstr "[_Alice_s_11_] Lisa, ya te dije que en esas cosas que desaparecieron estaban todas mis cremas, esmaltes de uñas, sobre las que hacía mi blog de belleza..."
+
+# game/scripts/story_01/dinners.rpy:118 #-#-# translate crowdin ev_031_4a7a548c:
+msgid "[_Lisa_s_10_] Ой, точно. Извини, я совсем забыла про это. Да, сочувствую..."
+msgstr "[_Lisa_s_10_] Ah, cierto. Lo siento, me olvidé completamente de eso. Sí, lo siento..."
+
+# game/scripts/story_01/dinners.rpy:119 #-#-# translate crowdin ev_031_4baef4f7:
+msgid "[_Ann_s_10_] Бьюти-блог... Эх, Алиса, лучше бы делом занялась! Тебе поступать пора, а ты воздух пинаешь. Сидела бы и готовилась!"
+msgstr "[_Ann_s_10_] Blog de belleza... ¡Oh, Alice, será mejor que te pongas manos a la obra! Es hora de que vayas a la universidad, y estás haciendo castillos en el aire. ¡Deberías estar estudiando!"
+
+# game/scripts/story_01/dinners.rpy:120 #-#-# translate crowdin ev_031_98523a54:
+msgid "[_Max_s_13_] А на какие шиши она будет поступать?"
+msgstr "[_Max_s_13_] ¿Y qué pasa con el dinero?"
+
+# game/scripts/story_01/dinners.rpy:121 #-#-# translate crowdin ev_031_cd200cf4:
+msgid "[_Ann_s_12_] Ну, я не знаю. Денег лишних у нас нет, но одарённые дети точно могут учиться бесплатно. Им ещё и стипендию доплачивают..."
+msgstr "[_Ann_s_12_] Pues no lo sé. No tenemos dinero extra, pero los niños superdotados pueden estudiar gratis. También reciben becas extra..."
+
+# game/scripts/story_01/dinners.rpy:122 #-#-# translate crowdin ev_031_a286395a:
+msgid "[_Max_s_11_] Это круто, но при чём тут Алиса?"
+msgstr "[_Max_s_11_] Eso está bien, pero ¿qué tiene que ver eso con Alice?"
+
+# game/scripts/story_01/dinners.rpy:123 #-#-# translate crowdin ev_031_94b27ad3:
+msgid "[_Alice_s_01_] Очень смешно, Макс. А если серьёзно, то на блогах и стриминге можно заработать больше, чем на работе после нескольких лет учёбы!"
+msgstr "[_Alice_s_01_] Muy gracioso, Max. Y en serio, ¡se puede ganar más con los blogs y el streaming que con un trabajo después de unos años de estudio!"
+
+# game/scripts/story_01/dinners.rpy:124 #-#-# translate crowdin ev_031_d791faa8:
+msgid "[_Max_s_13_] И какой у тебя план?"
+msgstr "[_Max_s_13_] ¿Cuál es tu plan?"
+
+# game/scripts/story_01/dinners.rpy:125 #-#-# translate crowdin ev_031_5768addf:
+msgid "[_Alice_s_02_] Мне нужно по новой собрать всё необходимое для полноценного ведения блога. Вот такой план. Пока что я понемногу зарабатываю на это проводя стримы по видеоиграм."
+msgstr "[_Alice_s_02_] Tengo que volver a montar todo lo que necesito para un blog en toda regla. Ese es el plan. Hasta ahora estoy ganando un poco de dinero haciendo streams de videojuegos."
+
+# game/scripts/story_01/dinners.rpy:126 #-#-# translate crowdin ev_031_debe6434:
+msgid "[_Max_s_01_] Всё с тобой ясно... Как у меня появятся лишние деньги, сразу тебе помогу."
+msgstr "[_Max_s_01_] Está bien. Tan pronto como tenga algo de dinero extra, te ayudaré."
+
+# game/scripts/story_01/dinners.rpy:127 #-#-# translate crowdin ev_031_7462b0f4:
+msgid "[_Alice_s_11_] Ну да, ну да... Я уже это слышала..."
+msgstr "[_Alice_s_11_] Sí, sí, sí. He oído eso antes..."
+
+# game/scripts/story_01/dinners.rpy:128 #-#-# translate crowdin ev_031_1fbeb5b5:
+msgid "[_Ann_s_11_] Ох, детишки... Не понимаю я ничего в этих ваших блогах и не уверена, что на это надо тратить своё время, но разберётесь. Я хотела спросить, ни к кому в комнату никакая живность не заползала?"
+msgstr "[_Ann_s_11_] Oh, chicos. No entiendo ninguno de vuestros blogs y no estoy segura de que deba dedicar mi tiempo a esto, pero ya lo comprenderé. Me preguntaba si algún bicho se ha metido en la habitación de alguien?"
+
+# game/scripts/story_01/dinners.rpy:129 #-#-# translate crowdin ev_031_9e79907d:
+msgid "[_Lisa_s_11_] Вроде нет, а что?"
+msgstr "[_Lisa_s_11_] No lo creo, ¿por qué?"
+
+# game/scripts/story_01/dinners.rpy:130 #-#-# translate crowdin ev_031_660e3b44:
+msgid "[_Ann_s_00_] Да я сегодня огромного паука видела... Даже не знала, что такие бывают..."
+msgstr "[_Ann_s_00_] Hoy he visto una araña enorme. Ni siquiera sabía que existía algo así..."
+
+# game/scripts/story_01/dinners.rpy:131 #-#-# translate crowdin ev_031_9e5e8cce:
+msgid "[_Alice_s_14_] Что?! Здесь есть пауки?! Мама... я поехала обратно..."
+msgstr "[_Alice_s_14_] ¡¿Qué?! ¡¿Hay arañas aquí?! Mamá. Me voy a volver..."
+
+# game/scripts/story_01/dinners.rpy:132 #-#-# translate crowdin ev_031_3536f78e:
+msgid "[_Max_s_11_] Ты что, пауков боишься?"
+msgstr "[_Max_s_11_] ¿Tienes miedo a las arañas?"
+
+# game/scripts/story_01/dinners.rpy:133 #-#-# translate crowdin ev_031_e56d6d16:
+msgid "[_Lisa_s_03_] Макс, ты что, забыл? В прошлом году маленький паучок летом на Алису заполз, так она орала два часа! Бегала и кричала..."
+msgstr "[_Lisa_s_03_] Max, ¿lo has olvidado? El año pasado una pequeña araña se arrastró sobre Alice en el verano y ¡ella gritó durante dos horas! Corriendo y gritando..."
+
+# game/scripts/story_01/dinners.rpy:134 #-#-# translate crowdin ev_031_03024440:
+msgid "[_Max_s_03_] Что-то такое было, вроде бы..."
+msgstr "[_Max_s_03_] Si algo me suena, creo..."
+
+# game/scripts/story_01/dinners.rpy:135 #-#-# translate crowdin ev_031_3bbee6a3:
+msgid "[_Alice_s_15_] Ага, маленький... Да он был с тебя размером! Ненавижу пауков. Кто их, вообще, выдумал. Хоть на северный полюс уезжай. Надеюсь, хоть там их нет..."
+msgstr "[_Alice_s_15_] Sí, pequeño. ¡Era tan grande como tú! Odio las arañas. No sé quién las inventó. Podría ir al Polo Norte. Espero que no estén allí..."
+
+# game/scripts/story_01/dinners.rpy:136 #-#-# translate crowdin ev_031_5e9465c7:
+msgid "[_Max_s_04_] Нам тебя будет не хватать..."
+msgstr "[_Max_s_04_] Te echaremos de menos..."
+
+# game/scripts/story_01/dinners.rpy:137 #-#-# translate crowdin ev_031_d5873d26:
+msgid "[_Alice_s_11_] А вот знаешь что, Макс, не дождёшься! Я не видела ещё ни одного паука и, может быть, это маме только показалось. Буду думать так. Так спокойнее..."
+msgstr "[_Alice_s_11_] Bueno, adivina qué, Max, ¡no lo harás! Aún no he visto ninguna araña, y quizá sólo sea la imaginación de mamá. Voy a pensar eso. Es más tranquilo..."
+
+# game/scripts/story_01/dinners.rpy:138 #-#-# translate crowdin ev_031_15bd2c0c:
+msgid "[_Max_s_01_] Ну, думай... Но если тебе тоже начнёт что-то такое казаться, можешь сразу звать меня. Я разберусь!"
+msgstr "[_Max_s_01_] Bueno, piensa. Pero si empiezas a sentirte mal, puedes llamarme enseguida. Me ocuparé de ello!"
+
+# game/scripts/story_01/dinners.rpy:139 #-#-# translate crowdin ev_031_0b16191b:
+msgid "[_Ann_s_02_] Так, ладно. Думайте что хотите, а вам всем спасибо за ужин. Я пойду немного поваляюсь в ванне..."
+msgstr "[_Ann_s_02_] Vale, de acuerdo. Piensa lo que quieras, pero gracias a todos por la cena. Voy a darme un remojón en la bañera..."
+
+# game/scripts/story_01/dinners.rpy:140 #-#-# translate crowdin ev_031_03f5e78a:
+msgid "[_Max_s_02_] Ага, всем спасибо."
+msgstr "[_Max_s_02_] Sí, gracias a todos."
+
+# game/scripts/story_01/dinners.rpy:154 #-#-# translate crowdin ev_047_2c81542f:
+msgid "[_Ann_s_10_] Прежде, чем мы начнём, скажи-ка мне, Лиза, ты справилась с контрольной работой, которая была сегодня в школе?"
+msgstr "[_Ann_s_10_] Antes de empezar, dime, Lisa, ¿te ha ido bien en el examen que te han hecho hoy en el colegio?"
+
+# game/scripts/story_01/dinners.rpy:155 #-#-# translate crowdin ev_047_2bd932db:
+msgid "[_Lisa_s_09_] Ну... Так... Не очень..."
+msgstr "[_Lisa_s_09_] Bien. Pues... La verdad es que no..."
+
+# game/scripts/story_01/dinners.rpy:156 #-#-# translate crowdin ev_047_51012997:
+msgid "[_Ann_s_15_] Не очень?! Лиза, я уже знаю, что ты получила двойку! Хочешь, чтобы и тебя выперли из школы, как нашего балбеса Макса?"
+msgstr "[_Ann_s_15_] ¡¿No está bien?! ¡Lisa, ya sé que tienes una \"F\"! ¿Quieres que te echen de la escuela como a nuestro tonto Max?"
+
+# game/scripts/story_01/dinners.rpy:157 #-#-# translate crowdin ev_047_776de7bd:
+msgid "[_Max_s_13_] Эй! Меня же не за знания выгнали! Я хорошо учился..."
+msgstr "[_Max_s_13_] ¡Eh! ¡No me echaron por mis conocimientos! Yo era un buen estudiante..."
+
+# game/scripts/story_01/dinners.rpy:158 #-#-# translate crowdin ev_047_23b4a283:
+msgid "[_Lisa_s_12_] Ну мам... У нас в прошлой школе не было анатомии, а тут химико-биологический класс с углублённым изучением. Конечно, я не смогла сдать контрольную!"
+msgstr "[_Lisa_s_12_] Oh, mamá. En mi último colegio no teníamos anatomía, y ésta es una clase avanzada de química y biología. ¡Por supuesto que no pude aprobar el examen!"
+
+# game/scripts/story_01/dinners.rpy:159 #-#-# translate crowdin ev_047_45c4fc72:
+msgid "[_Ann_s_14_] Что значит «конечно не смогла»?! А ну-ка иди сюда. Сейчас я тебя накажу, чтобы ты взялась за ум!"
+msgstr "[_Ann_s_14_] ¡¿Qué quieres decir «con que no podías»?! ¡Ven aquí! ¡Te voy a castigar para que espabiles!"
+
+# game/scripts/story_01/dinners.rpy:164 #-#-# translate crowdin ev_047_4b0a16b6:
+msgid "[_Lisa_s_10_] Ну мам... Я же не специально. Я обещаю, что всё выучу! [nointeract]"
+msgstr "[_Lisa_s_10_] Bueno, mamá. No lo hice a propósito. ¡Prometo que aprenderé todo! [nointeract]"
+
+# game/scripts/story_01/dinners.rpy:167 #-#-# translate crowdin ev_047_46955750:
+msgid "[_Ann_s_10_] Ох, Лиза! Скажи спасибо своему брату, что он за тебя заступился. Так уж и быть, дам тебе шанс..."
+msgstr "[_Ann_s_10_] ¡Oh, Lisa! Dale las gracias a tu hermano por defenderte. Te daré una oportunidad..."
+
+# game/scripts/story_01/dinners.rpy:171 #-#-# translate crowdin ev_047_d6c8e110:
+msgid "[_Lisa_s_13_] Спасибо, Макс!!! Как хорошо, что ты поможешь мне с уроками!"
+msgstr "[_Lisa_s_13_] ¡¡¡Gracias Max!!! ¡Qué amable de tu parte ayudarme con mis lecciones!"
+
+# game/scripts/story_01/dinners.rpy:172 #-#-# translate crowdin ev_047_c6457cf8:
+msgid "[_Max_s_12_] Тебе может и хорошо..."
+msgstr "[_Max_s_12_] Estarás bien..."
+
+# game/scripts/story_01/dinners.rpy:174 #-#-# translate crowdin ev_047_22951ecd:
+msgid "[_Ann_s_00_] Так, хватит, потом разберётесь. Сейчас время ужина. Давайте садитесь, приятного аппетита!"
+msgstr "[_Ann_s_00_] Está bien, es suficiente, puedes arreglarlo más tarde. Es hora de cenar. Vamos, siéntense, ¡tengan una buena comida!"
+
+# game/scripts/story_01/dinners.rpy:179 #-#-# translate crowdin ev_047_83dcb116:
+msgid "[_Ann_s_10_] Быстро! На этот раз можешь шорты не снимать, но в следующий раз получишь по голой заднице у всех на глазах. Иди сюда!"
+msgstr "[_Ann_s_10_] ¡Ya! Puedes dejarte los pantalones esta vez, pero la próxima vez te azotaré el culo directamente delante de todos. ¡Ven aquí!"
+
+# game/scripts/story_01/dinners.rpy:183 #-#-# translate crowdin ev_047_1561bed3:
+msgid "[_Lisa_s_14_] Ой... Мам! Больно!"
+msgstr "[_Lisa_s_14_] Ay. ¡Mamá! ¡Duele!"
+
+# game/scripts/story_01/dinners.rpy:187 #-#-# translate crowdin ev_047_525f5f36:
+msgid "[_Ann_s_14_] Давай терпи. За двойки я всегда наказываю. В этот раз не сильно, чтобы ты понимала, что никакие отговорки или причины меня интересовать не будут. Получила двойку, получила по заднице у всех на глазах. Ясно?"
+msgstr "[_Ann_s_14_] Ten paciencia. Siempre te castigo por los suspensos. Esta vez, no demasiado fuerte, así que sabes que no me interesará ninguna excusa o razón. Si sacas un suspenso, te azotaré el culo delante de todos. ¿Te parece bien?"
+
+# game/scripts/story_01/dinners.rpy:188 #-#-# translate crowdin ev_047_4fd6e65c:
+msgid "[_Lisa_s_12_] Ой. Да. Ясно, мам. Я всё поняла!"
+msgstr "[_Lisa_s_12_] Uy. Sí. Cierto, mamá. ¡Ya lo he entendido!"
+
+# game/scripts/story_01/dinners.rpy:192 #-#-# translate crowdin ev_047_12cde1ef:
+msgid "[_Ann_s_10_] Вот и хорошо, что поняла. А ты, Макс, помоги своей сестре с учёбой! Нам сейчас не до репетиторов, сам понимаешь."
+msgstr "[_Ann_s_10_] Es bueno que te hayas dado cuenta. ¡Y tú, Max, ayuda a tu hermana con sus estudios! No podemos permitirnos tutores ahora, sabes."
+
+# game/scripts/story_01/dinners.rpy:193 #-#-# translate crowdin ev_047_9fd7fbff:
+msgid "[_Max_s_16_] Погодите! Так я... это..."
+msgstr "[_Max_s_16_] ¡Un momento! Así que yo, um, eso es, um..."
+
+# game/scripts/story_01/dinners.rpy:194 #-#-# translate crowdin ev_047_3f330923:
+msgid "[_Ann_s_14_] Макс, ты уверен, что хочешь поискать отговорки после того, что сейчас было?"
+msgstr "[_Ann_s_14_] Max, ¿estás seguro de que quieres buscar excusas después de lo que acaba de pasar?"
+
+# game/scripts/story_01/dinners.rpy:195 #-#-# translate crowdin ev_047_3fc24269:
+msgid "[_Max_s_12_] Нет, мам. Я ей помогу..."
+msgstr "[_Max_s_12_] No, mamá. Yo la ayudaré..."
+
+# game/scripts/story_01/dinners.rpy:199 #-#-# translate crowdin ev_047_2b1dccc4:
+msgid "[_Ann_s_00_] Вот и замечательно. Давайте скорее ужинать пока не остыло. Приятного аппетита!"
+msgstr "[_Ann_s_00_] Bueno, eso es genial. Démonos prisa y comamos antes de que se enfríe. ¡Buen provecho!"
+
+# game/scripts/story_01/dinners.rpy:207 #-#-# translate crowdin ev_047_da58e422:
+msgid "[_Max_s_00_] Приятного аппетита!"
+msgstr "[_Max_s_00_] ¡Buen provecho!"
+
+# game/scripts/story_01/dinners.rpy:208 #-#-# translate crowdin ev_047_da3262bc:
+msgid "[_Ann_s_11_] Знаете, я всё хотела спросить, только меня смущают картины, которые висят в наших комнатах?"
+msgstr "[_Ann_s_11_] ¿Soy la única a la que molestan los cuadros que cuelgan en nuestras habitaciones?"
+
+# game/scripts/story_01/dinners.rpy:209 #-#-# translate crowdin ev_047_9491db6a:
+msgid "[_Max_s_04_] Ты про тех голых женщин в ваших спальнях?"
+msgstr "[_Max_s_04_] ¿Te refieres a esas mujeres desnudas en vuestros dormitorios?"
+
+# game/scripts/story_01/dinners.rpy:210 #-#-# translate crowdin ev_047_77ba3305:
+msgid "[_Alice_s_02_] Да, Макс, про тех. А что, мам, тебе не нравится? Там же нет ничего такого. Думаю, что это даже искусство... Лично меня всё устраивает!"
+msgstr "[_Alice_s_02_] Sí, Max, sobre esos. ¿Por qué no te gustan, mamá? No tienen nada de malo. Creo que incluso es arte. Personalmente, ¡me gustan!"
+
+# game/scripts/story_01/dinners.rpy:211 #-#-# translate crowdin ev_047_54baecf5:
+msgid "[_Ann_s_01_] Ну, если вы так говорите... Я сначала хотела их снять, чтобы не смущать никого. Ваш отец, видимо, холостяцкий дом строил и оформлял соответственно... Но если никого не смущает, то и меня всё устраивает."
+msgstr "[_Ann_s_01_] Bueno, si tú lo dices. Quería quitárlos primero para no avergonzar a nadie. Tu padre debió construir una casa de soltero y decorarla en consecuencia... Pero si nadie se avergüenza, me parece bien."
+
+# game/scripts/story_01/dinners.rpy:212 #-#-# translate crowdin ev_047_030336ae:
+msgid "[_Lisa_s_00_] Кстати, про него не было новостей?"
+msgstr "[_Lisa_s_00_] Por cierto, ¿se sabe algo de él?"
+
+# game/scripts/story_01/dinners.rpy:213 #-#-# translate crowdin ev_047_5bfc02ec:
+msgid "[_Ann_s_10_] Нет, и слава богу. Конечно, я рада этому подарку, этому дому. Хотя, до сих пор не понимаю с чего он так расщедрился. Но даже так не компенсировать пропущенные годы вашего воспитания и семейной жизни..."
+msgstr "[_Ann_s_10_] No, y menos mal. Por supuesto que estoy feliz por este regalo de casa. Aunque todavía no sé por qué fue tan generoso. Pero ni siquiera eso puede compensar los años de tu educación y vida familiar que te has perdido..."
+
+# game/scripts/story_01/dinners.rpy:214 #-#-# translate crowdin ev_047_d396a478:
+msgid "[_Max_s_13_] Интересно, где он сейчас..."
+msgstr "[_Max_s_13_] Me pregunto dónde estará ahora..."
+
+# game/scripts/story_01/dinners.rpy:215 #-#-# translate crowdin ev_047_5c1096a2:
+msgid "[_Ann_s_02_] Ох, да без разницы где. Между прочим, завтра у компании, в которой я работаю, состоится какое-то праздничное мероприятие. Так что вечером мне нужно будет отлучиться. Эрик даже пообещал за мной заехать..."
+msgstr "[_Ann_s_02_] No me importa dónde. De hecho, la empresa para la que trabajo tiene una especie de celebración mañana. Así que voy a tener que salir esta noche. Eric incluso prometió recogerme..."
+
+# game/scripts/story_01/dinners.rpy:216 #-#-# translate crowdin ev_047_8560bd3a:
+msgid "[_Alice_s_04_] Ого! Значит, мы наконец-то увидим, что там за мужчина подкатывает к нашей маме!"
+msgstr "[_Alice_s_04_] ¡Vaya! ¡Por fin vamos a ver qué clase de hombre le está tirando los tejos a nuestra madre!"
+
+# game/scripts/story_01/dinners.rpy:217 #-#-# translate crowdin ev_047_3a25fcea:
+msgid "[_Ann_s_03_] Ну, не буду забегать наперёд, но кажется его интерес ко мне довольно серьёзен. Его даже нисколько не смутило то, что у меня трое детей."
+msgstr "[_Ann_s_03_] Bueno, no me adelantaré, pero creo que su interés en mí es bastante serio. Ni siquiera le molestó que yo tuviera tres hijos."
+
+# game/scripts/story_01/dinners.rpy:218 #-#-# translate crowdin ev_047_3ad83dba:
+msgid "[_Max_s_01_] Мам, мне кажется, наличие трёх детей у такой шикарной женщины, как ты, должно только восхищать."
+msgstr "[_Max_s_01_] Mamá, creo que tener tres hijos con una mujer hermosa como tú debe ser admirado."
+
+# game/scripts/story_01/dinners.rpy:219 #-#-# translate crowdin ev_047_63002386:
+msgid "[_Ann_s_04_] Ой, сынок, спасибо! Очень приятно такое слышать. Возможно, на этом мероприятии мне удастся узнать его получше. Потому что в офисе было несколько не до этого."
+msgstr "[_Ann_s_04_] ¡Oh, hijo, gracias! Es muy agradable oír eso. Tal vez llegue a conocerlo mejor en este evento. Porque en la oficina he estado un poco ocupada."
+
+# game/scripts/story_01/dinners.rpy:220 #-#-# translate crowdin ev_047_2e654575:
+msgid "[_Lisa_s_11_] Тогда, мам, мы с нетерпением будем ждать от тебя подробностей!"
+msgstr "[_Lisa_s_11_] Entonces, mamá, ¡estamos deseando saber más de ti!"
+
+# game/scripts/story_01/dinners.rpy:221 #-#-# translate crowdin ev_047_c5a4036e:
+msgid "[_Ann_s_01_] Договорились. Думаю, ужин закончен. Всем спасибо. Лиза, как всегда, моет посуду, а я отдыхать..."
+msgstr "[_Ann_s_01_] Trato hecho. Creo que la cena ha terminado. Gracias a todos. Lisa lava los platos, como siempre, y yo descansaré..."
+
+# game/scripts/story_01/dinners.rpy:232 #-#-# translate crowdin ev_054_c258aaea:
+msgid "[_Ann_s_00_] Хорошо, что все в сборе, даже Алиса на месте. Приятного аппетита, давайте ужинать."
+msgstr "[_Ann_s_00_] Bien, todos están aquí, incluso Alice. Buen provecho, vamos a cenar."
+
+# game/scripts/story_01/dinners.rpy:233 #-#-# translate crowdin ev_054_9a8f7de0:
+msgid "[_Max_s_03_] Так у неё выбора нет, она же на мели, а кушать хочется."
+msgstr "[_Max_s_03_] No tiene elección, está sin blanca y tiene hambre."
+
+# game/scripts/story_01/dinners.rpy:234 #-#-# translate crowdin ev_054_5028054d:
+msgid "[_Alice_s_11_] Ох, Макс, однажды ты дошутишься..."
+msgstr "[_Alice_s_11_] Oh, Max, uno de estos días lo vas a conseguir..."
+
+# game/scripts/story_01/dinners.rpy:235 #-#-# translate crowdin ev_054_db1bd55e:
+msgid "[_Max_s_05_] Ой! И что будет? Закатишь истерику и убежишь?!"
+msgstr "[_Max_s_05_] ¡Ay! ¿Y qué va a pasar? ¡¿Vas a montar un pollo y salir corriendo?!"
+
+# game/scripts/story_01/dinners.rpy:236 #-#-# translate crowdin ev_054_3f63c668:
+msgid "[_Alice_s_16_] Ах ты гадёныш мелкий, сейчас я тебе..."
+msgstr "[_Alice_s_16_] Pequeño bastardo, voy a..."
+
+# game/scripts/story_01/dinners.rpy:237 #-#-# translate crowdin ev_054_4af80e1d:
+msgid "[_Ann_s_14_] Так, ну-ка быстро прекратили, не надо портить вечер."
+msgstr "[_Ann_s_14_] Muy bien, ya basta, no estropeis la velada."
+
+# game/scripts/story_01/dinners.rpy:238 #-#-# translate crowdin ev_054_212319d0:
+msgid "[_Alice_s_15_] Ты его испортила, когда купила себе платье."
+msgstr "[_Alice_s_15_] Lo arruinaste cuando compraste tu vestido."
+
+# game/scripts/story_01/dinners.rpy:239 #-#-# translate crowdin ev_054_cec8a1a3:
+msgid "[_Ann_s_10_] Алиса, мы живём на мои деньги, а значит если мне необходимо что-то купить, то я это куплю в самую первую очередь."
+msgstr "[_Ann_s_10_] Alice, vivimos de mi dinero, lo que significa que si necesito comprar algo, lo compraré primero."
+
+# game/scripts/story_01/dinners.rpy:240 #-#-# translate crowdin ev_054_ec4fbcd4:
+msgid "[_Alice_s_11_] Да что ты! Ну и вот какая у тебя в нём необходимость?"
+msgstr "[_Alice_s_11_] ¡Oh, vamos! ¿Qué necesidad tenías de ello?"
+
+# game/scripts/story_01/dinners.rpy:241 #-#-# translate crowdin ev_054_44d62526:
+msgid "[_Ann_s_14_] Я тебе уже говорила, мне важно произвести впечатление на работников компании. Это, между прочим, может помочь быстрее продвинуться по должности, потому что большинство руководителей - мужчины."
+msgstr "[_Ann_s_14_] Ya te lo he dicho antes, para mí es importante impresionar a los compañeros de la empresa. Esto, por cierto, puede ayudarme a ascender más rápido, porque la mayoría de los directivos son hombres."
+
+# game/scripts/story_01/dinners.rpy:242 #-#-# translate crowdin ev_054_c0cbeaf3:
+msgid "[_Max_s_01_] Безупречная логика, мам!"
+msgstr "[_Max_s_01_] ¡Lógica impecable, mamá!"
+
+# game/scripts/story_01/dinners.rpy:243 #-#-# translate crowdin ev_054_7b953bc9:
+msgid "[_Alice_s_04_] Тогда нужно было покупать платье поскромнее. А в том, что ты купила, тебя захотят трахнуть все и разом."
+msgstr "[_Alice_s_04_] Entonces deberías haber comprado un vestido más modesto. Con el que te has comprado te van a follar de una vez."
+
+# game/scripts/story_01/dinners.rpy:244 #-#-# translate crowdin ev_054_9320ff6a:
+msgid "[_Ann_s_16_] Алиса!!! Ты сейчас, за такие слова, по заднице у меня схлопочешь!"
+msgstr "[_Ann_s_16_] ¡Alice! ¡Te voy a patear el culo por decir eso!"
+
+# game/scripts/story_01/dinners.rpy:245 #-#-# translate crowdin ev_054_efbf2424:
+msgid "[_Max_s_11_] Я бы на это посмотрел! И на платье, и на покрасневший зад Алисы..."
+msgstr "[_Max_s_11_] ¡Me gustaría ver eso! Y el vestido, y el culo de Alice rojo..."
+
+# game/scripts/story_01/dinners.rpy:246 #-#-# translate crowdin ev_054_a785e71f:
+msgid "[_Alice_s_11_] Я нисколько не сомневаюсь, что ты это платье купила не из расчёта на всех мужиков в компании, а на конкретного мужика... И мы все знаем какого именно."
+msgstr "[_Alice_s_11_] No tengo ninguna duda de que compraste ese vestido no para todos los hombres de la empresa, sino para uno en particular.... Y todos sabemos cuál."
+
+# game/scripts/story_01/dinners.rpy:247 #-#-# translate crowdin ev_054_4f8b645e:
+msgid "[_Ann_s_10_] Может и так. Эрик настоящий мужчина и находится на руководящей должности. Поэтому, в первую очередь, я бы хотела произвести впечатление на него."
+msgstr "[_Ann_s_10_] Tal vez lo sea. Eric es un hombre de verdad y en una posición de autoridad. Así que me gustaría impresionarlo ante todo."
+
+# game/scripts/story_01/dinners.rpy:248 #-#-# translate crowdin ev_054_3f18c4cb:
+msgid "[_Lisa_s_12_] Может хватит? Давайте просто спокойно поужинаем..."
+msgstr "[_Lisa_s_12_] ¿Quieres parar? Tengamos una cena tranquila..."
+
+# game/scripts/story_01/dinners.rpy:249 #-#-# translate crowdin ev_054_6c3261c1:
+msgid "[_Ann_s_15_] Хочешь обижаться, Алиса, пожалуйста. Но твоё платье точно подождёт, а вот мне важно выделиться в компании."
+msgstr "[_Ann_s_15_] Si quieres ofenderte, Alice, adelante. Pero tu vestido puede esperar, y es importante para mí destacar en la compañía."
+
+# game/scripts/story_01/dinners.rpy:250 #-#-# translate crowdin ev_054_69aa0393:
+msgid "[_Alice_s_15_] Да, да, да... Всё понятно..."
+msgstr "[_Alice_s_15_] Sí, sí, sí. Entiendo..."
+
+# game/scripts/story_01/dinners.rpy:251 #-#-# translate crowdin ev_054_8e2f275e:
+msgid "[_Ann_s_00_] Понятно ей... Спасибо всем за ужин. Я пойду собираться на корпоратив. Алиса остаётся за старшую, но если будет буянить, то обязательно скажите."
+msgstr "[_Ann_s_00_] Lo entiende. Gracias a todos por la cena. Voy a prepararme para la fiesta de la empresa. Alice se queda a cargo, pero si se alborota, asegúrate de decírselo."
+
+# game/scripts/story_01/dinners.rpy:252 #-#-# translate crowdin ev_054_276a817f:
+msgid "[_Lisa_s_11_] Не волнуйся, мам. Удачи тебе там."
+msgstr "[_Lisa_s_11_] No te preocupes, mamá. Buena suerte ahí fuera."
+
+# game/scripts/story_01/dinners.rpy:263 #-#-# translate crowdin ev_067_7fa9c980:
+msgid "[_Ann_s_01_] Молодцы, что все собрались. Всем приятного аппетита!"
+msgstr "[_Ann_s_01_] Gracias a todos por reunirse. ¡Buen provecho!"
+
+# game/scripts/story_01/dinners.rpy:264 #-#-# translate crowdin ev_067_5954c226:
+msgid "[_Max_s_01_] Приятного..."
+msgstr "[_Max_s_01_] Disfruta..."
+
+# game/scripts/story_01/dinners.rpy:265 #-#-# translate crowdin ev_067_1ce89e05:
+msgid "[_Ann_s_02_] Рассказывайте, девочки, как погуляли? Где были?"
+msgstr "[_Ann_s_02_] Decidme, chicas, ¿qué tal el día? ¿Adónde habéis ido?"
+
+# game/scripts/story_01/dinners.rpy:266 #-#-# translate crowdin ev_067_ce421dab:
+msgid "[_Alice_s_02_] Да так, по центру города погуляли, ели мороженое и в кинотеатр зашли."
+msgstr "[_Alice_s_02_] Paseamos por el centro de la ciudad, comimos helado y fuimos al cine."
+
+# game/scripts/story_01/dinners.rpy:267 #-#-# translate crowdin ev_067_f6cfa71d:
+msgid "[_Lisa_s_13_] Ага, здесь такой огромный кинотеатр, мам! Мне там очень понравилось."
+msgstr "[_Lisa_s_13_] ¡Sí, es un cine enorme aquí, mamá! Me gustó mucho."
+
+# game/scripts/story_01/dinners.rpy:268 #-#-# translate crowdin ev_067_71fc7978:
+msgid "[_Ann_s_00_] Умнички, что сходили. Но ты, Лиза, не забывай, что нужно пересдать контрольную. Требования в этой школе намного выше, чем в прошлой, но это не даёт тебе права учиться плохо. Ты меня поняла?"
+msgstr "[_Ann_s_00_] Bien por ti por ir. Pero, Lisa, no olvides que tienes que volver a hacer el examen. Los requisitos en esta escuela son mucho más altos que en la anterior, pero eso no te da derecho a estudiar mal. ¿Me entiendes?"
+
+# game/scripts/story_01/dinners.rpy:269 #-#-# translate crowdin ev_067_a8a09d4e:
+msgid "[_Lisa_s_02_] Да, я буду всю неделю готовиться к контрольной. Макс мне уже очень сильно помог в ней разобраться."
+msgstr "[_Lisa_s_02_] Sí, estudiaré para el examen toda la semana. Max ya me ha ayudado mucho a entenderlo."
+
+# game/scripts/story_01/dinners.rpy:270 #-#-# translate crowdin ev_067_e636bca1:
+msgid "[_Ann_s_10_] Молодцы! Но я бы, Макс, тебя попросила ещё проконтролировать выполнение того, что Лизе задают в школе. А то я чувствую, что она с этой пересдачей начнёт отставать по каким-нибудь предметам."
+msgstr "[_Ann_s_10_] ¡Bien hecho! Pero Max, también te pediría que supervises la implementación de lo que le piden a Lisa en la escuela. De lo contrario, siento que con esta repetición comenzará a quedarse atrás en algunas materias."
+
+# game/scripts/story_01/dinners.rpy:271 #-#-# translate crowdin ev_067_bb9b0766:
+msgid "[_Max_s_13_] Проконтролировать?! Не знаю, не знаю..."
+msgstr "[_Max_s_13_] ¡¿Comprobar?! No lo sé..."
+
+# game/scripts/story_01/dinners.rpy:272 #-#-# translate crowdin ev_067_0a8e3fca:
+msgid "[_Ann_s_14_] Что это ещё за «не знаю», Макс?! Тебе что, сложно сестре помочь?"
+msgstr "[_Ann_s_14_] ¿Qué es eso de “No sé”, Max? ¿Te resulta difícil ayudar a tu hermana?"
+
+# game/scripts/story_01/dinners.rpy:273 #-#-# translate crowdin ev_067_b7af8a11:
+msgid "[_Max_s_16_] Но, мам! Как будто мне больше нечем заняться по вечерам, кроме как Лизе с домашними заданиями помогать!"
+msgstr "[_Max_s_16_] ¡Pero mamá! ¡Como si no tuviera nada más que hacer por las tardes excepto ayudar a Lisa con su tarea!"
+
+# game/scripts/story_01/dinners.rpy:274 #-#-# translate crowdin ev_067_2d5c33ea:
+msgid "[_Ann_s_10_] Да что ты, куча дел у тебя по вечерам, да? Ну и какие, например?"
+msgstr "[_Ann_s_10_] ¿De qué estás hablando? Tienes muchas cosas que hacer por las noches, ¿verdad? Bueno, ¿de qué tipo, por ejemplo?"
+
+# game/scripts/story_01/dinners.rpy:275 #-#-# translate crowdin ev_067_53992974:
+msgid "[_Max_s_14_] Я это... Чёрт..."
+msgstr "[_Max_s_14_] Yo soy... Maldita sea..."
+
+# game/scripts/story_01/dinners.rpy:276 #-#-# translate crowdin ev_067_6c194838:
+msgid "[_Ann_s_14_] Вот именно, Макс. Я знаю, что у нас и Лиза девочка умная, и ты у нас прекрасно учился, так что учти, если Лиза и дальше будет получать двойки, то я буду наказывать не только её, но и тебя."
+msgstr "[_Ann_s_14_] Así es, Max. Sé que Lisa y yo somos unas chicas inteligentes y tú estudiaste bien con nosotras, así que ten en cuenta que si Lisa continúa obteniendo malas notas, no solo la castigaré a ella, sino también a ti."
+
+# game/scripts/story_01/dinners.rpy:277 #-#-# translate crowdin ev_067_067a869f:
+msgid "[_Max_s_15_] Ничего себе новости! Мне прямо «нравится»!"
+msgstr "[_Max_s_15_] ¡Vaya noticias! ¡Me gusta mucho!"
+
+# game/scripts/story_01/dinners.rpy:278 #-#-# translate crowdin ev_067_f96a71fd:
+msgid "[_Alice_s_04_] Да, зрелище будет классное..."
+msgstr "[_Alice_s_04_] Sí, será un gran espectáculo..."
+
+# game/scripts/story_01/dinners.rpy:279 #-#-# translate crowdin ev_067_f8f68790:
+msgid "[_Ann_s_00_] Лиза, вы с Максом уже сами решите, как часто он будет тебе помогать. Раз в неделю или каждый день, тебе там виднее, но мне важен конечный результат."
+msgstr "[_Ann_s_00_] Lisa, tú y Max decidiréis por vosotros mismos con qué frecuencia os ayudará. Una vez a la semana o todos los días, ya sabes, pero el resultado final es importante para mí."
+
+# game/scripts/story_01/dinners.rpy:280 #-#-# translate crowdin ev_067_3c4a17aa:
+msgid "[_Lisa_s_11_] Хорошо, мам. Мы разберёмся."
+msgstr "[_Lisa_s_11_] Está bien, mamá. Lo resolveremos."
+
+# game/scripts/story_01/dinners.rpy:281 #-#-# translate crowdin ev_067_015eeaa0:
+msgid "[_Ann_s_01_] А ты, Алиса... Как у тебя дела с этим твоим блогом или чем там?"
+msgstr "[_Ann_s_01_] Y tú, Alice... ¿Cómo te va con ese blog tuyo o lo que sea?"
+
+# game/scripts/story_01/dinners.rpy:282 #-#-# translate crowdin ev_067_be157aa2:
+msgid "[_Alice_s_11_] Почти что никак, мам. Мне подруга обещала помочь, но это случится нескоро. Обещала заехать в гости и кое-что привезти с собой."
+msgstr "[_Alice_s_11_] Sin avances, mamá. Tengo una amiga que ha prometido ayudarme, pero tardará un poco. Prometió venir y traer algo con ella."
+
+# game/scripts/story_01/dinners.rpy:283 #-#-# translate crowdin ev_067_c5c51776:
+msgid "[_Ann_s_12_] Ты только сама тоже усилия прикладывай, а не надейся на других людей. И не ищи оправданий, вроде того, что наши вещи потерялись."
+msgstr "[_Ann_s_12_] Sólo tienes que hacer un esfuerzo por ti mismo, no depender de otras personas. Y no busques excusas como que nuestras cosas se perdieron."
+
+# game/scripts/story_01/dinners.rpy:284 #-#-# translate crowdin ev_067_5a40f473:
+msgid "[_Alice_s_01_] Да, мам, я понимаю. Буду стараться всё, как можно быстрее, наверстать."
+msgstr "[_Alice_s_01_] Sí, mamá, lo entiendo. Intentaré ponerme al día en cuanto pueda."
+
+# game/scripts/story_01/dinners.rpy:285 #-#-# translate crowdin ev_067_4cfad8bd:
+msgid "[_Ann_s_03_] Вот и молодцы вы у меня! Ладно, всем большое спасибо за ужин. Было приятно с вами поболтать. А сейчас меня ждёт, как всегда, ванна..."
+msgstr "[_Ann_s_03_] ¡Ese es mi chica! Bueno, muchas gracias a todos por la cena. Ha sido un placer charlar con todos vosotros. Y ahora mi baño, como siempre..."
+
+# game/scripts/story_01/dinners.rpy:286 #-#-# translate crowdin ev_067_12502cd3:
+msgid "[_Max_s_01_] Ага, всем спасибо..."
+msgstr "[_Max_s_01_] Sí, gracias a todos..."
+
+# §translate crowdin strings: #|#|# # game/scripts/story_01/dinners.rpy:163
+msgid "Мама! Дай Лизе шанс подготовиться. Я ей помогу!"
+msgstr "¡Mamá! Dale a Lisa la oportunidad de prepararse. ¡Yo la ayudaré!"
+
+# game/scripts/story_01/dinners.rpy:163
+msgid "{i}не вмешиваться{/i}"
+msgstr "{i}Mantente al margen{/i}"
+

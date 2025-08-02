@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/engine/02_func.po\n"
+"X-Crowdin-File-ID: 9065\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2025-03-15 14:02\n"
+
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/02_func.rpy:433
+msgid "Скрытность"
+msgstr "Sigilo"
+
+# game/scripts/engine/02_func.rpy:434
+msgid "Убеждение"
+msgstr "Persuasión"
+
+# game/scripts/engine/02_func.rpy:435
+msgid "Массаж"
+msgstr "Masaje"
+
+# game/scripts/engine/02_func.rpy:438
+msgid "Настроение {char_name}"
+msgstr "Estado de ánimo {char_name}"
+
+# game/scripts/engine/02_func.rpy:438
+msgid "мамы"
+msgstr "mamá"
+
+# game/scripts/engine/02_func.rpy:855
+msgid "Галерея снов обновлена!"
+msgstr "La galería de sueños ha sido actualizada."
+
+# game/scripts/engine/02_func.rpy:869
+msgid "Галерея дополнений обновлена!"
+msgstr "¡Se ha actualizado la galería de complementos!"
+

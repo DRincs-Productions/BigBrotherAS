@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/story_01/shopping.po\n"
+"X-Crowdin-File-ID: 9155\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2025-03-15 14:06\n"
+
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # game/scripts/story_01/shopping.rpy:10 #-#-# translate crowdin ev_051_f2e28c50:
+msgid "[_Ann_s_01_] Макс, мы пошли по магазинам. Не скучай тут без нас, хорошо? Вернёмся часа через 3... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:16 #-#-# translate crowdin ev_051_4369a813:
+msgid "[_tMax_s_14_] А я, пока не забыл, сразу же помою посуду. Эх... как же её много! Ну да ладно, потерплю... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:32 #-#-# translate crowdin ev_051_75b6f860:
+msgid "[_Ann_s_10_] Макс, а ты что это стоишь без дела? Если помнишь, то тебе нужно с кое-чем закончить... Причём сегодня!"
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:34 #-#-# translate crowdin ev_051_f646d107:
+msgid "[_Ann_s_14_] Макс, а ты что это стоишь без дела? Тебе же кучу всего нужно сделать, если помнишь... Причём сегодня!"
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:35 #-#-# translate crowdin ev_051_683c727f:
+msgid "[_Max_s_12_] Да, мам, помню. Скоро этим займусь..."
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:36 #-#-# translate crowdin ev_051_c543e57c:
+msgid "[_Ann_s_12_] Смотри, чтобы к нашему с девочками возвращению всё было сделано. Иначе, накажу!"
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:37 #-#-# translate crowdin ev_051_ab2b9042:
+msgid "[_Max_s_14_] Не придётся. Я всё сделаю."
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:41 #-#-# translate crowdin ev_051_fe2855c8:
+msgid "[_Ann_s_01_] Ну вот, все готовы, можно идти по магазинам. Максу тут есть чем заняться. Вернёмся часа через 3..."
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:43 #-#-# translate crowdin ev_051_6632eb95:
+msgid "[_Ann_s_01_] Ну вот, все готовы, можно идти по магазинам. Максу здесь будет не до скуки. Вернёмся часа через 3..."
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:44 #-#-# translate crowdin ev_051_ba1a46eb:
+msgid "[_Max_s_11_] Удачных вам покупок..."
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:48 #-#-# translate crowdin ev_051_9a7345b1:
+msgid "[_Max_s_14_] Первым делом сразу помою посуду. Эх... как же её много! Ну да ладно, потерплю... [nointeract]"
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:61 #-#-# translate crowdin ev_052_821d01cd:
+msgid "[_Lisa_s_01_] Эй, Макс, мы вернулись..."
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:62 #-#-# translate crowdin ev_052_f1dd19bd:
+msgid "[_Max_s_01_] Ну как, удачно сходили? Скупили всё, что только можно было?"
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:63 #-#-# translate crowdin ev_052_b5afa272:
+msgid "[_Lisa_s_02_] Да так, мне по мелочи. А вот себе мама прикупила кое-что основательное..."
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:64 #-#-# translate crowdin ev_052_432ecc13:
+msgid "[_Max_s_11_] А где Алису потеряли?"
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:65 #-#-# translate crowdin ev_052_1ed8c3ac:
+msgid "[_Ann_s_12_] Она не стала с нами возвращаться домой. Сказала, что больше видеть меня не хочет..."
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:66 #-#-# translate crowdin ev_052_2741e675:
+msgid "[_Max_s_13_] В смысле? Вот этот момент не понял!"
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:67 #-#-# translate crowdin ev_052_f3b4f6ad:
+msgid "[_Lisa_s_11_] Она обиделась и ушла. Всё из-за того, что мама купила себе очень классное платье. Ну... для сегодняшнего похода на рабочее мероприятие."
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:68 #-#-# translate crowdin ev_052_589174a8:
+msgid "[_Max_s_03_] А-а-а-а... Я так понимаю, Алиса недовольна, что мама купила платье себе, а не ей."
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:69 #-#-# translate crowdin ev_052_827e57d7:
+msgid "[_Ann_s_11_] Вот именно, Макс. Мне важно произвести хорошее впечатление на этом мероприятии. Вдруг от этого будет зависеть моё дальнейшее положение на работе."
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:70 #-#-# translate crowdin ev_052_99774588:
+msgid "[_Max_s_12_] Произвести хорошее впечатление на Эрика, видимо?"
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:71 #-#-# translate crowdin ev_052_19110403:
+msgid "[_Ann_s_00_] Может быть. Он всё-таки высокую должность занимает в компании."
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:72 #-#-# translate crowdin ev_052_f9f450ae:
+msgid "[_Lisa_s_03_] Да, да, да... Именно так мы и подумали..."
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:73 #-#-# translate crowdin ev_052_e69e8bed:
+msgid "[_Max_s_11_] Так что там за платье? Показывайте!"
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:77 #-#-# translate crowdin ev_052_ab979eec:
+msgid "[_Ann_s_02_] Если тебе так интересно, сынок, то сегодня вечером ты сможешь его увидеть. А пока, я хочу наконец-то отдохнуть и понежиться на солнышке. Устала что-то..."
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:78 #-#-# translate crowdin ev_052_2a6edfa7:
+msgid "[_Max_s_12_] Это правильно. А что с Алисой?"
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:79 #-#-# translate crowdin ev_052_a30959fc:
+msgid "[_Ann_s_10_] Да ничего. Рано или поздно вернётся и будет дуться на меня. Её проблемы..."
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:80 #-#-# translate crowdin ev_052_7fac4255:
+msgid "[_Max_s_01_] Ага. Ладно, отдыхайте."
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/story_01/shopping.rpy:9
+msgid "Удачных вам покупок... \n"
+"{i}(остаться дома){/i}"
+msgstr ""
+
+# game/scripts/story_01/shopping.rpy:9
+msgid "Подождите! Я с вами..."
+msgstr ""
+
