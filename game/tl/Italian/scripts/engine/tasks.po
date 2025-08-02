@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-07-29 08:38\n"
+"PO-Revision-Date: 2025-08-02 15:38\n"
 
 # TODO: Translation updated at 2025-07-27 23:15 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:200
 msgid "Мама во время завтрака попросила меня посмотреть, что за коробки остались в доме после ремонта. \n"
@@ -40,7 +40,7 @@ msgstr "Opportunità di creare il proprio sito web con guadagni!"
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Я нашёл скрытую камеру в гостиной. Видимо, она была вмонтирована в стену во время ремонта. Поэтому её не вытащить, не повредив. Кроме того, оказалось, что камера сейчас ни к чему не подключена. Пожалуй, мне стоит изучить способы подключения камер, чтобы извлечь из неё какую-то пользу..."
-msgstr ""
+msgstr "Ho scoperto una telecamera nascosta nel soggiorno, incastonata nel muro probabilmente durante i lavori di ristrutturazione. Non è possibile rimuoverla senza danneggiarla. Inoltre, sembra che attualmente non sia collegata a nessun sistema. Credo che sarà utile approfondire come collegare queste telecamere per poter sfruttare al meglio questa scoperta..."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Нужно завершить задание «Любопытное содержимое»!"
@@ -133,7 +133,9 @@ msgstr "Trova un modo per guadagnare soldi."
 msgid "Алиса рассказала о своём блоге, а также о своей проблеме, связанной с потерей вещей во время переезда. Теперь ей нечего показывать, не в чем вести блог, и вообще она в печали. \n"
 "Но чтобы ей хоть как-то помочь с блогом, сперва нужно разжиться лишними деньгами, а это дело небыстрое.\n"
 "Пока же можно поработать над нашими взаимоотношениями, ведь там есть куда расти. Вопрос только, как этого добиться?"
-msgstr ""
+msgstr "Alice ha parlato del suo blog e del problema che ha avuto perdendo le sue cose durante il trasloco. Adesso non ha niente da mostrare, nessun modo per portare avanti il blog, e si sente un po’ giù.\n"
+"Per aiutarla con il blog, prima di tutto dobbiamo trovare un po’ di soldi extra, e non è una cosa che si fa in fretta.\n"
+"Nel frattempo, possiamo lavorare sul nostro rapporto, che ha ancora tanto da migliorare. La vera domanda è: come fare?"
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Найти способ улучшить взаимоотношения с Алисой."
@@ -231,7 +233,7 @@ msgstr "Controllare i dati del portatile di Alice"
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Возможность просматривать вэб-трансляции Алисы на сайте «MyCams»!"
-msgstr ""
+msgstr "Possibilità di guardare le trasmissioni web di Alice sul sito “MyCams”!"
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Стримерша"
@@ -273,15 +275,15 @@ msgstr "Bisogna vincere il concorso di qualificazione per lo show di Alice sul s
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Ещё раз увидеть Алису в тёмном нижнем белье во время приватной трансляции."
-msgstr ""
+msgstr "Rivedere Alice in biancheria intima scura durante una diretta privata."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Добиться, чтобы Алиса сняла верх одежды во время приватной трансляции."
-msgstr ""
+msgstr "Riuscire a far sì che Alice si tolga il top durante una diretta privata."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Добиться, чтобы Алиса сняла низ одежды во время приватной трансляции."
-msgstr ""
+msgstr "Riuscire a far sì che Alice si tolga la parte inferiore dei vestiti durante una diretta privata."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Это одно из Х заданий, необходимых для доступа к следующей главе!"
@@ -323,11 +325,11 @@ msgstr "Convinci Alice a non indossare le mutandine."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Шлёпнуть Алису по попке, когда она курит травку."
-msgstr ""
+msgstr "Dare una sculacciata ad Alice mentre si fuma una canna."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Нужно продвинуться в выполнении задания «Стримерша»!"
-msgstr ""
+msgstr "Bisogna fare progressi nella missione «La streamer»!"
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Любопытно. Похоже, Алиса до смерти боится пауков. А надо заметить, что климат тут очень подходит для всякого рода членистоногих...\n"
@@ -433,19 +435,21 @@ msgstr "Dobbiamo convincere Alice a togliersi il reggiseno del costume da bagno 
 msgid "В нашем доме такие большие окна во всех комнатах, что нельзя просто так взять и не подсмотреть за кем-нибудь...\n"
 "Самое преступное место при этом, это конечно же ванная комната. И если принимающие душ мама или Лиза меня заметят, то варианты выкрутиться у меня будут, а вот с Алисой не уверен.\n"
 "Тут остаётся только проверять..."
-msgstr ""
+msgstr "Nella nostra abitazione, le ampie finestre presenti in ogni stanza rendono piuttosto difficile ignorare ciò che accade intorno...\n"
+"Il luogo più delicato da questo punto di vista è, senza dubbio, il bagno. Nel caso in cui a sorprendermi fossero mia madre o Lisa mentre fanno la doccia, potrei forse trovare un modo per giustificarmi; con Alice, invece, non ne sarei così certo.\n"
+"In definitiva, non resta che verificare come potrebbero evolversi le circostanze..."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Нужно хотя бы один раз подсмотреть за тем, как Алиса принимает душ..."
-msgstr ""
+msgstr "Devo almeno una volta spiare Alice mentre fa la doccia..."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Алиса должна заметить, как я подглядываю за ней в душе."
-msgstr ""
+msgstr "Alice deve notare che la sto spiando sotto la doccia."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Чтобы она заметила наверняка, можно пошуметь во время подглядывания..."
-msgstr ""
+msgstr "Per essere sicuri che si accorga, si può fare rumore mentre la si spia..."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Выяснить, какие сладости Алиса любит больше всего."
@@ -622,7 +626,8 @@ msgstr "Nuovo costume da bagno"
 # game/scripts/engine/tasks.rpy:200
 msgid "Я заметил, что купальник Лизы довольно закрытый. По крайней мере, спереди. Непорядок, когда животик совсем не загорает!\n"
 "Она тоже так считает, но выбирать не приходится. Остальные пропали с другими вещами во время переезда. Может быть, удастся как-то ей помочь? Но нужны деньги..."
-msgstr ""
+msgstr "Ho notato che il costume da bagno di Lisa risulta piuttosto coprente, almeno nella parte anteriore. Non è l’ideale, considerato che la pancia non riesce a prendere il sole. Anche lei sembra pensarla allo stesso modo, ma al momento non ha alternative: gli altri costumi sono andati persi, insieme ad altri effetti personali, durante il trasloco.\n"
+"Forse potrei cercare un modo per aiutarla, ma per farlo servono soldi..."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Утренние шалости"
@@ -664,7 +669,7 @@ msgstr "Tocca discretamente la figa di Lisa mentre sta ancora dormendo."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Показать Лизе «обучающий» порно-ролик перед сном."
-msgstr ""
+msgstr "Mostrare a Lisa un video porno «istruttivo» prima di andare a dormire."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Нужно завершить задание «Наставник»!"
@@ -672,15 +677,15 @@ msgstr "Dobbiamo completare l'incarico di «mentore»!"
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Выяснить, начала ли Лиза мастурбировать."
-msgstr ""
+msgstr "Scoprire se Lisa ha iniziato a masturbarsi."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Нужно продвинуться в выполнении задания «Приумножение заработка»!"
-msgstr ""
+msgstr "Bisogna avanzare nel completamento della missione «Moltiplicazione dei guadagni»!"
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Нужно наблюдать за тем, что Лиза делает в ванной комнате. Лучше это делать с помощью скрытой камеры и стремянки..."
-msgstr ""
+msgstr "Bisogna osservare ciò che fa Lisa in bagno. È meglio farlo con l'aiuto di una telecamera nascosta e una scala a pioli..."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Похоже, что Лизу, как и Алису, можно подкупить сладостями! Благо, моя младшая сестрёнка довольно мирная и не стремиться выкрутить мне уши при первом же удобном случае. \n"
@@ -731,7 +736,9 @@ msgstr "Sono -5$ sui dolci preferiti di Lisa nel negozio!"
 # game/scripts/engine/tasks.rpy:200
 msgid "Алиса любит понежиться на солнышке. Я без особых надежд предложил намазать её маслом для загара, которого ни у неё, ни у меня не было... \n"
 "И она не против! Так что остаётся обзавестись этим самым маслом и вперёд..."
-msgstr ""
+msgstr "Ad Alice piace prendere il sole con calma. Senza troppe aspettative, le ho suggerito di applicarle dell’olio abbronzante, che però né lei né io avevamo a disposizione.\n"
+"Fortunatamente, lei non ha opposto alcun rifiuto.\n"
+"Ora non resta che procurarsi l’olio e procedere di conseguenza..."
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Нужно попробовать натереть Алису маслом для загара, когда она отдыхает во дворе..."
@@ -824,7 +831,8 @@ msgstr "Un libro segreto"
 # game/scripts/engine/tasks.rpy:200
 msgid "Алиса читает какую-то книгу, но не хочет говорить о ней. На порножурнал не похоже... Что же ещё там может быть? \n"
 "Нужно попытаться выяснить это как можно скорее... Любопытно же!"
-msgstr ""
+msgstr "Alice sta leggendo un libro, ma non vuole parlarne. Non sembra una rivista di contenuti erotici... Cosa potrà mai essere?\n"
+"È necessario cercare di scoprirlo il prima possibile... La curiosità è forte!"
 
 # game/scripts/engine/tasks.rpy:200
 msgid "Поискать книгу в комнате Алисы."
