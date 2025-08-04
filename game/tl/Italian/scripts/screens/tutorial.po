@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-08-04 07:43\n"
+"PO-Revision-Date: 2025-08-04 10:13\n"
 
 # TODO: Translation updated at 2025-07-27 23:15 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/tutorial.rpy:30
 msgid "Об игре"
@@ -22,7 +22,7 @@ msgstr "Il pannello principale del gioco si trova in basso."
 
 # game/scripts/screens/tutorial.rpy:54
 msgid "Слева она включает в себя иконки различных участков тех локаций, где находится Макс. Для быстрого переключения между этими местами можно использовать клавиши [[1...9] на клавиатуре."
-msgstr ""
+msgstr "Sulla sinistra sono presenti le icone delle diverse aree delle location in cui si trova Max. Per un rapido passaggio tra tali luoghi, è possibile utilizzare i tasti da 1 a 9 sulla tastiera."
 
 # game/scripts/screens/tutorial.rpy:54
 msgid "Справа расположены иконки действий Макса, которые применимы к выбранным участкам на локациях. \n"
@@ -33,7 +33,7 @@ msgstr "A destra si trovano le icone delle azioni di Max che si applicano alle a
 # game/scripts/screens/tutorial.rpy:54
 msgid "У этого действия есть несколько вариаций, а именно «Ждать 10 минут» и «Ждать 30 минут», так как в течение часа персонажи могут находиться на разных стадиях своих занятий. \n"
 "Эти иконки можно увидеть, нажав на соответствующий значок «Развернуть»."
-msgstr ""
+msgstr "Questa azione presenta diverse varianti, precisamente «Aspettare 10 minuti» e «Aspettare 30 minuti», poiché nel corso di un’ora i personaggi possono trovarsi in diverse fasi delle loro attività. Queste icone possono essere visualizzate cliccando sull’apposito pulsante «Espandi»."
 
 # game/scripts/screens/tutorial.rpy:54
 msgid "Наличие других иконок действий может зависеть от того, где Макс находится, его возможностей и есть ли там другие персонажи."
@@ -81,7 +81,7 @@ msgstr "Quando si porta a termine un compito che Max si è prefissato, questo vi
 
 # game/scripts/screens/tutorial.rpy:83
 msgid "Многие задания будут иметь подсказку для их выполнения. Эту подсказку можно увидеть, просто наведя курсор на само задание в дневнике."
-msgstr ""
+msgstr "Molti incarichi avranno un suggerimento per il loro completamento. Questo suggerimento può essere visualizzato semplicemente passando il cursore sul compito stesso nel diario."
 
 # game/scripts/screens/tutorial.rpy:104
 msgid "Следующее задание"
@@ -113,7 +113,7 @@ msgstr "Se non è riuscito ad aumentare il suo livello di abilità in questo eve
 
 # game/scripts/screens/tutorial.rpy:108
 msgid "Переход на новый уровень может разблокировать варианты действий Макса, которые ранее имели ограничения. А также открыть новые возможности и повысить шансы на успешное применение навыка."
-msgstr ""
+msgstr "Il passaggio a un nuovo livello può sbloccare opzioni di azione per Max che in precedenza erano limitate. Inoltre, può aprire nuove opportunità e aumentare le probabilità di successo nell'utilizzo delle abilità."
 
 # game/scripts/screens/tutorial.rpy:108
 msgid "Опыт применения показывает то, насколько хорошо у Макса получается использовать свои навыки."
