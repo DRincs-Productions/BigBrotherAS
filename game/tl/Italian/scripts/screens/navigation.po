@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-07-29 08:38\n"
+"PO-Revision-Date: 2025-08-04 07:43\n"
 
 # TODO: Translation updated at 2025-07-27 23:15 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/navigation.rpy:137
 msgid "Ждать окончания часа"
@@ -162,7 +162,7 @@ msgstr "Continuando, confermi di essere abbastanza grande per questi contenuti"
 
 # game/scripts/screens/navigation.rpy:706
 msgid "Все персонажи, изображённые в этой игре, вымышлены и являются совершеннолетними"
-msgstr ""
+msgstr "Tutti i personaggi rappresentati in questo gioco sono di fantasia e hanno raggiunto la maggiore età"
 
 # game/scripts/screens/navigation.rpy:708
 msgid "Продолжить"
