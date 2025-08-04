@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-07-29 08:39\n"
+"PO-Revision-Date: 2025-08-04 07:43\n"
 
 # TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/screens/collection.rpy:718 #-#-# translate crowdin compile_puzzle_start_e29c0251:
 msgid "Данное изображение разбито на множество фрагментов."
@@ -94,11 +94,11 @@ msgstr "Max non aveva mai visto Lisa in questo modo!"
 
 # game/scripts/screens/collection.rpy:205
 msgid "Макс ещё не видел Мию такой!"
-msgstr ""
+msgstr "Max non aveva mai visto Mia così!"
 
 # game/scripts/screens/collection.rpy:253
 msgid "Все персонажи"
-msgstr ""
+msgstr "Tutti i personaggi"
 
 # game/scripts/screens/collection.rpy:324
 msgid "Этот сон ещё не открыт!"
@@ -106,7 +106,7 @@ msgstr "Questo sogno non è ancora stato scoperto!"
 
 # game/scripts/screens/collection.rpy:332
 msgid "Макс скоро увидит этот сон, нужно просто немного подождать..."
-msgstr ""
+msgstr "Max vedrà presto questo sogno, bisogna solo aspettare un po’..."
 
 # game/scripts/screens/collection.rpy:340
 msgid "СПИСОК ТРЕБОВАНИЙ"
@@ -114,7 +114,7 @@ msgstr "ELENCO DEI REQUISITI"
 
 # game/scripts/screens/collection.rpy:341
 msgid "СОН #[tooltip]"
-msgstr ""
+msgstr "Sogno #[tooltip]"
 
 # game/scripts/screens/collection.rpy:357
 msgid "Выполнено [number] из [total]"
@@ -150,7 +150,7 @@ msgstr "Aggiungi all'evento"
 
 # game/scripts/screens/collection.rpy:641
 msgid "Собрать повторно"
-msgstr ""
+msgstr "Riassemblare"
 
 # game/scripts/screens/collection.rpy:734
 msgid "Прогресс с головоломкой будет утерян.\n"
