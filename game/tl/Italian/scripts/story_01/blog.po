@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-07-29 08:39\n"
+"PO-Revision-Date: 2025-08-04 12:30\n"
 
 # TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/story_01/blog.rpy:11 #-#-# translate crowdin ev_017_423a776a:
 msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
@@ -370,7 +370,7 @@ msgstr "[_tMax_s_13_] In realtà, è meglio non giocare con questo ulteriormente
 
 # game/scripts/story_01/blog.rpy:281 #-#-# translate crowdin ev_097_a9f58824:
 msgid "[_Alice_s_14_] Макс! Ты офигел, что ли?! {p=2}{nw}"
-msgstr ""
+msgstr "[_Alice_s_14_] Max! Ma sei impazzito, o cosa?! {p=2}{nw}"
 
 # game/scripts/story_01/blog.rpy:285 #-#-# translate crowdin ev_097_d3d9ef0c:
 msgid "[_Alice_s_15_] Совсем страх потерял? Я же сказала, что позову, когда можно будет смотреть! Ну-ка свали за шторку..."
@@ -564,7 +564,7 @@ msgstr "[_Max_s_12_] È un peccato. Diamo un’occhiata al terzo set e poi pensi
 
 # game/scripts/story_01/blog.rpy:428 #-#-# translate crowdin ev_097_second_fail_a9f58824:
 msgid "[_Alice_s_14_] Макс! Ты офигел, что ли?! {p=2}{nw}"
-msgstr ""
+msgstr "[_Alice_s_14_] Max! Ma sei impazzito, o cosa?! {p=2}{nw}"
 
 # game/scripts/story_01/blog.rpy:432 #-#-# translate crowdin ev_097_second_fail_d3d9ef0c:
 msgid "[_Alice_s_15_] Совсем страх потерял? Я же сказала, что позову, когда можно будет смотреть! Ну-ка свали за шторку..."
@@ -738,7 +738,7 @@ msgstr "[_Max_s_02_] Con piacere!"
 
 # game/scripts/story_01/blog.rpy:545 #-#-# translate crowdin ev_097_third_fail_a9f58824:
 msgid "[_Alice_s_14_] Макс! Ты офигел, что ли?! {p=2}{nw}"
-msgstr ""
+msgstr "[_Alice_s_14_] Max! Ma sei impazzito, o cosa?! {p=2}{nw}"
 
 # game/scripts/story_01/blog.rpy:549 #-#-# translate crowdin ev_097_third_fail_d3d9ef0c:
 msgid "[_Alice_s_15_] Совсем страх потерял? Я же сказала, что позову, когда можно будет смотреть! Ну-ка свали за шторку..."
