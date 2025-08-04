@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-07-29 08:38\n"
+"PO-Revision-Date: 2025-08-04 07:43\n"
 
 # TODO: Translation updated at 2025-07-27 23:15 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/screens.rpy:141
 msgid "У меня на счету $[mgg.money]!"
@@ -267,7 +267,7 @@ msgstr "Silenzia"
 
 # game/scripts/screens/screens.rpy:1291
 msgid "Детальная настройка музыки"
-msgstr ""
+msgstr "Impostazioni avanzate della musica"
 
 # game/scripts/screens/screens.rpy:1296
 msgid "ДРУГОЕ"
