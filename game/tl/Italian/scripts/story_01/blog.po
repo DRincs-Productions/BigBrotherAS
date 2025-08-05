@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-08-05 11:41\n"
+"PO-Revision-Date: 2025-08-05 12:59\n"
 
 # TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/story_01/blog.rpy:11 #-#-# translate crowdin ev_017_423a776a:
 msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
@@ -2432,15 +2432,15 @@ msgstr "[_Max_s_01_] Ciao, Melissa! [nointeract]"
 
 # game/scripts/story_01/blog.rpy:2109 #-#-# translate crowdin ev_135_1218478f:
 msgid "[_tMax_s_13_] Вон оно, значит, как! Изображает недовольство, когда я к ней пристаю, а на самом деле ей даже это нравится!"
-msgstr ""
+msgstr "[_tMax_s_13_] Ecco com’è, allora! Fa finta di essere infastidita quando le sto addosso, ma in realtà le piace anche questo!"
 
 # game/scripts/story_01/blog.rpy:2110 #-#-# translate crowdin ev_135_afa5afcb:
 msgid "[_tMax_s_11_] Хм... Это уже весьма интересная информация, которой я непременно стану в будущем пользоваться..."
-msgstr ""
+msgstr "[_tMax_s_11_] Hmm... Questa è già un’informazione piuttosto interessante, che sicuramente userò in futuro..."
 
 # game/scripts/story_01/blog.rpy:2111 #-#-# translate crowdin ev_135_8b930190:
 msgid "[_tMax_s_01_] Что же касается приватных трансляций Алисы, то и здесь я наверняка ещё что-то интересное увижу и узнаю..."
-msgstr ""
+msgstr "[_tMax_s_01_] Per quanto riguarda le trasmissioni private di Alice, anche lì sicuramente vedrò e scoprirò qualcosa d'interessante..."
 
 # game/scripts/story_01/blog.rpy:2122 #-#-# translate crowdin ev_137_bf853ccf:
 msgid "[_Alice_s_01_] Приветик, Майк!"
@@ -2452,63 +2452,63 @@ msgstr "[_Max_s_01_] Ciao, Melissa!"
 
 # game/scripts/story_01/blog.rpy:2126 #-#-# translate crowdin ev_137_281deec1:
 msgid "[_Alice_s_03_] Я рада, что ты снова заглянул ко мне в приват. Как настроение?"
-msgstr ""
+msgstr "[_Alice_s_03_] Sono felice che tu sia tornato a trovarmi nel mio privato. Come ti senti oggi?"
 
 # game/scripts/story_01/blog.rpy:2127 #-#-# translate crowdin ev_137_ad67b030:
 msgid "[_Max_s_11_] У меня всё супер! А как у тебя?"
-msgstr ""
+msgstr "[_Max_s_11_] Io sto alla grande! E tu come stai?"
 
 # game/scripts/story_01/blog.rpy:2128 #-#-# translate crowdin ev_137_e112e053:
 msgid "[_Alice_s_04_] Тоже порядок. Пообщаемся так или мне лучше надеть что-то другое? [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_04_] Anche io sto bene. Vuoi continuare a chiacchierare così o preferisci che mi cambi con qualcosa di diverso? [nointeract]"
 
 # game/scripts/story_01/blog.rpy:2130 #-#-# translate crowdin ev_137_454e6224:
 msgid "[_Alice_s_03_] В твоей компании я всегда рада провести свой приват. Успел по мне соскучиться?"
-msgstr ""
+msgstr "[_Alice_s_03_] In tua compagnia sono sempre felice di passare il mio tempo in privato. Ti sei già un po’ annoiato senza di me?"
 
 # game/scripts/story_01/blog.rpy:2131 #-#-# translate crowdin ev_137_628e0e22:
 msgid "[_Max_s_11_] Немного. Как твои дела?"
-msgstr ""
+msgstr "[_Max_s_11_] Un po’. Come stai?"
 
 # game/scripts/story_01/blog.rpy:2132 #-#-# translate crowdin ev_137_b43f1ee2:
 msgid "[_Alice_s_04_] Всё, как всегда. Хочешь пообщаться так или мне лучше надеть что-то другое? [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_04_] Tutto come al solito. Vuoi continuare a chiacchierare così o preferisci che mi cambi con qualcosa di diverso? [nointeract]"
 
 # game/scripts/story_01/blog.rpy:2154 #-#-# translate crowdin ev_137_save_dress_31ac22af:
 msgid "[_Alice_s_03_] Правда? Но тогда я мало чем смогу тебя порадовать без переодеваний... Получается, сразу переходим к самому интересному?"
-msgstr ""
+msgstr "[_Alice_s_03_] Davvero? Allora senza cambiarmi avrò poco da mostrarti... Quindi, passiamo subito alla parte più interessante?"
 
 # game/scripts/story_01/blog.rpy:2155 #-#-# translate crowdin ev_137_save_dress_220191a2:
 msgid "[_Max_s_02_] Ещё бы! И раз уж трансляция будет короче, то я надеюсь на какой-нибудь приятный бонус. Чтобы было по-честному..."
-msgstr ""
+msgstr "[_Max_s_02_] E come no! E visto che la diretta sarà più breve, spero in qualche bel bonus. Così è più giusto..."
 
 # game/scripts/story_01/blog.rpy:2157 #-#-# translate crowdin ev_137_save_dress_e97eb956:
 msgid "[_Alice_s_04_] Хм... Пожалуй, сегодня ты сможешь попробовать стянуть с меня одежду чуть дешевле, чем это было бы, если бы я переодевалась. [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_04_] Mmm... Direi che oggi potresti riuscire a farmi togliere qualcosa con un po’ meno fatica, rispetto a quando mi cambio davvero... [nointeract]"
 
 # game/scripts/story_01/blog.rpy:2162 #-#-# translate crowdin ev_137_save_dress_98f6a74b:
 msgid "[_Alice_s_02_] Ммм... Раз ты не просишь меня повернуться, то шалунишке-Майку, похоже, ещё с общей трансляции не даёт покоя моя грудь? [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_02_] Mmm… Visto che non mi chiedi di girarmi, sembra proprio che il birbante Mike non riesca a smettere di pensare al mio décolleté, anche durante la diretta, eh? [nointeract]"
 
 # game/scripts/story_01/blog.rpy:2165 #-#-# translate crowdin ev_137_save_dress_e3b5e9d8:
 msgid "[_Alice_s_04_] Хочешь, я покажу тебе немного больше того, что ты видишь сейчас? Я могу подразнить тебя просто бесплатно приспустив верх, а могу вообще его снять, но за $35. Выбор за тобой... [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_04_] Vuoi che ti mostri un po’ di più di quello che vedi adesso? Posso stuzzicarti lasciando cadere un po’ il top… Gratis, senza spese. Oppure posso toglierlo del tutto… Ma quello ti costerebbe $35. La scelta è tua... [nointeract]"
 
 # game/scripts/story_01/blog.rpy:2172 #-#-# translate crowdin ev_137_save_dress_b27cdb68:
 msgid "[_Alice_s_04_] Хочешь, я покажу тебе немного больше того, что ты видишь сейчас? Я могу подразнить тебя просто бесплатно приспустив верх, а могу приспустить всю одежду или снять верх за $35. Выбор за тобой... [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_04_] Vuoi che ti mostri un po’ di più di quello che vedi adesso? Posso stuzzicarti lasciando scendere un po’ il top… Gratis, senza costi. Oppure posso abbassare tutto o togliermi il top per $35. La scelta è tua... [nointeract]"
 
 # game/scripts/story_01/blog.rpy:2184 #-#-# translate crowdin ev_137_save_dress_0aa05eba:
 msgid "[_Alice_s_02_] Запросто! Похоже, что шалунишке-Майку ещё с общей трансляции не даёт покоя моя попка, да? [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_02_] Senza problemi! Sembra proprio che il birbante Mike non riesca a smettere di pensare al mio sederino, anche durante la diretta, vero? [nointeract]"
 
 # game/scripts/story_01/blog.rpy:2189 #-#-# translate crowdin ev_137_save_dress_2cc59838:
 msgid "[_Alice_s_04_] Хочешь, я покажу тебе немного больше того, что ты видишь сейчас? Я могу подразнить тебя просто бесплатно приспустив низ, а могу вообще его снять, но за $35. Выбор за тобой... [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_04_] Vuoi che ti mostri un po’ di più di quello che vedi adesso? Posso stuzzicarti lasciando scendere un po’ il pezzo di sotto… Gratis, senza spese. Oppure posso toglierlo del tutto… Ma quello ti costerebbe $35. La scelta è tua... [nointeract]"
 
 # game/scripts/story_01/blog.rpy:2198 #-#-# translate crowdin ev_137_save_dress_3a6fae1d:
 msgid "[_Alice_s_04_] Хочешь, я покажу тебе немного больше того, что ты видишь сейчас? Я могу подразнить тебя просто бесплатно приспустив низ, а могу приспустить всю одежду или снять низ за $35. Выбор за тобой... [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_04_] Vuoi che ti mostri un po’ di più di quello che vedi adesso? Posso stuzzicarti lasciando scendere un po’ il top… Gratis, senza costi. Oppure posso abbassare tutto o togliermi il top per $35. La scelta è tua... [nointeract]"
 
 # game/scripts/story_01/blog.rpy:2208 #-#-# translate crowdin ev_137_dressing_640829a8:
 msgid "[_Alice_s_02_] Сейчас же надену. Только камеру подвину... [nointeract]"
@@ -2516,7 +2516,7 @@ msgstr "[_Alice_s_02_] La metto subito… Aspetta solo un attimo che sposto un p
 
 # game/scripts/story_01/blog.rpy:2215 #-#-# translate crowdin ev_137_dressing_d8cf19d3:
 msgid "[_Alice_s_04_] Можешь подглядывать сколько хочешь, Майк, но я прекрасно умею раздеваться так, чтобы самое желанное не было видно."
-msgstr ""
+msgstr "[_Alice_s_04_] Puoi spiare quanto vuoi, Mike, ma io so perfettamente come spogliarmi senza far vedere ciò che più desideri."
 
 # game/scripts/story_01/blog.rpy:2216 #-#-# translate crowdin ev_137_dressing_fdd2dda0:
 msgid "[_Max_s_03_] Мне нравится и в целом за этим наблюдать. Каждый раз красиво..."
@@ -2552,7 +2552,7 @@ msgstr "[_Alice_s_05_] Grazie! Diciamo che è molto più interessante quando c�
 
 # game/scripts/story_01/blog.rpy:2245 #-#-# translate crowdin ev_137_dressing_98f6a74b:
 msgid "[_Alice_s_02_] Ммм... Раз ты не просишь меня повернуться, то шалунишке-Майку, похоже, ещё с общей трансляции не даёт покоя моя грудь? [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_02_] Mmm… Visto che non mi chiedi di girarmi, sembra proprio che il birbante Mike non riesca a smettere di pensare al mio décolleté, anche durante la diretta, eh? [nointeract]"
 
 # game/scripts/story_01/blog.rpy:2248 #-#-# translate crowdin ev_137_dressing_eb71b7cb:
 msgid "[_Alice_s_04_] Хочешь, я покажу тебе немного больше того, что ты видишь сейчас? Я могу подразнить тебя просто бесплатно приспустив верх, а могу вообще его снять, но за $50. Выбор за тобой... [nointeract]"
@@ -2564,7 +2564,7 @@ msgstr ""
 
 # game/scripts/story_01/blog.rpy:2267 #-#-# translate crowdin ev_137_dressing_0aa05eba:
 msgid "[_Alice_s_02_] Запросто! Похоже, что шалунишке-Майку ещё с общей трансляции не даёт покоя моя попка, да? [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_02_] Senza problemi! Sembra proprio che il birbante Mike non riesca a smettere di pensare al mio sederino, anche durante la diretta, vero? [nointeract]"
 
 # game/scripts/story_01/blog.rpy:2272 #-#-# translate crowdin ev_137_dressing_dac24f7c:
 msgid "[_Alice_s_04_] Хочешь, я покажу тебе немного больше того, что ты видишь сейчас? Я могу подразнить тебя просто бесплатно приспустив низ, а могу вообще его снять, но за $50. Выбор за тобой... [nointeract]"
