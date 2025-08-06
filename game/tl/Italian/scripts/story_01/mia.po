@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-07-29 08:39\n"
+"PO-Revision-Date: 2025-08-06 14:37\n"
 
 # TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/story_01/mia.rpy:7 #-#-# translate crowdin ev_063_eb6a6385:
 msgid "[_tMax_s_11_] Звонок в ворота! Похоже, к нам кто-то приехал..."
@@ -794,7 +794,7 @@ msgstr "[_tMax_s_01_] Il bagno fa parte della casa, giusto? Sì, possiamo vederl
 
 # game/scripts/story_01/mia.rpy:474 #-#-# translate crowdin ev_118_bathroom_2_46913573:
 msgid "[_tMax_s_05_] Ух ты! А топик у этого купальника мне нравится... Вернее, мне нравится то, с какой лёгкостью он сползает с её плеч! Чёрт, нужно быстрее делать вид, что меня и близко здесь не было..."
-msgstr ""
+msgstr "[_tMax_s_05_] Wow! Mi piace molto la parte superiore di questo costume... Anzi, mi piace come scivola così facilmente dalle sue spalle! Accidenti, devo fare in fretta a far finta di non essere mai stato qui..."
 
 # game/scripts/story_01/mia.rpy:483 #-#-# translate crowdin ev_118_lounge_2_f482ed59:
 msgid "[_tMax_s_02_] Вид из гостиной, конечно, открывается шикарный. Прямо на море. Наверно, сам участок стоил в разы больше, чем само строительство дома..."
@@ -1278,7 +1278,7 @@ msgstr "[_Mia_s_01_] Ciao, Max! Eccomi di nuovo qui..."
 
 # game/scripts/story_01/mia.rpy:773 #-#-# translate crowdin ev_138_eb06f23f:
 msgid "[_Max_s_01_] Привет! Шикарно выглядите! Я уже одет, так что можем ехать."
-msgstr ""
+msgstr "[_Max_s_01_] Ciao! Sembri fantastica! Io sono già pronto, quindi possiamo partire."
 
 # game/scripts/story_01/mia.rpy:774 #-#-# translate crowdin ev_138_498af9a4:
 msgid "[_Mia_s_04_] Мама-то тебя отпустила? А то ещё укатим ко мне без спроса..."
