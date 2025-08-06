@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-07-29 08:39\n"
+"PO-Revision-Date: 2025-08-06 09:40\n"
 
 # TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/story_01/eric.rpy:10 #-#-# translate crowdin ev_055_e6d21536:
 msgid "[_Ann_s_02_] Макс, ты хотел увидеть платье? Вот оно..."
@@ -346,19 +346,19 @@ msgstr "[_Lisa_s_02_] Sono lieta di conoscerla!"
 
 # game/scripts/story_01/eric.rpy:244 #-#-# translate crowdin ev_128_c0bdab1b:
 msgid "[_Ann_s_03_] Я пойду быстренько переоденусь и сядем ужинать. Мы завтракаем и ужинаем здесь, на свежем воздухе. Пообщайтесь немного, пока я отсутствую. Макс, а ты идёшь со мной..."
-msgstr ""
+msgstr "[_Ann_s_03_] Vado a cambiarmi al volo e poi ci mettiamo a cenare. Facciamo colazione e cena qui, all’aria aperta. Fate un po’ di conversazione mentre non ci sono. Max, tu vieni con me..."
 
 # game/scripts/story_01/eric.rpy:245 #-#-# translate crowdin ev_128_4fe28e55:
 msgid "[_Max_s_11_] Да?! Ну, ладно..."
-msgstr ""
+msgstr "[_Max_s_11_] Ah sì?! Va bene, d’accordo..."
 
 # game/scripts/story_01/eric.rpy:250 #-#-# translate crowdin ev_128_5acf9aa5:
 msgid "[_Ann_s_14_] В честь того, что у нас сегодня гости, я не стану тебя перед всеми отчитывать. Хотя и следовало бы."
-msgstr ""
+msgstr "[_Ann_s_14_] In onore del fatto che oggi abbiamo ospiti, eviterò di rimproverarti davanti a tutti. Anche se dovrei farlo."
 
 # game/scripts/story_01/eric.rpy:252 #-#-# translate crowdin ev_128_ef5743e9:
 msgid "[_Ann_s_14_] В честь того, что у нас сегодня гости, я не стану тебя перед всеми наказывать. Хотя и следовало бы."
-msgstr ""
+msgstr "[_Ann_s_14_] In onore del fatto che oggi abbiamo ospiti, non ti punirò davanti a tutti. Anche se lo meriteresti."
 
 # game/scripts/story_01/eric.rpy:253 #-#-# translate crowdin ev_128_731e4ca7:
 msgid "[_Max_s_17_] Так я же не виноват!"
@@ -366,23 +366,23 @@ msgstr "[_Max_s_17_] Non è colpa mia!"
 
 # game/scripts/story_01/eric.rpy:254 #-#-# translate crowdin ev_128_8c8c190a:
 msgid "[_Ann_s_10_] У меня сейчас нет времени на твои шуточки. В следующий раз мне уже будет без разницы, гости или нет, ты получишь по заслугам, ясно?"
-msgstr ""
+msgstr "[_Ann_s_10_] Adesso non ho tempo per le tue battute. La prossima volta non mi importerà se ci sono ospiti o no, ti beccherai quello che ti meriti, chiaro?"
 
 # game/scripts/story_01/eric.rpy:255 #-#-# translate crowdin ev_128_2f6558f0:
 msgid "[_Max_s_16_] Да, мам, ясно..."
-msgstr ""
+msgstr "[_Max_s_16_] Sì, mamma, chiaro..."
 
 # game/scripts/story_01/eric.rpy:260 #-#-# translate crowdin ev_128_4ce84cc4:
 msgid "[_Ann_s_01_] Всё, давай марш из комнаты. Я скоро к вам выйду..."
-msgstr ""
+msgstr "[_Ann_s_01_] Bene, su, fuori dalla stanza. Tra poco vengo anch’io..."
 
 # game/scripts/story_01/eric.rpy:261 #-#-# translate crowdin ev_128_ab759c16:
 msgid "[_Max_s_05_] А я бы и тут тебя подождал с удовольствием."
-msgstr ""
+msgstr "[_Max_s_05_] Io ti aspetterei volentieri anche qui."
 
 # game/scripts/story_01/eric.rpy:263 #-#-# translate crowdin ev_128_8bf30b3b:
 msgid "[_Ann_s_11_] Макс, я кому сказала? Иди... [nointeract]"
-msgstr ""
+msgstr "[_Ann_s_11_] Max, con chi credi che stia parlando? Vai! [nointeract]"
 
 # game/scripts/story_01/eric.rpy:269 #-#-# translate crowdin ev_128_cf700b82:
 msgid "[_Ann_s_03_] Я пойду быстренько переоденусь и сядем ужинать. Мы завтракаем и ужинаем здесь, на свежем воздухе. Пообщайтесь немного, пока я отсутствую. Всё, побежала..."
@@ -582,7 +582,7 @@ msgstr "Non conoscerlo!"
 
 # game/scripts/story_01/eric.rpy:262
 msgid "{i}выйти из комнаты{/i}"
-msgstr ""
+msgstr "{i}uscire dalla stanza{/i}"
 
 # game/scripts/story_01/eric.rpy:329
 msgid "{i}прислушаться{/i}"
