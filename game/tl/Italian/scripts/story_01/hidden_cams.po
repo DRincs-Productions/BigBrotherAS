@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-07-29 08:39\n"
+"PO-Revision-Date: 2025-08-06 09:40\n"
 
 # TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/story_01/hidden_cams.rpy:12 #-#-# translate crowdin ev_003_089bb89e:
 msgid "[_tMax_s_13_] Так, мама попросила разобрать коробки. Сейчас глянем, что тут у нас..."
@@ -38,7 +38,7 @@ msgstr "[_tMax_s_11_] Eccola! Qualcuno l'ha nascosta così bene nel muro che si 
 
 # game/scripts/story_01/hidden_cams.rpy:46 #-#-# translate crowdin ev_006_6626d93b:
 msgid "[_tMax_s_12_] Так... Но она ни к чему не подключена сейчас. Видимо, отец так следил за ходом строительства и ремонта. А сейчас уже некому следить и не за чем..."
-msgstr ""
+msgstr "[_tMax_s_12_] Ecco... Ma adesso non è collegata a niente. Probabilmente papà seguiva così i lavori di costruzione e ristrutturazione. Ora però non c’è più nessuno che controlli e non c’è più motivo di farlo..."
 
 # game/scripts/story_01/hidden_cams.rpy:47 #-#-# translate crowdin ev_006_2efad7ae:
 msgid "[_tMax_s_01_] Но если её подключить, то можно подглядывать и за кое-чем другим. Вот только нужно во всём как следует разобраться, поискав информацию в интернете!"
@@ -50,7 +50,7 @@ msgstr "[_tMax_s_12_] Dunque, curioso... Queste telecamere possono essere impost
 
 # game/scripts/story_01/hidden_cams.rpy:61 #-#-# translate crowdin ev_007_71c4cc0b:
 msgid "[_tMax_s_11_] Но что ещё интереснее, некоторые люди готовы платить за доступ к таким камерам... Может быть, мне сделать свой сайт, где люди будут платить мне за просмотр видео?"
-msgstr ""
+msgstr "[_tMax_s_11_] Ma cosa ancora più interessante, alcune persone sono pronte a pagare per avere accesso a queste telecamere... Forse dovrei creare un mio sito dove la gente mi paghi per vedere i video?"
 
 # game/scripts/story_01/hidden_cams.rpy:62 #-#-# translate crowdin ev_007_92878369:
 msgid "[_tMax_s_13_] Но я ничего толком не умею... Может быть, поможет какая-то литература? Иногда, специализированные книги куда лучше, чем то, что пишут в интернете!"
