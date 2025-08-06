@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-08-06 14:37\n"
+"PO-Revision-Date: 2025-08-06 21:12\n"
 
 # TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/story_01/mia.rpy:7 #-#-# translate crowdin ev_063_eb6a6385:
 msgid "[_tMax_s_11_] Звонок в ворота! Похоже, к нам кто-то приехал..."
@@ -1282,19 +1282,19 @@ msgstr "[_Max_s_01_] Ciao! Sembri fantastica! Io sono già pronto, quindi possia
 
 # game/scripts/story_01/mia.rpy:774 #-#-# translate crowdin ev_138_498af9a4:
 msgid "[_Mia_s_04_] Мама-то тебя отпустила? А то ещё укатим ко мне без спроса..."
-msgstr ""
+msgstr "[_Mia_s_04_] Tua madre ti ha dato il permesso? Altrimenti potremmo finire per andare a casa mia senza chiedere..."
 
 # game/scripts/story_01/mia.rpy:775 #-#-# translate crowdin ev_138_02a475f9:
 msgid "[_Max_s_11_] Пфф... Естественно!"
-msgstr ""
+msgstr "[_Max_s_11_] Pff... Ovviamente!"
 
 # game/scripts/story_01/mia.rpy:777 #-#-# translate crowdin ev_138_86d9a1a5:
 msgid "[_Mia_s_02_] Отлично! Тогда поехали... [nointeract]"
-msgstr ""
+msgstr "[_Mia_s_02_] Perfetto! Allora andiamo... [nointeract]"
 
 # game/scripts/story_01/mia.rpy:783 #-#-# translate crowdin ev_138_0e9d39a3:
 msgid "[_tMax_s_13_] Пока мы едем, надо бы подумать, чему именно я сегодня буду её учить в бассейне..."
-msgstr ""
+msgstr "[_tMax_s_13_] Mentre andiamo, dovrei pensare a cosa esattamente le insegnerò oggi in piscina..."
 
 # game/scripts/story_01/mia.rpy:787 #-#-# translate crowdin ev_138_5aceceef:
 msgid "[_tMax_s_07_] Правда, куда интереснее представлять, как мои руки оказываются под её облегающем платьем... О да!"
