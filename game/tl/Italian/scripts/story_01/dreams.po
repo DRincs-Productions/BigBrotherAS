@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-07-29 08:39\n"
+"PO-Revision-Date: 2025-08-06 09:40\n"
 
 # TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/story_01/dreams.rpy:11 #-#-# translate crowdin ev_019_d1b851a2:
 msgid "[_tMax_s_00_] Что у нас тут интересного? Посмотрим..."
@@ -802,47 +802,47 @@ msgstr "[_Max_s_09_] Uhh... Quanto sei bagnata, mamma..."
 
 # game/scripts/story_01/dreams.rpy:604 #-#-# translate crowdin ev_132_4478c409:
 msgid "[_Alice_s_12_] Знаешь, Макс, а находится в твоём «любимом» положении довольно волнительно..."
-msgstr ""
+msgstr "[_Alice_s_12_] Sai, Max, stare nella tua «posizione preferita» è davvero emozionante..."
 
 # game/scripts/story_01/dreams.rpy:605 #-#-# translate crowdin ev_132_313c5c3d:
 msgid "[_Max_s_01_] То, что я частенько оказываюсь в наручниках не значит, что мне это нравится. Но это по-своему забавно!"
-msgstr ""
+msgstr "[_Max_s_01_] Il fatto che mi ritrovi spesso in manette non significa che mi piaccia. Però, in un certo senso, è divertente!"
 
 # game/scripts/story_01/dreams.rpy:606 #-#-# translate crowdin ev_132_4231844e:
 msgid "[_Alice_s_11_] Может это и было бы забавно, если бы я видела, что ты будешь со мной делать."
-msgstr ""
+msgstr "[_Alice_s_11_] Forse sarebbe divertente, se solo potessi vedere cosa hai in mente di farmi."
 
 # game/scripts/story_01/dreams.rpy:607 #-#-# translate crowdin ev_132_48020f9b:
 msgid "[_Max_s_13_] Неужели ты думала, что я не отыграюсь на тебе за то, как вы тут с Катей издевались надо мной?"
-msgstr ""
+msgstr "[_Max_s_13_] Davvero pensavi che non mi sarei vendicato per come tu e Katja vi siete prese gioco di me qui?"
 
 # game/scripts/story_01/dreams.rpy:611 #-#-# translate crowdin ev_132_25a5278b:
 msgid "[_Alice_s_12_] Эй, ты же сам к нам лез! И уходил от нас уж точно крайне довольным... Правда, в начале..."
-msgstr ""
+msgstr "[_Alice_s_12_] Ehi, sei stato tu a cercarci! E quando te ne sei andato, eri più che soddisfatto... Almeno all’inizio..."
 
 # game/scripts/story_01/dreams.rpy:612 #-#-# translate crowdin ev_132_3a541668:
 msgid "[_Max_s_02_] Вот-вот, Алиса... Хорошо, что ты вспомнила."
-msgstr ""
+msgstr "[_Max_s_02_] Proprio così, Alice... Meno male che te lo sei ricordata."
 
 # game/scripts/story_01/dreams.rpy:613 #-#-# translate crowdin ev_132_fe317a24:
 msgid "[_Alice_s_15_] Вот, чёрт! И что же меня тогда ждёт? Может, стоит придумать стоп-слово?"
-msgstr ""
+msgstr "[_Alice_s_15_] Accidenti! E adesso cosa mi aspetta? Forse dovrei inventarmi una parola di sicurezza, no?"
 
 # game/scripts/story_01/dreams.rpy:614 #-#-# translate crowdin ev_132_1cc211ec:
 msgid "[_Max_s_04_] Да, может и стоит, вот только не факт, что у тебя получится его сказать..."
-msgstr ""
+msgstr "[_Max_s_04_] Sì, forse dovresti… Anche se non è detto che riuscirai a dirla, però..."
 
 # game/scripts/story_01/dreams.rpy:615 #-#-# translate crowdin ev_132_1646ac8c:
 msgid "[_Alice_s_14_] Ой! Ты что, ещё и рот мне собираешься чем-то заткнуть?!"
-msgstr ""
+msgstr "[_Alice_s_14_] Oh! Non dirmi che hai intenzione di tapparmi anche la bocca adesso?!"
 
 # game/scripts/story_01/dreams.rpy:617 #-#-# translate crowdin ev_132_fc674c39:
 msgid "[_Max_s_11_] Звучит заманчиво, сестрёнка! Хм... Сколько же всего сейчас можно с тобой сделать... [nointeract]"
-msgstr ""
+msgstr "[_Max_s_11_] Suona allettante, sorella! Hm... Quante cose si potrebbero fare con te adesso... [nointeract]"
 
 # game/scripts/story_01/dreams.rpy:621 #-#-# translate crowdin ev_132_7501ab4b:
 msgid "[_Alice_s_02_] Ммм... Пока это совершенно не похоже на наказание, Макс!"
-msgstr ""
+msgstr "[_Alice_s_02_] Mmm... Finora non sembra affatto una punizione, Max!"
 
 # game/scripts/story_01/dreams.rpy:622 #-#-# translate crowdin ev_132_caa3d1d4:
 msgid "[_Max_s_13_] Тебе не нравится?"
@@ -874,7 +874,7 @@ msgstr ""
 
 # game/scripts/story_01/dreams.rpy:641 #-#-# translate crowdin ev_132_7501ab4b_1:
 msgid "[_Alice_s_02_] Ммм... Пока это совершенно не похоже на наказание, Макс!"
-msgstr ""
+msgstr "[_Alice_s_02_] Mmm... Finora non sembra affatto una punizione, Max!"
 
 # game/scripts/story_01/dreams.rpy:642 #-#-# translate crowdin ev_132_caa3d1d4_1:
 msgid "[_Max_s_13_] Тебе не нравится?"
@@ -910,7 +910,7 @@ msgstr ""
 
 # game/scripts/story_01/dreams.rpy:662 #-#-# translate crowdin ev_132_7501ab4b_2:
 msgid "[_Alice_s_02_] Ммм... Пока это совершенно не похоже на наказание, Макс!"
-msgstr ""
+msgstr "[_Alice_s_02_] Mmm... Finora non sembra affatto una punizione, Max!"
 
 # game/scripts/story_01/dreams.rpy:663 #-#-# translate crowdin ev_132_caa3d1d4_2:
 msgid "[_Max_s_13_] Тебе не нравится?"
