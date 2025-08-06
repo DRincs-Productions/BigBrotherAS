@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-07-29 08:39\n"
+"PO-Revision-Date: 2025-08-06 09:40\n"
 
 # TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/story_01/intro.rpy:6 #-#-# translate crowdin intro_52864ee0:
 msgid "[_Max_s_01_] Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку. [nointeract]"
@@ -138,7 +138,7 @@ msgstr "{i}prosegui{/i}"
 
 # game/scripts/story_01/intro.rpy:5
 msgid "{i}пропустить пролог{/i}"
-msgstr ""
+msgstr "{i}Saltare il prologo{/i}"
 
 # game/scripts/story_01/intro.rpy:41
 msgid "{i}несколько недель спустя...{/i}"
@@ -150,5 +150,5 @@ msgstr "{i}una settimana dopo...{/i}"
 
 # game/scripts/story_01/intro.rpy:67
 msgid "{i}начать игру (Глава 1){/i}"
-msgstr ""
+msgstr "{i}Iniziare il gioco (Capitolo 1){/i}"
 
