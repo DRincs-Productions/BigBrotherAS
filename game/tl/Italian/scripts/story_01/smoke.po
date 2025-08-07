@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-08-07 17:51\n"
+"PO-Revision-Date: 2025-08-07 19:07\n"
 
 # TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/story_01/smoke.rpy:11 #-#-# translate crowdin ev_025_7cf4d55a:
 msgid "[_tMax_s_13_] Что это? Ну-ка, ну-ка... Вот чёрт! Алиса снова взялась курить травку! Это очень нехорошо... [nointeract]"
@@ -546,19 +546,19 @@ msgstr "[_tMax_s_12_] Tutti questi accordi con Alice sono certamente interessant
 
 # game/scripts/story_01/smoke.rpy:506 #-#-# translate crowdin ev_136_6feb3d6d:
 msgid "[_tMax_s_13_] Рано или поздно Алиса попадётся и тогда, до кучи, от мамы может прилететь и мне, как покрывавшему сестру. Но сдавать Алису я пока не хочу..."
-msgstr ""
+msgstr "[_tMax_s_13_] Prima o poi Alice verrà scoperta e allora, per di più, anche io potrei essere punito dalla mamma per aver coperto mia sorella. Ma per ora non voglio tradirla..."
 
 # game/scripts/story_01/smoke.rpy:508 #-#-# translate crowdin ev_136_880f02be:
 msgid "[_tMax_s_13_] Рано или поздно Алиса снова попадётся и тогда, до кучи, от мамы может прилететь и мне, как покрывавшему сестру. Но сдавать Алису я больше не хочу, по крайней мере пока..."
-msgstr ""
+msgstr "[_tMax_s_13_] Prima o poi Alice verrà di nuovo scoperta e allora, per di più, anche io potrei essere punito dalla mamma per aver coperto mia sorella. Ma non voglio più tradirla, almeno per ora..."
 
 # game/scripts/story_01/smoke.rpy:510 #-#-# translate crowdin ev_136_163d7bff:
 msgid "[_tMax_s_16_] Сам бы с удовольствием её отшлёпал, но это опасно для моего здоровья. Да что там для здоровья, для жизни!"
-msgstr ""
+msgstr "[_tMax_s_16_] Mi piacerebbe sculacciarla, ma è pericoloso per la mia salute. Anzi, non solo per la salute, ma anche per la vita!"
 
 # game/scripts/story_01/smoke.rpy:511 #-#-# translate crowdin ev_136_21339ee2:
 msgid "[_tMax_s_11_] Поэтому лучше подождать с этим и посмотреть, как будут развиваться наши с Алисой взаимоотношения. Как знать, вдруг всё станет настолько хорошо, что и отшлёпать её будет абсолютно неопасно..."
-msgstr ""
+msgstr "[_tMax_s_11_] Quindi è meglio aspettare e vedere come si svilupperà il nostro rapporto con Alice. Chissà, magari tutto andrà così bene che sculacciarla non sarà affatto pericoloso..."
 
 # §translate crowdin strings: #|#|# # game/scripts/story_01/smoke.rpy:10
 msgid "Алиса, ты опять за старое?!"
@@ -582,7 +582,7 @@ msgstr "Non va bene, Alice!"
 
 # game/scripts/story_01/smoke.rpy:82
 msgid "{i}шлёпнуть её по попке{/i}"
-msgstr ""
+msgstr "{i}sculacciarla{/i}"
 
 # game/scripts/story_01/smoke.rpy:107
 msgid "С тебя $20 и я молчу..."
