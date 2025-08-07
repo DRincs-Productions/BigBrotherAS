@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-07-29 08:39\n"
+"PO-Revision-Date: 2025-08-07 17:51\n"
 
 # TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/story_01/smoke.rpy:11 #-#-# translate crowdin ev_025_7cf4d55a:
 msgid "[_tMax_s_13_] Что это? Ну-ка, ну-ка... Вот чёрт! Алиса снова взялась курить травку! Это очень нехорошо... [nointeract]"
@@ -110,19 +110,19 @@ msgstr "[_tMax_s_13_] Ahi ahi ahi, Alice... Ti sei di nuovo divertita con quella
 
 # game/scripts/story_01/smoke.rpy:92 #-#-# translate crowdin ev_026_d9bf6d83:
 msgid "[_tMax_s_12_] На данный момент, у меня нет никакой уверенности в том, что я останусь в живых, если сделаю это! Наши взаимоотношения с Алисой ещё не так хороши, как хотелось бы... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_12_] Al momento, non sono affatto sicuro di rimanere in vita se lo faccio! Il mio rapporto con Alice non è ancora così buono come vorrei... [nointeract]\n\n"
 
 # game/scripts/story_01/smoke.rpy:94 #-#-# translate crowdin ev_026_8df806fe:
 msgid "[_tMax_s_12_] На данный момент, у меня нет никакой уверенности в том, что я останусь в живых, если сделаю это! Сперва нужно помочь Алисе с альтернативой её блогу... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_12_] Al momento, non ho alcuna certezza di rimanere in vita se lo faccio! Prima devo aiutare Alice con un'alternativa per il suo blog... [nointeract]"
 
 # game/scripts/story_01/smoke.rpy:96 #-#-# translate crowdin ev_026_eb6f30b9:
 msgid "[_tMax_s_12_] На данный момент, у меня нет никакой уверенности в том, что я останусь в живых, если сделаю это! А я ещё хочу увидеть веб-трансляцию Алисы... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_12_] Al momento, non sono affatto sicuro di rimanere in vita se lo faccio! E voglio ancora vedere lo Streaming di Alice... [nointeract]"
 
 # game/scripts/story_01/smoke.rpy:98 #-#-# translate crowdin ev_026_a44e82a4:
 msgid "[_tMax_s_12_] На данный момент, у меня нет никакой уверенности в том, что я останусь в живых, если сделаю это! А я ещё хочу увидеть хотя бы несколько приватных трансляций Алисы... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_12_] Al momento, non sono affatto sicuro di rimanere in vita se lo faccio! E voglio ancora vedere almeno un paio di trasmissioni private di Alice... [nointeract]"
 
 # game/scripts/story_01/smoke.rpy:105 #-#-# translate crowdin ev_026_8f8cc24f:
 msgid "[_Alice_s_12_] Ой! Ну, да... Я знаю... Ты же не скажешь об этом маме?"
@@ -310,79 +310,79 @@ msgstr "[_Alice_s_12_] Fino ad allora, piantala d'infastidirmi. Lasciami fumare 
 
 # game/scripts/story_01/smoke.rpy:262 #-#-# translate crowdin ev_026_spank_3d804ea8:
 msgid "[_Alice_s_14_] А-а-а-ай!!!"
-msgstr ""
+msgstr "[_Alice_s_14_] A-a-a-ah!!!"
 
 # game/scripts/story_01/smoke.rpy:263 #-#-# translate crowdin ev_026_spank_b233226a:
 msgid "[_Max_s_13_] Ага, попалась?!"
-msgstr ""
+msgstr "[_Max_s_13_] Aha, ti ho beccata?!"
 
 # game/scripts/story_01/smoke.rpy:267 #-#-# translate crowdin ev_026_spank_e0e2ca9f:
 msgid "[_Alice_s_16_] Макс!!! Какого фига ты так тихо подкрадываешься?! Да ещё и бьёшь меня по заднице!"
-msgstr ""
+msgstr "[_Alice_s_16_] Max!!! Perché ti avvicini così silenziosamente?! E poi mi dai anche una pacca sul sedere!"
 
 # game/scripts/story_01/smoke.rpy:268 #-#-# translate crowdin ev_026_spank_a244f962:
 msgid "[_Max_s_16_] А нечего эту дрянь продолжать курить!"
-msgstr ""
+msgstr "[_Max_s_16_] E non c'è motivo di continuare a fumare quella schifezza!"
 
 # game/scripts/story_01/smoke.rpy:269 #-#-# translate crowdin ev_026_spank_60442dba:
 msgid "[_Alice_s_15_] Без тебя как-нибудь разберусь, что мне делать, а что нет! Сейчас получишь у меня..."
-msgstr ""
+msgstr "[_Alice_s_15_] Posso benissimo capire da sola cosa fare e cosa no, senza di te! Adesso vedi cosa ti succede..."
 
 # game/scripts/story_01/smoke.rpy:270 #-#-# translate crowdin ev_026_spank_dbe54b65:
 msgid "[_Max_s_17_] Только представь, как ты потом получишь от мамы... Считай, что это было так, для профилактики."
-msgstr ""
+msgstr "[_Max_s_17_] Solo immagina cosa ti dirà la mamma dopo... Consideralo pure come un avvertimento. Per la tua prevenzione."
 
 # game/scripts/story_01/smoke.rpy:272 #-#-# translate crowdin ev_026_spank_c801008d:
 msgid "[_Alice_s_11_] Значит, вот так, да?! Тогда наша договорённость отменяется, раз ты меня отшлёпал... Понял?"
-msgstr ""
+msgstr "[_Alice_s_11_] Ah, quindi è così, eh?! Allora il nostro accordo è annullato, visto che hai osato darmi uno schiaffo! Chiaro?"
 
 # game/scripts/story_01/smoke.rpy:273 #-#-# translate crowdin ev_026_spank_cbd2d988:
 msgid "[_Max_s_13_] Вполне себе по-честному."
-msgstr ""
+msgstr "[_Max_s_13_] Mi sembra più che giusto."
 
 # game/scripts/story_01/smoke.rpy:275 #-#-# translate crowdin ev_026_spank_09f34956:
 msgid "[_Alice_s_15_] Всё, брысь отсюда! Дай спокойно покурить! [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_15_] Basta, fuori dai piedi! Fammi fumare in pace! [nointeract]"
 
 # game/scripts/story_01/smoke.rpy:284 #-#-# translate crowdin ev_026_spank_3d804ea8_1:
 msgid "[_Alice_s_14_] А-а-а-ай!!!"
-msgstr ""
+msgstr "[_Alice_s_14_] A-a-a-ah!!!"
 
 # game/scripts/story_01/smoke.rpy:285 #-#-# translate crowdin ev_026_spank_cdce1917:
 msgid "[_Max_s_13_] Ну как, получила?!"
-msgstr ""
+msgstr "[_Max_s_13_] Allora, ti è servita la lezione?!"
 
 # game/scripts/story_01/smoke.rpy:289 #-#-# translate crowdin ev_026_spank_e0e2ca9f_1:
 msgid "[_Alice_s_16_] Макс!!! Какого фига ты так тихо подкрадываешься?! Да ещё и бьёшь меня по заднице!"
-msgstr ""
+msgstr "[_Alice_s_16_] Max!!! Perché ti avvicini così silenziosamente?! E poi mi dai anche una pacca sul sedere!"
 
 # game/scripts/story_01/smoke.rpy:290 #-#-# translate crowdin ev_026_spank_a244f962_1:
 msgid "[_Max_s_16_] А нечего эту дрянь продолжать курить!"
-msgstr ""
+msgstr "[_Max_s_16_] E non c'è motivo di continuare a fumare quella schifezza!"
 
 # game/scripts/story_01/smoke.rpy:291 #-#-# translate crowdin ev_026_spank_20f83cda:
 msgid "[_Alice_s_15_] Хочу и курю! А тебя я сейчас урою..."
-msgstr ""
+msgstr "[_Alice_s_15_] Fumo se mi va! E ora ti sistemo io..."
 
 # game/scripts/story_01/smoke.rpy:292 #-#-# translate crowdin ev_026_spank_74a90a77:
 msgid "[_Max_s_17_] За это тебя мама тоже по головке не погладит. Считай, что это было так, для профилактики. От мамы ты бы получила куда больше и больнее..."
-msgstr ""
+msgstr "[_Max_s_17_] Per questo la mamma non ti farà certo le coccole. Consideralo un avvertimento. Dalla mamma avresti ricevuto molto di più e peggio..."
 
 # game/scripts/story_01/smoke.rpy:294 #-#-# translate crowdin ev_026_spank_4a78c8ec:
 msgid "[_Alice_s_11_] Ах ты так, да?! Тогда наша договорённость отменяется, раз ты меня отшлёпал... Понял?"
-msgstr ""
+msgstr "[_Alice_s_11_] Ah, fai così?! Allora il nostro accordo è annullato, visto che mi hai sculacciato... Hai capito?"
 
 # game/scripts/story_01/smoke.rpy:295 #-#-# translate crowdin ev_026_spank_b4245c4c:
 msgid "[_Max_s_13_] Пожалуй, это справедливо."
-msgstr ""
+msgstr "[_Max_s_13_] Direi che è giusto."
 
 # game/scripts/story_01/smoke.rpy:297 #-#-# translate crowdin ev_026_spank_09f34956_1:
 msgid "[_Alice_s_15_] Всё, брысь отсюда! Дай спокойно покурить! [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_15_] Basta, fuori dai piedi! Fammi fumare in pace! [nointeract]"
 
 # game/scripts/story_01/smoke.rpy:302 #-#-# translate crowdin ev_026_spank_31d4e4dd:
 msgid "[_Alice_s_11_] Ах ты... Всё, брысь отсюда! Дай спокойно покурить! [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_11_] Ah tu... Adesso sparisci! Fammi fumare in pace! [nointeract]"
 
 # game/scripts/story_01/smoke.rpy:324 #-#-# translate crowdin ev_027_8a4a05d0:
 msgid "[_Alice_s_11_] Нет, блин, просто зажгла сигарету, посмотреть как горит..."
@@ -542,7 +542,7 @@ msgstr "[_Max_s_16_] Mi dispiace. È così e basta."
 
 # game/scripts/story_01/smoke.rpy:503 #-#-# translate crowdin ev_136_f02b4d6c:
 msgid "[_tMax_s_12_] Все эти договорённости с Алисой, конечно, прикольны... Только вот за курение этой дряни, на самом деле, стоило бы её отшлёпать хорошенько."
-msgstr ""
+msgstr "[_tMax_s_12_] Tutti questi accordi con Alice sono certamente interessanti... Tuttavia, per aver fumato quella sostanza nociva, sarebbe opportuno darle una bella sculacciata."
 
 # game/scripts/story_01/smoke.rpy:506 #-#-# translate crowdin ev_136_6feb3d6d:
 msgid "[_tMax_s_13_] Рано или поздно Алиса попадётся и тогда, до кучи, от мамы может прилететь и мне, как покрывавшему сестру. Но сдавать Алису я пока не хочу..."
