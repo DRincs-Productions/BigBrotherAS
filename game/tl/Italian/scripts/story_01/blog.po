@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-08-05 20:06\n"
+"PO-Revision-Date: 2025-08-08 12:32\n"
 
 # TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/story_01/blog.rpy:11 #-#-# translate crowdin ev_017_423a776a:
 msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
@@ -2022,20 +2022,15 @@ msgstr "[_Max_s_02_] Non mi lamento, va abbastanza bene. E tu invece?"
 
 # game/scripts/story_01/blog.rpy:1867 #-#-# translate crowdin ev_134_61d167c5:
 msgid "[_Alice_s_01_] Тоже вполне неплохо. Я недавно переехала в новый город. Правда, при переезде потерялась моя одежда и всё остальное. Поэтому у меня сейчас пока скромный гардероб."
-msgstr "[_Alice_s_01_] Anche io direi che va piuttosto bene.\n"
-"Mi sono appena trasferita in una nuova città…\n"
-"Anche se, durante il trasloco, ho perso quasi tutti i vestiti e il resto delle mie cose.\n"
-"Quindi, al momento… Diciamo che il mio guardaroba è un po’ essenziale."
+msgstr "[_Alice_s_01_] Anche io direi che va piuttosto bene. Mi sono appena trasferita in una nuova città… Anche se, durante il trasloco, ho perso quasi tutti i vestiti e il resto delle mie cose. Quindi, al momento… Diciamo che il mio guardaroba è un po’ essenziale."
 
 # game/scripts/story_01/blog.rpy:1868 #-#-# translate crowdin ev_134_0cb4130e:
 msgid "[_Max_s_11_] Должно быть очень обидно всё потерять... А есть что-то сексуальное, что ты не надеваешь во время общих трансляций?"
-msgstr "[_Max_s_11_] Dev’essere proprio fastidioso perdere tutto così...\n"
-"Ma dimmi, c’è qualcosa di sexy che non indossi durante le dirette insieme?"
+msgstr "[_Max_s_11_] Dev’essere proprio fastidioso perdere tutto così... Ma dimmi, c’è qualcosa di sexy che non indossi durante le dirette insieme?"
 
 # game/scripts/story_01/blog.rpy:1873 #-#-# translate crowdin ev_134_4d0aa85e:
 msgid "[_Alice_s_04_] Может быть... Если хочешь, то я могу переодеться в то, что ты ещё не видел? Или во что-то из того, что я надеваю на своих общих трансляциях? [nointeract]"
-msgstr "[_Alice_s_04_] Forse... Se vuoi, posso cambiarmi in qualcosa che non hai ancora visto.\n"
-"O in qualcosa di quello che indosso durante le mie dirette insieme. [nointeract]"
+msgstr "[_Alice_s_04_] Forse... Se vuoi, posso cambiarmi in qualcosa che non hai ancora visto. O in qualcosa di quello che indosso durante le mie dirette insieme. [nointeract]"
 
 # game/scripts/story_01/blog.rpy:1875 #-#-# translate crowdin ev_134_5b3aa12e:
 msgid "[_Alice_s_02_] Тогда я сейчас же это надену. Скоро вернусь..."
@@ -2043,8 +2038,7 @@ msgstr "[_Alice_s_02_] Allora lo indosserò subito. Torno presto..."
 
 # game/scripts/story_01/blog.rpy:1878 #-#-# translate crowdin ev_134_355cd574:
 msgid "[_Alice_s_03_] Вам тут всем, Майк, сразу хочется без одежды. Ты не думал, что я не настолько безнравная и могу стесняться?"
-msgstr "[_Alice_s_03_] Da voi, Mike, sembra che tutti vogliano spogliarsi subito.\n"
-"Non hai mai pensato che non sono così sfacciata e che a volte posso anche essere timida?"
+msgstr "[_Alice_s_03_] Da voi, Mike, sembra che tutti vogliano spogliarsi subito. Non hai mai pensato che non sono così sfacciata e che a volte posso anche essere timida?"
 
 # game/scripts/story_01/blog.rpy:1879 #-#-# translate crowdin ev_134_2d640341:
 msgid "[_Max_s_03_] Я тебя всего лишь проверяю. С радостью увидел бы тебя в чём-нибудь новеньком из одежды..."
@@ -2052,8 +2046,7 @@ msgstr "[_Max_s_03_] Ti sto solo mettendo alla prova. Mi farebbe davvero piacere
 
 # game/scripts/story_01/blog.rpy:1880 #-#-# translate crowdin ev_134_fc1cc1dc:
 msgid "[_Alice_s_02_] А вот это меня уже радует. Сейчас надену и вернусь..."
-msgstr "[_Alice_s_02_] Ah, questo mi fa davvero piacere.\n"
-"Lo indosso subito e torno da te..."
+msgstr "[_Alice_s_02_] Ah, questo mi fa davvero piacere. Lo indosso subito e torno da te..."
 
 # game/scripts/story_01/blog.rpy:1882 #-#-# translate crowdin ev_134_23fb1509:
 msgid "[_Max_s_12_] Подожди! Ты что, будешь переодеваться снова за кадром, как и на общей трансляции?"
@@ -2069,8 +2062,7 @@ msgstr "[_Max_s_13_] Allora risulta che questa sessione privata non è poi così
 
 # game/scripts/story_01/blog.rpy:1885 #-#-# translate crowdin ev_134_6d68a8ed:
 msgid "[_Alice_s_15_] Я не хочу вот так сразу светить своими прелестями. Возможно, потом..."
-msgstr "[_Alice_s_15_] Non voglio mostrare subito tutte le mie grazie.\n"
-"Forse, più avanti..."
+msgstr "[_Alice_s_15_] Non voglio mostrare subito tutte le mie grazie. Forse, più avanti..."
 
 # game/scripts/story_01/blog.rpy:1886 #-#-# translate crowdin ev_134_3f3b09ae:
 msgid "[_Max_s_04_] Так не свети. Можно же красиво переодеться, скрывая самое интересное?"
@@ -2118,8 +2110,7 @@ msgstr "[_tMax_s_13_] Chissà, magari durante questo privato… O nei prossimi�
 
 # game/scripts/story_01/blog.rpy:1920 #-#-# translate crowdin ev_134_46b8920c:
 msgid "[_Alice_s_02_] Эй, Майк! Я же сказала, что недолго. Что скажешь, тебе нравится это нижнее бельё?"
-msgstr "[_Alice_s_02_] Ehi, Mike! Ti avevo detto che facevo in fretta!\n"
-"Allora, che ne dici… Ti piace questa lingerie?"
+msgstr "[_Alice_s_02_] Ehi, Mike! Ti avevo detto che facevo in fretta! Allora, che ne dici… Ti piace questa lingerie?"
 
 # game/scripts/story_01/blog.rpy:1921 #-#-# translate crowdin ev_134_30c1321a:
 msgid "[_Max_s_01_] Хм... Объективную оценку здесь можно дать, только увидев, как оно смотрится на тебе сзади..."
@@ -2127,8 +2118,7 @@ msgstr "[_Max_s_01_] Mmm... Per dare un giudizio obiettivo, dovrei vedere come t
 
 # game/scripts/story_01/blog.rpy:1923 #-#-# translate crowdin ev_134_71654b1a:
 msgid "[_Alice_s_12_] Сзади? Ну... Даже не знаю. Сзади эти трусики полупрозрачные... А я и так уже тебя немного порадовала, пока была у зеркала... [nointeract]"
-msgstr "[_Alice_s_12_] Da dietro, dici? Mmm… Non saprei…\n"
-"Dietro questi slip sono quasi trasparenti… E poi ti ho già dato un piccolo regalo prima, mentre ero davanti allo specchio… [nointeract]"
+msgstr "[_Alice_s_12_] Da dietro, dici? Mmm… Non saprei… Dietro questi slip sono quasi trasparenti… E poi ti ho già dato un piccolo regalo prima, mentre ero davanti allo specchio… [nointeract]"
 
 # game/scripts/story_01/blog.rpy:1932 #-#-# translate crowdin ev_134_047b5706:
 msgid "[_Alice_s_05_] Ладно, Майк, сегодня я побалую тебя ещё немного..."
@@ -2356,7 +2346,7 @@ msgstr "[_Alice_s_01_] Non ti dispiacere. Raccontami piuttosto cosa stai facendo
 
 # game/scripts/story_01/blog.rpy:2080 #-#-# translate crowdin ev_135_03a2258c:
 msgid "[_Max_s_11_] Лежу на кровати и смотрю по ноутбуку твоё приватное шоу."
-msgstr "[_Max_s_11_] Sono sdraiata sul letto e guardo dal portatile il tuo show privato."
+msgstr "[_Max_s_11_] Sono sdraiato sul letto e guardo dal portatile il tuo show privato."
 
 # game/scripts/story_01/blog.rpy:2081 #-#-# translate crowdin ev_135_02bbaaf8:
 msgid "[_Alice_s_02_] Это понятно. Я имела ввиду, кем ты работаешь?"
@@ -2696,8 +2686,7 @@ msgstr "[_Max_s_16_] Eh... Che peccato..."
 
 # game/scripts/story_01/blog.rpy:2363 #-#-# translate crowdin ev_137_fantasy_loose_c28f7105:
 msgid "[_Alice_s_02_] Как-нибудь в другой раз, когда я почувствую, что готова... Наверно, будем закругляться?"
-msgstr "[_Alice_s_02_] Forse un’altra volta, quando sentirò di essere pronta…\n"
-"Forse è meglio se ci salutiamo per oggi?"
+msgstr "[_Alice_s_02_] Forse un’altra volta, quando sentirò di essere pronta… Forse è meglio se ci salutiamo per oggi?"
 
 # game/scripts/story_01/blog.rpy:2364 #-#-# translate crowdin ev_137_fantasy_loose_35210b5a:
 msgid "[_Max_s_11_] Пожалуй. Значит, до следующего раза?"
@@ -2757,8 +2746,7 @@ msgstr "[_Max_s_16_] Eh... Che peccato..."
 
 # game/scripts/story_01/blog.rpy:2395 #-#-# translate crowdin ev_137_fantasy_topless_c28f7105:
 msgid "[_Alice_s_02_] Как-нибудь в другой раз, когда я почувствую, что готова... Наверно, будем закругляться?"
-msgstr "[_Alice_s_02_] Forse un’altra volta, quando sentirò di essere pronta…\n"
-"Forse è meglio se ci salutiamo per oggi?"
+msgstr "[_Alice_s_02_] Forse un’altra volta, quando sentirò di essere pronta… Forse è meglio se ci salutiamo per oggi?"
 
 # game/scripts/story_01/blog.rpy:2396 #-#-# translate crowdin ev_137_fantasy_topless_35210b5a:
 msgid "[_Max_s_11_] Пожалуй. Значит, до следующего раза?"
@@ -2818,8 +2806,7 @@ msgstr "[_Max_s_16_] Eh... Che peccato..."
 
 # game/scripts/story_01/blog.rpy:2427 #-#-# translate crowdin ev_137_fantasy_bottomless_c28f7105:
 msgid "[_Alice_s_02_] Как-нибудь в другой раз, когда я почувствую, что готова... Наверно, будем закругляться?"
-msgstr "[_Alice_s_02_] Forse un’altra volta, quando sentirò di essere pronta…\n"
-"Forse è meglio se ci salutiamo per oggi?"
+msgstr "[_Alice_s_02_] Forse un’altra volta, quando sentirò di essere pronta… Forse è meglio se ci salutiamo per oggi?"
 
 # game/scripts/story_01/blog.rpy:2428 #-#-# translate crowdin ev_137_fantasy_bottomless_35210b5a:
 msgid "[_Max_s_11_] Пожалуй. Значит, до следующего раза?"
