@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-08-07 19:07\n"
+"PO-Revision-Date: 2025-08-09 13:17\n"
 
 # TODO: Translation updated at 2025-07-27 23:15 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/clothing.rpy:789
 msgid "Галерея переодеваний обновлена!"
-msgstr "La galleria dei travestiti è stata aggiornata!"
+msgstr "La galleria dei cambi d’abito è stata aggiornata!"
 
 # game/scripts/engine/clothing.rpy:926
 msgid "Лонгслив + джинсы"
@@ -66,51 +66,51 @@ msgstr "Canottiera"
 
 # game/scripts/engine/clothing.rpy:971
 msgid "Съехавшая майка"
-msgstr "La canottiera è tolta"
+msgstr "Canottiera scivolata"
 
 # game/scripts/engine/clothing.rpy:971
 msgid "Приподнятое выходное платье + трусики"
-msgstr "Abito da weekend rialzato + mutande"
+msgstr "Abito da sera sollevato + mutandine"
 
 # game/scripts/engine/clothing.rpy:971
 msgid "Приподнятое и съехавшее выходное платье + трусики"
-msgstr "Vestito da weekend sollevato e tirato giù + mutandine"
+msgstr "Abito da sera sollevato e scivolato + mutandine"
 
 # game/scripts/engine/clothing.rpy:971
 msgid "Приподнятое выходное платье"
-msgstr "Vestito per il fine settimana di alto livello"
+msgstr "Abito da sera sollevato"
 
 # game/scripts/engine/clothing.rpy:971
 msgid "Приподнятое и съехавшее выходное платье"
-msgstr "Vestito da weekend sollevato e tirato giù"
+msgstr "Abito da sera sollevato e scivolato"
 
 # game/scripts/engine/clothing.rpy:971
 msgid "Нижнее бельё, съехавшее снизу (синее)"
-msgstr "La biancheria intima è scivolata in basso (blu)"
+msgstr "Biancheria intima scivolata in basso (blu)"
 
 # game/scripts/engine/clothing.rpy:971
 msgid "Нижнее бельё, съехавшее сверху (синее)"
-msgstr "La biancheria intima, sfilata dalla parte superiore (blu)"
+msgstr "Biancheria intima scivolata dall’alto (blu)"
 
 # game/scripts/engine/clothing.rpy:971
 msgid "Нижнее бельё, съехавшее сверху и снизу (синее)"
-msgstr "La biancheria intima è scivolata in basso (blu)"
+msgstr "Biancheria intima scivolata sopra e sotto (blu)"
 
 # game/scripts/engine/clothing.rpy:971
 msgid "Трусики от нижнего белья (синие)"
-msgstr "Mutandine intimo (blu)"
+msgstr "Mutandine della biancheria intima (blu)"
 
 # game/scripts/engine/clothing.rpy:971
 msgid "Съехавшие трусики от нижнего белья (синие)"
-msgstr "Mutandine che si sfilano (blu)"
+msgstr "Mutandine della biancheria intima scivolate (blu)"
 
 # game/scripts/engine/clothing.rpy:971
 msgid "Бикини, съехавшее сверху (чёрное)"
-msgstr "Bikini con top-slip (nero)"
+msgstr "Bikini scivolato dall’alto (nero)"
 
 # game/scripts/engine/clothing.rpy:971
 msgid "Трусики от бикини (чёрные)"
-msgstr "Mutandine bikini (nero)"
+msgstr "Slip del bikini (nero)"
 
 # game/scripts/engine/clothing.rpy:971
 msgid "Распахнутый халат"
@@ -126,23 +126,23 @@ msgstr "Biancheria intima (nera)"
 
 # game/scripts/engine/clothing.rpy:971
 msgid "Нижнее бельё (чёрное), съехавшее снизу"
-msgstr "Biancheria intima (nera) spostata in basso"
+msgstr "Biancheria intima (nera) scivolata dal basso"
 
 # game/scripts/engine/clothing.rpy:971
 msgid "Нижнее бельё, съехавшее сверху (чёрное)"
-msgstr "Biancheria intima, reggiseno abbassato da un lato (nero)"
+msgstr "Biancheria intima scivolata dall’alto (nera)"
 
 # game/scripts/engine/clothing.rpy:971
 msgid "Нижнее бельё, съехавшее сверху и снизу (чёрное)"
-msgstr "Biancheria intima spostata dall'alto verso il basso (nero)"
+msgstr "Biancheria intima scivolata sopra e sotto (nera)"
 
 # game/scripts/engine/clothing.rpy:971
 msgid "Трусики от нижнего белья (чёрные)"
-msgstr "Mutandine intime (nere)"
+msgstr "Mutandine della biancheria intima (nere)"
 
 # game/scripts/engine/clothing.rpy:971
 msgid "Съехавшие трусики от нижнего белья (чёрные)"
-msgstr "Mutandine che si sfilano (nere)"
+msgstr "Mutandine della biancheria intima scivolate (nere)"
 
 # game/scripts/engine/clothing.rpy:971
 msgid "Бикини, съехавшее сверху (светлое)"
