@@ -1,0 +1,454 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/story_01/sunscreen.po\n"
+"X-Crowdin-File-ID: 9159\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2025-08-06 09:40\n"
+
+# TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/story_01/sunscreen.rpy:7 #-#-# translate crowdin ev_011_03c9dcee:
+msgid "[_Alice_s_01_] Как ты догадался, Шерлок? [nointeract]"
+msgstr "[_Alice_s_01_] Come hai fatto a indovinare, Sherlock? [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:33 #-#-# translate crowdin ev_011_sunbathe_abfeed53:
+msgid "[_Alice_s_04_] Что, Макс, неужели в доме надоело сидеть?"
+msgstr "[_Alice_s_04_] Che c'è, Max, sei stanco di stare in casa?"
+
+# game/scripts/story_01/sunscreen.rpy:34 #-#-# translate crowdin ev_011_sunbathe_ea14d3c0:
+msgid "[_Max_s_01_] Почему бы с такой погодой немного не поваляться на солнышке..."
+msgstr "[_Max_s_01_] Con questo tempo, perché non prendere un po' di sole..."
+
+# game/scripts/story_01/sunscreen.rpy:35 #-#-# translate crowdin ev_011_sunbathe_d2718811:
+msgid "[_Alice_s_02_] Это точно..."
+msgstr "[_Alice_s_02_] Questo è sicuro..."
+
+# game/scripts/story_01/sunscreen.rpy:37 #-#-# translate crowdin ev_011_sunbathe_14ae2e4a:
+msgid "[_tMax_s_04_] Тем более, что можно заодно и на сестрёнку в бикини поглазеть. Её прекрасное тело так красиво блестит в лучах солнца... [nointeract]"
+msgstr "[_tMax_s_04_] Non vedevo l'ora di vedere mia sorella in bikini. Il suo bellissimo corpo splende così bene alla luce del sole... [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:52 #-#-# translate crowdin ev_011_first_talk_oil_4467e358:
+msgid "[_Alice_s_12_] Может быть. Вот только у меня его нет... А у тебя?"
+msgstr "[_Alice_s_12_] Forse. Solo che io non ce l'ho... E tu?"
+
+# game/scripts/story_01/sunscreen.rpy:53 #-#-# translate crowdin ev_011_first_talk_oil_9631b163:
+msgid "[_Max_s_12_] Чёрт! И у меня нет. Ну, в другой раз, значит..."
+msgstr "[_Max_s_12_] Accidenti! Neanch’io ce l’ho. Beh, allora sarà per un’altra volta..."
+
+# game/scripts/story_01/sunscreen.rpy:56 #-#-# translate crowdin ev_011_first_talk_oil_bcf60149:
+msgid "[_tMax_s_11_] Такое масло наверняка можно найти в интернет-магазине. Я уже предвкушаю, как буду втирать это маслице в соблазнительное тело Алисы... Занятие, правда, опасное. Одно неверное движение руками и всё... рук больше нет. Но, может обойдётся..."
+msgstr "[_tMax_s_11_] Probabilmente è possibile trovare un olio di questo tipo in un negozio online. Non vedo l'ora di strofinarlo sul corpo seducente di Alice... Un'attività pericolosa, però. Una mossa sbagliata con le mani e il gioco è fatto... senza più mani. Ma forse non sarà così..."
+
+# game/scripts/story_01/sunscreen.rpy:67 #-#-# translate crowdin ev_011_spread_oil_89345a65:
+msgid "[_Alice_s_02_] Если оно у тебя есть, то давай, раз ты не занят."
+msgstr "[_Alice_s_02_] Se ce l'hai, fallo pure, purché non sia occupata."
+
+# game/scripts/story_01/sunscreen.rpy:71 #-#-# translate crowdin ev_011_spread_oil_060fad4e:
+msgid "[_Max_s_12_] Увы, его нет. Но в другой раз обязательно будет..."
+msgstr "[_Max_s_12_] Ahimè, non è qui. Ma ci sarà sicuramente un'altra volta..."
+
+# game/scripts/story_01/sunscreen.rpy:76 #-#-# translate crowdin ev_011_spread_oil_e7ea9016:
+msgid "[_Max_s_12_] Увы, оно почти закончилось. Но в другой раз обязательно будет..."
+msgstr "[_Max_s_12_] Ahimè, è quasi finito. Ma ci sarà sicuramente un'altra volta..."
+
+# game/scripts/story_01/sunscreen.rpy:81 #-#-# translate crowdin ev_011_spread_oil_8ca41307:
+msgid "[_Max_s_01_] Тогда ложись на живот..."
+msgstr "[_Max_s_01_] Poi sdraiati a pancia in giù..."
+
+# game/scripts/story_01/sunscreen.rpy:89 #-#-# translate crowdin ev_011_apply_oil_5be99618:
+msgid "[_Alice_s_07_] Только спинку мне разотри этим маслицем. Остальное я сама... [nointeract]"
+msgstr "[_Alice_s_07_] Massaggiami la schiena con questo olio. Io farò il resto... [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:98 #-#-# translate crowdin ev_011_apply_oil_3269ae9a:
+msgid "[_Alice_s_04_] Нет, но... Вообще-то, можно и снять, чтобы следы от лямок не оставались. Всё равно тебе ничего такого не будет видно..."
+msgstr "[_Alice_s_04_] No, ma... A dire il vero, potresti toglierlo per evitare che le cinghie lascino segni. Tanto non si vedranno..."
+
+# game/scripts/story_01/sunscreen.rpy:102 #-#-# translate crowdin ev_011_apply_oil_16211397:
+msgid "[_tMax_s_03_] Так держать, сестрёнка! [nointeract]"
+msgstr "[_tMax_s_03_] Brava, sorella! [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:119 #-#-# translate crowdin ev_011_apply_oil_b7312520:
+msgid "[_Alice_s_02_] Нет, Макс, мне и так хорошо. Давай уже, начинай... [nointeract]"
+msgstr "[_Alice_s_02_] No, Max, sto bene così. Forza, inizia... [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:152 #-#-# translate crowdin ev_011_apply_oil_3cc14dee:
+msgid "[_tMax_s_02_] Так, сейчас я хорошенько разотру её спинку, а так же плечи и совсем немного шею... Вот и готово!"
+msgstr "[_tMax_s_02_] Ok, ora le massaggio bene la schiena e le spalle e un po' il collo... Ecco fatto!"
+
+# game/scripts/story_01/sunscreen.rpy:155 #-#-# translate crowdin ev_011_apply_oil_2d3efc89:
+msgid "[_Alice_s_01_] Спасибо, Макс! Дальше я уже сама..."
+msgstr "[_Alice_s_01_] Grazie, Max! Ora ci penso io..."
+
+# game/scripts/story_01/sunscreen.rpy:156 #-#-# translate crowdin ev_011_apply_oil_ddaa90d9:
+msgid "[_Max_s_03_] Я могу и остальное намазать..."
+msgstr "[_Max_s_03_] Posso fare anche il resto..."
+
+# game/scripts/story_01/sunscreen.rpy:159 #-#-# translate crowdin ev_011_apply_oil_6c17d936:
+msgid "[_Alice_s_04_] Кто бы сомневался. Тебе лишь бы облапать, везде и побольше."
+msgstr "[_Alice_s_04_] Non lo so. Vuoi solo mettere le mani dappertutto."
+
+# game/scripts/story_01/sunscreen.rpy:160 #-#-# translate crowdin ev_011_apply_oil_f8eac4ee:
+msgid "[_tMax_s_11_] Теперь у меня есть масло для загара, а Алиса позволяет натереть ей спинку. Но мне этого мало..."
+msgstr "[_tMax_s_11_] Ora ho l'olio abbronzante e Alice mi permette di massaggiarle la schiena. Ma non mi basta..."
+
+# game/scripts/story_01/sunscreen.rpy:162 #-#-# translate crowdin ev_011_apply_oil_9b2cca16:
+msgid "[_tMax_s_04_] Может, в следующий раз, я смогу её как-то убедить и натирать её соблазнительные ножки буду уже я, а не она? [nointeract]"
+msgstr "[_tMax_s_04_] Forse la prossima volta riuscirò a convincerla a massaggiare le sue lussuriose gambe con me invece che con lei? [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:169 #-#-# translate crowdin ev_011_apply_oil_2ef956dd:
+msgid "[_Alice_s_01_] Спасибо, Макс! Дальше я уже сама... [nointeract]"
+msgstr "[_Alice_s_01_] Grazie, Max! Ora ci penso io... [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:175 #-#-# translate crowdin ev_011_apply_oil_c3d12e7f:
+msgid "[_Alice_s_07_] А давай! Я так хорошо устроилась на этом лежаке, что даже шевелиться не хочется. Натри мне ножки, но не лезь слишком высоко... [nointeract]"
+msgstr "[_Alice_s_07_] Andiamo! Sto così bene su questo letto che non voglio nemmeno muovermi. Massaggiami i piedi, ma non salire troppo... [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:183 #-#-# translate crowdin ev_011_apply_oil_e74f6b5d:
+msgid "[_Alice_s_04_] Можешь так не переживать, Макс. Я в состоянии защитить от солнца всё, что мне нужно."
+msgstr "[_Alice_s_04_] Non devi preoccuparti più di tanto, Max. Posso proteggere dal sole tutto ciò di cui ho bisogno."
+
+# game/scripts/story_01/sunscreen.rpy:185 #-#-# translate crowdin ev_011_apply_oil_b0221cfb:
+msgid "[_tMax_s_04_] Хорошо, что Алиса хотя бы глазеть не запрещает. Её прекрасное тело так красиво блестит в лучах солнца... [nointeract]"
+msgstr "[_tMax_s_04_] È un bene che almeno Alice non proibisca di fissarla. Il suo bellissimo corpo luccica così bene alla luce del sole... [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:192 #-#-# translate crowdin ev_011_apply_oil_e74f6b5d_1:
+msgid "[_Alice_s_04_] Можешь так не переживать, Макс. Я в состоянии защитить от солнца всё, что мне нужно."
+msgstr "[_Alice_s_04_] Non devi preoccuparti più di tanto, Max. Posso proteggere dal sole tutto ciò di cui ho bisogno."
+
+# game/scripts/story_01/sunscreen.rpy:194 #-#-# translate crowdin ev_011_apply_oil_3b4c27a0:
+msgid "[_Max_s_04_] Хорошо, что Алиса хотя бы глазеть не запрещает. Её прекрасное тело так красиво блестит в лучах солнца... [nointeract]"
+msgstr "[_Max_s_04_] È un bene che almeno Alice non vieti di fissarla. Il suo bellissimo corpo luccicava così bene alla luce del sole... [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:202 #-#-# translate crowdin ev_011_apply_oil_toples_3cc14dee:
+msgid "[_tMax_s_02_] Так, сейчас я хорошенько разотру её спинку, а так же плечи и совсем немного шею... Вот и готово!"
+msgstr "[_tMax_s_02_] Ok, ora le massaggio bene la schiena e le spalle e un po' il collo... Ecco fatto!"
+
+# game/scripts/story_01/sunscreen.rpy:204 #-#-# translate crowdin ev_011_apply_oil_toples_0a190d88:
+msgid "[_Alice_s_07_] Спасибо, Макс! Я так хорошо устроилась на этом лежаке, что даже шевелиться не хочется. Натри мне ещё ножки, но не лезь слишком высоко... [nointeract]"
+msgstr "[_Alice_s_07_] Grazie, Max! Sono così comoda su questo letto che non voglio nemmeno muovermi. Massaggiami ancora un po i piedi, ma non salire troppo in alto... [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:209 #-#-# translate crowdin ev_011_apply_oil_toples_e8be3de8:
+msgid "[_tMax_s_01_] У моей сестрёнки приятные и стройные ножки. Я бы с таким удовольствием растёр их маслицем сверху донизу, но увы, нельзя..."
+msgstr "[_tMax_s_01_] Mia sorella ha gambe belle e formose. Mi piacerebbe imburrarle da cima a fondo, ma ahimè non posso..."
+
+# game/scripts/story_01/sunscreen.rpy:213 #-#-# translate crowdin ev_011_apply_oil_toples_346d575e:
+msgid "[_Alice_s_03_] Спасибо, Макс! Так намного лучше..."
+msgstr "[_Alice_s_03_] Grazie, Max! Così va molto meglio..."
+
+# game/scripts/story_01/sunscreen.rpy:215 #-#-# translate crowdin ev_011_apply_oil_toples_0040f4fb:
+msgid "[_Max_s_03_] Да не за что, обращайся! [nointeract]"
+msgstr "[_Max_s_03_] Non c'è di che! [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:224 #-#-# translate crowdin ev_011_smear_feet_e8be3de8:
+msgid "[_tMax_s_01_] У моей сестрёнки приятные и стройные ножки. Я бы с таким удовольствием растёр их маслицем сверху донизу, но увы, нельзя..."
+msgstr "[_tMax_s_01_] Mia sorella ha gambe belle e formose. Mi piacerebbe imburrarle da cima a fondo, ma ahimè non posso..."
+
+# game/scripts/story_01/sunscreen.rpy:234 #-#-# translate crowdin ev_011_smear_feet_c34678e8:
+msgid "[_Alice_s_04_] Спасибо, Макс! Этого достаточно. У тебя очень неплохо получается, а если поучишься массажу, то тебе это только на пользу пойдёт!"
+msgstr "[_Alice_s_04_] Grazie, Max! Basta così. Sei molto bravo e se impari a massaggiare ti farà solo bene!"
+
+# game/scripts/story_01/sunscreen.rpy:235 #-#-# translate crowdin ev_011_smear_feet_6b7c2c74:
+msgid "[_Max_s_03_] Да не за что, обращайся!"
+msgstr "[_Max_s_03_] Non c'è di che!"
+
+# game/scripts/story_01/sunscreen.rpy:238 #-#-# translate crowdin ev_011_smear_feet_ac7002e5:
+msgid "[_tMax_s_13_] В чём-то Алиса права, поучиться этому, пожалуй, стоит. Может быть, там не всё так уж сложно. Наверняка в интернете можно найти базовые курсы по массажу, только вот действительно обучающие курсы будут стоить денег."
+msgstr "[_tMax_s_13_] Alice ha ragione per certi versi, potrebbe valere la pena d'imparare. Forse non è così complicato. Probabilmente si possono trovare corsi di massaggio di base su Internet, ma i veri corsi di formazione costano."
+
+# game/scripts/story_01/sunscreen.rpy:240 #-#-# translate crowdin ev_011_smear_feet_87bb8a35:
+msgid "[_tMax_s_11_] Кстати, можно будет попробовать натереть маслом и Лизу, и маму. Раз даже Алиса говорит, что у меня очень неплохо получается, то мама с Лизой тоже должны остаться довольны. [nointeract]"
+msgstr "[_tMax_s_11_] A proposito, potrei provare a spalmare l'olio sia su Lisa che su mamma. Dato che Alice dice che sono piuttosto bravo, anche la mamma e Lisa dovrebbero essere contente. [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:250 #-#-# translate crowdin ev_011_smear_feet_346d575e:
+msgid "[_Alice_s_03_] Спасибо, Макс! Так намного лучше..."
+msgstr "[_Alice_s_03_] Grazie, Max! Così va molto meglio..."
+
+# game/scripts/story_01/sunscreen.rpy:252 #-#-# translate crowdin ev_011_smear_feet_0040f4fb:
+msgid "[_Max_s_03_] Да не за что, обращайся! [nointeract]"
+msgstr "[_Max_s_03_] Non c'è di che! [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:266 #-#-# translate crowdin ev_012_6cfa1489:
+msgid "[_Lisa_s_01_] Просто чудесно! Самый настоящий райский уголок. [nointeract]"
+msgstr "[_Lisa_s_01_] È semplicemente meraviglioso! È un vero paradiso. [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:294 #-#-# translate crowdin ev_012_sunbathe_5c6fb4dd:
+msgid "[_Lisa_s_02_] Тоже решил понежиться на солнышке или по мне соскучился?"
+msgstr "[_Lisa_s_02_] Stai prendendo il sole anche tu o ti manco?"
+
+# game/scripts/story_01/sunscreen.rpy:295 #-#-# translate crowdin ev_012_sunbathe_5ef35ee2:
+msgid "[_Max_s_01_] В моей жизни два солнышка! Одно в небе, на другое я сейчас смотрю..."
+msgstr "[_Max_s_01_] Ci sono due soli nella mia vita! Uno nel cielo, l'altro lo sto guardando ora..."
+
+# game/scripts/story_01/sunscreen.rpy:296 #-#-# translate crowdin ev_012_sunbathe_41a90dba:
+msgid "[_Lisa_s_05_] Это так приятно..."
+msgstr "[_Lisa_s_05_] È così bello..."
+
+# game/scripts/story_01/sunscreen.rpy:298 #-#-# translate crowdin ev_012_sunbathe_4da6b51f:
+msgid "[_tMax_s_04_] У меня такая прелестная младшая сестрёнка. Любоваться её красотой, да ещё и когда она в купальнике, одно удовольствие... [nointeract]"
+msgstr "[_tMax_s_04_] Ho una sorellina così adorabile. È un piacere ammirare la sua bellezza, soprattutto quando è in costume da bagno... [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:300 #-#-# translate crowdin ev_012_sunbathe_8238cd0d:
+msgid "[_tMax_s_04_] У меня такая прелестная младшая сестрёнка. Любоваться её красотой, да ещё и когда она в таком откровенном бикини, одно удовольствие... [nointeract]"
+msgstr "[_tMax_s_04_] Ho una sorellina così adorabile. E' un piacere ammirare la sua bellezza, e quando indossa un bikini così succinto... [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:321 #-#-# translate crowdin ev_012_first_apply_oil_efb76e12:
+msgid "[_Lisa_s_11_] Не-а. На меня плохо загар ложится, почему-то."
+msgstr "[_Lisa_s_11_] No. Per qualche motivo non mi abbronzo bene."
+
+# game/scripts/story_01/sunscreen.rpy:322 #-#-# translate crowdin ev_012_first_apply_oil_66cb49fe:
+msgid "[_Max_s_11_] Так это потому, что нужно маслом для загара натираться."
+msgstr "[_Max_s_11_] È perché bisogna spalmare l'olio abbronzante."
+
+# game/scripts/story_01/sunscreen.rpy:323 #-#-# translate crowdin ev_012_first_apply_oil_c731fc30:
+msgid "[_Lisa_s_00_] А оно у тебя есть?"
+msgstr "[_Lisa_s_00_] Ne hai uno?"
+
+# game/scripts/story_01/sunscreen.rpy:327 #-#-# translate crowdin ev_012_first_apply_oil_060fad4e:
+msgid "[_Max_s_12_] Увы, его нет. Но в другой раз обязательно будет..."
+msgstr "[_Max_s_12_] Ahimè, non è qui. Ma ci sarà sicuramente un'altra volta..."
+
+# game/scripts/story_01/sunscreen.rpy:332 #-#-# translate crowdin ev_012_first_apply_oil_e7ea9016:
+msgid "[_Max_s_12_] Увы, оно почти закончилось. Но в другой раз обязательно будет..."
+msgstr "[_Max_s_12_] Ahimè, è quasi finito. Ma ci sarà sicuramente un'altra volta..."
+
+# game/scripts/story_01/sunscreen.rpy:336 #-#-# translate crowdin ev_012_first_apply_oil_edcdbb2d:
+msgid "[_Max_s_01_] Ага. Усаживайся, как тебе удобнее..."
+msgstr "[_Max_s_01_] Si'. Siediti, se ti senti a tuo agio..."
+
+# game/scripts/story_01/sunscreen.rpy:341 #-#-# translate crowdin ev_012_first_apply_oil_6ef4ece6:
+msgid "[_Lisa_s_01_] Давай, Макс, начинай... Моя спинка полностью в твоём распоряжении! [nointeract]"
+msgstr "[_Lisa_s_01_] Forza, Max, inizia... La mia schiena è tutta tua! [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:351 #-#-# translate crowdin ev_012_first_apply_oil_864f51e1:
+msgid "[_tMax_s_02_] Так, сейчас я разотру её белоснежную спинку, а так же плечи и совсем немного шею... Вот и готово!"
+msgstr "[_tMax_s_02_] Ok, ora massaggerò la tua schiena candida, così come le spalle e un bel po' il collo... Ecco fatto!"
+
+# game/scripts/story_01/sunscreen.rpy:352 #-#-# translate crowdin ev_012_first_apply_oil_635a6e7b:
+msgid "[_Lisa_s_04_] Ой, как хорошо! Я тебе очень благодарна, Макс!"
+msgstr "[_Lisa_s_04_] Che bella sensazione! Ti ringrazio tanto, Max!"
+
+# game/scripts/story_01/sunscreen.rpy:353 #-#-# translate crowdin ev_012_first_apply_oil_078be9dd:
+msgid "[_Max_s_04_] Рано благодаришь, я ещё не закончил. Теперь ложись..."
+msgstr "[_Max_s_04_] Mi ringrazi troppo presto, non ho ancora finito. Ora sdraiati..."
+
+# game/scripts/story_01/sunscreen.rpy:357 #-#-# translate crowdin ev_012_first_apply_oil_54f13807:
+msgid "[_tMax_s_01_] Какие у Лизы красивые ножки. Растирать по ним маслице одно удовольствие..."
+msgstr "[_tMax_s_01_] Che belle gambe ha Lisa. È un piacere spalmarle di crema..."
+
+# game/scripts/story_01/sunscreen.rpy:362 #-#-# translate crowdin ev_012_first_apply_oil_a2a76751:
+msgid "[_Lisa_s_05_] У тебя хорошо получается. Немного щекотно, но всё равно приятно... Спасибо тебе!"
+msgstr "[_Lisa_s_05_] Sei bravo. Fa un po' di solletico, ma è comunque una bella sensazione... Grazie!"
+
+# game/scripts/story_01/sunscreen.rpy:364 #-#-# translate crowdin ev_012_first_apply_oil_83c4fa77:
+msgid "[_Max_s_03_] Всегда рад, обращайся! [nointeract]"
+msgstr "[_Max_s_03_] È sempre un piacere, fartelo! [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:373 #-#-# translate crowdin ev_012_apply_oil_867c26b1:
+msgid "[_Lisa_s_11_] Давай, если ты не занят. С ним как-то получше загорается."
+msgstr "[_Lisa_s_11_] Vieni, se non hai da fare. In qualche modo mi sembra migliore."
+
+# game/scripts/story_01/sunscreen.rpy:377 #-#-# translate crowdin ev_012_apply_oil_060fad4e:
+msgid "[_Max_s_12_] Увы, его нет. Но в другой раз обязательно будет..."
+msgstr "[_Max_s_12_] Ahimè, non è qui. Ma ci sarà sicuramente un'altra volta..."
+
+# game/scripts/story_01/sunscreen.rpy:382 #-#-# translate crowdin ev_012_apply_oil_e7ea9016:
+msgid "[_Max_s_12_] Увы, оно почти закончилось. Но в другой раз обязательно будет..."
+msgstr "[_Max_s_12_] Ahimè, è quasi finito. Ma ci sarà sicuramente un'altra volta..."
+
+# game/scripts/story_01/sunscreen.rpy:386 #-#-# translate crowdin ev_012_apply_oil_473c6aa3:
+msgid "[_Max_s_01_] Это точно. Усаживайся, как тебе удобнее..."
+msgstr "[_Max_s_01_] Questo è certo. Siediti come ti senti a tuo agio..."
+
+# game/scripts/story_01/sunscreen.rpy:391 #-#-# translate crowdin ev_012_apply_oil_6ef4ece6:
+msgid "[_Lisa_s_01_] Давай, Макс, начинай... Моя спинка полностью в твоём распоряжении! [nointeract]"
+msgstr "[_Lisa_s_01_] Forza, Max, inizia... La mia schiena è tutta tua! [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:402 #-#-# translate crowdin ev_012_apply_oil_864f51e1:
+msgid "[_tMax_s_02_] Так, сейчас я разотру её белоснежную спинку, а так же плечи и совсем немного шею... Вот и готово!"
+msgstr "[_tMax_s_02_] Ok, ora massaggerò la tua schiena candida, così come le spalle e un bel po' il collo... Ecco fatto!"
+
+# game/scripts/story_01/sunscreen.rpy:404 #-#-# translate crowdin ev_012_apply_oil_354bc733:
+msgid "[_Lisa_s_04_] Ах, как классно! Под этими руками можно с лёгкостью растаять... [nointeract]"
+msgstr "[_Lisa_s_04_] Ah, che figata! Potrei facilmente sciogliermi sotto queste mani... [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:410 #-#-# translate crowdin ev_012_apply_oil_54f13807:
+msgid "[_tMax_s_01_] Какие у Лизы красивые ножки. Растирать по ним маслице одно удовольствие..."
+msgstr "[_tMax_s_01_] Che belle gambe ha Lisa. È un piacere spalmarle di crema..."
+
+# game/scripts/story_01/sunscreen.rpy:414 #-#-# translate crowdin ev_012_apply_oil_a2a76751:
+msgid "[_Lisa_s_05_] У тебя хорошо получается. Немного щекотно, но всё равно приятно... Спасибо тебе!"
+msgstr "[_Lisa_s_05_] Sei bravo. Fa un po' di solletico, ma è comunque una bella sensazione... Grazie!"
+
+# game/scripts/story_01/sunscreen.rpy:416 #-#-# translate crowdin ev_012_apply_oil_83c4fa77:
+msgid "[_Max_s_03_] Всегда рад, обращайся! [nointeract]"
+msgstr "[_Max_s_03_] È sempre un piacere, fartelo! [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:430 #-#-# translate crowdin ev_053_039743f8:
+msgid "[_Ann_s_01_] Просто сказочно! Так хорошо, что даже двигаться не хочется. [nointeract]"
+msgstr "[_Ann_s_01_] È favoloso! Ci si sente così bene che non ci si vuole nemmeno muovere. [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:454 #-#-# translate crowdin ev_053_sunbathe_6d32c7f9:
+msgid "[_Ann_s_02_] Правильно, что тоже решил позагорать. В доме ещё вечером насидишься."
+msgstr "[_Ann_s_02_] Anche tu hai ragione a prendere il sole. Dovrai restare in casa un'altra notte."
+
+# game/scripts/story_01/sunscreen.rpy:455 #-#-# translate crowdin ev_053_sunbathe_8cfbb5c7:
+msgid "[_Max_s_01_] Верно. А загорать вместе с тобой ещё приятнее..."
+msgstr "[_Max_s_01_] Proprio così. E prendere il sole con te è ancora più bello..."
+
+# game/scripts/story_01/sunscreen.rpy:456 #-#-# translate crowdin ev_053_sunbathe_adc74b5d:
+msgid "[_Ann_s_03_] Рада слышать, сынок..."
+msgstr "[_Ann_s_03_] Mi fa piacere sentirlo, figliolo..."
+
+# game/scripts/story_01/sunscreen.rpy:458 #-#-# translate crowdin ev_053_sunbathe_e54cb173:
+msgid "[_tMax_s_04_] Когда мама надевает бикини, начинается самый настоящий праздник! Такие аппетитные формы, слегка блестящие на солнце... Ммм... [nointeract]"
+msgstr "[_tMax_s_04_] Quando la mamma indossa un bikini, è una vera delizia! Forme così belle, che scintillano leggermente al sole... Mmm... [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:472 #-#-# translate crowdin ev_053_first_apply_oil_d8e4e97c:
+msgid "[_Ann_s_11_] Нет. Я даже и не подумала об этом. Раньше ведь таких условий у нас не было."
+msgstr "[_Ann_s_11_] No, non ci avevo nemmeno pensato. Prima non c'erano condizioni del genere."
+
+# game/scripts/story_01/sunscreen.rpy:473 #-#-# translate crowdin ev_053_first_apply_oil_9ac91cb8:
+msgid "[_Max_s_11_] Но теперь-то все условия есть. Я вот сразу себя озадачил, приобрести масло для загара."
+msgstr "[_Max_s_11_] Ma ora ci sono tutte le condizioni. Mi sono subito messo in testa di comprare un olio abbronzante."
+
+# game/scripts/story_01/sunscreen.rpy:474 #-#-# translate crowdin ev_053_first_apply_oil_1d8473c5:
+msgid "[_Ann_s_00_] И как, приобрёл?"
+msgstr "[_Ann_s_00_] L'hai ricevuto?"
+
+# game/scripts/story_01/sunscreen.rpy:478 #-#-# translate crowdin ev_053_first_apply_oil_8a0e5098:
+msgid "[_Max_s_12_] Увы, ещё нет. Но в другой раз обязательно будет..."
+msgstr "[_Max_s_12_] Ahimè, non ancora. Ma ci sarà sicuramente un'altra volta..."
+
+# game/scripts/story_01/sunscreen.rpy:483 #-#-# translate crowdin ev_053_first_apply_oil_e7ea9016:
+msgid "[_Max_s_12_] Увы, оно почти закончилось. Но в другой раз обязательно будет..."
+msgstr "[_Max_s_12_] Ahimè, è quasi finito. Ma ci sarà sicuramente un'altra volta..."
+
+# game/scripts/story_01/sunscreen.rpy:487 #-#-# translate crowdin ev_053_first_apply_oil_59b6031c:
+msgid "[_Max_s_01_] Конечно! Давай я тебя им натру..."
+msgstr "[_Max_s_01_] Ma certo! Lascia che te lo spalmi addosso..."
+
+# game/scripts/story_01/sunscreen.rpy:492 #-#-# translate crowdin ev_053_first_apply_oil_d6a52d8c:
+msgid "[_Ann_s_01_] Хорошо, приступай... Ты сможешь натереть мне спину лучше, чем я сделаю это сама. [nointeract]"
+msgstr "[_Ann_s_01_] Va bene, vai avanti... Puoi massaggiarmi la schiena meglio di quanto possa fare io stessa. [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:503 #-#-# translate crowdin ev_053_first_apply_oil_29a7fdb7:
+msgid "[_tMax_s_02_] Какая же шикарная попка у моей мамы! Можно спокойно глазеть и вместе с этим растирать масло по её нежной спине, но нужно и про плечи с шеей не забыть... Вот и готово!"
+msgstr "[_tMax_s_02_] Che bel sedere ha mia madre! Posso fissare e strofinare l'olio su tutta la sua schiena delicata, ma devo pensare alle sue spalle e al suo collo... Ecco!"
+
+# game/scripts/story_01/sunscreen.rpy:504 #-#-# translate crowdin ev_053_first_apply_oil_7a18d493:
+msgid "[_Ann_s_04_] Ох, сынок, большое тебе спасибо! Может, ты ещё и ножки мне натрёшь? А то я что-то совсем не хочу двигаться."
+msgstr "[_Ann_s_04_] Oh, figliolo, grazie mille! Perché non mi massaggi anche i piedi? Non ho voglia di muovermi."
+
+# game/scripts/story_01/sunscreen.rpy:505 #-#-# translate crowdin ev_053_first_apply_oil_782af8b5:
+msgid "[_Max_s_04_] Без проблем. Я с радостью..."
+msgstr "[_Max_s_04_] Non c'è problema. Sarei felice di..."
+
+# game/scripts/story_01/sunscreen.rpy:509 #-#-# translate crowdin ev_053_first_apply_oil_16efb762:
+msgid "[_tMax_s_01_] Об этих стройных ножках обязательно нужно позаботиться. Они у мамы даже и без масла очень гладкие..."
+msgstr "[_tMax_s_01_] Quelle gambe formose hanno sicuramente bisogno di essere curate. Anche senza olio, i piedi della mamma sono molto lisci..."
+
+# game/scripts/story_01/sunscreen.rpy:513 #-#-# translate crowdin ev_053_first_apply_oil_346e41c6:
+msgid "[_Ann_s_06_] Молодец, Макс! Как хорошо, что ты у меня есть... Теперь можно загорать без всяких опасений!"
+msgstr "[_Ann_s_06_] Ben fatto, Max! È bello averti con noi... Ora puoi prendere il sole senza preoccupazioni!"
+
+# game/scripts/story_01/sunscreen.rpy:515 #-#-# translate crowdin ev_053_first_apply_oil_fcc24445:
+msgid "[_Max_s_03_] На здоровье, мам! [nointeract]"
+msgstr "[_Max_s_03_] Non c'è di che, mamma! [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:522 #-#-# translate crowdin ev_053_apply_oil_e22e7616:
+msgid "[_Ann_s_11_] Ой, сынок, это было бы очень кстати. Я постоянно об этом забываю."
+msgstr "[_Ann_s_11_] Oh, figliolo, sarebbe molto utile. Continuo a dimenticarlo."
+
+# game/scripts/story_01/sunscreen.rpy:526 #-#-# translate crowdin ev_053_apply_oil_060fad4e:
+msgid "[_Max_s_12_] Увы, его нет. Но в другой раз обязательно будет..."
+msgstr "[_Max_s_12_] Ahimè, non è qui. Ma ci sarà sicuramente un'altra volta..."
+
+# game/scripts/story_01/sunscreen.rpy:531 #-#-# translate crowdin ev_053_apply_oil_e7ea9016:
+msgid "[_Max_s_12_] Увы, оно почти закончилось. Но в другой раз обязательно будет..."
+msgstr "[_Max_s_12_] Ahimè, è quasi finito. Ma ci sarà sicuramente un'altra volta..."
+
+# game/scripts/story_01/sunscreen.rpy:535 #-#-# translate crowdin ev_053_apply_oil_ff527484:
+msgid "[_Max_s_01_] Зато я прекрасно помню. Устраивайся поудобнее..."
+msgstr "[_Max_s_01_] Ma mi ricordo perfettamente. Mettiti comoda..."
+
+# game/scripts/story_01/sunscreen.rpy:540 #-#-# translate crowdin ev_053_apply_oil_d6a52d8c:
+msgid "[_Ann_s_01_] Хорошо, приступай... Ты сможешь натереть мне спину лучше, чем я сделаю это сама. [nointeract]"
+msgstr "[_Ann_s_01_] Va bene, vai avanti... Puoi massaggiarmi la schiena meglio di quanto possa fare io stessa. [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:551 #-#-# translate crowdin ev_053_apply_oil_29a7fdb7:
+msgid "[_tMax_s_02_] Какая же шикарная попка у моей мамы! Можно спокойно глазеть и вместе с этим растирать масло по её нежной спине, но нужно и про плечи с шеей не забыть... Вот и готово!"
+msgstr "[_tMax_s_02_] Che bel sedere ha mia madre! Posso fissare e strofinare l'olio su tutta la sua schiena delicata, ma devo pensare alle sue spalle e al suo collo... Ecco!"
+
+# game/scripts/story_01/sunscreen.rpy:553 #-#-# translate crowdin ev_053_apply_oil_860c2529:
+msgid "[_Ann_s_04_] Ох, сынок, большое тебе спасибо! Можешь ещё мои ножки так же приятно натереть, если не сложно... [nointeract]"
+msgstr "[_Ann_s_04_] Oh, figliolo, grazie mille! Potresti massaggiarmi i piedi altrettanto bene, se non è troppo disturbo... [nointeract]"
+
+# game/scripts/story_01/sunscreen.rpy:559 #-#-# translate crowdin ev_053_apply_oil_16efb762:
+msgid "[_tMax_s_01_] Об этих стройных ножках обязательно нужно позаботиться. Они у мамы даже и без масла очень гладкие..."
+msgstr "[_tMax_s_01_] Quelle gambe formose hanno sicuramente bisogno di essere curate. Anche senza olio, i piedi della mamma sono molto lisci..."
+
+# game/scripts/story_01/sunscreen.rpy:563 #-#-# translate crowdin ev_053_apply_oil_346e41c6:
+msgid "[_Ann_s_06_] Молодец, Макс! Как хорошо, что ты у меня есть... Теперь можно загорать без всяких опасений!"
+msgstr "[_Ann_s_06_] Ben fatto, Max! È bello averti con noi... Ora puoi prendere il sole senza preoccupazioni!"
+
+# game/scripts/story_01/sunscreen.rpy:565 #-#-# translate crowdin ev_053_apply_oil_fcc24445:
+msgid "[_Max_s_03_] На здоровье, мам! [nointeract]"
+msgstr "[_Max_s_03_] Non c'è di che, mamma! [nointeract]"
+
+# §translate crowdin strings: #|#|# # game/scripts/story_01/sunscreen.rpy:6
+msgid "{i}тоже позагорать{/i}"
+msgstr "{i}prendere il sole{/i}"
+
+# game/scripts/story_01/sunscreen.rpy:6
+msgid "Может быть, тебя намазать маслом для загара?"
+msgstr "Devo metterti un po' di olio abbronzante?"
+
+# game/scripts/story_01/sunscreen.rpy:6
+msgid "Тебя маслицем для загара намазать?"
+msgstr "Ti metto un po' di olio abbronzante?"
+
+# game/scripts/story_01/sunscreen.rpy:88
+msgid "Верх снять не хочешь, чтобы было удобнее?"
+msgstr "Volete togliere il top per renderlo più confortevole?"
+
+# game/scripts/story_01/sunscreen.rpy:88
+msgid "{i}натереть маслицем её спину{/i}"
+msgstr "{i}spalma l'olio abbronzante sulla schiena{/i}"
+
+# game/scripts/story_01/sunscreen.rpy:88
+msgid "{i}натирать и выпустить паука{/i}"
+msgstr "{i}massaggiare e rilasciare il ragno{/i}"
+
+# game/scripts/story_01/sunscreen.rpy:168
+msgid "Я могу и остальное намазать..."
+msgstr "Posso passare anche la parte restante..."
+
+# game/scripts/story_01/sunscreen.rpy:168
+msgid "Как скажешь... {i}(любоваться){/i}"
+msgstr "Se lo dici tu... {i}(ammirare){/i}"
+
+# game/scripts/story_01/sunscreen.rpy:174
+msgid "{i}натереть маслицем её ножки{/i}"
+msgstr "{i}spalma l'olio abbronzante sui piedi{/i}"
+
+# game/scripts/story_01/sunscreen.rpy:265
+msgid "Обгореть на солнце не боишься?"
+msgstr "Non hai paura di scottarti?"
+
+# game/scripts/story_01/sunscreen.rpy:265
+msgid "Натереть тебя маслом для загара?"
+msgstr "Ti spalmo l'olio abbronzante addosso?"
+
+# game/scripts/story_01/sunscreen.rpy:429
+msgid "А ты чем-нибудь защитным намазалась?"
+msgstr "Indossi qualcosa di protettivo?"
+
+# game/scripts/story_01/sunscreen.rpy:429
+msgid "Давай я натру тебя маслом для загара?"
+msgstr "Che ne dici se ti spalmo un po' di olio abbronzante?"
+

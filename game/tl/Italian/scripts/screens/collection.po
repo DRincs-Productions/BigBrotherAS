@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/screens/collection.po\n"
+"X-Crowdin-File-ID: 12776\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2025-08-04 07:43\n"
+
+# TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/screens/collection.rpy:718 #-#-# translate crowdin compile_puzzle_start_e29c0251:
+msgid "Данное изображение разбито на множество фрагментов."
+msgstr "Questa immagine è spezzata in molti frammenti."
+
+# game/scripts/screens/collection.rpy:719 #-#-# translate crowdin compile_puzzle_start_70f9d915:
+msgid "Чтобы правильно его собрать, вам потребуется поворачивать эти фрагменты (при нажатии) и перемещать их (зажать и перетащить в другое место)."
+msgstr "Per assemblarlo correttamente, è necessario ruotare i pezzi (facendo clic) e spostarli (pizzicandoli e trascinandoli in un'altra posizione)."
+
+# game/scripts/screens/collection.rpy:751 #-#-# translate crowdin compile_puzzle_win_77c1ec18:
+msgid "Головоломка решена!"
+msgstr "Puzzle risolto!"
+
+# game/scripts/screens/collection.rpy:752 #-#-# translate crowdin compile_puzzle_win_7e7566c8:
+msgid "Данное изображение можно в любой момент просмотреть в Галерее."
+msgstr "Questa immagine può essere visualizzata nella Galleria in qualsiasi momento."
+
+# §translate crowdin strings: #|#|# # game/scripts/screens/collection.rpy:27
+msgid "Переодевания"
+msgstr "Cambio d'abito"
+
+# game/scripts/screens/collection.rpy:29
+msgid "Воспоминания"
+msgstr "Ricordi"
+
+# game/scripts/screens/collection.rpy:31
+msgid "Сны"
+msgstr "Sogni"
+
+# game/scripts/screens/collection.rpy:33
+msgid "Дополнительно"
+msgstr "Avanzata"
+
+# game/scripts/screens/collection.rpy:35
+msgid "Вернуться"
+msgstr "Indietro"
+
+# game/scripts/screens/collection.rpy:136
+msgid "Предыдущая"
+msgstr "Precedente"
+
+# game/scripts/screens/collection.rpy:139
+msgid "Неподозревающая"
+msgstr "Insospettabile"
+
+# game/scripts/screens/collection.rpy:141
+msgid "Удивлённая"
+msgstr "Sorpreso"
+
+# game/scripts/screens/collection.rpy:143
+msgid "Сердитая"
+msgstr "Arrabbiato"
+
+# game/scripts/screens/collection.rpy:145
+msgid "Сильно стесняющаяся"
+msgstr "Fortemente consapevole di sé"
+
+# game/scripts/screens/collection.rpy:147
+msgid "Стесняющаяся"
+msgstr "Timido"
+
+# game/scripts/screens/collection.rpy:149
+msgid "!!! ОШИБКА !!!"
+msgstr "!!! ERRORE !!!"
+
+# game/scripts/screens/collection.rpy:168
+msgid "Следующая"
+msgstr "Successivo"
+
+# game/scripts/screens/collection.rpy:199
+msgid "Макс ещё не видел Алису такой!"
+msgstr "Max non aveva mai visto Alice in questo modo!"
+
+# game/scripts/screens/collection.rpy:201
+msgid "Макс ещё не видел маму такой!"
+msgstr "Max non ha mai visto la sua mamma così!"
+
+# game/scripts/screens/collection.rpy:203
+msgid "Макс ещё не видел Лизу такой!"
+msgstr "Max non aveva mai visto Lisa in questo modo!"
+
+# game/scripts/screens/collection.rpy:205
+msgid "Макс ещё не видел Мию такой!"
+msgstr "Max non aveva mai visto Mia così!"
+
+# game/scripts/screens/collection.rpy:253
+msgid "Все персонажи"
+msgstr "Tutti i personaggi"
+
+# game/scripts/screens/collection.rpy:324
+msgid "Этот сон ещё не открыт!"
+msgstr "Questo sogno non è ancora stato scoperto!"
+
+# game/scripts/screens/collection.rpy:332
+msgid "Макс скоро увидит этот сон, нужно просто немного подождать..."
+msgstr "Max vedrà presto questo sogno, bisogna solo aspettare un po’..."
+
+# game/scripts/screens/collection.rpy:340
+msgid "СПИСОК ТРЕБОВАНИЙ"
+msgstr "ELENCO DEI REQUISITI"
+
+# game/scripts/screens/collection.rpy:341
+msgid "СОН #[tooltip]"
+msgstr "Sogno #[tooltip]"
+
+# game/scripts/screens/collection.rpy:357
+msgid "Выполнено [number] из [total]"
+msgstr "Eseguito [numero] di [totale]"
+
+# game/scripts/screens/collection.rpy:483
+msgid "Это событие ещё не открыто!"
+msgstr "Questo evento non è ancora aperto!"
+
+# game/scripts/screens/collection.rpy:515
+msgid "ГОЛОВОЛОМКА"
+msgstr "PARLARE"
+
+# game/scripts/screens/collection.rpy:531
+msgid "Изображение, разбитое на фрагменты ([cols]x[rows])"
+msgstr "Immagine divisa in fette ([cols]x[rows])"
+
+# game/scripts/screens/collection.rpy:536
+msgid "{i}Решать головоломку{/i}"
+msgstr "{i}Risolvi il puzzle{/i}"
+
+# game/scripts/screens/collection.rpy:540
+msgid "{i}Просмотреть изображение{/i}"
+msgstr "{i}Visualizza immagine{/i}"
+
+# game/scripts/screens/collection.rpy:569
+msgid "НАГРАДА"
+msgstr "PREMIO"
+
+# game/scripts/screens/collection.rpy:581
+msgid "Добавить в событие"
+msgstr "Aggiungi all'evento"
+
+# game/scripts/screens/collection.rpy:641
+msgid "Собрать повторно"
+msgstr "Riassemblare"
+
+# game/scripts/screens/collection.rpy:734
+msgid "Прогресс с головоломкой будет утерян.\n"
+"Вы уверены, что хотите вернуться в Галерею?"
+msgstr "I progressi del puzzle andranno persi.\n"
+"Siete sicuri di voler tornare alla Galleria?"
+

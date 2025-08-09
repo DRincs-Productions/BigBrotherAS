@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/engine/skils.po\n"
+"X-Crowdin-File-ID: 9079\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2025-03-15 14:03\n"
+
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/skils.rpy:16
+msgid "скрытность"
+msgstr "gizlilik"
+
+# game/scripts/engine/skils.rpy:16
+msgid "убеждение"
+msgstr "inanç"
+
+# game/scripts/engine/skils.rpy:16
+msgid "удача"
+msgstr "şans"
+
+# game/scripts/engine/skils.rpy:16
+msgid "массаж"
+msgstr "masaj"
+
+# game/scripts/engine/skils.rpy:16
+msgid "поцелуи"
+msgstr "öpücükler"
+
+# game/scripts/engine/skils.rpy:16
+msgid "сексуальный опыт"
+msgstr "cinsel deneyim"
+
+# game/scripts/engine/skils.rpy:56
+msgid "настроение"
+msgstr "ruh hali"
+
+# game/scripts/engine/skils.rpy:201
+msgid "Я остался незамеченным!"
+msgstr "Fark edilmeden gittim!"
+
+# game/scripts/engine/skils.rpy:201
+msgid "Убеждение удалось!"
+msgstr "Başarıyla ikna etme!"
+
+# game/scripts/engine/skils.rpy:201
+msgid "Паук найден!"
+msgstr "Örümcek bulundu!"
+
+# game/scripts/engine/skils.rpy:201
+msgid "Ей понравился массаж!"
+msgstr ""
+
+# game/scripts/engine/skils.rpy:211
+msgid "Я чуть не попался!"
+msgstr "Neredeyse yakalanıyordum!"
+
+# game/scripts/engine/skils.rpy:211
+msgid "Мне не стоит это делать!"
+msgstr ""
+
+# game/scripts/engine/skils.rpy:211
+msgid "Вот чёрт, я попался!"
+msgstr "Lanet olsun, bağımlısı oldum!"
+
+# game/scripts/engine/skils.rpy:211
+msgid "Убеждение не удалось!"
+msgstr "İkna başarısız oldu!"
+
+# game/scripts/engine/skils.rpy:211
+msgid "Безрезультатно!"
+msgstr "Hiçbir işe yaramıyor!"
+
+# game/scripts/engine/skils.rpy:211
+msgid "Ей не понравился массаж!"
+msgstr ""
+
+# game/scripts/engine/skils.rpy:221
+msgid "Выполнены ещё не все условия..."
+msgstr "Henüz tüm koşullar yerine getirilmedi..."
+

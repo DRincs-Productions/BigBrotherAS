@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/screens/custom_music.po\n"
+"X-Crowdin-File-ID: 14714\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2025-07-29 08:37\n"
+
+# TODO: Translation updated at 2025-07-27 23:15 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/custom_music.rpy:15
+msgid "Ok"
+msgstr "Ok"
+
+# game/scripts/screens/custom_music.rpy:19
+msgid "Отмена"
+msgstr "Annulation"
+
+# game/scripts/screens/custom_music.rpy:50
+msgid "Настройка музыки"
+msgstr ""
+
+# game/scripts/screens/custom_music.rpy:111
+msgid "Без музыки"
+msgstr ""
+
+# game/scripts/screens/custom_music.rpy:118
+msgid "В случайном порядке"
+msgstr ""
+
+# game/scripts/screens/custom_music.rpy:125
+msgid "Сбросить"
+msgstr ""
+
+# game/scripts/screens/custom_music.rpy:175
+msgid "Пересканировать папку музыки"
+msgstr ""
+

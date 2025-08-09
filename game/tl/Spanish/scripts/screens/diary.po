@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/screens/diary.po\n"
+"X-Crowdin-File-ID: 9087\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2025-03-15 14:03\n"
+
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/diary.rpy:24
+msgid "Задания"
+msgstr "Tareas"
+
+# game/scripts/screens/diary.rpy:27
+msgid "Заметки"
+msgstr "Notas"
+
+# game/scripts/screens/diary.rpy:54
+msgid "ТЕКУЩИЕ"
+msgstr "AHORA"
+
+# game/scripts/screens/diary.rpy:62
+msgid "ВЫПОЛНЕННЫЕ"
+msgstr "EJECUTADO"
+
+# game/scripts/screens/diary.rpy:76
+msgid "ВСЕ"
+msgstr "TODOS"
+
+# game/scripts/screens/diary.rpy:146
+msgid "Сейчас здесь нет заданий"
+msgstr "No hay asignaciones aquí en este momento"
+
+# game/scripts/screens/diary.rpy:196
+msgid "Завершите задание, чтобы получить награду..."
+msgstr "Completa la tarea para obtener la recompensa....."
+
+# game/scripts/screens/diary.rpy:198
+msgid "Нужно приблизиться к завершению задания, чтобы узнать о награде..."
+msgstr "Hay que acercarse a completar la tarea para conocer la recompensa..."
+
+# game/scripts/screens/diary.rpy:201
+msgid "НАГРАДА:"
+msgstr "PREMIO:"
+
+# game/scripts/screens/diary.rpy:349
+msgid "МОЯ СТАРШАЯ СЕСТРЁНКА"
+msgstr "MI HERMANA MAYOR"
+
+# game/scripts/screens/diary.rpy:357
+msgid "МОЯ МАМА"
+msgstr "MI MAMA"
+
+# game/scripts/screens/diary.rpy:364
+msgid "МОЯ МЛАДШАЯ СЕСТРЁНКА"
+msgstr "MI HERMANA PEQUEÑA"
+
+# game/scripts/screens/diary.rpy:379
+msgid "НАШИ ВЗАИМООТНОШЕНИЯ:"
+msgstr "NUESTRA RELACIÓN:"
+

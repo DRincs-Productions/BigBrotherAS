@@ -1,0 +1,342 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/story_01/punishments.po\n"
+"X-Crowdin-File-ID: 9147\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2025-07-29 08:39\n"
+
+# TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/story_01/punishments.rpy:54 #-#-# translate crowdin punishments_allocation_d4a1750b:
+msgid "[_Ann_s_10_] Прежде, чем мы начнём, кое-кто заслуживает наказания и сейчас все на это посмотрят..."
+msgstr "[_Ann_s_10_] Prima di iniziare, qualcuno merita di essere punito e ora tutti lo guarderanno..."
+
+# game/scripts/story_01/punishments.rpy:58 #-#-# translate crowdin punishments_allocation_7f146025:
+msgid "[_Ann_s_14_] Лиза, подойди-ка ко мне..."
+msgstr "[_Ann_s_14_] Lisa, vieni qui da me..."
+
+# game/scripts/story_01/punishments.rpy:60 #-#-# translate crowdin punishments_allocation_6761dedd:
+msgid "[_Ann_s_14_] Так, Лиза, начнём с тебя..."
+msgstr "[_Ann_s_14_] Ok, Lisa, iniziamo con te..."
+
+# game/scripts/story_01/punishments.rpy:65 #-#-# translate crowdin punishments_allocation_9343ae3d:
+msgid "[_Ann_s_14_] Макс, иди сюда..."
+msgstr "[_Ann_s_14_] Max, vieni qui..."
+
+# game/scripts/story_01/punishments.rpy:67 #-#-# translate crowdin punishments_allocation_3928d7d1:
+msgid "[_Ann_s_14_] Итак, Макс, ты первый..."
+msgstr "[_Ann_s_14_] Allora, Max, prima tu..."
+
+# game/scripts/story_01/punishments.rpy:69 #-#-# translate crowdin punishments_allocation_be4fc9ba:
+msgid "[_Ann_s_14_] Макс, теперь твоя очередь..."
+msgstr "[_Ann_s_14_] Max, ora tocca a te..."
+
+# game/scripts/story_01/punishments.rpy:74 #-#-# translate crowdin punishments_allocation_1a60f370:
+msgid "[_Ann_s_14_] Алиса, подойди-ка сюда..."
+msgstr "[_Ann_s_14_] Alice, vieni qui..."
+
+# game/scripts/story_01/punishments.rpy:76 #-#-# translate crowdin punishments_allocation_77555624:
+msgid "[_Ann_s_14_] Теперь ты, Алиса..."
+msgstr "[_Ann_s_14_] Ora tu, Alice..."
+
+# game/scripts/story_01/punishments.rpy:92 #-#-# translate crowdin lisa_punishment_c994ba6b:
+msgid "[_Ann_s_15_] Ближе подходи, Лиза. И да, снимай шорты, ты это заслужила! [nointeract]"
+msgstr "[_Ann_s_15_] Avvicinati, Lisa. E sì, togliti i pantaloncini, te lo meriti! [nointeract]"
+
+# game/scripts/story_01/punishments.rpy:94 #-#-# translate crowdin lisa_punishment_5221f166:
+msgid "[_Ann_s_15_] Ближе подходи, Лиза. И да, снимай свой халат, ты это заслужила! [nointeract]"
+msgstr "[_Ann_s_15_] Avvicinati, Lisa. E sì, togliti la vestaglia, te la meriti! [nointeract]"
+
+# game/scripts/story_01/punishments.rpy:101 #-#-# translate crowdin lisa_punishment_51e82948:
+msgid "[_Max_s_12_] Мам, не нужно наказывать Лизу. Она правда старалась, я сам видел. А если что, то я ей помогу."
+msgstr "[_Max_s_12_] Mamma, non devi punire Lisa. Ci ha provato davvero, l'ho visto. E semmai la aiuterò io."
+
+# game/scripts/story_01/punishments.rpy:104 #-#-# translate crowdin lisa_punishment_2523f888:
+msgid "[_Ann_s_10_] Хорошо, Макс, в этот раз я не стану её наказывать. Надеюсь, я не пожалею о своём решении... А ты, Лиза, благодари брата, да учись давай..."
+msgstr "[_Ann_s_10_] Ok, Max, questa volta non la punirò. Spero di non pentirmi della mia decisione... E tu, Lisa, ringrazia tuo fratello e studia..."
+
+# game/scripts/story_01/punishments.rpy:105 #-#-# translate crowdin lisa_punishment_0a2abbcc:
+msgid "[_Lisa_s_03_] Спасибо тебе, Макс!"
+msgstr "[_Lisa_s_03_] Grazie, Max!"
+
+# game/scripts/story_01/punishments.rpy:107 #-#-# translate crowdin lisa_punishment_07cdd5bc:
+msgid "[_Ann_s_00_] Давай садись, пока всё не остыло."
+msgstr "[_Ann_s_00_] Forza, sedetevi prima che si raffreddi."
+
+# game/scripts/story_01/punishments.rpy:109 #-#-# translate crowdin lisa_punishment_a2b49490:
+msgid "[_Ann_s_00_] Давай садись, у нас есть и другие провинившиеся."
+msgstr "[_Ann_s_00_] Venite a sedervi, abbiamo altri colpevoli."
+
+# game/scripts/story_01/punishments.rpy:115 #-#-# translate crowdin lisa_punishment_51e82948_1:
+msgid "[_Max_s_12_] Мам, не нужно наказывать Лизу. Она правда старалась, я сам видел. А если что, то я ей помогу."
+msgstr "[_Max_s_12_] Mamma, non devi punire Lisa. Ci ha provato davvero, l'ho visto. E semmai la aiuterò io."
+
+# game/scripts/story_01/punishments.rpy:119 #-#-# translate crowdin lisa_punishment_489b47c7:
+msgid "[_Ann_s_15_] Нет, Макс, твои уговоры ей не помогут. Получит то, что заслужила. А ты, Лиза, не стой столбом, шевелись давай... Быстро снимай шорты!"
+msgstr "[_Ann_s_15_] No, Max, non puoi convincermi. Avrà quello che si merita. E tu, Lisa, non startene lì impalata, forza, muoviti. Togliti i pantaloncini, presto!"
+
+# game/scripts/story_01/punishments.rpy:121 #-#-# translate crowdin lisa_punishment_c6d0cc62:
+msgid "[_Ann_s_15_] Нет, Макс, твои уговоры ей не помогут. Получит то, что заслужила. А ты, Лиза, не стой столбом, шевелись давай... Быстро снимай халат!"
+msgstr "[_Ann_s_15_] No, Max, le tue lusinghe non la aiuteranno. Avrà quello che si merita. E tu, Lisa, non startene lì impalata, dai... Togliti la vestaglia, presto!"
+
+# game/scripts/story_01/punishments.rpy:131 #-#-# translate crowdin lisa_punishment_74cf7a79:
+msgid "[_Lisa_s_10_] Мам... Я не специально! Просто, материал был сложный..."
+msgstr "[_Lisa_s_10_] Mamma. Non l'ho fatto apposta! È solo che il materiale era difficile..."
+
+# game/scripts/story_01/punishments.rpy:132 #-#-# translate crowdin lisa_punishment_6185b8ed:
+msgid "[_Ann_s_16_] Сложный? У тебя была куча времени, чтобы подготовиться! Сидишь в своём телефоне вечно вместо того, чтобы учиться. Давай быстрее, все есть хотят!"
+msgstr "[_Ann_s_16_] Difficile? Hai avuto tutto il tempo per prepararti! Sei sempre al telefono invece di studiare. Sbrigati, hanno tutti fame!"
+
+# game/scripts/story_01/punishments.rpy:136 #-#-# translate crowdin lisa_punishment_29ea94dd:
+msgid "[_Lisa_s_12_] Ма-ам, я больше не буду... Ай! В смысле, буду лучше учиться. Извини..."
+msgstr "[_Lisa_s_12_] Mamma, non lo farò più. Ahi! Voglio dire, studierò meglio. Mi dispiace..."
+
+# game/scripts/story_01/punishments.rpy:141 #-#-# translate crowdin lisa_punishment_e8019e30:
+msgid "[_Ann_s_15_] Поразительно! Тебе даже Макс помогает, а ты двойки хватаешь! Ведь помогал?"
+msgstr "[_Ann_s_15_] E' incredibile! Persino Max ti aiuta e tu prendi delle F! Non ti ha aiutato?"
+
+# game/scripts/story_01/punishments.rpy:142 #-#-# translate crowdin lisa_punishment_33c7663a:
+msgid "[_Lisa_s_10_] Ай! Нет, мам, он вообще мне не помогал на этой неделе!"
+msgstr "[_Lisa_s_10_] No, mamma, non mi ha aiutato per niente questa settimana!"
+
+# game/scripts/story_01/punishments.rpy:143 #-#-# translate crowdin lisa_punishment_c22033f1:
+msgid "[_Ann_s_16_] Что?! Макс, я же тебя просила ей помочь... Ох, сейчас я закончу с Лизой и возьмусь за тебя!"
+msgstr "[_Ann_s_16_] Cosa? Max, ti ho detto di aiutarla. Oh, finisco con Lisa e dopo tocca a te!"
+
+# game/scripts/story_01/punishments.rpy:144 #-#-# translate crowdin lisa_punishment_a0918fc2:
+msgid "[_Max_s_15_] Упс..."
+msgstr "[_Max_s_15_] Ops..."
+
+# game/scripts/story_01/punishments.rpy:148 #-#-# translate crowdin lisa_punishment_e8019e30_1:
+msgid "[_Ann_s_15_] Поразительно! Тебе даже Макс помогает, а ты двойки хватаешь! Ведь помогал?"
+msgstr "[_Ann_s_15_] E' incredibile! Persino Max ti aiuta e tu prendi delle F! Non ti ha aiutato?"
+
+# game/scripts/story_01/punishments.rpy:149 #-#-# translate crowdin lisa_punishment_e10da9a2:
+msgid "[_Lisa_s_10_] Ай! Мам, он помогал, но лишь пару вечеров на этой неделе!"
+msgstr "[_Lisa_s_10_] Oh, mamma, mi ha aiutato, ma solo un paio di sere questa settimana!"
+
+# game/scripts/story_01/punishments.rpy:150 #-#-# translate crowdin lisa_punishment_04286cd2:
+msgid "[_Ann_s_16_] Всего несколько вечеров?! Макс, ты что, думал этого достаточно? Ох, сейчас я закончу с Лизой и возьмусь за тебя!"
+msgstr "[_Ann_s_16_] Solo alcune sere?! Max, pensavi che fosse abbastanza? Oh, ora finirò con Lisa e mi occuperò di te!"
+
+# game/scripts/story_01/punishments.rpy:151 #-#-# translate crowdin lisa_punishment_a0918fc2_1:
+msgid "[_Max_s_15_] Упс..."
+msgstr "[_Max_s_15_] Ops..."
+
+# game/scripts/story_01/punishments.rpy:155 #-#-# translate crowdin lisa_punishment_e173af73:
+msgid "[_Ann_s_15_] Конечно, будешь. За ум берись, пока не поздно, а то совсем расслабилась."
+msgstr "[_Ann_s_15_] Certo che lo farai. Prenditi cura della tua mente prima che sia troppo tardi, altrimenti ti rilasserai completamente."
+
+# game/scripts/story_01/punishments.rpy:161 #-#-# translate crowdin lisa_punishment_07d8f87e:
+msgid "[_Ann_s_00_] Лиза, надеюсь, ты извлекла урок из этого наказания и больше это не повторится. А теперь одевайся и садись, пока всё не остыло."
+msgstr "[_Ann_s_00_] Lisa, spero che tu abbia imparato la lezione da questa punizione e che non si ripeta. Ora vestiti e siediti prima che si raffreddi."
+
+# game/scripts/story_01/punishments.rpy:163 #-#-# translate crowdin lisa_punishment_e82a694a:
+msgid "[_Ann_s_00_] Лиза, надеюсь, ты извлекла урок из этого наказания и больше это не повторится. А теперь одевайся и садись, у нас есть и другие провинившиеся."
+msgstr "[_Ann_s_00_] Lisa, spero che tu abbia imparato la lezione da questa punizione e che non si ripeta. Ora vestiti e siediti, abbiamo altri colpevoli."
+
+# game/scripts/story_01/punishments.rpy:175 #-#-# translate crowdin mgg_punishment_df33e128:
+msgid "[_Ann_s_15_] Сейчас ты будешь наказан, сам знаешь за что!"
+msgstr "[_Ann_s_15_] Ora verrai punito per sai cosa!"
+
+# game/scripts/story_01/punishments.rpy:176 #-#-# translate crowdin mgg_punishment_c891cd0b:
+msgid "[_Max_s_17_] Так я же ничего не сделал!"
+msgstr "[_Max_s_17_] Non ho fatto nulla!"
+
+# game/scripts/story_01/punishments.rpy:179 #-#-# translate crowdin mgg_punishment_3b77a556:
+msgid "[_Ann_s_16_] Вот именно, Макс, что ничего! А должен был сестре помочь. Давай, снимай джинсы и подходи ко мне... [nointeract]"
+msgstr "[_Ann_s_16_] Esatto, Max, nulla! Dovresti aiutare tua sorella. Dai, togliti i jeans e vieni qui... [nointeract]"
+
+# game/scripts/story_01/punishments.rpy:184 #-#-# translate crowdin mgg_punishment_3bff7a45:
+msgid "[_Ann_s_16_] Вот именно, Макс, что ничего! А должен был сестре помочь. Давай, снимай шорты и подходи ко мне... [nointeract]"
+msgstr "[_Ann_s_16_] Esatto, Max, nulla! Dovresti aiutare tua sorella. Dai, togliti i pantaloncini e vieni qui... [nointeract]"
+
+# game/scripts/story_01/punishments.rpy:191 #-#-# translate crowdin mgg_punishment_ecdb8eb5:
+msgid "[_Ann_s_15_] Я вынуждена отчитать тебя перед всеми, так как у нас в семье не должно быть никаких секретов."
+msgstr "[_Ann_s_15_] Devo rimproverarti davanti a tutti, perché in famiglia non dobbiamo avere segreti."
+
+# game/scripts/story_01/punishments.rpy:194 #-#-# translate crowdin mgg_punishment_6cd8e804:
+msgid "[_Max_s_17_] Несправедливо, кстати. Я не виноват!"
+msgstr "[_Max_s_17_] Ingiusto, tra l'altro. Non è colpa mia!"
+
+# game/scripts/story_01/punishments.rpy:195 #-#-# translate crowdin mgg_punishment_22780180:
+msgid "[_Ann_s_14_] Не виноват, значит? А я думаю, что ещё как виноват. В этот раз тебе повезло, это всего лишь первое предупреждение. Надеюсь, второго не потребуется... Кстати, можешь всем рассказать, что ты натворил..."
+msgstr "[_Ann_s_14_] Non è colpa tua, eh? Penso di sì. Questa volta sei fortunato, è solo il primo avvertimento. Spero che non ti serva un secondo avvertimento. A proposito, puoi dire a tutti quello che hai fatto..."
+
+# game/scripts/story_01/punishments.rpy:201 #-#-# translate crowdin mgg_punishment_4b3cfc10:
+msgid "[_Ann_s_00_] У тебя есть ещё время подумать над своим поведением. Надеюсь, следующего раза не будет! А теперь садись, пока всё не остыло."
+msgstr "[_Ann_s_00_] Hai ancora tempo per riflettere sul tuo comportamento. Spero che non ci sia una prossima volta! Ora siediti prima che si raffreddi."
+
+# game/scripts/story_01/punishments.rpy:203 #-#-# translate crowdin mgg_punishment_76bdf198:
+msgid "[_Ann_s_00_] У тебя есть ещё время подумать над своим поведением. Надеюсь, следующего раза не будет! А теперь садись, у нас есть и другие провинившиеся."
+msgstr "[_Ann_s_00_] Hai ancora tempo per riflettere sul tuo comportamento. Spero che non ci sia una prossima volta! Ora siediti, abbiamo altri colpevoli."
+
+# game/scripts/story_01/punishments.rpy:207 #-#-# translate crowdin mgg_punishment_0e6ccbdc:
+msgid "[_Max_s_17_] И снова несправедливо, кстати. Я не виноват!"
+msgstr "[_Max_s_17_] Ancora una volta, tra l'altro, non è giusto. Non è colpa mia!"
+
+# game/scripts/story_01/punishments.rpy:208 #-#-# translate crowdin mgg_punishment_2034f3b1:
+msgid "[_Ann_s_14_] Не виноват, значит? Снова? Кажется, ты не осознаёшь, что это последнее предупреждение и в следующий раз я тебя выпорю на глазах у сестёр. Ты меня понял? А теперь рассказывай, что натворил, чтобы все были в курсе!"
+msgstr "[_Ann_s_14_] Non è colpa tua, eh? Ancora? Sembra che tu non capisca che questo è l'ultimo avvertimento e che la prossima volta ti punirò davanti alle tue sorelle. Mi hai capito? Ora dimmi cosa hai fatto, così tutti sapranno cosa hai fatto!"
+
+# game/scripts/story_01/punishments.rpy:214 #-#-# translate crowdin mgg_punishment_1e87bca9:
+msgid "[_Ann_s_00_] У тебя есть ещё время подумать над своим поведением. Надеюсь, до порки дело не дойдет! А теперь садись, пока всё не остыло."
+msgstr "[_Ann_s_00_] Hai ancora tempo per riflettere sul tuo comportamento. Spero che non si arrivi alle frustate! Ora siediti prima che si raffreddi."
+
+# game/scripts/story_01/punishments.rpy:216 #-#-# translate crowdin mgg_punishment_6c46af57:
+msgid "[_Ann_s_00_] У тебя есть ещё время подумать над своим поведением. Надеюсь, до порки дело не дойдет! А теперь садись, у нас есть и другие провинившиеся."
+msgstr "[_Ann_s_00_] Hai ancora tempo per riflettere sul tuo comportamento. Spero che non si arrivi alle frustate! Ora siediti, abbiamo altri colpevoli."
+
+# game/scripts/story_01/punishments.rpy:223 #-#-# translate crowdin mgg_punishment_df33e128_1:
+msgid "[_Ann_s_15_] Сейчас ты будешь наказан, сам знаешь за что!"
+msgstr "[_Ann_s_15_] Ora verrai punito per sai cosa!"
+
+# game/scripts/story_01/punishments.rpy:224 #-#-# translate crowdin mgg_punishment_731e4ca7:
+msgid "[_Max_s_17_] Так я же не виноват!"
+msgstr "[_Max_s_17_] Non è colpa mia!"
+
+# game/scripts/story_01/punishments.rpy:227 #-#-# translate crowdin mgg_punishment_7fb44cf6:
+msgid "[_Ann_s_16_] Нет, Макс, со мной эти шуточки не прокатят. Давай, снимай джинсы и подходи ко мне... [nointeract]"
+msgstr "[_Ann_s_16_] No, Max, non puoi metterti contro di me. Dai, togliti i jeans e vieni qui.... [nointeract]"
+
+# game/scripts/story_01/punishments.rpy:232 #-#-# translate crowdin mgg_punishment_8e7fee34:
+msgid "[_Ann_s_16_] Нет, Макс, со мной эти шуточки не прокатят. Давай, снимай шорты и подходи ко мне... [nointeract]"
+msgstr "[_Ann_s_16_] No, Max, non puoi metterti contro di me. Dai, togliti i pantaloncini e vieni qui... [nointeract]"
+
+# game/scripts/story_01/punishments.rpy:243 #-#-# translate crowdin mgg_punishment_punish_d4f33737:
+msgid "[_Ann_s_10_] Ну и долго я буду ждать?! Давай подходи... [nointeract]"
+msgstr "[_Ann_s_10_] Quanto dovrò aspettare? Vieni qui... [nointeract]"
+
+# game/scripts/story_01/punishments.rpy:252 #-#-# translate crowdin mgg_punishment_punish_626c39f8:
+msgid "[_Ann_s_10_] Макс у нас ещё в кое-чём провинился... Он прекрасно знает в чём, так что сейчас получит за все сразу!"
+msgstr "[_Ann_s_10_] Max ha fatto qualcos'altro... Sa esattamente di cosa si tratta, quindi lo prenderà tutto in una volta!"
+
+# game/scripts/story_01/punishments.rpy:255 #-#-# translate crowdin mgg_punishment_punish_a6c9d88e:
+msgid "[_Ann_s_14_] Может хоть так до вас с Лизой дойдёт, что я тут шутить с вами не собираюсь. Если у неё плохие оценки, то получаете от меня по заднице вдвоём..."
+msgstr "[_Ann_s_14_] Forse in questo modo tu e Lisa capirete che non vi sto prendendo in giro. Se prende brutti voti, vi sculaccio tutti e due..."
+
+# game/scripts/story_01/punishments.rpy:263 #-#-# translate crowdin mgg_punishment_punish_e3b42f5c:
+msgid "[_Ann_s_14_] У Макса несколько провинностей... Он их прекрасно знает и перечислять я их не стану. Сейчас он получит за все сразу!"
+msgstr "[_Ann_s_14_] Max ha diverse trasgressioni... Le conosce bene e non le elencherò. Ora le prenderà tutte insieme!"
+
+# game/scripts/story_01/punishments.rpy:266 #-#-# translate crowdin mgg_punishment_punish_9ec6985d:
+msgid "[_Ann_s_14_] Если вы не в курсе, то я наказываю Макса за то, что он подглядывал за Лизой. Я уже предупреждала, что не люблю, когда кто-то нарушает личное пространство..."
+msgstr "[_Ann_s_14_] Nel caso non lo sapeste, sto punendo Max per aver spiato Lisa. Ti ho già avvertito che non mi piace quando qualcuno viola la nostra privacy..."
+
+# game/scripts/story_01/punishments.rpy:267 #-#-# translate crowdin mgg_punishment_punish_6dbdab80:
+msgid "[_Lisa_s_15_] Правильно, мам! Пусть получит, что заслужил!"
+msgstr "[_Lisa_s_15_] Esatto, mamma! Lascia che abbia ciò che si merita!"
+
+# game/scripts/story_01/punishments.rpy:270 #-#-# translate crowdin mgg_punishment_punish_c21ce584:
+msgid "[_Ann_s_14_] Если вы не в курсе, то я наказываю Макса за то, что он мешал Лизе спать. Я уже предупреждала, что не люблю, когда кто-то нарушает личное пространство..."
+msgstr "[_Ann_s_14_] Nel caso non lo sapeste, sto punendo Max per aver disturbato il sonno di Lisa. Ti ho già avvertito che non mi piace quando qualcuno viola la privacy..."
+
+# game/scripts/story_01/punishments.rpy:271 #-#-# translate crowdin mgg_punishment_punish_6dbdab80_1:
+msgid "[_Lisa_s_15_] Правильно, мам! Пусть получит, что заслужил!"
+msgstr "[_Lisa_s_15_] Esatto, mamma! Lascia che abbia ciò che si merita!"
+
+# game/scripts/story_01/punishments.rpy:274 #-#-# translate crowdin mgg_punishment_punish_b400a95c:
+msgid "[_Ann_s_14_] Если вы не в курсе, то я наказываю Макса за то, что он подглядывал за мной. Я уже предупреждала, что не люблю, когда кто-то нарушает личное пространство..."
+msgstr "[_Ann_s_14_] Nel caso non lo sapeste, sto punendo Max per avermi spiato. Ti ho già avvertito che non mi piace quando qualcuno viola la mia privacy..."
+
+# game/scripts/story_01/punishments.rpy:275 #-#-# translate crowdin mgg_punishment_punish_0317cfbf:
+msgid "[_Ann_s_15_] Хотелось бы думать, что это произошло случайно, но нет!"
+msgstr "[_Ann_s_15_] Mi piacerebbe pensare che sia successo per caso, ma no!"
+
+# game/scripts/story_01/punishments.rpy:278 #-#-# translate crowdin mgg_punishment_punish_9ea1e76d:
+msgid "[_Ann_s_14_] Если вы не в курсе, то я наказываю Макса за то, что он подглядывал за Алисой. Я уже предупреждала, что не люблю, когда кто-то нарушает личное пространство..."
+msgstr "[_Ann_s_14_] Nel caso non lo sapeste, sto punendo Max per aver spiato Alice. Ti ho già avvisato che non mi piace quando qualcuno viola la nostra privacy..."
+
+# game/scripts/story_01/punishments.rpy:279 #-#-# translate crowdin mgg_punishment_punish_649cbf43:
+msgid "[_Alice_s_15_] Так ему и надо, мам! Нечего на меня пялиться, когда я принимаю душ!"
+msgstr "[_Alice_s_15_] Gli sta bene, mamma! Non sbirciarmi quando sono sotto la doccia!"
+
+# game/scripts/story_01/punishments.rpy:283 #-#-# translate crowdin mgg_punishment_punish_d119df18:
+msgid "[_tMax_s_14_] Мама наказывает меня прямо перед сёстрами... Это так унизительно..."
+msgstr "[_tMax_s_14_] Mamma mi punisce davanti alle mie sorelle... È così umiliante..."
+
+# game/scripts/story_01/punishments.rpy:290 #-#-# translate crowdin mgg_punishment_punish_d2e2e0ee:
+msgid "[_Ann_s_00_] Ну вот. Ведите себя хорошо и мне не придётся прибегать к таким методам воспитания. А теперь, Макс, одевайся и садись, пока всё не остыло."
+msgstr "[_Ann_s_00_] Ecco qua. Comportati bene e non dovrò ricorrere a questo tipo di educazione. Ora, Max, vestiti e siediti prima che si raffreddi."
+
+# game/scripts/story_01/punishments.rpy:292 #-#-# translate crowdin mgg_punishment_punish_6f75875d:
+msgid "[_Ann_s_00_] Ну вот. Ведите себя хорошо и мне не придётся прибегать к таким методам воспитания. А теперь, Макс, одевайся и садись, у нас есть и другие провинившиеся."
+msgstr "[_Ann_s_00_] Ecco qua. Comportatevi bene e non dovrò ricorrere a questi metodi educativi. Ora, Max, vestiti e siediti, abbiamo altri colpevoli."
+
+# game/scripts/story_01/punishments.rpy:303 #-#-# translate crowdin reprimanded_reason_30d8f54f:
+msgid "[_Max_s_12_] Ну, я случайно оказался рядом с душем, когда там была Лиза..."
+msgstr "[_Max_s_12_] Beh, mi è capitato di essere vicino alla doccia quando Lisa era lì..."
+
+# game/scripts/story_01/punishments.rpy:304 #-#-# translate crowdin reprimanded_reason_c1a6a5a4:
+msgid "[_Lisa_s_15_] Он видел меня голой, мам! Накажи его! Почему он отделывается только предупреждением? Пусть получит, что заслужил!"
+msgstr "[_Lisa_s_15_] Mi ha vista nuda, mamma! Puniscilo! Perché ha ricevuto solo un avvertimento? Che abbia ciò che si merita!"
+
+# game/scripts/story_01/punishments.rpy:305 #-#-# translate crowdin reprimanded_reason_26a66e7e:
+msgid "[_Max_s_14_] Да ничего я не заслужил!"
+msgstr "[_Max_s_14_] Non merito nulla!"
+
+# game/scripts/story_01/punishments.rpy:308 #-#-# translate crowdin reprimanded_reason_2eb4c671:
+msgid "[_Max_s_12_] Ну, я якобы мешал Лизе спать, хотя всего лишь встал раньше неё..."
+msgstr "[_Max_s_12_] Beh, presumibilmente ho impedito a Lisa di dormire, anche se mi sono appena alzato prima di lei..."
+
+# game/scripts/story_01/punishments.rpy:309 #-#-# translate crowdin reprimanded_reason_79249d94:
+msgid "[_Lisa_s_15_] Он не просто мешал мне спать, мам, но ещё и разглядывал меня сидя вплотную! Накажи его! Пусть получит, что заслужил!"
+msgstr "[_Lisa_s_15_] Non sta solo disturbando il mio sonno, mamma, mi stava fissando da vicino! Puniscilo! Che abbia ciò che si merita!"
+
+# game/scripts/story_01/punishments.rpy:310 #-#-# translate crowdin reprimanded_reason_26a66e7e_1:
+msgid "[_Max_s_14_] Да ничего я не заслужил!"
+msgstr "[_Max_s_14_] Non merito nulla!"
+
+# game/scripts/story_01/punishments.rpy:314 #-#-# translate crowdin reprimanded_reason_bdcb3e48:
+msgid "[_Max_s_12_] Ну, я случайно увидел, как ты принимаешь душ, мам..."
+msgstr "[_Max_s_12_] Beh, mi è capitato di vederti fare la doccia, mamma..."
+
+# game/scripts/story_01/punishments.rpy:316 #-#-# translate crowdin reprimanded_reason_4af8d164:
+msgid "[_Max_s_12_] Ну, я случайно увидел, как ты переодеваешься, мам..."
+msgstr "[_Max_s_12_] Beh, mi è capitato di vederti mentre ti cambiavi, mamma..."
+
+# game/scripts/story_01/punishments.rpy:317 #-#-# translate crowdin reprimanded_reason_3d133b7f:
+msgid "[_Ann_s_12_] Очень хочу надеяться, что это действительно было случайно. Тем не менее, ты пойман и как я уже сказала, получаешь предупреждение."
+msgstr "[_Ann_s_12_] Voglio davvero sperare che si sia trattato di un incidente. Tuttavia, sei stato beccato e, come ho detto, hai ricevuto un avvertimento."
+
+# game/scripts/story_01/punishments.rpy:318 #-#-# translate crowdin reprimanded_reason_f6cb79d3:
+msgid "[_Max_s_14_] Больше это не повторится!"
+msgstr "[_Max_s_14_] Non accadrà più!"
+
+# game/scripts/story_01/punishments.rpy:321 #-#-# translate crowdin reprimanded_reason_0a14df48:
+msgid "[_Max_s_12_] Ну, я оказался случайно рядом с душем, где мылась Алиса..."
+msgstr "[_Max_s_12_] Beh, mi è capitato di essere vicino alla doccia dove Alice si stava lavando..."
+
+# game/scripts/story_01/punishments.rpy:322 #-#-# translate crowdin reprimanded_reason_77f75157:
+msgid "[_Alice_s_15_] Случайно? Врёт он всё, мам! Он стоял и пялился на меня!"
+msgstr "[_Alice_s_15_] Per sbaglio? Sta mentendo, mamma! Stava lì a fissarmi!"
+
+# game/scripts/story_01/punishments.rpy:323 #-#-# translate crowdin reprimanded_reason_8f72234a:
+msgid "[_Max_s_14_] Да я мимо проходил!"
+msgstr "[_Max_s_14_] Passavo di qui!"
+
+# game/scripts/story_01/punishments.rpy:329 #-#-# translate crowdin reprimanded_reason_0659dd02:
+msgid "[_Ann_s_10_] Ты не закончил, Макс. Продолжай..."
+msgstr "[_Ann_s_10_] Non hai finito, Max. Continua..."
+
+# game/scripts/story_01/punishments.rpy:331 #-#-# translate crowdin reprimanded_reason_c67b0860:
+msgid "[_Ann_s_10_] Дальше, Макс, мы тебя внимательно слушаем..."
+msgstr "[_Ann_s_10_] Avanti, Max, ti ascoltiamo con molta attenzione..."
+
+# game/scripts/story_01/punishments.rpy:333 #-#-# translate crowdin reprimanded_reason_61370c93:
+msgid "[_Ann_s_10_] А ты не забыл про кое-что ещё?"
+msgstr "[_Ann_s_10_] Non stai dimenticando qualcos'altro?"
+
+# §translate crowdin strings: #|#|# # game/scripts/story_01/punishments.rpy:95
+msgid "{i}заступиться за Лизу{/i}"
+msgstr "{i}difendi Lisa{/i}"
+
+# game/scripts/story_01/punishments.rpy:183
+msgid "{i}снять шорты{/i}"
+msgstr "{i}togliermi i pantaloncini{/i}"
+
