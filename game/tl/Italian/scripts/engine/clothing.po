@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-08-09 14:18\n"
+"PO-Revision-Date: 2025-08-09 15:42\n"
 
 # TODO: Translation updated at 2025-07-27 23:15 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/clothing.rpy:789
 msgid "Галерея переодеваний обновлена!"
@@ -242,7 +242,7 @@ msgstr "Costume da mare scivolato dall’alto"
 
 # game/scripts/engine/clothing.rpy:971
 msgid "Смелый купальник, съехавший сверху"
-msgstr "Costume da bagno audace scivolato dalla parte superiore"
+msgstr "Costume audace scivolato dall’alto"
 
 # game/scripts/engine/clothing.rpy:1145
 msgid "Повседневная"
