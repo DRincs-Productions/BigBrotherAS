@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-07-27 23:15
+﻿# TODO: Translation updated at 2025-08-11 18:01
 
 # game/scripts/story_01/bikini.rpy:8
 translate crowdin ev_008_3c08b543:
@@ -36,49 +36,49 @@ translate crowdin ev_008_44439239:
     # Max 11 "А какой купальник ты бы хотела?"
     Max 11 "А какой купальник ты бы хотела?"
 
-# game/scripts/story_01/bikini.rpy:21
+# game/scripts/story_01/bikini.rpy:19
 translate crowdin ev_008_c23161f2:
 
     # Lisa 04 "Ой, ну такой... Максимально открытый. Но не совсем чтобы полностью. Чтобы животик загорал. И цвет такой красивый, но не чтобы слишком тёмный или холодный... И лямочки такие..."
     Lisa 04 "Ой, ну такой... Максимально открытый. Но не совсем чтобы полностью. Чтобы животик загорал. И цвет такой красивый, но не чтобы слишком тёмный или холодный... И лямочки такие..."
 
-# game/scripts/story_01/bikini.rpy:22
+# game/scripts/story_01/bikini.rpy:20
 translate crowdin ev_008_e0591d1c:
 
     # Max 13 "Не совсем понятно, но интересно."
     Max 13 "Не совсем понятно, но интересно."
 
-# game/scripts/story_01/bikini.rpy:23
+# game/scripts/story_01/bikini.rpy:21
 translate crowdin ev_008_b15d13fe:
 
     # Lisa 02 "А у тебя разве деньги на такое есть? Ты же нигде не работаешь. И я что-то сомневаюсь, что ты умеешь шить купальники..."
     Lisa 02 "А у тебя разве деньги на такое есть? Ты же нигде не работаешь. И я что-то сомневаюсь, что ты умеешь шить купальники..."
 
-# game/scripts/story_01/bikini.rpy:24
+# game/scripts/story_01/bikini.rpy:22
 translate crowdin ev_008_c86f433c:
 
     # Max 12 "Я что-нибудь придумаю, вот увидишь! Может не сразу, но..."
     Max 12 "Я что-нибудь придумаю, вот увидишь! Может не сразу, но..."
 
-# game/scripts/story_01/bikini.rpy:25
+# game/scripts/story_01/bikini.rpy:23
 translate crowdin ev_008_854c4ba5:
 
     # Lisa 01 "Ну, ладно. Посмотрим... Если у меня будет новый купальник, да ещё и интереснее, чем этот, то я тебя даже... в щёчку поцелую!"
     Lisa 01 "Ну, ладно. Посмотрим... Если у меня будет новый купальник, да ещё и интереснее, чем этот, то я тебя даже... в щёчку поцелую!"
 
-# game/scripts/story_01/bikini.rpy:26
+# game/scripts/story_01/bikini.rpy:24
 translate crowdin ev_008_9c461a8f:
 
     # Max 13 "И всё?"
     Max 13 "И всё?"
 
-# game/scripts/story_01/bikini.rpy:27
+# game/scripts/story_01/bikini.rpy:25
 translate crowdin ev_008_fa46771a:
 
     # Lisa 11 "Ну, скажу спасибо..."
     Lisa 11 "Ну, скажу спасибо..."
 
-# game/scripts/story_01/bikini.rpy:28
+# game/scripts/story_01/bikini.rpy:26
 translate crowdin ev_008_255a19b4:
 
     # Max 01 "Ладно, идёт!"

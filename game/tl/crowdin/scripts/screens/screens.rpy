@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-07-27 23:15
+﻿# TODO: Translation updated at 2025-08-11 18:01
 
 translate crowdin strings:
 
@@ -19,8 +19,8 @@ translate crowdin strings:
     new "[txt]\n{i}{color=[skill.color]}{size=[sz]}([skill!tcl]. Шанс: [skill.percent]%){/size}{/color}{/i}"
 
     # game/scripts/screens/screens.rpy:308
-    old "{color=#0f0}Бонус\n{/color}"
-    new "{color=#0f0}Бонус\n{/color}"
+    old "{color=#0f0}Бонус{/color}"
+    new "{color=#0f0}Бонус{/color}"
 
     # game/scripts/screens/screens.rpy:308
     old "{skill_percent}%: {skill_name}. Ур.{skill_lvl}\n+{skill_progress}%: опыт применения навыка\n{add_percent:+2.1f}%: {attr} {char}"
@@ -265,10 +265,6 @@ translate crowdin strings:
     # game/scripts/screens/screens.rpy:1307
     old "Особый режим скрытия интерфейса"
     new "Особый режим скрытия интерфейса"
-
-    # game/scripts/screens/screens.rpy:1314
-    old "Активировать чит-меню"
-    new "Активировать чит-меню"
 
     # game/scripts/screens/screens.rpy:1450
     old "История диалогов пуста."

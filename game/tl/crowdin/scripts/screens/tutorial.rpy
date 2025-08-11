@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-07-27 23:15
+﻿# TODO: Translation updated at 2025-08-11 18:01
 
 translate crowdin strings:
 
@@ -198,6 +198,18 @@ translate crowdin strings:
     old "Обязанности по дому"
     new "Обязанности по дому"
 
+    # game/scripts/screens/tutorial.rpy:224
+    old "Вы хотите ознакомиться с особенностями игры?"
+    new "Вы хотите ознакомиться с особенностями игры?"
+
+    # game/scripts/screens/tutorial.rpy:227
+    old "Да, пройти обучение"
+    new "Да, пройти обучение"
+
+    # game/scripts/screens/tutorial.rpy:228
+    old "Нет, я всё знаю"
+    new "Нет, я всё знаю"
+
     # game/scripts/screens/tutorial.rpy:351
     old "Ур.1"
     new "Ур.1"
@@ -261,10 +273,6 @@ translate crowdin strings:
     # game/scripts/screens/tutorial.rpy:613
     old "Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
     new "Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
-
-    # game/scripts/screens/tutorial.rpy:615
-    old "Теперь вы управляете жизнью Макса! Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
-    new "Теперь вы управляете жизнью Макса! Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
 
     # game/scripts/screens/tutorial.rpy:802
     old "Глава 1"

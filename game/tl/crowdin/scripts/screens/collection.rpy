@@ -1,24 +1,24 @@
-﻿# TODO: Translation updated at 2025-07-27 23:15
+﻿# TODO: Translation updated at 2025-08-11 18:01
 
-# game/scripts/screens/collection.rpy:718
+# game/scripts/screens/collection.rpy:713
 translate crowdin compile_puzzle_start_e29c0251:
 
     # "Данное изображение разбито на множество фрагментов."
     "Данное изображение разбито на множество фрагментов."
 
-# game/scripts/screens/collection.rpy:719
+# game/scripts/screens/collection.rpy:714
 translate crowdin compile_puzzle_start_70f9d915:
 
     # "Чтобы правильно его собрать, вам потребуется поворачивать эти фрагменты (при нажатии) и перемещать их (зажать и перетащить в другое место)."
     "Чтобы правильно его собрать, вам потребуется поворачивать эти фрагменты (при нажатии) и перемещать их (зажать и перетащить в другое место)."
 
-# game/scripts/screens/collection.rpy:751
+# game/scripts/screens/collection.rpy:746
 translate crowdin compile_puzzle_win_77c1ec18:
 
     # "Головоломка решена!"
     "Головоломка решена!"
 
-# game/scripts/screens/collection.rpy:752
+# game/scripts/screens/collection.rpy:747
 translate crowdin compile_puzzle_win_7e7566c8:
 
     # "Данное изображение можно в любой момент просмотреть в Галерее."
@@ -98,59 +98,59 @@ translate crowdin strings:
     old "Все персонажи"
     new "Все персонажи"
 
-    # game/scripts/screens/collection.rpy:324
+    # game/scripts/screens/collection.rpy:326
     old "Этот сон ещё не открыт!"
     new "Этот сон ещё не открыт!"
 
-    # game/scripts/screens/collection.rpy:332
+    # game/scripts/screens/collection.rpy:334
     old "Макс скоро увидит этот сон, нужно просто немного подождать..."
     new "Макс скоро увидит этот сон, нужно просто немного подождать..."
 
-    # game/scripts/screens/collection.rpy:340
+    # game/scripts/screens/collection.rpy:342
     old "СПИСОК ТРЕБОВАНИЙ"
     new "СПИСОК ТРЕБОВАНИЙ"
 
-    # game/scripts/screens/collection.rpy:341
+    # game/scripts/screens/collection.rpy:343
     old "СОН #[tooltip]"
     new "СОН #[tooltip]"
 
-    # game/scripts/screens/collection.rpy:357
+    # game/scripts/screens/collection.rpy:359
     old "Выполнено [number] из [total]"
     new "Выполнено [number] из [total]"
 
-    # game/scripts/screens/collection.rpy:483
+    # game/scripts/screens/collection.rpy:486
     old "Это событие ещё не открыто!"
     new "Это событие ещё не открыто!"
 
-    # game/scripts/screens/collection.rpy:515
+    # game/scripts/screens/collection.rpy:516
     old "ГОЛОВОЛОМКА"
     new "ГОЛОВОЛОМКА"
 
-    # game/scripts/screens/collection.rpy:531
+    # game/scripts/screens/collection.rpy:532
     old "Изображение, разбитое на фрагменты ([cols]x[rows])"
     new "Изображение, разбитое на фрагменты ([cols]x[rows])"
 
-    # game/scripts/screens/collection.rpy:536
+    # game/scripts/screens/collection.rpy:537
     old "{i}Решать головоломку{/i}"
     new "{i}Решать головоломку{/i}"
 
-    # game/scripts/screens/collection.rpy:540
+    # game/scripts/screens/collection.rpy:541
     old "{i}Просмотреть изображение{/i}"
     new "{i}Просмотреть изображение{/i}"
 
-    # game/scripts/screens/collection.rpy:569
+    # game/scripts/screens/collection.rpy:570
     old "НАГРАДА"
     new "НАГРАДА"
 
-    # game/scripts/screens/collection.rpy:581
+    # game/scripts/screens/collection.rpy:582
     old "Добавить в событие"
     new "Добавить в событие"
 
-    # game/scripts/screens/collection.rpy:641
+    # game/scripts/screens/collection.rpy:636
     old "Собрать повторно"
     new "Собрать повторно"
 
-    # game/scripts/screens/collection.rpy:734
+    # game/scripts/screens/collection.rpy:729
     old "Прогресс с головоломкой будет утерян.\nВы уверены, что хотите вернуться в Галерею?"
     new "Прогресс с головоломкой будет утерян.\nВы уверены, что хотите вернуться в Галерею?"
 

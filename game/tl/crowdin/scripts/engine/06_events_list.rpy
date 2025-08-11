@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-07-27 23:15
+﻿# TODO: Translation updated at 2025-08-11 18:01
 
 translate crowdin strings:
 
@@ -19,6 +19,14 @@ translate crowdin strings:
     new "Взломать блогершу"
 
     # game/scripts/engine/06_events_list.rpy:31
+    old "Стримерша"
+    new "Стримерша"
+
+    # game/scripts/engine/06_events_list.rpy:31
+    old "Вредная привычка"
+    new "Вредная привычка"
+
+    # game/scripts/engine/06_events_list.rpy:31
     old "Арахнофобия"
     new "Арахнофобия"
 
@@ -31,12 +39,20 @@ translate crowdin strings:
     new "Стоит ли рисковать?"
 
     # game/scripts/engine/06_events_list.rpy:31
+    old "Школьный секретик"
+    new "Школьный секретик"
+
+    # game/scripts/engine/06_events_list.rpy:31
     old "Наставник"
     new "Наставник"
 
     # game/scripts/engine/06_events_list.rpy:31
     old "Застенчивая школьница"
     new "Застенчивая школьница"
+
+    # game/scripts/engine/06_events_list.rpy:31
+    old "Утренние шалости"
+    new "Утренние шалости"
 
     # game/scripts/engine/06_events_list.rpy:31
     old "Кнут или пряник?"

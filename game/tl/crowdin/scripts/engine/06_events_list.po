@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-07-27 23:15 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/06_events_list.rpy:31
+﻿# TODO: Translation updated at 2025-08-11 18:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/06_events_list.rpy:31
 msgid "Любопытное содержимое"
 msgstr "Любопытное содержимое"
 
@@ -15,6 +15,14 @@ msgid "Взломать блогершу"
 msgstr "Взломать блогершу"
 
 # game/scripts/engine/06_events_list.rpy:31
+msgid "Стримерша"
+msgstr "Стримерша"
+
+# game/scripts/engine/06_events_list.rpy:31
+msgid "Вредная привычка"
+msgstr "Вредная привычка"
+
+# game/scripts/engine/06_events_list.rpy:31
 msgid "Арахнофобия"
 msgstr "Арахнофобия"
 
@@ -27,12 +35,20 @@ msgid "Стоит ли рисковать?"
 msgstr "Стоит ли рисковать?"
 
 # game/scripts/engine/06_events_list.rpy:31
+msgid "Школьный секретик"
+msgstr "Школьный секретик"
+
+# game/scripts/engine/06_events_list.rpy:31
 msgid "Наставник"
 msgstr "Наставник"
 
 # game/scripts/engine/06_events_list.rpy:31
 msgid "Застенчивая школьница"
 msgstr "Застенчивая школьница"
+
+# game/scripts/engine/06_events_list.rpy:31
+msgid "Утренние шалости"
+msgstr "Утренние шалости"
 
 # game/scripts/engine/06_events_list.rpy:31
 msgid "Кнут или пряник?"

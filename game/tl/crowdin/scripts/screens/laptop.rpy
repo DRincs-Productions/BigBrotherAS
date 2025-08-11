@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-07-27 23:15
+﻿# TODO: Translation updated at 2025-08-11 18:01
 
 translate crowdin strings:
 
@@ -78,75 +78,75 @@ translate crowdin strings:
     old "Последнее начисление:"
     new "Последнее начисление:"
 
-    # game/scripts/screens/laptop.rpy:560
+    # game/scripts/screens/laptop.rpy:562
     old "Общение"
     new "Общение"
 
-    # game/scripts/screens/laptop.rpy:575
+    # game/scripts/screens/laptop.rpy:577
     old "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
     new "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
 
-    # game/scripts/screens/laptop.rpy:583
+    # game/scripts/screens/laptop.rpy:585
     old "Вы уже оплатили этот курс и можете в любой момент включить следующий доступный видеоурок."
     new "Вы уже оплатили этот курс и можете в любой момент включить следующий доступный видеоурок."
 
-    # game/scripts/screens/laptop.rpy:584
+    # game/scripts/screens/laptop.rpy:586
     old "Занятие [learn] из 3"
     new "Занятие [learn] из 3"
 
-    # game/scripts/screens/laptop.rpy:587
+    # game/scripts/screens/laptop.rpy:589
     old "НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА"
     new "НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА"
 
-    # game/scripts/screens/laptop.rpy:591
+    # game/scripts/screens/laptop.rpy:593
     old "ВЫ УЧИЛИСЬ СОВСЕМ НЕДАВНО. СДЕЛАЙТЕ ПЕРЕРЫВ!"
     new "ВЫ УЧИЛИСЬ СОВСЕМ НЕДАВНО. СДЕЛАЙТЕ ПЕРЕРЫВ!"
 
-    # game/scripts/screens/laptop.rpy:599
+    # game/scripts/screens/laptop.rpy:601
     old "Количество занятий: 3"
     new "Количество занятий: 3"
 
-    # game/scripts/screens/laptop.rpy:601
+    # game/scripts/screens/laptop.rpy:603
     old "ПРИОБРЕСТИ ЭТОТ КУРС ЗА $[cource.price]"
     new "ПРИОБРЕСТИ ЭТОТ КУРС ЗА $[cource.price]"
 
-    # game/scripts/screens/laptop.rpy:653
+    # game/scripts/screens/laptop.rpy:655
     old "Удвоение дохода из любых источников"
     new "Удвоение дохода из любых источников"
 
-    # game/scripts/screens/laptop.rpy:735
+    # game/scripts/screens/laptop.rpy:737
     old "ШОУ МЕЛИССЫ!"
     new "ШОУ МЕЛИССЫ!"
 
-    # game/scripts/screens/laptop.rpy:776
+    # game/scripts/screens/laptop.rpy:778
     old "ЦЕЛЬ СБОРОВ!"
     new "ЦЕЛЬ СБОРОВ!"
 
-    # game/scripts/screens/laptop.rpy:780
+    # game/scripts/screens/laptop.rpy:782
     old "Покрасоваться перед зрителями..."
     new "Покрасоваться перед зрителями..."
 
-    # game/scripts/screens/laptop.rpy:782
+    # game/scripts/screens/laptop.rpy:784
     old "Наслаждаться леденцом..."
     new "Наслаждаться леденцом..."
 
-    # game/scripts/screens/laptop.rpy:784
+    # game/scripts/screens/laptop.rpy:786
     old "Переодеться в другую одежду..."
     new "Переодеться в другую одежду..."
 
-    # game/scripts/screens/laptop.rpy:794
+    # game/scripts/screens/laptop.rpy:796
     old "Дразнить зрителей грудью..."
     new "Дразнить зрителей грудью..."
 
-    # game/scripts/screens/laptop.rpy:796
+    # game/scripts/screens/laptop.rpy:798
     old "Дразнить зрителей попкой..."
     new "Дразнить зрителей попкой..."
 
-    # game/scripts/screens/laptop.rpy:798
+    # game/scripts/screens/laptop.rpy:800
     old "Попасть на мою приватную трансляцию..."
     new "Попасть на мою приватную трансляцию..."
 
-    # game/scripts/screens/laptop.rpy:809
+    # game/scripts/screens/laptop.rpy:811
     old "${} из ${}"
     new "${} из ${}"
 
