@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-07-29 08:38\n"
+"PO-Revision-Date: 2025-08-11 15:33\n"
 
-# TODO: Translation updated at 2025-07-27 23:15 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/tutorial.rpy:30
+# TODO: Translation updated at 2025-08-11 18:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/tutorial.rpy:30
 msgid "Об игре"
 msgstr ""
 
@@ -213,6 +213,18 @@ msgstr "Humor"
 msgid "Обязанности по дому"
 msgstr ""
 
+# game/scripts/screens/tutorial.rpy:224
+msgid "Вы хотите ознакомиться с особенностями игры?"
+msgstr ""
+
+# game/scripts/screens/tutorial.rpy:227
+msgid "Да, пройти обучение"
+msgstr ""
+
+# game/scripts/screens/tutorial.rpy:228
+msgid "Нет, я всё знаю"
+msgstr ""
+
 # game/scripts/screens/tutorial.rpy:351
 msgid "Ур.1"
 msgstr ""
@@ -275,10 +287,6 @@ msgstr ""
 
 # game/scripts/screens/tutorial.rpy:613
 msgid "Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
-msgstr ""
-
-# game/scripts/screens/tutorial.rpy:615
-msgid "Теперь вы управляете жизнью Макса! Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
 msgstr ""
 
 # game/scripts/screens/tutorial.rpy:802
