@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-15 14:07\n"
+"PO-Revision-Date: 2025-08-11 15:34\n"
 
-# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/06_events_list.rpy:31
+# TODO: Translation updated at 2025-08-11 18:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/06_events_list.rpy:31
 msgid "Любопытное содержимое"
 msgstr "Contenido curioso"
 
@@ -29,6 +29,14 @@ msgid "Взломать блогершу"
 msgstr "Hackear al bloguero"
 
 # game/scripts/engine/06_events_list.rpy:31
+msgid "Стримерша"
+msgstr ""
+
+# game/scripts/engine/06_events_list.rpy:31
+msgid "Вредная привычка"
+msgstr "Mal hábito"
+
+# game/scripts/engine/06_events_list.rpy:31
 msgid "Арахнофобия"
 msgstr "Aracnofobia"
 
@@ -41,12 +49,20 @@ msgid "Стоит ли рисковать?"
 msgstr "¿Vale la pena correr el riesgo?"
 
 # game/scripts/engine/06_events_list.rpy:31
+msgid "Школьный секретик"
+msgstr "Secreto escolar"
+
+# game/scripts/engine/06_events_list.rpy:31
 msgid "Наставник"
 msgstr "Mentor"
 
 # game/scripts/engine/06_events_list.rpy:31
 msgid "Застенчивая школьница"
 msgstr "Colegiala tímida"
+
+# game/scripts/engine/06_events_list.rpy:31
+msgid "Утренние шалости"
+msgstr "Payasadas matutinas"
 
 # game/scripts/engine/06_events_list.rpy:31
 msgid "Кнут или пряник?"
