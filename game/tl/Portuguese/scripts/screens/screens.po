@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2025-07-29 08:39\n"
+"PO-Revision-Date: 2025-08-11 15:34\n"
 
-# TODO: Translation updated at 2025-07-27 23:15 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/screens.rpy:141
+# TODO: Translation updated at 2025-08-11 18:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/screens.rpy:141
 msgid "У меня на счету $[mgg.money]!"
 msgstr ""
 
@@ -30,9 +30,8 @@ msgid "[txt]\n"
 msgstr ""
 
 # game/scripts/screens/screens.rpy:308
-msgid "{color=#0f0}Бонус\n"
-"{/color}"
-msgstr "Bônus"
+msgid "{color=#0f0}Бонус{/color}"
+msgstr ""
 
 # game/scripts/screens/screens.rpy:308
 msgid "{skill_percent}%: {skill_name}. Ур.{skill_lvl}\n"
@@ -280,10 +279,6 @@ msgstr "Mostrar todas as tarefas"
 # game/scripts/screens/screens.rpy:1307
 msgid "Особый режим скрытия интерфейса"
 msgstr "Modo especial de ocultação de interface"
-
-# game/scripts/screens/screens.rpy:1314
-msgid "Активировать чит-меню"
-msgstr "Ativar menu de truques"
 
 # game/scripts/screens/screens.rpy:1450
 msgid "История диалогов пуста."
