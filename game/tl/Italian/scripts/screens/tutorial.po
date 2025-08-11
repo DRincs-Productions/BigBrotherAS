@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-08-08 10:37\n"
+"PO-Revision-Date: 2025-08-11 15:34\n"
 
-# TODO: Translation updated at 2025-07-27 23:15 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/tutorial.rpy:30
+# TODO: Translation updated at 2025-08-11 18:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/tutorial.rpy:30
 msgid "Об игре"
 msgstr "Info sul gioco"
 
@@ -217,6 +217,18 @@ msgstr "Umore"
 msgid "Обязанности по дому"
 msgstr "Mansioni domestiche"
 
+# game/scripts/screens/tutorial.rpy:224
+msgid "Вы хотите ознакомиться с особенностями игры?"
+msgstr ""
+
+# game/scripts/screens/tutorial.rpy:227
+msgid "Да, пройти обучение"
+msgstr ""
+
+# game/scripts/screens/tutorial.rpy:228
+msgid "Нет, я всё знаю"
+msgstr ""
+
 # game/scripts/screens/tutorial.rpy:351
 msgid "Ур.1"
 msgstr "Liv.1"
@@ -280,10 +292,6 @@ msgstr "l'umore di Alice"
 # game/scripts/screens/tutorial.rpy:613
 msgid "Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
 msgstr "Qui troverete informazioni su cosa e come è impostato il gioco..."
-
-# game/scripts/screens/tutorial.rpy:615
-msgid "Теперь вы управляете жизнью Макса! Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
-msgstr "Ora sei tu a controllare la vita di Max! Qui troverete informazioni su cosa e come funziona questo gioco..."
 
 # game/scripts/screens/tutorial.rpy:802
 msgid "Глава 1"
