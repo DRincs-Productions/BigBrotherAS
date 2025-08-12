@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-08-11 15:34\n"
+"PO-Revision-Date: 2025-08-12 06:13\n"
 
 # TODO: Translation updated at 2025-08-11 18:01 #|#|# # game/scripts/story_01/homework.rpy:9 #-#-# translate crowdin ev_034_38a2b149:
 msgid "[_Ann_s_10_] Так, Макс, а ну-ка постой! Я только сейчас вспомнила... Ты коробки разобрал?"
@@ -964,7 +964,7 @@ msgstr "{i}comprare la spesa per la settimana (sul conto della mamma){/i}"
 
 # game/scripts/story_01/homework.rpy:175
 msgid "{i}купить продуктов на неделю {color=#0f0}(куплено){/color}{/i}"
-msgstr ""
+msgstr "{i}Comprare prodotti per una settimana {color=#0f0}(Comprato){/color}{/i}"
 
 # game/scripts/story_01/homework.rpy:175
 msgid "{i}выбрать сладости...{/i}"
