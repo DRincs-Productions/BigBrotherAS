@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-08-11 15:34\n"
+"PO-Revision-Date: 2025-08-12 07:30\n"
 
 # TODO: Translation updated at 2025-08-11 18:01 #|#|# # game/scripts/story_01/mia.rpy:12 #-#-# translate crowdin ev_063_eb6a6385:
 msgid "[_tMax_s_11_] Звонок в ворота! Похоже, к нам кто-то приехал..."
@@ -1782,7 +1782,7 @@ msgstr "{i}portare la scaletta all'auto{/i}"
 
 # game/scripts/story_01/mia.rpy:830
 msgid "{i}отправиться к Мие домой{/i}"
-msgstr ""
+msgstr "{i}andare a casa di Mia{/i}"
 
 # game/scripts/story_01/mia.rpy:866
 msgid "{i}пойти к ванной комнате{/i}"
