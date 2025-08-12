@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-08-11 15:34\n"
+"PO-Revision-Date: 2025-08-12 07:30\n"
 
 # TODO: Translation updated at 2025-08-11 18:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/tutorial.rpy:30
 msgid "Об игре"
@@ -219,15 +219,15 @@ msgstr "Mansioni domestiche"
 
 # game/scripts/screens/tutorial.rpy:224
 msgid "Вы хотите ознакомиться с особенностями игры?"
-msgstr ""
+msgstr "Vuoi familiarizzare con le caratteristiche del gioco?"
 
 # game/scripts/screens/tutorial.rpy:227
 msgid "Да, пройти обучение"
-msgstr ""
+msgstr "Sì, seguire il tutorial"
 
 # game/scripts/screens/tutorial.rpy:228
 msgid "Нет, я всё знаю"
-msgstr ""
+msgstr "No, so già tutto"
 
 # game/scripts/screens/tutorial.rpy:351
 msgid "Ур.1"
