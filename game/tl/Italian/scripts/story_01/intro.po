@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-08-11 15:34\n"
+"PO-Revision-Date: 2025-08-12 06:13\n"
 
 # TODO: Translation updated at 2025-08-11 18:01 #|#|# # game/scripts/story_01/intro.rpy:8 #-#-# translate crowdin intro_52864ee0:
 msgid "[_Max_s_01_] Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку. [nointeract]"
@@ -154,5 +154,5 @@ msgstr "{i}Iniziare il gioco (Capitolo 1){/i}"
 
 # game/scripts/story_01/intro.rpy:69
 msgid "{i}пройти обучение{/i}"
-msgstr ""
+msgstr "{i}seguire un corso di formazione{/i}"
 
