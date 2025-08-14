@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-03-15 14:03\n"
+"PO-Revision-Date: 2025-07-29 08:40\n"
 
-# TODO: Translation updated at 2025-03-08 15:49 #|#|# # game/scripts/engine/interact.rpy:37 #-#-# translate crowdin talks_start_41e41361:
+# TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/engine/interact.rpy:37 #-#-# translate crowdin talks_start_41e41361:
 msgid "[_Alice_s_00_] Ну же, Макс, что хотел? [nointeract]"
 msgstr "[_Alice_s_00_] Hadi Max, ne istiyordun? [nointeract]"
 
@@ -77,8 +77,8 @@ msgid "Тебе не жарко в этом купальнике?"
 msgstr "Bu mayonun içinde çok ateşli değil misin?"
 
 # game/scripts/engine/interact.rpy:192
-msgid "Значит Алекс, да?"
-msgstr "Öyle mi Alex?"
+msgid "Значит, Алекс, да?"
+msgstr ""
 
 # game/scripts/engine/interact.rpy:192
 msgid "Хорошо загорается?"

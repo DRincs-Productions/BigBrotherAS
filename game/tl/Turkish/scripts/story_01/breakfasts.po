@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-03-15 14:04\n"
+"PO-Revision-Date: 2025-07-29 08:40\n"
 
-# TODO: Translation updated at 2025-03-08 15:49 #|#|# # game/scripts/story_01/breakfasts.rpy:30 #-#-# translate crowdin ev_breakfast_r1_6e8dcf3c:
+# TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/story_01/breakfasts.rpy:30 #-#-# translate crowdin ev_breakfast_r1_6e8dcf3c:
 msgid "[_Ann_s_01_] Всех ещё раз с добрым утром, всем приятного аппетита! Ешьте, пока не остыло."
 msgstr "[_Ann_s_01_] Herkese tekrar günaydın ve afiyet olsun! Soğumadan yiyin."
 
@@ -80,9 +80,9 @@ msgstr "[_Ann_s_01_] Pekala, bu kadar yeter. Konuyu değiştirelim. Örneğin, b
 msgid "[_Max_s_02_] Поздравляю, Лиза!"
 msgstr "[_Max_s_02_] Tebrikler, Lisa!"
 
-# game/scripts/story_01/breakfasts.rpy:61 #-#-# translate crowdin ev_002_219d79c3:
-msgid "[_Lisa_s_01_] Спасибо, Макс. Честно говоря, не знаю даже чего ожидать. Новое место, новая школа, новый коллектив..."
-msgstr "[_Lisa_s_01_] Teşekkürler, Max. Dürüst olmak gerekirse, ne bekleyeceğimi bile bilmiyorum. Yeni bir yer, yeni bir okul, yeni bir takım..."
+# game/scripts/story_01/breakfasts.rpy:61 #-#-# translate crowdin ev_002_7b06d392:
+msgid "[_Lisa_s_01_] Спасибо, Макс. Честно говоря, не знаю даже, чего ожидать. Новое место, новая школа, новый коллектив..."
+msgstr ""
 
 # game/scripts/story_01/breakfasts.rpy:62 #-#-# translate crowdin ev_002_7172ad78:
 msgid "[_Max_s_04_] Ну, ты справишься!"
@@ -116,9 +116,9 @@ msgstr "[_Ann_s_04_] Tamam, kahvaltı için teşekkürler millet. Benim de işe 
 msgid "[_Max_s_12_] Не сомневаюсь..."
 msgstr "[_Max_s_12_] Eminim yapacaksın..."
 
-# game/scripts/story_01/breakfasts.rpy:70 #-#-# translate crowdin ev_002_c2b369a9:
-msgid "[_Ann_s_00_] Да, Макс... Я когда прибиралась, нашла какие-то коробки. Видимо, остались с ремонта. Посмотри, если ничего ценного нет, потом выбросим. Сейчас они у тебя в комнате."
-msgstr "[_Ann_s_00_] Evet, Max. Temizlik yaparken birkaç kutu buldum. Muhtemelen tadilattan kalmıştır. Bak bakalım değerli bir şey var mı, sonra atarız. Şu anda senin odandalar."
+# game/scripts/story_01/breakfasts.rpy:70 #-#-# translate crowdin ev_002_8394ad7b:
+msgid "[_Ann_s_00_] Да, Макс... Я когда прибиралась, нашла какие-то коробки. Видимо, остались после ремонта. Посмотри. Если ничего ценного нет, потом выбросим. Сейчас они у тебя в комнате."
+msgstr ""
 
 # game/scripts/story_01/breakfasts.rpy:71 #-#-# translate crowdin ev_002_0fc9dfdf:
 msgid "[_Max_s_13_] А что за коробки?"

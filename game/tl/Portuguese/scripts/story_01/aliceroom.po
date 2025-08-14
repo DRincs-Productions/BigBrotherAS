@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2025-03-15 14:04\n"
+"PO-Revision-Date: 2025-07-29 08:39\n"
 
-# TODO: Translation updated at 2025-03-08 15:49 #|#|# # game/scripts/story_01/aliceroom.rpy:10 #-#-# translate crowdin ev_alice_dressed_51996b14:
+# TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/story_01/aliceroom.rpy:10 #-#-# translate crowdin ev_alice_dressed_51996b14:
 msgid "[_tMax_s_11_] Сейчас Алиса должна собираться, чтобы отправиться вместе со всеми по магазинам... [nointeract]"
 msgstr ""
 
@@ -24,8 +24,8 @@ msgstr ""
 msgid "[_tMax_s_03_] О, вот это класс! Очень хочется присвистнуть от восхищения, как Алиса переодевается, но это чревато переломами... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/aliceroom.rpy:65 #-#-# translate crowdin ev_alice_dressed_voy_door_6349aa0c:
-msgid "[_Alice_s_14_] Макс! Ты офигел что ли?! {p=2}{nw}"
+# game/scripts/story_01/aliceroom.rpy:65 #-#-# translate crowdin ev_alice_dressed_voy_door_a9f58824:
+msgid "[_Alice_s_14_] Макс! Ты офигел, что ли?! {p=2}{nw}"
 msgstr ""
 
 # game/scripts/story_01/aliceroom.rpy:71 #-#-# translate crowdin ev_alice_dressed_voy_door_5db8bd0e:
@@ -40,16 +40,16 @@ msgstr ""
 msgid "[_Alice_s_02_] Вот и прекрасно. Дверь закрой! [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/aliceroom.rpy:100 #-#-# translate crowdin ev_alice_dressed_moment2_6349aa0c:
-msgid "[_Alice_s_14_] Макс! Ты офигел что ли?! {p=2}{nw}"
+# game/scripts/story_01/aliceroom.rpy:100 #-#-# translate crowdin ev_alice_dressed_moment2_a9f58824:
+msgid "[_Alice_s_14_] Макс! Ты офигел, что ли?! {p=2}{nw}"
 msgstr ""
 
 # game/scripts/story_01/aliceroom.rpy:106 #-#-# translate crowdin ev_alice_dressed_moment2_5db8bd0e:
 msgid "[_Alice_s_15_] Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла! [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/aliceroom.rpy:119 #-#-# translate crowdin ev_alice_dressed_moment1_84056b1d:
-msgid "[_Alice_s_15_] Макс! Ты офигел что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла! [nointeract]"
+# game/scripts/story_01/aliceroom.rpy:119 #-#-# translate crowdin ev_alice_dressed_moment1_e8828fa4:
+msgid "[_Alice_s_15_] Макс! Ты офигел, что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла! [nointeract]"
 msgstr ""
 
 # game/scripts/story_01/aliceroom.rpy:129 #-#-# translate crowdin ev_alice_dressed_in_front_of_max_08a70370:

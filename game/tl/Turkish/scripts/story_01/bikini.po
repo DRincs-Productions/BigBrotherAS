@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-03-15 14:04\n"
+"PO-Revision-Date: 2025-07-29 08:40\n"
 
-# TODO: Translation updated at 2025-03-08 15:49 #|#|# # game/scripts/story_01/bikini.rpy:8 #-#-# translate crowdin ev_008_3c08b543:
+# TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/story_01/bikini.rpy:8 #-#-# translate crowdin ev_008_3c08b543:
 msgid "[_Lisa_s_09_] Жарко... Но у меня другого и нет. Ты же знаешь, что наши вещи пропали. Вот там и все мои купальники были..."
 msgstr "[_Lisa_s_09_] Çok sıcak. Ama elimdeki tek şey bu. Eşyalarımızın kayıp olduğunu biliyorsun. Bütün yüzme kıyafetlerim oradaydı..."
 
@@ -20,9 +20,9 @@ msgstr "[_Lisa_s_09_] Çok sıcak. Ama elimdeki tek şey bu. Eşyalarımızın k
 msgid "[_Max_s_01_] А ты голышом попробуй!"
 msgstr "[_Max_s_01_] Çıplak dene!"
 
-# game/scripts/story_01/bikini.rpy:10 #-#-# translate crowdin ev_008_9e85269a:
-msgid "[_Lisa_s_02_] Очень смешно, Макс. Я, если и стану раздеваться, то только после тебя."
-msgstr "[_Lisa_s_02_] Çok komik, Max. Eğer kıyafetlerimi çıkaracaksam, bu senden sonra olacak."
+# game/scripts/story_01/bikini.rpy:10 #-#-# translate crowdin ev_008_4e8aac3c:
+msgid "[_Lisa_s_02_] Очень смешно, Макс. Я если и стану раздеваться, то только после тебя."
+msgstr ""
 
 # game/scripts/story_01/bikini.rpy:11 #-#-# translate crowdin ev_008_9b82330e:
 msgid "[_Max_s_04_] Да легко! Давай лучше одновременно..."
@@ -44,9 +44,9 @@ msgstr "[_Lisa_s_04_] Bilirsin işte. Olabildiğince açık. Ama tamamen açık 
 msgid "[_Max_s_13_] Не совсем понятно, но интересно."
 msgstr "[_Max_s_13_] Tam olarak açık değil ama ilginç."
 
-# game/scripts/story_01/bikini.rpy:23 #-#-# translate crowdin ev_008_cdb3ed69:
-msgid "[_Lisa_s_02_] А у тебя разве деньги на такое есть? Ты же нигде не работаешь и я что-то сомневаюсь, что ты умеешь шить купальники..."
-msgstr "[_Lisa_s_02_] Bunun için paran var mı? Hiçbir yerde çalışmıyorsun ve yüzme kıyafeti dikmeyi bildiğinden de şüpheliyim..."
+# game/scripts/story_01/bikini.rpy:23 #-#-# translate crowdin ev_008_b15d13fe:
+msgid "[_Lisa_s_02_] А у тебя разве деньги на такое есть? Ты же нигде не работаешь. И я что-то сомневаюсь, что ты умеешь шить купальники..."
+msgstr ""
 
 # game/scripts/story_01/bikini.rpy:24 #-#-# translate crowdin ev_008_c86f433c:
 msgid "[_Max_s_12_] Я что-нибудь придумаю, вот увидишь! Может не сразу, но..."

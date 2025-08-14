@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-03-15 14:05\n"
+"PO-Revision-Date: 2025-08-11 15:33\n"
 
-# TODO: Translation updated at 2025-03-08 15:49 #|#|# # game/scripts/story_01/homework.rpy:9 #-#-# translate crowdin ev_034_38a2b149:
+# TODO: Translation updated at 2025-08-11 18:01 #|#|# # game/scripts/story_01/homework.rpy:9 #-#-# translate crowdin ev_034_38a2b149:
 msgid "[_Ann_s_10_] Так, Макс, а ну-ка постой! Я только сейчас вспомнила... Ты коробки разобрал?"
 msgstr ""
 
@@ -76,27 +76,27 @@ msgstr ""
 msgid "[_tMax_s_12_] Может, уточнить у мамы, пока она не уехала на работу? [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:55 #-#-# translate crowdin ev_035_4375512d:
+# game/scripts/story_01/homework.rpy:54 #-#-# translate crowdin ev_035_4375512d:
 msgid "[_Ann_s_13_] Макс! Я же учила тебя стучаться! {p=2}{nw}"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:60 #-#-# translate crowdin ev_035_16536304:
+# game/scripts/story_01/homework.rpy:59 #-#-# translate crowdin ev_035_16536304:
 msgid "[_Max_s_05_] Ого! Шикарно выглядишь, мам!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:61 #-#-# translate crowdin ev_035_ade024fe:
+# game/scripts/story_01/homework.rpy:60 #-#-# translate crowdin ev_035_ade024fe:
 msgid "[_Ann_s_14_] Нельзя вот так без предупреждения врываться в комнату! Что-то случилось?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:62 #-#-# translate crowdin ev_035_c5127500:
+# game/scripts/story_01/homework.rpy:61 #-#-# translate crowdin ev_035_c5127500:
 msgid "[_Max_s_02_] Да, случилось! А чем бассейн чистят?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:63 #-#-# translate crowdin ev_035_95e38250:
+# game/scripts/story_01/homework.rpy:62 #-#-# translate crowdin ev_035_95e38250:
 msgid "[_Ann_s_10_] Сачком специальным. Я где-то его видела, но не помню где. Найдёшь... И вообще, можно было подождать, пока я оденусь!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:64 #-#-# translate crowdin ev_035_e85d5e71:
+# game/scripts/story_01/homework.rpy:63 #-#-# translate crowdin ev_035_e85d5e71:
 msgid "[_Max_s_04_] Виноват, не подумал! Спасибо, ухожу..."
 msgstr ""
 
@@ -108,844 +108,844 @@ msgstr ""
 msgid "[_tMax_s_11_] Так, и чем же мне чистить бассейн? Надеюсь, здесь есть какое-то приспособление. И я, кажется, знаю какое..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:86 #-#-# translate crowdin ev_036_a0bc9cb9:
+# game/scripts/story_01/homework.rpy:88 #-#-# translate crowdin ev_036_a0bc9cb9:
 msgid "[_tMax_s_00_] Да, похоже, это именно то, с помощью чего чистят бассейн... Не так уж и сложно, разве что нудно. Но может за оперативность мама даст мне больше карманных денег?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:88 #-#-# translate crowdin ev_036_63b10658:
+# game/scripts/story_01/homework.rpy:90 #-#-# translate crowdin ev_036_63b10658:
 msgid "[_tMax_s_15_] Кстати, из-за этого переезда я совсем забыл, что не получил карманных денег на эту неделю! Нужно будет обязательно поговорить об этом с мамой... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:96 #-#-# translate crowdin ev_036_efef2760:
+# game/scripts/story_01/homework.rpy:99 #-#-# translate crowdin ev_036_efef2760:
 msgid "[_tMax_s_16_] Эх... Хоть это занятие и не сложное, но такое нудное. Да и времени неплохо забирает."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:97 #-#-# translate crowdin ev_036_aae7e5f2:
+# game/scripts/story_01/homework.rpy:100 #-#-# translate crowdin ev_036_aae7e5f2:
 msgid "[_tMax_s_12_] Как бы там ни было, но мне обязательно нужно отработать деньги, которые дала мама..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:99 #-#-# translate crowdin ev_036_98c0ad0a:
+# game/scripts/story_01/homework.rpy:102 #-#-# translate crowdin ev_036_98c0ad0a:
 msgid "[_tMax_s_11_] Хотя, на что я жалуюсь? Ведь в чистом бассейне плавать и резвиться куда приятнее... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:121 #-#-# translate crowdin ev_037_574f9563:
+# game/scripts/story_01/homework.rpy:124 #-#-# translate crowdin ev_037_574f9563:
 msgid "[_Ann_s_02_] Да, Макс, я заметила, когда шла по двору, что бассейн стал чище. Молодец, справился! На недельку этого должно хватить, как мне кажется."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:122 #-#-# translate crowdin ev_037_14041ae9:
+# game/scripts/story_01/homework.rpy:125 #-#-# translate crowdin ev_037_14041ae9:
 msgid "[_Max_s_11_] Слушай, мы ведь совсем забыли про мои карманные на этой неделе. Раз уж я такой молодец, то может быть дашь мне чуть больше, чем обычно?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:126 #-#-# translate crowdin ev_037_9bae9186:
+# game/scripts/story_01/homework.rpy:129 #-#-# translate crowdin ev_037_9bae9186:
 msgid "[_Ann_s_14_] Макс, а ты не думал подыскать себе какую-нибудь работу, чтобы целыми днями дома не сидеть без дела?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:127 #-#-# translate crowdin ev_037_9283c8de:
+# game/scripts/story_01/homework.rpy:130 #-#-# translate crowdin ev_037_9283c8de:
 msgid "[_Max_s_13_] Обязательно подыщу! Только сперва по дому все необходимые дела научусь делать. Ты же говорила, что нужно будет что-то ещё?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:131 #-#-# translate crowdin ev_037_7d75c159:
+# game/scripts/story_01/homework.rpy:134 #-#-# translate crowdin ev_037_7d75c159:
 msgid "[_Ann_s_01_] Да, было бы неплохо закупиться всеми необходимыми продуктами, чтобы хватило на неделю. Сходишь завтра в магазин?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:132 #-#-# translate crowdin ev_037_dcfb6ca3:
+# game/scripts/story_01/homework.rpy:135 #-#-# translate crowdin ev_037_dcfb6ca3:
 msgid "[_Max_s_01_] Конечно, не вопрос. С тебя список, что купить. Ну и деньги..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:133 #-#-# translate crowdin ev_037_a34de86f:
+# game/scripts/story_01/homework.rpy:136 #-#-# translate crowdin ev_037_a34de86f:
 msgid "[_Ann_s_00_] Так, Макс... Я даю тебе карманные $30 за эту неделю, за чистку бассейна $20 и $10 за поход в магазин."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:134 #-#-# translate crowdin ev_037_3612caf3:
+# game/scripts/story_01/homework.rpy:137 #-#-# translate crowdin ev_037_3612caf3:
 msgid "[_Max_s_03_] Спасибо, мам! Ты лучшая!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:135 #-#-# translate crowdin ev_037_92d99cf8:
+# game/scripts/story_01/homework.rpy:138 #-#-# translate crowdin ev_037_92d99cf8:
 msgid "[_Ann_s_01_] Ну, и список продуктов держи вместе с деньгами на них. Тебе должно хватить."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:136 #-#-# translate crowdin ev_037_a76041ca:
+# game/scripts/story_01/homework.rpy:139 #-#-# translate crowdin ev_037_a76041ca:
 msgid "[_Max_s_02_] Отлично! Завтра обязательно схожу."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:140 #-#-# translate crowdin ev_037_15468955:
+# game/scripts/story_01/homework.rpy:143 #-#-# translate crowdin ev_037_15468955:
 msgid "[_Ann_s_03_] Вот и замечательно. А я... Не помнишь, что хотела? Ах, да... Принять ванну..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:141 #-#-# translate crowdin ev_037_822ebb5f:
+# game/scripts/story_01/homework.rpy:144 #-#-# translate crowdin ev_037_822ebb5f:
 msgid "[_Max_s_04_] Точно, мам!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:145 #-#-# translate crowdin ev_037_8fcedd95:
+# game/scripts/story_01/homework.rpy:148 #-#-# translate crowdin ev_037_8fcedd95:
 msgid "[_tMax_s_16_] Придётся завтра прогуляться до ближайшего продуктового магазина..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:146 #-#-# translate crowdin ev_037_50c78340:
+# game/scripts/story_01/homework.rpy:149 #-#-# translate crowdin ev_037_50c78340:
 msgid "[_tMax_s_03_] Так уж и быть, постараюсь выкроить часок из моего и без того забитого делами дня."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:162 #-#-# translate crowdin ev_042_acc7bbe8:
+# game/scripts/story_01/homework.rpy:165 #-#-# translate crowdin ev_042_acc7bbe8:
 msgid "[_tMax_s_00_] Пора идти в магазин за продуктами. Вроде, ничего не забыл, вперёд..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:164 #-#-# translate crowdin ev_042_723dd2b4:
+# game/scripts/story_01/homework.rpy:167 #-#-# translate crowdin ev_042_723dd2b4:
 msgid "[_tMax_s_12_] Скоро Алиса начнёт готовить, а я до сих пор в магазин за продуктами не сходил! Вроде, ничего не забыл, вперёд..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:168 #-#-# translate crowdin ev_042_7d2cb603:
+# game/scripts/story_01/homework.rpy:171 #-#-# translate crowdin ev_042_7d2cb603:
 msgid "[_tMax_s_01_] Хорошо, что до магазина идти не очень далеко. Но всё равно, небольшая прогулка, да получается."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:173 #-#-# translate crowdin ev_042_grocerystore_e0c2a833:
+# game/scripts/story_01/homework.rpy:176 #-#-# translate crowdin ev_042_grocerystore_e0c2a833:
 msgid "[_tMax_s_11_] Так, что же мне нужно купить? Надо вспоминать... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:191 #-#-# translate crowdin ev_042_grocerystore_fc2b202b:
+# game/scripts/story_01/homework.rpy:194 #-#-# translate crowdin ev_042_grocerystore_fc2b202b:
 msgid "[_tMax_s_11_] Мне обязательно нужно купить продукты."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:196 #-#-# translate crowdin ev_042_grocerystore_c03e713e:
+# game/scripts/story_01/homework.rpy:199 #-#-# translate crowdin ev_042_grocerystore_c03e713e:
 msgid "[_tMax_s_13_] По отдельности всё, вроде, лёгкое, а когда в пакеты поставишь уже не так-то и легко. Главное, чтобы эти самые пакеты не порвались..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:201 #-#-# translate crowdin ev_042_grocerystore_302ccac2:
+# game/scripts/story_01/homework.rpy:204 #-#-# translate crowdin ev_042_grocerystore_302ccac2:
 msgid "[_tMax_s_04_] Фух! Ну вот, донёс и разложил по своим местам. Без ужина теперь не останемся. Да и маме будет приятно... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:219 #-#-# translate crowdin ev_048_21af5c37:
+# game/scripts/story_01/homework.rpy:222 #-#-# translate crowdin ev_048_21af5c37:
 msgid "[_Ann_s_11_] Сынок, подожди, а ты продукты купил?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:220 #-#-# translate crowdin ev_048_0667b723:
+# game/scripts/story_01/homework.rpy:223 #-#-# translate crowdin ev_048_0667b723:
 msgid "[_Max_s_01_] Да, купил. Всё, как ты написала."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:221 #-#-# translate crowdin ev_048_b3e80ba8:
+# game/scripts/story_01/homework.rpy:224 #-#-# translate crowdin ev_048_b3e80ba8:
 msgid "[_Ann_s_02_] Прекрасно. Надеюсь, я и дальше смогу на тебя полагаться по хозяйству."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:222 #-#-# translate crowdin ev_048_93f04449:
+# game/scripts/story_01/homework.rpy:225 #-#-# translate crowdin ev_048_93f04449:
 msgid "[_Max_s_11_] Может, я что-то ещё могу сделать?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:223 #-#-# translate crowdin ev_048_bb872671:
+# game/scripts/story_01/homework.rpy:226 #-#-# translate crowdin ev_048_bb872671:
 msgid "[_Ann_s_01_] Пока хватит и того, что ты уже сделал. Это же нужно будет сделать на следующей неделе, хорошо?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:224 #-#-# translate crowdin ev_048_07eb979d:
+# game/scripts/story_01/homework.rpy:227 #-#-# translate crowdin ev_048_07eb979d:
 msgid "[_Max_s_03_] Да, мам. Вообще без проблем!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:225 #-#-# translate crowdin ev_048_91cceadf:
+# game/scripts/story_01/homework.rpy:228 #-#-# translate crowdin ev_048_91cceadf:
 msgid "[_Ann_s_03_] Теперь я буду выдавать тебе по понедельникам карманные, а вместе с ними и денежку за чистку бассейна и поход за продуктами. Ты уже смотри сам, когда и что лучше делать."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:226 #-#-# translate crowdin ev_048_13687fbd:
+# game/scripts/story_01/homework.rpy:229 #-#-# translate crowdin ev_048_13687fbd:
 msgid "[_Max_s_02_] Ага, разберусь."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:230 #-#-# translate crowdin ev_048_7be40e3a:
+# game/scripts/story_01/homework.rpy:233 #-#-# translate crowdin ev_048_7be40e3a:
 msgid "[_Ann_s_01_] Вот и славно, какой ты у меня молодец. Всё, я в ванную, меня не беспокоить..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:231 #-#-# translate crowdin ev_048_2bf5e88a:
+# game/scripts/story_01/homework.rpy:234 #-#-# translate crowdin ev_048_2bf5e88a:
 msgid "[_Max_s_04_] Отдыхай."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:243 #-#-# translate crowdin ev_064_bf076e91:
+# game/scripts/story_01/homework.rpy:246 #-#-# translate crowdin ev_064_bf076e91:
 msgid "[_tMax_s_11_] Куда я сейчас могу отправиться? Посмотрим... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:261 #-#-# translate crowdin ev_065_7d2cb603:
+# game/scripts/story_01/homework.rpy:264 #-#-# translate crowdin ev_065_7d2cb603:
 msgid "[_tMax_s_01_] Хорошо, что до магазина идти не очень далеко. Но всё равно, небольшая прогулка, да получается."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:265 #-#-# translate crowdin ev_065_grocerystore_e0c2a833:
+# game/scripts/story_01/homework.rpy:268 #-#-# translate crowdin ev_065_grocerystore_e0c2a833:
 msgid "[_tMax_s_11_] Так, что же мне нужно купить? Надо вспоминать... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:291 #-#-# translate crowdin ev_065_end_c03e713e:
+# game/scripts/story_01/homework.rpy:294 #-#-# translate crowdin ev_065_end_c03e713e:
 msgid "[_tMax_s_13_] По отдельности всё, вроде, лёгкое, а когда в пакеты поставишь уже не так-то и легко. Главное, чтобы эти самые пакеты не порвались..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:295 #-#-# translate crowdin ev_065_end_302ccac2:
+# game/scripts/story_01/homework.rpy:298 #-#-# translate crowdin ev_065_end_302ccac2:
 msgid "[_tMax_s_04_] Фух! Ну вот, донёс и разложил по своим местам. Без ужина теперь не останемся. Да и маме будет приятно... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:304 #-#-# translate crowdin ev_065_end_f1e4b959:
+# game/scripts/story_01/homework.rpy:307 #-#-# translate crowdin ev_065_end_f1e4b959:
 msgid "[_tMax_s_13_] Всё, что получилось купить, купил! Можно спокойно идти домой..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:332 #-#-# translate crowdin ev_077_b373e0af:
+# game/scripts/story_01/homework.rpy:335 #-#-# translate crowdin ev_077_b373e0af:
 msgid "[_Ann_s_01_] Макс, зайди ко мне в комнату. У меня для тебя кое-что есть. [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:339 #-#-# translate crowdin ev_077_763f103c:
+# game/scripts/story_01/homework.rpy:342 #-#-# translate crowdin ev_077_763f103c:
 msgid "[_Ann_s_02_] Теперь я буду выдавать тебе по понедельникам карманные деньги, а ты, в свою очередь, до выходных должен закончить все дела по дому, которые я тебе поручу. Идёт?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:340 #-#-# translate crowdin ev_077_49958a66:
+# game/scripts/story_01/homework.rpy:343 #-#-# translate crowdin ev_077_49958a66:
 msgid "[_Max_s_12_] Видимо, этих дел будет больше, чем на прошлой неделе?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:341 #-#-# translate crowdin ev_077_cbe8cf95:
+# game/scripts/story_01/homework.rpy:344 #-#-# translate crowdin ev_077_cbe8cf95:
 msgid "[_Ann_s_10_] Да, сынок. С бассейном и продуктами ты справился, но было бы замечательно сделать кое-что ещё..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:342 #-#-# translate crowdin ev_077_2e18749c:
+# game/scripts/story_01/homework.rpy:345 #-#-# translate crowdin ev_077_2e18749c:
 msgid "[_Max_s_13_] Я слушаю."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:343 #-#-# translate crowdin ev_077_b32a0aa3:
+# game/scripts/story_01/homework.rpy:346 #-#-# translate crowdin ev_077_b32a0aa3:
 msgid "[_Ann_s_00_] Нужно пропылесосить дом и подровнять газон. Немножко денежек я за это добавлю. Если ты, конечно, всё это сделаешь."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:344 #-#-# translate crowdin ev_077_109bf9e6:
+# game/scripts/story_01/homework.rpy:347 #-#-# translate crowdin ev_077_109bf9e6:
 msgid "[_Max_s_11_] Времени, вроде, предостаточно, так что сделаю. По крайней мере постараюсь, мам."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:345 #-#-# translate crowdin ev_077_00f0a2e8:
+# game/scripts/story_01/homework.rpy:348 #-#-# translate crowdin ev_077_00f0a2e8:
 msgid "[_Ann_s_03_] Если управишься до выходных, то дам... бонус за оперативность."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:346 #-#-# translate crowdin ev_077_2fe3ef2c:
+# game/scripts/story_01/homework.rpy:349 #-#-# translate crowdin ev_077_2fe3ef2c:
 msgid "[_Max_s_05_] Правда?! Скажи, какой? Я сделаю все дела сегодня же!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:347 #-#-# translate crowdin ev_077_52bd18d0:
+# game/scripts/story_01/homework.rpy:350 #-#-# translate crowdin ev_077_52bd18d0:
 msgid "[_Ann_s_04_] А не скажу! И не нужно делать всё сегодня. Распланируй и делай не напрягаясь."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:348 #-#-# translate crowdin ev_077_c83cf7a6:
+# game/scripts/story_01/homework.rpy:351 #-#-# translate crowdin ev_077_c83cf7a6:
 msgid "[_Max_s_01_] Ладно, мам. Как скажешь..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:349 #-#-# translate crowdin ev_077_51d20737:
+# game/scripts/story_01/homework.rpy:352 #-#-# translate crowdin ev_077_51d20737:
 msgid "[_Ann_s_01_] Итак, значит, что у нас получается... Тебе нужно пропылесосить дом, подстричь газон, почистить бассейн и сходить за продуктами."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:350 #-#-# translate crowdin ev_077_9253b668:
+# game/scripts/story_01/homework.rpy:353 #-#-# translate crowdin ev_077_9253b668:
 msgid "[_Max_s_00_] Получается, да."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:351 #-#-# translate crowdin ev_077_43e2ab3b:
+# game/scripts/story_01/homework.rpy:354 #-#-# translate crowdin ev_077_43e2ab3b:
 msgid "[_Ann_s_00_] Я даю тебе карманные $30 за эту неделю, за чистку пола $10, за газон $20, за чистку бассейна $20 и $10 за поход в магазин."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:352 #-#-# translate crowdin ev_077_d6746cca:
+# game/scripts/story_01/homework.rpy:355 #-#-# translate crowdin ev_077_d6746cca:
 msgid "[_Max_s_03_] Спасибо! Я обязательно всё отработаю."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:353 #-#-# translate crowdin ev_077_8b829260:
+# game/scripts/story_01/homework.rpy:356 #-#-# translate crowdin ev_077_8b829260:
 msgid "[_Ann_s_02_] Вот и молодец! Будешь у меня действительно хозяйственным мужчиной."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:354 #-#-# translate crowdin ev_077_8be5f4e7:
+# game/scripts/story_01/homework.rpy:357 #-#-# translate crowdin ev_077_8be5f4e7:
 msgid "[_Max_s_01_] Считай, уже такой! Хорошего тебе дня на работе, мам."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:356 #-#-# translate crowdin ev_077_0bbb327b:
+# game/scripts/story_01/homework.rpy:359 #-#-# translate crowdin ev_077_0bbb327b:
 msgid "[_Ann_s_03_] Спасибо, дорогой. Ступай, маме нужно собираться на работу. [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:364 #-#-# translate crowdin ev_077_ae5f46e6:
+# game/scripts/story_01/homework.rpy:367 #-#-# translate crowdin ev_077_ae5f46e6:
 msgid "[_Ann_s_00_] Сейчас выдам тебе денежку. Дела по дому у тебя всё те же, что и до этого. Чистка пола, бассейна, а так же газон и продукты."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:365 #-#-# translate crowdin ev_077_47affb53:
+# game/scripts/story_01/homework.rpy:368 #-#-# translate crowdin ev_077_47affb53:
 msgid "[_Max_s_11_] Да, мам, я помню. Всё будет сделано."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:368 #-#-# translate crowdin ev_077_36252b40:
+# game/scripts/story_01/homework.rpy:371 #-#-# translate crowdin ev_077_36252b40:
 msgid "[_Ann_s_02_] Ты меня порадовал тем, что сделал всё на прошлой неделе вовремя, поэтому получаешь полную сумму. Это карманные $30 за эту неделю, за чистку пола $10, за газон $20, за чистку бассейна $20 и $10 за поход в магазин."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:369 #-#-# translate crowdin ev_077_d6746cca_1:
+# game/scripts/story_01/homework.rpy:372 #-#-# translate crowdin ev_077_d6746cca_1:
 msgid "[_Max_s_03_] Спасибо! Я обязательно всё отработаю."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:370 #-#-# translate crowdin ev_077_8be400f0:
+# game/scripts/story_01/homework.rpy:373 #-#-# translate crowdin ev_077_8be400f0:
 msgid "[_Ann_s_01_] Постарайся управиться со всеми делами до выходных, чтобы мне не пришлось тебе напоминать или ругаться."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:371 #-#-# translate crowdin ev_077_21571792:
+# game/scripts/story_01/homework.rpy:374 #-#-# translate crowdin ev_077_21571792:
 msgid "[_Max_s_01_] Ладно, мам. Хорошего тебе дня на работе."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:373 #-#-# translate crowdin ev_077_59616669:
+# game/scripts/story_01/homework.rpy:376 #-#-# translate crowdin ev_077_59616669:
 msgid "[_Ann_s_03_] Спасибо, дорогой, что помогаешь. Ступай, маме нужно собираться на работу. [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:379 #-#-# translate crowdin ev_077_9f5092a3:
+# game/scripts/story_01/homework.rpy:382 #-#-# translate crowdin ev_077_9f5092a3:
 msgid "[_Ann_s_10_] С некоторыми делами ты дотянул до выходных, чего я просила не делать, поэтому получишь меньше, чем мог бы. Это карманные $30 за эту неделю, за чистку пола $[earn.w1], за газон $[earn.w2], за чистку бассейна $[earn.w3] и $[earn.w4] за поход в магазин."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:380 #-#-# translate crowdin ev_077_96242e44:
+# game/scripts/story_01/homework.rpy:383 #-#-# translate crowdin ev_077_96242e44:
 msgid "[_Max_s_12_] Эх... Но всё равно спасибо! Я обязательно всё отработаю."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:381 #-#-# translate crowdin ev_077_3c8f1557:
+# game/scripts/story_01/homework.rpy:384 #-#-# translate crowdin ev_077_3c8f1557:
 msgid "[_Ann_s_12_] Надеюсь, в этот раз ты управишься со всеми делами до выходных, чтобы мне не пришлось тебе снова напоминать или ругаться."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:382 #-#-# translate crowdin ev_077_21571792_1:
+# game/scripts/story_01/homework.rpy:385 #-#-# translate crowdin ev_077_21571792_1:
 msgid "[_Max_s_01_] Ладно, мам. Хорошего тебе дня на работе."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:384 #-#-# translate crowdin ev_077_4ca105bd:
+# game/scripts/story_01/homework.rpy:387 #-#-# translate crowdin ev_077_4ca105bd:
 msgid "[_Ann_s_01_] Как бы там ни было, но спасибо, дорогой, что помогаешь. Ступай, маме нужно собираться на работу. [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:389 #-#-# translate crowdin ev_077_3fcaa0eb:
+# game/scripts/story_01/homework.rpy:392 #-#-# translate crowdin ev_077_3fcaa0eb:
 msgid "[_Ann_s_14_] Ты умудрился дотянуть со всеми делами до выходных, чего я просила не делать, поэтому за сами дела получишь только половину. Это карманные $30 за эту неделю, за чистку пола $5, за газон $10, за чистку бассейна $10 и $5 за поход в магазин."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:390 #-#-# translate crowdin ev_077_8a4fa143:
+# game/scripts/story_01/homework.rpy:393 #-#-# translate crowdin ev_077_8a4fa143:
 msgid "[_Max_s_14_] Виноват... Но всё равно спасибо! Я обязательно всё отработаю."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:391 #-#-# translate crowdin ev_077_3c8f1557_1:
+# game/scripts/story_01/homework.rpy:394 #-#-# translate crowdin ev_077_3c8f1557_1:
 msgid "[_Ann_s_12_] Надеюсь, в этот раз ты управишься со всеми делами до выходных, чтобы мне не пришлось тебе снова напоминать или ругаться."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:392 #-#-# translate crowdin ev_077_21571792_2:
+# game/scripts/story_01/homework.rpy:395 #-#-# translate crowdin ev_077_21571792_2:
 msgid "[_Max_s_01_] Ладно, мам. Хорошего тебе дня на работе."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:394 #-#-# translate crowdin ev_077_5b7701f1:
+# game/scripts/story_01/homework.rpy:397 #-#-# translate crowdin ev_077_5b7701f1:
 msgid "[_Ann_s_10_] Дисциплина у тебя пока хромает, но всё равно спасибо, что помогаешь. Ступай, маме нужно собираться на работу. [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:410 #-#-# translate crowdin ev_078_bf8ab92a:
+# game/scripts/story_01/homework.rpy:414 #-#-# translate crowdin ev_078_bf8ab92a:
 msgid "[_tMax_s_11_] Так, садовые ножницы я нашёл. Теперь меня ждёт довольно унылое занятие - подравнивать ими наш газон..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:414 #-#-# translate crowdin ev_078_8277ff83:
+# game/scripts/story_01/homework.rpy:418 #-#-# translate crowdin ev_078_8277ff83:
 msgid "[_tMax_s_16_] Чёрт, а ведь я сейчас такой шорох наведу в траве, что все пауки разбегутся!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:416 #-#-# translate crowdin ev_078_3a62637b:
+# game/scripts/story_01/homework.rpy:420 #-#-# translate crowdin ev_078_3a62637b:
 msgid "[_tMax_s_13_] Нужно обязательно иметь это в виду в следующий раз и ловить паука до того, как я стану подстригать газон... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:422 #-#-# translate crowdin ev_078_cc340716:
+# game/scripts/story_01/homework.rpy:426 #-#-# translate crowdin ev_078_cc340716:
 msgid "[_tMax_s_16_] Так, садовые ножницы в руки и вперёд, подравнивать наш газон..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:424 #-#-# translate crowdin ev_078_97cbd34a:
+# game/scripts/story_01/homework.rpy:428 #-#-# translate crowdin ev_078_97cbd34a:
 msgid "[_tMax_s_12_] Довольно унылое занятие, но сделать нужно. Надеюсь, пауки не слишком сильно на меня обозлятся за тот шорох, который я навожу в траве... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:446 #-#-# translate crowdin ev_079_1bfc03e1:
+# game/scripts/story_01/homework.rpy:450 #-#-# translate crowdin ev_079_1bfc03e1:
 msgid "[_tMax_s_01_] Раз уж мне доверено пылесосить пол в доме, то и начинать я буду со своей комнаты..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:448 #-#-# translate crowdin ev_079_58fac4f9:
+# game/scripts/story_01/homework.rpy:452 #-#-# translate crowdin ev_079_58fac4f9:
 msgid "[_tMax_s_01_] Как и до этого, начну с нашей общей с Лизой комнаты, раз уж мне доверено пылесосить пол в доме..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:456 #-#-# translate crowdin ev_079_51e8a290:
+# game/scripts/story_01/homework.rpy:461 #-#-# translate crowdin ev_079_51e8a290:
 msgid "[_tMax_s_11_] А дальше уже пройдусь по всему второму этажу..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:463 #-#-# translate crowdin ev_079_4bf58596:
+# game/scripts/story_01/homework.rpy:468 #-#-# translate crowdin ev_079_4bf58596:
 msgid "[_tMax_s_03_] Хотя бы Алиса не завывала наперебой с пылесосом о том, как я не вовремя это делаю. Теперь можно и на первый этаж спускаться..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:469 #-#-# translate crowdin ev_079_5a1b785a:
+# game/scripts/story_01/homework.rpy:474 #-#-# translate crowdin ev_079_5a1b785a:
 msgid "[_tMax_s_12_] Фух... Какая же у нас огромная гостиная! Она по площади, наверно, как весь второй этаж... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:478 #-#-# translate crowdin ev_079_5a1b785a_1:
+# game/scripts/story_01/homework.rpy:484 #-#-# translate crowdin ev_079_5a1b785a_1:
 msgid "[_tMax_s_12_] Фух... Какая же у нас огромная гостиная! Она по площади, наверно, как весь второй этаж... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:484 #-#-# translate crowdin ev_079_e4272534:
+# game/scripts/story_01/homework.rpy:492 #-#-# translate crowdin ev_079_e4272534:
 msgid "[_Alice_s_01_] Эй, Макс! Раз уж ты закончил убираться, то может поможешь мне с посудой? [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:487 #-#-# translate crowdin ev_079_cb96644b:
+# game/scripts/story_01/homework.rpy:495 #-#-# translate crowdin ev_079_cb96644b:
 msgid "[_Alice_s_03_] Ого, тебя даже уговаривать не нужно! Уступаю своё место. И... спасибо. [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:492 #-#-# translate crowdin ev_079_5e71606b:
+# game/scripts/story_01/homework.rpy:500 #-#-# translate crowdin ev_079_5e71606b:
 msgid "[_tMax_s_14_] Эх... столько посуды. И почему здесь нет посудомоечной машины? А хотя, ладно, потерплю... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:500 #-#-# translate crowdin ev_079_e7f51291:
+# game/scripts/story_01/homework.rpy:508 #-#-# translate crowdin ev_079_e7f51291:
 msgid "[_Alice_s_11_] Повезло тебе, что ты не сильно мне мешался. Так бы мокрой тряпкой надавала!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:502 #-#-# translate crowdin ev_079_13e69c7b:
+# game/scripts/story_01/homework.rpy:510 #-#-# translate crowdin ev_079_13e69c7b:
 msgid "[_tMax_s_13_] Ох, Алиса... Я бы тебе тоже надавал для профилактики... только не тряпкой, а кое-чем другим, да за щеку. [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:511 #-#-# translate crowdin ev_079_5a1b785a_2:
+# game/scripts/story_01/homework.rpy:519 #-#-# translate crowdin ev_079_5a1b785a_2:
 msgid "[_tMax_s_12_] Фух... Какая же у нас огромная гостиная! Она по площади, наверно, как весь второй этаж... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:518 #-#-# translate crowdin ev_079_8e9152cd:
+# game/scripts/story_01/homework.rpy:527 #-#-# translate crowdin ev_079_8e9152cd:
 msgid "[_Alice_s_15_] Больше времени не было для уборки, да?! Только когда я готовлю... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:529 #-#-# translate crowdin ev_079_29e83075:
+# game/scripts/story_01/homework.rpy:538 #-#-# translate crowdin ev_079_29e83075:
 msgid "[_tMax_s_04_] А дальше уже пройдусь по всему второму этажу. Алисе понадоедаю заодно..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:534 #-#-# translate crowdin ev_079_6b9e63b9:
+# game/scripts/story_01/homework.rpy:543 #-#-# translate crowdin ev_079_6b9e63b9:
 msgid "[_Alice_s_15_] Макс, давай шевелись быстрее! Только в тишине и покое собиралась почитать, а тут ты со своим пылесосом... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:536 #-#-# translate crowdin ev_079_62044ff5:
+# game/scripts/story_01/homework.rpy:545 #-#-# translate crowdin ev_079_62044ff5:
 msgid "[_Alice_s_11_] Что говоришь? Я не слышу!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:537 #-#-# translate crowdin ev_079_997e5dcb:
+# game/scripts/story_01/homework.rpy:546 #-#-# translate crowdin ev_079_997e5dcb:
 msgid "[_Max_s_11_] Говорю, пылесос что-то плохо сосёт. Наверно фильтр забился."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:538 #-#-# translate crowdin ev_079_bc3dbe78:
+# game/scripts/story_01/homework.rpy:547 #-#-# translate crowdin ev_079_bc3dbe78:
 msgid "[_Alice_s_02_] Ааа... Так иди почисти его, а то будешь тут ещё полчаса вокруг меня ходить."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:539 #-#-# translate crowdin ev_079_5d63d27e:
+# game/scripts/story_01/homework.rpy:548 #-#-# translate crowdin ev_079_5d63d27e:
 msgid "[_Max_s_01_] Я вообще-то здесь более-менее закончил. Пойду на первый этаж..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:542 #-#-# translate crowdin ev_079_62044ff5_1:
+# game/scripts/story_01/homework.rpy:551 #-#-# translate crowdin ev_079_62044ff5_1:
 msgid "[_Alice_s_11_] Что говоришь? Я не слышу!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:543 #-#-# translate crowdin ev_079_243a82d1:
+# game/scripts/story_01/homework.rpy:552 #-#-# translate crowdin ev_079_243a82d1:
 msgid "[_Max_s_11_] Говорю, я уже скоро уйду на первый этаж. Потерпи немного."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:544 #-#-# translate crowdin ev_079_0efc7b39:
+# game/scripts/story_01/homework.rpy:553 #-#-# translate crowdin ev_079_0efc7b39:
 msgid "[_Alice_s_02_] Ааа... А я уж боялась, что ты тут ещё с полчаса будешь вокруг меня ползать."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:545 #-#-# translate crowdin ev_079_082aa3ad:
+# game/scripts/story_01/homework.rpy:554 #-#-# translate crowdin ev_079_082aa3ad:
 msgid "[_Max_s_01_] Нет, здесь я более-менее закончил. Оставляю тебя в покое..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:550 #-#-# translate crowdin ev_079_5a1b785a_3:
+# game/scripts/story_01/homework.rpy:559 #-#-# translate crowdin ev_079_5a1b785a_3:
 msgid "[_tMax_s_12_] Фух... Какая же у нас огромная гостиная! Она по площади, наверно, как весь второй этаж... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:574 #-#-# translate crowdin ev_080_4cd3e3d2:
+# game/scripts/story_01/homework.rpy:585 #-#-# translate crowdin ev_080_4cd3e3d2:
 msgid "[_Ann_s_00_] Макс, зайди ко мне в комнату. Нам нужно поговорить... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:602 #-#-# translate crowdin ev_080_fully_c6103fd9:
+# game/scripts/story_01/homework.rpy:613 #-#-# translate crowdin ev_080_fully_c6103fd9:
 msgid "[_Ann_s_01_] Ну что, Макс... Ты всё сделал по дому из того, что был должен?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:603 #-#-# translate crowdin ev_080_fully_745fcdec:
+# game/scripts/story_01/homework.rpy:614 #-#-# translate crowdin ev_080_fully_745fcdec:
 msgid "[_Max_s_12_] Да, я всё сделал! А ты разве не заметила?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:605 #-#-# translate crowdin ev_080_fully_1c01e78f:
+# game/scripts/story_01/homework.rpy:616 #-#-# translate crowdin ev_080_fully_1c01e78f:
 msgid "[_Ann_s_02_] Конечно же заметила... Молодец, что не дотянул с этими делами до выходных. Так и должен делать настоящий мужчина! Иди ко мне, я тебя обниму... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:614 #-#-# translate crowdin ev_080_fully_66fbbaf0:
+# game/scripts/story_01/homework.rpy:624 #-#-# translate crowdin ev_080_fully_66fbbaf0:
 msgid "[_tMax_s_04_] О да! Как же приятно прижиматься к женщине с такой потрясающей фигурой... Да ещё и уткнувшись лицом в её пышную и упругую грудь!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:615 #-#-# translate crowdin ev_080_fully_4bbaa693:
+# game/scripts/story_01/homework.rpy:625 #-#-# translate crowdin ev_080_fully_4bbaa693:
 msgid "[_Ann_s_03_] Постарайся и дальше выполнять свои обязанности в срок. Завтра у меня ещё будет для тебя небольшой подарок, как и обещала."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:616 #-#-# translate crowdin ev_080_fully_fb8324b1:
+# game/scripts/story_01/homework.rpy:626 #-#-# translate crowdin ev_080_fully_fb8324b1:
 msgid "[_Max_s_11_] А что за подарок?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:620 #-#-# translate crowdin ev_080_fully_e683d6da:
+# game/scripts/story_01/homework.rpy:630 #-#-# translate crowdin ev_080_fully_e683d6da:
 msgid "[_Ann_s_04_] Узнаешь, когда мы с девочками завтра пойдём прогуливаться по магазинам. Если, конечно, пойдёшь вместе с нами."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:621 #-#-# translate crowdin ev_080_fully_f500e33f:
+# game/scripts/story_01/homework.rpy:631 #-#-# translate crowdin ev_080_fully_f500e33f:
 msgid "[_Max_s_03_] Обязательно пойду!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:622 #-#-# translate crowdin ev_080_fully_e201cc68:
+# game/scripts/story_01/homework.rpy:632 #-#-# translate crowdin ev_080_fully_e201cc68:
 msgid "[_Ann_s_02_] Отлично. Ну, а сейчас я хочу принять ванну! Как хорошо, что рабочая неделя наконец-то закончилась..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:624 #-#-# translate crowdin ev_080_fully_930425c2:
+# game/scripts/story_01/homework.rpy:634 #-#-# translate crowdin ev_080_fully_930425c2:
 msgid "[_Max_s_01_] Это точно. Отдыхай, мам. [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:635 #-#-# translate crowdin ev_080_fully_r_c6103fd9:
+# game/scripts/story_01/homework.rpy:645 #-#-# translate crowdin ev_080_fully_r_c6103fd9:
 msgid "[_Ann_s_01_] Ну что, Макс... Ты всё сделал по дому из того, что был должен?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:636 #-#-# translate crowdin ev_080_fully_r_745fcdec:
+# game/scripts/story_01/homework.rpy:646 #-#-# translate crowdin ev_080_fully_r_745fcdec:
 msgid "[_Max_s_12_] Да, я всё сделал! А ты разве не заметила?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:638 #-#-# translate crowdin ev_080_fully_r_1c01e78f:
+# game/scripts/story_01/homework.rpy:648 #-#-# translate crowdin ev_080_fully_r_1c01e78f:
 msgid "[_Ann_s_02_] Конечно же заметила... Молодец, что не дотянул с этими делами до выходных. Так и должен делать настоящий мужчина! Иди ко мне, я тебя обниму... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:647 #-#-# translate crowdin ev_080_fully_r_66fbbaf0:
+# game/scripts/story_01/homework.rpy:656 #-#-# translate crowdin ev_080_fully_r_66fbbaf0:
 msgid "[_tMax_s_04_] О да! Как же приятно прижиматься к женщине с такой потрясающей фигурой... Да ещё и уткнувшись лицом в её пышную и упругую грудь!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:648 #-#-# translate crowdin ev_080_fully_r_2603500f:
+# game/scripts/story_01/homework.rpy:657 #-#-# translate crowdin ev_080_fully_r_2603500f:
 msgid "[_Ann_s_03_] Постарайся и дальше выполнять свои обязанности в срок. Я тебя даже в щёчку поцелую, чтобы ты и дальше продолжал меня радовать..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:654 #-#-# translate crowdin ev_080_fully_r_d5e039d1:
+# game/scripts/story_01/homework.rpy:663 #-#-# translate crowdin ev_080_fully_r_d5e039d1:
 msgid "[_tMax_s_05_] А так крепко обниматься ещё приятнее! Блаженно чувствовать прикосновение её губ на своём лице, да ещё и за такой пустяк, как исполнение домашних обязанностей."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:658 #-#-# translate crowdin ev_080_fully_r_d8c9d232:
+# game/scripts/story_01/homework.rpy:667 #-#-# translate crowdin ev_080_fully_r_d8c9d232:
 msgid "[_Ann_s_04_] Ну всё, мой дорогой, пообнимались и хватит. Я хочу принять ванну! Как хорошо, что рабочая неделя наконец-то закончилась..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:659 #-#-# translate crowdin ev_080_fully_r_6a728495:
+# game/scripts/story_01/homework.rpy:668 #-#-# translate crowdin ev_080_fully_r_6a728495:
 msgid "[_Max_s_03_] Это точно. Я тебя люблю, мам!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:664 #-#-# translate crowdin ev_080_fully_r_eef471cd:
+# game/scripts/story_01/homework.rpy:673 #-#-# translate crowdin ev_080_fully_r_eef471cd:
 msgid "[_Ann_s_03_] И я тебя, Макс. Спасибо, что помогаешь мне содержать этот дом в порядке. Я очень тебе признательна."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:665 #-#-# translate crowdin ev_080_fully_r_94464279:
+# game/scripts/story_01/homework.rpy:674 #-#-# translate crowdin ev_080_fully_r_94464279:
 msgid "[_Max_s_01_] Без проблем. Можешь на меня положиться."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:667 #-#-# translate crowdin ev_080_fully_r_eb91a3ba:
+# game/scripts/story_01/homework.rpy:676 #-#-# translate crowdin ev_080_fully_r_eb91a3ba:
 msgid "[_Ann_s_02_] Рада слышать, дорогой. Ты у меня лучший! [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:671 #-#-# translate crowdin ev_080_fully_r_ff639a19:
+# game/scripts/story_01/homework.rpy:680 #-#-# translate crowdin ev_080_fully_r_ff639a19:
 msgid "[_tMax_s_11_] Наши отношения с мамой стали явно теплее. Может теперь я смогу обниматься с ней и в остальное время, а не только по вечерам в пятницу?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:677 #-#-# translate crowdin ev_080_fully_r_3fc00c60:
+# game/scripts/story_01/homework.rpy:686 #-#-# translate crowdin ev_080_fully_r_3fc00c60:
 msgid "[_Ann_s_02_] И я тебя, Макс. Ты у меня лучший! [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:685 #-#-# translate crowdin ev_080_fully_after_failing_c6103fd9:
+# game/scripts/story_01/homework.rpy:694 #-#-# translate crowdin ev_080_fully_after_failing_c6103fd9:
 msgid "[_Ann_s_01_] Ну что, Макс... Ты всё сделал по дому из того, что был должен?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:686 #-#-# translate crowdin ev_080_fully_after_failing_745fcdec:
+# game/scripts/story_01/homework.rpy:695 #-#-# translate crowdin ev_080_fully_after_failing_745fcdec:
 msgid "[_Max_s_12_] Да, я всё сделал! А ты разве не заметила?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:688 #-#-# translate crowdin ev_080_fully_after_failing_1c01e78f:
+# game/scripts/story_01/homework.rpy:697 #-#-# translate crowdin ev_080_fully_after_failing_1c01e78f:
 msgid "[_Ann_s_02_] Конечно же заметила... Молодец, что не дотянул с этими делами до выходных. Так и должен делать настоящий мужчина! Иди ко мне, я тебя обниму... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:697 #-#-# translate crowdin ev_080_fully_after_failing_66fbbaf0:
+# game/scripts/story_01/homework.rpy:705 #-#-# translate crowdin ev_080_fully_after_failing_66fbbaf0:
 msgid "[_tMax_s_04_] О да! Как же приятно прижиматься к женщине с такой потрясающей фигурой... Да ещё и уткнувшись лицом в её пышную и упругую грудь!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:699 #-#-# translate crowdin ev_080_fully_after_failing_1a1eb6fb:
+# game/scripts/story_01/homework.rpy:707 #-#-# translate crowdin ev_080_fully_after_failing_1a1eb6fb:
 msgid "[_Ann_s_12_] Постарайся и дальше выполнять свои обязанности в срок. Чтобы не было так, как на прошлой неделе... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:705 #-#-# translate crowdin ev_080_fully_after_failing_3e407a4f:
+# game/scripts/story_01/homework.rpy:713 #-#-# translate crowdin ev_080_fully_after_failing_3e407a4f:
 msgid "[_Ann_s_01_] Поцеловать, значит? Даже не знаю... Ах, ладно, пусть будет небольшой аванс. Надеюсь, ты и дальше продолжишь меня радовать..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:711 #-#-# translate crowdin ev_080_fully_after_failing_d5e039d1:
+# game/scripts/story_01/homework.rpy:719 #-#-# translate crowdin ev_080_fully_after_failing_d5e039d1:
 msgid "[_tMax_s_05_] А так крепко обниматься ещё приятнее! Блаженно чувствовать прикосновение её губ на своём лице, да ещё и за такой пустяк, как исполнение домашних обязанностей."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:715 #-#-# translate crowdin ev_080_fully_after_failing_d8c9d232:
+# game/scripts/story_01/homework.rpy:723 #-#-# translate crowdin ev_080_fully_after_failing_d8c9d232:
 msgid "[_Ann_s_04_] Ну всё, мой дорогой, пообнимались и хватит. Я хочу принять ванну! Как хорошо, что рабочая неделя наконец-то закончилась..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:716 #-#-# translate crowdin ev_080_fully_after_failing_6a728495:
+# game/scripts/story_01/homework.rpy:724 #-#-# translate crowdin ev_080_fully_after_failing_6a728495:
 msgid "[_Max_s_03_] Это точно. Я тебя люблю, мам!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:723 #-#-# translate crowdin ev_080_fully_after_failing_3e324f91:
+# game/scripts/story_01/homework.rpy:731 #-#-# translate crowdin ev_080_fully_after_failing_3e324f91:
 msgid "[_Ann_s_11_] Нет, Макс! Вот если на следующей неделе снова всё вовремя сделаешь, тогда и поцелуй будет заслуженным. А пока, никаких авансов!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:724 #-#-# translate crowdin ev_080_fully_after_failing_c01104e1:
+# game/scripts/story_01/homework.rpy:732 #-#-# translate crowdin ev_080_fully_after_failing_c01104e1:
 msgid "[_Max_s_03_] Хорошо... Я тебя люблю, мам!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:729 #-#-# translate crowdin ev_080_fully_after_failing_d8c9d232_1:
+# game/scripts/story_01/homework.rpy:737 #-#-# translate crowdin ev_080_fully_after_failing_d8c9d232_1:
 msgid "[_Ann_s_04_] Ну всё, мой дорогой, пообнимались и хватит. Я хочу принять ванну! Как хорошо, что рабочая неделя наконец-то закончилась..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:730 #-#-# translate crowdin ev_080_fully_after_failing_6a728495_1:
+# game/scripts/story_01/homework.rpy:738 #-#-# translate crowdin ev_080_fully_after_failing_6a728495_1:
 msgid "[_Max_s_03_] Это точно. Я тебя люблю, мам!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:737 #-#-# translate crowdin ev_080_fully_after_failing_3fc00c60:
+# game/scripts/story_01/homework.rpy:745 #-#-# translate crowdin ev_080_fully_after_failing_3fc00c60:
 msgid "[_Ann_s_02_] И я тебя, Макс. Ты у меня лучший! [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:746 #-#-# translate crowdin ev_080_fully_after_failing2_c6103fd9:
+# game/scripts/story_01/homework.rpy:754 #-#-# translate crowdin ev_080_fully_after_failing2_c6103fd9:
 msgid "[_Ann_s_01_] Ну что, Макс... Ты всё сделал по дому из того, что был должен?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:747 #-#-# translate crowdin ev_080_fully_after_failing2_745fcdec:
+# game/scripts/story_01/homework.rpy:755 #-#-# translate crowdin ev_080_fully_after_failing2_745fcdec:
 msgid "[_Max_s_12_] Да, я всё сделал! А ты разве не заметила?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:749 #-#-# translate crowdin ev_080_fully_after_failing2_5e641c9d:
+# game/scripts/story_01/homework.rpy:757 #-#-# translate crowdin ev_080_fully_after_failing2_5e641c9d:
 msgid "[_Ann_s_02_] Конечно же заметила... Молодец, что не дотянул с этими делами до выходных, как было до этого. Так и должен делать настоящий мужчина! [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:755 #-#-# translate crowdin ev_080_fully_after_failing2_e4d3e5bc:
+# game/scripts/story_01/homework.rpy:763 #-#-# translate crowdin ev_080_fully_after_failing2_e4d3e5bc:
 msgid "[_Ann_s_01_] Обнять, значит? Даже не знаю... Ах, ладно, пусть будет небольшой аванс. Надеюсь, ты и дальше продолжишь меня радовать..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:763 #-#-# translate crowdin ev_080_fully_after_failing2_66fbbaf0:
+# game/scripts/story_01/homework.rpy:770 #-#-# translate crowdin ev_080_fully_after_failing2_66fbbaf0:
 msgid "[_tMax_s_04_] О да! Как же приятно прижиматься к женщине с такой потрясающей фигурой... Да ещё и уткнувшись лицом в её пышную и упругую грудь!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:764 #-#-# translate crowdin ev_080_fully_after_failing2_c6d732d5:
+# game/scripts/story_01/homework.rpy:771 #-#-# translate crowdin ev_080_fully_after_failing2_c6d732d5:
 msgid "[_Ann_s_12_] Постарайся и дальше выполнять свои обязанности в срок. А то приходилось не одну неделю с тобой ругаться..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:765 #-#-# translate crowdin ev_080_fully_after_failing2_f95ab489:
+# game/scripts/story_01/homework.rpy:772 #-#-# translate crowdin ev_080_fully_after_failing2_f95ab489:
 msgid "[_Max_s_01_] Конечно, мам! Буду стараться..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:769 #-#-# translate crowdin ev_080_fully_after_failing2_61caff1b:
+# game/scripts/story_01/homework.rpy:776 #-#-# translate crowdin ev_080_fully_after_failing2_61caff1b:
 msgid "[_Ann_s_04_] Вот и отлично. Ну, а сейчас я хочу принять ванну! Как хорошо, что рабочая неделя наконец-то закончилась..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:770 #-#-# translate crowdin ev_080_fully_after_failing2_6a728495:
+# game/scripts/story_01/homework.rpy:777 #-#-# translate crowdin ev_080_fully_after_failing2_6a728495:
 msgid "[_Max_s_03_] Это точно. Я тебя люблю, мам!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:775 #-#-# translate crowdin ev_080_fully_after_failing2_c6c569e2:
+# game/scripts/story_01/homework.rpy:782 #-#-# translate crowdin ev_080_fully_after_failing2_c6c569e2:
 msgid "[_Ann_s_11_] Нет, Макс! Вот если на следующей неделе снова всё вовремя сделаешь, тогда и объятия будут заслуженными. А пока, никаких авансов!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:776 #-#-# translate crowdin ev_080_fully_after_failing2_c01104e1:
+# game/scripts/story_01/homework.rpy:783 #-#-# translate crowdin ev_080_fully_after_failing2_c01104e1:
 msgid "[_Max_s_03_] Хорошо... Я тебя люблю, мам!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:779 #-#-# translate crowdin ev_080_fully_after_failing2_61caff1b_1:
+# game/scripts/story_01/homework.rpy:786 #-#-# translate crowdin ev_080_fully_after_failing2_61caff1b_1:
 msgid "[_Ann_s_04_] Вот и отлично. Ну, а сейчас я хочу принять ванну! Как хорошо, что рабочая неделя наконец-то закончилась..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:780 #-#-# translate crowdin ev_080_fully_after_failing2_6a728495_1:
+# game/scripts/story_01/homework.rpy:787 #-#-# translate crowdin ev_080_fully_after_failing2_6a728495_1:
 msgid "[_Max_s_03_] Это точно. Я тебя люблю, мам!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:787 #-#-# translate crowdin ev_080_fully_after_failing2_3fc00c60:
+# game/scripts/story_01/homework.rpy:794 #-#-# translate crowdin ev_080_fully_after_failing2_3fc00c60:
 msgid "[_Ann_s_02_] И я тебя, Макс. Ты у меня лучший! [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:794 #-#-# translate crowdin ev_080_done_7919f1cd:
+# game/scripts/story_01/homework.rpy:801 #-#-# translate crowdin ev_080_done_7919f1cd:
 msgid "[_Ann_s_03_] И я тебя, Макс. Как бы там ни было, но спасибо, что помогаешь мне содержать этот дом в порядке. Я очень тебе признательна."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:795 #-#-# translate crowdin ev_080_done_94464279:
+# game/scripts/story_01/homework.rpy:802 #-#-# translate crowdin ev_080_done_94464279:
 msgid "[_Max_s_01_] Без проблем. Можешь на меня положиться."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:797 #-#-# translate crowdin ev_080_done_eb91a3ba:
+# game/scripts/story_01/homework.rpy:804 #-#-# translate crowdin ev_080_done_eb91a3ba:
 msgid "[_Ann_s_02_] Рада слышать, дорогой. Ты у меня лучший! [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:801 #-#-# translate crowdin ev_080_done_ff639a19:
+# game/scripts/story_01/homework.rpy:808 #-#-# translate crowdin ev_080_done_ff639a19:
 msgid "[_tMax_s_11_] Наши отношения с мамой стали явно теплее. Может теперь я смогу обниматься с ней и в остальное время, а не только по вечерам в пятницу?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:809 #-#-# translate crowdin ev_080_partly_63abec99:
+# game/scripts/story_01/homework.rpy:816 #-#-# translate crowdin ev_080_partly_63abec99:
 msgid "[_Ann_s_10_] Ну что, Макс... Я правильно заметила, что ты сделал по дому не всё из того, что должен был?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:810 #-#-# translate crowdin ev_080_partly_2a9f741a:
+# game/scripts/story_01/homework.rpy:817 #-#-# translate crowdin ev_080_partly_2a9f741a:
 msgid "[_Max_s_14_] Да, мам, кое-что не успел."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:811 #-#-# translate crowdin ev_080_partly_4072a585:
+# game/scripts/story_01/homework.rpy:818 #-#-# translate crowdin ev_080_partly_4072a585:
 msgid "[_Ann_s_11_] Макс! Как можно было не успеть?! Времени у тебя было предостаточно. Я бы даже сказала, навалом!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:812 #-#-# translate crowdin ev_080_partly_1424539a:
+# game/scripts/story_01/homework.rpy:819 #-#-# translate crowdin ev_080_partly_1424539a:
 msgid "[_Max_s_13_] Не во всём ещё разобрался, но я обязательно закончу в выходные..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:813 #-#-# translate crowdin ev_080_partly_9311755d:
+# game/scripts/story_01/homework.rpy:820 #-#-# translate crowdin ev_080_partly_9311755d:
 msgid "[_Ann_s_14_] И не просто в выходные, а завтра! Мы с девочками после завтрака соберёмся и отправимся гулять, заодно и по магазинам пройдёмся, а ты будешь в это время доделывать всё, что у тебя осталось. Это ясно?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:814 #-#-# translate crowdin ev_080_partly_0fb73489:
+# game/scripts/story_01/homework.rpy:821 #-#-# translate crowdin ev_080_partly_0fb73489:
 msgid "[_Max_s_12_] Да, всё ясно. Будет сделано, мам."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:815 #-#-# translate crowdin ev_080_partly_7f70c49e:
+# game/scripts/story_01/homework.rpy:822 #-#-# translate crowdin ev_080_partly_7f70c49e:
 msgid "[_Ann_s_12_] И постарайся больше не расстраивать меня по этому поводу. А то получается, что я лодыря воспитала, а не настоящего мужчину!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:817 #-#-# translate crowdin ev_080_partly_0f2ae6ef:
+# game/scripts/story_01/homework.rpy:824 #-#-# translate crowdin ev_080_partly_0f2ae6ef:
 msgid "[_Max_s_00_] Хорошо, постараюсь... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:825 #-#-# translate crowdin ev_080_nothing_d1b6ee42:
+# game/scripts/story_01/homework.rpy:832 #-#-# translate crowdin ev_080_nothing_d1b6ee42:
 msgid "[_Ann_s_14_] Ну что, Макс... Мне показалось или ты вообще ничего не сделал по дому из того, что должен был?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:826 #-#-# translate crowdin ev_080_nothing_23c6ea49:
+# game/scripts/story_01/homework.rpy:833 #-#-# translate crowdin ev_080_nothing_23c6ea49:
 msgid "[_Max_s_16_] Да, мам, ещё ничего не делал."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:827 #-#-# translate crowdin ev_080_nothing_168cdace:
+# game/scripts/story_01/homework.rpy:834 #-#-# translate crowdin ev_080_nothing_168cdace:
 msgid "[_Ann_s_13_] Серьёзно, Макс?! Я же тебя просила сделать всё до выходных, а ты... Времени ведь было навалом и дом полупустой каждый день!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:828 #-#-# translate crowdin ev_080_nothing_59cd43b6:
+# game/scripts/story_01/homework.rpy:835 #-#-# translate crowdin ev_080_nothing_59cd43b6:
 msgid "[_Max_s_13_] Я думал на выходных всё сделаю. Подумаешь..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:829 #-#-# translate crowdin ev_080_nothing_71670e01:
+# game/scripts/story_01/homework.rpy:836 #-#-# translate crowdin ev_080_nothing_71670e01:
 msgid "[_Ann_s_15_] И не просто в выходные, а завтра! Мы с девочками после завтрака соберёмся и отправимся гулять, заодно и по магазинам пройдёмся, а ты чтобы всё сделал пока нас не будет. Иначе накажу и очень больно! Понятно тебе?!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:830 #-#-# translate crowdin ev_080_nothing_a64a59e6:
+# game/scripts/story_01/homework.rpy:837 #-#-# translate crowdin ev_080_nothing_a64a59e6:
 msgid "[_Max_s_15_] Ладно-ладно! Всё будет сделано, мам."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:831 #-#-# translate crowdin ev_080_nothing_44485c12:
+# game/scripts/story_01/homework.rpy:838 #-#-# translate crowdin ev_080_nothing_44485c12:
 msgid "[_Ann_s_10_] Да уж надеюсь! И не вздумай больше расстраивать меня по этому поводу. А то получается, что я лодыря воспитала, а не настоящего мужчину!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:833 #-#-# translate crowdin ev_080_nothing_0f2ae6ef:
+# game/scripts/story_01/homework.rpy:840 #-#-# translate crowdin ev_080_nothing_0f2ae6ef:
 msgid "[_Max_s_00_] Хорошо, постараюсь... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:852 #-#-# translate crowdin ev_081_80c15709:
+# game/scripts/story_01/homework.rpy:859 #-#-# translate crowdin ev_081_80c15709:
 msgid "[_tMax_s_01_] Собственно, осталось всего-то пропылесосить пол в доме и всё... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:860 #-#-# translate crowdin ev_081_738d0497:
+# game/scripts/story_01/homework.rpy:867 #-#-# translate crowdin ev_081_738d0497:
 msgid "[_tMax_s_01_] Собственно, осталось всего-то заняться газоном и всё... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:868 #-#-# translate crowdin ev_081_d25437a5:
+# game/scripts/story_01/homework.rpy:875 #-#-# translate crowdin ev_081_d25437a5:
 msgid "[_tMax_s_01_] Собственно, осталось заняться бассейном и всё... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:876 #-#-# translate crowdin ev_081_439ab834:
+# game/scripts/story_01/homework.rpy:883 #-#-# translate crowdin ev_081_439ab834:
 msgid "[_tMax_s_01_] Собственно, осталось всего-то купить продуктов и всё... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:887 #-#-# translate crowdin ev_081_d1544f0b:
+# game/scripts/story_01/homework.rpy:894 #-#-# translate crowdin ev_081_d1544f0b:
 msgid "[_tMax_s_11_] Так, в магазин я схожу в самом конце, а до этого нужно сделать кое-что ещё... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:889 #-#-# translate crowdin ev_081_e36a0d75:
+# game/scripts/story_01/homework.rpy:896 #-#-# translate crowdin ev_081_e36a0d75:
 msgid "[_tMax_s_12_] Так, что там мне ещё осталось сделать... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:894 #-#-# translate crowdin ev_081_3ef7ed7e:
+# game/scripts/story_01/homework.rpy:901 #-#-# translate crowdin ev_081_3ef7ed7e:
 msgid "[_tMax_s_16_] Фух... Собственно, осталось всего-то купить продуктов и всё... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:900 #-#-# translate crowdin ev_081_e36a0d75_1:
+# game/scripts/story_01/homework.rpy:907 #-#-# translate crowdin ev_081_e36a0d75_1:
 msgid "[_tMax_s_12_] Так, что там мне ещё осталось сделать... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:914 #-#-# translate crowdin ev_081_end_aee9ce1a:
+# game/scripts/story_01/homework.rpy:921 #-#-# translate crowdin ev_081_end_aee9ce1a:
 msgid "[_tMax_s_02_] Отлично! Со своими обязанностями по дому я на этой неделе закончил. А вообще, лучше с этим не затягивать до выходных..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:916 #-#-# translate crowdin ev_081_end_a68bfb91:
+# game/scripts/story_01/homework.rpy:923 #-#-# translate crowdin ev_081_end_a68bfb91:
 msgid "[_tMax_s_13_] Наконец-то! Со своими обязанностями по дому я на этой неделе закончил. А вообще, лучше с этим не затягивать до выходных, а то я весь теперь грязный и вонючий..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:935 #-#-# translate crowdin ev_083_b578bc7d:
+# game/scripts/story_01/homework.rpy:943 #-#-# translate crowdin ev_083_b578bc7d:
 msgid "[_Ann_s_03_] Приятно, что наш дом был пострен в таком красивом районе, где по дороге к магазинам можно стольким налюбоваться..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:936 #-#-# translate crowdin ev_083_83b3275e:
+# game/scripts/story_01/homework.rpy:944 #-#-# translate crowdin ev_083_83b3275e:
 msgid "[_Max_s_04_] Точно, мам! У меня аж глаза разбегаются, на что смотреть."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:940 #-#-# translate crowdin ev_083_641a3f1a:
+# game/scripts/story_01/homework.rpy:948 #-#-# translate crowdin ev_083_641a3f1a:
 msgid "[_Ann_s_02_] Собственно, вот здесь мы и купим кое-что для тебя, Макс. А если конкретно, то я хотела подобрать тебе шорты."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:941 #-#-# translate crowdin ev_083_a5d33af5:
+# game/scripts/story_01/homework.rpy:949 #-#-# translate crowdin ev_083_a5d33af5:
 msgid "[_Max_s_16_] Шорты?! Хочешь сказать, это и есть тот бонус, который ты обещала, если я сделаю все дела по дому до выходных?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:942 #-#-# translate crowdin ev_083_f0fe3442:
+# game/scripts/story_01/homework.rpy:950 #-#-# translate crowdin ev_083_f0fe3442:
 msgid "[_Ann_s_10_] А ты думал, что я тебе что-то крутое и дорогое подарю? А ничего что ты за неделю получил от меня вместе с карманными аж $90?!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:943 #-#-# translate crowdin ev_083_880f48c1:
+# game/scripts/story_01/homework.rpy:951 #-#-# translate crowdin ev_083_880f48c1:
 msgid "[_Max_s_12_] Ну, да... Что-то я завысил ожидания, видимо."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:944 #-#-# translate crowdin ev_083_ad2d0b0e:
+# game/scripts/story_01/homework.rpy:952 #-#-# translate crowdin ev_083_ad2d0b0e:
 msgid "[_Ann_s_14_] Вот-вот! Так что давай-ка выберем несколько шорт и пошли мерить..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:945 #-#-# translate crowdin ev_083_3c5f97f5:
+# game/scripts/story_01/homework.rpy:953 #-#-# translate crowdin ev_083_3c5f97f5:
 msgid "[_Max_s_00_] Давай..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:949 #-#-# translate crowdin ev_083_a7acfc86:
+# game/scripts/story_01/homework.rpy:957 #-#-# translate crowdin ev_083_a7acfc86:
 msgid "[_Ann_s_11_] Ну как, Макс, подошёл размер? Смотри, чтобы они нигде не жали. В них должно быть просторно."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:950 #-#-# translate crowdin ev_083_b58fcade:
+# game/scripts/story_01/homework.rpy:958 #-#-# translate crowdin ev_083_b58fcade:
 msgid "[_Max_] {b}Макс: {/b}\n"
 "Вот эти, вроде, неплохие. Можешь зайти, посмотреть."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:955 #-#-# translate crowdin ev_083_55bdaec8:
+# game/scripts/story_01/homework.rpy:963 #-#-# translate crowdin ev_083_55bdaec8:
 msgid "[_Ann_s_04_] А что, они очень даже хорошо смотрятся на тебе. А то ты в своих джинсах скоро цыплят выведешь."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:956 #-#-# translate crowdin ev_083_abad577e:
+# game/scripts/story_01/homework.rpy:964 #-#-# translate crowdin ev_083_abad577e:
 msgid "[_Max_s_11_] Не так уж в джинсах и жарко! Но, да, в шортах будет получше."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:957 #-#-# translate crowdin ev_083_5b5523a0:
+# game/scripts/story_01/homework.rpy:965 #-#-# translate crowdin ev_083_5b5523a0:
 msgid "[_Ann_s_02_] Вот видишь... А ты расстраивался... Значит, берём?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:958 #-#-# translate crowdin ev_083_7b628c3f:
+# game/scripts/story_01/homework.rpy:966 #-#-# translate crowdin ev_083_7b628c3f:
 msgid "[_Max_s_03_] Ага, берём. Спасибо за подарок, мам!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:959 #-#-# translate crowdin ev_083_2acc903f:
+# game/scripts/story_01/homework.rpy:967 #-#-# translate crowdin ev_083_2acc903f:
 msgid "[_Ann_s_12_] Я пойду оплачу и если что, то ты эти шорты купил сам. А то я меньше всего сейчас хочу слушать нытьё Алисы о том, что я ей платье всё никак не покупаю."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:960 #-#-# translate crowdin ev_083_11fcf461:
+# game/scripts/story_01/homework.rpy:968 #-#-# translate crowdin ev_083_11fcf461:
 msgid "[_Max_s_14_] Я тоже этого не хочу. Надеюсь, она не увидит тебя около кассы. Я скоро..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:964 #-#-# translate crowdin ev_083_d3ac3a21:
+# game/scripts/story_01/homework.rpy:972 #-#-# translate crowdin ev_083_d3ac3a21:
 msgid "[_Ann_s_01_] Отлично, Алиса ничего не видела! Давай беги домой, вряд ли ты захочешь ещё несколько часов шататься с нами по магазинам."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:966 #-#-# translate crowdin ev_083_746024a8:
+# game/scripts/story_01/homework.rpy:974 #-#-# translate crowdin ev_083_746024a8:
 msgid "[_Max_s_01_] Ещё раз спасибо! Буду ждать вас дома... [nointeract]"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:972 #-#-# translate crowdin ev_083_81a4fd77:
+# game/scripts/story_01/homework.rpy:980 #-#-# translate crowdin ev_083_81a4fd77:
 msgid "[_tMax_s_13_] Шорты, конечно, не совсем то, о чём можно было мечтать, но мама права... Я и так получаю от неё неплохие деньги, чтобы ещё чем-то быть недовольным."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:973 #-#-# translate crowdin ev_083_d9db7d5e:
+# game/scripts/story_01/homework.rpy:981 #-#-# translate crowdin ev_083_d9db7d5e:
 msgid "[_tMax_s_04_] Меня больше порадовали те объятия, которыми она меня одарила за то, что я выполнил все обязанности по дому вовремя."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:978 #-#-# translate crowdin ev_083_0a570f97:
+# game/scripts/story_01/homework.rpy:986 #-#-# translate crowdin ev_083_0a570f97:
 msgid "[_tMax_s_11_] Уже ради того, чтобы моё лицо снова оказалось втиснуто в её пышную грудь, я готов и дальше выполнять эти ерундовые обязанности вовремя. Вдруг я ещё что-то приятное за это получу..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:979 #-#-# translate crowdin ev_083_b323a492:
+# game/scripts/story_01/homework.rpy:987 #-#-# translate crowdin ev_083_b323a492:
 msgid "[_tMax_s_01_] А что до одежды, то я наверняка по привычке снова надену джинсы вечером. Надо помнить, что я в любой момент могу выбрать новые шорты..."
 msgstr ""
 
@@ -953,87 +953,87 @@ msgstr ""
 msgid "Сам разберусь... {i}(уйти){/i}"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:87
+# game/scripts/story_01/homework.rpy:89
 msgid "{i}готово!{/i}"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:172
+# game/scripts/story_01/homework.rpy:175
 msgid "{i}купить продуктов на неделю (за мамин счёт){/i}"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:172
-msgid "{i}купить продуктов на неделю (куплено){/i}"
+# game/scripts/story_01/homework.rpy:175
+msgid "{i}купить продуктов на неделю {color=#0f0}(куплено){/color}{/i}"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:172
+# game/scripts/story_01/homework.rpy:175
 msgid "{i}выбрать сладости...{/i}"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:242
+# game/scripts/story_01/homework.rpy:245
 msgid "{i}продуктовый магазин{/i}"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:242
+# game/scripts/story_01/homework.rpy:245
 msgid "{i}остаться на вилле{/i}"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:468
+# game/scripts/story_01/homework.rpy:473
 msgid "{i}уборка закончена!{/i}"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:483
+# game/scripts/story_01/homework.rpy:491
 msgid "Нет, у меня и без этого дел хватает..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:486
+# game/scripts/story_01/homework.rpy:494
 msgid "{i}мыть посуду{/i}"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:517
+# game/scripts/story_01/homework.rpy:526
 msgid "Так получилось, что поделать... {i}(уйти){/i}"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:533
+# game/scripts/story_01/homework.rpy:542
 msgid "Сейчас тут кое-кто ещё отсосёт..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:533
+# game/scripts/story_01/homework.rpy:542
 msgid "А может ты свою попку трахнуть дашь?"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:604
+# game/scripts/story_01/homework.rpy:615
 msgid "{i}обнять маму{/i}"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:698
+# game/scripts/story_01/homework.rpy:706
 msgid "Тогда меня нужно поцеловать для большей мотивации!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:698
+# game/scripts/story_01/homework.rpy:706
 msgid "Конечно, мам! Буду стараться..."
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:748
+# game/scripts/story_01/homework.rpy:756
 msgid "Тогда меня нужно обнять для большей мотивации!"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:851
+# game/scripts/story_01/homework.rpy:858
 msgid "{i}пылесосить дом{/i}"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:859
+# game/scripts/story_01/homework.rpy:866
 msgid "{i}подстричь газон{/i}"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:867
+# game/scripts/story_01/homework.rpy:874
 msgid "{i}чистить бассейн{/i}"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:875
+# game/scripts/story_01/homework.rpy:882
 msgid "{i}одеться и идти в продуктовый магазин{/i}"
 msgstr ""
 
-# game/scripts/story_01/homework.rpy:965
+# game/scripts/story_01/homework.rpy:973
 msgid "{i}вернуться домой{/i}"
 msgstr ""
 

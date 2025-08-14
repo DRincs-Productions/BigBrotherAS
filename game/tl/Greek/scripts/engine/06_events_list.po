@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-03-15 14:07\n"
+"PO-Revision-Date: 2025-08-11 15:34\n"
 
-# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/06_events_list.rpy:31
+# TODO: Translation updated at 2025-08-11 18:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/06_events_list.rpy:31
 msgid "Любопытное содержимое"
 msgstr ""
 
@@ -29,6 +29,14 @@ msgid "Взломать блогершу"
 msgstr "Hack the blogger"
 
 # game/scripts/engine/06_events_list.rpy:31
+msgid "Стримерша"
+msgstr ""
+
+# game/scripts/engine/06_events_list.rpy:31
+msgid "Вредная привычка"
+msgstr ""
+
+# game/scripts/engine/06_events_list.rpy:31
 msgid "Арахнофобия"
 msgstr ""
 
@@ -41,12 +49,20 @@ msgid "Стоит ли рисковать?"
 msgstr ""
 
 # game/scripts/engine/06_events_list.rpy:31
+msgid "Школьный секретик"
+msgstr "Σχολικό μυστικό"
+
+# game/scripts/engine/06_events_list.rpy:31
 msgid "Наставник"
 msgstr ""
 
 # game/scripts/engine/06_events_list.rpy:31
 msgid "Застенчивая школьница"
 msgstr ""
+
+# game/scripts/engine/06_events_list.rpy:31
+msgid "Утренние шалости"
+msgstr "Πρωινά καραγκιοζιλίκια"
 
 # game/scripts/engine/06_events_list.rpy:31
 msgid "Кнут или пряник?"

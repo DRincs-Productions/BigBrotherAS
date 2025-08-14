@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-03-15 14:04\n"
+"PO-Revision-Date: 2025-07-29 08:38\n"
 
-# TODO: Translation updated at 2025-03-08 15:49 #|#|# # game/scripts/story_01/breakfasts.rpy:30 #-#-# translate crowdin ev_breakfast_r1_6e8dcf3c:
+# TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/story_01/breakfasts.rpy:30 #-#-# translate crowdin ev_breakfast_r1_6e8dcf3c:
 msgid "[_Ann_s_01_] Всех ещё раз с добрым утром, всем приятного аппетита! Ешьте, пока не остыло."
 msgstr ""
 
@@ -80,8 +80,8 @@ msgstr ""
 msgid "[_Max_s_02_] Поздравляю, Лиза!"
 msgstr ""
 
-# game/scripts/story_01/breakfasts.rpy:61 #-#-# translate crowdin ev_002_219d79c3:
-msgid "[_Lisa_s_01_] Спасибо, Макс. Честно говоря, не знаю даже чего ожидать. Новое место, новая школа, новый коллектив..."
+# game/scripts/story_01/breakfasts.rpy:61 #-#-# translate crowdin ev_002_7b06d392:
+msgid "[_Lisa_s_01_] Спасибо, Макс. Честно говоря, не знаю даже, чего ожидать. Новое место, новая школа, новый коллектив..."
 msgstr ""
 
 # game/scripts/story_01/breakfasts.rpy:62 #-#-# translate crowdin ev_002_7172ad78:
@@ -116,8 +116,8 @@ msgstr ""
 msgid "[_Max_s_12_] Не сомневаюсь..."
 msgstr ""
 
-# game/scripts/story_01/breakfasts.rpy:70 #-#-# translate crowdin ev_002_c2b369a9:
-msgid "[_Ann_s_00_] Да, Макс... Я когда прибиралась, нашла какие-то коробки. Видимо, остались с ремонта. Посмотри, если ничего ценного нет, потом выбросим. Сейчас они у тебя в комнате."
+# game/scripts/story_01/breakfasts.rpy:70 #-#-# translate crowdin ev_002_8394ad7b:
+msgid "[_Ann_s_00_] Да, Макс... Я когда прибиралась, нашла какие-то коробки. Видимо, остались после ремонта. Посмотри. Если ничего ценного нет, потом выбросим. Сейчас они у тебя в комнате."
 msgstr ""
 
 # game/scripts/story_01/breakfasts.rpy:71 #-#-# translate crowdin ev_002_0fc9dfdf:

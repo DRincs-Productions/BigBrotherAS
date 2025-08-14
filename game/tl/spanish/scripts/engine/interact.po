@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-03-15 14:03\n"
+"PO-Revision-Date: 2025-07-29 08:37\n"
 
-# TODO: Translation updated at 2025-03-08 15:49 #|#|# # game/scripts/engine/interact.rpy:37 #-#-# translate crowdin talks_start_41e41361:
+# TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/engine/interact.rpy:37 #-#-# translate crowdin talks_start_41e41361:
 msgid "[_Alice_s_00_] Ну же, Макс, что хотел? [nointeract]"
 msgstr "[_Alice_s_00_] Vamos, Max, ¿qué querías? [nointeract]"
 
@@ -77,8 +77,8 @@ msgid "Тебе не жарко в этом купальнике?"
 msgstr "¿No tienes calor con ese bañador?"
 
 # game/scripts/engine/interact.rpy:192
-msgid "Значит Алекс, да?"
-msgstr "Así que es Alex, ¿eh?"
+msgid "Значит, Алекс, да?"
+msgstr ""
 
 # game/scripts/engine/interact.rpy:192
 msgid "Хорошо загорается?"
@@ -166,7 +166,7 @@ msgstr "¿Averiguaste algo sobre Olivia?"
 
 # game/scripts/engine/interact.rpy:192
 msgid "Ну, так что там с трусиками Оливии?"
-msgstr ""
+msgstr "?"
 
 # game/scripts/engine/interact.rpy:192
 msgid "Я решил потренироваться..."
