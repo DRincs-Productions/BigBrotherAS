@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-11 18:01
+﻿# TODO: Translation updated at 2025-08-12 11:03
 
 translate crowdin strings:
 
@@ -22,11 +22,11 @@ translate crowdin strings:
     old "мамы"
     new "мамы"
 
-    # game/scripts/engine/02_func.rpy:839
+    # game/scripts/engine/02_func.rpy:842
     old "Галерея снов обновлена!"
     new "Галерея снов обновлена!"
 
-    # game/scripts/engine/02_func.rpy:853
+    # game/scripts/engine/02_func.rpy:856
     old "Галерея дополнений обновлена!"
     new "Галерея дополнений обновлена!"
 

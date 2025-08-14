@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-11 18:01
+﻿# TODO: Translation updated at 2025-08-12 11:03
 
 # game/scripts/story_01/myroom.rpy:12
 translate crowdin ev_lisa_dressed_79ffde85:
@@ -144,79 +144,79 @@ translate crowdin ev_lisa_dressed_voy_02_help_748f1830:
     # Lisa 01 "Спасибо, конечно, за заботу, но я же не маленькая, Макс. Сама уж как-нибудь справлюсь..." nointeract
     Lisa 01 "Спасибо, конечно, за заботу, но я же не маленькая, Макс. Сама уж как-нибудь справлюсь..." nointeract
 
-# game/scripts/story_01/myroom.rpy:324
+# game/scripts/story_01/myroom.rpy:325
 translate crowdin ev_lisa_dressed_voy_02_help_6a93b97b:
 
     # Lisa 15 "Макс! Я что, похожа на маленькую что ли?! Или совсем глупенькую? Прекращай пялиться и уходи..." nointeract
     Lisa 15 "Макс! Я что, похожа на маленькую что ли?! Или совсем глупенькую? Прекращай пялиться и уходи..." nointeract
 
-# game/scripts/story_01/myroom.rpy:345
+# game/scripts/story_01/myroom.rpy:347
 translate crowdin ev_lisa_dressed_voy_02_beauti_1ba39635:
 
     # Lisa 02 "Правда?! Спасибо, что оценил, но я бы всё равно хотела закончить одеваться без свидетелей..." nointeract
     Lisa 02 "Правда?! Спасибо, что оценил, но я бы всё равно хотела закончить одеваться без свидетелей..." nointeract
 
-# game/scripts/story_01/myroom.rpy:356
+# game/scripts/story_01/myroom.rpy:359
 translate crowdin ev_lisa_dressed_voy_02_beauti_c88b7a5d:
 
     # Lisa 16 "Ага, только и жду, чтобы полураздетой покрасоваться перед тобой! Я ведь маме на тебя нажалуюсь, если не уйдёшь!" nointeract
     Lisa 16 "Ага, только и жду, чтобы полураздетой покрасоваться перед тобой! Я ведь маме на тебя нажалуюсь, если не уйдёшь!" nointeract
 
-# game/scripts/story_01/myroom.rpy:425
+# game/scripts/story_01/myroom.rpy:428
 translate crowdin ev_023_08cc0642:
 
     # Lisa 01 "Эй, любитель заглядывать куда не надо, я пошла в школу. Не скучай тут без меня..."
     Lisa 01 "Эй, любитель заглядывать куда не надо, я пошла в школу. Не скучай тут без меня..."
 
-# game/scripts/story_01/myroom.rpy:427
+# game/scripts/story_01/myroom.rpy:430
 translate crowdin ev_023_ad8fc002:
 
     # Lisa 01 "Эй, любитель заглядывать куда не надо, я пошла гулять. Не скучай тут без меня..."
     Lisa 01 "Эй, любитель заглядывать куда не надо, я пошла гулять. Не скучай тут без меня..."
 
-# game/scripts/story_01/myroom.rpy:431
+# game/scripts/story_01/myroom.rpy:434
 translate crowdin ev_023_131e32c4:
 
     # Lisa 01 "Эй, Макс, я пошла в школу. Не скучай тут без меня..."
     Lisa 01 "Эй, Макс, я пошла в школу. Не скучай тут без меня..."
 
-# game/scripts/story_01/myroom.rpy:433
+# game/scripts/story_01/myroom.rpy:436
 translate crowdin ev_023_284585e5:
 
     # Lisa 01 "Эй, Макс, я пошла гулять. Не скучай тут без меня..."
     Lisa 01 "Эй, Макс, я пошла гулять. Не скучай тут без меня..."
 
-# game/scripts/story_01/myroom.rpy:435
+# game/scripts/story_01/myroom.rpy:438
 translate crowdin ev_023_09f0ad91:
 
     # Max 01 "А я буду. Успехов тебе!"
     Max 01 "А я буду. Успехов тебе!"
 
-# game/scripts/story_01/myroom.rpy:437
+# game/scripts/story_01/myroom.rpy:440
 translate crowdin ev_023_78942015:
 
     # Max 01 "А я буду. Не заблудись!"
     Max 01 "А я буду. Не заблудись!"
 
-# game/scripts/story_01/myroom.rpy:465
+# game/scripts/story_01/myroom.rpy:468
 translate crowdin ev_mgg_sleep_d8912cea:
 
     # tMax 00 "Пожалуй, пора ложиться спать..." nointeract
     tMax 00 "Пожалуй, пора ложиться спать..." nointeract
 
-# game/scripts/story_01/myroom.rpy:471
+# game/scripts/story_01/myroom.rpy:474
 translate crowdin ev_mgg_sleep_8382df5e:
 
     # tMax 14 "Моя голова уже совсем не соображает. Нужно ложиться спать..." nointeract
     tMax 14 "Моя голова уже совсем не соображает. Нужно ложиться спать..." nointeract
 
-# game/scripts/story_01/myroom.rpy:477
+# game/scripts/story_01/myroom.rpy:480
 translate crowdin ev_mgg_sleep_fcf4bb83:
 
     # tMax 00 "Пожалуй, пора ложиться спать... В котором часу мне лучше проснуться?" nointeract
     tMax 00 "Пожалуй, пора ложиться спать... В котором часу мне лучше проснуться?" nointeract
 
-# game/scripts/story_01/myroom.rpy:488
+# game/scripts/story_01/myroom.rpy:491
 translate crowdin ev_mgg_sleep_35f6b440:
 
     # tMax 07 "Всем доброй ночи и приятных снов..."
@@ -248,19 +248,19 @@ translate crowdin strings:
     old "Извини, не удержался... Хорошо выглядишь!"
     new "Извини, не удержался... Хорошо выглядишь!"
 
-    # game/scripts/story_01/myroom.rpy:464
+    # game/scripts/story_01/myroom.rpy:467
     old "{i}спать до утра{/i}"
     new "{i}спать до утра{/i}"
 
-    # game/scripts/story_01/myroom.rpy:476
+    # game/scripts/story_01/myroom.rpy:479
     old "{i}в 6 утра{/i}"
     new "{i}в 6 утра{/i}"
 
-    # game/scripts/story_01/myroom.rpy:476
+    # game/scripts/story_01/myroom.rpy:479
     old "{i}в 7 утра{/i}"
     new "{i}в 7 утра{/i}"
 
-    # game/scripts/story_01/myroom.rpy:476
+    # game/scripts/story_01/myroom.rpy:479
     old "{i}в 8 утра{/i}"
     new "{i}в 8 утра{/i}"
 

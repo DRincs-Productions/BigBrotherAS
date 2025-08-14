@@ -1,6 +1,6 @@
-﻿# TODO: Translation updated at 2025-08-11 18:01
+﻿# TODO: Translation updated at 2025-08-12 11:03
 
-# game/scripts/story_01/dreams.rpy:11
+# game/scripts/story_01/dreams.rpy:14
 translate crowdin ev_019_d1b851a2:
 
     # tMax 00 "Что у нас тут интересного? Посмотрим..."
@@ -390,7 +390,7 @@ translate crowdin ev_057_5d69d927:
     # Max 07 "Нет-нет! Ты не так поняла, я просто делаю ей массаж!"
     Max 07 "Нет-нет! Ты не так поняла, я просто делаю ей массаж!"
 
-# game/scripts/story_01/dreams.rpy:230
+# game/scripts/story_01/dreams.rpy:229
 translate crowdin ev_072_fe3c758c:
 
     # tMax 13 "Лиза уже наверно легла спать. Нужно вести себя потише, чтобы не разбудить её..."

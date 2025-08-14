@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-11 18:01
+﻿# TODO: Translation updated at 2025-08-12 11:03
 
 # game/scripts/story_01/eric.rpy:11
 translate crowdin ev_055_e6d21536:
@@ -198,619 +198,619 @@ translate crowdin ev_055_73a23927:
     # Eric 02 "О да, именно таким он и будет, парень. Я не сомневаюсь."
     Eric 02 "О да, именно таким он и будет, парень. Я не сомневаюсь."
 
-# game/scripts/story_01/eric.rpy:76
+# game/scripts/story_01/eric.rpy:77
 translate crowdin ev_055_11559131:
 
     # Ann 01 "До скорого, Макс. Не скучай, к полуночи я должна вернуться."
     Ann 01 "До скорого, Макс. Не скучай, к полуночи я должна вернуться."
 
-# game/scripts/story_01/eric.rpy:77
+# game/scripts/story_01/eric.rpy:78
 translate crowdin ev_055_17ea1592:
 
     # Max 12 "Да уж надеюсь. До скорого..."
     Max 12 "Да уж надеюсь. До скорого..."
 
-# game/scripts/story_01/eric.rpy:81
+# game/scripts/story_01/eric.rpy:84
 translate crowdin ev_055_b47ddb02:
 
     # tMax 13 "Хм... Вроде этот Эрик мужик, как мужик, но впечатление остаётся, будто... не знаю. Пока не понятно."
     tMax 13 "Хм... Вроде этот Эрик мужик, как мужик, но впечатление остаётся, будто... не знаю. Пока не понятно."
 
-# game/scripts/story_01/eric.rpy:82
+# game/scripts/story_01/eric.rpy:85
 translate crowdin ev_055_dcca9378:
 
     # tMax 11 "Ну да ладно, пойду-ка я посмотрю, чем там Алиса занимается..."
     tMax 11 "Ну да ладно, пойду-ка я посмотрю, чем там Алиса занимается..."
 
-# game/scripts/story_01/eric.rpy:89
+# game/scripts/story_01/eric.rpy:92
 translate crowdin ev_055_83aa0de4:
 
     # tMax 16 "Фу... Сигаретным дымом воняет. Это что, от соседей принесло или Алиса курит прямо у себя в комнате?" nointeract
     tMax 16 "Фу... Сигаретным дымом воняет. Это что, от соседей принесло или Алиса курит прямо у себя в комнате?" nointeract
 
-# game/scripts/story_01/eric.rpy:95
+# game/scripts/story_01/eric.rpy:98
 translate crowdin ev_055_922888a1:
 
     # tMax 15 "Ого, да Алиса весь страх потеряла! Курить у себя в комнате, когда рядом комната мамы... Вот дурёха!"
     tMax 15 "Ого, да Алиса весь страх потеряла! Курить у себя в комнате, когда рядом комната мамы... Вот дурёха!"
 
-# game/scripts/story_01/eric.rpy:99
+# game/scripts/story_01/eric.rpy:102
 translate crowdin ev_055_a71bc111:
 
     # Alice 16 "Макс! Что уставился? Дверь закрой и проваливай."
     Alice 16 "Макс! Что уставился? Дверь закрой и проваливай."
 
-# game/scripts/story_01/eric.rpy:100
+# game/scripts/story_01/eric.rpy:103
 translate crowdin ev_055_619b3f39:
 
     # Max 11 "Если ты так сильно хочешь позлить маму, шла бы сразу и курила в её постели. По заднице ведь получишь завтра."
     Max 11 "Если ты так сильно хочешь позлить маму, шла бы сразу и курила в её постели. По заднице ведь получишь завтра."
 
-# game/scripts/story_01/eric.rpy:101
+# game/scripts/story_01/eric.rpy:104
 translate crowdin ev_055_d79e00da:
 
     # Alice 11 "Нифига я не получу! Всё выветрится к её возвращению. И ты ничего ей не говори, а то я настучу тебе по самому ценному, понял?"
     Alice 11 "Нифига я не получу! Всё выветрится к её возвращению. И ты ничего ей не говори, а то я настучу тебе по самому ценному, понял?"
 
-# game/scripts/story_01/eric.rpy:102
+# game/scripts/story_01/eric.rpy:105
 translate crowdin ev_055_50c7b513:
 
     # Max 00 "Ну-ну... Как знаешь."
     Max 00 "Ну-ну... Как знаешь."
 
-# game/scripts/story_01/eric.rpy:118
+# game/scripts/story_01/eric.rpy:121
 translate crowdin ev_056_48c0c3fc:
 
     # tMax 11 "Уже полночь... Мама должна вот-вот вернуться. Пожалуй, пойду в гостиную и дождусь её возвращения, а чтобы не сильно скучать, посмотрю ТВ." nointeract
     tMax 11 "Уже полночь... Мама должна вот-вот вернуться. Пожалуй, пойду в гостиную и дождусь её возвращения, а чтобы не сильно скучать, посмотрю ТВ." nointeract
 
-# game/scripts/story_01/eric.rpy:124
+# game/scripts/story_01/eric.rpy:127
 translate crowdin ev_056_130fa9c7:
 
     # Alice 04 "Эй, Макс, ты что, во времени потерялся? «Спокойной ночи, малыши!» уже давно закончились, пора спать."
     Alice 04 "Эй, Макс, ты что, во времени потерялся? «Спокойной ночи, малыши!» уже давно закончились, пора спать."
 
-# game/scripts/story_01/eric.rpy:125
+# game/scripts/story_01/eric.rpy:128
 translate crowdin ev_056_1f2962aa:
 
     # Max 01 "Смешно. Мне будет так же смешно завтра, когда ты будешь оправдываться перед мамой."
     Max 01 "Смешно. Мне будет так же смешно завтра, когда ты будешь оправдываться перед мамой."
 
-# game/scripts/story_01/eric.rpy:129
+# game/scripts/story_01/eric.rpy:132
 translate crowdin ev_056_303b377f:
 
     # Alice 11 "Погоди! Ты сюда пришёл маму дожидаться, чтобы меня сдать?! Я же тебя предупреждала..."
     Alice 11 "Погоди! Ты сюда пришёл маму дожидаться, чтобы меня сдать?! Я же тебя предупреждала..."
 
-# game/scripts/story_01/eric.rpy:130
+# game/scripts/story_01/eric.rpy:133
 translate crowdin ev_056_1735678b:
 
     # Max 04 "Нет, просто спать пока не хочу. А сдавать тебя незачем, на втором этаже и без этого воняет сигаретами."
     Max 04 "Нет, просто спать пока не хочу. А сдавать тебя незачем, на втором этаже и без этого воняет сигаретами."
 
-# game/scripts/story_01/eric.rpy:131
+# game/scripts/story_01/eric.rpy:134
 translate crowdin ev_056_11c57688:
 
     # Alice 15 "Неправда! Ничего там не воняет!"
     Alice 15 "Неправда! Ничего там не воняет!"
 
-# game/scripts/story_01/eric.rpy:132
+# game/scripts/story_01/eric.rpy:135
 translate crowdin ev_056_aebbf642:
 
     # Max 02 "Ты просто привыкла к этому запаху. Так что готовься, будет попа-вава."
     Max 02 "Ты просто привыкла к этому запаху. Так что готовься, будет попа-вава."
 
-# game/scripts/story_01/eric.rpy:136
+# game/scripts/story_01/eric.rpy:139
 translate crowdin ev_056_d06e45de:
 
     # Alice 12 "Вот блин... Слушай, Макс... А ты можешь маме сказать, что это... ну, например... от соседей надуло или ещё что?"
     Alice 12 "Вот блин... Слушай, Макс... А ты можешь маме сказать, что это... ну, например... от соседей надуло или ещё что?"
 
-# game/scripts/story_01/eric.rpy:137
+# game/scripts/story_01/eric.rpy:140
 translate crowdin ev_056_f344309e:
 
     # Max 13 "Мне и прошлого раза хватило, когда я тебя начал отмазывать. Больше не хочу."
     Max 13 "Мне и прошлого раза хватило, когда я тебя начал отмазывать. Больше не хочу."
 
-# game/scripts/story_01/eric.rpy:138
+# game/scripts/story_01/eric.rpy:141
 translate crowdin ev_056_d07f8938:
 
     # Alice 15 "Ну по-жа-луй-ста!"
     Alice 15 "Ну по-жа-луй-ста!"
 
-# game/scripts/story_01/eric.rpy:139
+# game/scripts/story_01/eric.rpy:142
 translate crowdin ev_056_7aa2e03c:
 
     # Max 11 "Убедить маму будет непросто. Я, может, и попробую, но хочу за это от тебя что-нибудь особенное..."
     Max 11 "Убедить маму будет непросто. Я, может, и попробую, но хочу за это от тебя что-нибудь особенное..."
 
-# game/scripts/story_01/eric.rpy:140
+# game/scripts/story_01/eric.rpy:143
 translate crowdin ev_056_462d5550:
 
     # Alice 11 "Особенное? Это что, например?"
     Alice 11 "Особенное? Это что, например?"
 
-# game/scripts/story_01/eric.rpy:141
+# game/scripts/story_01/eric.rpy:144
 translate crowdin ev_056_2155f5f3:
 
     # Max 01 "Ну, есть у меня пара идеек, что. Но ты сперва согласись, что будешь мне должна, чтобы я не за зря старался."
     Max 01 "Ну, есть у меня пара идеек, что. Но ты сперва согласись, что будешь мне должна, чтобы я не за зря старался."
 
-# game/scripts/story_01/eric.rpy:142
+# game/scripts/story_01/eric.rpy:145
 translate crowdin ev_056_0c5369c9:
 
     # Alice 00 "Знаешь, что... Если сможешь отмазать меня перед мамой, то так уж и быть, за мной будет должок. И сразу предупреждаю, осторожнее с желаниями."
     Alice 00 "Знаешь, что... Если сможешь отмазать меня перед мамой, то так уж и быть, за мной будет должок. И сразу предупреждаю, осторожнее с желаниями."
 
-# game/scripts/story_01/eric.rpy:143
+# game/scripts/story_01/eric.rpy:146
 translate crowdin ev_056_abadddfc:
 
     # Max 11 "Договорились. Сделаю, что смогу."
     Max 11 "Договорились. Сделаю, что смогу."
 
-# game/scripts/story_01/eric.rpy:147
+# game/scripts/story_01/eric.rpy:150
 translate crowdin ev_056_52fc9d42:
 
     # tMax 04 "Вот бы прикупить пакет 18+ для ТВ, но мама точно об этом узнает. А было бы круто..."
     tMax 04 "Вот бы прикупить пакет 18+ для ТВ, но мама точно об этом узнает. А было бы круто..."
 
-# game/scripts/story_01/eric.rpy:151
+# game/scripts/story_01/eric.rpy:154
 translate crowdin ev_056_6b39cbac:
 
     # tMax 03 "У мамы платье, конечно, интересное... И больше всего будоражит то, что под ним больше ничего нет. Вот бы умудриться подсмотреть, как она будет переодеваться."
     tMax 03 "У мамы платье, конечно, интересное... И больше всего будоражит то, что под ним больше ничего нет. Вот бы умудриться подсмотреть, как она будет переодеваться."
 
-# game/scripts/story_01/eric.rpy:153
+# game/scripts/story_01/eric.rpy:158
 translate crowdin ev_056_845067ff:
 
     # tMax 12 "Ага, вот и какой-то звук во дворе! Наверно, мама приехала. Что мне лучше сделать?" nointeract
     tMax 12 "Ага, вот и какой-то звук во дворе! Наверно, мама приехала. Что мне лучше сделать?" nointeract
 
-# game/scripts/story_01/eric.rpy:157
+# game/scripts/story_01/eric.rpy:163
 translate crowdin ev_056_80c24f36:
 
     # Ann 11 "Ой, сынок, я думала ты уже спишь! Меня что ли ждёшь?"
     Ann 11 "Ой, сынок, я думала ты уже спишь! Меня что ли ждёшь?"
 
-# game/scripts/story_01/eric.rpy:158
+# game/scripts/story_01/eric.rpy:164
 translate crowdin ev_056_9f852dee:
 
     # Max 11 "Естественно! Хотел узнать, всё ли в порядке?"
     Max 11 "Естественно! Хотел узнать, всё ли в порядке?"
 
-# game/scripts/story_01/eric.rpy:159
+# game/scripts/story_01/eric.rpy:165
 translate crowdin ev_056_0de2d31d:
 
     # Ann 03 "Да, всё замечательно, но устала. Утром за завтраком обязательно всё расскажу. Беги спать."
     Ann 03 "Да, всё замечательно, но устала. Утром за завтраком обязательно всё расскажу. Беги спать."
 
-# game/scripts/story_01/eric.rpy:160
+# game/scripts/story_01/eric.rpy:166
 translate crowdin ev_056_12ed36ae:
 
     # Max 01 "Понял. Ты тоже ложись и отдыхай. Доброй ночи, мам."
     Max 01 "Понял. Ты тоже ложись и отдыхай. Доброй ночи, мам."
 
-# game/scripts/story_01/eric.rpy:161
+# game/scripts/story_01/eric.rpy:167
 translate crowdin ev_056_06576728:
 
     # Ann 02 "Да, Макс, приятных тебе снов."
     Ann 02 "Да, Макс, приятных тебе снов."
 
-# game/scripts/story_01/eric.rpy:170
+# game/scripts/story_01/eric.rpy:177
 translate crowdin ev_056_dont_meet_c8d23669:
 
     # tMax 13 "Я вовремя успел выключить ТВ и притаиться на диване. Жаль, что отсюда ничего не видно, но попка у мамы всё равно зачётная. Пойти что ли за ней..."
     tMax 13 "Я вовремя успел выключить ТВ и притаиться на диване. Жаль, что отсюда ничего не видно, но попка у мамы всё равно зачётная. Пойти что ли за ней..."
 
-# game/scripts/story_01/eric.rpy:176
+# game/scripts/story_01/eric.rpy:183
 translate crowdin ev_056_dont_meet_cd25b863:
 
     # tMax 11 "Мама там во всю уже должна переодеваться... Если не тормозить, то можно увидеть её без нижнего белья. Рискнуть или нет?" nointeract
     tMax 11 "Мама там во всю уже должна переодеваться... Если не тормозить, то можно увидеть её без нижнего белья. Рискнуть или нет?" nointeract
 
-# game/scripts/story_01/eric.rpy:187
+# game/scripts/story_01/eric.rpy:194
 translate crowdin ev_056_dont_meet_7de786c8:
 
     # tMax 05 "Обалденно! Как же повезло, что у меня такая горячая мама... Почти голой она выглядит потрясающе, аж глаза отрывать не хочется! Но лучше потихоньку уходить, пока она меня не заметила..." nointeract
     tMax 05 "Обалденно! Как же повезло, что у меня такая горячая мама... Почти голой она выглядит потрясающе, аж глаза отрывать не хочется! Но лучше потихоньку уходить, пока она меня не заметила..." nointeract
 
-# game/scripts/story_01/eric.rpy:197
+# game/scripts/story_01/eric.rpy:204
 translate crowdin ev_056_dont_meet_4375512d:
 
     # Ann 13 "Макс! Я же учила тебя стучаться! {p=2}{nw}"
     Ann 13 "Макс! Я же учила тебя стучаться! {p=2}{nw}"
 
-# game/scripts/story_01/eric.rpy:202
+# game/scripts/story_01/eric.rpy:209
 translate crowdin ev_056_dont_meet_1d5fe807:
 
     # Ann 14 "Нельзя вот так без предупреждения врываться в комнату! Ты почему не спишь?"
     Ann 14 "Нельзя вот так без предупреждения врываться в комнату! Ты почему не спишь?"
 
-# game/scripts/story_01/eric.rpy:203
+# game/scripts/story_01/eric.rpy:210
 translate crowdin ev_056_dont_meet_1e8bb066:
 
     # Max 12 "Извини! Хотел узнать, всё ли в порядке?"
     Max 12 "Извини! Хотел узнать, всё ли в порядке?"
 
-# game/scripts/story_01/eric.rpy:204
+# game/scripts/story_01/eric.rpy:211
 translate crowdin ev_056_dont_meet_f92e7b76:
 
     # Ann 11 "Сынок, я устала. Утром за завтраком обязательно всё расскажу. Беги спать."
     Ann 11 "Сынок, я устала. Утром за завтраком обязательно всё расскажу. Беги спать."
 
-# game/scripts/story_01/eric.rpy:206
+# game/scripts/story_01/eric.rpy:213
 translate crowdin ev_056_dont_meet_b3fa4a4b:
 
     # Max 00 "Понял. Доброй ночи, мам." nointeract
     Max 00 "Понял. Доброй ночи, мам." nointeract
 
-# game/scripts/story_01/eric.rpy:231
+# game/scripts/story_01/eric.rpy:238
 translate crowdin ev_128_99524b84:
 
     # Ann 01 "А вот и я, мои дорогие. У нас сегодня гость. Знакомьтесь, это - Эрик. Он один из руководителей компании, в которой я работаю. Я пригласила его поужинать с нами."
     Ann 01 "А вот и я, мои дорогие. У нас сегодня гость. Знакомьтесь, это - Эрик. Он один из руководителей компании, в которой я работаю. Я пригласила его поужинать с нами."
 
-# game/scripts/story_01/eric.rpy:232
+# game/scripts/story_01/eric.rpy:239
 translate crowdin ev_128_bd381f70:
 
     # Eric 01 "Всем добрый вечер!"
     Eric 01 "Всем добрый вечер!"
 
-# game/scripts/story_01/eric.rpy:233
+# game/scripts/story_01/eric.rpy:240
 translate crowdin ev_128_4245affa:
 
     # Alice 01 "Здравствуйте!"
     Alice 01 "Здравствуйте!"
 
-# game/scripts/story_01/eric.rpy:234
+# game/scripts/story_01/eric.rpy:241
 translate crowdin ev_128_ddcf02b7:
 
     # Lisa 11 "Добрый вечер!"
     Lisa 11 "Добрый вечер!"
 
-# game/scripts/story_01/eric.rpy:235
+# game/scripts/story_01/eric.rpy:242
 translate crowdin ev_128_dd85397c:
 
     # Max 12 "Ага, уже знакомы."
     Max 12 "Ага, уже знакомы."
 
-# game/scripts/story_01/eric.rpy:239
+# game/scripts/story_01/eric.rpy:246
 translate crowdin ev_128_97e5845a:
 
     # Ann 02 "Да, с Максом вы уже знакомы, а это мои дочери... Та, что посветлее и пониже - моя младшая дочь, Лиза. А та, что смуглее и выше - старшая дочь, Алиса."
     Ann 02 "Да, с Максом вы уже знакомы, а это мои дочери... Та, что посветлее и пониже - моя младшая дочь, Лиза. А та, что смуглее и выше - старшая дочь, Алиса."
 
-# game/scripts/story_01/eric.rpy:240
+# game/scripts/story_01/eric.rpy:247
 translate crowdin ev_128_3f9d5df0:
 
     # Eric 03 "Ого! Определённо, все в маму, такие же красавицы..."
     Eric 03 "Ого! Определённо, все в маму, такие же красавицы..."
 
-# game/scripts/story_01/eric.rpy:241
+# game/scripts/story_01/eric.rpy:248
 translate crowdin ev_128_23c1676b:
 
     # Alice 02 "Спасибо, Эрик!"
     Alice 02 "Спасибо, Эрик!"
 
-# game/scripts/story_01/eric.rpy:242
+# game/scripts/story_01/eric.rpy:249
 translate crowdin ev_128_248b127f:
 
     # Lisa 02 "Мы рады с вами познакомиться!"
     Lisa 02 "Мы рады с вами познакомиться!"
 
-# game/scripts/story_01/eric.rpy:244
+# game/scripts/story_01/eric.rpy:251
 translate crowdin ev_128_c0bdab1b:
 
     # Ann 03 "Я пойду быстренько переоденусь и сядем ужинать. Мы завтракаем и ужинаем здесь, на свежем воздухе. Пообщайтесь немного, пока я отсутствую. Макс, а ты идёшь со мной..."
     Ann 03 "Я пойду быстренько переоденусь и сядем ужинать. Мы завтракаем и ужинаем здесь, на свежем воздухе. Пообщайтесь немного, пока я отсутствую. Макс, а ты идёшь со мной..."
 
-# game/scripts/story_01/eric.rpy:245
+# game/scripts/story_01/eric.rpy:252
 translate crowdin ev_128_4fe28e55:
 
     # Max 11 "Да?! Ну, ладно..."
     Max 11 "Да?! Ну, ладно..."
 
-# game/scripts/story_01/eric.rpy:250
+# game/scripts/story_01/eric.rpy:257
 translate crowdin ev_128_5acf9aa5:
 
     # Ann 14 "В честь того, что у нас сегодня гости, я не стану тебя перед всеми отчитывать. Хотя и следовало бы."
     Ann 14 "В честь того, что у нас сегодня гости, я не стану тебя перед всеми отчитывать. Хотя и следовало бы."
 
-# game/scripts/story_01/eric.rpy:252
+# game/scripts/story_01/eric.rpy:259
 translate crowdin ev_128_ef5743e9:
 
     # Ann 14 "В честь того, что у нас сегодня гости, я не стану тебя перед всеми наказывать. Хотя и следовало бы."
     Ann 14 "В честь того, что у нас сегодня гости, я не стану тебя перед всеми наказывать. Хотя и следовало бы."
 
-# game/scripts/story_01/eric.rpy:253
+# game/scripts/story_01/eric.rpy:260
 translate crowdin ev_128_731e4ca7:
 
     # Max 17 "Так я же не виноват!"
     Max 17 "Так я же не виноват!"
 
-# game/scripts/story_01/eric.rpy:254
+# game/scripts/story_01/eric.rpy:261
 translate crowdin ev_128_8c8c190a:
 
     # Ann 10 "У меня сейчас нет времени на твои шуточки. В следующий раз мне уже будет без разницы, гости или нет, ты получишь по заслугам, ясно?"
     Ann 10 "У меня сейчас нет времени на твои шуточки. В следующий раз мне уже будет без разницы, гости или нет, ты получишь по заслугам, ясно?"
 
-# game/scripts/story_01/eric.rpy:255
+# game/scripts/story_01/eric.rpy:262
 translate crowdin ev_128_2f6558f0:
 
     # Max 16 "Да, мам, ясно..."
     Max 16 "Да, мам, ясно..."
 
-# game/scripts/story_01/eric.rpy:260
+# game/scripts/story_01/eric.rpy:267
 translate crowdin ev_128_4ce84cc4:
 
     # Ann 01 "Всё, давай марш из комнаты. Я скоро к вам выйду..."
     Ann 01 "Всё, давай марш из комнаты. Я скоро к вам выйду..."
 
-# game/scripts/story_01/eric.rpy:261
+# game/scripts/story_01/eric.rpy:268
 translate crowdin ev_128_ab759c16:
 
     # Max 05 "А я бы и тут тебя подождал с удовольствием."
     Max 05 "А я бы и тут тебя подождал с удовольствием."
 
-# game/scripts/story_01/eric.rpy:263
+# game/scripts/story_01/eric.rpy:270
 translate crowdin ev_128_8bf30b3b:
 
     # Ann 11 "Макс, я кому сказала? Иди..." nointeract
     Ann 11 "Макс, я кому сказала? Иди..." nointeract
 
-# game/scripts/story_01/eric.rpy:268
+# game/scripts/story_01/eric.rpy:275
 translate crowdin ev_128_cf700b82:
 
     # Ann 03 "Я пойду быстренько переоденусь и сядем ужинать. Мы завтракаем и ужинаем здесь, на свежем воздухе. Пообщайтесь немного, пока я отсутствую. Всё, побежала..."
     Ann 03 "Я пойду быстренько переоденусь и сядем ужинать. Мы завтракаем и ужинаем здесь, на свежем воздухе. Пообщайтесь немного, пока я отсутствую. Всё, побежала..."
 
-# game/scripts/story_01/eric.rpy:272
+# game/scripts/story_01/eric.rpy:279
 translate crowdin ev_128_4ff4333f:
 
     # Eric 02 "Мама у вас, девочки, просто потрясающая, должен сказать. Правда, я могу судить только по рабочей обстановке. Как у вас с ней, хорошо получается дома уживаться? Или вернее будет сказать, ей с вами?"
     Eric 02 "Мама у вас, девочки, просто потрясающая, должен сказать. Правда, я могу судить только по рабочей обстановке. Как у вас с ней, хорошо получается дома уживаться? Или вернее будет сказать, ей с вами?"
 
-# game/scripts/story_01/eric.rpy:273
+# game/scripts/story_01/eric.rpy:280
 translate crowdin ev_128_57e1e09e:
 
     # Alice 11 "Как вам сказать... Да, но... она довольно строгая. Не хочется признавать, но по большей части, справедливая."
     Alice 11 "Как вам сказать... Да, но... она довольно строгая. Не хочется признавать, но по большей части, справедливая."
 
-# game/scripts/story_01/eric.rpy:274
+# game/scripts/story_01/eric.rpy:281
 translate crowdin ev_128_d7c3d8a8:
 
     # Lisa 01 "А вы с какой целью интересуетесь?"
     Lisa 01 "А вы с какой целью интересуетесь?"
 
-# game/scripts/story_01/eric.rpy:275
+# game/scripts/story_01/eric.rpy:282
 translate crowdin ev_128_d64109d3:
 
     # Max 13 "Кстати, да..."
     Max 13 "Кстати, да..."
 
-# game/scripts/story_01/eric.rpy:276
+# game/scripts/story_01/eric.rpy:283
 translate crowdin ev_128_0bb8d7c7:
 
     # Eric 01 "Да так, женщина она интересная и когда такая женщина приглашает поужинать - неприлично отказываться."
     Eric 01 "Да так, женщина она интересная и когда такая женщина приглашает поужинать - неприлично отказываться."
 
-# game/scripts/story_01/eric.rpy:281
+# game/scripts/story_01/eric.rpy:288
 translate crowdin ev_128_9c7ec33e:
 
     # Ann 04 "Фух... Я готова! Ну что, ужинаем пока не остыло?"
     Ann 04 "Фух... Я готова! Ну что, ужинаем пока не остыло?"
 
-# game/scripts/story_01/eric.rpy:282
+# game/scripts/story_01/eric.rpy:289
 translate crowdin ev_128_92f945f7:
 
     # Max 11 "Конечно!"
     Max 11 "Конечно!"
 
-# game/scripts/story_01/eric.rpy:286
+# game/scripts/story_01/eric.rpy:293
 translate crowdin ev_128_9596c171:
 
     # Ann 01 "Всем приятного аппетита! Похоже, всем всего хватило? А то я пригласила Эрика на ужин уже когда мы ехали в машине и не успела вас предупредить. Но Алиса у меня и без этого справилась."
     Ann 01 "Всем приятного аппетита! Похоже, всем всего хватило? А то я пригласила Эрика на ужин уже когда мы ехали в машине и не успела вас предупредить. Но Алиса у меня и без этого справилась."
 
-# game/scripts/story_01/eric.rpy:287
+# game/scripts/story_01/eric.rpy:294
 translate crowdin ev_128_2b1195e1:
 
     # Max 13 "Лучше предупреждать."
     Max 13 "Лучше предупреждать."
 
-# game/scripts/story_01/eric.rpy:288
+# game/scripts/story_01/eric.rpy:295
 translate crowdin ev_128_06892c82:
 
     # Eric 02 "Значит, готовку на старшенькую спихнула, пока на работе, так?"
     Eric 02 "Значит, готовку на старшенькую спихнула, пока на работе, так?"
 
-# game/scripts/story_01/eric.rpy:289
+# game/scripts/story_01/eric.rpy:296
 translate crowdin ev_128_904ad4c8:
 
     # Ann 10 "Именно. Она всё равно ерундой мается каждый день, так пусть хотя бы за ужин отвечает."
     Ann 10 "Именно. Она всё равно ерундой мается каждый день, так пусть хотя бы за ужин отвечает."
 
-# game/scripts/story_01/eric.rpy:290
+# game/scripts/story_01/eric.rpy:297
 translate crowdin ev_128_b6a2dc8b:
 
     # Alice 12 "Мам!!! Может, не надо меня перед гостем позорить? И вообще, ничего я не маюсь... Я пробую разные идеи... Мне даже Макс с этим помогает."
     Alice 12 "Мам!!! Может, не надо меня перед гостем позорить? И вообще, ничего я не маюсь... Я пробую разные идеи... Мне даже Макс с этим помогает."
 
-# game/scripts/story_01/eric.rpy:291
+# game/scripts/story_01/eric.rpy:298
 translate crowdin ev_128_f8d0f84e:
 
     # Ann 12 "Макс у нас - это вообще отдельная тема. Мало того, что не знает, чем в жизни будет заниматься, так ещё и из школы выгнали."
     Ann 12 "Макс у нас - это вообще отдельная тема. Мало того, что не знает, чем в жизни будет заниматься, так ещё и из школы выгнали."
 
-# game/scripts/story_01/eric.rpy:292
+# game/scripts/story_01/eric.rpy:299
 translate crowdin ev_128_32e24533:
 
     # Max 12 "Я так полагаю, мне это будут припоминать до самой старости, да?"
     Max 12 "Я так полагаю, мне это будут припоминать до самой старости, да?"
 
-# game/scripts/story_01/eric.rpy:293
+# game/scripts/story_01/eric.rpy:300
 translate crowdin ev_128_1e88ee67:
 
     # Ann 02 "Одна Лиза у нас самая порядочная и ответственная. Хотя, и с ней проблемы бывают."
     Ann 02 "Одна Лиза у нас самая порядочная и ответственная. Хотя, и с ней проблемы бывают."
 
-# game/scripts/story_01/eric.rpy:294
+# game/scripts/story_01/eric.rpy:301
 translate crowdin ev_128_cb859453:
 
     # Eric 08 "Должно быть трудно уследить за всеми детьми одной, вот они и разболтались. Так что давайте, за ум беритесь чтобы перед гостями стыдно не было."
     Eric 08 "Должно быть трудно уследить за всеми детьми одной, вот они и разболтались. Так что давайте, за ум беритесь чтобы перед гостями стыдно не было."
 
-# game/scripts/story_01/eric.rpy:295
+# game/scripts/story_01/eric.rpy:302
 translate crowdin ev_128_31c59fbd:
 
     # Max 16 "Как-нибудь сами разберёмся."
     Max 16 "Как-нибудь сами разберёмся."
 
-# game/scripts/story_01/eric.rpy:296
+# game/scripts/story_01/eric.rpy:303
 translate crowdin ev_128_714ac23a:
 
     # Ann 10 "Макс, давай-ка повежливее. Эрик правильно говорит и я сколько раз вам это говорила."
     Ann 10 "Макс, давай-ка повежливее. Эрик правильно говорит и я сколько раз вам это говорила."
 
-# game/scripts/story_01/eric.rpy:297
+# game/scripts/story_01/eric.rpy:304
 translate crowdin ev_128_1a59d17c:
 
     # Max 13 "Как-будто это за пять минут делается. Нужно время..."
     Max 13 "Как-будто это за пять минут делается. Нужно время..."
 
-# game/scripts/story_01/eric.rpy:298
+# game/scripts/story_01/eric.rpy:305
 translate crowdin ev_128_bc47d53f:
 
     # Eric 09 "Согласен, Макс. Не растрачивайте его на всякую ерунду. Надеюсь, когда ваша мама снова пригласит меня поужинать, вам уже будет чем похвастаться. Пора мне ехать, Ань."
     Eric 09 "Согласен, Макс. Не растрачивайте его на всякую ерунду. Надеюсь, когда ваша мама снова пригласит меня поужинать, вам уже будет чем похвастаться. Пора мне ехать, Ань."
 
-# game/scripts/story_01/eric.rpy:302
+# game/scripts/story_01/eric.rpy:309
 translate crowdin ev_128_3ec32840:
 
     # Ann 11 "Уже?! Я думала, ещё посидишь..."
     Ann 11 "Уже?! Я думала, ещё посидишь..."
 
-# game/scripts/story_01/eric.rpy:303
+# game/scripts/story_01/eric.rpy:310
 translate crowdin ev_128_97ca6ec6:
 
     # Eric 01 "Нет, надо с делами некоторыми разобраться."
     Eric 01 "Нет, надо с делами некоторыми разобраться."
 
-# game/scripts/story_01/eric.rpy:304
+# game/scripts/story_01/eric.rpy:311
 translate crowdin ev_128_3b4e563b:
 
     # Max 16 "Эээ... Давайте без рук! У вас рабочие отношения или какие?"
     Max 16 "Эээ... Давайте без рук! У вас рабочие отношения или какие?"
 
-# game/scripts/story_01/eric.rpy:308
+# game/scripts/story_01/eric.rpy:315
 translate crowdin ev_128_df83efb7:
 
     # Ann 10 "Ты почему себя так ведёшь, Макс?"
     Ann 10 "Ты почему себя так ведёшь, Макс?"
 
-# game/scripts/story_01/eric.rpy:309
+# game/scripts/story_01/eric.rpy:316
 translate crowdin ev_128_e15ef78b:
 
     # Eric 08 "Ничего, Ань. Парень меня всего второй раз в жизни видит и не знает, что я за человек. Кому как не ему вас, девочек, защищать от всяких мужиков, которые заваливаются к вам домой без предупреждения. Так ведь, Макс?"
     Eric 08 "Ничего, Ань. Парень меня всего второй раз в жизни видит и не знает, что я за человек. Кому как не ему вас, девочек, защищать от всяких мужиков, которые заваливаются к вам домой без предупреждения. Так ведь, Макс?"
 
-# game/scripts/story_01/eric.rpy:310
+# game/scripts/story_01/eric.rpy:317
 translate crowdin ev_128_fc70f4f3:
 
     # Max 13 "Вот именно."
     Max 13 "Вот именно."
 
-# game/scripts/story_01/eric.rpy:311
+# game/scripts/story_01/eric.rpy:318
 translate crowdin ev_128_bfc01002:
 
     # Eric 02 "Спасибо за ужин, всё было очень вкусно! Рад был с вами всеми познакомиться. Ещё увидимся..."
     Eric 02 "Спасибо за ужин, всё было очень вкусно! Рад был с вами всеми познакомиться. Ещё увидимся..."
 
-# game/scripts/story_01/eric.rpy:312
+# game/scripts/story_01/eric.rpy:319
 translate crowdin ev_128_1922128c:
 
     # Alice 03 "Мы тоже были рады познакомиться!"
     Alice 03 "Мы тоже были рады познакомиться!"
 
-# game/scripts/story_01/eric.rpy:313
+# game/scripts/story_01/eric.rpy:320
 translate crowdin ev_128_ec0a6563:
 
     # Lisa 02 "До свидания!"
     Lisa 02 "До свидания!"
 
-# game/scripts/story_01/eric.rpy:317
+# game/scripts/story_01/eric.rpy:324
 translate crowdin ev_128_578996e4:
 
     # Ann 14 "Я, конечно, всё понимаю, сынок, но с гостями нужно себя вести повежливее. Это не только тебя не красит, но и меня позорит, что я тебя так воспитала!"
     Ann 14 "Я, конечно, всё понимаю, сынок, но с гостями нужно себя вести повежливее. Это не только тебя не красит, но и меня позорит, что я тебя так воспитала!"
 
-# game/scripts/story_01/eric.rpy:318
+# game/scripts/story_01/eric.rpy:325
 translate crowdin ev_128_bd3cbc25:
 
     # Max 12 "Да кто вообще знает, что у этого Эрика на уме?"
     Max 12 "Да кто вообще знает, что у этого Эрика на уме?"
 
-# game/scripts/story_01/eric.rpy:319
+# game/scripts/story_01/eric.rpy:326
 translate crowdin ev_128_0dbbc6ba:
 
     # Ann 10 "Макс, он занимает высокую должность в компании, где я работаю. Кого попало туда не берут."
     Ann 10 "Макс, он занимает высокую должность в компании, где я работаю. Кого попало туда не берут."
 
-# game/scripts/story_01/eric.rpy:320
+# game/scripts/story_01/eric.rpy:327
 translate crowdin ev_128_d56730e8:
 
     # Max 13 "Может быть. Посмотрим..."
     Max 13 "Может быть. Посмотрим..."
 
-# game/scripts/story_01/eric.rpy:324
+# game/scripts/story_01/eric.rpy:331
 translate crowdin ev_128_a0cdd718:
 
     # tMax 17 "И зачем нас вообще с этим Эриком знакомить? Ладно, когда подружки с работы - это одно. А вот мужики с работы - это уже недобрый знак. Опять будет море слёз и куча пустых бутылок из под вина, как после расставания с моим отцом."
     tMax 17 "И зачем нас вообще с этим Эриком знакомить? Ладно, когда подружки с работы - это одно. А вот мужики с работы - это уже недобрый знак. Опять будет море слёз и куча пустых бутылок из под вина, как после расставания с моим отцом."
 
-# game/scripts/story_01/eric.rpy:329
+# game/scripts/story_01/eric.rpy:336
 translate crowdin ev_128_6e35fdeb:
 
     # tMax 12 "О! А Эрик ещё не уехал. По телефону о чём-то разговаривает..." nointeract
     tMax 12 "О! А Эрик ещё не уехал. По телефону о чём-то разговаривает..." nointeract
 
-# game/scripts/story_01/eric.rpy:332
+# game/scripts/story_01/eric.rpy:339
 translate crowdin ev_128_c05867fb:
 
     # Eric 00 "...найду, дело времени. Контакт я наладил. Думаю, уже скоро я её буду трахать... Может, даже не её одну, хе-хе..."
     Eric 00 "...найду, дело времени. Контакт я наладил. Думаю, уже скоро я её буду трахать... Может, даже не её одну, хе-хе..."
 
-# game/scripts/story_01/eric.rpy:333
+# game/scripts/story_01/eric.rpy:340
 translate crowdin ev_128_4546c14f:
 
     # tMax 16 "Сильное заявление! Интересно, кого это ты там собираешься трахать в таких количествах?"
     tMax 16 "Сильное заявление! Интересно, кого это ты там собираешься трахать в таких количествах?"
 
-# game/scripts/story_01/eric.rpy:334
+# game/scripts/story_01/eric.rpy:341
 translate crowdin ev_128_049e9d8b:
 
     # Eric 00 "Я понял, да. Не переживай, я-то с этой задачей справлюсь..."
     Eric 00 "Я понял, да. Не переживай, я-то с этой задачей справлюсь..."
 
-# game/scripts/story_01/eric.rpy:338
+# game/scripts/story_01/eric.rpy:345
 translate crowdin ev_128_76b4e4ab:
 
     # Max 17 "Вот и уезжает наконец-то. «Он занимает высокую должность в компании, кого попало туда не берут» она сказала... Ну да, ну да..."
     Max 17 "Вот и уезжает наконец-то. «Он занимает высокую должность в компании, кого попало туда не берут» она сказала... Ну да, ну да..."
 
-# game/scripts/story_01/eric.rpy:342
+# game/scripts/story_01/eric.rpy:349
 translate crowdin ev_128_cbd653d1:
 
     # tMax 13 "Честно говоря, это какой-то странный разговор был... Вроде и деловой, а разговаривали о том, что стоит задача кого-то там трахать."
     tMax 13 "Честно говоря, это какой-то странный разговор был... Вроде и деловой, а разговаривали о том, что стоит задача кого-то там трахать."
 
-# game/scripts/story_01/eric.rpy:343
+# game/scripts/story_01/eric.rpy:350
 translate crowdin ev_128_915029e5:
 
     # tMax 12 "Может, Эрик пикапом в свободное от работы время занимается? Вполне себе версия. Смущает только его фраза «контакт я наладил». И это сразу после нашего ужина..."
     tMax 12 "Может, Эрик пикапом в свободное от работы время занимается? Вполне себе версия. Смущает только его фраза «контакт я наладил». И это сразу после нашего ужина..."
 
-# game/scripts/story_01/eric.rpy:344
+# game/scripts/story_01/eric.rpy:351
 translate crowdin ev_128_cb2cf8da:
 
     # tMax 16 "Чёрт, а если он говорил про {b}НАС{/b}??? Хм... Как бы там ни было, надо с этого товарища глаз не спускать, если он снова будет здесь ошиваться..."
@@ -830,23 +830,23 @@ translate crowdin strings:
     old "{i}выйти во двор{/i}"
     new "{i}выйти во двор{/i}"
 
-    # game/scripts/story_01/eric.rpy:117
+    # game/scripts/story_01/eric.rpy:120
     old "{i}идти в гостиную{/i}"
     new "{i}идти в гостиную{/i}"
 
-    # game/scripts/story_01/eric.rpy:152
+    # game/scripts/story_01/eric.rpy:157
     old "Конечно, встретить её!"
     new "Конечно, встретить её!"
 
-    # game/scripts/story_01/eric.rpy:152
+    # game/scripts/story_01/eric.rpy:157
     old "Не встречать её!"
     new "Не встречать её!"
 
-    # game/scripts/story_01/eric.rpy:262
+    # game/scripts/story_01/eric.rpy:269
     old "{i}выйти из комнаты{/i}"
     new "{i}выйти из комнаты{/i}"
 
-    # game/scripts/story_01/eric.rpy:328
+    # game/scripts/story_01/eric.rpy:335
     old "{i}прислушаться{/i}"
     new "{i}прислушаться{/i}"
 
