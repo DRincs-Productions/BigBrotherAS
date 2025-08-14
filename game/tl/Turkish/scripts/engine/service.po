@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/engine/service.po\n"
+"X-Crowdin-File-ID: 9077\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2025-08-11 15:34\n"
+
+# TODO: Translation updated at 2025-08-11 18:01 #|#|# # game/scripts/engine/service.rpy:77 #-#-# translate crowdin nothing_to_do_423a776a:
+msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
+msgstr "[_tMax_s_12_] Şimdilik burada yapacak başka bir şeyim yok..."
+
+# game/scripts/engine/service.rpy:501 #-#-# translate crowdin after_buy_388f9ec2:
+msgid "[_tMax_s_12_] Да уж... Пришлось раскошелиться... Надеюсь, благодаря этой книге мне удастся создать свой сайт и хорошо заработать."
+msgstr ""
+
+# game/scripts/engine/service.rpy:502 #-#-# translate crowdin after_buy_1673198b:
+msgid "[_tMax_s_01_] Но книгу, как и другие товары, заказанные в интернете, доставят только завтра. Поэтому пока можно отдохнуть..."
+msgstr ""
+
+# game/scripts/engine/service.rpy:516 #-#-# translate crowdin webcam_show_8e2c7b14:
+msgid "[_tMax_s_11_] Прилягу-ка я на кровать, чтобы Лиза не увидела ничего такого..."
+msgstr "[Yatağa uzanacağım, böylece Lisa bunların hiçbirini görmeyecek..."
+
+# game/scripts/engine/service.rpy:523 #-#-# translate crowdin webcam_show_2717e9a0:
+msgid "[_tMax_s_11_] Прилягу-ка я на кровать, чтобы Лиза не увидела ничего такого, если зайдёт в комнату..."
+msgstr "[_tMax_s_11_] Yatağa uzanacağım, böylece Lisa odaya gelirse bunların hiçbirini görmeyecek..."
+

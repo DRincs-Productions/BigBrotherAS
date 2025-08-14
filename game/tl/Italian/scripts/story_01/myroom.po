@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/story_01/myroom.po\n"
+"X-Crowdin-File-ID: 9143\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2025-03-15 14:06\n"
+
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # game/scripts/story_01/myroom.rpy:12 #-#-# translate crowdin ev_lisa_dressed_79ffde85:
+msgid "[_tMax_s_11_] Сейчас Лиза должна собираться в школу... [nointeract]"
+msgstr "[_tMax_s_11_] Adesso Lisa deve prepararsi per la scuola... [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:14 #-#-# translate crowdin ev_lisa_dressed_03e19703:
+msgid "[_tMax_s_11_] Сейчас Лиза должна собираться, чтобы отправиться вместе со всеми по магазинам... [nointeract]"
+msgstr "[_tMax_s_11_] Ora Lisa deve prepararsi per andare a fare shopping con tutti gli altri... [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:16 #-#-# translate crowdin ev_lisa_dressed_132efbad:
+msgid "[_tMax_s_11_] Сейчас Лиза должна собираться, чтобы пойти погулять. Ну, или что она там ещё делает... [nointeract]"
+msgstr "[_tMax_s_11_] Ora Lisa deve prepararsi per andare a fare una passeggiata. Beh, o qualsiasi altra cosa stia facendo... [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:18 #-#-# translate crowdin ev_lisa_dressed_20a2303c:
+msgid "[_tMax_s_11_] Сейчас Лиза должна собираться, чтобы отправиться на занятие к репетитору... [nointeract]"
+msgstr "[_tMax_s_11_] Ora Lisa deve prepararsi per andare a lezione dal suo tutor... [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:56 #-#-# translate crowdin ev_lisa_dressed_voy_01_2320bacb:
+msgid "[_tMax_s_03_] Ого, какой вид! Вот это я удачно заглянул! Моя младшая сестрёнка как раз переодевается... [nointeract]"
+msgstr "[_tMax_s_03_] Wow, che vista! Che colpo di fortuna ho avuto! La mia sorellina si sta cambiando... [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:83 #-#-# translate crowdin ev_lisa_dressed_voy_01_c6abd115:
+msgid "[_tMax_s_15_] Фух! Кажется, она не успела меня заметить... Надо сматываться! [nointeract]"
+msgstr "[_tMax_s_15_] Non credo che mi abbia visto in tempo... Devo andarmene da qui! [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:118 #-#-# translate crowdin ev_lisa_dressed_voy_02_9e5f3296:
+msgid "[_tMax_s_05_] Ох, Лиза! Благодаря зеркалу я могу разглядеть тебя со всех сторон... Главное, чтобы там не было видно меня. [nointeract]"
+msgstr "[_tMax_s_05_] Oh, Lisa! Grazie allo specchio, posso vedere tutti i tuoi lati... Basta che non mi vedi. [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:154 #-#-# translate crowdin ev_lisa_dressed_voy_02_fb3e4162:
+msgid "[_Lisa_s_10_] Ой, Макс! Я не одета!!! Не мешай мне собираться в школу! [nointeract]"
+msgstr "[_Lisa_s_10_] Oh, Max! Non sono vestita!!! Non impedirmi di prepararmi per la scuola! [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:156 #-#-# translate crowdin ev_lisa_dressed_voy_02_bd952045:
+msgid "[_Lisa_s_10_] Ой, Макс! Я не одета!!! Не мешай мне собираться для похода по магазинам! [nointeract]"
+msgstr "[_Lisa_s_10_] Oh, Max! Non sono vestita!!! Non impedirmi di prepararmi per lo shopping! [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:158 #-#-# translate crowdin ev_lisa_dressed_voy_02_10f8d448:
+msgid "[_Lisa_s_10_] Ой, Макс! Я не одета!!! Не мешай мне собираться! [nointeract]"
+msgstr "[_Lisa_s_10_] Oh, Max! Non sono vestita! Non interferire quando mi preparo! [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:174 #-#-# translate crowdin ev_lisa_dressed_moment0_0729fd8a:
+msgid "[_Lisa_s_11_] Ой, Макс! А ты можешь немного погулять? Я переодеться хотела... [nointeract]"
+msgstr "[_Lisa_s_11_] Oh, Max! Non puoi uscire un po'? Volevo cambiarmi... [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:178 #-#-# translate crowdin ev_lisa_dressed_moment0_b6788198:
+msgid "[_Lisa_s_02_] Спасибо, Макс. Я быстренько! [nointeract]"
+msgstr "[_Lisa_s_02_] Grazie, Max. Sarò veloce! [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:195 #-#-# translate crowdin ev_lisa_dressed_moment2_7563d1c8:
+msgid "[_Lisa_s_14_] Макс! Я не одета!!! {p=2}{nw}"
+msgstr "[_Lisa_s_14_] Max! Non sono vestita! {p=2}{nw}"
+
+# game/scripts/story_01/myroom.rpy:201 #-#-# translate crowdin ev_lisa_dressed_moment2_6be878fb:
+msgid "[_Lisa_s_15_] Быстро закрой дверь с той стороны и не входи, пока я не переоденусь! [nointeract]"
+msgstr "[_Lisa_s_15_] Chiudi velocemente la porta e non entrare finché non mi sarò cambiata! [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:219 #-#-# translate crowdin ev_lisa_dressed_moment1_03abbfec:
+msgid "[_Lisa_s_15_] Макс! Я не одета!!! Быстро закрой дверь с той стороны и не входи, пока я не переоденусь! [nointeract]"
+msgstr "[_Lisa_s_15_] Max! Non sono vestita!!! Chiudi velocemente la porta e non entrare finché non mi sono cambiata! [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:232 #-#-# translate crowdin ev_lisa_dressed_in_front_of_max_5d433931:
+msgid "[_Lisa_s_11_] Макс, мне нужно переодеться. Будь добр, погуляй немного или отвернись... [nointeract]"
+msgstr "[_Lisa_s_11_] Max, devo cambiarmi. Saresti così gentile da fare un giro oppure girarti... [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:237 #-#-# translate crowdin ev_lisa_dressed_in_front_of_max_6025f711:
+msgid "[_Lisa_] {b}Лиза: {/b}\n"
+"Я быстро... Главное, не подглядывай! Надеюсь, тебе это по силам... [nointeract]"
+msgstr "[_Lisa_]{b}Lisa: {/b}\n"
+"Sarò veloce... Ma non sbirciare! Spero che tu possa farlo... [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:263 #-#-# translate crowdin ev_lisa_dressed_try_to_peek_abe6c5ae:
+msgid "[_tMax_s_05_] Повезло! Лиза не видит, что я подглядываю... Ещё совсем юная, но уже такая сексуальная! Обожаю её... [nointeract]"
+msgstr "[_tMax_s_05_] Fortunato! Lisa non vede che sto sbirciando... È così giovane, ma è già così sexy. La amo... [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:279 #-#-# translate crowdin ev_lisa_dressed_try_to_peek_7a70ecae:
+msgid "[_Lisa_s_15_] Макс! Я же просила не подглядывать! Ну-ка быстро отвернись... Ещё раз так сделаешь и я всё маме расскажу! Понял?! [nointeract]"
+msgstr "[_Lisa_s_15_] Max! Ti ho detto di non sbirciare! Girati e basta... Fallo di nuovo e lo dirò alla mamma! Capito?! [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:286 #-#-# translate crowdin ev_lisa_dressed_try_to_peek_21854b11:
+msgid "[_Lisa_s_11_] Ой, Макс... Ты ещё больше меня засмущал! Не пялься так на меня, отвернись... [nointeract]"
+msgstr "[_Lisa_s_11_] Oh, Max... Mi hai messo ancora più in imbarazzo! Non fissarmi così, girati... [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:296 #-#-# translate crowdin ev_lisa_dressed_try_to_peek_6159e876:
+msgid "[_Lisa_s_16_] Ага, только и жду, чтобы полураздетой покрасоваться перед тобой! Если не отвернёшься, то я сильно на тебя обижусь и больше разговаривать не буду... [nointeract]"
+msgstr "[_Lisa_s_16_] Sì, aspettavo solo di mostrarmi mezza nuda davanti a te! Se non guardi da un'altra parte, mi arrabbierò molto con te e non ti parlerò più... [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:309 #-#-# translate crowdin ev_lisa_dressed_try_to_peek_fcf15010:
+msgid "[_Lisa_s_01_] Ааа... Ну раз не удержался, чтобы это оценить, то мне приятно. Но это не значит, что на меня можно и дальше вот так бессовестно глазеть! [nointeract]"
+msgstr "[_Lisa_s_01_] Ahh... Beh, visto che non sei riuscito a non apprezzarlo, mi fa piacere. Ma questo non significa che puoi continuare a fissarmi così spudoratamente! [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:319 #-#-# translate crowdin ev_lisa_dressed_try_to_peek_c9b70f3a:
+msgid "[_Lisa_s_15_] Ну и долго ты ещё пялиться на меня будешь?! Отвернись! [nointeract]"
+msgstr "[_Lisa_s_15_] Per quanto tempo hai intenzione di continuare a fissarmi?! Girati! [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:341 #-#-# translate crowdin ev_lisa_dressed_voy_02_help_748f1830:
+msgid "[_Lisa_s_01_] Спасибо, конечно, за заботу, но я же не маленькая, Макс. Сама уж как-нибудь справлюсь... [nointeract]"
+msgstr "[_Lisa_s_01_] Grazie per l'interessamento, ma non sono una bambina, Max. Posso farcela da sola... [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:351 #-#-# translate crowdin ev_lisa_dressed_voy_02_help_6a93b97b:
+msgid "[_Lisa_s_15_] Макс! Я что, похожа на маленькую что ли?! Или совсем глупенькую? Прекращай пялиться и уходи... [nointeract]"
+msgstr "[_Lisa_s_15_] Max! Sembro piccola o qualcosa del genere?! O è solo una sciocchezza? Smettila di fissarmi e vattene... [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:372 #-#-# translate crowdin ev_lisa_dressed_voy_02_beauti_1ba39635:
+msgid "[_Lisa_s_02_] Правда?! Спасибо, что оценил, но я бы всё равно хотела закончить одеваться без свидетелей... [nointeract]"
+msgstr "[_Lisa_s_02_] Davvero?! Grazie per l'apprezzamento, ma vorrei comunque finire di vestirmi senza testimoni... [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:383 #-#-# translate crowdin ev_lisa_dressed_voy_02_beauti_c88b7a5d:
+msgid "[_Lisa_s_16_] Ага, только и жду, чтобы полураздетой покрасоваться перед тобой! Я ведь маме на тебя нажалуюсь, если не уйдёшь! [nointeract]"
+msgstr "[_Lisa_s_16_] Sì, aspettavo solo di mostrarmi mezza nuda davanti a te! Lo dirò a mamma se non te ne vai! [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:448 #-#-# translate crowdin ev_023_08cc0642:
+msgid "[_Lisa_s_01_] Эй, любитель заглядывать куда не надо, я пошла в школу. Не скучай тут без меня..."
+msgstr "[_Lisa_s_01_] Ehi, guardone, vado a scuola. Non annoiarti qui senza di me..."
+
+# game/scripts/story_01/myroom.rpy:450 #-#-# translate crowdin ev_023_ad8fc002:
+msgid "[_Lisa_s_01_] Эй, любитель заглядывать куда не надо, я пошла гулять. Не скучай тут без меня..."
+msgstr "[_Lisa_s_01_] Ehi, guardone, sto uscendo. Non annoiarti qui senza di me..."
+
+# game/scripts/story_01/myroom.rpy:454 #-#-# translate crowdin ev_023_131e32c4:
+msgid "[_Lisa_s_01_] Эй, Макс, я пошла в школу. Не скучай тут без меня..."
+msgstr "[_Lisa_s_01_] Ehi, Max, vado a scuola. Non annoiarti qui senza di me..."
+
+# game/scripts/story_01/myroom.rpy:456 #-#-# translate crowdin ev_023_284585e5:
+msgid "[_Lisa_s_01_] Эй, Макс, я пошла гулять. Не скучай тут без меня..."
+msgstr "[_Lisa_s_01_] Ehi, Max, sto uscendo. Non sentire la mia mancanza..."
+
+# game/scripts/story_01/myroom.rpy:458 #-#-# translate crowdin ev_023_09f0ad91:
+msgid "[_Max_s_01_] А я буду. Успехов тебе!"
+msgstr "[_Max_s_01_] E lo spero. Buona fortuna!"
+
+# game/scripts/story_01/myroom.rpy:460 #-#-# translate crowdin ev_023_78942015:
+msgid "[_Max_s_01_] А я буду. Не заблудись!"
+msgstr "[_Max_s_01_] Lo farò. Non perderti!"
+
+# game/scripts/story_01/myroom.rpy:488 #-#-# translate crowdin ev_mgg_sleep_d8912cea:
+msgid "[_tMax_s_00_] Пожалуй, пора ложиться спать... [nointeract]"
+msgstr "[_tMax_s_00_] Credo sia ora di andare a letto... [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:494 #-#-# translate crowdin ev_mgg_sleep_8382df5e:
+msgid "[_tMax_s_14_] Моя голова уже совсем не соображает. Нужно ложиться спать... [nointeract]"
+msgstr "[_tMax_s_14_] La mia testa non ragiona più. Devo andare a letto... [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:500 #-#-# translate crowdin ev_mgg_sleep_fcf4bb83:
+msgid "[_tMax_s_00_] Пожалуй, пора ложиться спать... В котором часу мне лучше проснуться? [nointeract]"
+msgstr "[_tMax_s_00_] Credo sia ora di andare a letto... A che ora mi devo svegliare? [nointeract]"
+
+# game/scripts/story_01/myroom.rpy:511 #-#-# translate crowdin ev_mgg_sleep_35f6b440:
+msgid "[_tMax_s_07_] Всем доброй ночи и приятных снов..."
+msgstr "[_tMax_s_07_] Buona notte e sogni d'oro a tutti..."
+
+# §translate crowdin strings: #|#|# # game/scripts/story_01/myroom.rpy:173
+msgid "Да легко! Не буду мешать..."
+msgstr "È facile! Non voglio essere d'intralcio..."
+
+# game/scripts/story_01/myroom.rpy:177
+msgid "{i}подождать за дверью, пока Лиза переоденется{/i}"
+msgstr "{i}aspettare fuori dalla porta che Lisa si cambi il vestito{/i}"
+
+# game/scripts/story_01/myroom.rpy:200
+msgid "А ты очень красиво смотришься без одежды!"
+msgstr "E sei molto bella anche senza vestiti!"
+
+# game/scripts/story_01/myroom.rpy:200
+msgid "Раз уж я здесь, давай помогу?"
+msgstr "Visto che sono qui, posso aiutare?"
+
+# game/scripts/story_01/myroom.rpy:278
+msgid "Подумаешь, сестрёнку полуголую увидел. Смотришься очень мило..."
+msgstr "Così ho visto mia sorella mezza nuda. Sei molto bella..."
+
+# game/scripts/story_01/myroom.rpy:278
+msgid "Извини, не удержался... Хорошо выглядишь!"
+msgstr "Scusa, non ho resistito... Hai un bell'aspetto!"
+
+# game/scripts/story_01/myroom.rpy:487
+msgid "{i}спать до утра{/i}"
+msgstr "{i}dormire fino al mattino{/i}"
+
+# game/scripts/story_01/myroom.rpy:499
+msgid "{i}в 6 утра{/i}"
+msgstr "{i}alle 6 del.m{/i}"
+
+# game/scripts/story_01/myroom.rpy:499
+msgid "{i}в 7 утра{/i}"
+msgstr "{i}alle 7 del.m{/i}"
+
+# game/scripts/story_01/myroom.rpy:499
+msgid "{i}в 8 утра{/i}"
+msgstr "{i}alle 8:00 {/i}"
+

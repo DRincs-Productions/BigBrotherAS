@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/screens/inform.po\n"
+"X-Crowdin-File-ID: 9089\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2025-03-15 14:04\n"
+
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/inform.rpy:28
+msgid "Персонажи"
+msgstr "Personaggi"
+
+# game/scripts/screens/inform.rpy:33
+msgid "Предметы"
+msgstr "Oggetti"
+
+# game/scripts/screens/inform.rpy:120
+msgid "НАСТРОЕНИЕ"
+msgstr "UMORE"
+
+# game/scripts/screens/inform.rpy:127
+msgid "До достижения: "
+msgstr "Prima di arrivare: "
+
+# game/scripts/screens/inform.rpy:133
+msgid "Текущее положение: "
+msgstr "Posizione attuale: "
+
+# game/scripts/screens/inform.rpy:139
+msgid "До достижения: +"
+msgstr "Prima di raggiungere: +"
+
+# game/scripts/screens/inform.rpy:144
+msgid "ВЗАИМООТНОШЕНИЯ"
+msgstr "RELAZIONE"
+
+# game/scripts/screens/inform.rpy:149
+msgid "С Максом"
+msgstr "Con Max"
+
+# game/scripts/screens/inform.rpy:169
+msgid "ДОГОВОРЁННОСТИ"
+msgstr "ACCORDI"
+
+# game/scripts/screens/inform.rpy:172
+msgid "Будет спать топлес"
+msgstr "Dormirà in topless"
+
+# game/scripts/screens/inform.rpy:174
+msgid "Не использовалась"
+msgstr "Non utilizzato"
+
+# game/scripts/screens/inform.rpy:176
+msgid "Исполняется"
+msgstr "Eseguito"
+
+# game/scripts/screens/inform.rpy:178
+msgid "Будет исполняться"
+msgstr "Da eseguire"
+
+# game/scripts/screens/inform.rpy:180
+msgid "Не исполняется"
+msgstr "Non eseguito"
+
+# game/scripts/screens/inform.rpy:182
+msgid "Будет курить топлес"
+msgstr "Fumerà in topless"
+
+# game/scripts/screens/inform.rpy:193
+msgid "Будет без трусиков"
+msgstr "Sarà senza mutande"
+
+# game/scripts/screens/inform.rpy:216
+msgid "ПАРАМЕТРЫ"
+msgstr "OPZIONI"
+
+# game/scripts/screens/inform.rpy:219
+msgid "Чистота"
+msgstr "Pulizia"
+
+# game/scripts/screens/inform.rpy:224
+msgid "Загрязнённость "
+msgstr "Contaminazione "
+
+# game/scripts/screens/inform.rpy:228
+msgid "ДОМАШНИЕ ОБЯЗАННОСТИ"
+msgstr "COMPITI DOMESTICI"
+
+# game/scripts/screens/inform.rpy:231
+msgid "Чистка пола"
+msgstr "Pulizia dei pavimenti"
+
+# game/scripts/screens/inform.rpy:233
+msgid "Выполнено"
+msgstr "Fatto"
+
+# game/scripts/screens/inform.rpy:237
+msgid "Не выполнено"
+msgstr "Non soddisfatta"
+
+# game/scripts/screens/inform.rpy:241
+msgid "Чистка бассейна"
+msgstr "Pulizia della piscina"
+
+# game/scripts/screens/inform.rpy:251
+msgid "Стрижка газона"
+msgstr "Taglio del prato"
+
+# game/scripts/screens/inform.rpy:261
+msgid "Покупка продуктов"
+msgstr "Fare la spesa"
+
+# game/scripts/screens/inform.rpy:272
+msgid "НАВЫКИ"
+msgstr "ABILITÀ"
+
+# game/scripts/screens/inform.rpy:278
+msgid "Ур."
+msgstr "Liv."
+
+# game/scripts/screens/inform.rpy:281
+msgid "Опыт применения навыка"
+msgstr "Esperienza di abilità"
+
+# game/scripts/screens/inform.rpy:481
+msgid "ВИДЫ ОДЕЖДЫ"
+msgstr "TIPI DI ABBIGLIAMENTO"
+
+# game/scripts/screens/inform.rpy:614
+msgid "В данный момент в инвентаре ничего нет"
+msgstr "Non c'è nulla nell'inventario al momento"
+
+# game/scripts/screens/inform.rpy:617
+msgid "Ни один предмет не выбран"
+msgstr "Nessun elemento selezionato"
+
+# game/scripts/screens/inform.rpy:625
+msgid "Не прочитана"
+msgstr "Non letto"
+
+# game/scripts/screens/inform.rpy:627
+msgid "Полностью изучена"
+msgstr "Completamente esplorato"
+
+# game/scripts/screens/inform.rpy:629
+msgid "Изучена на [percent]%"
+msgstr "Studiato su [percent]%"
+
+# game/scripts/screens/inform.rpy:631
+msgid "Осталось [item.rest]/[item.count]"
+msgstr "Rimasto [item.rest]/[item.count]"
+

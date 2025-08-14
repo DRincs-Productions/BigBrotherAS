@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/screens/laptop.po\n"
+"X-Crowdin-File-ID: 9091\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2025-03-15 14:01\n"
+
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/laptop.rpy:21
+msgid "ОНЛАЙН-КУРСЫ"
+msgstr "CURSOS EN LÍNEA"
+
+# game/scripts/screens/laptop.rpy:21
+msgid "ИНТЕРНЕТ-МАГАЗИН"
+msgstr "TIENDA EN LÍNEA"
+
+# game/scripts/screens/laptop.rpy:21
+msgid "ЗАНЯТЬСЯ СВОИМ САЙТОМ"
+msgstr "HAGA SU PROPIA PÁGINA WEB"
+
+# game/scripts/screens/laptop.rpy:21
+msgid "СВОЙ САЙТ"
+msgstr "SU WEB"
+
+# game/scripts/screens/laptop.rpy:21
+msgid "Настройка VPN-сервиса"
+msgstr "Configurar el servicio VPN"
+
+# game/scripts/screens/laptop.rpy:21
+msgid "АЛИСА НА «MYCAMS»"
+msgstr "ALICE EN \"MYCAMS\""
+
+# game/scripts/screens/laptop.rpy:21
+msgid "ЧИТ-МЕНЮ"
+msgstr "MENÚ DE TRUCOS"
+
+# game/scripts/screens/laptop.rpy:45
+msgid "Назад"
+msgstr "Volver"
+
+# game/scripts/screens/laptop.rpy:49
+msgid "Выключить"
+msgstr "Desconectar"
+
+# game/scripts/screens/laptop.rpy:59
+msgid "Ждать 10 минут"
+msgstr "Espere 10 minutos"
+
+# game/scripts/screens/laptop.rpy:204
+msgid "КУПЛЕНО"
+msgstr "COMPRADO"
+
+# game/scripts/screens/laptop.rpy:209
+msgid "КУПИТЬ (недостаточно средств)"
+msgstr "COMPRA (fondos insuficientes)"
+
+# game/scripts/screens/laptop.rpy:214
+msgid "КУПИТЬ"
+msgstr "COMPRAR"
+
+# game/scripts/screens/laptop.rpy:215
+msgid "Приобрести \"{name}\" за ${price}?"
+msgstr "Comprar \"{name}\" por ${price}?"
+
+# game/scripts/screens/laptop.rpy:245
+msgid "Скидка [item.sale_percent]%"
+msgstr "Descuento [item.sale_percent]%"
+
+# game/scripts/screens/laptop.rpy:266
+msgid "В данный момент нет доступных товаров. Загляните позже."
+msgstr "No hay artículos disponibles en este momento. Vuelva a comprobarlo más tarde."
+
+# game/scripts/screens/laptop.rpy:426
+msgid "Что будем искать?"
+msgstr "¿Qué buscamos?"
+
+# game/scripts/screens/laptop.rpy:481
+msgid "Общий доход:"
+msgstr "Ingresos totales:"
+
+# game/scripts/screens/laptop.rpy:482
+msgid "Последнее начисление:"
+msgstr "Último saldo:"
+
+# game/scripts/screens/laptop.rpy:560
+msgid "Общение"
+msgstr "Comunicación"
+
+# game/scripts/screens/laptop.rpy:575
+msgid "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
+msgstr "Has completado todos los cursos y lecciones disponibles de esta categoría. Es posible que aparezcan nuevas lecciones en la próxima versión del juego."
+
+# game/scripts/screens/laptop.rpy:583
+msgid "Вы уже оплатили этот курс и можете в любой момент включить следующий доступный видеоурок."
+msgstr "Ya ha pagado por este curso y puede activar la siguiente lección de vídeo disponible en cualquier momento."
+
+# game/scripts/screens/laptop.rpy:584
+msgid "Занятие [learn] из 3"
+msgstr "Clase [learn] de 3"
+
+# game/scripts/screens/laptop.rpy:587
+msgid "НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА"
+msgstr "EMPEZAR A VER LA LECCIÓN EN VÍDEO"
+
+# game/scripts/screens/laptop.rpy:591
+msgid "ВЫ УЧИЛИСЬ СОВСЕМ НЕДАВНО. СДЕЛАЙТЕ ПЕРЕРЫВ!"
+msgstr "¡YA HAS ESTADO ESTUDIANDO ÚLTIMAMENTE. TÓMATE UN DESCANSO!"
+
+# game/scripts/screens/laptop.rpy:599
+msgid "Количество занятий: 3"
+msgstr "Número de clases: 3"
+
+# game/scripts/screens/laptop.rpy:601
+msgid "ПРИОБРЕСТИ ЭТОТ КУРС ЗА $[cource.price]"
+msgstr "COMPRAR ESTE CURSO POR $[cource.price]"
+
+# game/scripts/screens/laptop.rpy:653
+msgid "Удвоение дохода из любых источников"
+msgstr "Duplique sus ingresos de cualquier fuente"
+
+# game/scripts/screens/laptop.rpy:735
+msgid "ШОУ МЕЛИССЫ!"
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:776
+msgid "ЦЕЛЬ СБОРОВ!"
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:780
+msgid "Покрасоваться перед зрителями..."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:782
+msgid "Наслаждаться леденцом..."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:784
+msgid "Переодеться в другую одежду..."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:794
+msgid "Дразнить зрителей грудью..."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:796
+msgid "Дразнить зрителей попкой..."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:798
+msgid "Попасть на мою приватную трансляцию..."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:809
+msgid "${} из ${}"
+msgstr ""
+

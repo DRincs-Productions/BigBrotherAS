@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/story_01/search.po\n"
+"X-Crowdin-File-ID: 9151\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2025-03-15 14:06\n"
+
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/story_01/search.rpy:2
+msgid "почитать о скрытых камерах"
+msgstr "leer sobre cámaras ocultas"
+
+# game/scripts/story_01/search.rpy:2
+msgid "узнать о книге Алисы"
+msgstr "aprender sobre el libro de Alice"
+
+# game/scripts/story_01/search.rpy:2
+msgid "читать о пауках"
+msgstr "leer sobre arañas"
+
+# game/scripts/story_01/search.rpy:2
+msgid "как обойти ограничения в веб-трансляциях?"
+msgstr "¿cómo eludir las restricciones en los webcasts?"
+
+# game/scripts/story_01/search.rpy:2
+msgid "почитать о защите личных данных на компьютере"
+msgstr "lea sobre la protección de datos personales en su ordenador"
+
+# game/scripts/story_01/search.rpy:2
+msgid "узнать о взломе паролей на компьютерах"
+msgstr "aprender a descifrar contraseñas en los ordenadores"
+

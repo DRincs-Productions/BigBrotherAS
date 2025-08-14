@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/engine/02_func.po\n"
+"X-Crowdin-File-ID: 9065\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"PO-Revision-Date: 2025-03-15 14:02\n"
+
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/02_func.rpy:433
+msgid "Скрытность"
+msgstr ""
+
+# game/scripts/engine/02_func.rpy:434
+msgid "Убеждение"
+msgstr ""
+
+# game/scripts/engine/02_func.rpy:435
+msgid "Массаж"
+msgstr ""
+
+# game/scripts/engine/02_func.rpy:438
+msgid "Настроение {char_name}"
+msgstr ""
+
+# game/scripts/engine/02_func.rpy:438
+msgid "мамы"
+msgstr ""
+
+# game/scripts/engine/02_func.rpy:855
+msgid "Галерея снов обновлена!"
+msgstr "Η γκαλερί των ονείρων έχει ενημερωθεί!"
+
+# game/scripts/engine/02_func.rpy:869
+msgid "Галерея дополнений обновлена!"
+msgstr "Η γκαλερί των πρόσθετων έχει ενημερωθεί!"
+

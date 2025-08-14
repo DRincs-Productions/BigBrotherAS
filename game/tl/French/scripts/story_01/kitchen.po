@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/story_01/kitchen.po\n"
+"X-Crowdin-File-ID: 9131\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2025-03-15 14:05\n"
+
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # game/scripts/story_01/kitchen.rpy:15 #-#-# translate crowdin ev_alice_clean_e2fdb3e5:
+msgid "[_Alice_s_01_] Неужели тебе надоело бездельничать и ты пришёл мне помочь? [nointeract]"
+msgstr "[_Alice_s_01_] Tu en as eu assez de ne rien faire et tu es venu m'aider ? [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:18 #-#-# translate crowdin ev_alice_clean_b52c8176:
+msgid "[_Alice_s_02_] Что, Макс, пришёл своей милой и ненаглядной сестрёнке помочь? [nointeract]"
+msgstr "[_Alice_s_02_] Es-tu venu aider ta douce, douce sœur, Max ? [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:25 #-#-# translate crowdin ev_alice_clean_cb96644b:
+msgid "[_Alice_s_03_] Ого, тебя даже уговаривать не нужно! Уступаю своё место. И... спасибо. [nointeract]"
+msgstr "[_Alice_s_03_] Wow, vous n'avez même pas besoin d'être persuadé ! Je cède mon siège. И... merci. [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:31 #-#-# translate crowdin ev_alice_clean_5e71606b:
+msgid "[_tMax_s_14_] Эх... столько посуды. И почему здесь нет посудомоечной машины? А хотя, ладно, потерплю... [nointeract]"
+msgstr "[_tMax_s_14_] Eh... tant de vaisselle. Et pourquoi n'y a-t-il pas de lave-vaisselle ? Oh, eh bien, je m'en accommoderai... [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:37 #-#-# translate crowdin ev_alice_clean_e6334ecf:
+msgid "[_Alice_s_11_] Знаешь что, вали отсюда, пока мокрой тряпкой по голове не получил! [nointeract]"
+msgstr "[_Alice_s_11_] Vous savez quoi, sortez d'ici avant d'avoir un chiffon mouillé sur la tête ! [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:57 #-#-# translate crowdin ev_lisa_clean_9f066b10:
+msgid "[_Lisa_s_01_] Макс, скажи, что ты не просто так сюда пришёл? [nointeract]"
+msgstr "[_Lisa_s_01_] Max, dis-moi que tu n'es pas venu ici pour une raison. [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:65 #-#-# translate crowdin ev_lisa_clean_3c28db19:
+msgid "[_Lisa_s_03_] А вот знаешь... хочу! От такого я ни за что не откажусь. Спасибо, Макс! [nointeract]"
+msgstr "[_Lisa_s_03_] Vous savez quoi... je le veux ! Je ne refuserais ça pour rien au monde. Merci, Max ! [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:71 #-#-# translate crowdin ev_lisa_clean_e7661964:
+msgid "[_tMax_s_14_] Эх... столько посуды. Но почему бы не потерпеть ради моей младшей сестрёнки. Всё-таки в одной комнате живём... [nointeract]"
+msgstr "[_tMax_s_14_] Eh... tant de plats. Mais pourquoi ne pas être patient avec ma petite sœur. Après tout, nous vivons dans la même pièce... [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:77 #-#-# translate crowdin ev_lisa_clean_625a2799:
+msgid "[_Lisa_s_11_] Вот и иди тогда, а то стоишь тут, отвлекаешь меня! [nointeract]"
+msgstr "[_Lisa_s_11_] Allez-y, vous êtes là à me distraire ! [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:89 #-#-# translate crowdin ev_alice_cooking_b8682953:
+msgid "[_Alice_s_02_] Помочь?! Чего это ты, Макс, такой добрый? Хотя, пара лишних рук мне точно не помешает... Пока я здесь со всем закончу и наведу порядок, ты можешь отнести тарелки с едой на веранду. [nointeract]"
+msgstr "[_Alice_s_02_] Besoin d'un coup de main ? Pourquoi es-tu si gentil, Max ? J'aurais bien besoin d'une paire de mains en plus... Pendant que je finis de ranger ici, tu peux emmener les assiettes de nourriture dans la véranda. [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:91 #-#-# translate crowdin ev_alice_cooking_6098f7a7:
+msgid "[_Alice_s_02_] На это я, на самом деле, и надеялась. Пара лишних рук мне точно не помешает... Пока я здесь со всем закончу и наведу порядок, ты можешь отнести тарелки с едой на веранду. [nointeract]"
+msgstr "[_Alice_s_02_] C'est ce que j'espérais vraiment. J'aurais bien besoin d'une paire de mains supplémentaire... Pendant que je termine et que je range ici, vous pouvez apporter les assiettes de nourriture dans la véranda. [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:105 #-#-# translate crowdin ev_alice_cooking_5e4de809:
+msgid "[_tMax_s_11_] Блин! Теперь я хочу съесть не только своё, но и макароны Лизы. Уж слишком аппетитно они выглядят и пахнут... [nointeract]"
+msgstr "[_tMax_s_11_] Maintenant, j'ai envie de manger non seulement les miennes, mais aussi les pâtes de Lisa. Elles ont l'air et sentent trop bon.... [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:107 #-#-# translate crowdin ev_alice_cooking_864b1b34:
+msgid "[_tMax_s_11_] Ну вот! Алиса себе самые большие котлеты положила... Надо будет хотя бы одной, да поменяться. [nointeract]"
+msgstr "[_tMax_s_11_] C'est parti ! Alice a pris les plus grosses escalopes pour elle. Il va falloir en échanger au moins une. [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:109 #-#-# translate crowdin ev_alice_cooking_4becd663:
+msgid "[_tMax_s_11_] А вот это не хорошо! У мамы в тарелке слишком много углеводов. Нужно приглядывать за её фигурой, поэтому отложу немного себе... [nointeract]"
+msgstr "[_tMax_s_11_] Ce n'est pas bon ! Maman a trop de glucides dans son assiette. Je dois faire attention à sa ligne, alors je vais en mettre un peu de côté pour moi..... [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:116 #-#-# translate crowdin ev_alice_cooking_7d3850f3:
+msgid "[_Alice_s_11_] Вот ты козлина, Макс! Отвали тогда и не мешай... [nointeract]"
+msgstr "[_Alice_s_11_] T'es un connard, Max ! Va te faire foutre et dégage de là... [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:129 #-#-# translate crowdin ev_ann_cooking_b9602300:
+msgid "[_Ann_s_02_] Правда поможешь?! О, это замечательно, сейчас помощник мне будет очень кстати. [nointeract]"
+msgstr "[_Ann_s_02_] Vous allez vraiment m'aider ? Oh, c'est super, j'ai vraiment besoin d'une aide en ce moment. [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:131 #-#-# translate crowdin ev_ann_cooking_8bd0ffb2:
+msgid "[_Ann_s_02_] Отлично! Я буду только рада, если поможешь. [nointeract]"
+msgstr "[_Ann_s_02_] C'est très bien ! Je serais ravi si vous pouviez m'aider. [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:144 #-#-# translate crowdin ev_ann_cooking_c75d83f0:
+msgid "[_Ann_s_03_] С готовкой я почти закончила, осталось только немного прибраться, но некоторые тарелки с едой ты уже можешь нести на веранду."
+msgstr "[_Ann_s_03_] J'ai presque fini de cuisiner, juste un peu de rangement, mais vous pouvez déjà porter quelques assiettes de nourriture sur la véranda."
+
+# game/scripts/story_01/kitchen.rpy:145 #-#-# translate crowdin ev_ann_cooking_69f0d5e1:
+msgid "[_Max_s_01_] Конечно, мам. Я сейчас всё унесу..."
+msgstr "[_Max_s_01_] Bien sûr, maman. Je vais tout emporter maintenant..."
+
+# game/scripts/story_01/kitchen.rpy:151 #-#-# translate crowdin ev_ann_cooking_5e4de809:
+msgid "[_tMax_s_11_] Блин! Теперь я хочу съесть не только своё, но и макароны Лизы. Уж слишком аппетитно они выглядят и пахнут... [nointeract]"
+msgstr "[_tMax_s_11_] Maintenant, j'ai envie de manger non seulement les miennes, mais aussi les pâtes de Lisa. Elles ont l'air et sentent trop bon.... [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:153 #-#-# translate crowdin ev_ann_cooking_864b1b34:
+msgid "[_tMax_s_11_] Ну вот! Алиса себе самые большие котлеты положила... Надо будет хотя бы одной, да поменяться. [nointeract]"
+msgstr "[_tMax_s_11_] C'est parti ! Alice a pris les plus grosses escalopes pour elle. Il va falloir en échanger au moins une. [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:155 #-#-# translate crowdin ev_ann_cooking_4becd663:
+msgid "[_tMax_s_11_] А вот это не хорошо! У мамы в тарелке слишком много углеводов. Нужно приглядывать за её фигурой, поэтому отложу немного себе... [nointeract]"
+msgstr "[_tMax_s_11_] Ce n'est pas bon ! Maman a trop de glucides dans son assiette. Je dois faire attention à sa ligne, alors je vais en mettre un peu de côté pour moi..... [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:164 #-#-# translate crowdin ev_ann_cooking_ab32928e:
+msgid "[_tMax_s_11_] Вот бы ещё вспомнить, кому что ставить?! Что-то из этого должно достаться Лизе, но это не точно... [nointeract]"
+msgstr "[_tMax_s_11_] J'aimerais pouvoir me souvenir de qui reçoit quoi. Une partie devrait revenir à Lisa, mais ce n'est pas certain... [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:166 #-#-# translate crowdin ev_ann_cooking_a515b062:
+msgid "[_tMax_s_11_] Как Алиса столько ест и не толстеет?! Может, потому что часть я перекладываю к себе в тарелку... [nointeract]"
+msgstr "[_tMax_s_11_] Comment Alice fait-elle pour manger autant et ne pas grossir ? Peut-être parce que j'en mets dans mon assiette..... [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:168 #-#-# translate crowdin ev_ann_cooking_401cc600:
+msgid "[_tMax_s_11_] Можно ли вообще удержаться и не съесть всё это не дожидаясь остальных?! Вкуснее мамы никто не готовит... [nointeract]"
+msgstr "[_tMax_s_11_] Est-il possible de résister à l'envie de tout manger sans attendre les autres ? Personne ne cuisine mieux que Mum..... [nointeract]"
+
+# game/scripts/story_01/kitchen.rpy:175 #-#-# translate crowdin ev_ann_cooking_97e8fc22:
+msgid "[_Ann_s_12_] Ну вот, а я уже понадеялась! Тогда не мешай... [nointeract]"
+msgstr "[_Ann_s_12_] Eh bien, je me faisais des illusions ! Alors ne vous mettez pas en travers... [nointeract]"
+
+# §translate crowdin strings: #|#|# # game/scripts/story_01/kitchen.rpy:59
+msgid "Хочешь, я помогу тебе домыть посуду?"
+msgstr "Tu veux que je t'aide à faire la vaisselle ?"
+
+# game/scripts/story_01/kitchen.rpy:59
+msgid "Нет, просто мимо проходил..."
+msgstr "Non, je ne fais que passer..."
+
+# game/scripts/story_01/kitchen.rpy:93
+msgid "Ага, не вопрос. Сделаю."
+msgstr "Oui, pas de problème. Je le ferai."
+
+# game/scripts/story_01/kitchen.rpy:93
+msgid "Нет, лучше давай сама..."
+msgstr "Non, tu ferais mieux de le faire toi-même..."
+
+# game/scripts/story_01/kitchen.rpy:110
+msgid "{i}приступить к ужину{/i}"
+msgstr "{i}commencer le dîner{/i}"
+
+# game/scripts/story_01/kitchen.rpy:133
+msgid "{i}подойти и помочь{/i}"
+msgstr "{i}venir et aider{/i}"
+
+# game/scripts/story_01/kitchen.rpy:133
+msgid "Хотя, нет, сейчас не могу..."
+msgstr "Mais non, je ne peux pas maintenant..."
+
+# game/scripts/story_01/kitchen.rpy:169
+msgid "{i}приступить к завтраку{/i}"
+msgstr "{i}pour commencer le petit-déjeuner."
+

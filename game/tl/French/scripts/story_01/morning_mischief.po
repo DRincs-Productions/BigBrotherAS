@@ -1,0 +1,892 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/story_01/morning_mischief.po\n"
+"X-Crowdin-File-ID: 9139\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2025-07-29 08:37\n"
+
+# TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/story_01/morning_mischief.rpy:13 #-#-# translate crowdin ev_039_12731b84:
+msgid "[_tMax_s_01_] Сегодня я проснулся раньше Лизы. Можно полюбоваться..."
+msgstr "[_tMax_s_01_] Je me suis réveillé avant Lisa aujourd'hui. Vous pouvez admirer..."
+
+# game/scripts/story_01/morning_mischief.rpy:18 #-#-# translate crowdin ev_039_3b2c416e:
+msgid "[_tMax_s_04_] Лиза так мило спит. Пока она в этом положении, может попробовать как-то пошалить? [nointeract]"
+msgstr "[_tMax_s_04_] Lisa dort si gentiment. Pendant qu'elle est dans cette position, pourquoi ne pas essayer un comportement coquin ? [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:25 #-#-# translate crowdin ev_039_0b1ba42d:
+msgid "[_tMax_s_03_] Ухх... А вот и её сосочек показался из под одежды! Это уже вполне можно назвать добрым утром... [nointeract]"
+msgstr "[_tMax_s_03_] Uhhhh. Voilà son téton qui sort de sous ses vêtements ! C'est une bonne matinée... [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:33 #-#-# translate crowdin ev_039_42a3a715:
+msgid "[_tMax_s_15_] Ох, а вот это уже было опасно! Лиза может проснуться в любую секунду... [nointeract]"
+msgstr "[_tMax_s_15_] Oh, ça, c'est dangereux ! Lisa pouvait se réveiller à tout moment... [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:39 #-#-# translate crowdin ev_039_d4932d79:
+msgid "[_tMax_s_12_] Кажется, она просыпается! Вот, блин! Начну одеваться, как будто я не при делах..."
+msgstr "[_tMax_s_12_] Je crois qu'elle se réveille ! Oh, merde ! Je vais commencer à m'habiller comme si je n'étais pas impliqué..."
+
+# game/scripts/story_01/morning_mischief.rpy:44 #-#-# translate crowdin ev_039_18d159c4:
+msgid "[_tMax_s_14_] Всё, она встаёт... Нужно, на всякий случай, придумать, как я буду оправдываться. Хотя, может быть она решит, что её пижамка сама сползла?"
+msgstr "[_tMax_s_14_] Ok, elle se lève. Je dois trouver une excuse au cas où. Peut-être qu'elle pensera que son pyjama a glissé tout seul."
+
+# game/scripts/story_01/morning_mischief.rpy:49 #-#-# translate crowdin ev_039_d04d0d7e:
+msgid "[_Lisa_s_14_] Макс! Быстро признавайся, это ты сделал?!"
+msgstr "[_Lisa_s_14_] Max ! Avoue vite, c'est toi qui l'as fait !"
+
+# game/scripts/story_01/morning_mischief.rpy:50 #-#-# translate crowdin ev_039_323237e0:
+msgid "[_Max_s_12_] Что сделал?!"
+msgstr "[_Max_s_12_] Vous avez fait quoi ?"
+
+# game/scripts/story_01/morning_mischief.rpy:51 #-#-# translate crowdin ev_039_8454c298:
+msgid "[_Lisa_s_15_] Что-что... Одежду с меня стащил! Я сейчас маму позову!"
+msgstr "[_Lisa_s_15_] Qu'est-ce que c'est que ça ? Tu as enlevé mes vêtements ! Je vais appeler ma mère !"
+
+# game/scripts/story_01/morning_mischief.rpy:56 #-#-# translate crowdin ev_039_972cc39c:
+msgid "[_Max_s_13_] Ворочаться во сне меньше надо, вот и всё."
+msgstr "[_Max_s_13_] Vous devez dormir en vous retournant moins, c'est tout."
+
+# game/scripts/story_01/morning_mischief.rpy:57 #-#-# translate crowdin ev_039_32b41e50:
+msgid "[_Lisa_s_17_] Ма-ам! Иди сюда, скорее!"
+msgstr "[_Lisa_s_17_] Maman ! Viens ici, vite !"
+
+# game/scripts/story_01/morning_mischief.rpy:58 #-#-# translate crowdin ev_039_b2400245:
+msgid "[_Max_s_14_] Зачем?! Может не будем..."
+msgstr "[_Max_s_14_] Pourquoi ? Ne pouvons-nous pas..."
+
+# game/scripts/story_01/morning_mischief.rpy:62 #-#-# translate crowdin ev_039_2c6f9865:
+msgid "[_Ann_s_11_] Лиза? Что у тебя опять случилось?!"
+msgstr "[_Ann_s_11_] Lisa ? Qu'est-ce qui ne va pas chez toi ?"
+
+# game/scripts/story_01/morning_mischief.rpy:63 #-#-# translate crowdin ev_039_bd2f4588:
+msgid "[_Lisa_s_16_] Мам! Он меня раздеть пытался!"
+msgstr "[_Lisa_s_16_] Maman ! Il a essayé de me déshabiller !"
+
+# game/scripts/story_01/morning_mischief.rpy:67 #-#-# translate crowdin ev_039_09a1a7ee:
+msgid "[_Ann_s_15_] Макс! Неужели это правда?! Живо давай объясняйся!"
+msgstr "[_Ann_s_15_] Max ! C'est vraiment vrai ?! Explique-toi maintenant !"
+
+# game/scripts/story_01/morning_mischief.rpy:68 #-#-# translate crowdin ev_039_8323e248:
+msgid "[_Max_s_12_] Да у неё просто во время сна пижама сползла, а виноват я! Панику на пустом месте поднимает..."
+msgstr "[_Max_s_12_] Son pyjama a glissé dans son sommeil et c'est ma faute ! Elle s'affole pour rien."
+
+# game/scripts/story_01/morning_mischief.rpy:69 #-#-# translate crowdin ev_039_e19d8392:
+msgid "[_Lisa_s_15_] Это неправда! Это всё его проделки... Моя пижама не могла так сползти!"
+msgstr "[_Lisa_s_15_] Ce n'est pas vrai ! Tout est de sa faute. Mon pyjama n'a pas pu glisser comme ça !"
+
+# game/scripts/story_01/morning_mischief.rpy:70 #-#-# translate crowdin ev_039_0a3336ff:
+msgid "[_Ann_s_10_] Так, Макс... Ты её трогал?"
+msgstr "[_Ann_s_10_] D'accord, Max. L'avez-vous touchée ?"
+
+# game/scripts/story_01/morning_mischief.rpy:71 #-#-# translate crowdin ev_039_7ba50ccd:
+msgid "[_Max_s_13_] Нет! Я сам только недавно проснулся, начал одеваться, а она просто подскочила и давай предъявлять."
+msgstr "[_Max_s_13_] Non ! Je venais à peine de me réveiller, de m'habiller, et elle s'est levée d'un bond et a commencé à m'accuser."
+
+# game/scripts/story_01/morning_mischief.rpy:75 #-#-# translate crowdin ev_039_8f188456:
+msgid "[_Ann_s_14_] Ясно. А ты, Лиза, уверена, что Макс тебя трогал? Может, приснилось что-то?"
+msgstr "[_Ann_s_14_] Ok. Tu es sûre que Max t'a touchée, Lisa ? Tu as peut-être rêvé ?"
+
+# game/scripts/story_01/morning_mischief.rpy:76 #-#-# translate crowdin ev_039_72e6bbc6:
+msgid "[_Lisa_s_10_] Ну... Вроде, нет. Не знаю. Может..."
+msgstr "[_Lisa_s_10_] Eh bien, je ne crois pas. Je ne pense pas que ce soit le cas. Je ne sais pas. Peut-être."
+
+# game/scripts/story_01/morning_mischief.rpy:77 #-#-# translate crowdin ev_039_1e2ec377:
+msgid "[_Ann_s_10_] Ох, как вы мне... Знаете что? Вы уже в песочнице не играете, так что учитесь сами свои проблемы решать. А то, всё мама-мама..."
+msgstr "[_Ann_s_10_] Oh, comment tu... Tu sais quoi ? Vous ne jouez plus dans le bac à sable, alors apprenez à résoudre vos propres problèmes. Vous êtes juste un papa et une maman."
+
+# game/scripts/story_01/morning_mischief.rpy:78 #-#-# translate crowdin ev_039_01505148:
+msgid "[_Max_s_00_] Я так и хотел, но кое-кто заистерил."
+msgstr "[_Max_s_00_] C'est ce que je voulais faire, mais quelqu'un a été hystérique."
+
+# game/scripts/story_01/morning_mischief.rpy:79 #-#-# translate crowdin ev_039_ad78baa9:
+msgid "[_Ann_s_10_] Вот именно, Лиза! Сперва старайся спокойно разобраться в ситуации, а уже потом зови меня, если это действительно необходимо. А теперь, я хочу спокойно заняться йогой."
+msgstr "[_Ann_s_10_] Essayez d'abord de gérer calmement la situation, puis appelez-moi si vous en avez vraiment besoin. Maintenant, je veux faire mon yoga en paix."
+
+# game/scripts/story_01/morning_mischief.rpy:80 #-#-# translate crowdin ev_039_69d9e990:
+msgid "[_Lisa_s_10_] Хорошо, мам. Извини..."
+msgstr "[_Lisa_s_10_] OK, maman. Je suis désolée."
+
+# game/scripts/story_01/morning_mischief.rpy:84 #-#-# translate crowdin ev_039_20b7c50a:
+msgid "[_tMax_s_01_] В следующий раз, если я снова решу так шалить с Лизой, нужно будет возвращать её одежду на место. Тогда эта шалость обойдётся без последствий."
+msgstr "[_tMax_s_01_] La prochaine fois, si je décide de jouer encore avec Lisa comme ça, il faudra que je remette ses vêtements à leur place. Ainsi, cette farce n'aura aucune répercussion."
+
+# game/scripts/story_01/morning_mischief.rpy:85 #-#-# translate crowdin ev_039_fef941b3:
+msgid "[_tMax_s_12_] Но в зависимости от того, в каком положении она будет спать, будет так же меняться и то, что я смогу сделать. И вообще, лезть к ней утром слишком часто не стоит, а то проблем не оберусь."
+msgstr "[_tMax_s_12_] Mais selon la position dans laquelle elle dort, cela change aussi ce que je peux faire. Et en fait, ce n'est pas une bonne idée d'aller la voir le matin trop souvent, sinon je vais avoir des ennuis."
+
+# game/scripts/story_01/morning_mischief.rpy:86 #-#-# translate crowdin ev_039_fd639cc3:
+msgid "[_tMax_s_11_] А вот если не выйдет вернуть её одежду на место, то придётся извиняться. Хотя, это тоже может быть интересно. Увидим..."
+msgstr "[_tMax_s_11_] Si vous ne pouvez pas lui remettre ses vêtements, vous devrez vous excuser. Mais cela pourrait aussi être intéressant. Nous verrons bien."
+
+# game/scripts/story_01/morning_mischief.rpy:111 #-#-# translate crowdin ev_040_462590b4:
+msgid "[_tMax_s_01_] Какая же у меня миленькая младшая сестрёнка! Лежала бы она на спине или на боку, можно было бы как-то пошалить... [nointeract]"
+msgstr "[_tMax_s_01_] Quelle jolie petite sœur j'ai ! Si elle était couchée sur le dos ou sur le côté, il y aurait moyen de faire des bêtises sur .... [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:117 #-#-# translate crowdin ev_040_eb317c47:
+msgid "[_tMax_s_11_] Какая же у меня миленькая младшая сестрёнка! Интересно, если пошалить с её киской, то это как-то скажется на её желании поласкать себя в ванной или нет?"
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:120 #-#-# translate crowdin ev_040_fcfbb2e0:
+msgid "[_tMax_s_04_] Какая же у меня миленькая младшая сестрёнка! Пока она в этом положении, может попробовать как-то пошалить? [nointeract]"
+msgstr "[_tMax_s_04_] Quelle jolie petite sœur j'ai ! Pendant qu'elle est dans cette position, pourquoi n'essaierais-tu pas d'être un peu plus coquin ? [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:168 #-#-# translate crowdin ev_040_pull_off_top_0b1ba42d:
+msgid "[_tMax_s_03_] Ухх... А вот и её сосочек показался из под одежды! Это уже вполне можно назвать добрым утром... [nointeract]"
+msgstr "[_tMax_s_03_] Uhhhh. Voilà son téton qui sort de sous ses vêtements ! C'est une bonne matinée... [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:182 #-#-# translate crowdin ev_040_pull_off_top_804db3ff:
+msgid "[_tMax_s_05_] О да! Теперь оба сосочка одарены моим вниманием. Такие красивые... [nointeract]"
+msgstr "[_tMax_s_05_] Oh, oui, maintenant les deux mamelons retiennent mon attention. C'est tellement beau. [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:198 #-#-# translate crowdin ev_040_pull_off_top_a1b860bc:
+msgid "[_Lisa_s_10_] Ой, Макс! Что происходит?! Мне показалось или ты..."
+msgstr "[_Lisa_s_10_] Oh, Max ! Qu'est-ce qui se passe ? ! C'est moi ou tu es..."
+
+# game/scripts/story_01/morning_mischief.rpy:199 #-#-# translate crowdin ev_040_pull_off_top_2c103e48:
+msgid "[_Max_s_12_] У тебя одежда съехала... А я решил поправить."
+msgstr "[_Max_s_12_] Tes vêtements ne sont plus là. Je me suis dit que j'allais arranger ça."
+
+# game/scripts/story_01/morning_mischief.rpy:201 #-#-# translate crowdin ev_040_pull_off_top_e201a94a:
+msgid "[_Lisa_s_12_] Только не глазей! И вообще, сама поправлю. Я ещё немного посплю..."
+msgstr "[_Lisa_s_12_] Ne regardez pas ! En fait, je vais le réparer moi-même. Je vais dormir un peu plus."
+
+# game/scripts/story_01/morning_mischief.rpy:202 #-#-# translate crowdin ev_040_pull_off_top_8c3065b9:
+msgid "[_Max_s_01_] Давай..."
+msgstr "[_Max_s_01_] Allez..."
+
+# game/scripts/story_01/morning_mischief.rpy:209 #-#-# translate crowdin ev_040_pull_off_top_502c9816:
+msgid "[_Lisa_s_12_] Только не глазей! И вообще, сама поправлю. Ой, уже вставать надо..."
+msgstr "[Ne regardez pas ! En fait, je vais le réparer moi-même. Oh, je dois déjà me lever..."
+
+# game/scripts/story_01/morning_mischief.rpy:210 #-#-# translate crowdin ev_040_pull_off_top_8c3065b9_1:
+msgid "[_Max_s_01_] Давай..."
+msgstr "[_Max_s_01_] Allez..."
+
+# game/scripts/story_01/morning_mischief.rpy:243 #-#-# translate crowdin ev_040_pull_off_top_bc0b6491:
+msgid "[_tMax_s_15_] Ох, это было опасно! Лиза может проснуться в любую секунду... [nointeract]"
+msgstr "[_tMax_s_15_] Oh, c'était dangereux ! Lisa pouvait se réveiller à tout moment..... [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:261 #-#-# translate crowdin ev_040_pull_off_top_completely_5ddc26dc:
+msgid "[_tMax_s_05_] Ухх... С добрым утром, сосочки! Какие вы красивые... [nointeract]"
+msgstr "[_tMax_s_05_] Uhhh... Bonjour, tétons ! Comme vous êtes beaux... [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:289 #-#-# translate crowdin ev_040_pull_off_top_completely_bc0b6491:
+msgid "[_tMax_s_15_] Ох, это было опасно! Лиза может проснуться в любую секунду... [nointeract]"
+msgstr "[_tMax_s_15_] Oh, c'était dangereux ! Lisa pouvait se réveiller à tout moment..... [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:307 #-#-# translate crowdin ev_040_pull_off_down_b9c5f788:
+msgid "[_tMax_s_05_] Ох, и хорошо же тянется её пижамка! Любое утро станет добрым, когда видишь такую красоту... [nointeract]"
+msgstr "[_tMax_s_05_] Oh, son pyjama s'étire si bien ! N'importe quel matin est un bon matin quand on voit une telle beauté.... [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:328 #-#-# translate crowdin ev_040_pull_off_down_bc0b6491:
+msgid "[_tMax_s_15_] Ох, это было опасно! Лиза может проснуться в любую секунду... [nointeract]"
+msgstr "[_tMax_s_15_] Oh, c'était dangereux ! Lisa pouvait se réveiller à tout moment..... [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:350 #-#-# translate crowdin ev_040_touch_breast_65947bc0:
+msgid "[_tMax_s_04_] Ммм... Вроде повезло, а вроде и как-то опасно выглядит. Не буду сильно наглеть, ведь даже через одежду её грудь такая приятная на ощупь... [nointeract]"
+msgstr "[Mm-hmm. Elle a de la chance, mais elle a l'air dangereuse. Je ne serai pas trop effronté, parce que même à travers ses vêtements, ses seins sont si agréables au toucher... [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:352 #-#-# translate crowdin ev_040_touch_breast_11f2b83a:
+msgid "[_tMax_s_04_] Ммм... У моей сестрёнки такая упругая и нежная грудь! Может и не самая большая, но как же приятно к ней прикасаться... [nointeract]"
+msgstr "[_tMax_s_04_] Mmm... Ma soeur a des seins si fermes et si tendres ! Ce ne sont peut-être pas les plus gros, mais c'est tellement agréable de les toucher..... [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:379 #-#-# translate crowdin ev_040_caught_breast_1ead19a1:
+msgid "[_Lisa_s_10_] Ой, Макс, ты что?! Что это сейчас такое было?"
+msgstr "[Oh, Max, qu'est-ce que tu fais ? ! Qu'est-ce qui vient de se passer ?"
+
+# game/scripts/story_01/morning_mischief.rpy:380 #-#-# translate crowdin ev_040_caught_breast_54dd2377:
+msgid "[_Max_s_11_] Не пугайся, ты просто... э-э-э... трогала себя..."
+msgstr "[Ne panique pas, tu étais juste... euh, en train de te toucher..."
+
+# game/scripts/story_01/morning_mischief.rpy:381 #-#-# translate crowdin ev_040_caught_breast_7c9631d0:
+msgid "[_Lisa_s_12_] Трогала себя? В смысле?!"
+msgstr "[_Lisa_s_12_] Se toucher ? Qu'est-ce que tu veux dire ?"
+
+# game/scripts/story_01/morning_mischief.rpy:382 #-#-# translate crowdin ev_040_caught_breast_088d8be7:
+msgid "[_Max_s_04_] Ну, как... Ты запустила свои ручки под топик, а я подошёл посмотреть, зачем..."
+msgstr "[Eh bien, comment... Vous avez passé vos mains sous le couvercle, et je suis venu voir pourquoi...."
+
+# game/scripts/story_01/morning_mischief.rpy:383 #-#-# translate crowdin ev_040_caught_breast_fef14eda:
+msgid "[_Lisa_s_15_] Да ты обманываешь! Не было такого. Это всё ты..."
+msgstr "[Vous mentez ! Il n'y a rien eu de tel. C'était toi..."
+
+# game/scripts/story_01/morning_mischief.rpy:384 #-#-# translate crowdin ev_040_caught_breast_5876d4ad:
+msgid "[_Max_s_03_] Хочешь сказать, что тебе приснилось, как это я залез руками тебе под топик? Прикольно... И как, тебе понравилось?"
+msgstr "[Tu es en train de me dire que tu as rêvé que je mettais mes mains sous ton haut ? C'est drôle... Tu as aimé ?"
+
+# game/scripts/story_01/morning_mischief.rpy:385 #-#-# translate crowdin ev_040_caught_breast_504be95c:
+msgid "[_Lisa_s_10_] Я... Ты... Ой, я запуталась... Не знаю, наверно приснилось."
+msgstr "[Je... Vous... Oh, je suis confuse. Je ne sais pas, j'ai dû rêver."
+
+# game/scripts/story_01/morning_mischief.rpy:386 #-#-# translate crowdin ev_040_caught_breast_ab120f11:
+msgid "[_Max_s_01_] Чтобы ты не переживала, сразу скажу, ласкать себя - не преступление. Взрослеешь, сестрёнка..."
+msgstr "[Pour que tu ne t'inquiètes pas, ce n'est pas un crime de se caresser. Tu grandis, ma soeur..."
+
+# game/scripts/story_01/morning_mischief.rpy:390 #-#-# translate crowdin ev_040_caught_breast_3b6a002d:
+msgid "[_Lisa_s_09_] Не знаю, что там себе надумал, но я ничего такого не делала. Просто топик поправляла, понял?"
+msgstr "[Je ne sais pas ce que vous pensez, mais je n'ai rien fait. Je corrigeais juste le haut, d'accord ?"
+
+# game/scripts/story_01/morning_mischief.rpy:391 #-#-# translate crowdin ev_040_caught_breast_63c02f5e:
+msgid "[_Max_s_02_] Конечно... Как официальная версия для прессы сгодится, но я то всё знаю, сестрёнка."
+msgstr "[Bien sûr... C'est bien comme communiqué de presse officiel, mais je sais tout ça, ma sœur."
+
+# game/scripts/story_01/morning_mischief.rpy:395 #-#-# translate crowdin ev_040_caught_breast_4ab7e7d6:
+msgid "[_Lisa_s_15_] Да ну тебя, Макс! Больше не лезь, а то маме на тебя пожалуюсь. Я дальше спать..."
+msgstr "[Allez, Max ! Ne me dérange plus, ou je parle de toi à maman. Je retourne me coucher."
+
+# game/scripts/story_01/morning_mischief.rpy:396 #-#-# translate crowdin ev_040_caught_breast_8c3065b9:
+msgid "[_Max_s_01_] Давай..."
+msgstr "[_Max_s_01_] Allez..."
+
+# game/scripts/story_01/morning_mischief.rpy:405 #-#-# translate crowdin ev_040_caught_breast_f7545e29:
+msgid "[_Lisa_s_15_] Да ну тебя, Макс! Больше не лезь, а то маме на тебя пожалуюсь. Ой, уже вставать надо..."
+msgstr "[Allez, Max ! Ne me dérange plus, ou je parle de toi à maman. Oh, je dois me lever."
+
+# game/scripts/story_01/morning_mischief.rpy:406 #-#-# translate crowdin ev_040_caught_breast_067fe220:
+msgid "[_Max_s_01_] Давай, беги в ванную..."
+msgstr "[Allez, cours jusqu'à la salle de bain...."
+
+# game/scripts/story_01/morning_mischief.rpy:419 #-#-# translate crowdin ev_040_caught_breast_1ead19a1_1:
+msgid "[_Lisa_s_10_] Ой, Макс, ты что?! Что это сейчас такое было?"
+msgstr "[Oh, Max, qu'est-ce que tu fais ? ! Qu'est-ce qui vient de se passer ?"
+
+# game/scripts/story_01/morning_mischief.rpy:420 #-#-# translate crowdin ev_040_caught_breast_a6145615:
+msgid "[_Max_s_04_] Попробуй угадать... Кое-кто снова запустил свои ручки под топик? Ай-я-яй, сестрёнка... Ты такая развратница!"
+msgstr "[_Max_s_04_] Devinez au hasard.... Est-ce que quelqu'un a encore passé ses mains sous la capote ? Ay-yi-yi-yi, ma soeur... Tu es une vraie salope !"
+
+# game/scripts/story_01/morning_mischief.rpy:421 #-#-# translate crowdin ev_040_caught_breast_9067ca35:
+msgid "[_Lisa_s_15_] Да ты обманываешь! Не было такого. И вообще, что ты забыл около моей кровати?"
+msgstr "[Vous mentez ! Non, je n'ai pas menti. Qu'est-ce que tu fais près de mon lit de toute façon ?"
+
+# game/scripts/story_01/morning_mischief.rpy:422 #-#-# translate crowdin ev_040_caught_breast_15a927b2:
+msgid "[_Max_s_03_] Так интересно же было посмотреть поближе, чем ты занимаешься."
+msgstr "[C'était très intéressant de voir de plus près ce que vous faites."
+
+# game/scripts/story_01/morning_mischief.rpy:423 #-#-# translate crowdin ev_040_caught_breast_857e3462:
+msgid "[_Lisa_s_16_] Хм... Меня начинают терзать смутные сомнения, а не ты ли это меня трогал своими бессовестными ручищами сейчас, а?"
+msgstr "[Hmm... Je commence à me demander si ce n'est pas toi qui me touches avec tes mains impudiques en ce moment, n'est-ce pas ?"
+
+# game/scripts/story_01/morning_mischief.rpy:424 #-#-# translate crowdin ev_040_caught_breast_bf1867d2:
+msgid "[_Max_s_01_] Нет, конечно! Как вообще можно? Да и доказательств этому - никаких."
+msgstr "[Non, bien sûr que non ! Comment le pourriez-vous ? Et il n'y a aucune preuve."
+
+# game/scripts/story_01/morning_mischief.rpy:425 #-#-# translate crowdin ev_040_caught_breast_fd17555f:
+msgid "[_Lisa_s_15_] А я вот возьму и, на всякий случай, без доказательств тебя к маме отведу. Она сейчас йогой должна заниматься во дворе, пускай заодно тебя погоняет."
+msgstr "[Je vais t'emmener chez ta mère au cas où, sans preuve. Elle est censée faire du yoga dans l'arrière-cour en ce moment, donc elle peut te poursuivre."
+
+# game/scripts/story_01/morning_mischief.rpy:426 #-#-# translate crowdin ev_040_caught_breast_70d7f644:
+msgid "[_Max_s_12_] Это ещё зачем?!"
+msgstr "[Qu'est-ce que c'est que ça ? !"
+
+# game/scripts/story_01/morning_mischief.rpy:427 #-#-# translate crowdin ev_040_caught_breast_06c0b51d:
+msgid "[_Lisa_s_09_] Может, после этого тебе будет уже не так «интересно» крутиться по утрам около моей кровати. Ну-ка, пошли..."
+msgstr "[Peut-être qu'après ça, tu ne seras plus aussi \"intéressée\" par le fait de traîner autour de mon lit le matin. Allez, on y va."
+
+# game/scripts/story_01/morning_mischief.rpy:428 #-#-# translate crowdin ev_040_caught_breast_6d104c2b:
+msgid "[_Max_s_13_] Эй! Я же ничего такого не делал!"
+msgstr "[Hé ! Je n'ai rien fait !"
+
+# game/scripts/story_01/morning_mischief.rpy:429 #-#-# translate crowdin ev_040_caught_breast_e4ba66e5:
+msgid "[_Lisa_s_11_] Я могу пойти без тебя, но тогда мама наверняка накажет тебя перед всеми. А если..."
+msgstr "[Je pourrais y aller sans toi, mais maman te punirait probablement devant tout le monde. Et si..."
+
+# game/scripts/story_01/morning_mischief.rpy:430 #-#-# translate crowdin ev_040_caught_breast_ebc25aaa:
+msgid "[_Max_s_14_] Ладно, пошли..."
+msgstr "[Ok, allons-y..."
+
+# game/scripts/story_01/morning_mischief.rpy:455 #-#-# translate crowdin ev_040_touch_pussy_0803c44c:
+msgid "[_tMax_s_06_] Вот это класс! Даже не верится, но мой палец прямо сейчас скользит по щёлочке моей младшей сестрёнки! Похоже, спит она крепко, за счёт чего мне так повезло... [nointeract]"
+msgstr "[C'est génial ! Je n'arrive pas à y croire, mais mon doigt est en train de glisser dans la fente de ma petite sœur en ce moment même ! Elle semble dormir profondément, ce qui me rend si chanceux.... [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:471 #-#-# translate crowdin ev_040_caught_pussy_1ead19a1:
+msgid "[_Lisa_s_10_] Ой, Макс, ты что?! Что это сейчас такое было?"
+msgstr "[Oh, Max, qu'est-ce que tu fais ? ! Qu'est-ce qui vient de se passer ?"
+
+# game/scripts/story_01/morning_mischief.rpy:472 #-#-# translate crowdin ev_040_caught_pussy_54dd2377:
+msgid "[_Max_s_11_] Не пугайся, ты просто... э-э-э... трогала себя..."
+msgstr "[Ne panique pas, tu étais juste... euh, en train de te toucher..."
+
+# game/scripts/story_01/morning_mischief.rpy:473 #-#-# translate crowdin ev_040_caught_pussy_7c9631d0:
+msgid "[_Lisa_s_12_] Трогала себя? В смысле?!"
+msgstr "[_Lisa_s_12_] Se toucher ? Qu'est-ce que tu veux dire ?"
+
+# game/scripts/story_01/morning_mischief.rpy:474 #-#-# translate crowdin ev_040_caught_pussy_d361675d:
+msgid "[_Max_s_04_] Ну, как... Ты запустила свои ручки под шортики, а я подошёл посмотреть, зачем..."
+msgstr "[Eh bien, comment... Tu as mis tes mains sous ton short, et je suis venu voir pourquoi...."
+
+# game/scripts/story_01/morning_mischief.rpy:475 #-#-# translate crowdin ev_040_caught_pussy_fef14eda:
+msgid "[_Lisa_s_15_] Да ты обманываешь! Не было такого. Это всё ты..."
+msgstr "[Vous mentez ! Il n'y a rien eu de tel. C'était toi..."
+
+# game/scripts/story_01/morning_mischief.rpy:476 #-#-# translate crowdin ev_040_caught_pussy_d576c4c8:
+msgid "[_Max_s_03_] Хочешь сказать, что тебе приснилось, как это я залез рукой тебе в шортики? Прикольно... И как, тебе понравилось?"
+msgstr "[Tu es en train de me dire que tu as rêvé que j'avais ma main dans ton short ? C'est marrant. Ça t'a plu ?"
+
+# game/scripts/story_01/morning_mischief.rpy:477 #-#-# translate crowdin ev_040_caught_pussy_504be95c:
+msgid "[_Lisa_s_10_] Я... Ты... Ой, я запуталась... Не знаю, наверно приснилось."
+msgstr "[Je... Vous... Oh, je suis confuse. Je ne sais pas, j'ai dû rêver."
+
+# game/scripts/story_01/morning_mischief.rpy:478 #-#-# translate crowdin ev_040_caught_pussy_ab120f11:
+msgid "[_Max_s_01_] Чтобы ты не переживала, сразу скажу, ласкать себя - не преступление. Взрослеешь, сестрёнка..."
+msgstr "[Pour que tu ne t'inquiètes pas, ce n'est pas un crime de se caresser. Tu grandis, ma soeur..."
+
+# game/scripts/story_01/morning_mischief.rpy:482 #-#-# translate crowdin ev_040_caught_pussy_42dca93a:
+msgid "[_Lisa_s_09_] Не знаю, что там себе надумал, но я ничего такого не делала. Просто шортики поправляла, понял?"
+msgstr "[Je ne sais pas ce que vous pensez faire, mais je ne faisais rien. J'ajustais juste mon short, d'accord ?"
+
+# game/scripts/story_01/morning_mischief.rpy:483 #-#-# translate crowdin ev_040_caught_pussy_63c02f5e:
+msgid "[_Max_s_02_] Конечно... Как официальная версия для прессы сгодится, но я то всё знаю, сестрёнка."
+msgstr "[Bien sûr... C'est bien comme communiqué de presse officiel, mais je sais tout ça, ma sœur."
+
+# game/scripts/story_01/morning_mischief.rpy:487 #-#-# translate crowdin ev_040_caught_pussy_4ab7e7d6:
+msgid "[_Lisa_s_15_] Да ну тебя, Макс! Больше не лезь, а то маме на тебя пожалуюсь. Я дальше спать..."
+msgstr "[Allez, Max ! Ne me dérange plus, ou je parle de toi à maman. Je retourne me coucher."
+
+# game/scripts/story_01/morning_mischief.rpy:488 #-#-# translate crowdin ev_040_caught_pussy_8c3065b9:
+msgid "[_Max_s_01_] Давай..."
+msgstr "[_Max_s_01_] Allez..."
+
+# game/scripts/story_01/morning_mischief.rpy:497 #-#-# translate crowdin ev_040_caught_pussy_f7545e29:
+msgid "[_Lisa_s_15_] Да ну тебя, Макс! Больше не лезь, а то маме на тебя пожалуюсь. Ой, уже вставать надо..."
+msgstr "[Allez, Max ! Ne me dérange plus, ou je parle de toi à maman. Oh, je dois me lever."
+
+# game/scripts/story_01/morning_mischief.rpy:498 #-#-# translate crowdin ev_040_caught_pussy_067fe220:
+msgid "[_Max_s_01_] Давай, беги в ванную..."
+msgstr "[Allez, cours jusqu'à la salle de bain...."
+
+# game/scripts/story_01/morning_mischief.rpy:510 #-#-# translate crowdin ev_040_caught_pussy_1ead19a1_1:
+msgid "[_Lisa_s_10_] Ой, Макс, ты что?! Что это сейчас такое было?"
+msgstr "[Oh, Max, qu'est-ce que tu fais ? ! Qu'est-ce qui vient de se passer ?"
+
+# game/scripts/story_01/morning_mischief.rpy:511 #-#-# translate crowdin ev_040_caught_pussy_36fdc45b:
+msgid "[_Max_s_04_] Попробуй угадать... Кое-кто снова запустил свои ручки под шортики? Ай-я-яй, сестрёнка... Ты такая развратница!"
+msgstr "[Devinez au hasard... Est-ce que quelqu'un a encore mis ses mains sous son short ? Ay-yi-yi-yi, ma soeur. Tu es une vraie salope !"
+
+# game/scripts/story_01/morning_mischief.rpy:512 #-#-# translate crowdin ev_040_caught_pussy_9067ca35:
+msgid "[_Lisa_s_15_] Да ты обманываешь! Не было такого. И вообще, что ты забыл около моей кровати?"
+msgstr "[Vous mentez ! Non, je n'ai pas menti. Qu'est-ce que tu fais près de mon lit de toute façon ?"
+
+# game/scripts/story_01/morning_mischief.rpy:513 #-#-# translate crowdin ev_040_caught_pussy_15a927b2:
+msgid "[_Max_s_03_] Так интересно же было посмотреть поближе, чем ты занимаешься."
+msgstr "[C'était très intéressant de voir de plus près ce que vous faites."
+
+# game/scripts/story_01/morning_mischief.rpy:514 #-#-# translate crowdin ev_040_caught_pussy_857e3462:
+msgid "[_Lisa_s_16_] Хм... Меня начинают терзать смутные сомнения, а не ты ли это меня трогал своими бессовестными ручищами сейчас, а?"
+msgstr "[Hmm... Je commence à me demander si ce n'est pas toi qui me touches avec tes mains impudiques en ce moment, n'est-ce pas ?"
+
+# game/scripts/story_01/morning_mischief.rpy:515 #-#-# translate crowdin ev_040_caught_pussy_bf1867d2:
+msgid "[_Max_s_01_] Нет, конечно! Как вообще можно? Да и доказательств этому - никаких."
+msgstr "[Non, bien sûr que non ! Comment le pourriez-vous ? Et il n'y a aucune preuve."
+
+# game/scripts/story_01/morning_mischief.rpy:516 #-#-# translate crowdin ev_040_caught_pussy_fd17555f:
+msgid "[_Lisa_s_15_] А я вот возьму и, на всякий случай, без доказательств тебя к маме отведу. Она сейчас йогой должна заниматься во дворе, пускай заодно тебя погоняет."
+msgstr "[Je vais t'emmener chez ta mère au cas où, sans preuve. Elle est censée faire du yoga dans l'arrière-cour en ce moment, donc elle peut te poursuivre."
+
+# game/scripts/story_01/morning_mischief.rpy:517 #-#-# translate crowdin ev_040_caught_pussy_70d7f644:
+msgid "[_Max_s_12_] Это ещё зачем?!"
+msgstr "[Qu'est-ce que c'est que ça ? !"
+
+# game/scripts/story_01/morning_mischief.rpy:518 #-#-# translate crowdin ev_040_caught_pussy_06c0b51d:
+msgid "[_Lisa_s_09_] Может, после этого тебе будет уже не так «интересно» крутиться по утрам около моей кровати. Ну-ка, пошли..."
+msgstr "[Peut-être qu'après ça, tu ne seras plus aussi \"intéressée\" par le fait de traîner autour de mon lit le matin. Allez, on y va."
+
+# game/scripts/story_01/morning_mischief.rpy:519 #-#-# translate crowdin ev_040_caught_pussy_6d104c2b:
+msgid "[_Max_s_13_] Эй! Я же ничего такого не делал!"
+msgstr "[Hé ! Je n'ai rien fait !"
+
+# game/scripts/story_01/morning_mischief.rpy:520 #-#-# translate crowdin ev_040_caught_pussy_e4ba66e5:
+msgid "[_Lisa_s_11_] Я могу пойти без тебя, но тогда мама наверняка накажет тебя перед всеми. А если..."
+msgstr "[Je pourrais y aller sans toi, mais maman te punirait probablement devant tout le monde. Et si..."
+
+# game/scripts/story_01/morning_mischief.rpy:521 #-#-# translate crowdin ev_040_caught_pussy_ebc25aaa:
+msgid "[_Max_s_14_] Ладно, пошли..."
+msgstr "[Ok, allons-y..."
+
+# game/scripts/story_01/morning_mischief.rpy:533 #-#-# translate crowdin ev_040_repeat_caught_1ead19a1:
+msgid "[_Lisa_s_10_] Ой, Макс, ты что?! Что это сейчас такое было?"
+msgstr "[Oh, Max, qu'est-ce que tu fais ? ! Qu'est-ce qui vient de se passer ?"
+
+# game/scripts/story_01/morning_mischief.rpy:534 #-#-# translate crowdin ev_040_repeat_caught_66780290:
+msgid "[_Max_s_14_] Да так, ничего. Видимо, приснилось что-то..."
+msgstr "[Ce n'est rien. Je crois que j'ai rêvé de quelque chose..."
+
+# game/scripts/story_01/morning_mischief.rpy:535 #-#-# translate crowdin ev_040_repeat_caught_0aa88f29:
+msgid "[_Lisa_s_12_] А по-моему ты опять что-то делал! Если тебе так понравилась утренняя физкультура с мамой, то ко мне лезть не обязательно. Просто иди и занимайся..."
+msgstr "[Je crois que tu as encore fait quelque chose ! Si tu as tant aimé ton exercice matinal avec ta mère, tu n'as pas besoin de te mettre en travers de mon chemin. Va faire de l'exercice..."
+
+# game/scripts/story_01/morning_mischief.rpy:536 #-#-# translate crowdin ev_040_repeat_caught_840266a0:
+msgid "[_Max_s_16_] Вообще-то, и близко не понравилась."
+msgstr "[En fait, je suis loin de l'aimer."
+
+# game/scripts/story_01/morning_mischief.rpy:537 #-#-# translate crowdin ev_040_repeat_caught_e71a53e0:
+msgid "[_Lisa_s_15_] Отлично! Если увижу, что сегодня мама без твоей компании йогой будет заниматься, то нажалуюсь и тебя перед завтраком накажут, понял?"
+msgstr "[Très bien ! Si je vois ta maman faire du yoga sans toi aujourd'hui, je te dénonce et tu seras punie avant le petit déjeuner, compris ?"
+
+# game/scripts/story_01/morning_mischief.rpy:538 #-#-# translate crowdin ev_040_repeat_caught_b2a93869:
+msgid "[_Max_s_13_] Эй, за что?! Я же ничего такого не делал!"
+msgstr "[Hé, pourquoi ? ! Je n'ai rien fait !"
+
+# game/scripts/story_01/morning_mischief.rpy:540 #-#-# translate crowdin ev_040_repeat_caught_9aa12fed:
+msgid "[_Lisa_s_09_] Сам виноват. Нечего ошиваться у моей кровати, пока я сплю. [nointeract]"
+msgstr "[C'est de ta faute. Tu ne devrais pas traîner autour de mon lit pendant que je dors. [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:553 #-#-# translate crowdin ev_040_cooldown_0601ec98:
+msgid "[_tMax_s_12_] Лиза совсем недавно уже просыпалась от того, что я стягивал с неё одежду. Лучше не рисковать лишний раз и подождать хотя бы несколько дней... [nointeract]"
+msgstr "[_tMax_s_12_] Lisa s'était récemment réveillée lorsque je lui avais retiré ses vêtements. Il valait mieux ne pas prendre de risques inutiles et attendre au moins quelques jours.... [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:555 #-#-# translate crowdin ev_040_cooldown_4130bb8a:
+msgid "[_tMax_s_12_] Лиза совсем недавно уже просыпалась от того, что я стягивал с неё одежду. Лучше не рисковать лишний раз и подождать хотя бы ещё денёк... [nointeract]"
+msgstr "[_tMax_s_12_] Lisa avait été récemment réveillée par moi qui lui enlevait ses vêtements. Il valait mieux ne pas prendre de risque et attendre au moins un jour de plus..... [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:578 #-#-# translate crowdin ev_040_forced_phys_ed_27cc06bb:
+msgid "[_Lisa_s_09_] Ма-ам? Ты у себя?"
+msgstr "[Ma-am ? Vous êtes là ?"
+
+# game/scripts/story_01/morning_mischief.rpy:579 #-#-# translate crowdin ev_040_forced_phys_ed_146fb826:
+msgid "[_Ann_] {b}Анна:{/b} \n"
+"Да, Лиза, одну минутку, я переодеваюсь. Что ты хотела?"
+msgstr "{b} \n"
+"[Oui, Lisa, un instant, je me change. Qu'est-ce que tu voulais ?"
+
+# game/scripts/story_01/morning_mischief.rpy:580 #-#-# translate crowdin ev_040_forced_phys_ed_80188544:
+msgid "[_Lisa_s_11_] Ты же сейчас будешь заниматься йогой?"
+msgstr "[Tu vas faire du yoga maintenant, n'est-ce pas ?"
+
+# game/scripts/story_01/morning_mischief.rpy:581 #-#-# translate crowdin ev_040_forced_phys_ed_fc3f0dca:
+msgid "[_Ann_] {b}Анна:{/b} \n"
+"А что такое, хочешь присоединиться?"
+msgstr "{b} \n"
+"[_Ann_] Anna:{/b} Quoi de neuf, tu veux te joindre à nous ?"
+
+# game/scripts/story_01/morning_mischief.rpy:582 #-#-# translate crowdin ev_040_forced_phys_ed_2b062062:
+msgid "[_Lisa_s_12_] Мне тут Макс сильно надоедает в последнее время. Можешь взять его с собой?"
+msgstr "[_Lisa_s_12_] J'ai eu beaucoup de problèmes avec Max ces derniers temps. Peux-tu l'emmener avec toi ?"
+
+# game/scripts/story_01/morning_mischief.rpy:587 #-#-# translate crowdin ev_040_forced_phys_ed_0fcebf74:
+msgid "[_Ann_s_10_] Так, и каким образом он тебе надоедает?"
+msgstr "[Alors, comment vous ennuie-t-il ?"
+
+# game/scripts/story_01/morning_mischief.rpy:588 #-#-# translate crowdin ev_040_forced_phys_ed_49e9223e:
+msgid "[_Lisa_s_10_] Он взял манеру в моё личное пространство вторгаться по утрам. Думаю, наказывать его перед всеми за это слишком, а вот погонять как следует во дворе - это как раз то, что нужно."
+msgstr "[Il a pris l'habitude d'envahir mon espace personnel le matin. Je pense que le punir devant tout le monde pour cela est trop, mais lui donner une bonne chasse dans la cour est juste ce dont il a besoin."
+
+# game/scripts/story_01/morning_mischief.rpy:589 #-#-# translate crowdin ev_040_forced_phys_ed_1378d04b:
+msgid "[_Max_s_16_] Знаете, я всё осознал, давайте не будем..."
+msgstr "[Vous savez, j'ai tout compris, il ne faut pas..."
+
+# game/scripts/story_01/morning_mischief.rpy:590 #-#-# translate crowdin ev_040_forced_phys_ed_9ac57128:
+msgid "[_Lisa_s_15_] Нет, Макс, давай будем получать по заслугам! Чтобы у тебя поубавился соблазн продолжать ко мне лезть."
+msgstr "[Non, Max, obtenons ce que nous méritons ! Pour que tu ne sois pas tenté de continuer à m'embêter."
+
+# game/scripts/story_01/morning_mischief.rpy:591 #-#-# translate crowdin ev_040_forced_phys_ed_d15b26a6:
+msgid "[_Ann_s_14_] Ох, как вы мне... дороги. Сейчас я тебе устрою «весёлое» спортивное утро, Макс. Жду во дворе..."
+msgstr "[Oh, comme vous m'êtes chère. chérie. Je vais te donner une matinée sportive amusante, Max. J'attends dans la cour."
+
+# game/scripts/story_01/morning_mischief.rpy:595 #-#-# translate crowdin ev_040_forced_phys_ed_c018a544:
+msgid "[_Max_s_13_] Знаешь, тебя тоже было бы неплохо наказать за нарушение МОЕГО личного пространства..."
+msgstr "[Vous savez, ce serait bien de vous punir, vous aussi, pour avoir violé MON espace personnel..."
+
+# game/scripts/story_01/morning_mischief.rpy:596 #-#-# translate crowdin ev_040_forced_phys_ed_3c204415:
+msgid "[_Lisa_s_12_] Что?! Когда это я такое делала?"
+msgstr "[Quoi ? ! Quand est-ce que j'ai fait ça ?"
+
+# game/scripts/story_01/morning_mischief.rpy:597 #-#-# translate crowdin ev_040_forced_phys_ed_2a0299bd:
+msgid "[_Max_s_16_] Представляешь, тоже по утрам, когда стоишь и разглядываешь меня. Я вот почему-то маме не бегу жаловаться на тебя, а ты..."
+msgstr "[Tu peux le croire, toi aussi, le matin, quand tu es là à me regarder ? Pour une raison que j'ignore, je ne vais pas voir ma mère pour me plaindre de toi, mais toi..."
+
+# game/scripts/story_01/morning_mischief.rpy:598 #-#-# translate crowdin ev_040_forced_phys_ed_ef3c036e:
+msgid "[_Lisa_s_09_] Это другое. Я же тебя не трогала..."
+msgstr "[C'est différent. Ce n'est pas comme si je t'avais touchée..."
+
+# game/scripts/story_01/morning_mischief.rpy:599 #-#-# translate crowdin ev_040_forced_phys_ed_baab96a1:
+msgid "[_Max_s_15_] Так и я не трогал! Ты сама себя..."
+msgstr "[Je ne t'ai pas touchée ! Vous êtes votre propre..."
+
+# game/scripts/story_01/morning_mischief.rpy:600 #-#-# translate crowdin ev_040_forced_phys_ed_052c5f9d:
+msgid "[_Lisa_s_15_] Знаешь, когда тебя нет возле моей кровати, я почему то себя не трогаю. Совпадение? Не думаю..."
+msgstr "[Tu sais, quand tu n'es pas près de mon lit, je ne me touche pas pour une raison ou une autre. Coïncidence ? Je ne crois pas."
+
+# game/scripts/story_01/morning_mischief.rpy:601 #-#-# translate crowdin ev_040_forced_phys_ed_4e88ce73:
+msgid "[_Max_s_12_] А может трогаешь, просто я не в курсе."
+msgstr "[_Max_s_12_] Ou peut-être que vous l'êtes et que je n'en suis pas conscient."
+
+# game/scripts/story_01/morning_mischief.rpy:603 #-#-# translate crowdin ev_040_forced_phys_ed_89d7fa52:
+msgid "[_Lisa_s_10_] Я себя не трогаю, Макс! И вообще, я пошла в ванную... [nointeract]"
+msgstr "[Je ne me touche pas, Max ! En fait, je vais aux toilettes... [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:620 #-#-# translate crowdin ev_040_excuses_53e4365b:
+msgid "[_Lisa_s_11_] Ну, Макс... Вот зачем ты это предложил? Теперь я хочу сладенькое..."
+msgstr "[_Lisa_s_11_] Eh bien, Max. Pourquoi as-tu suggéré ça ? Maintenant, je veux un bonbon..."
+
+# game/scripts/story_01/morning_mischief.rpy:621 #-#-# translate crowdin ev_040_excuses_62fcd0e6:
+msgid "[_Max_s_11_] Отлично! Мы не вовлекаем маму в нашу неоднозначную ситуацию, а я тебе за это сладенькое, договорились?"
+msgstr "[D'accord ! Nous n'impliquons pas maman dans notre situation ambiguë, et je te donnerai un bonbon pour ça, d'accord ?"
+
+# game/scripts/story_01/morning_mischief.rpy:622 #-#-# translate crowdin ev_040_excuses_d6d29c8d:
+msgid "[_Lisa_s_15_] Но времени у тебя до ужина, понял?! Иначе мама всё узнает про тебя..."
+msgstr "[Mais tu as jusqu'au dîner, d'accord ? ! Sinon maman va tout savoir sur toi....."
+
+# game/scripts/story_01/morning_mischief.rpy:623 #-#-# translate crowdin ev_040_excuses_dc554418:
+msgid "[_Max_s_02_] Ага, значит договорились."
+msgstr "[Oui, donc c'est un accord."
+
+# game/scripts/story_01/morning_mischief.rpy:629 #-#-# translate crowdin ev_040_excuses_ac59512b:
+msgid "[_tMax_s_11_] Фух... Как хорошо, что и вторая сестрёнка тоже сладкоежка! Что же ей купить? А если ей не понравится? Ладно, там увидим..."
+msgstr "[_tMax_s_11_] Ouf... C'est bien que l'autre soeur ait aussi un penchant pour les sucreries ! Qu'est-ce que je dois lui acheter ? Et si elle n'aime pas ? Bon, on verra bien..."
+
+# game/scripts/story_01/morning_mischief.rpy:630 #-#-# translate crowdin ev_040_excuses_8b697123:
+msgid "[_tMax_s_12_] Если я не ошибаюсь, то Алиса с Лизой всегда без проблем делили сладости, а значит любимую сладость Алисы можно не брать в расчёт."
+msgstr "[Si je ne me trompe pas, Alice et Lisa n'ont jamais eu de problème à partager les bonbons, ce qui signifie que le bonbon préféré d'Alice peut être laissé de côté."
+
+# game/scripts/story_01/morning_mischief.rpy:640 #-#-# translate crowdin ev_040_excuses_43ffd54e:
+msgid "[_Lisa_s_16_] Если так же, как в прошлый раз, то не нужно! Зачем предлагать, если всё равно не купишь?"
+msgstr "[Si c'est la même chose que la dernière fois, ne le faites pas ! Pourquoi l'offrir si vous ne l'achetez pas de toute façon ?"
+
+# game/scripts/story_01/morning_mischief.rpy:641 #-#-# translate crowdin ev_040_excuses_c0b8d9bf:
+msgid "[_Max_s_12_] Да, знаю. В тот раз не получилось..."
+msgstr "[_Max_s_12_] Oui, je sais. Ça n'a pas marché cette fois-là."
+
+# game/scripts/story_01/morning_mischief.rpy:642 #-#-# translate crowdin ev_040_excuses_07756cf9:
+msgid "[_Lisa_s_12_] А я ждала, как дура, между прочим. Было обидно."
+msgstr "[J'ai attendu comme une idiote, d'ailleurs. C'était frustrant."
+
+# game/scripts/story_01/morning_mischief.rpy:643 #-#-# translate crowdin ev_040_excuses_924cfe00:
+msgid "[_Max_s_00_] Сегодня всё будет!"
+msgstr "[Ça va arriver aujourd'hui !"
+
+# game/scripts/story_01/morning_mischief.rpy:646 #-#-# translate crowdin ev_040_excuses_53e4365b_1:
+msgid "[_Lisa_s_11_] Ну, Макс... Вот зачем ты это предложил? Теперь я хочу сладенькое..."
+msgstr "[_Lisa_s_11_] Eh bien, Max. Pourquoi as-tu suggéré ça ? Maintenant, je veux un bonbon..."
+
+# game/scripts/story_01/morning_mischief.rpy:647 #-#-# translate crowdin ev_040_excuses_62fcd0e6_1:
+msgid "[_Max_s_11_] Отлично! Мы не вовлекаем маму в нашу неоднозначную ситуацию, а я тебе за это сладенькое, договорились?"
+msgstr "[D'accord ! Nous n'impliquons pas maman dans notre situation ambiguë, et je te donnerai un bonbon pour ça, d'accord ?"
+
+# game/scripts/story_01/morning_mischief.rpy:650 #-#-# translate crowdin ev_040_excuses_d6d29c8d_1:
+msgid "[_Lisa_s_15_] Но времени у тебя до ужина, понял?! Иначе мама всё узнает про тебя..."
+msgstr "[Mais tu as jusqu'au dîner, d'accord ? ! Sinon maman va tout savoir sur toi....."
+
+# game/scripts/story_01/morning_mischief.rpy:651 #-#-# translate crowdin ev_040_excuses_dc554418_1:
+msgid "[_Max_s_02_] Ага, значит договорились."
+msgstr "[Oui, donc c'est un accord."
+
+# game/scripts/story_01/morning_mischief.rpy:662 #-#-# translate crowdin ev_040_end_28f7cea3:
+msgid "[_tMax_s_01_] Стянуть с Лизы верх пижамки оказалось не так уж и сложно. Можно будет даже попробовать оголить всю её грудь, правда это может получиться только если она будет спать на спине."
+msgstr "[Retirer le haut de pyjama de Lisa n'était pas si difficile. On pourrait même essayer d'exposer ses seins, mais cela ne fonctionnerait que si elle dormait sur le dos."
+
+# game/scripts/story_01/morning_mischief.rpy:663 #-#-# translate crowdin ev_040_end_44341e08:
+msgid "[_tMax_s_03_] Но это так, приятное дополнение к тому, что я ещё хочу попробовать сделать... Это стянуть с неё шортики! Главное, чтобы она не спала на боку при этом..."
+msgstr "[Mais ce n'est qu'un complément à ce que je veux essayer de faire... c'est de baisser son short ! Assurez-vous qu'elle ne dort pas sur le côté..."
+
+# game/scripts/story_01/morning_mischief.rpy:673 #-#-# translate crowdin ev_040_end_4913ab62:
+msgid "[_tMax_s_04_] Да, у меня получилось! До чего же было приятно заглянуть под шортики Лизы. Возможно, я сильно наглею из-за успехов со стягиванием её одежды, но теперь я хочу уже и что-нибудь потрогать..."
+msgstr "[Oui, je l'ai fait ! C'était si bon de regarder sous le short de Lisa. Peut-être que je suis arrogant parce que j'ai réussi à lui enlever ses vêtements, mais maintenant j'ai envie de toucher quelque chose...."
+
+# game/scripts/story_01/morning_mischief.rpy:674 #-#-# translate crowdin ev_040_end_54545cd5:
+msgid "[_tMax_s_01_] А что? Если даже Лиза как-то утром боролась с желанием прикоснуться к моему члену, то я вообще уже должен был минимум несколько раз прикоснуться к её прелестям!"
+msgstr "[Pourquoi ? Si même Lisa luttait contre l'envie de toucher ma bite un matin, j'aurais dû au moins toucher ses charmes plusieurs fois maintenant !"
+
+# game/scripts/story_01/morning_mischief.rpy:675 #-#-# translate crowdin ev_040_end_dca94163:
+msgid "[_tMax_s_02_] Пожалуй, начну с её груди... Для этого она должна спать на спине или на боку, но прежде чем потрогать, лучше сперва стянуть одежду с её груди, чтобы проверить насколько крепко она спит."
+msgstr "[Je pense que je vais commencer par ses seins... Pour cela, elle doit dormir sur le dos ou sur le côté, mais avant de toucher, il vaut mieux d'abord retirer les vêtements de sa poitrine pour vérifier si elle dort bien."
+
+# game/scripts/story_01/morning_mischief.rpy:679 #-#-# translate crowdin ev_040_end_a820e6ce:
+msgid "[_tMax_s_13_] Хм... Вот только вопрос, а могу ли я действовать достаточно скрытно, чтобы Лиза не заметила, что я её трогаю? Неплохо бы сначала в этом как-то убедиться..."
+msgstr "[_tMax_s_13_] Hmm... J'ai une question : puis-je être assez discret pour que Lisa ne s'aperçoive pas que je l'ai touchée ? Ce ne serait pas une mauvaise idée de s'en assurer d'abord..."
+
+# game/scripts/story_01/morning_mischief.rpy:680 #-#-# translate crowdin ev_040_end_25c35499:
+msgid "[_tMax_s_11_] Надо подумать... Сложнее всего скрываться от мамы. Может, если я поработаю над нашими с ней отношениями через помощь с делами по дому, то подвернётся что-то, что покажет насколько скрытно я могу действовать?"
+msgstr "[Je dois réfléchir... Le plus dur, c'est de se cacher de ma mère. Peut-être que si je travaille sur notre relation avec elle en l'aidant dans les tâches ménagères, quelque chose se présentera qui montrera à quel point je peux être furtif ?"
+
+# game/scripts/story_01/morning_mischief.rpy:690 #-#-# translate crowdin ev_040_end_fe9b1c82:
+msgid "[_tMax_s_01_] Ну, а теперь осталось ещё кое-что особенное... Залезть своими шаловливыми ручонками Лизе под шортики! Верх наглости, но от того это и так круто..."
+msgstr "[Eh bien, il y a encore une chose spéciale à faire... Mettre mes mains coquines sous le short de Lisa ! C'est culotté, mais c'est ce qui rend la chose si cool..."
+
+# game/scripts/story_01/morning_mischief.rpy:701 #-#-# translate crowdin ev_040_end_c2ec5e2a:
+msgid "[_tMax_s_02_] Уж не знаю, осмелиться ли всё-таки Лиза потрогать когда-нибудь мой член, пока я сплю, но её киску я потрогал раньше, хе-хе... И она этого даже не знает!"
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:702 #-#-# translate crowdin ev_040_end_c21a7f8b:
+msgid "[_tMax_s_13_] Хм... А вдруг и я не знаю, что она уже меня трогала?! Я же тоже мог крепко спать... Нет, вряд ли, я бы точно от такого проснулся... Наверно..."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:703 #-#-# translate crowdin ev_040_end_e293f1be:
+msgid "[_tMax_s_11_] Ладно, гадать смысла нет. Что бы мне ещё такое интересное с Лизой придумать? Может ей показать какой-нибудь ролик с мастурбацией, чтобы она уже начала исследовать себя на предмет всяких там удовольствий? Например, перед сном, в темноте для большего впечатления?"
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:704 #-#-# translate crowdin ev_040_end_6a5c31f6:
+msgid "[_tMax_s_04_] А что, было бы круто однажды проснуться от еле сдерживаемых стонов моей младшей сестрёнки, которая лежит и ласкает себя на кровати... О да!"
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:705 #-#-# translate crowdin ev_040_end_f931867d:
+msgid "[_tMax_s_01_] Мечтать не вредно, но и сказать, что это что-то невозможное нельзя. Так что попробовать можно, но не сейчас. Сперва я ещё немного подожду, вдруг она всё-таки тоже меня потрогает за кое-что одним прекрасным утром..."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:708 #-#-# translate crowdin ev_040_end_ae59bdb8:
+msgid "[_tMax_s_02_] Вот можно и сказать, что всё по-честному... И Лиза меня с утра трогала за кое-что, и я её тоже. Теперь вопрос, а что бы мне ещё такое интересное с ней придумать?"
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:709 #-#-# translate crowdin ev_040_end_b5f7f3ef:
+msgid "[_tMax_s_11_] Может ей показать какой-нибудь ролик с мастурбацией, чтобы она уже начала исследовать себя на предмет всяких там удовольствий? Например, перед сном, в темноте для большего впечатления?"
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:710 #-#-# translate crowdin ev_040_end_6a5c31f6_1:
+msgid "[_tMax_s_04_] А что, было бы круто однажды проснуться от еле сдерживаемых стонов моей младшей сестрёнки, которая лежит и ласкает себя на кровати... О да!"
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:711 #-#-# translate crowdin ev_040_end_6306d668:
+msgid "[_tMax_s_01_] Мечтать не вредно, но и сказать, что это что-то невозможное нельзя. Так что попробовать можно, но не сейчас. Сперва ведь надо посмотреть, к чему нас с Лизой приведут мои наставления по взрослой жизни..."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:714 #-#-# translate crowdin ev_040_end_ae59bdb8_1:
+msgid "[_tMax_s_02_] Вот можно и сказать, что всё по-честному... И Лиза меня с утра трогала за кое-что, и я её тоже. Теперь вопрос, а что бы мне ещё такое интересное с ней придумать?"
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:715 #-#-# translate crowdin ev_040_end_b5f7f3ef_1:
+msgid "[_tMax_s_11_] Может ей показать какой-нибудь ролик с мастурбацией, чтобы она уже начала исследовать себя на предмет всяких там удовольствий? Например, перед сном, в темноте для большего впечатления?"
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:716 #-#-# translate crowdin ev_040_end_6a5c31f6_2:
+msgid "[_tMax_s_04_] А что, было бы круто однажды проснуться от еле сдерживаемых стонов моей младшей сестрёнки, которая лежит и ласкает себя на кровати... О да!"
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:717 #-#-# translate crowdin ev_040_end_7932d73b:
+msgid "[_tMax_s_01_] Мечтать не вредно, но и сказать, что это что-то невозможное нельзя. Так что попробовать можно! При чём в самое ближайшее время..."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:738 #-#-# translate crowdin ev_121_359a36d1:
+msgid "[_Lisa_s_14_] Макс, у меня пижамка съехала во время сна! Быстро признавайся, ты глазел на меня, пока я спала?! [nointeract]"
+msgstr "[Max, mon pyjama est tombé pendant que je dormais ! Avoue vite, tu m'as regardé pendant que je dormais ? ! [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:746 #-#-# translate crowdin ev_121_21854b11:
+msgid "[_Lisa_s_11_] Ой, Макс... Ты ещё больше меня засмущал! Не пялься так на меня, отвернись... [nointeract]"
+msgstr "[_Lisa_s_11_] Oh, Max... Tu m'as encore plus gênée ! Ne me regarde pas comme ça, tourne-toi... [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:751 #-#-# translate crowdin ev_121_7b5fb47b:
+msgid "[_Lisa_s_16_] Ага, сплю и вижу, чтобы с меня покрасивее одежда сползла! Если не отвернёшься, то я сильно на тебя обижусь и больше разговаривать не буду... [nointeract]"
+msgstr "[Oui, je rêve que mes vêtements glissent ! Si tu ne regardes pas ailleurs, je vais me vexer et ne plus te parler.... [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:759 #-#-# translate crowdin ev_121_03bfbc42:
+msgid "[_Lisa_s_01_] Ааа... Ну раз одним глазком, то это ерунда, правда ведь? Можно даже считать, что ты и не видел ничего такого... Но это не значит, что на меня можно и дальше вот так бессовестно глазеть! [nointeract]"
+msgstr "[_Lisa_s_01_] Ah... Si ce n'est qu'un aperçu, ce n'est rien, n'est-ce pas ? Vous pouvez même supposer que vous n'avez rien vu de tel.... Mais cela ne veut pas dire que vous pouvez continuer à me regarder comme ça ! [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:762 #-#-# translate crowdin ev_121_c9b70f3a:
+msgid "[_Lisa_s_15_] Ну и долго ты ещё пялиться на меня будешь?! Отвернись! [nointeract]"
+msgstr "[_Lisa_s_15_] Combien de temps allez-vous continuer à me fixer ? ! Tourne-toi ! [nointeract]"
+
+# game/scripts/story_01/morning_mischief.rpy:768 #-#-# translate crowdin ev_121_a7d4343e:
+msgid "[_Lisa_] {b}Лиза:{/b} \n"
+"Я пошла в ванную..."
+msgstr "{b} \n"
+"[Je suis allée aux toilettes..."
+
+# game/scripts/story_01/morning_mischief.rpy:785 #-#-# translate crowdin ev_139_3ff1fe89:
+msgid "[_tMax_s_12_] Ой, чуть не забыл, я же хотел показать Лизе кое-какое «обучающее» видео! Думаю, сейчас как раз самое время для этого..."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:789 #-#-# translate crowdin ev_139_088c9abf:
+msgid "[_Lisa_s_02_] Макс, я выключаю свет и ложусь спать. Доброй ночи."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:790 #-#-# translate crowdin ev_139_644036ff:
+msgid "[_Max_s_11_] Подожди! Я хотел тебе показать одно обучающее видео..."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:791 #-#-# translate crowdin ev_139_f718f98e:
+msgid "[_Lisa_s_09_] Ой, а не лучше ли такое смотреть днём, пока ещё голова хоть что-то соображает? Я уже никакая..."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:792 #-#-# translate crowdin ev_139_9972b2df:
+msgid "[_Max_s_02_] Да там недолго. Выключай свет, а я возьму ноутбук."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:796 #-#-# translate crowdin ev_139_8cdc5234:
+msgid "[_Lisa_s_10_] Эй, ничего себе ты у меня на кровати развалился! И вообще, можно же было за столом посмотреть, раз недолго. Или у тебя на кровати..."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:797 #-#-# translate crowdin ev_139_25cfd895:
+msgid "[_Max_s_03_] Мне кажется, что здесь тебе будет комфортнее смотреть. Запрыгивай, я подвинусь..."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:801 #-#-# translate crowdin ev_139_dd3f8422:
+msgid "[_Lisa_s_09_] Ну, так что там у тебя такое? Это кто такая?"
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:802 #-#-# translate crowdin ev_139_cacc9fe9:
+msgid "[_Max_s_01_] Здесь важнее не КТО это такая, а то, ЧТО она будет делать. Вернее, КАК она это будет делать..."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:806 #-#-# translate crowdin ev_139_40e46215:
+msgid "[_Lisa_s_12_] А что она будет делать-то? Ой! Это что, порнушка?!"
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:807 #-#-# translate crowdin ev_139_500aa81b:
+msgid "[_Max_s_04_] Нет, учитывая то, сколько всего наснимали в этом жанре, порнушкой это видео я бы не назвал. Для тебя это как раз таки обучающее видео."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:808 #-#-# translate crowdin ev_139_0185b6ed:
+msgid "[_Lisa_s_09_] И зачем мне этому учиться?"
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:809 #-#-# translate crowdin ev_139_aae278b2:
+msgid "[_Max_s_13_] А как ты собираешься встречаться с мальчиками, если понятия не имеешь, что и как тебе нравится? Начинать нужно с себя, своего тела и своих ощущений."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:813 #-#-# translate crowdin ev_139_0819ee73:
+msgid "[_Lisa_s_15_] Да? Хм... Хочешь сказать, без этого я никак не обойдусь?"
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:814 #-#-# translate crowdin ev_139_b54a91d9:
+msgid "[_Max_s_16_] Обойтись-то можно... Просто будешь всего такого долго стесняться, с мальчиками недопониманий куча будет."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:818 #-#-# translate crowdin ev_139_a8b6a874:
+msgid "[_Lisa_s_11_] Ну, выглядит это не сложно. Вроде..."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:819 #-#-# translate crowdin ev_139_6aea0d20:
+msgid "[_Max_s_11_] Да, можешь уже и начинать..."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:823 #-#-# translate crowdin ev_139_4a1c5873:
+msgid "[_Lisa_s_12_] Нет, Макс, при тебе я не буду! Я стесняюсь."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:824 #-#-# translate crowdin ev_139_d2d5cc08:
+msgid "[_Max_s_12_] Вот видишь, про это я и говорю. Стеснение, неуверенность..."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:828 #-#-# translate crowdin ev_139_4990040d:
+msgid "[_Lisa_s_10_] Зато ты, я смотрю, нисколько не стесняешься лежать тут у меня на кровати со своей большущей, торчащей штукой. Мне из-за тебя скоро места на кровати не останется!"
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:829 #-#-# translate crowdin ev_139_3632811e:
+msgid "[_Max_s_13_] Лиза, пора бы уже и привыкнуть..."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:830 #-#-# translate crowdin ev_139_5a20364a:
+msgid "[_Lisa_s_11_] Да, похоже придётся. А пока давай-ка шуруй с моей кровати куда-нибудь... Например, на свою кровать."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:831 #-#-# translate crowdin ev_139_ddf7a551:
+msgid "[_Max_s_02_] Ладно. Надеюсь, видео было познавательным для тебя."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:835 #-#-# translate crowdin ev_139_76682758:
+msgid "[_Lisa_s_01_] Ага, теперь бы ещё получилось заснуть после всего увиденного."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:836 #-#-# translate crowdin ev_139_e031b641:
+msgid "[_Max_s_03_] Так ты поиграйся с собой, как на видео. И сладко-сладко заснёшь."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:837 #-#-# translate crowdin ev_139_561af1d7:
+msgid "[_Lisa_s_02_] Да ну тебя, Макс. Всё, я спать..."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:838 #-#-# translate crowdin ev_139_9f41cf69:
+msgid "[_Max_s_01_] Ну, как знаешь. Спокойной ночи."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:842 #-#-# translate crowdin ev_139_f036f529:
+msgid "[_tMax_s_11_] Теперь остаётся надеяться, что любопытство Лизы возьмёт верх и она попробует повторить то, что я сейчас ей показал."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:843 #-#-# translate crowdin ev_139_7488f8c7:
+msgid "[_tMax_s_13_] Допустим, она попробует... А где? Здесь, в нашей комнате? Нет, слишком рискованно. Я почти всё время дома и могу зайти сюда в любой момент."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:844 #-#-# translate crowdin ev_139_64976b58:
+msgid "[_tMax_s_04_] В гостиной - людно, во дворе тоже не вариант. Остаётся, конечно же, ванная комната! Вот там за моей сестрёнкой и стоит хорошенько последить..."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:845 #-#-# translate crowdin ev_139_ce0223c3:
+msgid "[_tMax_s_12_] Правда, кто знает, где именно она станет ласкать свою нежную, розовенькую киску? В самом душе, в ванне или у зеркала?"
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:849 #-#-# translate crowdin ev_139_1faf2aa7:
+msgid "[_tMax_s_13_] Наблюдать за тем, как она принимает душ и ванну проблематично. Так что сперва нужно решить этот вопрос..."
+msgstr ""
+
+# game/scripts/story_01/morning_mischief.rpy:853 #-#-# translate crowdin ev_139_32ab1d84:
+msgid "[_tMax_s_01_] Хорошо, что у меня установлена скрытая камера в ванной комнате. Да и стремянка имеется. А это значит, что у меня есть все шансы увидеть, как Лиза будет мастурбировать..."
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/story_01/morning_mischief.rpy:17
+msgid "{i}попробовать стянуть верх одежды{/i}"
+msgstr "{i}pour essayer de faire descendre le haut de vos vêtements."
+
+# game/scripts/story_01/morning_mischief.rpy:24
+msgid "{i}попробовать оголить всю её грудь{/i}"
+msgstr "{i}pour essayer d'exposer toute sa poitrine."
+
+# game/scripts/story_01/morning_mischief.rpy:32
+msgid "{i}тихонько отойти от неё{/i}"
+msgstr "{i}s'éloigner d'elle en silence."
+
+# game/scripts/story_01/morning_mischief.rpy:110
+msgid "{i}не мешать ей спать{/i}"
+msgstr "{i}pour ne pas perturber son sommeil."
+
+# game/scripts/story_01/morning_mischief.rpy:122
+msgid "{i}стянуть верх одежды{/i}"
+msgstr "{i}Descendez le haut de vos vêtements."
+
+# game/scripts/story_01/morning_mischief.rpy:122
+msgid "{i}сразу оголить всю её грудь{/i}"
+msgstr "{i}pour exposer tous ses seins en même temps."
+
+# game/scripts/story_01/morning_mischief.rpy:122
+msgid "{i}стянуть низ одежды{/i}"
+msgstr "{i}pour rabattre le bas du vêtement."
+
+# game/scripts/story_01/morning_mischief.rpy:122
+msgid "{i}сразу потрогать её киску{/i}"
+msgstr "{i}de toucher sa chatte tout de suite."
+
+# game/scripts/story_01/morning_mischief.rpy:122
+msgid "{i}нагло облапать её киску{/i}"
+msgstr "{i}qui lui tripotait effrontément la chatte."
+
+# game/scripts/story_01/morning_mischief.rpy:167
+msgid "{i}оголить всю её грудь{/i}"
+msgstr "{i}pour dévoiler toute sa poitrine."
+
+# game/scripts/story_01/morning_mischief.rpy:167
+msgid "{i}потрогать её грудь{/i}"
+msgstr "{i}toucher ses seins{/i}"
+
+# game/scripts/story_01/morning_mischief.rpy:167
+msgid "{i}нагло облапать её грудь{/i}"
+msgstr "{i}en lui tripotant effrontément les seins."
+
+# game/scripts/story_01/morning_mischief.rpy:167
+msgid "{i}вернуть одежду на место{/i}"
+msgstr "{i}pour remettre les vêtements à leur place."
+
+# game/scripts/story_01/morning_mischief.rpy:306
+msgid "{i}потрогать её киску{/i}"
+msgstr "{i}de toucher sa chatte."
+
+# game/scripts/story_01/morning_mischief.rpy:539
+msgid "А если я куплю тебе что-нибудь сладенькое?"
+msgstr "Et si je t'offrais quelque chose de sucré ?"
+
+# game/scripts/story_01/morning_mischief.rpy:602
+msgid "{i}идти во двор к маме{/i}"
+msgstr "{i}pour aller dans le jardin de ma mère."
+
+# game/scripts/story_01/morning_mischief.rpy:737
+msgid "Но ты же так мило выглядишь, когда слегка обнажена!"
+msgstr "Mais tu es si mignonne quand tu es légèrement nue !"
+
+# game/scripts/story_01/morning_mischief.rpy:737
+msgid "Извини, не удержался. Но я немного, одним глазком и на ходу..."
+msgstr "Désolé, je n'ai pas pu résister. Mais je suis juste un peu, juste un coup d'œil rapide et en route..."
+

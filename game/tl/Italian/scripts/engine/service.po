@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/engine/service.po\n"
+"X-Crowdin-File-ID: 9077\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2025-08-11 15:34\n"
+
+# TODO: Translation updated at 2025-08-11 18:01 #|#|# # game/scripts/engine/service.rpy:77 #-#-# translate crowdin nothing_to_do_423a776a:
+msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
+msgstr "[_tMax_s_12_] Non c'è nient'altro da fare qui al momento..."
+
+# game/scripts/engine/service.rpy:501 #-#-# translate crowdin after_buy_388f9ec2:
+msgid "[_tMax_s_12_] Да уж... Пришлось раскошелиться... Надеюсь, благодаря этой книге мне удастся создать свой сайт и хорошо заработать."
+msgstr "[_tMax_s_12_] Eh già... Ho dovuto spendere un bel po'... Spero che grazie a questo libro riuscirò a creare il mio sito e a guadagnare bene."
+
+# game/scripts/engine/service.rpy:502 #-#-# translate crowdin after_buy_1673198b:
+msgid "[_tMax_s_01_] Но книгу, как и другие товары, заказанные в интернете, доставят только завтра. Поэтому пока можно отдохнуть..."
+msgstr "[_tMax_s_01_] Ma il libro, come gli altri articoli ordinati su internet, verrà consegnato solo domani. Quindi, per ora, posso rilassarmi un po’..."
+
+# game/scripts/engine/service.rpy:516 #-#-# translate crowdin webcam_show_8e2c7b14:
+msgid "[_tMax_s_11_] Прилягу-ка я на кровать, чтобы Лиза не увидела ничего такого..."
+msgstr "[_tMax_s_11_] Mi sdraio sul letto, così Lisa non vedrà nulla che..."
+
+# game/scripts/engine/service.rpy:523 #-#-# translate crowdin webcam_show_2717e9a0:
+msgid "[_tMax_s_11_] Прилягу-ка я на кровать, чтобы Лиза не увидела ничего такого, если зайдёт в комнату..."
+msgstr "[_tMax_s_11_] Mi sdraio sul letto, così Lisa non vedrà nulla di tutto questo se entra nella stanza..."
+

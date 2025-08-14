@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/mini-games/hack.po\n"
+"X-Crowdin-File-ID: 13072\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2025-03-15 14:07\n"
+
+# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/mini-games/hack.rpy:92
+msgid "Инструкция по взлому пароля"
+msgstr "Şifre kırma talimatları"
+
+# game/scripts/mini-games/hack.rpy:122
+msgid "Убрать последний символ"
+msgstr "Son karakteri sil"
+
+# game/scripts/mini-games/hack.rpy:128
+msgid "Проверить последовательность символов"
+msgstr "Karakterlerin sırasını kontrol edin"
+
+# game/scripts/mini-games/hack.rpy:134
+msgid "Ввести пароль"
+msgstr "Şifre girin"
+
+# game/scripts/mini-games/hack.rpy:170
+msgid "Упорядочить"
+msgstr "Organize etmek"
+
+# game/scripts/mini-games/hack.rpy:198
+msgid "Пароль, который вы хотите взломать, состоит из [hack.len] символов. Вам нужно вводить различные символы и проверять, верна ли их последовательность."
+msgstr "Hacklemek istediğiniz şifre [hack.len] karakterlerinden oluşur. Farklı karakterler girmeniz ve sıralarının doğru olup olmadığını kontrol etmeniz gerekir."
+
+# game/scripts/mini-games/hack.rpy:199
+msgid "Справа отображается история того, какие последовательности символов вы вводили для проверки, а так же два числа."
+msgstr "Sağ tarafta, test etmek için hangi karakter dizilerini girdiğinize dair bir geçmiş ve iki sayı görebilirsiniz."
+
+# game/scripts/mini-games/hack.rpy:200
+msgid "Оранжевое число показывает, какое количество из введённых символов присутствует в данном пароле."
+msgstr "Turuncu sayı, girilen karakterlerden kaç tanesinin bu parolada mevcut olduğunu gösterir."
+
+# game/scripts/mini-games/hack.rpy:201
+msgid "Зелёное число показывает, сколько из этих символов находится на своём месте в данном пароле."
+msgstr "Yeşil sayı, belirli bir parolada bu karakterlerden kaç tanesinin doğru yerde olduğunu gösterir."
+
