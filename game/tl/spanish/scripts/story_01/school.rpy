@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2025-03-08 15:49
+# TODO: Translation updated at 2025-07-27 23:15
 
 # game/scripts/story_01/school.rpy:10
 translate spanish ev_004_1fe4b55c:
@@ -79,10 +79,10 @@ translate spanish ev_005_1cd8cb6e:
     Max 03 "Estupendo. ¿Qué tal tu primer día?"
 
 # game/scripts/story_01/school.rpy:43
-translate spanish ev_005_84a83294:
+translate spanish ev_005_d4740de4:
 
-    # Lisa 02 "Да ничего так. Сейчас расскажу, но сперва переоденусь и прыгну в бассейн. Только об этом и мечтала целый день! Я быстро..." nointeract
-    Lisa 02 "Está bastante bien. Te lo contaré, pero primero voy a cambiarme y tirarme a la piscina. ¡Es con lo único que he soñado todo el día! Ahora vuelvo." nointeract
+    # Lisa 02 "Да ничего так. Сейчас расскажу. Только сперва переоденусь и прыгну в бассейн. Целый день только об этом и мечтала! Я быстро..." nointeract
+    ""
 
 # game/scripts/story_01/school.rpy:49
 translate spanish ev_005_5f1e8448:
@@ -109,10 +109,10 @@ translate spanish ev_005_ae6220b0:
     Lisa 02 "¡Oh, gracias! Menos mal que no crecí, o habría sido una pena. Vamos..." nointeract
 
 # game/scripts/story_01/school.rpy:66
-translate spanish ev_005_b6c17294:
+translate spanish ev_005_99c01462:
 
-    # Lisa 03 "Неужели, я дома! До сих пор не могу поверить, что ЭТО наш дом!"
-    Lisa 03 "¡No puedo creer que esté en casa! ¡Todavía no puedo creer que este sea nuestro hogar!"
+    # Lisa 03 "Неужели я дома! До сих пор не могу поверить, что ЭТО наш дом!"
+    ""
 
 # game/scripts/story_01/school.rpy:67
 translate spanish ev_005_71f7276b:
@@ -121,10 +121,10 @@ translate spanish ev_005_71f7276b:
     Max 02 "Yo también estoy sorprendido!"
 
 # game/scripts/story_01/school.rpy:68
-translate spanish ev_005_9168440f:
+translate spanish ev_005_115e4c1c:
 
-    # Lisa 02 "Вот-вот! Целый день думала о нашем бассейне. Неужели, здесь всегда такая погода?"
-    Lisa 02 "¡Así es! Llevo todo el día pensando en nuestra piscina. ¿Siempre hace este tiempo aquí?"
+    # Lisa 02 "Вот-вот! Целый день думала о нашем бассейне. Интересно, здесь всегда такая погода?"
+    ""
 
 # game/scripts/story_01/school.rpy:69
 translate spanish ev_005_4cdcea6d:
@@ -157,10 +157,10 @@ translate spanish ev_005_e0855651:
     Max 01 "¿Qué opinas de la escuela en sí?"
 
 # game/scripts/story_01/school.rpy:77
-translate spanish ev_005_1f2f8493:
+translate spanish ev_005_4ffcc53f:
 
-    # Lisa 01 "Школа отличная! Меня хорошо приняли, все такие доброжелательные... А некоторые особенно..."
-    Lisa 01 "¡La escuela es genial! Fui bien recibida, todo el mundo es tan amable... Y alguno de ellos especialmente..."
+    # Lisa 01 "Школа отличная! Меня хорошо приняли. Все такие доброжелательные... А некоторые - особенно..."
+    ""
 
 # game/scripts/story_01/school.rpy:78
 translate spanish ev_005_0f719e7d:
@@ -229,10 +229,10 @@ translate spanish ev_005_f70b7ec5:
     Max 11 "Me estoy acostumbrando a todo..."
 
 # game/scripts/story_01/school.rpy:93
-translate spanish ev_005_5b20a9d3:
+translate spanish ev_005_e4c1c38b:
 
-    # Lisa 01 "Да уж, задача сложная. Невыносимые условия жизни и всё такое, да? Что планируешь делать, чем займёшься?"
-    Lisa 01 "Sí, es un reto. Condiciones de vida insoportables y todo eso, ¿eh? ¿Qué piensas hacer, qué vas a hacer?"
+    # Lisa 01 "Да уж, задача сложная. Невыносимые условия жизни и всё такое, да? Что планируешь делать? Чем займёшься?"
+    ""
 
 # game/scripts/story_01/school.rpy:94
 translate spanish ev_005_4497117e:
@@ -259,10 +259,10 @@ translate spanish ev_005_dedd4d5f:
     Max 02 "¡Buen plan! ¿Quién es tu novia?"
 
 # game/scripts/story_01/school.rpy:104
-translate spanish ev_005_9fda9918:
+translate spanish ev_005_7c7e7673:
 
-    # Lisa 02 "Обычная такая подружка... Какие подружки бывают обычно, вот у меня такая!"
-    Lisa 02 "Es sólo una novia normal. ¿Qué tipo de novias son comunes? ¡Yo tengo una!"
+    # Lisa 02 "Обычная такая подружка... Какие подруги бывают обычно? Вот такая и у меня!"
+    ""
 
 # game/scripts/story_01/school.rpy:105
 translate spanish ev_005_b2074a07:

@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2025-03-08 15:49
+# TODO: Translation updated at 2025-07-27 23:15
 
 # game/scripts/story_01/school.rpy:10
 translate italian ev_004_1fe4b55c:
@@ -79,10 +79,10 @@ translate italian ev_005_1cd8cb6e:
     Max 03 "Grande! Com'è andato il primo giorno?"
 
 # game/scripts/story_01/school.rpy:43
-translate italian ev_005_84a83294:
+translate italian ev_005_d4740de4:
 
-    # Lisa 02 "Да ничего так. Сейчас расскажу, но сперва переоденусь и прыгну в бассейн. Только об этом и мечтала целый день! Я быстро..." nointeract
-    Lisa 02 "Nessun problema. Te ne parlerò, ma prima mi cambio e mi butto in piscina. È tutto il giorno che voglio farlo! Sarò veloce..." nointeract
+    # Lisa 02 "Да ничего так. Сейчас расскажу. Только сперва переоденусь и прыгну в бассейн. Целый день только об этом и мечтала! Я быстро..." nointeract
+    Lisa 02 "Niente di che. Ora ti racconto. Prima però mi cambio e mi tuffo in piscina. Tutto il giorno ho sognato solo questo! Sarò veloce..." nointeract
 
 # game/scripts/story_01/school.rpy:49
 translate italian ev_005_5f1e8448:
@@ -109,10 +109,10 @@ translate italian ev_005_ae6220b0:
     Lisa 02 "Oh, grazie! Meno male che non sono cresciuta, altrimenti sarebbe stato un problema. Andiamo..." nointeract
 
 # game/scripts/story_01/school.rpy:66
-translate italian ev_005_b6c17294:
+translate italian ev_005_99c01462:
 
-    # Lisa 03 "Неужели, я дома! До сих пор не могу поверить, что ЭТО наш дом!"
-    Lisa 03 "Non posso credere di essere a casa! Non riesco ancora a credere che questa sia la nostra casa!"
+    # Lisa 03 "Неужели я дома! До сих пор не могу поверить, что ЭТО наш дом!"
+    Lisa 03 "Davvero sono a casa! Ancora non riesco a credere che QUESTA sia la nostra casa!"
 
 # game/scripts/story_01/school.rpy:67
 translate italian ev_005_71f7276b:
@@ -121,10 +121,10 @@ translate italian ev_005_71f7276b:
     Max 02 "Anch'io sono scioccato!"
 
 # game/scripts/story_01/school.rpy:68
-translate italian ev_005_9168440f:
+translate italian ev_005_115e4c1c:
 
-    # Lisa 02 "Вот-вот! Целый день думала о нашем бассейне. Неужели, здесь всегда такая погода?"
-    Lisa 02 "È vero! È tutto il giorno che penso alla nostra piscina. C'è sempre questo tempo qui?"
+    # Lisa 02 "Вот-вот! Целый день думала о нашем бассейне. Интересно, здесь всегда такая погода?"
+    Lisa 02 "Proprio così! Tutto il giorno ho pensato alla nostra piscina. Chissà, qui fa sempre questo tempo?"
 
 # game/scripts/story_01/school.rpy:69
 translate italian ev_005_4cdcea6d:
@@ -157,10 +157,10 @@ translate italian ev_005_e0855651:
     Max 01 "Cosa ne pensi della scuola in sé?"
 
 # game/scripts/story_01/school.rpy:77
-translate italian ev_005_1f2f8493:
+translate italian ev_005_4ffcc53f:
 
-    # Lisa 01 "Школа отличная! Меня хорошо приняли, все такие доброжелательные... А некоторые особенно..."
-    Lisa 01 "La scuola è fantastica! Sono stata accolta bene, tutti sono così cordiali... E alcuni, in particolare..."
+    # Lisa 01 "Школа отличная! Меня хорошо приняли. Все такие доброжелательные... А некоторые - особенно..."
+    Lisa 01 "La scuola è fantastica! Mi hanno accolta davvero bene. Tutti sono così gentili... E alcuni un po’ di più..."
 
 # game/scripts/story_01/school.rpy:78
 translate italian ev_005_0f719e7d:
@@ -229,10 +229,10 @@ translate italian ev_005_f70b7ec5:
     Max 11 "Abituarmi a poco a poco a tutto..."
 
 # game/scripts/story_01/school.rpy:93
-translate italian ev_005_5b20a9d3:
+translate italian ev_005_e4c1c38b:
 
-    # Lisa 01 "Да уж, задача сложная. Невыносимые условия жизни и всё такое, да? Что планируешь делать, чем займёшься?"
-    Lisa 01 "Sì, è una sfida. Condizioni di vita insostenibili e tutto il resto, eh? Cosa pensi di fare, cosa hai intenzione di fare?"
+    # Lisa 01 "Да уж, задача сложная. Невыносимые условия жизни и всё такое, да? Что планируешь делать? Чем займёшься?"
+    Lisa 01 "Eh già, non è mica facile. Condizioni di vita dure e tutto il resto, giusto? E tu che programmi hai? Cosa vuoi fare?"
 
 # game/scripts/story_01/school.rpy:94
 translate italian ev_005_4497117e:
@@ -259,10 +259,10 @@ translate italian ev_005_dedd4d5f:
     Max 02 "È un buon piano! Allora, chi è la tua ragazza?"
 
 # game/scripts/story_01/school.rpy:104
-translate italian ev_005_9fda9918:
+translate italian ev_005_7c7e7673:
 
-    # Lisa 02 "Обычная такая подружка... Какие подружки бывают обычно, вот у меня такая!"
-    Lisa 02 "Una ragazza normale... Che tipo di amiche hai di solito, io ne ho una!"
+    # Lisa 02 "Обычная такая подружка... Какие подруги бывают обычно? Вот такая и у меня!"
+    Lisa 02 "Una tipica amica... Sai, quelle amiche che ci sono sempre, come tutte le altre! Proprio così è la mia!"
 
 # game/scripts/story_01/school.rpy:105
 translate italian ev_005_b2074a07:

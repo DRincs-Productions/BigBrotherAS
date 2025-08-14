@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2025-03-08 15:49
+# TODO: Translation updated at 2025-07-27 23:15
 
 # game/scripts/story_01/aliceroom.rpy:10
 translate italian ev_alice_dressed_51996b14:
@@ -19,10 +19,10 @@ translate italian ev_alice_dressed_voy_door_8a37451c:
     tMax 03 "Oh, è fantastico! Vorrei davvero fischiare di ammirazione mentre Alice si cambia d'abito, ma questo è rischioso...[nointeract]"
 
 # game/scripts/story_01/aliceroom.rpy:65
-translate italian ev_alice_dressed_voy_door_6349aa0c:
+translate italian ev_alice_dressed_voy_door_a9f58824:
 
-    # Alice 14 "Макс! Ты офигел что ли?! {p=2}{nw}"
-    Alice 14 "Max! Sei fuori di testa? {p=2}{nw}"
+    # Alice 14 "Макс! Ты офигел, что ли?! {p=2}{nw}"
+    Alice 14 "Max! Ma sei impazzito, o cosa?! {p=2}{nw}"
 
 # game/scripts/story_01/aliceroom.rpy:71
 translate italian ev_alice_dressed_voy_door_5db8bd0e:
@@ -43,10 +43,10 @@ translate italian ev_alice_dressed_moment0_3dfd4f9e:
     Alice 02 "Non c'è problema. Chiudi la porta!" nointeract
 
 # game/scripts/story_01/aliceroom.rpy:100
-translate italian ev_alice_dressed_moment2_6349aa0c:
+translate italian ev_alice_dressed_moment2_a9f58824:
 
-    # Alice 14 "Макс! Ты офигел что ли?! {p=2}{nw}"
-    Alice 14 "Max! Sei fuori di testa? {p=2}{nw}"
+    # Alice 14 "Макс! Ты офигел, что ли?! {p=2}{nw}"
+    Alice 14 "Max! Ma sei impazzito, o cosa?! {p=2}{nw}"
 
 # game/scripts/story_01/aliceroom.rpy:106
 translate italian ev_alice_dressed_moment2_5db8bd0e:
@@ -55,10 +55,10 @@ translate italian ev_alice_dressed_moment2_5db8bd0e:
     Alice 15 "Non hai più paura? Esci di qui prima che ti colpisca con la porta!" nointeract
 
 # game/scripts/story_01/aliceroom.rpy:119
-translate italian ev_alice_dressed_moment1_84056b1d:
+translate italian ev_alice_dressed_moment1_e8828fa4:
 
-    # Alice 15 "Макс! Ты офигел что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла!" nointeract
-    Alice 15 "Max! Sei fuori di testa? Hai perso la paura? Esci di qui prima che ti uccida con la porta!" nointeract
+    # Alice 15 "Макс! Ты офигел, что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла!" nointeract
+    Alice 15 "Max! Ma sei fuori di testa?! Non hai più paura di niente? Spostati da lì all'istante, prima che ti faccia male con la porta!" nointeract
 
 # game/scripts/story_01/aliceroom.rpy:129
 translate italian ev_alice_dressed_in_front_of_max_08a70370:

@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2025-03-08 15:49
+# TODO: Translation updated at 2025-07-27 23:15
 
 # game/scripts/story_01/sunscreen.rpy:7
 translate italian ev_011_03c9dcee:
@@ -37,10 +37,10 @@ translate italian ev_011_first_talk_oil_4467e358:
     Alice 12 "Forse. Solo che io non ce l'ho... E tu?"
 
 # game/scripts/story_01/sunscreen.rpy:53
-translate italian ev_011_first_talk_oil_d086b3ce:
+translate italian ev_011_first_talk_oil_9631b163:
 
-    # Max 12 "Чёрт! И у меня нет. Ну, в другой раз значит..."
-    Max 12 "Accidenti! Nemmeno io. Beh, un'altra volta allora..."
+    # Max 12 "Чёрт! И у меня нет. Ну, в другой раз, значит..."
+    Max 12 "Accidenti! Neanch’io ce l’ho. Beh, allora sarà per un’altra volta..."
 
 # game/scripts/story_01/sunscreen.rpy:56
 translate italian ev_011_first_talk_oil_bcf60149:

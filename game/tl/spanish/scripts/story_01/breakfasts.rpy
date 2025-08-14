@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2025-03-08 15:49
+# TODO: Translation updated at 2025-07-27 23:15
 
 # game/scripts/story_01/breakfasts.rpy:30
 translate spanish ev_breakfast_r1_6e8dcf3c:
@@ -103,10 +103,10 @@ translate spanish ev_002_6034047d:
     Max 02 "¡Enhorabuena, Lisa!"
 
 # game/scripts/story_01/breakfasts.rpy:61
-translate spanish ev_002_219d79c3:
+translate spanish ev_002_7b06d392:
 
-    # Lisa 01 "Спасибо, Макс. Честно говоря, не знаю даже чего ожидать. Новое место, новая школа, новый коллектив..."
-    Lisa 01 "Gracias, Max. Honestamente, ni siquiera sé qué esperar. Nuevo lugar, nueva escuela, nuevo equipo..."
+    # Lisa 01 "Спасибо, Макс. Честно говоря, не знаю даже, чего ожидать. Новое место, новая школа, новый коллектив..."
+    ""
 
 # game/scripts/story_01/breakfasts.rpy:62
 translate spanish ev_002_7172ad78:
@@ -157,10 +157,10 @@ translate spanish ev_002_a50b3689:
     Max 12 "Estoy seguro de que..."
 
 # game/scripts/story_01/breakfasts.rpy:70
-translate spanish ev_002_c2b369a9:
+translate spanish ev_002_8394ad7b:
 
-    # Ann 00 "Да, Макс... Я когда прибиралась, нашла какие-то коробки. Видимо, остались с ремонта. Посмотри, если ничего ценного нет, потом выбросим. Сейчас они у тебя в комнате."
-    Ann 00 "Sí, Max. Encontré algunas cajas cuando estaba limpiando. Probablemente sobrantes de la reforma. Mira si hay algo de valor, lo tiraremos después. Ahora mismo están en tu habitación."
+    # Ann 00 "Да, Макс... Я когда прибиралась, нашла какие-то коробки. Видимо, остались после ремонта. Посмотри. Если ничего ценного нет, потом выбросим. Сейчас они у тебя в комнате."
+    ""
 
 # game/scripts/story_01/breakfasts.rpy:71
 translate spanish ev_002_0fc9dfdf:

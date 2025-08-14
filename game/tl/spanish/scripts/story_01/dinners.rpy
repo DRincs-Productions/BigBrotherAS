@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2025-03-08 15:49
+# TODO: Translation updated at 2025-07-27 23:15
 
 # game/scripts/story_01/dinners.rpy:35
 translate spanish ev_dinner_r1_24ac51ec:
@@ -73,10 +73,10 @@ translate spanish ev_009_6dc50b10:
     Max 13 "Recuérdame otra vez, ¿a qué te dedicas?"
 
 # game/scripts/story_01/dinners.rpy:66
-translate spanish ev_009_12f7ac43:
+translate spanish ev_009_e66ba414:
 
-    # Ann 11 "Что, Макс, с памятью проблемы? Может быть, попросить врача выписать тебе витамины? Я работаю в отделе развития, занимаюсь маркетингом."
-    Ann 11 "¿Qué pasa, Max, problemas de memoria? Tal vez debería pedirle al médico que te recete algunas vitaminas. Trabajo en el departamento de desarrollo de marketing."
+    # Ann 11 "Что, Макс, с памятью проблемы? Может, попросить врача выписать тебе витамины? Я работаю в отделе развития и занимаюсь маркетингом."
+    ""
 
 # game/scripts/story_01/dinners.rpy:67
 translate spanish ev_009_42f759d1:
@@ -85,10 +85,10 @@ translate spanish ev_009_42f759d1:
     Max 01 "Pues sí. Bueno, ¡felicidades!"
 
 # game/scripts/story_01/dinners.rpy:68
-translate spanish ev_009_8a64e8b2:
+translate spanish ev_009_74079050:
 
-    # Ann 03 "Спасибо, Макс. Вы всё вопросы задаёте. Поели бы, хоть немного. Кстати, молодец Алиса, что приготовила ужин. Сама я бы ещё долго возилась."
-    Ann 03 "Gracias, Max. Sigues haciendo preguntas. Deberías comer un poco. Por cierto, bien por Alice por preparar la cena. Me habría llevado mucho tiempo."
+    # Ann 03 "Спасибо, Макс. Вы всё вопросы задаёте. Поели бы хоть немного. Кстати, Алиса, ты молодец, что приготовила ужин. Сама я бы ещё долго возилась."
+    ""
 
 # game/scripts/story_01/dinners.rpy:69
 translate spanish ev_009_59c4cc1b:
@@ -169,10 +169,10 @@ translate spanish ev_009_71e76301:
     Ann 12 "Ya he dicho que es un hombre bien apuesto y eso está bien... ¿O no? No tiene importancia. ¡Deja de interrogarme, se está enfriando!"
 
 # game/scripts/story_01/dinners.rpy:82
-translate spanish ev_009_cf999414:
+translate spanish ev_009_237a7b12:
 
-    # Lisa 09 "Ну, мам, расскажи больше..."
-    Lisa 09 "Bueno, mamá, dime más..."
+    # Lisa 09 "Ну мам, расскажи больше..."
+    ""
 
 # game/scripts/story_01/dinners.rpy:83
 translate spanish ev_009_a440551c:
@@ -193,10 +193,10 @@ translate spanish ev_009_57b9e2c8:
     Ann 03 "¿Y los alumnos? ¿Has tenido suerte con la clase? ¿Has hecho ya amigos y amigas?"
 
 # game/scripts/story_01/dinners.rpy:86
-translate spanish ev_009_0cf58d33:
+translate spanish ev_009_c60e19ee:
 
-    # Lisa 02 "Да, познакомилась... с одной подружкой. Класс супер, всё хорошо, мам!"
-    Lisa 02 "Sí, conocí a... un amigo. ¡Gran clase, muy bien, mamá!"
+    # Lisa 02 "Да, познакомилась... с одной подружкой. Класс супер... Всё хорошо, мам!"
+    ""
 
 # game/scripts/story_01/dinners.rpy:87
 translate spanish ev_009_3f8e29f7:
@@ -241,10 +241,10 @@ translate spanish ev_009_fa72dad8:
     Ann 11 "Lo siento, Lisa, no lo sabía. Yo también conocí a Eric en mi primer día. ¡No te juzgo!"
 
 # game/scripts/story_01/dinners.rpy:94
-translate spanish ev_009_e7e5d292:
+translate spanish ev_009_819371d9:
 
-    # Lisa 11 "Да всё в порядке, мам. Просто, мы только познакомились, поболтали и улыбнулись друг другу, а всё выглядит так, как будто у меня уже есть парень..."
-    Lisa 11 "No pasa nada, mamá. Es sólo que acabamos de conocernos, charlamos y nos sonreímos, y es como si ya tuviera novio..."
+    # Lisa 11 "Да всё в порядке, мам. Просто мы только познакомились, поболтали и улыбнулись друг другу. А всё выглядит так, будто у меня уже есть парень..."
+    ""
 
 # game/scripts/story_01/dinners.rpy:95
 translate spanish ev_009_6c068817:

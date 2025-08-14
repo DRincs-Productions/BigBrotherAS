@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2025-03-08 15:49
+# TODO: Translation updated at 2025-07-27 23:15
 
 # game/scripts/story_01/dinners.rpy:35
 translate italian ev_dinner_r1_24ac51ec:
@@ -73,10 +73,10 @@ translate italian ev_009_6dc50b10:
     Max 13 "Ricordami ancora una volta, cosa fai per lavoro?"
 
 # game/scripts/story_01/dinners.rpy:66
-translate italian ev_009_12f7ac43:
+translate italian ev_009_e66ba414:
 
-    # Ann 11 "Что, Макс, с памятью проблемы? Может быть, попросить врача выписать тебе витамины? Я работаю в отделе развития, занимаюсь маркетингом."
-    Ann 11 "Hai qualche problema di memoria, Max? Devo chiedere al medico di prescriverti delle vitamine? Lavoro nel reparto sviluppo del marketing."
+    # Ann 11 "Что, Макс, с памятью проблемы? Может, попросить врача выписать тебе витамины? Я работаю в отделе развития и занимаюсь маркетингом."
+    Ann 11 "Che succede, Max, hai problemi di memoria? Devo chiedere al medico di prescriverti delle vitamine? Lavoro nel reparto sviluppo e mi occupo di marketing."
 
 # game/scripts/story_01/dinners.rpy:67
 translate italian ev_009_42f759d1:
@@ -85,10 +85,10 @@ translate italian ev_009_42f759d1:
     Max 01 "È vero. Beh, congratulazioni!"
 
 # game/scripts/story_01/dinners.rpy:68
-translate italian ev_009_8a64e8b2:
+translate italian ev_009_74079050:
 
-    # Ann 03 "Спасибо, Макс. Вы всё вопросы задаёте. Поели бы, хоть немного. Кстати, молодец Алиса, что приготовила ужин. Сама я бы ещё долго возилась."
-    Ann 03 "Grazie, Max. Continua a fare domande. Vorrei che mangiassi qualcosa. A proposito, ben fatto, Alice, per aver preparato la cena. Mi ci sarebbe voluto molto tempo per farlo da sola."
+    # Ann 03 "Спасибо, Макс. Вы всё вопросы задаёте. Поели бы хоть немного. Кстати, Алиса, ты молодец, что приготовила ужин. Сама я бы ещё долго возилась."
+    Ann 03 "Grazie, Max. Fai solo domande. Dovresti mangiare qualcosa. A proposito, Alice, hai fatto un ottimo lavoro con la cena. Io ci avrei messo molto di più."
 
 # game/scripts/story_01/dinners.rpy:69
 translate italian ev_009_59c4cc1b:
@@ -169,10 +169,10 @@ translate italian ev_009_71e76301:
     Ann 12 "Ho già detto che è un bell'uomo affermato e questo va bene... O forse no? Non importa. Smettila d'interrogarmi, si sta raffreddando!"
 
 # game/scripts/story_01/dinners.rpy:82
-translate italian ev_009_cf999414:
+translate italian ev_009_237a7b12:
 
-    # Lisa 09 "Ну, мам, расскажи больше..."
-    Lisa 09 "Beh, mamma, raccontaci di più..."
+    # Lisa 09 "Ну мам, расскажи больше..."
+    Lisa 09 "Dai, mamma... Racconta qualcosa in più..."
 
 # game/scripts/story_01/dinners.rpy:83
 translate italian ev_009_a440551c:
@@ -193,10 +193,10 @@ translate italian ev_009_57b9e2c8:
     Ann 03 "Come sono gli studenti? Hai avuto fortuna con il corso? Ti sei già fatta degli amici e delle amiche?"
 
 # game/scripts/story_01/dinners.rpy:86
-translate italian ev_009_0cf58d33:
+translate italian ev_009_c60e19ee:
 
-    # Lisa 02 "Да, познакомилась... с одной подружкой. Класс супер, всё хорошо, мам!"
-    Lisa 02 "Sì, ho fatto la conoscenza di... Con una ragazza. Va bene, va bene, mamma!"
+    # Lisa 02 "Да, познакомилась... с одной подружкой. Класс супер... Всё хорошо, мам!"
+    Lisa 02 "Sì, ho fatto amicizia... Con una ragazza. La classe è fantastica... Va tutto bene, mamma!"
 
 # game/scripts/story_01/dinners.rpy:87
 translate italian ev_009_3f8e29f7:
@@ -241,10 +241,10 @@ translate italian ev_009_fa72dad8:
     Ann 11 "Mi dispiace, Lisa, non lo sapevo. Anch'io ho conosciuto Eric il primo giorno. Non sta a me giudicarti!"
 
 # game/scripts/story_01/dinners.rpy:94
-translate italian ev_009_e7e5d292:
+translate italian ev_009_819371d9:
 
-    # Lisa 11 "Да всё в порядке, мам. Просто, мы только познакомились, поболтали и улыбнулись друг другу, а всё выглядит так, как будто у меня уже есть парень..."
-    Lisa 11 "Va tutto bene, mamma. È solo che ci siamo appena incontrati, abbiamo chiacchierato e ci siamo sorrisi, e sembra che io abbia già un ragazzo..."
+    # Lisa 11 "Да всё в порядке, мам. Просто мы только познакомились, поболтали и улыбнулись друг другу. А всё выглядит так, будто у меня уже есть парень..."
+    Lisa 11 "Ma sì, mamma, va tutto bene. È solo che ci siamo appena conosciuti, abbiamo chiacchierato un po’ e ci siamo scambiati un sorriso. Ma da come parli sembra quasi che io abbia già un ragazzo..."
 
 # game/scripts/story_01/dinners.rpy:95
 translate italian ev_009_6c068817:

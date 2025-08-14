@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2025-03-08 15:49
+# TODO: Translation updated at 2025-07-27 23:15
 
 # game/scripts/story_01/bikini.rpy:8
 translate italian ev_008_3c08b543:
@@ -13,10 +13,10 @@ translate italian ev_008_6c4181e5:
     Max 01 "Prova nuda!"
 
 # game/scripts/story_01/bikini.rpy:10
-translate italian ev_008_9e85269a:
+translate italian ev_008_4e8aac3c:
 
-    # Lisa 02 "Очень смешно, Макс. Я, если и стану раздеваться, то только после тебя."
-    Lisa 02 "Molto divertente, Max. Se mi spoglio, lo faccio dopo di te."
+    # Lisa 02 "Очень смешно, Макс. Я если и стану раздеваться, то только после тебя."
+    Lisa 02 "Molto divertente, Max. Se devo spogliarmi, sarà solo dopo di te."
 
 # game/scripts/story_01/bikini.rpy:11
 translate italian ev_008_9b82330e:
@@ -49,10 +49,10 @@ translate italian ev_008_e0591d1c:
     Max 13 "Non del tutto chiaro, ma interessante."
 
 # game/scripts/story_01/bikini.rpy:23
-translate italian ev_008_cdb3ed69:
+translate italian ev_008_b15d13fe:
 
-    # Lisa 02 "А у тебя разве деньги на такое есть? Ты же нигде не работаешь и я что-то сомневаюсь, что ты умеешь шить купальники..."
-    Lisa 02 "Hai i soldi per poterlo comprare? Non lavori da nessuna parte e dubito che tu sappia fare un costume da bagno..."
+    # Lisa 02 "А у тебя разве деньги на такое есть? Ты же нигде не работаешь. И я что-то сомневаюсь, что ты умеешь шить купальники..."
+    Lisa 02 "Ma tu hai i soldi per una cosa del genere? Tanto per cominciare, non lavori da nessuna parte. E poi dubito anche che tu sappia cucire costumi da bagno..."
 
 # game/scripts/story_01/bikini.rpy:24
 translate italian ev_008_c86f433c:

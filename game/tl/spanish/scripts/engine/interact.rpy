@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2025-03-08 15:49
+# TODO: Translation updated at 2025-07-27 23:15
 
 # game/scripts/engine/interact.rpy:37
 translate spanish talks_start_41e41361:
@@ -85,8 +85,8 @@ translate spanish strings:
     new "¿No tienes calor con ese bañador?"
 
     # game/scripts/engine/interact.rpy:192
-    old "Значит Алекс, да?"
-    new "Así que es Alex, ¿eh?"
+    old "Значит, Алекс, да?"
+    new ""
 
     # game/scripts/engine/interact.rpy:192
     old "Хорошо загорается?"
@@ -174,7 +174,7 @@ translate spanish strings:
 
     # game/scripts/engine/interact.rpy:192
     old "Ну, так что там с трусиками Оливии?"
-    new ""
+    new "?"
 
     # game/scripts/engine/interact.rpy:192
     old "Я решил потренироваться..."
