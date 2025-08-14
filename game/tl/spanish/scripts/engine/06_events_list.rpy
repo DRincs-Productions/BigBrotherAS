@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2025-03-08 15:49
+# TODO: Translation updated at 2025-08-11 18:01
 
 translate spanish strings:
 
@@ -19,6 +19,14 @@ translate spanish strings:
     new "Hackear al bloguero"
 
     # game/scripts/engine/06_events_list.rpy:31
+    old "Стримерша"
+    new ""
+
+    # game/scripts/engine/06_events_list.rpy:31
+    old "Вредная привычка"
+    new "Mal hábito"
+
+    # game/scripts/engine/06_events_list.rpy:31
     old "Арахнофобия"
     new "Aracnofobia"
 
@@ -31,12 +39,20 @@ translate spanish strings:
     new "¿Vale la pena correr el riesgo?"
 
     # game/scripts/engine/06_events_list.rpy:31
+    old "Школьный секретик"
+    new "Secreto escolar"
+
+    # game/scripts/engine/06_events_list.rpy:31
     old "Наставник"
     new "Mentor"
 
     # game/scripts/engine/06_events_list.rpy:31
     old "Застенчивая школьница"
     new "Colegiala tímida"
+
+    # game/scripts/engine/06_events_list.rpy:31
+    old "Утренние шалости"
+    new "Payasadas matutinas"
 
     # game/scripts/engine/06_events_list.rpy:31
     old "Кнут или пряник?"

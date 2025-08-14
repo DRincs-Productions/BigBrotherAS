@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2025-03-08 15:49
+# TODO: Translation updated at 2025-07-27 23:15
 
 # game/scripts/story_01/hidden_cams.rpy:12
 translate spanish ev_003_089bb89e:
@@ -37,10 +37,10 @@ translate spanish ev_006_b415903d:
     tMax 11 "¡Ahí está! Alguien la ha escondido tan bien en la pared que sólo puedes encontrar la cámara si sabes exactamente lo que estás buscando..."
 
 # game/scripts/story_01/hidden_cams.rpy:46
-translate spanish ev_006_4d99a2a9:
+translate spanish ev_006_6626d93b:
 
-    # tMax 12 "Так... Но она ни к чему не подключена сейчас. Видимо, отец так следил за ходом строительства и ремонта, а сейчас уже некому следить и не за чем..."
-    tMax 12 "Entonces... Pero ahora no está conectado a nada. Al parecer, mi padre solía vigilar la construcción y reforma, y ahora no hay nadie que lo vigile ni nada que ver..."
+    # tMax 12 "Так... Но она ни к чему не подключена сейчас. Видимо, отец так следил за ходом строительства и ремонта. А сейчас уже некому следить и не за чем..."
+    ""
 
 # game/scripts/story_01/hidden_cams.rpy:47
 translate spanish ev_006_2efad7ae:
@@ -55,10 +55,10 @@ translate spanish ev_007_7bb5c881:
     tMax 12 "Así que, curioso... Estas cámaras se pueden configurar para transmitir imágenes a Internet!"
 
 # game/scripts/story_01/hidden_cams.rpy:61
-translate spanish ev_007_f204a253:
+translate spanish ev_007_71c4cc0b:
 
-    # tMax 11 "Но что ещё интереснее, некоторые люди готовы платить за доступ к таким камерам... Может быть, мне сделать свой сайт и пусть люди мне платят за просмотр видео?"
-    tMax 11 "Pero lo que es aún más interesante es que algunas personas están dispuestas a pagar por acceder a esas cámaras..... ¿Quizá debería crear mi propia página web y hacer que la gente me pague por ver vídeos?"
+    # tMax 11 "Но что ещё интереснее, некоторые люди готовы платить за доступ к таким камерам... Может быть, мне сделать свой сайт, где люди будут платить мне за просмотр видео?"
+    ""
 
 # game/scripts/story_01/hidden_cams.rpy:62
 translate spanish ev_007_92878369:

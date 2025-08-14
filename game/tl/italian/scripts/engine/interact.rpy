@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2025-03-08 15:49
+# TODO: Translation updated at 2025-07-27 23:15
 
 # game/scripts/engine/interact.rpy:37
 translate italian talks_start_41e41361:
@@ -85,8 +85,8 @@ translate italian strings:
     new "Non sei sexy con quel costume da bagno?"
 
     # game/scripts/engine/interact.rpy:192
-    old "Значит Алекс, да?"
-    new "Quindi Alex, eh?"
+    old "Значит, Алекс, да?"
+    new "Quindi è Alex, giusto?"
 
     # game/scripts/engine/interact.rpy:192
     old "Хорошо загорается?"

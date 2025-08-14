@@ -76,7 +76,7 @@ translate italian strings:
 
     # game/scripts/engine/items.rpy:235
     old "Шоколад \"Ritter Sport\" mini (9 штук)"
-    new "Cioccolato \"Ritter Sport\" mini (9 pz)"
+    new "Cioccolato \"Ritter Sport\" mini (4 pezzi)"
 
     # game/scripts/engine/items.rpy:235
     old "Шоколадное наслаждение для каждого случая... Множество лакомых сортов с лучшими ингредиентами со всего мира."
@@ -84,7 +84,7 @@ translate italian strings:
 
     # game/scripts/engine/items.rpy:235
     old "Шоколад \"Ritter Sport\" (4 штуки)"
-    new "Cioccolato \"Ritter Sport\" (4 pezzi)"
+    new "Cioccolato \"Ritter Sport\" (9 pezzi)"
 
     # game/scripts/engine/items.rpy:235
     old "Конфеты \"Raffaello\" (16 штук)"

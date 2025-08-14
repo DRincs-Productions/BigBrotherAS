@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2025-03-08 15:49
+# TODO: Translation updated at 2025-08-11 18:01
 
 translate italian strings:
 
@@ -19,6 +19,14 @@ translate italian strings:
     new "Hackerare il blogger"
 
     # game/scripts/engine/06_events_list.rpy:31
+    old "Стримерша"
+    new "Ragazza dello streaming"
+
+    # game/scripts/engine/06_events_list.rpy:31
+    old "Вредная привычка"
+    new "Cattiva abitudine"
+
+    # game/scripts/engine/06_events_list.rpy:31
     old "Арахнофобия"
     new "Aracnofobia"
 
@@ -31,12 +39,20 @@ translate italian strings:
     new "Vale la pena rischiare?"
 
     # game/scripts/engine/06_events_list.rpy:31
+    old "Школьный секретик"
+    new "Segreto scolastico"
+
+    # game/scripts/engine/06_events_list.rpy:31
     old "Наставник"
     new "Mentore"
 
     # game/scripts/engine/06_events_list.rpy:31
     old "Застенчивая школьница"
     new "Studentessa timida"
+
+    # game/scripts/engine/06_events_list.rpy:31
+    old "Утренние шалости"
+    new "Buffonate mattutine"
 
     # game/scripts/engine/06_events_list.rpy:31
     old "Кнут или пряник?"

@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2025-03-08 15:49
+# TODO: Translation updated at 2025-07-27 23:15
 
 # game/scripts/story_01/hidden_cams.rpy:12
 translate italian ev_003_089bb89e:
@@ -37,10 +37,10 @@ translate italian ev_006_b415903d:
     tMax 11 "Eccola! Qualcuno l'ha nascosta così bene nel muro che si può trovare la telecamera solo se si sa esattamente cosa si sta cercando..."
 
 # game/scripts/story_01/hidden_cams.rpy:46
-translate italian ev_006_4d99a2a9:
+translate italian ev_006_6626d93b:
 
-    # tMax 12 "Так... Но она ни к чему не подключена сейчас. Видимо, отец так следил за ходом строительства и ремонта, а сейчас уже некому следить и не за чем..."
-    tMax 12 "Quindi... Ma ora non è collegata a nulla. A quanto pare, mio padre teneva d'occhio i lavori di costruzione e ristrutturazione, ma ora non c'è più nessuno da tenere d'occhio e non c'è più niente da fare..."
+    # tMax 12 "Так... Но она ни к чему не подключена сейчас. Видимо, отец так следил за ходом строительства и ремонта. А сейчас уже некому следить и не за чем..."
+    tMax 12 "Ecco... Ma adesso non è collegata a niente. Probabilmente papà seguiva così i lavori di costruzione e ristrutturazione. Ora però non c’è più nessuno che controlli e non c’è più motivo di farlo..."
 
 # game/scripts/story_01/hidden_cams.rpy:47
 translate italian ev_006_2efad7ae:
@@ -55,10 +55,10 @@ translate italian ev_007_7bb5c881:
     tMax 12 "Dunque, curioso... Queste telecamere possono essere impostate per trasmettere le immagini a Internet!"
 
 # game/scripts/story_01/hidden_cams.rpy:61
-translate italian ev_007_f204a253:
+translate italian ev_007_71c4cc0b:
 
-    # tMax 11 "Но что ещё интереснее, некоторые люди готовы платить за доступ к таким камерам... Может быть, мне сделать свой сайт и пусть люди мне платят за просмотр видео?"
-    tMax 11 "Ma ciò che è ancora più interessante è che alcune persone sono disposte a pagare per avere accesso a queste telecamere... Forse dovrei creare il mio sito web e farmi pagare per guardare i video?"
+    # tMax 11 "Но что ещё интереснее, некоторые люди готовы платить за доступ к таким камерам... Может быть, мне сделать свой сайт, где люди будут платить мне за просмотр видео?"
+    tMax 11 "Ma cosa ancora più interessante, alcune persone sono pronte a pagare per avere accesso a queste telecamere... Forse dovrei creare un mio sito dove la gente mi paghi per vedere i video?"
 
 # game/scripts/story_01/hidden_cams.rpy:62
 translate italian ev_007_92878369:
