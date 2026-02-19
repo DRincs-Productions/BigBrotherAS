@@ -10,33 +10,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-03-15 14:02\n"
+"PO-Revision-Date: 2026-02-19 09:35\n"
 
-# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/02_func.rpy:433
+# TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/02_func.rpy:480
 msgid "Скрытность"
 msgstr ""
 
-# game/scripts/engine/02_func.rpy:434
+# game/scripts/engine/02_func.rpy:481
 msgid "Убеждение"
 msgstr ""
 
-# game/scripts/engine/02_func.rpy:435
+# game/scripts/engine/02_func.rpy:482
 msgid "Массаж"
 msgstr ""
 
-# game/scripts/engine/02_func.rpy:438
+# game/scripts/engine/02_func.rpy:490
 msgid "Настроение {char_name}"
 msgstr ""
 
-# game/scripts/engine/02_func.rpy:438
+# game/scripts/engine/02_func.rpy:490
 msgid "мамы"
 msgstr ""
 
-# game/scripts/engine/02_func.rpy:855
+# game/scripts/engine/02_func.rpy:1004
 msgid "Галерея снов обновлена!"
 msgstr "Η γκαλερί των ονείρων έχει ενημερωθεί!"
 
-# game/scripts/engine/02_func.rpy:869
+# game/scripts/engine/02_func.rpy:1019
 msgid "Галерея дополнений обновлена!"
 msgstr "Η γκαλερί των πρόσθετων έχει ενημερωθεί!"
 
