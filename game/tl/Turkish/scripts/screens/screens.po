@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-08-11 15:34\n"
+"PO-Revision-Date: 2026-02-19 09:40\n"
 
-# TODO: Translation updated at 2025-08-11 18:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/screens.rpy:141
+# TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/screens.rpy:141
 msgid "У меня на счету $[mgg.money]!"
 msgstr ""
 
@@ -280,9 +280,9 @@ msgstr "Kaydetme adını isteyin"
 msgid "Отображать все задания"
 msgstr "Tüm görevleri görüntüle"
 
-# game/scripts/screens/screens.rpy:1307
-msgid "Особый режим скрытия интерфейса"
-msgstr "Özel arayüz gizleme modu"
+# game/scripts/screens/screens.rpy:1314
+msgid "Активировать чит-меню"
+msgstr "Hile menüsünü etkinleştir"
 
 # game/scripts/screens/screens.rpy:1450
 msgid "История диалогов пуста."
@@ -450,7 +450,7 @@ msgstr "Hayır"
 msgid "Пропускаю"
 msgstr "Atla"
 
-# game/scripts/screens/screens.rpy:1986
+# game/scripts/screens/screens.rpy:1989
 msgid "Меню"
 msgstr "Menü"
 
