@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 09:37\n"
+"PO-Revision-Date: 2026-02-19 15:39\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/blog.rpy:12 #-#-# translate crowdin ev_017_423a776a:
 msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
@@ -824,7 +824,7 @@ msgstr "[_Max_s_13_] E quanto costa?"
 
 # game/scripts/story_01/blog.rpy:589 #-#-# translate crowdin ev_097_third_fitting_6ca9a734:
 msgid "[_Alice_s_12_] Ну... Надеюсь, тебя не сильно испугает цена в $200? После потери всех вещей для меня такие деньги неподъёмны. [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_12_] Beh... Spero che il prezzo di $200 non ti spaventi troppo? Dopo aver perso tutto quello che avevo, una cifra del genere per me è proibitiva. [nointeract]"
 
 # game/scripts/story_01/blog.rpy:591 #-#-# translate crowdin ev_097_third_fitting_3c77b5dd:
 msgid "[_Alice_s_13_] Правда?! Хочешь сказать, ты сможешь купить его прямо сейчас? Фантастика! У тебя откуда столько денег?"
@@ -1344,23 +1344,23 @@ msgstr "[_tMax_s_11_] Il numero arancione mostra quanti dei caratteri inseriti s
 
 # game/scripts/story_01/blog.rpy:1021 #-#-# translate crowdin ev_106_8cbc614e:
 msgid "[_tMax_s_11_] Если символы в истории зелёного цвета, то они есть в пароле и находятся на своём месте."
-msgstr ""
+msgstr "[_tMax_s_11_] Se i simboli nella cronologia sono di colore verde, significa che sono presenti nella password e si trovano al posto giusto."
 
 # game/scripts/story_01/blog.rpy:1022 #-#-# translate crowdin ev_106_2eaeb197:
 msgid "[_tMax_s_11_] Если символы в истории оранжевого цвета, то они есть в пароле, но находятся не на своём месте."
-msgstr ""
+msgstr "[_tMax_s_11_] Se i simboli nella cronologia sono di colore arancione, significa che sono presenti nella password, ma si trovano nella posizione sbagliata."
 
 # game/scripts/story_01/blog.rpy:1023 #-#-# translate crowdin ev_106_c566a071:
 msgid "[_tMax_s_13_] Если символы в истории жёлтого цвета, то они есть в пароле, но их должно быть больше."
-msgstr ""
+msgstr "[_tMax_s_13_] Se i simboli nella cronologia sono di colore giallo, significa che sono presenti nella password, ma dovrebbero essercene di più."
 
 # game/scripts/story_01/blog.rpy:1024 #-#-# translate crowdin ev_106_0ceb1a5b:
 msgid "[_tMax_s_13_] Если символы в истории голубого цвета, то они есть в пароле, но их должно быть меньше."
-msgstr ""
+msgstr "[_tMax_s_13_] Se i simboli nella cronologia sono di colore azzurro, significa che sono presenti nella password, ma dovrebbero essercene di meno."
 
 # game/scripts/story_01/blog.rpy:1025 #-#-# translate crowdin ev_106_4cfd261b:
 msgid "[_tMax_s_11_] Если символы в истории красного цвета, то их нет в пароле."
-msgstr ""
+msgstr "[_tMax_s_11_] Se i simboli nella cronologia sono di colore rosso, significa che non sono presenti nella password."
 
 # game/scripts/story_01/blog.rpy:1026 #-#-# translate crowdin ev_106_473aa722:
 msgid "[_tMax_s_16_] Ох, вроде несложно, но мозги всё же придётся поднапрячь... [nointeract]"
@@ -1400,7 +1400,7 @@ msgstr "[_tMax_s_01_] Probabilmente, Mike non è un nome troppo appariscente. Mi
 
 # game/scripts/story_01/blog.rpy:1081 #-#-# translate crowdin ev_107_c7ead534:
 msgid "[_tMax_s_03_] Ха, а вот и Алиса! Попалась, наконец-то... Хорошо, что я решил взломать её компьютер, потому что по изображению в профиле её не узнать. Пускай она хитрая, но и я не пальцем деланный! Как-нибудь вечерком я загляну к тебе на трансляцию, Melissa..."
-msgstr ""
+msgstr "[_tMax_s_03_] Ah, eccoti qua, Alice! Ti ho beccata, finalmente... Meno male che ho deciso di hackerarle il computer, perché dalla foto profilo non l'avrebbe riconosciuta nessuno. Sarà anche furba, ma io mica sono nato ieri! Una di queste sere ti faccio un salto in live, Melissa..."
 
 # game/scripts/story_01/blog.rpy:1096 #-#-# translate crowdin ev_119_bb930847:
 msgid "[_Alice_s_11_] Эй, Макс, притормози! Скажу кое-что..."
@@ -2722,7 +2722,7 @@ msgstr "[_tMax_s_11_] Sono sollevato che Lisa sia andata a farsi il bagno, altri
 
 # game/scripts/story_01/blog.rpy:2396 #-#-# translate crowdin ev_137_fantasy_loose_674c74fa:
 msgid "[_tMax_s_11_] Надо бы как-то осторожно встать с кровати, чтобы Лиза не увидела мой мощный стояк. Вот же, Алиса, даёт!"
-msgstr ""
+msgstr "[_tMax_s_11_] Dovrei cercare di scendere dal letto con cautela, per evitare che Lisa veda questo pezzo di ferro. Accidenti ad Alice, che mi combina!"
 
 # game/scripts/story_01/blog.rpy:2401 #-#-# translate crowdin ev_137_fantasy_topless_ded66dc1:
 msgid "[_Alice_s_06_] Ммм... Я бы очень хотела прижаться к тебе и медленно провести грудью по твоему телу так, чтобы она оказалась около твоего лица..."
@@ -2786,7 +2786,7 @@ msgstr "[_tMax_s_11_] Sono sollevato che Lisa sia andata a farsi il bagno, altri
 
 # game/scripts/story_01/blog.rpy:2431 #-#-# translate crowdin ev_137_fantasy_topless_674c74fa:
 msgid "[_tMax_s_11_] Надо бы как-то осторожно встать с кровати, чтобы Лиза не увидела мой мощный стояк. Вот же, Алиса, даёт!"
-msgstr ""
+msgstr "[_tMax_s_11_] Dovrei cercare di scendere dal letto con cautela, per evitare che Lisa veda questo pezzo di ferro. Accidenti ad Alice, che mi combina!"
 
 # game/scripts/story_01/blog.rpy:2436 #-#-# translate crowdin ev_137_fantasy_bottomless_36c316e4:
 msgid "[_Alice_s_06_] Ммм... Как же сильно мне хочется, чтобы ты неспеша подошёл ко мне сзади и прижался своим телом так, чтобы твой дружок упёрся мне в попку..."
@@ -2850,7 +2850,7 @@ msgstr "[_tMax_s_11_] Sono sollevato che Lisa sia andata a farsi il bagno, altri
 
 # game/scripts/story_01/blog.rpy:2466 #-#-# translate crowdin ev_137_fantasy_bottomless_674c74fa:
 msgid "[_tMax_s_11_] Надо бы как-то осторожно встать с кровати, чтобы Лиза не увидела мой мощный стояк. Вот же, Алиса, даёт!"
-msgstr ""
+msgstr "[_tMax_s_11_] Dovrei cercare di scendere dal letto con cautela, per evitare che Lisa veda questo pezzo di ferro. Accidenti ad Alice, che mi combina!"
 
 # game/scripts/story_01/blog.rpy:2473 #-#-# translate crowdin ev_137_simple_ending_66c54e56:
 msgid "[_Alice_s_12_] Похоже на то. И мне как-то даже нечем тебя больше развлечь сегодня. Наверно, будем закругляться?"
@@ -2934,7 +2934,7 @@ msgstr "Non è un problema, ma dovrò risparmiare un po’ di soldi..."
 
 # game/scripts/story_01/blog.rpy:596
 msgid "{i}оплатить покупку ($200) и подождать Алису{/i}"
-msgstr ""
+msgstr "{i}pagare l'acquisto ($200) e aspettare Alice{/i}"
 
 # game/scripts/story_01/blog.rpy:615
 msgid "{i}вернуться на виллу{/i}"
