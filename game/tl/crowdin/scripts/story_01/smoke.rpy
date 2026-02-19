@@ -1,822 +1,828 @@
-﻿# TODO: Translation updated at 2025-08-12 11:03
+﻿# TODO: Translation updated at 2026-02-19 00:46
 
-# game/scripts/story_01/smoke.rpy:12
+# game/scripts/story_01/smoke.rpy:11
+translate crowdin ev_025_4be20cd4:
+
+    # tMax 11 "Хм... Может, пойти посмотреть, не сполз ли там случаем с Алисы купальник во дворе? Мало ли..."
+    tMax 11 "Хм... Может, пойти посмотреть, не сполз ли там случаем с Алисы купальник во дворе? Мало ли..."
+
+# game/scripts/story_01/smoke.rpy:15
 translate crowdin ev_025_7cf4d55a:
 
     # tMax 13 "Что это? Ну-ка, ну-ка... Вот чёрт! Алиса снова взялась курить травку! Это очень нехорошо..." nointeract
     tMax 13 "Что это? Ну-ка, ну-ка... Вот чёрт! Алиса снова взялась курить травку! Это очень нехорошо..." nointeract
 
-# game/scripts/story_01/smoke.rpy:17
+# game/scripts/story_01/smoke.rpy:20
 translate crowdin ev_025_78c5675d:
 
     # Alice 12 "Упс... Макс, ты ничего не видел!"
     Alice 12 "Упс... Макс, ты ничего не видел!"
 
-# game/scripts/story_01/smoke.rpy:18
+# game/scripts/story_01/smoke.rpy:21
 translate crowdin ev_025_4b62bd61:
 
     # Max 17 "Тебе мало в тот раз от мамы влетело что ли?!"
     Max 17 "Тебе мало в тот раз от мамы влетело что ли?!"
 
-# game/scripts/story_01/smoke.rpy:19
+# game/scripts/story_01/smoke.rpy:22
 translate crowdin ev_025_8529c475:
 
     # Alice 11 "Давай так, ты уйдёшь и сделаешь вид, что ничего не было, хорошо?"
     Alice 11 "Давай так, ты уйдёшь и сделаешь вид, что ничего не было, хорошо?"
 
-# game/scripts/story_01/smoke.rpy:20
+# game/scripts/story_01/smoke.rpy:23
 translate crowdin ev_025_e69e7d30:
 
     # Max 13 "Да вот ещё! Я сразу же расскажу об этом маме, как только она вернётся с работы..."
     Max 13 "Да вот ещё! Я сразу же расскажу об этом маме, как только она вернётся с работы..."
 
-# game/scripts/story_01/smoke.rpy:21
+# game/scripts/story_01/smoke.rpy:24
 translate crowdin ev_025_2d7a13a0:
 
     # Alice 16 "Серьёзно??? Вот ты крысёныш, Макс! Неужели тебе так сложно прикрыть свою сестрёнку?"
     Alice 16 "Серьёзно??? Вот ты крысёныш, Макс! Неужели тебе так сложно прикрыть свою сестрёнку?"
 
-# game/scripts/story_01/smoke.rpy:22
+# game/scripts/story_01/smoke.rpy:25
 translate crowdin ev_025_cd2d3d65:
 
     # Max 18 "А ты видимо забыла, как в прошлый раз мне влетело даже больше, чем тебе?"
     Max 18 "А ты видимо забыла, как в прошлый раз мне влетело даже больше, чем тебе?"
 
-# game/scripts/story_01/smoke.rpy:23
+# game/scripts/story_01/smoke.rpy:26
 translate crowdin ev_025_355d47e2:
 
     # Alice 11 "Сам виноват! Я не просила так рьяно меня выгораживать..."
     Alice 11 "Сам виноват! Я не просила так рьяно меня выгораживать..."
 
-# game/scripts/story_01/smoke.rpy:24
+# game/scripts/story_01/smoke.rpy:27
 translate crowdin ev_025_5fa72814:
 
     # Max 16 "Ну, извините... В этот раз не стану. Всё равно мама это заметит... Не сразу, так чуть позже."
     Max 16 "Ну, извините... В этот раз не стану. Всё равно мама это заметит... Не сразу, так чуть позже."
 
-# game/scripts/story_01/smoke.rpy:25
+# game/scripts/story_01/smoke.rpy:28
 translate crowdin ev_025_a9e35b74:
 
     # Alice 12 "Ты, Макс, так не горячись. Можно ведь как-то договориться, чтобы всем было хорошо..."
     Alice 12 "Ты, Макс, так не горячись. Можно ведь как-то договориться, чтобы всем было хорошо..."
 
-# game/scripts/story_01/smoke.rpy:26
+# game/scripts/story_01/smoke.rpy:29
 translate crowdin ev_025_3252b0e2:
 
     # Max 12 "Может и договоримся... Если ты действительно маму расстраивать не хочешь, как и получать от неё по заднице."
     Max 12 "Может и договоримся... Если ты действительно маму расстраивать не хочешь, как и получать от неё по заднице."
 
-# game/scripts/story_01/smoke.rpy:28
+# game/scripts/story_01/smoke.rpy:31
 translate crowdin ev_025_60f57d32:
 
     # Alice 00 "Ну, а как же... А что хочешь ты, чтобы это оставалось нашей маленькой тайной?" nointeract
     Alice 00 "Ну, а как же... А что хочешь ты, чтобы это оставалось нашей маленькой тайной?" nointeract
 
-# game/scripts/story_01/smoke.rpy:32
+# game/scripts/story_01/smoke.rpy:35
 translate crowdin ev_025_ffb5be6e:
 
     # Alice 12 "Макс, ты же знаешь, что я на мели. У меня почти нет денег. От силы могу тебе $10 дать." nointeract
     Alice 12 "Макс, ты же знаешь, что я на мели. У меня почти нет денег. От силы могу тебе $10 дать." nointeract
 
-# game/scripts/story_01/smoke.rpy:38
+# game/scripts/story_01/smoke.rpy:41
 translate crowdin ev_025_3fc8692c:
 
     # Alice 16 "Чёрт с тобой, Макс! Совсем без денег меня оставить хочешь... Больше так не наглей!"
     Alice 16 "Чёрт с тобой, Макс! Совсем без денег меня оставить хочешь... Больше так не наглей!"
 
-# game/scripts/story_01/smoke.rpy:39
+# game/scripts/story_01/smoke.rpy:42
 translate crowdin ev_025_dd8c984b:
 
     # Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
 
-# game/scripts/story_01/smoke.rpy:41
+# game/scripts/story_01/smoke.rpy:44
 translate crowdin ev_025_240bdbf6:
 
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
 
-# game/scripts/story_01/smoke.rpy:49
+# game/scripts/story_01/smoke.rpy:52
 translate crowdin ev_025_3205b635:
 
     # Alice 15 "Ты совсем меня без денег оставить хочешь?! Значит так, я дам тебе $10 и ты отвалишь, ясно?"
     Alice 15 "Ты совсем меня без денег оставить хочешь?! Значит так, я дам тебе $10 и ты отвалишь, ясно?"
 
-# game/scripts/story_01/smoke.rpy:50
+# game/scripts/story_01/smoke.rpy:53
 translate crowdin ev_025_dd8c984b_1:
 
     # Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
 
-# game/scripts/story_01/smoke.rpy:52
+# game/scripts/story_01/smoke.rpy:55
 translate crowdin ev_025_240bdbf6_1:
 
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
 
-# game/scripts/story_01/smoke.rpy:57
+# game/scripts/story_01/smoke.rpy:60
 translate crowdin ev_025_83b08bdc:
 
     # Alice 11 "Ну, хоть наглеть не стал... Теперь-то ты уж точно ничего не видел. Так?"
     Alice 11 "Ну, хоть наглеть не стал... Теперь-то ты уж точно ничего не видел. Так?"
 
-# game/scripts/story_01/smoke.rpy:58
+# game/scripts/story_01/smoke.rpy:61
 translate crowdin ev_025_dd8c984b_2:
 
     # Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
 
-# game/scripts/story_01/smoke.rpy:60
+# game/scripts/story_01/smoke.rpy:63
 translate crowdin ev_025_240bdbf6_2:
 
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
 
-# game/scripts/story_01/smoke.rpy:66
+# game/scripts/story_01/smoke.rpy:69
 translate crowdin ev_025_f250fb88:
 
     # tMax 13 "Нужно будет обязательно последить за Алисой, продолжит ли она курить травку. Я почти уверен, что да!"
     tMax 13 "Нужно будет обязательно последить за Алисой, продолжит ли она курить травку. Я почти уверен, что да!"
 
-# game/scripts/story_01/smoke.rpy:85
+# game/scripts/story_01/smoke.rpy:88
 translate crowdin ev_026_5533c91e:
 
     # tMax 13 "Ай-я-яй, Алиса... Опять ты своей этой дрянью балуешься!" nointeract
     tMax 13 "Ай-я-яй, Алиса... Опять ты своей этой дрянью балуешься!" nointeract
 
-# game/scripts/story_01/smoke.rpy:94
+# game/scripts/story_01/smoke.rpy:97
 translate crowdin ev_026_d9bf6d83:
 
     # tMax 12 "На данный момент, у меня нет никакой уверенности в том, что я останусь в живых, если сделаю это! Наши взаимоотношения с Алисой ещё не так хороши, как хотелось бы..." nointeract
     tMax 12 "На данный момент, у меня нет никакой уверенности в том, что я останусь в живых, если сделаю это! Наши взаимоотношения с Алисой ещё не так хороши, как хотелось бы..." nointeract
 
-# game/scripts/story_01/smoke.rpy:96
+# game/scripts/story_01/smoke.rpy:99
 translate crowdin ev_026_8df806fe:
 
     # tMax 12 "На данный момент, у меня нет никакой уверенности в том, что я останусь в живых, если сделаю это! Сперва нужно помочь Алисе с альтернативой её блогу..." nointeract
     tMax 12 "На данный момент, у меня нет никакой уверенности в том, что я останусь в живых, если сделаю это! Сперва нужно помочь Алисе с альтернативой её блогу..." nointeract
 
-# game/scripts/story_01/smoke.rpy:98
+# game/scripts/story_01/smoke.rpy:101
 translate crowdin ev_026_eb6f30b9:
 
     # tMax 12 "На данный момент, у меня нет никакой уверенности в том, что я останусь в живых, если сделаю это! А я ещё хочу увидеть веб-трансляцию Алисы..." nointeract
     tMax 12 "На данный момент, у меня нет никакой уверенности в том, что я останусь в живых, если сделаю это! А я ещё хочу увидеть веб-трансляцию Алисы..." nointeract
 
-# game/scripts/story_01/smoke.rpy:100
+# game/scripts/story_01/smoke.rpy:103
 translate crowdin ev_026_a44e82a4:
 
     # tMax 12 "На данный момент, у меня нет никакой уверенности в том, что я останусь в живых, если сделаю это! А я ещё хочу увидеть хотя бы несколько приватных трансляций Алисы..." nointeract
     tMax 12 "На данный момент, у меня нет никакой уверенности в том, что я останусь в живых, если сделаю это! А я ещё хочу увидеть хотя бы несколько приватных трансляций Алисы..." nointeract
 
-# game/scripts/story_01/smoke.rpy:107
+# game/scripts/story_01/smoke.rpy:116
 translate crowdin ev_026_8f8cc24f:
 
     # Alice 12 "Ой! Ну, да... Я знаю... Ты же не скажешь об этом маме?"
     Alice 12 "Ой! Ну, да... Я знаю... Ты же не скажешь об этом маме?"
 
-# game/scripts/story_01/smoke.rpy:108
+# game/scripts/story_01/smoke.rpy:117
 translate crowdin ev_026_e08025f1:
 
     # Max 11 "Ну, это будет зависеть от того, сделаешь ли ты то, что я попрошу."
     Max 11 "Ну, это будет зависеть от того, сделаешь ли ты то, что я попрошу."
 
-# game/scripts/story_01/smoke.rpy:110
+# game/scripts/story_01/smoke.rpy:119
 translate crowdin ev_026_20086cb9:
 
     # Alice 11 "Говори, что ты хочешь за молчание?" nointeract
     Alice 11 "Говори, что ты хочешь за молчание?" nointeract
 
-# game/scripts/story_01/smoke.rpy:115
+# game/scripts/story_01/smoke.rpy:124
 translate crowdin ev_026_3fc8692c:
 
     # Alice 16 "Чёрт с тобой, Макс! Совсем без денег меня оставить хочешь... Больше так не наглей!"
     Alice 16 "Чёрт с тобой, Макс! Совсем без денег меня оставить хочешь... Больше так не наглей!"
 
-# game/scripts/story_01/smoke.rpy:116
+# game/scripts/story_01/smoke.rpy:125
 translate crowdin ev_026_dd8c984b:
 
     # Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
 
-# game/scripts/story_01/smoke.rpy:118
+# game/scripts/story_01/smoke.rpy:127
 translate crowdin ev_026_240bdbf6:
 
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
 
-# game/scripts/story_01/smoke.rpy:125
+# game/scripts/story_01/smoke.rpy:134
 translate crowdin ev_026_3205b635:
 
     # Alice 15 "Ты совсем меня без денег оставить хочешь?! Значит так, я дам тебе $10 и ты отвалишь, ясно?"
     Alice 15 "Ты совсем меня без денег оставить хочешь?! Значит так, я дам тебе $10 и ты отвалишь, ясно?"
 
-# game/scripts/story_01/smoke.rpy:126
+# game/scripts/story_01/smoke.rpy:135
 translate crowdin ev_026_dd8c984b_1:
 
     # Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
 
-# game/scripts/story_01/smoke.rpy:128
+# game/scripts/story_01/smoke.rpy:137
 translate crowdin ev_026_240bdbf6_1:
 
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
 
-# game/scripts/story_01/smoke.rpy:141
+# game/scripts/story_01/smoke.rpy:150
 translate crowdin ev_026_bacdb8a1:
 
     # Alice 01 "Да я вообще-то и так без лифчика всё время хожу, только когда сплю надеваю..."
     Alice 01 "Да я вообще-то и так без лифчика всё время хожу, только когда сплю надеваю..."
 
-# game/scripts/story_01/smoke.rpy:142
+# game/scripts/story_01/smoke.rpy:151
 translate crowdin ev_026_e23ab051:
 
     # Max 01 "Значит, тогда просто спи без него."
     Max 01 "Значит, тогда просто спи без него."
 
-# game/scripts/story_01/smoke.rpy:143
+# game/scripts/story_01/smoke.rpy:152
 translate crowdin ev_026_3db3ad7a:
 
     # Alice 11 "Не знаю, что тебе это даст, но лучше я соглашусь на этот пустяк... Пока ты что-нибудь ещё не попросил."
     Alice 11 "Не знаю, что тебе это даст, но лучше я соглашусь на этот пустяк... Пока ты что-нибудь ещё не попросил."
 
-# game/scripts/story_01/smoke.rpy:145
+# game/scripts/story_01/smoke.rpy:154
 translate crowdin ev_026_f96e6325:
 
     # Alice 11 "Так уж и быть, я соглашусь на этот пустяк... Пока ты что-нибудь ещё не попросил."
     Alice 11 "Так уж и быть, я соглашусь на этот пустяк... Пока ты что-нибудь ещё не попросил."
 
-# game/scripts/story_01/smoke.rpy:146
+# game/scripts/story_01/smoke.rpy:155
 translate crowdin ev_026_2c3eb85c:
 
     # Max 04 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 04 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
 
-# game/scripts/story_01/smoke.rpy:148
+# game/scripts/story_01/smoke.rpy:157
 translate crowdin ev_026_c4fed131:
 
     # Alice 01 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 01 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
 
-# game/scripts/story_01/smoke.rpy:156
+# game/scripts/story_01/smoke.rpy:165
 translate crowdin ev_026_11fd9e93:
 
     # Alice 15 "Обойдёшься! Подглядывать же наверняка станешь, извращенец мелкий. Значит так, я дам тебе $10 и ты отвалишь, ясно?"
     Alice 15 "Обойдёшься! Подглядывать же наверняка станешь, извращенец мелкий. Значит так, я дам тебе $10 и ты отвалишь, ясно?"
 
-# game/scripts/story_01/smoke.rpy:157
+# game/scripts/story_01/smoke.rpy:166
 translate crowdin ev_026_dd8c984b_2:
 
     # Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
 
-# game/scripts/story_01/smoke.rpy:159
+# game/scripts/story_01/smoke.rpy:168
 translate crowdin ev_026_240bdbf6_2:
 
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
 
-# game/scripts/story_01/smoke.rpy:168
+# game/scripts/story_01/smoke.rpy:177
 translate crowdin ev_026_bbdfc32e:
 
     # Alice 04 "Этот пустяк я легко могу делать и дальше... Если уж тебе так угодно."
     Alice 04 "Этот пустяк я легко могу делать и дальше... Если уж тебе так угодно."
 
-# game/scripts/story_01/smoke.rpy:169
+# game/scripts/story_01/smoke.rpy:178
 translate crowdin ev_026_dd8c984b_3:
 
     # Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
 
-# game/scripts/story_01/smoke.rpy:171
+# game/scripts/story_01/smoke.rpy:180
 translate crowdin ev_026_240bdbf6_3:
 
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
 
-# game/scripts/story_01/smoke.rpy:180
+# game/scripts/story_01/smoke.rpy:189
 translate crowdin ev_026_7271cfe6:
 
     # Alice 11 "Маленький извращенец... Ладно, но даже не пытайся за мной подсматривать. Иначе я стану тушить все свои сигареты об тебя!"
     Alice 11 "Маленький извращенец... Ладно, но даже не пытайся за мной подсматривать. Иначе я стану тушить все свои сигареты об тебя!"
 
-# game/scripts/story_01/smoke.rpy:181
+# game/scripts/story_01/smoke.rpy:190
 translate crowdin ev_026_dd8c984b_4:
 
     # Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
 
-# game/scripts/story_01/smoke.rpy:183
+# game/scripts/story_01/smoke.rpy:192
 translate crowdin ev_026_240bdbf6_4:
 
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
 
-# game/scripts/story_01/smoke.rpy:191
+# game/scripts/story_01/smoke.rpy:200
 translate crowdin ev_026_11fd9e93_1:
 
     # Alice 15 "Обойдёшься! Подглядывать же наверняка станешь, извращенец мелкий. Значит так, я дам тебе $10 и ты отвалишь, ясно?"
     Alice 15 "Обойдёшься! Подглядывать же наверняка станешь, извращенец мелкий. Значит так, я дам тебе $10 и ты отвалишь, ясно?"
 
-# game/scripts/story_01/smoke.rpy:192
+# game/scripts/story_01/smoke.rpy:201
 translate crowdin ev_026_dd8c984b_5:
 
     # Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
 
-# game/scripts/story_01/smoke.rpy:194
+# game/scripts/story_01/smoke.rpy:203
 translate crowdin ev_026_240bdbf6_5:
 
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
 
-# game/scripts/story_01/smoke.rpy:203
+# game/scripts/story_01/smoke.rpy:212
 translate crowdin ev_026_fde7cf90:
 
     # Alice 11 "Как скажешь, извращенец мелкий... И не пытайся за мной подсматривать, а то я стану тушить все свои сигареты об тебя!"
     Alice 11 "Как скажешь, извращенец мелкий... И не пытайся за мной подсматривать, а то я стану тушить все свои сигареты об тебя!"
 
-# game/scripts/story_01/smoke.rpy:204
+# game/scripts/story_01/smoke.rpy:213
 translate crowdin ev_026_dd8c984b_6:
 
     # Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
 
-# game/scripts/story_01/smoke.rpy:206
+# game/scripts/story_01/smoke.rpy:215
 translate crowdin ev_026_240bdbf6_6:
 
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
 
-# game/scripts/story_01/smoke.rpy:212
+# game/scripts/story_01/smoke.rpy:221
 translate crowdin ev_026_c5fa89be:
 
     # Alice 01 "Всё-таки не дают тебе покоя мои трусики, да? Ну, хорошо. Всё равно я почти всё время в джинсах, так что не страшно. Значит, договорились?"
     Alice 01 "Всё-таки не дают тебе покоя мои трусики, да? Ну, хорошо. Всё равно я почти всё время в джинсах, так что не страшно. Значит, договорились?"
 
-# game/scripts/story_01/smoke.rpy:213
+# game/scripts/story_01/smoke.rpy:222
 translate crowdin ev_026_14139fc0:
 
     # Max 01 "И под платье тоже не надевай!"
     Max 01 "И под платье тоже не надевай!"
 
-# game/scripts/story_01/smoke.rpy:214
+# game/scripts/story_01/smoke.rpy:223
 translate crowdin ev_026_0e843a29:
 
     # Alice 14 "Ах ты... А если ветер?"
     Alice 14 "Ах ты... А если ветер?"
 
-# game/scripts/story_01/smoke.rpy:215
+# game/scripts/story_01/smoke.rpy:224
 translate crowdin ev_026_b245cc1d:
 
     # Max 04 "Надеюсь, что будет ветер..."
     Max 04 "Надеюсь, что будет ветер..."
 
-# game/scripts/story_01/smoke.rpy:216
+# game/scripts/story_01/smoke.rpy:225
 translate crowdin ev_026_49027823:
 
     # Alice 11 "Но спать я буду как обычно, понял? Ты и так слишком много выпросил, хватит условий."
     Alice 11 "Но спать я буду как обычно, понял? Ты и так слишком много выпросил, хватит условий."
 
-# game/scripts/story_01/smoke.rpy:217
+# game/scripts/story_01/smoke.rpy:226
 translate crowdin ev_026_dd8c984b_7:
 
     # Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
 
-# game/scripts/story_01/smoke.rpy:219
+# game/scripts/story_01/smoke.rpy:228
 translate crowdin ev_026_240bdbf6_7:
 
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
 
-# game/scripts/story_01/smoke.rpy:229
+# game/scripts/story_01/smoke.rpy:238
 translate crowdin ev_026_be22a33d:
 
     # Alice 11 "Да пожалуйста! Буду спать, как обычно, а в остальное время без трусиков. Доволен?"
     Alice 11 "Да пожалуйста! Буду спать, как обычно, а в остальное время без трусиков. Доволен?"
 
-# game/scripts/story_01/smoke.rpy:230
+# game/scripts/story_01/smoke.rpy:239
 translate crowdin ev_026_dd8c984b_8:
 
     # Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
 
-# game/scripts/story_01/smoke.rpy:232
+# game/scripts/story_01/smoke.rpy:241
 translate crowdin ev_026_240bdbf6_8:
 
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
 
-# game/scripts/story_01/smoke.rpy:239
+# game/scripts/story_01/smoke.rpy:248
 translate crowdin ev_026_11fd9e93_2:
 
     # Alice 15 "Обойдёшься! Подглядывать же наверняка станешь, извращенец мелкий. Значит так, я дам тебе $10 и ты отвалишь, ясно?"
     Alice 15 "Обойдёшься! Подглядывать же наверняка станешь, извращенец мелкий. Значит так, я дам тебе $10 и ты отвалишь, ясно?"
 
-# game/scripts/story_01/smoke.rpy:240
+# game/scripts/story_01/smoke.rpy:249
 translate crowdin ev_026_dd8c984b_9:
 
     # Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
 
-# game/scripts/story_01/smoke.rpy:242
+# game/scripts/story_01/smoke.rpy:251
 translate crowdin ev_026_240bdbf6_9:
 
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
 
-# game/scripts/story_01/smoke.rpy:251
+# game/scripts/story_01/smoke.rpy:260
 translate crowdin ev_026_92918ae8:
 
     # Alice 11 "Зря я надеялась, что ты попросишь что-то попроще... Значит буду и дальше спать, как обычно, а в остальное время без трусиков."
     Alice 11 "Зря я надеялась, что ты попросишь что-то попроще... Значит буду и дальше спать, как обычно, а в остальное время без трусиков."
 
-# game/scripts/story_01/smoke.rpy:252
+# game/scripts/story_01/smoke.rpy:261
 translate crowdin ev_026_dd8c984b_10:
 
     # Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
     Max 13 "Но если я увижу, как ты продолжаешь курить эту дрянь, то снова что-то попрошу у тебя."
 
-# game/scripts/story_01/smoke.rpy:254
+# game/scripts/story_01/smoke.rpy:263
 translate crowdin ev_026_240bdbf6_10:
 
     # Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
     Alice 12 "А до тех пор, хватит ко мне приставать. Дай спокойно покурить!" nointeract
 
-# game/scripts/story_01/smoke.rpy:264
+# game/scripts/story_01/smoke.rpy:273
 translate crowdin ev_026_spank_3d804ea8:
 
     # Alice 14 "А-а-а-ай!!!"
     Alice 14 "А-а-а-ай!!!"
 
-# game/scripts/story_01/smoke.rpy:265
+# game/scripts/story_01/smoke.rpy:274
 translate crowdin ev_026_spank_b233226a:
 
     # Max 13 "Ага, попалась?!"
     Max 13 "Ага, попалась?!"
 
-# game/scripts/story_01/smoke.rpy:269
+# game/scripts/story_01/smoke.rpy:278
 translate crowdin ev_026_spank_e0e2ca9f:
 
     # Alice 16 "Макс!!! Какого фига ты так тихо подкрадываешься?! Да ещё и бьёшь меня по заднице!"
     Alice 16 "Макс!!! Какого фига ты так тихо подкрадываешься?! Да ещё и бьёшь меня по заднице!"
 
-# game/scripts/story_01/smoke.rpy:270
+# game/scripts/story_01/smoke.rpy:279
 translate crowdin ev_026_spank_a244f962:
 
     # Max 16 "А нечего эту дрянь продолжать курить!"
     Max 16 "А нечего эту дрянь продолжать курить!"
 
-# game/scripts/story_01/smoke.rpy:271
+# game/scripts/story_01/smoke.rpy:280
 translate crowdin ev_026_spank_60442dba:
 
     # Alice 15 "Без тебя как-нибудь разберусь, что мне делать, а что нет! Сейчас получишь у меня..."
     Alice 15 "Без тебя как-нибудь разберусь, что мне делать, а что нет! Сейчас получишь у меня..."
 
-# game/scripts/story_01/smoke.rpy:272
+# game/scripts/story_01/smoke.rpy:281
 translate crowdin ev_026_spank_dbe54b65:
 
     # Max 17 "Только представь, как ты потом получишь от мамы... Считай, что это было так, для профилактики."
     Max 17 "Только представь, как ты потом получишь от мамы... Считай, что это было так, для профилактики."
 
-# game/scripts/story_01/smoke.rpy:274
+# game/scripts/story_01/smoke.rpy:283
 translate crowdin ev_026_spank_c801008d:
 
     # Alice 11 "Значит, вот так, да?! Тогда наша договорённость отменяется, раз ты меня отшлёпал... Понял?"
     Alice 11 "Значит, вот так, да?! Тогда наша договорённость отменяется, раз ты меня отшлёпал... Понял?"
 
-# game/scripts/story_01/smoke.rpy:275
+# game/scripts/story_01/smoke.rpy:284
 translate crowdin ev_026_spank_cbd2d988:
 
     # Max 13 "Вполне себе по-честному."
     Max 13 "Вполне себе по-честному."
 
-# game/scripts/story_01/smoke.rpy:277
+# game/scripts/story_01/smoke.rpy:286
 translate crowdin ev_026_spank_09f34956:
 
     # Alice 15 "Всё, брысь отсюда! Дай спокойно покурить!" nointeract
     Alice 15 "Всё, брысь отсюда! Дай спокойно покурить!" nointeract
 
-# game/scripts/story_01/smoke.rpy:286
+# game/scripts/story_01/smoke.rpy:295
 translate crowdin ev_026_spank_3d804ea8_1:
 
     # Alice 14 "А-а-а-ай!!!"
     Alice 14 "А-а-а-ай!!!"
 
-# game/scripts/story_01/smoke.rpy:287
+# game/scripts/story_01/smoke.rpy:296
 translate crowdin ev_026_spank_cdce1917:
 
     # Max 13 "Ну как, получила?!"
     Max 13 "Ну как, получила?!"
 
-# game/scripts/story_01/smoke.rpy:291
+# game/scripts/story_01/smoke.rpy:300
 translate crowdin ev_026_spank_e0e2ca9f_1:
 
     # Alice 16 "Макс!!! Какого фига ты так тихо подкрадываешься?! Да ещё и бьёшь меня по заднице!"
     Alice 16 "Макс!!! Какого фига ты так тихо подкрадываешься?! Да ещё и бьёшь меня по заднице!"
 
-# game/scripts/story_01/smoke.rpy:292
+# game/scripts/story_01/smoke.rpy:301
 translate crowdin ev_026_spank_a244f962_1:
 
     # Max 16 "А нечего эту дрянь продолжать курить!"
     Max 16 "А нечего эту дрянь продолжать курить!"
 
-# game/scripts/story_01/smoke.rpy:293
+# game/scripts/story_01/smoke.rpy:302
 translate crowdin ev_026_spank_20f83cda:
 
     # Alice 15 "Хочу и курю! А тебя я сейчас урою..."
     Alice 15 "Хочу и курю! А тебя я сейчас урою..."
 
-# game/scripts/story_01/smoke.rpy:294
+# game/scripts/story_01/smoke.rpy:303
 translate crowdin ev_026_spank_74a90a77:
 
     # Max 17 "За это тебя мама тоже по головке не погладит. Считай, что это было так, для профилактики. От мамы ты бы получила куда больше и больнее..."
     Max 17 "За это тебя мама тоже по головке не погладит. Считай, что это было так, для профилактики. От мамы ты бы получила куда больше и больнее..."
 
-# game/scripts/story_01/smoke.rpy:296
+# game/scripts/story_01/smoke.rpy:305
 translate crowdin ev_026_spank_4a78c8ec:
 
     # Alice 11 "Ах ты так, да?! Тогда наша договорённость отменяется, раз ты меня отшлёпал... Понял?"
     Alice 11 "Ах ты так, да?! Тогда наша договорённость отменяется, раз ты меня отшлёпал... Понял?"
 
-# game/scripts/story_01/smoke.rpy:297
+# game/scripts/story_01/smoke.rpy:306
 translate crowdin ev_026_spank_b4245c4c:
 
     # Max 13 "Пожалуй, это справедливо."
     Max 13 "Пожалуй, это справедливо."
 
-# game/scripts/story_01/smoke.rpy:299
+# game/scripts/story_01/smoke.rpy:308
 translate crowdin ev_026_spank_09f34956_1:
 
     # Alice 15 "Всё, брысь отсюда! Дай спокойно покурить!" nointeract
     Alice 15 "Всё, брысь отсюда! Дай спокойно покурить!" nointeract
 
-# game/scripts/story_01/smoke.rpy:304
+# game/scripts/story_01/smoke.rpy:313
 translate crowdin ev_026_spank_31d4e4dd:
 
     # Alice 11 "Ах ты... Всё, брысь отсюда! Дай спокойно покурить!" nointeract
     Alice 11 "Ах ты... Всё, брысь отсюда! Дай спокойно покурить!" nointeract
 
-# game/scripts/story_01/smoke.rpy:328
+# game/scripts/story_01/smoke.rpy:338
 translate crowdin ev_027_8a4a05d0:
 
     # Alice 11 "Нет, блин, просто зажгла сигарету, посмотреть как горит..."
     Alice 11 "Нет, блин, просто зажгла сигарету, посмотреть как горит..."
 
-# game/scripts/story_01/smoke.rpy:329
+# game/scripts/story_01/smoke.rpy:339
 translate crowdin ev_027_422b4a0d:
 
     # Max 13 "А травку ты тогда зачем курила?"
     Max 13 "А травку ты тогда зачем курила?"
 
-# game/scripts/story_01/smoke.rpy:330
+# game/scripts/story_01/smoke.rpy:340
 translate crowdin ev_027_ee90bd8a:
 
     # Alice 15 "У меня стресс! Одежда потеряна, а у меня столько планов было... Теперь по-новой всё покупать. Ты ещё последние деньги за молчание забрал."
     Alice 15 "У меня стресс! Одежда потеряна, а у меня столько планов было... Теперь по-новой всё покупать. Ты ещё последние деньги за молчание забрал."
 
-# game/scripts/story_01/smoke.rpy:331
+# game/scripts/story_01/smoke.rpy:341
 translate crowdin ev_027_05282710:
 
     # Max 12 "Да не переживай ты так. Я сразу как найду способ заработать, так и тебе помогу по-братски."
     Max 12 "Да не переживай ты так. Я сразу как найду способ заработать, так и тебе помогу по-братски."
 
-# game/scripts/story_01/smoke.rpy:333
+# game/scripts/story_01/smoke.rpy:343
 translate crowdin ev_027_25781469:
 
     # Alice 11 "Ага, поможешь ты, как же... Сама разберусь. Всё, не мешай, дай покурить в тишине и покое!" nointeract
     Alice 11 "Ага, поможешь ты, как же... Сама разберусь. Всё, не мешай, дай покурить в тишине и покое!" nointeract
 
-# game/scripts/story_01/smoke.rpy:338
+# game/scripts/story_01/smoke.rpy:348
 translate crowdin ev_027_d1815d4d:
 
     # tMax 13 "Стресс у неё значит... Помню, насчёт сигарет мама с Алисой когда-то ругались, но моя старшая сестра уже взрослая, а потому претензия к ней будет всего одна, чтобы сигаретным дымом не пахло дома."
     tMax 13 "Стресс у неё значит... Помню, насчёт сигарет мама с Алисой когда-то ругались, но моя старшая сестра уже взрослая, а потому претензия к ней будет всего одна, чтобы сигаретным дымом не пахло дома."
 
-# game/scripts/story_01/smoke.rpy:339
+# game/scripts/story_01/smoke.rpy:349
 translate crowdin ev_027_7dcda811:
 
     # tMax 01 "Ну, а травку она точно ещё будет покуривать. И вот когда я снова поймаю её за этим делом, то можно будет попробовать выпросить что-то намного интереснее денег..."
     tMax 01 "Ну, а травку она точно ещё будет покуривать. И вот когда я снова поймаю её за этим делом, то можно будет попробовать выпросить что-то намного интереснее денег..."
 
-# game/scripts/story_01/smoke.rpy:362
+# game/scripts/story_01/smoke.rpy:372
 translate crowdin ev_028_2949475f:
 
     # tMax 03 "А вот и голые сисечки Алисы загорают! Жаль их не видно..." nointeract
     tMax 03 "А вот и голые сисечки Алисы загорают! Жаль их не видно..." nointeract
 
-# game/scripts/story_01/smoke.rpy:371
+# game/scripts/story_01/smoke.rpy:381
 translate crowdin ev_028_fbde9dc6:
 
     # Alice 14 "Чёрт побери, Макс! Напугал! {p=2}{nw}"
     Alice 14 "Чёрт побери, Макс! Напугал! {p=2}{nw}"
 
-# game/scripts/story_01/smoke.rpy:375
+# game/scripts/story_01/smoke.rpy:385
 translate crowdin ev_028_ccc6a72c:
 
     # Alice 15 "И давно ты тут стоишь и пялишься на меня?" nointeract
     Alice 15 "И давно ты тут стоишь и пялишься на меня?" nointeract
 
-# game/scripts/story_01/smoke.rpy:383
+# game/scripts/story_01/smoke.rpy:393
 translate crowdin ev_028_0c744b95:
 
     # Alice 15 "Чёрт побери, Макс! Напугал! И давно ты тут стоишь и пялишься на меня?" nointeract
     Alice 15 "Чёрт побери, Макс! Напугал! И давно ты тут стоишь и пялишься на меня?" nointeract
 
-# game/scripts/story_01/smoke.rpy:387
+# game/scripts/story_01/smoke.rpy:397
 translate crowdin ev_028_e94cb0a9:
 
     # Alice 11 "Вот что хочу, то и беру! И что я тебе не советую делать, так это мешать мне. Всё, брысь отсюда!" nointeract
     Alice 11 "Вот что хочу, то и беру! И что я тебе не советую делать, так это мешать мне. Всё, брысь отсюда!" nointeract
 
-# game/scripts/story_01/smoke.rpy:392
+# game/scripts/story_01/smoke.rpy:402
 translate crowdin ev_028_48c819a4:
 
     # Alice 04 "Ах, вон оно что... Свою иди разглядывай в зеркале, а мне лучше не мешай. Хуже будет..." nointeract
     Alice 04 "Ах, вон оно что... Свою иди разглядывай в зеркале, а мне лучше не мешай. Хуже будет..." nointeract
 
-# game/scripts/story_01/smoke.rpy:400
+# game/scripts/story_01/smoke.rpy:410
 translate crowdin ev_028_21e51b14:
 
     # Alice 15 "Блин, Макс, напугал! Поглазеть что ли пришёл, извращенец мелкий?" nointeract
     Alice 15 "Блин, Макс, напугал! Поглазеть что ли пришёл, извращенец мелкий?" nointeract
 
-# game/scripts/story_01/smoke.rpy:407
+# game/scripts/story_01/smoke.rpy:417
 translate crowdin ev_028_a96fabcd:
 
     # Alice 02 "Спасибо, нет! Я и так наслышана, чем ты там нашу маленькую сестрёнку пугаешь по утрам. Просто иди, куда шёл..." nointeract
     Alice 02 "Спасибо, нет! Я и так наслышана, чем ты там нашу маленькую сестрёнку пугаешь по утрам. Просто иди, куда шёл..." nointeract
 
-# game/scripts/story_01/smoke.rpy:414
+# game/scripts/story_01/smoke.rpy:424
 translate crowdin ev_028_3e6195d5:
 
     # Alice 16 "Ты дурак что ли, Макс?! Как ляпнешь что-нибудь... Или ты из этих... которые любят ходить и всем свой стручок показывать? Проваливай давай..." nointeract
     Alice 16 "Ты дурак что ли, Макс?! Как ляпнешь что-нибудь... Или ты из этих... которые любят ходить и всем свой стручок показывать? Проваливай давай..." nointeract
 
-# game/scripts/story_01/smoke.rpy:423
+# game/scripts/story_01/smoke.rpy:433
 translate crowdin ev_028_f6c74fd5:
 
     # Alice 01 "Да что ты говоришь... В каком несправедливом мире мы живём. Не дают на сиськи смотреть бедному нашему Максу и всё. Гуляй, несчастный..." nointeract
     Alice 01 "Да что ты говоришь... В каком несправедливом мире мы живём. Не дают на сиськи смотреть бедному нашему Максу и всё. Гуляй, несчастный..." nointeract
 
-# game/scripts/story_01/smoke.rpy:430
+# game/scripts/story_01/smoke.rpy:440
 translate crowdin ev_028_7c8206a2:
 
     # Alice 15 "Вот я ещё сиськи напоказ здесь не выставляла для тебя! Шуруй отсюда, пока я ещё более-менее добрая..." nointeract
     Alice 15 "Вот я ещё сиськи напоказ здесь не выставляла для тебя! Шуруй отсюда, пока я ещё более-менее добрая..." nointeract
 
-# game/scripts/story_01/smoke.rpy:447
+# game/scripts/story_01/smoke.rpy:457
 translate crowdin ev_060_f53b1584:
 
     # Alice 02 "Эй, Макс... Спасибо, что спас меня от наказания... Я это ценю."
     Alice 02 "Эй, Макс... Спасибо, что спас меня от наказания... Я это ценю."
 
-# game/scripts/story_01/smoke.rpy:448
+# game/scripts/story_01/smoke.rpy:458
 translate crowdin ev_060_723a5737:
 
     # Max 01 "Обращайся, Алиса. Но мы с тобой договаривались о кое-чём особенном для меня..."
     Max 01 "Обращайся, Алиса. Но мы с тобой договаривались о кое-чём особенном для меня..."
 
-# game/scripts/story_01/smoke.rpy:453
+# game/scripts/story_01/smoke.rpy:463
 translate crowdin ev_060_ed270007:
 
     # Alice 11 "Что тут сказать... К сожалению, я на такое согласилась. Ну, и... Что ты хочешь?" nointeract
     Alice 11 "Что тут сказать... К сожалению, я на такое согласилась. Ну, и... Что ты хочешь?" nointeract
 
-# game/scripts/story_01/smoke.rpy:461
+# game/scripts/story_01/smoke.rpy:471
 translate crowdin ev_060_b869972f:
 
     # Alice 15 "Макс! Ты невыносим. Я уже подумала, что ты нормальный брат, но как видно зря..."
     Alice 15 "Макс! Ты невыносим. Я уже подумала, что ты нормальный брат, но как видно зря..."
 
-# game/scripts/story_01/smoke.rpy:462
+# game/scripts/story_01/smoke.rpy:472
 translate crowdin ev_060_1cd98888:
 
     # Max 14 "Да я пошутил!"
     Max 14 "Да я пошутил!"
 
-# game/scripts/story_01/smoke.rpy:463
+# game/scripts/story_01/smoke.rpy:473
 translate crowdin ev_060_dc28839e:
 
     # Alice 11 "Шутник, блин... В общем, я сейчас чисто из благодарности за спасение представлю, что не слышала этой твоей просьбы. И спрошу в последний раз... Что ты хочешь?"
     Alice 11 "Шутник, блин... В общем, я сейчас чисто из благодарности за спасение представлю, что не слышала этой твоей просьбы. И спрошу в последний раз... Что ты хочешь?"
 
-# game/scripts/story_01/smoke.rpy:464
+# game/scripts/story_01/smoke.rpy:474
 translate crowdin ev_060_d7129a5a:
 
     # Max 12 "Эээ... Раз так, то хотя бы перестань носить трусики..."
     Max 12 "Эээ... Раз так, то хотя бы перестань носить трусики..."
 
-# game/scripts/story_01/smoke.rpy:465
+# game/scripts/story_01/smoke.rpy:475
 translate crowdin ev_060_34545854:
 
     # Alice 04 "Хм... Это... пожалуй, приемлемо. Я согласна. Если я снова стану курить травку и ты это заметишь, то буду ходить без трусиков и виноватая."
     Alice 04 "Хм... Это... пожалуй, приемлемо. Я согласна. Если я снова стану курить травку и ты это заметишь, то буду ходить без трусиков и виноватая."
 
-# game/scripts/story_01/smoke.rpy:466
+# game/scripts/story_01/smoke.rpy:476
 translate crowdin ev_060_a1a14eb0:
 
     # Max 13 "Эй! А я думал уже сейчас начнёшь?"
     Max 13 "Эй! А я думал уже сейчас начнёшь?"
 
-# game/scripts/story_01/smoke.rpy:469
+# game/scripts/story_01/smoke.rpy:479
 translate crowdin ev_060_1f730573:
 
     # Alice 16 "Я же тогда вечером тебя предупредила, чтобы ты был осторожнее с желаниями, помнишь? А ты сразу «дай сиськи потрогать, я озабоченный»! В следующий раз будешь думать, что несёшь..."
     Alice 16 "Я же тогда вечером тебя предупредила, чтобы ты был осторожнее с желаниями, помнишь? А ты сразу «дай сиськи потрогать, я озабоченный»! В следующий раз будешь думать, что несёшь..."
 
-# game/scripts/story_01/smoke.rpy:471
+# game/scripts/story_01/smoke.rpy:481
 translate crowdin ev_060_15b71227:
 
     # Alice 16 "Я же тогда вечером тебя предупредила, чтобы ты был осторожнее с желаниями, помнишь? А ты сразу «поласкай себя, я озабоченный»! В следующий раз будешь думать, что несёшь..."
     Alice 16 "Я же тогда вечером тебя предупредила, чтобы ты был осторожнее с желаниями, помнишь? А ты сразу «поласкай себя, я озабоченный»! В следующий раз будешь думать, что несёшь..."
 
-# game/scripts/story_01/smoke.rpy:473
+# game/scripts/story_01/smoke.rpy:483
 translate crowdin ev_060_0515c06b:
 
     # Max 17 "Блин! А сейчас покурить не хочешь?"
     Max 17 "Блин! А сейчас покурить не хочешь?"
 
-# game/scripts/story_01/smoke.rpy:474
+# game/scripts/story_01/smoke.rpy:484
 translate crowdin ev_060_1964aedc:
 
     # Alice 14 "Ты что, сдурел?! Мама дома. Я может со злости и напакостила вчера, но пока мне больше не хочется."
     Alice 14 "Ты что, сдурел?! Мама дома. Я может со злости и напакостила вчера, но пока мне больше не хочется."
 
-# game/scripts/story_01/smoke.rpy:475
+# game/scripts/story_01/smoke.rpy:485
 translate crowdin ev_060_a960b890:
 
     # Max 16 "Жалко. Но я тебя понял."
     Max 16 "Жалко. Но я тебя понял."
 
-# game/scripts/story_01/smoke.rpy:476
+# game/scripts/story_01/smoke.rpy:486
 translate crowdin ev_060_dcfce15d:
 
     # Alice 04 "О чудо, Макс что-то понял! Ладно, я просто веселюсь, не обижайся. Хорошего дня, Макс."
     Alice 04 "О чудо, Макс что-то понял! Ладно, я просто веселюсь, не обижайся. Хорошего дня, Макс."
 
-# game/scripts/story_01/smoke.rpy:480
+# game/scripts/story_01/smoke.rpy:490
 translate crowdin ev_060_5409a3b8:
 
     # tMax 13 "Мне обязательно нужно будет поймать эту вертихвостку за курением травки! И вот тогда она у меня как миленькая будет без трусиков жить..."
     tMax 13 "Мне обязательно нужно будет поймать эту вертихвостку за курением травки! И вот тогда она у меня как миленькая будет без трусиков жить..."
 
-# game/scripts/story_01/smoke.rpy:481
+# game/scripts/story_01/smoke.rpy:491
 translate crowdin ev_060_2daeee0f:
 
     # tMax 04 "И за этим я с удовольствием понаблюдаю. Да и помимо этого мне есть, что попросить. Главное поймать и уговорить..."
     tMax 04 "И за этим я с удовольствием понаблюдаю. Да и помимо этого мне есть, что попросить. Главное поймать и уговорить..."
 
-# game/scripts/story_01/smoke.rpy:495
+# game/scripts/story_01/smoke.rpy:505
 translate crowdin ev_061_e661db54:
 
     # Alice 16 "Ты, Макс, сволочь! Вообще никак не попытался меня оправдать, а ведь обещал!"
     Alice 16 "Ты, Макс, сволочь! Вообще никак не попытался меня оправдать, а ведь обещал!"
 
-# game/scripts/story_01/smoke.rpy:496
+# game/scripts/story_01/smoke.rpy:506
 translate crowdin ev_061_bb6a9d54:
 
     # Max 12 "Я пытался! Прямо перед тем, как ты пришла. Просто мама не поверила..."
     Max 12 "Я пытался! Прямо перед тем, как ты пришла. Просто мама не поверила..."
 
-# game/scripts/story_01/smoke.rpy:497
+# game/scripts/story_01/smoke.rpy:507
 translate crowdin ev_061_a094bd04:
 
     # Alice 15 "Иди ты нафиг! Помощничек, блин, нашёлся!"
     Alice 15 "Иди ты нафиг! Помощничек, блин, нашёлся!"
 
-# game/scripts/story_01/smoke.rpy:498
+# game/scripts/story_01/smoke.rpy:508
 translate crowdin ev_061_55ac670d:
 
     # Max 16 "Извини. Так уж получилось."
     Max 16 "Извини. Так уж получилось."
 
-# game/scripts/story_01/smoke.rpy:509
+# game/scripts/story_01/smoke.rpy:519
 translate crowdin ev_136_f02b4d6c:
 
     # tMax 12 "Все эти договорённости с Алисой, конечно, прикольны... Только вот за курение этой дряни, на самом деле, стоило бы её отшлёпать хорошенько."
     tMax 12 "Все эти договорённости с Алисой, конечно, прикольны... Только вот за курение этой дряни, на самом деле, стоило бы её отшлёпать хорошенько."
 
-# game/scripts/story_01/smoke.rpy:512
+# game/scripts/story_01/smoke.rpy:522
 translate crowdin ev_136_6feb3d6d:
 
     # tMax 13 "Рано или поздно Алиса попадётся и тогда, до кучи, от мамы может прилететь и мне, как покрывавшему сестру. Но сдавать Алису я пока не хочу..."
     tMax 13 "Рано или поздно Алиса попадётся и тогда, до кучи, от мамы может прилететь и мне, как покрывавшему сестру. Но сдавать Алису я пока не хочу..."
 
-# game/scripts/story_01/smoke.rpy:514
+# game/scripts/story_01/smoke.rpy:524
 translate crowdin ev_136_880f02be:
 
     # tMax 13 "Рано или поздно Алиса снова попадётся и тогда, до кучи, от мамы может прилететь и мне, как покрывавшему сестру. Но сдавать Алису я больше не хочу, по крайней мере пока..."
     tMax 13 "Рано или поздно Алиса снова попадётся и тогда, до кучи, от мамы может прилететь и мне, как покрывавшему сестру. Но сдавать Алису я больше не хочу, по крайней мере пока..."
 
-# game/scripts/story_01/smoke.rpy:516
+# game/scripts/story_01/smoke.rpy:526
 translate crowdin ev_136_163d7bff:
 
     # tMax 16 "Сам бы с удовольствием её отшлёпал, но это опасно для моего здоровья. Да что там для здоровья, для жизни!"
     tMax 16 "Сам бы с удовольствием её отшлёпал, но это опасно для моего здоровья. Да что там для здоровья, для жизни!"
 
-# game/scripts/story_01/smoke.rpy:517
+# game/scripts/story_01/smoke.rpy:527
 translate crowdin ev_136_21339ee2:
 
     # tMax 11 "Поэтому лучше подождать с этим и посмотреть, как будут развиваться наши с Алисой взаимоотношения. Как знать, вдруг всё станет настолько хорошо, что и отшлёпать её будет абсолютно неопасно..."
@@ -824,83 +830,87 @@ translate crowdin ev_136_21339ee2:
 
 translate crowdin strings:
 
-    # game/scripts/story_01/smoke.rpy:11
+    # game/scripts/story_01/smoke.rpy:14
     old "Алиса, ты опять за старое?!"
     new "Алиса, ты опять за старое?!"
 
-    # game/scripts/story_01/smoke.rpy:27
+    # game/scripts/story_01/smoke.rpy:30
     old "Если заплатишь, буду молчать..."
     new "Если заплатишь, буду молчать..."
 
-    # game/scripts/story_01/smoke.rpy:31
+    # game/scripts/story_01/smoke.rpy:34
     old "Мало. Я хочу $20!"
     new "Мало. Я хочу $20!"
 
-    # game/scripts/story_01/smoke.rpy:31
+    # game/scripts/story_01/smoke.rpy:34
     old "Хорошо. Согласен на $10."
     new "Хорошо. Согласен на $10."
 
-    # game/scripts/story_01/smoke.rpy:84
+    # game/scripts/story_01/smoke.rpy:87
     old "Как же это нехорошо, Алиса!"
     new "Как же это нехорошо, Алиса!"
 
-    # game/scripts/story_01/smoke.rpy:84
+    # game/scripts/story_01/smoke.rpy:87
+    old "{i}попробовать шлёпнуть её по попке{/i}"
+    new "{i}попробовать шлёпнуть её по попке{/i}"
+
+    # game/scripts/story_01/smoke.rpy:87
     old "{i}шлёпнуть её по попке{/i}"
     new "{i}шлёпнуть её по попке{/i}"
 
-    # game/scripts/story_01/smoke.rpy:109
+    # game/scripts/story_01/smoke.rpy:118
     old "С тебя $20 и я молчу..."
     new "С тебя $20 и я молчу..."
 
-    # game/scripts/story_01/smoke.rpy:109
+    # game/scripts/story_01/smoke.rpy:118
     old "Если перестанешь носить лифчик, буду молчать..."
     new "Если перестанешь носить лифчик, буду молчать..."
 
-    # game/scripts/story_01/smoke.rpy:109
+    # game/scripts/story_01/smoke.rpy:118
     old "Продолжай спать без лифчика и я буду молчать..."
     new "Продолжай спать без лифчика и я буду молчать..."
 
-    # game/scripts/story_01/smoke.rpy:109
+    # game/scripts/story_01/smoke.rpy:118
     old "Если будешь курить топлес, буду молчать..."
     new "Если будешь курить топлес, буду молчать..."
 
-    # game/scripts/story_01/smoke.rpy:109
+    # game/scripts/story_01/smoke.rpy:118
     old "Продолжай курить топлес и я буду молчать..."
     new "Продолжай курить топлес и я буду молчать..."
 
-    # game/scripts/story_01/smoke.rpy:109
+    # game/scripts/story_01/smoke.rpy:118
     old "Если перестанешь носить трусики, буду молчать..."
     new "Если перестанешь носить трусики, буду молчать..."
 
-    # game/scripts/story_01/smoke.rpy:109
+    # game/scripts/story_01/smoke.rpy:118
     old "Продолжай ходить без трусиков и я буду молчать..."
     new "Продолжай ходить без трусиков и я буду молчать..."
 
-    # game/scripts/story_01/smoke.rpy:361
+    # game/scripts/story_01/smoke.rpy:371
     old "{i}подкрасться{/i}"
     new "{i}подкрасться{/i}"
 
-    # game/scripts/story_01/smoke.rpy:384
+    # game/scripts/story_01/smoke.rpy:394
     old "Я же должен знать, что ты тут в рот берёшь..."
     new "Я же должен знать, что ты тут в рот берёшь..."
 
-    # game/scripts/story_01/smoke.rpy:384
+    # game/scripts/story_01/smoke.rpy:394
     old "Нельзя просто взять и пройти мимо такой попки!"
     new "Нельзя просто взять и пройти мимо такой попки!"
 
-    # game/scripts/story_01/smoke.rpy:399
+    # game/scripts/story_01/smoke.rpy:409
     old "Я {b}БОЛЬШОЙ{/b} извращенец! Показать?"
     new "Я {b}БОЛЬШОЙ{/b} извращенец! Показать?"
 
-    # game/scripts/story_01/smoke.rpy:399
+    # game/scripts/story_01/smoke.rpy:409
     old "Нельзя прикрываться! Так нечестно!"
     new "Нельзя прикрываться! Так нечестно!"
 
-    # game/scripts/story_01/smoke.rpy:452
+    # game/scripts/story_01/smoke.rpy:462
     old "Дай потрогать твои сиськи..."
     new "Дай потрогать твои сиськи..."
 
-    # game/scripts/story_01/smoke.rpy:452
+    # game/scripts/story_01/smoke.rpy:462
     old "Хочу посмотреть, как ты ласкаешь себя..."
     new "Хочу посмотреть, как ты ласкаешь себя..."
 

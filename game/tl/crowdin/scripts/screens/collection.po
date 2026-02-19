@@ -1,144 +1,120 @@
-﻿# TODO: Translation updated at 2025-08-12 11:03 #|#|# # game/scripts/screens/collection.rpy:713 #-#-# translate crowdin compile_puzzle_start_e29c0251:
+﻿# TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/screens/collection.rpy:751 #-#-# translate crowdin compile_puzzle_start_e29c0251:
 msgid "Данное изображение разбито на множество фрагментов."
 msgstr "Данное изображение разбито на множество фрагментов."
 
-# game/scripts/screens/collection.rpy:714 #-#-# translate crowdin compile_puzzle_start_70f9d915:
+# game/scripts/screens/collection.rpy:752 #-#-# translate crowdin compile_puzzle_start_70f9d915:
 msgid "Чтобы правильно его собрать, вам потребуется поворачивать эти фрагменты (при нажатии) и перемещать их (зажать и перетащить в другое место)."
 msgstr "Чтобы правильно его собрать, вам потребуется поворачивать эти фрагменты (при нажатии) и перемещать их (зажать и перетащить в другое место)."
 
-# game/scripts/screens/collection.rpy:746 #-#-# translate crowdin compile_puzzle_win_77c1ec18:
+# game/scripts/screens/collection.rpy:755 #-#-# translate crowdin compile_puzzle_start_600592cc:
+msgid "Если окантовка фрагмента красного цвета, то его нужно переместить и повернуть."
+msgstr "Если окантовка фрагмента красного цвета, то его нужно переместить и повернуть."
+
+# game/scripts/screens/collection.rpy:756 #-#-# translate crowdin compile_puzzle_start_96342d1d:
+msgid "Если окантовка фрагмента оранжевого цвета, то его нужно только переместить."
+msgstr "Если окантовка фрагмента оранжевого цвета, то его нужно только переместить."
+
+# game/scripts/screens/collection.rpy:757 #-#-# translate crowdin compile_puzzle_start_4522cd23:
+msgid "Если окантовка фрагмента голубого цвета, то его нужно только повернуть."
+msgstr "Если окантовка фрагмента голубого цвета, то его нужно только повернуть."
+
+# game/scripts/screens/collection.rpy:793 #-#-# translate crowdin compile_puzzle_win_77c1ec18:
 msgid "Головоломка решена!"
 msgstr "Головоломка решена!"
 
-# game/scripts/screens/collection.rpy:747 #-#-# translate crowdin compile_puzzle_win_7e7566c8:
+# game/scripts/screens/collection.rpy:794 #-#-# translate crowdin compile_puzzle_win_7e7566c8:
 msgid "Данное изображение можно в любой момент просмотреть в Галерее."
 msgstr "Данное изображение можно в любой момент просмотреть в Галерее."
 
-# §translate crowdin strings: #|#|# # game/scripts/screens/collection.rpy:27
-msgid "Переодевания"
-msgstr "Переодевания"
-
-# game/scripts/screens/collection.rpy:29
-msgid "Воспоминания"
-msgstr "Воспоминания"
-
-# game/scripts/screens/collection.rpy:31
-msgid "Сны"
-msgstr "Сны"
-
-# game/scripts/screens/collection.rpy:33
-msgid "Дополнительно"
-msgstr "Дополнительно"
-
-# game/scripts/screens/collection.rpy:35
-msgid "Вернуться"
-msgstr "Вернуться"
-
-# game/scripts/screens/collection.rpy:136
+# §translate crowdin strings: #|#|# # game/scripts/screens/collection.rpy:141
 msgid "Предыдущая"
 msgstr "Предыдущая"
 
-# game/scripts/screens/collection.rpy:139
-msgid "Неподозревающая"
-msgstr "Неподозревающая"
-
-# game/scripts/screens/collection.rpy:141
+# game/scripts/screens/collection.rpy:146
 msgid "Удивлённая"
 msgstr "Удивлённая"
 
-# game/scripts/screens/collection.rpy:143
+# game/scripts/screens/collection.rpy:148
 msgid "Сердитая"
 msgstr "Сердитая"
 
-# game/scripts/screens/collection.rpy:145
+# game/scripts/screens/collection.rpy:150
 msgid "Сильно стесняющаяся"
 msgstr "Сильно стесняющаяся"
 
-# game/scripts/screens/collection.rpy:147
+# game/scripts/screens/collection.rpy:152
 msgid "Стесняющаяся"
 msgstr "Стесняющаяся"
 
-# game/scripts/screens/collection.rpy:149
+# game/scripts/screens/collection.rpy:154
 msgid "!!! ОШИБКА !!!"
 msgstr "!!! ОШИБКА !!!"
 
-# game/scripts/screens/collection.rpy:168
+# game/scripts/screens/collection.rpy:173
 msgid "Следующая"
 msgstr "Следующая"
 
-# game/scripts/screens/collection.rpy:199
+# game/scripts/screens/collection.rpy:204
 msgid "Макс ещё не видел Алису такой!"
 msgstr "Макс ещё не видел Алису такой!"
 
-# game/scripts/screens/collection.rpy:201
+# game/scripts/screens/collection.rpy:206
 msgid "Макс ещё не видел маму такой!"
 msgstr "Макс ещё не видел маму такой!"
 
-# game/scripts/screens/collection.rpy:203
+# game/scripts/screens/collection.rpy:208
 msgid "Макс ещё не видел Лизу такой!"
 msgstr "Макс ещё не видел Лизу такой!"
 
-# game/scripts/screens/collection.rpy:205
+# game/scripts/screens/collection.rpy:210
 msgid "Макс ещё не видел Мию такой!"
 msgstr "Макс ещё не видел Мию такой!"
 
-# game/scripts/screens/collection.rpy:253
+# game/scripts/screens/collection.rpy:262
 msgid "Все персонажи"
 msgstr "Все персонажи"
 
-# game/scripts/screens/collection.rpy:326
-msgid "Этот сон ещё не открыт!"
-msgstr "Этот сон ещё не открыт!"
-
-# game/scripts/screens/collection.rpy:334
+# game/scripts/screens/collection.rpy:343
 msgid "Макс скоро увидит этот сон, нужно просто немного подождать..."
 msgstr "Макс скоро увидит этот сон, нужно просто немного подождать..."
 
-# game/scripts/screens/collection.rpy:342
-msgid "СПИСОК ТРЕБОВАНИЙ"
-msgstr "СПИСОК ТРЕБОВАНИЙ"
-
-# game/scripts/screens/collection.rpy:343
+# game/scripts/screens/collection.rpy:352
 msgid "СОН #[tooltip]"
 msgstr "СОН #[tooltip]"
 
-# game/scripts/screens/collection.rpy:359
+# game/scripts/screens/collection.rpy:368
 msgid "Выполнено [number] из [total]"
 msgstr "Выполнено [number] из [total]"
 
-# game/scripts/screens/collection.rpy:486
-msgid "Это событие ещё не открыто!"
-msgstr "Это событие ещё не открыто!"
-
-# game/scripts/screens/collection.rpy:516
+# game/scripts/screens/collection.rpy:532
 msgid "ГОЛОВОЛОМКА"
 msgstr "ГОЛОВОЛОМКА"
 
-# game/scripts/screens/collection.rpy:532
+# game/scripts/screens/collection.rpy:548
 msgid "Изображение, разбитое на фрагменты ([cols]x[rows])"
 msgstr "Изображение, разбитое на фрагменты ([cols]x[rows])"
 
-# game/scripts/screens/collection.rpy:537
+# game/scripts/screens/collection.rpy:553
 msgid "{i}Решать головоломку{/i}"
 msgstr "{i}Решать головоломку{/i}"
 
-# game/scripts/screens/collection.rpy:541
+# game/scripts/screens/collection.rpy:557
 msgid "{i}Просмотреть изображение{/i}"
 msgstr "{i}Просмотреть изображение{/i}"
 
-# game/scripts/screens/collection.rpy:570
-msgid "НАГРАДА"
-msgstr "НАГРАДА"
-
-# game/scripts/screens/collection.rpy:582
+# game/scripts/screens/collection.rpy:598
 msgid "Добавить в событие"
 msgstr "Добавить в событие"
 
-# game/scripts/screens/collection.rpy:636
+# game/scripts/screens/collection.rpy:655
 msgid "Собрать повторно"
 msgstr "Собрать повторно"
 
-# game/scripts/screens/collection.rpy:729
+# game/scripts/screens/collection.rpy:772
 msgid "Прогресс с головоломкой будет утерян.\nВы уверены, что хотите вернуться в Галерею?"
 msgstr "Прогресс с головоломкой будет утерян.\nВы уверены, что хотите вернуться в Галерею?"
+
+# game/scripts/screens/collection.rpy:950
+msgid "НАСТРОЙКИ"
+msgstr "НАСТРОЙКИ"
 

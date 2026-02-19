@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-12 11:03
+﻿# TODO: Translation updated at 2026-02-19 00:46
 
 # game/scripts/story_01/max_learning.rpy:8
 translate crowdin ev_029_47925c16:
@@ -6,103 +6,109 @@ translate crowdin ev_029_47925c16:
     # Max 00 "Пришло время почитать..." nointeract
     Max 00 "Пришло время почитать..." nointeract
 
-# game/scripts/story_01/max_learning.rpy:24
+# game/scripts/story_01/max_learning.rpy:25
 translate crowdin ev_029_manual_fd324daa:
 
     # Max 13 "Хм... куча непонятных слов. Кажется, нужно будет заново перечитать первые главы..."
     Max 13 "Хм... куча непонятных слов. Кажется, нужно будет заново перечитать первые главы..."
 
-# game/scripts/story_01/max_learning.rpy:27
+# game/scripts/story_01/max_learning.rpy:28
 translate crowdin ev_029_manual_41775a3a:
 
     # Max 12 "Так, ну с этим я уже разобрался, хорошо... А это что такое? Не ясно. Нужно будет всё осмыслить..."
     Max 12 "Так, ну с этим я уже разобрался, хорошо... А это что такое? Не ясно. Нужно будет всё осмыслить..."
 
-# game/scripts/story_01/max_learning.rpy:30
+# game/scripts/story_01/max_learning.rpy:31
 translate crowdin ev_029_manual_b8327ffa:
 
     # Max 11 "Ого, вот это здорово! Уже можно делать сайт? А, нет... Ещё не всё понятно... Ну, разберусь в другой раз."
     Max 11 "Ого, вот это здорово! Уже можно делать сайт? А, нет... Ещё не всё понятно... Ну, разберусь в другой раз."
 
-# game/scripts/story_01/max_learning.rpy:33
+# game/scripts/story_01/max_learning.rpy:34
 translate crowdin ev_029_manual_90d4232e:
 
     # Max 12 "Так, ну теперь картина вырисовывается. Осталось разобраться только с мелочами... Или это не мелочи?"
     Max 12 "Так, ну теперь картина вырисовывается. Осталось разобраться только с мелочами... Или это не мелочи?"
 
-# game/scripts/story_01/max_learning.rpy:36
+# game/scripts/story_01/max_learning.rpy:37
 translate crowdin ev_029_manual_7b71f292:
 
     # Max 01 "Всё, вот теперь точно всё понятно! Я уже могу сделать свой сайт и транслировать на него изображение! Но как получать за это деньги? А, нет, это тоже понятно!"
     Max 01 "Всё, вот теперь точно всё понятно! Я уже могу сделать свой сайт и транслировать на него изображение! Но как получать за это деньги? А, нет, это тоже понятно!"
 
-# game/scripts/story_01/max_learning.rpy:49
+# game/scripts/story_01/max_learning.rpy:52
 translate crowdin ev_029_sex_ed_994a9243:
 
     # Max 11 "Ага... У каждого есть свои особенности, а то я не знал! Вот, строение половых органов девочки-подростка, то что надо... Будем читать и разглядывать!"
     Max 11 "Ага... У каждого есть свои особенности, а то я не знал! Вот, строение половых органов девочки-подростка, то что надо... Будем читать и разглядывать!"
 
-# game/scripts/story_01/max_learning.rpy:53
+# game/scripts/story_01/max_learning.rpy:56
 translate crowdin ev_029_sex_ed_14d7ce4b:
 
     # Max 13 "Так, это не особо интересно... А вот сексуальное поведение подростков - это как раз про меня! Ещё про мои утренние стояки написали бы, было бы вообще супер..."
     Max 13 "Так, это не особо интересно... А вот сексуальное поведение подростков - это как раз про меня! Ещё про мои утренние стояки написали бы, было бы вообще супер..."
 
-# game/scripts/story_01/max_learning.rpy:56
+# game/scripts/story_01/max_learning.rpy:59
 translate crowdin ev_029_sex_ed_fc26c8c4:
 
     # Max 12 "Ого! Здесь даже есть краткий исторический очерк о сексуальном воспитании детей и подростков... Как только им голову не дурили за всё это время!"
     Max 12 "Ого! Здесь даже есть краткий исторический очерк о сексуальном воспитании детей и подростков... Как только им голову не дурили за всё это время!"
 
-# game/scripts/story_01/max_learning.rpy:59
+# game/scripts/story_01/max_learning.rpy:62
 translate crowdin ev_029_sex_ed_9fd6eafe:
 
     # Max 11 "Вот и последние главы... Как я понял, очень важны прикосновения. Причём, всегда! А реакция на них может о многом сказать..."
     Max 11 "Вот и последние главы... Как я понял, очень важны прикосновения. Причём, всегда! А реакция на них может о многом сказать..."
 
-# game/scripts/story_01/max_learning.rpy:64
+# game/scripts/story_01/max_learning.rpy:67
 translate crowdin ev_029_sex_ed_85dd3cb6:
 
     # Max 01 "Всё-таки хорошо, что я прочитал эту книгу, прежде чем стал учить сестрёнку премудростям взрослой жизни! Наверняка бы только зазря опозорился... Теперь, когда материал усвоен, можно дарить книжку Лизе."
     Max 01 "Всё-таки хорошо, что я прочитал эту книгу, прежде чем стал учить сестрёнку премудростям взрослой жизни! Наверняка бы только зазря опозорился... Теперь, когда материал усвоен, можно дарить книжку Лизе."
 
-# game/scripts/story_01/max_learning.rpy:68
+# game/scripts/story_01/max_learning.rpy:71
 translate crowdin ev_029_sex_ed_21b1eb2c:
 
     # Max 12 "Эх, всё-таки нужно было сперва прочитать эту книгу, а уже потом учить сестрёнку премудростям взрослой жизни. Только зазря опозорился! Теперь, можно лишь попробовать всё исправить. Если, конечно, получится..."
     Max 12 "Эх, всё-таки нужно было сперва прочитать эту книгу, а уже потом учить сестрёнку премудростям взрослой жизни. Только зазря опозорился! Теперь, можно лишь попробовать всё исправить. Если, конечно, получится..."
 
-# game/scripts/story_01/max_learning.rpy:88
+# game/scripts/story_01/max_learning.rpy:97
+translate crowdin ev_046_14fb5a6a:
+
+    # Max 01 "Хм... мне кажется такое можно и лёжа на кровати изучать, но лучше останусь за столом, а то ещё Лизу разбужу..."
+    Max 01 "Хм... мне кажется такое можно и лёжа на кровати изучать, но лучше останусь за столом, а то ещё Лизу разбужу..."
+
+# game/scripts/story_01/max_learning.rpy:99
 translate crowdin ev_046_23ca8fd9:
 
     # Max 01 "Хм... мне кажется такое можно и лёжа на кровати изучать. Надеюсь, меня не станет клонить в сон..."
     Max 01 "Хм... мне кажется такое можно и лёжа на кровати изучать. Надеюсь, меня не станет клонить в сон..."
 
-# game/scripts/story_01/max_learning.rpy:92
+# game/scripts/story_01/max_learning.rpy:103
 translate crowdin ev_046_66ef962f:
 
     # Max 11 "Хорошая штука эти онлайн-курсы. Можно научиться всему, не выходя из дома! Вот только и стоит это немало..."
     Max 11 "Хорошая штука эти онлайн-курсы. Можно научиться всему, не выходя из дома! Вот только и стоит это немало..."
 
-# game/scripts/story_01/max_learning.rpy:96
+# game/scripts/story_01/max_learning.rpy:107
 translate crowdin ev_046_81dac6d3:
 
     # Max 04 "Не сказать, что это сложное занятие, но знаний, а так же опыта в этом деле нужно много! И теперь я готов закреплять полученные знания на практике..."
     Max 04 "Не сказать, что это сложное занятие, но знаний, а так же опыта в этом деле нужно много! И теперь я готов закреплять полученные знания на практике..."
 
-# game/scripts/story_01/max_learning.rpy:103
+# game/scripts/story_01/max_learning.rpy:118
 translate crowdin ev_046_1c72ad2c:
 
     # tMax 01 "И раз уж с Алисы это началось, то на ней я и начну практиковаться. Надеюсь, руки она мне не выдернет, если я сделаю что-то не так..."
     tMax 01 "И раз уж с Алисы это началось, то на ней я и начну практиковаться. Надеюсь, руки она мне не выдернет, если я сделаю что-то не так..."
 
-# game/scripts/story_01/max_learning.rpy:114
+# game/scripts/story_01/max_learning.rpy:133
 translate crowdin ev_046_2c43168e:
 
     # tMax 01 "Мне как раз нужно убедить Алису в том, что показывать стриптиз через веб-камеру - не так уж и плохо. И даже может быть прибыльно, если она будет это делать с чувством..."
     tMax 01 "Мне как раз нужно убедить Алису в том, что показывать стриптиз через веб-камеру - не так уж и плохо. И даже может быть прибыльно, если она будет это делать с чувством..."
 
-# game/scripts/story_01/max_learning.rpy:117
+# game/scripts/story_01/max_learning.rpy:136
 translate crowdin ev_046_66ef962f_1:
 
     # Max 11 "Хорошая штука эти онлайн-курсы. Можно научиться всему, не выходя из дома! Вот только и стоит это немало..."
@@ -122,51 +128,51 @@ translate crowdin strings:
     old "Как-то не хочется. В другой раз..."
     new "Как-то не хочется. В другой раз..."
 
-    # game/scripts/story_01/max_learning.rpy:25
+    # game/scripts/story_01/max_learning.rpy:26
     old "Книга изучена на 20%"
     new "Книга изучена на 20%"
 
-    # game/scripts/story_01/max_learning.rpy:28
+    # game/scripts/story_01/max_learning.rpy:29
     old "Книга изучена на 40%"
     new "Книга изучена на 40%"
 
-    # game/scripts/story_01/max_learning.rpy:31
+    # game/scripts/story_01/max_learning.rpy:32
     old "Книга изучена на 60%"
     new "Книга изучена на 60%"
 
-    # game/scripts/story_01/max_learning.rpy:34
+    # game/scripts/story_01/max_learning.rpy:35
     old "Книга изучена на 80%"
     new "Книга изучена на 80%"
 
-    # game/scripts/story_01/max_learning.rpy:37
+    # game/scripts/story_01/max_learning.rpy:38
     old "Книга полностью изучена"
     new "Книга полностью изучена"
 
-    # game/scripts/story_01/max_learning.rpy:50
+    # game/scripts/story_01/max_learning.rpy:53
     old "Книга изучена на 25%"
     new "Книга изучена на 25%"
 
-    # game/scripts/story_01/max_learning.rpy:54
+    # game/scripts/story_01/max_learning.rpy:57
     old "Книга изучена на 50%"
     new "Книга изучена на 50%"
 
-    # game/scripts/story_01/max_learning.rpy:57
+    # game/scripts/story_01/max_learning.rpy:60
     old "Книга изучена на 75%"
     new "Книга изучена на 75%"
 
-    # game/scripts/story_01/max_learning.rpy:89
+    # game/scripts/story_01/max_learning.rpy:100
     old "Курс изучен на 33%"
     new "Курс изучен на 33%"
 
-    # game/scripts/story_01/max_learning.rpy:93
+    # game/scripts/story_01/max_learning.rpy:104
     old "Курс изучен на 66%"
     new "Курс изучен на 66%"
 
-    # game/scripts/story_01/max_learning.rpy:99
+    # game/scripts/story_01/max_learning.rpy:110
     old "Курс полностью изучен"
     new "Курс полностью изучен"
 
-    # game/scripts/story_01/max_learning.rpy:105
+    # game/scripts/story_01/max_learning.rpy:120
     old "Получен навык «Массаж»!"
     new "Получен навык «Массаж»!"
 

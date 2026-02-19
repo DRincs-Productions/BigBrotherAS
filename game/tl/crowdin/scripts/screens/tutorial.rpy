@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-12 11:03
+﻿# TODO: Translation updated at 2026-02-19 00:46
 
 translate crowdin strings:
 
@@ -182,191 +182,223 @@ translate crowdin strings:
     old "По пятницам Макс будет отчитываться Анне о своих успехах и если он что-то не успел сделать, то будет делать это принудительно в субботу."
     new "По пятницам Макс будет отчитываться Анне о своих успехах и если он что-то не успел сделать, то будет делать это принудительно в субботу."
 
-    # game/scripts/screens/tutorial.rpy:199
+    # game/scripts/screens/tutorial.rpy:187
+    old "Иконку галереи можно найти на вспомогательной панели игры. Она содержит в своём окне ряд некоторого дополнительного контента, который можно открыть во время прохождения игры."
+    new "Иконку галереи можно найти на вспомогательной панели игры. Она содержит в своём окне ряд некоторого дополнительного контента, который можно открыть во время прохождения игры."
+
+    # game/scripts/screens/tutorial.rpy:187
+    old "{b}Переодевания:{/b}\nЭта коллекция включает в себя ряд разных состояний персонажей и одежды на них. Не пытайтесь заполнить всю коллекцию за одно прохождение, она слишком обширная."
+    new "{b}Переодевания:{/b}\nЭта коллекция включает в себя ряд разных состояний персонажей и одежды на них. Не пытайтесь заполнить всю коллекцию за одно прохождение, она слишком обширная."
+
+    # game/scripts/screens/tutorial.rpy:187
+    old "То, в каких состояниях Макс сможет застать персонажей в течение дня и в каких вариациях одежды, закладывается во время его сна, поэтому создавайте сохранения перед сном, чтобы целенаправленно заполнять эту коллекцию."
+    new "То, в каких состояниях Макс сможет застать персонажей в течение дня и в каких вариациях одежды, закладывается во время его сна, поэтому создавайте сохранения перед сном, чтобы целенаправленно заполнять эту коллекцию."
+
+    # game/scripts/screens/tutorial.rpy:187
+    old "Коллекция переодеваний персонажей является накопительной и заполняется от всех ваших прохождений игры (если не терять файл «persistent», который находится вместе с вашими файлами сохранений игры)."
+    new "Коллекция переодеваний персонажей является накопительной и заполняется от всех ваших прохождений игры (если не терять файл «persistent», который находится вместе с вашими файлами сохранений игры)."
+
+    # game/scripts/screens/tutorial.rpy:187
+    old "{b}Воспоминания:{/b}\nЭта коллекция включает в себя самые важные события, через которые проходит Макс. Многие из этих событий имеют различные настройки, в зависимости от того, что вы делали в прохождении."
+    new "{b}Воспоминания:{/b}\nЭта коллекция включает в себя самые важные события, через которые проходит Макс. Многие из этих событий имеют различные настройки, в зависимости от того, что вы делали в прохождении."
+
+    # game/scripts/screens/tutorial.rpy:187
+    old "Коллекция воспоминаний является накопительной и заполняется от всех ваших прохождений игры (если не терять файл «persistent», который находится вместе с вашими файлами сохранений игры)."
+    new "Коллекция воспоминаний является накопительной и заполняется от всех ваших прохождений игры (если не терять файл «persistent», который находится вместе с вашими файлами сохранений игры)."
+
+    # game/scripts/screens/tutorial.rpy:187
+    old "{b}Сны:{/b}\nЭта коллекция включает в себя сны, которые видел Макс. Существуют как сюжетные сны, которые Макс обязательно видит во время прохождения игры, так и бонусные, которые можно упустить, если не выполнить все необходимые для них условия."
+    new "{b}Сны:{/b}\nЭта коллекция включает в себя сны, которые видел Макс. Существуют как сюжетные сны, которые Макс обязательно видит во время прохождения игры, так и бонусные, которые можно упустить, если не выполнить все необходимые для них условия."
+
+    # game/scripts/screens/tutorial.rpy:187
+    old "Эти условия можно увидеть, просто наведя курсор на сны в этой коллекции."
+    new "Эти условия можно увидеть, просто наведя курсор на сны в этой коллекции."
+
+    # game/scripts/screens/tutorial.rpy:187
+    old "Коллекция снов является накопительной и заполняется от всех ваших прохождений игры (если не терять файл «persistent», который находится вместе с вашими файлами сохранений игры)."
+    new "Коллекция снов является накопительной и заполняется от всех ваших прохождений игры (если не терять файл «persistent», который находится вместе с вашими файлами сохранений игры)."
+
+    # game/scripts/screens/tutorial.rpy:187
+    old "{b}Дополнительно:{/b}\nЭта коллекция включает в себя некоторые дополнительные материалы для событий игры, но для их открытия нужно будет либо решить головоломку, либо выполнить ряд условий."
+    new "{b}Дополнительно:{/b}\nЭта коллекция включает в себя некоторые дополнительные материалы для событий игры, но для их открытия нужно будет либо решить головоломку, либо выполнить ряд условий."
+
+    # game/scripts/screens/tutorial.rpy:187
+    old "Эта коллекция отличается от всех предыдущих тем, что не является накопительной и работает только в рамках текущего прохождения игры."
+    new "Эта коллекция отличается от всех предыдущих тем, что не является накопительной и работает только в рамках текущего прохождения игры."
+
+    # game/scripts/screens/tutorial.rpy:228
     old "Управление"
     new "Управление"
 
-    # game/scripts/screens/tutorial.rpy:205
+    # game/scripts/screens/tutorial.rpy:234
     old "Навыки"
     new "Навыки"
 
-    # game/scripts/screens/tutorial.rpy:208
+    # game/scripts/screens/tutorial.rpy:237
     old "Настроение"
     new "Настроение"
 
-    # game/scripts/screens/tutorial.rpy:212
+    # game/scripts/screens/tutorial.rpy:241
     old "Обязанности по дому"
     new "Обязанности по дому"
 
-    # game/scripts/screens/tutorial.rpy:224
+    # game/scripts/screens/tutorial.rpy:257
     old "Вы хотите ознакомиться с особенностями игры?"
     new "Вы хотите ознакомиться с особенностями игры?"
 
-    # game/scripts/screens/tutorial.rpy:227
+    # game/scripts/screens/tutorial.rpy:260
     old "Да, пройти обучение"
     new "Да, пройти обучение"
 
-    # game/scripts/screens/tutorial.rpy:228
+    # game/scripts/screens/tutorial.rpy:261
     old "Нет, я всё знаю"
     new "Нет, я всё знаю"
 
-    # game/scripts/screens/tutorial.rpy:351
+    # game/scripts/screens/tutorial.rpy:384
     old "Ур.1"
     new "Ур.1"
 
-    # game/scripts/screens/tutorial.rpy:366
+    # game/scripts/screens/tutorial.rpy:399
     old "Сейчас Лиза должна собираться в школу..."
     new "Сейчас Лиза должна собираться в школу..."
 
-    # game/scripts/screens/tutorial.rpy:369
+    # game/scripts/screens/tutorial.rpy:402
     old "{i}заглянуть в окно{/i}"
     new "{i}заглянуть в окно{/i}"
 
-    # game/scripts/screens/tutorial.rpy:369
+    # game/scripts/screens/tutorial.rpy:402
     old "Шанс"
     new "Шанс"
 
-    # game/scripts/screens/tutorial.rpy:374
+    # game/scripts/screens/tutorial.rpy:407
     old "опыт применения навыка"
     new "опыт применения навыка"
 
-    # game/scripts/screens/tutorial.rpy:380
+    # game/scripts/screens/tutorial.rpy:413
     old "Ой, Макс! Я не одета!!! Не мешай мне собираться в школу!"
     new "Ой, Макс! Я не одета!!! Не мешай мне собираться в школу!"
 
-    # game/scripts/screens/tutorial.rpy:384
+    # game/scripts/screens/tutorial.rpy:417
     old "Не стесняйся, без одежды ты очень красиво смотришься!"
     new "Не стесняйся, без одежды ты очень красиво смотришься!"
 
-    # game/scripts/screens/tutorial.rpy:388
+    # game/scripts/screens/tutorial.rpy:421
     old "Я наоборот, помочь хотел..."
     new "Я наоборот, помочь хотел..."
 
-    # game/scripts/screens/tutorial.rpy:396
+    # game/scripts/screens/tutorial.rpy:429
     old "настроение Лизы"
     new "настроение Лизы"
 
-    # game/scripts/screens/tutorial.rpy:462
+    # game/scripts/screens/tutorial.rpy:495
     old "Неужели тебе надоело бездельничать и ты пришёл мне помочь?"
     new "Неужели тебе надоело бездельничать и ты пришёл мне помочь?"
 
-    # game/scripts/screens/tutorial.rpy:465
+    # game/scripts/screens/tutorial.rpy:498
     old "Ага. Давай, я домою остальное..."
     new "Ага. Давай, я домою остальное..."
 
-    # game/scripts/screens/tutorial.rpy:466
+    # game/scripts/screens/tutorial.rpy:499
     old "Нет, просто хотел поглазеть..."
     new "Нет, просто хотел поглазеть..."
 
-    # game/scripts/screens/tutorial.rpy:470
+    # game/scripts/screens/tutorial.rpy:503
     old "Макс! Ты офигел, что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла!"
     new "Макс! Ты офигел, что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла!"
 
-    # game/scripts/screens/tutorial.rpy:473
+    # game/scripts/screens/tutorial.rpy:506
     old "Ты бы классно смотрелась на обложке журнала!"
     new "Ты бы классно смотрелась на обложке журнала!"
 
-    # game/scripts/screens/tutorial.rpy:477
+    # game/scripts/screens/tutorial.rpy:510
     old "настроение Алисы"
     new "настроение Алисы"
 
-    # game/scripts/screens/tutorial.rpy:613
+    # game/scripts/screens/tutorial.rpy:673
     old "Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
     new "Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
 
-    # game/scripts/screens/tutorial.rpy:802
+    # game/scripts/screens/tutorial.rpy:862
     old "Глава 1"
     new "Глава 1"
 
-    # game/scripts/screens/tutorial.rpy:820
+    # game/scripts/screens/tutorial.rpy:880
     old "В создании Главы 1 принимали участие..."
     new "В создании Главы 1 принимали участие..."
 
-    # game/scripts/screens/tutorial.rpy:828
+    # game/scripts/screens/tutorial.rpy:888
     old "3Д Дизайн:"
     new "3Д Дизайн:"
 
-    # game/scripts/screens/tutorial.rpy:836
+    # game/scripts/screens/tutorial.rpy:896
     old "Визуализация:"
     new "Визуализация:"
 
-    # game/scripts/screens/tutorial.rpy:844
+    # game/scripts/screens/tutorial.rpy:904
     old "Работа с изображениями:"
     new "Работа с изображениями:"
 
-    # game/scripts/screens/tutorial.rpy:850
+    # game/scripts/screens/tutorial.rpy:910
     old "Работа с текстом:"
     new "Работа с текстом:"
 
-    # game/scripts/screens/tutorial.rpy:856
+    # game/scripts/screens/tutorial.rpy:918
     old "Программирование:"
     new "Программирование:"
 
-    # game/scripts/screens/tutorial.rpy:860
+    # game/scripts/screens/tutorial.rpy:922
     old "Работа с языками:"
     new "Работа с языками:"
 
-    # game/scripts/screens/tutorial.rpy:866
+    # game/scripts/screens/tutorial.rpy:928
     old "Работа со звуком:"
     new "Работа со звуком:"
 
-    # game/scripts/screens/tutorial.rpy:872
+    # game/scripts/screens/tutorial.rpy:934
     old "Тестирование:"
     new "Тестирование:"
 
-    # game/scripts/screens/tutorial.rpy:886
+    # game/scripts/screens/tutorial.rpy:948
     old "Локализация языков..."
     new "Локализация языков..."
 
-    # game/scripts/screens/tutorial.rpy:894
+    # game/scripts/screens/tutorial.rpy:956
     old "Русский:"
     new "Русский:"
 
-    # game/scripts/screens/tutorial.rpy:902
+    # game/scripts/screens/tutorial.rpy:964
     old "Английский:"
     new "Английский:"
 
-    # game/scripts/screens/tutorial.rpy:912
+    # game/scripts/screens/tutorial.rpy:974
     old "Немецкий:"
     new "Немецкий:"
 
-    # game/scripts/screens/tutorial.rpy:918
+    # game/scripts/screens/tutorial.rpy:980
     old "Французский:"
     new "Французский:"
 
-    # game/scripts/screens/tutorial.rpy:922
+    # game/scripts/screens/tutorial.rpy:984
     old "Итальянский:"
     new "Итальянский:"
 
-    # game/scripts/screens/tutorial.rpy:926
+    # game/scripts/screens/tutorial.rpy:988
     old "Словенский:"
     new "Словенский:"
 
-    # game/scripts/screens/tutorial.rpy:930
+    # game/scripts/screens/tutorial.rpy:992
     old "Китайский:"
     new "Китайский:"
 
-    # game/scripts/screens/tutorial.rpy:936
+    # game/scripts/screens/tutorial.rpy:998
     old "Испанский:"
     new "Испанский:"
 
-    # game/scripts/screens/tutorial.rpy:945
+    # game/scripts/screens/tutorial.rpy:1007
     old "Огромнейшее спасибо всем, кто поддержал разработку Главы 1."
     new "Огромнейшее спасибо всем, кто поддержал разработку Главы 1."
 
-    # game/scripts/screens/tutorial.rpy:946
+    # game/scripts/screens/tutorial.rpy:1008
     old "Как финансово, так и путём поднятия всевозможных дискуссий."
     new "Как финансово, так и путём поднятия всевозможных дискуссий."
-
-    # game/scripts/screens/tutorial.rpy:949
-    old "MaxBishup, мы будем помнить тебя. И конечно же будем скучать по тебе, нашему дорогому зелёненькому инопланетянину."
-    new "MaxBishup, мы будем помнить тебя. И конечно же будем скучать по тебе, нашему дорогому зелёненькому инопланетянину."
-
-    # game/scripts/screens/tutorial.rpy:950
-    old "Ты был огромным фанатом «Большого брата» и как же мне жаль, что ты не примешь участие в разработке всех остальных глав игры."
-    new "Ты был огромным фанатом «Большого брата» и как же мне жаль, что ты не примешь участие в разработке всех остальных глав игры."
-
-    # game/scripts/screens/tutorial.rpy:951
-    old "Светлой памяти MaxBishup. Ты всегда будешь частью этой игры, мой друг..."
-    new "Светлой памяти MaxBishup. Ты всегда будешь частью этой игры, мой друг..."
 

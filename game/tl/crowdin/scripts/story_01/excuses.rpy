@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-12 11:03
+﻿# TODO: Translation updated at 2026-02-19 00:46
 
 # game/scripts/story_01/excuses.rpy:8
 translate crowdin tasty_open_alice_9d7c61dc:
@@ -1452,151 +1452,175 @@ translate crowdin ev_123_finally_00ef2ab5:
     # tMax 07 "Ага, я то заслужил, вот только Лиза вряд ли с этим согласится. Ох, сестрёнка, как же приятно с тобой целоваться..."
     tMax 07 "Ага, я то заслужил, вот только Лиза вряд ли с этим согласится. Ох, сестрёнка, как же приятно с тобой целоваться..."
 
-# game/scripts/story_01/excuses.rpy:745
+# game/scripts/story_01/excuses.rpy:747
+translate crowdin ev_123_finally_cb339d08:
+
+    # tMax 11 "После наших «учебных» поцелуев с Лизой хочется опробовать уже что-то куда большее..."
+    tMax 11 "После наших «учебных» поцелуев с Лизой хочется опробовать уже что-то куда большее..."
+
+# game/scripts/story_01/excuses.rpy:751
+translate crowdin ev_123_finally_09a9fb54:
+
+    # tMax 05 "А там недалеко и до того, чтобы стянуть с друг друга всю одежду и предаться всевозможным страстным развлечениям!"
+    tMax 05 "А там недалеко и до того, чтобы стянуть с друг друга всю одежду и предаться всевозможным страстным развлечениям!"
+
+# game/scripts/story_01/excuses.rpy:757
 translate crowdin ev_123_finally_c4d7a342:
 
     # Lisa 09 "Макс, прекращай! Я же не так хотела... И не трись больше у моей кровати по утрам!"
     Lisa 09 "Макс, прекращай! Я же не так хотела... И не трись больше у моей кровати по утрам!"
 
-# game/scripts/story_01/excuses.rpy:746
+# game/scripts/story_01/excuses.rpy:758
 translate crowdin ev_123_finally_1121eee0_1:
 
     # Max 11 "Это просто недоразумение и всё..."
     Max 11 "Это просто недоразумение и всё..."
 
-# game/scripts/story_01/excuses.rpy:747
+# game/scripts/story_01/excuses.rpy:759
 translate crowdin ev_123_finally_64f89ddc_1:
 
     # Lisa 01 "Ладно-ладно, можешь не продолжать, я тебе верю."
     Lisa 01 "Ладно-ладно, можешь не продолжать, я тебе верю."
 
-# game/scripts/story_01/excuses.rpy:749
+# game/scripts/story_01/excuses.rpy:761
 translate crowdin ev_123_finally_1da8c2db_1:
 
     # Max 01 "Вот и правильно." nointeract
     Max 01 "Вот и правильно." nointeract
 
-# game/scripts/story_01/excuses.rpy:765
+# game/scripts/story_01/excuses.rpy:777
 translate crowdin ev_123_finally_e9936521_1:
 
     # Lisa 10 "Знаешь, я передумала, а то как-то сомнительно! Вдруг, это всё-таки ты меня трогал..."
     Lisa 10 "Знаешь, я передумала, а то как-то сомнительно! Вдруг, это всё-таки ты меня трогал..."
 
-# game/scripts/story_01/excuses.rpy:766
+# game/scripts/story_01/excuses.rpy:778
 translate crowdin ev_123_finally_5340e813_1:
 
     # Max 13 "Ну, вот опять... Это просто недоразумение и всё."
     Max 13 "Ну, вот опять... Это просто недоразумение и всё."
 
-# game/scripts/story_01/excuses.rpy:767
+# game/scripts/story_01/excuses.rpy:779
 translate crowdin ev_123_finally_64f89ddc_2:
 
     # Lisa 01 "Ладно-ладно, можешь не продолжать, я тебе верю."
     Lisa 01 "Ладно-ладно, можешь не продолжать, я тебе верю."
 
-# game/scripts/story_01/excuses.rpy:769
+# game/scripts/story_01/excuses.rpy:781
 translate crowdin ev_123_finally_1da8c2db_2:
 
     # Max 01 "Вот и правильно." nointeract
     Max 01 "Вот и правильно." nointeract
 
-# game/scripts/story_01/excuses.rpy:778
+# game/scripts/story_01/excuses.rpy:790
 translate crowdin ev_123_finally_79925892_1:
 
     # Lisa 13 "Ого! Вот это здорово, Макс! Ты снова выбрал мои любимые шоколадки! Спасибо тебе большое!"
     Lisa 13 "Ого! Вот это здорово, Макс! Ты снова выбрал мои любимые шоколадки! Спасибо тебе большое!"
 
-# game/scripts/story_01/excuses.rpy:779
+# game/scripts/story_01/excuses.rpy:791
 translate crowdin ev_123_finally_5753064f_1:
 
     # Max 02 "Да пустяки... Мне нравится радовать свою младшую сестрёнку!"
     Max 02 "Да пустяки... Мне нравится радовать свою младшую сестрёнку!"
 
-# game/scripts/story_01/excuses.rpy:780
+# game/scripts/story_01/excuses.rpy:792
 translate crowdin ev_123_finally_f2a6cc53:
 
     # Lisa 03 "И раз это куда больше того, на что я надеялась, то и у своей кровати никого сидящего и глазеющего я не видела!"
     Lisa 03 "И раз это куда больше того, на что я надеялась, то и у своей кровати никого сидящего и глазеющего я не видела!"
 
-# game/scripts/story_01/excuses.rpy:781
+# game/scripts/story_01/excuses.rpy:793
 translate crowdin ev_123_finally_e13f047d_1:
 
     # Max 11 "Отлично! Я рад, что мы с этим разобрались..."
     Max 11 "Отлично! Я рад, что мы с этим разобрались..."
 
-# game/scripts/story_01/excuses.rpy:785
+# game/scripts/story_01/excuses.rpy:797
 translate crowdin ev_123_finally_9b80d49e_1:
 
     # Lisa 05 "Я хочу крепкие обнимашки! Иди ко мне..."
     Lisa 05 "Я хочу крепкие обнимашки! Иди ко мне..."
 
-# game/scripts/story_01/excuses.rpy:786
+# game/scripts/story_01/excuses.rpy:798
 translate crowdin ev_123_finally_ce5592f8_1:
 
     # tMax 04 "Вот это да! Лиза практически накинулась на меня с объятиями... Это так классно, когда она прижимается ко мне своей грудью!"
     tMax 04 "Вот это да! Лиза практически накинулась на меня с объятиями... Это так классно, когда она прижимается ко мне своей грудью!"
 
-# game/scripts/story_01/excuses.rpy:788
+# game/scripts/story_01/excuses.rpy:800
 translate crowdin ev_123_finally_ff2fbddf:
 
     # Lisa 04 "Знаешь, я думаю, ты достоин гораздо большего, чем просто обнимашки! Тебя ждёт поцелуй в щёчку!" nointeract
     Lisa 04 "Знаешь, я думаю, ты достоин гораздо большего, чем просто обнимашки! Тебя ждёт поцелуй в щёчку!" nointeract
 
-# game/scripts/story_01/excuses.rpy:792
+# game/scripts/story_01/excuses.rpy:804
 translate crowdin ev_123_finally_d5712cd0:
 
     # tMax 05 "Охх... Поцелуи от моей младшей сестрёнки - это так приятно! А если она ещё и своей грудью прижимается ко мне..."
     tMax 05 "Охх... Поцелуи от моей младшей сестрёнки - это так приятно! А если она ещё и своей грудью прижимается ко мне..."
 
-# game/scripts/story_01/excuses.rpy:796
+# game/scripts/story_01/excuses.rpy:808
 translate crowdin ev_123_finally_5ff0fe45_1:
 
     # Lisa 02 "Ну всё, хорошего понемногу... И не трись больше у моей кровати по утрам!"
     Lisa 02 "Ну всё, хорошего понемногу... И не трись больше у моей кровати по утрам!"
 
-# game/scripts/story_01/excuses.rpy:797
+# game/scripts/story_01/excuses.rpy:809
 translate crowdin ev_123_finally_1121eee0_2:
 
     # Max 11 "Это просто недоразумение и всё..."
     Max 11 "Это просто недоразумение и всё..."
 
-# game/scripts/story_01/excuses.rpy:798
+# game/scripts/story_01/excuses.rpy:810
 translate crowdin ev_123_finally_64f89ddc_3:
 
     # Lisa 01 "Ладно-ладно, можешь не продолжать, я тебе верю."
     Lisa 01 "Ладно-ладно, можешь не продолжать, я тебе верю."
 
-# game/scripts/story_01/excuses.rpy:800
+# game/scripts/story_01/excuses.rpy:812
 translate crowdin ev_123_finally_1da8c2db_3:
 
     # Max 01 "Вот и правильно." nointeract
     Max 01 "Вот и правильно." nointeract
 
-# game/scripts/story_01/excuses.rpy:811
+# game/scripts/story_01/excuses.rpy:823
 translate crowdin ev_123_finally_3782af98:
 
     # tMax 07 "Зачем в щёчку, когда мы уже целовались в губы и это куда интереснее и приятнее? Хотя, Лиза вряд ли с этим согласится..."
     tMax 07 "Зачем в щёчку, когда мы уже целовались в губы и это куда интереснее и приятнее? Хотя, Лиза вряд ли с этим согласится..."
 
-# game/scripts/story_01/excuses.rpy:815
+# game/scripts/story_01/excuses.rpy:829
+translate crowdin ev_123_finally_cb339d08_1:
+
+    # tMax 11 "После наших «учебных» поцелуев с Лизой хочется опробовать уже что-то куда большее..."
+    tMax 11 "После наших «учебных» поцелуев с Лизой хочется опробовать уже что-то куда большее..."
+
+# game/scripts/story_01/excuses.rpy:833
+translate crowdin ev_123_finally_09a9fb54_1:
+
+    # tMax 05 "А там недалеко и до того, чтобы стянуть с друг друга всю одежду и предаться всевозможным страстным развлечениям!"
+    tMax 05 "А там недалеко и до того, чтобы стянуть с друг друга всю одежду и предаться всевозможным страстным развлечениям!"
+
+# game/scripts/story_01/excuses.rpy:838
 translate crowdin ev_123_finally_7c544c73:
 
     # Lisa 11 "Макс, ну хватит! Я же не так хотела... И не трись больше у моей кровати по утрам!"
     Lisa 11 "Макс, ну хватит! Я же не так хотела... И не трись больше у моей кровати по утрам!"
 
-# game/scripts/story_01/excuses.rpy:816
+# game/scripts/story_01/excuses.rpy:839
 translate crowdin ev_123_finally_1121eee0_3:
 
     # Max 11 "Это просто недоразумение и всё..."
     Max 11 "Это просто недоразумение и всё..."
 
-# game/scripts/story_01/excuses.rpy:817
+# game/scripts/story_01/excuses.rpy:840
 translate crowdin ev_123_finally_64f89ddc_4:
 
     # Lisa 01 "Ладно-ладно, можешь не продолжать, я тебе верю."
     Lisa 01 "Ладно-ладно, можешь не продолжать, я тебе верю."
 
-# game/scripts/story_01/excuses.rpy:819
+# game/scripts/story_01/excuses.rpy:842
 translate crowdin ev_123_finally_1da8c2db_4:
 
     # Max 01 "Вот и правильно." nointeract
@@ -1648,19 +1672,11 @@ translate crowdin strings:
     old "{i}шоколад «Ritter Sport» (4 штуки){/i}"
     new "{i}шоколад «Ritter Sport» (4 штуки){/i}"
 
-    # game/scripts/story_01/excuses.rpy:700
-    old "Ещё как стоит! (принять поцелуй в щёку)"
-    new "Ещё как стоит! (принять поцелуй в щёку)"
-
-    # game/scripts/story_01/excuses.rpy:700
-    old "Ещё как стоит! (поцеловать её в губы)"
-    new "Ещё как стоит! (поцеловать её в губы)"
-
-    # game/scripts/story_01/excuses.rpy:787
+    # game/scripts/story_01/excuses.rpy:799
     old "{i}принять от неё поцелуй{/i}"
     new "{i}принять от неё поцелуй{/i}"
 
-    # game/scripts/story_01/excuses.rpy:787
+    # game/scripts/story_01/excuses.rpy:799
     old "{i}поцеловать её в губы{/i}"
     new "{i}поцеловать её в губы{/i}"
 

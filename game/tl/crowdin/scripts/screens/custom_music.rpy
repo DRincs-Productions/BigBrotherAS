@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-12 11:03
+﻿# TODO: Translation updated at 2026-02-19 00:46
 
 translate crowdin strings:
 
@@ -14,19 +14,19 @@ translate crowdin strings:
     old "Настройка музыки"
     new "Настройка музыки"
 
-    # game/scripts/screens/custom_music.rpy:111
+    # game/scripts/screens/custom_music.rpy:105
     old "Без музыки"
     new "Без музыки"
 
-    # game/scripts/screens/custom_music.rpy:118
+    # game/scripts/screens/custom_music.rpy:112
     old "В случайном порядке"
     new "В случайном порядке"
 
-    # game/scripts/screens/custom_music.rpy:125
+    # game/scripts/screens/custom_music.rpy:119
     old "Сбросить"
     new "Сбросить"
 
-    # game/scripts/screens/custom_music.rpy:175
+    # game/scripts/screens/custom_music.rpy:169
     old "Пересканировать папку музыки"
     new "Пересканировать папку музыки"
 

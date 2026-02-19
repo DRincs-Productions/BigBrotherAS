@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-12 11:03
+﻿# TODO: Translation updated at 2026-02-19 00:46
 
 translate crowdin strings:
 
@@ -25,4 +25,8 @@ translate crowdin strings:
     # game/scripts/story_01/search.rpy:2
     old "узнать о взломе паролей на компьютерах"
     new "узнать о взломе паролей на компьютерах"
+
+    # game/scripts/story_01/search.rpy:2
+    old "посмотреть стоимость купальников"
+    new "посмотреть стоимость купальников"
 

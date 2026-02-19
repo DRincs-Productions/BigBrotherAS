@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-12 11:03
+﻿# TODO: Translation updated at 2026-02-19 00:46
 
 translate crowdin strings:
 
@@ -262,9 +262,9 @@ translate crowdin strings:
     old "Отображать все задания"
     new "Отображать все задания"
 
-    # game/scripts/screens/screens.rpy:1307
-    old "Особый режим скрытия интерфейса"
-    new "Особый режим скрытия интерфейса"
+    # game/scripts/screens/screens.rpy:1314
+    old "Активировать чит-меню"
+    new "Активировать чит-меню"
 
     # game/scripts/screens/screens.rpy:1450
     old "История диалогов пуста."
@@ -426,7 +426,7 @@ translate crowdin strings:
     old "Пропускаю"
     new "Пропускаю"
 
-    # game/scripts/screens/screens.rpy:1986
+    # game/scripts/screens/screens.rpy:1989
     old "Меню"
     new "Меню"
 

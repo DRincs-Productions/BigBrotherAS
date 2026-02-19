@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-12 11:03
+﻿# TODO: Translation updated at 2026-02-19 00:46
 
 # game/scripts/engine/special.rpy:6
 translate crowdin after_load_aa0b946c:

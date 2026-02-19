@@ -1,28 +1,28 @@
-﻿# TODO: Translation updated at 2025-08-12 11:03
+﻿# TODO: Translation updated at 2026-02-19 00:46
 
 translate crowdin strings:
 
-    # game/scripts/engine/01_classes.rpy:329
+    # game/scripts/engine/01_classes.rpy:507
     old "Позирование"
     new "Позирование"
 
-    # game/scripts/engine/01_classes.rpy:329
+    # game/scripts/engine/01_classes.rpy:507
     old "Леденец"
     new "Леденец"
 
-    # game/scripts/engine/01_classes.rpy:329
+    # game/scripts/engine/01_classes.rpy:507
     old "Смена одежды"
     new "Смена одежды"
 
-    # game/scripts/engine/01_classes.rpy:329
+    # game/scripts/engine/01_classes.rpy:507
     old "Подразнить грудью"
     new "Подразнить грудью"
 
-    # game/scripts/engine/01_classes.rpy:329
+    # game/scripts/engine/01_classes.rpy:507
     old "Подразнить попкой"
     new "Подразнить попкой"
 
-    # game/scripts/engine/01_classes.rpy:329
+    # game/scripts/engine/01_classes.rpy:507
     old "Приватная \nтрансляция"
     new "Приватная \nтрансляция"
 

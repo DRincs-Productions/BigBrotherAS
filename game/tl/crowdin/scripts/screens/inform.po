@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-08-12 11:03 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/inform.rpy:28
+﻿# TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/inform.rpy:28
 msgid "Персонажи"
 msgstr "Персонажи"
 
@@ -6,139 +6,139 @@ msgstr "Персонажи"
 msgid "Предметы"
 msgstr "Предметы"
 
-# game/scripts/screens/inform.rpy:120
+# game/scripts/screens/inform.rpy:131
 msgid "НАСТРОЕНИЕ"
 msgstr "НАСТРОЕНИЕ"
 
-# game/scripts/screens/inform.rpy:127
+# game/scripts/screens/inform.rpy:138
 msgid "До достижения: "
 msgstr "До достижения: "
 
-# game/scripts/screens/inform.rpy:133
+# game/scripts/screens/inform.rpy:144
 msgid "Текущее положение: "
 msgstr "Текущее положение: "
 
-# game/scripts/screens/inform.rpy:139
+# game/scripts/screens/inform.rpy:150
 msgid "До достижения: +"
 msgstr "До достижения: +"
 
-# game/scripts/screens/inform.rpy:144
+# game/scripts/screens/inform.rpy:156
 msgid "ВЗАИМООТНОШЕНИЯ"
 msgstr "ВЗАИМООТНОШЕНИЯ"
 
-# game/scripts/screens/inform.rpy:149
+# game/scripts/screens/inform.rpy:161
 msgid "С Максом"
 msgstr "С Максом"
 
-# game/scripts/screens/inform.rpy:169
+# game/scripts/screens/inform.rpy:181
 msgid "ДОГОВОРЁННОСТИ"
 msgstr "ДОГОВОРЁННОСТИ"
 
-# game/scripts/screens/inform.rpy:172
+# game/scripts/screens/inform.rpy:184
 msgid "Будет спать топлес"
 msgstr "Будет спать топлес"
 
-# game/scripts/screens/inform.rpy:174
+# game/scripts/screens/inform.rpy:186
 msgid "Не использовалась"
 msgstr "Не использовалась"
 
-# game/scripts/screens/inform.rpy:176
+# game/scripts/screens/inform.rpy:188
 msgid "Исполняется"
 msgstr "Исполняется"
 
-# game/scripts/screens/inform.rpy:178
+# game/scripts/screens/inform.rpy:190
 msgid "Будет исполняться"
 msgstr "Будет исполняться"
 
-# game/scripts/screens/inform.rpy:180
+# game/scripts/screens/inform.rpy:192
 msgid "Не исполняется"
 msgstr "Не исполняется"
 
-# game/scripts/screens/inform.rpy:182
+# game/scripts/screens/inform.rpy:194
 msgid "Будет курить топлес"
 msgstr "Будет курить топлес"
 
-# game/scripts/screens/inform.rpy:193
+# game/scripts/screens/inform.rpy:205
 msgid "Будет без трусиков"
 msgstr "Будет без трусиков"
 
-# game/scripts/screens/inform.rpy:216
+# game/scripts/screens/inform.rpy:229
 msgid "ПАРАМЕТРЫ"
 msgstr "ПАРАМЕТРЫ"
 
-# game/scripts/screens/inform.rpy:219
+# game/scripts/screens/inform.rpy:232
 msgid "Чистота"
 msgstr "Чистота"
 
-# game/scripts/screens/inform.rpy:224
+# game/scripts/screens/inform.rpy:236
 msgid "Загрязнённость "
 msgstr "Загрязнённость "
 
-# game/scripts/screens/inform.rpy:228
+# game/scripts/screens/inform.rpy:240
 msgid "ДОМАШНИЕ ОБЯЗАННОСТИ"
 msgstr "ДОМАШНИЕ ОБЯЗАННОСТИ"
 
-# game/scripts/screens/inform.rpy:231
+# game/scripts/screens/inform.rpy:243
 msgid "Чистка пола"
 msgstr "Чистка пола"
 
-# game/scripts/screens/inform.rpy:233
+# game/scripts/screens/inform.rpy:245
 msgid "Выполнено"
 msgstr "Выполнено"
 
-# game/scripts/screens/inform.rpy:237
+# game/scripts/screens/inform.rpy:249
 msgid "Не выполнено"
 msgstr "Не выполнено"
 
-# game/scripts/screens/inform.rpy:241
+# game/scripts/screens/inform.rpy:253
 msgid "Чистка бассейна"
 msgstr "Чистка бассейна"
 
-# game/scripts/screens/inform.rpy:251
+# game/scripts/screens/inform.rpy:263
 msgid "Стрижка газона"
 msgstr "Стрижка газона"
 
-# game/scripts/screens/inform.rpy:261
+# game/scripts/screens/inform.rpy:273
 msgid "Покупка продуктов"
 msgstr "Покупка продуктов"
 
-# game/scripts/screens/inform.rpy:272
+# game/scripts/screens/inform.rpy:284
 msgid "НАВЫКИ"
 msgstr "НАВЫКИ"
 
-# game/scripts/screens/inform.rpy:278
+# game/scripts/screens/inform.rpy:290
 msgid "Ур."
 msgstr "Ур."
 
-# game/scripts/screens/inform.rpy:281
+# game/scripts/screens/inform.rpy:294
 msgid "Опыт применения навыка"
 msgstr "Опыт применения навыка"
 
-# game/scripts/screens/inform.rpy:481
+# game/scripts/screens/inform.rpy:500
 msgid "ВИДЫ ОДЕЖДЫ"
 msgstr "ВИДЫ ОДЕЖДЫ"
 
-# game/scripts/screens/inform.rpy:614
+# game/scripts/screens/inform.rpy:633
 msgid "В данный момент в инвентаре ничего нет"
 msgstr "В данный момент в инвентаре ничего нет"
 
-# game/scripts/screens/inform.rpy:617
+# game/scripts/screens/inform.rpy:636
 msgid "Ни один предмет не выбран"
 msgstr "Ни один предмет не выбран"
 
-# game/scripts/screens/inform.rpy:625
+# game/scripts/screens/inform.rpy:644
 msgid "Не прочитана"
 msgstr "Не прочитана"
 
-# game/scripts/screens/inform.rpy:627
+# game/scripts/screens/inform.rpy:646
 msgid "Полностью изучена"
 msgstr "Полностью изучена"
 
-# game/scripts/screens/inform.rpy:629
+# game/scripts/screens/inform.rpy:648
 msgid "Изучена на [percent]%"
 msgstr "Изучена на [percent]%"
 
-# game/scripts/screens/inform.rpy:631
+# game/scripts/screens/inform.rpy:650
 msgid "Осталось [item.rest]/[item.count]"
 msgstr "Осталось [item.rest]/[item.count]"
 

@@ -1,8 +1,8 @@
-﻿# TODO: Translation updated at 2025-08-12 11:03
+﻿# TODO: Translation updated at 2026-02-19 00:46
 
 translate crowdin strings:
 
     # game/scripts/options.rpy:15
-    old "Big Brother: Another story"
-    new "Big Brother: Another story"
+    old "Big Brother: Another Story"
+    new "Big Brother: Another Story"
 

@@ -1,36 +1,60 @@
-﻿# TODO: Translation updated at 2025-08-12 11:03 #|#|# # §translate crowdin strings: #|#|# # game/scripts/mini-games/hack.rpy:92
+﻿# TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/mini-games/hack.rpy:113
 msgid "Инструкция по взлому пароля"
 msgstr "Инструкция по взлому пароля"
 
-# game/scripts/mini-games/hack.rpy:122
+# game/scripts/mini-games/hack.rpy:120
+msgid "Решить автоматически"
+msgstr "Решить автоматически"
+
+# game/scripts/mini-games/hack.rpy:151
 msgid "Убрать последний символ"
 msgstr "Убрать последний символ"
 
-# game/scripts/mini-games/hack.rpy:128
+# game/scripts/mini-games/hack.rpy:157
 msgid "Проверить последовательность символов"
 msgstr "Проверить последовательность символов"
 
-# game/scripts/mini-games/hack.rpy:134
+# game/scripts/mini-games/hack.rpy:163
 msgid "Ввести пароль"
 msgstr "Ввести пароль"
 
-# game/scripts/mini-games/hack.rpy:170
+# game/scripts/mini-games/hack.rpy:198
 msgid "Упорядочить"
 msgstr "Упорядочить"
 
-# game/scripts/mini-games/hack.rpy:198
+# game/scripts/mini-games/hack.rpy:226
 msgid "Пароль, который вы хотите взломать, состоит из [hack.len] символов. Вам нужно вводить различные символы и проверять, верна ли их последовательность."
 msgstr "Пароль, который вы хотите взломать, состоит из [hack.len] символов. Вам нужно вводить различные символы и проверять, верна ли их последовательность."
 
-# game/scripts/mini-games/hack.rpy:199
+# game/scripts/mini-games/hack.rpy:227
 msgid "Справа отображается история того, какие последовательности символов вы вводили для проверки, а так же два числа."
 msgstr "Справа отображается история того, какие последовательности символов вы вводили для проверки, а так же два числа."
 
-# game/scripts/mini-games/hack.rpy:200
+# game/scripts/mini-games/hack.rpy:228
 msgid "Оранжевое число показывает, какое количество из введённых символов присутствует в данном пароле."
 msgstr "Оранжевое число показывает, какое количество из введённых символов присутствует в данном пароле."
 
-# game/scripts/mini-games/hack.rpy:201
+# game/scripts/mini-games/hack.rpy:229
 msgid "Зелёное число показывает, сколько из этих символов находится на своём месте в данном пароле."
 msgstr "Зелёное число показывает, сколько из этих символов находится на своём месте в данном пароле."
+
+# game/scripts/mini-games/hack.rpy:232
+msgid "Если символы зелёного цвета, то они есть в пароле и находятся на своём месте."
+msgstr "Если символы зелёного цвета, то они есть в пароле и находятся на своём месте."
+
+# game/scripts/mini-games/hack.rpy:233
+msgid "Если символы оранжевого цвета, то они есть в пароле, но находятся не на своём месте."
+msgstr "Если символы оранжевого цвета, то они есть в пароле, но находятся не на своём месте."
+
+# game/scripts/mini-games/hack.rpy:234
+msgid "Если символы жёлтого цвета, то они есть в пароле, но их должно быть больше."
+msgstr "Если символы жёлтого цвета, то они есть в пароле, но их должно быть больше."
+
+# game/scripts/mini-games/hack.rpy:235
+msgid "Если символы голубого цвета, то они есть в пароле, но их должно быть меньше."
+msgstr "Если символы голубого цвета, то они есть в пароле, но их должно быть меньше."
+
+# game/scripts/mini-games/hack.rpy:236
+msgid "Если символы красного цвета, то их нет в пароле."
+msgstr "Если символы красного цвета, то их нет в пароле."
 
