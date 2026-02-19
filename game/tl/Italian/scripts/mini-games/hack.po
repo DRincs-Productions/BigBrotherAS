@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 09:38\n"
+"PO-Revision-Date: 2026-02-19 15:39\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/mini-games/hack.rpy:113
 msgid "Инструкция по взлому пароля"
@@ -18,7 +18,7 @@ msgstr "Istruzioni per il cracking della password"
 
 # game/scripts/mini-games/hack.rpy:120
 msgid "Решить автоматически"
-msgstr ""
+msgstr "Risolvere automaticamente"
 
 # game/scripts/mini-games/hack.rpy:151
 msgid "Убрать последний символ"
@@ -54,21 +54,21 @@ msgstr "Il numero verde indica quanti di questi caratteri sono al loro posto in 
 
 # game/scripts/mini-games/hack.rpy:232
 msgid "Если символы зелёного цвета, то они есть в пароле и находятся на своём месте."
-msgstr ""
+msgstr "Se i simboli sono di colore verde, significa che sono presenti nella password e si trovano al posto giusto."
 
 # game/scripts/mini-games/hack.rpy:233
 msgid "Если символы оранжевого цвета, то они есть в пароле, но находятся не на своём месте."
-msgstr ""
+msgstr "Se i simboli sono di colore arancione, significa che sono presenti nella password, ma si trovano nella posizione sbagliata."
 
 # game/scripts/mini-games/hack.rpy:234
 msgid "Если символы жёлтого цвета, то они есть в пароле, но их должно быть больше."
-msgstr ""
+msgstr "Se i simboli sono di colore giallo, significa che sono presenti nella password, ma dovrebbero essercene di più."
 
 # game/scripts/mini-games/hack.rpy:235
 msgid "Если символы голубого цвета, то они есть в пароле, но их должно быть меньше."
-msgstr ""
+msgstr "Se i simboli sono di colore azzurro, significa che sono presenti nella password, ma dovrebbero essercene di meno."
 
 # game/scripts/mini-games/hack.rpy:236
 msgid "Если символы красного цвета, то их нет в пароле."
-msgstr ""
+msgstr "Se i simboli sono di colore rosso, significa che non sono presenti nella password."
 
