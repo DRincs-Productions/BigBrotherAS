@@ -10,151 +10,127 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-07-29 08:38\n"
+"PO-Revision-Date: 2026-02-19 09:36\n"
 
-# TODO: Translation updated at 2025-07-27 23:15 #|#|# # game/scripts/screens/collection.rpy:718 #-#-# translate crowdin compile_puzzle_start_e29c0251:
+# TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/screens/collection.rpy:751 #-#-# translate crowdin compile_puzzle_start_e29c0251:
 msgid "Данное изображение разбито на множество фрагментов."
 msgstr "Αυτή η εικόνα είναι σπασμένη σε πολλά θραύσματα."
 
-# game/scripts/screens/collection.rpy:719 #-#-# translate crowdin compile_puzzle_start_70f9d915:
+# game/scripts/screens/collection.rpy:752 #-#-# translate crowdin compile_puzzle_start_70f9d915:
 msgid "Чтобы правильно его собрать, вам потребуется поворачивать эти фрагменты (при нажатии) и перемещать их (зажать и перетащить в другое место)."
 msgstr "Για να το συναρμολογήσετε σωστά, θα πρέπει να περιστρέψετε αυτά τα κομμάτια (κάνοντας κλικ) και να τα μετακινήσετε (τσιμπώντας και σύροντάς τα σε άλλη θέση)."
 
-# game/scripts/screens/collection.rpy:751 #-#-# translate crowdin compile_puzzle_win_77c1ec18:
+# game/scripts/screens/collection.rpy:755 #-#-# translate crowdin compile_puzzle_start_600592cc:
+msgid "Если окантовка фрагмента красного цвета, то его нужно переместить и повернуть."
+msgstr ""
+
+# game/scripts/screens/collection.rpy:756 #-#-# translate crowdin compile_puzzle_start_96342d1d:
+msgid "Если окантовка фрагмента оранжевого цвета, то его нужно только переместить."
+msgstr ""
+
+# game/scripts/screens/collection.rpy:757 #-#-# translate crowdin compile_puzzle_start_4522cd23:
+msgid "Если окантовка фрагмента голубого цвета, то его нужно только повернуть."
+msgstr ""
+
+# game/scripts/screens/collection.rpy:793 #-#-# translate crowdin compile_puzzle_win_77c1ec18:
 msgid "Головоломка решена!"
 msgstr "Ο γρίφος λύθηκε!"
 
-# game/scripts/screens/collection.rpy:752 #-#-# translate crowdin compile_puzzle_win_7e7566c8:
+# game/scripts/screens/collection.rpy:794 #-#-# translate crowdin compile_puzzle_win_7e7566c8:
 msgid "Данное изображение можно в любой момент просмотреть в Галерее."
 msgstr "Αυτή η εικόνα μπορεί να προβληθεί στη Γκαλερί ανά πάσα στιγμή."
 
-# §translate crowdin strings: #|#|# # game/scripts/screens/collection.rpy:27
-msgid "Переодевания"
-msgstr ""
-
-# game/scripts/screens/collection.rpy:29
-msgid "Воспоминания"
-msgstr ""
-
-# game/scripts/screens/collection.rpy:31
-msgid "Сны"
-msgstr ""
-
-# game/scripts/screens/collection.rpy:33
-msgid "Дополнительно"
-msgstr "Επιπλέον"
-
-# game/scripts/screens/collection.rpy:35
-msgid "Вернуться"
-msgstr ""
-
-# game/scripts/screens/collection.rpy:136
+# §translate crowdin strings: #|#|# # game/scripts/screens/collection.rpy:141
 msgid "Предыдущая"
 msgstr ""
 
-# game/scripts/screens/collection.rpy:139
-msgid "Неподозревающая"
-msgstr ""
-
-# game/scripts/screens/collection.rpy:141
+# game/scripts/screens/collection.rpy:146
 msgid "Удивлённая"
 msgstr ""
 
-# game/scripts/screens/collection.rpy:143
+# game/scripts/screens/collection.rpy:148
 msgid "Сердитая"
 msgstr ""
 
-# game/scripts/screens/collection.rpy:145
+# game/scripts/screens/collection.rpy:150
 msgid "Сильно стесняющаяся"
 msgstr ""
 
-# game/scripts/screens/collection.rpy:147
+# game/scripts/screens/collection.rpy:152
 msgid "Стесняющаяся"
 msgstr ""
 
-# game/scripts/screens/collection.rpy:149
+# game/scripts/screens/collection.rpy:154
 msgid "!!! ОШИБКА !!!"
 msgstr ""
 
-# game/scripts/screens/collection.rpy:168
+# game/scripts/screens/collection.rpy:173
 msgid "Следующая"
 msgstr ""
 
-# game/scripts/screens/collection.rpy:199
+# game/scripts/screens/collection.rpy:204
 msgid "Макс ещё не видел Алису такой!"
 msgstr ""
 
-# game/scripts/screens/collection.rpy:201
+# game/scripts/screens/collection.rpy:206
 msgid "Макс ещё не видел маму такой!"
 msgstr ""
 
-# game/scripts/screens/collection.rpy:203
+# game/scripts/screens/collection.rpy:208
 msgid "Макс ещё не видел Лизу такой!"
 msgstr ""
 
-# game/scripts/screens/collection.rpy:205
+# game/scripts/screens/collection.rpy:210
 msgid "Макс ещё не видел Мию такой!"
 msgstr ""
 
-# game/scripts/screens/collection.rpy:253
+# game/scripts/screens/collection.rpy:262
 msgid "Все персонажи"
 msgstr ""
 
-# game/scripts/screens/collection.rpy:324
-msgid "Этот сон ещё не открыт!"
-msgstr ""
-
-# game/scripts/screens/collection.rpy:332
+# game/scripts/screens/collection.rpy:343
 msgid "Макс скоро увидит этот сон, нужно просто немного подождать..."
 msgstr ""
 
-# game/scripts/screens/collection.rpy:340
-msgid "СПИСОК ТРЕБОВАНИЙ"
-msgstr "ΚΑΤΆΛΟΓΟΣ ΑΠΑΙΤΉΣΕΩΝ"
-
-# game/scripts/screens/collection.rpy:341
+# game/scripts/screens/collection.rpy:352
 msgid "СОН #[tooltip]"
 msgstr ""
 
-# game/scripts/screens/collection.rpy:357
+# game/scripts/screens/collection.rpy:368
 msgid "Выполнено [number] из [total]"
 msgstr "Εκτελέστηκε [αριθμός] από [σύνολο]"
 
-# game/scripts/screens/collection.rpy:483
-msgid "Это событие ещё не открыто!"
-msgstr "Αυτή η εκδήλωση δεν έχει ανοίξει ακόμα!"
-
-# game/scripts/screens/collection.rpy:515
+# game/scripts/screens/collection.rpy:532
 msgid "ГОЛОВОЛОМКА"
 msgstr "TALKING"
 
-# game/scripts/screens/collection.rpy:531
+# game/scripts/screens/collection.rpy:548
 msgid "Изображение, разбитое на фрагменты ([cols]x[rows])"
 msgstr "Εικόνα διαιρεμένη σε φέτες ([cols]x[rows])"
 
-# game/scripts/screens/collection.rpy:536
+# game/scripts/screens/collection.rpy:553
 msgid "{i}Решать головоломку{/i}"
 msgstr "{i}Λύστε τον γρίφο{/i}"
 
-# game/scripts/screens/collection.rpy:540
+# game/scripts/screens/collection.rpy:557
 msgid "{i}Просмотреть изображение{/i}"
 msgstr "{i}Προβολή εικόνας{/i}"
 
-# game/scripts/screens/collection.rpy:569
-msgid "НАГРАДА"
-msgstr "ΒΡΑΒΕΙΟ"
-
-# game/scripts/screens/collection.rpy:581
+# game/scripts/screens/collection.rpy:598
 msgid "Добавить в событие"
 msgstr "Προσθήκη στην εκδήλωση"
 
-# game/scripts/screens/collection.rpy:641
+# game/scripts/screens/collection.rpy:655
 msgid "Собрать повторно"
 msgstr ""
 
-# game/scripts/screens/collection.rpy:734
+# game/scripts/screens/collection.rpy:772
 msgid "Прогресс с головоломкой будет утерян.\n"
 "Вы уверены, что хотите вернуться в Галерею?"
 msgstr "Η πρόοδος στο παζλ θα χαθεί.\n"
 "Είστε σίγουροι ότι θέλετε να επιστρέψετε στη γκαλερί;"
+
+# game/scripts/screens/collection.rpy:950
+msgid "НАСТРОЙКИ"
+msgstr "ΡΥΘΜΙΣΕΙΣ"
 
