@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 17:09\n"
+"PO-Revision-Date: 2026-02-19 18:24\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/fantasy.rpy:8 #-#-# translate crowdin ev_099_42c5624b:
 msgid "[_tMax_s_01_] Ну, что... Самое время немного погонять лысого. Кто же из девочек сможет мне с этим помочь? [nointeract]"
@@ -534,19 +534,19 @@ msgstr "[_Max_s_10_] Ah, mamma! Ancora più veloce... Mmm... S-ì-ì, così... C
 
 # game/scripts/story_01/fantasy.rpy:549 #-#-# translate crowdin ev_099_mia_in_pool_ec04b3ac:
 msgid "[_Mia_s_06_] Макс, у нас остаётся совсем немного времени, прежде чем я отвезу тебя домой... Не пора ли уже вылазить из бассейна?"
-msgstr ""
+msgstr "[_Mia_s_06_] Max, ci resta pochissimo tempo prima che ti riporti a casa... Non è ora di uscire dalla piscina?"
 
 # game/scripts/story_01/fantasy.rpy:550 #-#-# translate crowdin ev_099_mia_in_pool_57116736:
 msgid "[_Max_s_11_] Жаль, но похоже и вправду пора... Дамы вперёд!"
-msgstr ""
+msgstr "[_Max_s_11_] Peccato, ma sembra proprio che sia arrivata l'ora... Prego, prima le signore!"
 
 # game/scripts/story_01/fantasy.rpy:552 #-#-# translate crowdin ev_099_mia_in_pool_8d39094f:
 msgid "[_Mia_s_04_] Знаешь, мне бы не помешала твоя помощь. Я такая... мокренькая... Могу соскользнуть ещё куда-нибудь не туда. А вот если ты будешь сзади... [nointeract]"
-msgstr ""
+msgstr "[_Mia_s_04_] Sai, mi farebbe comodo il tuo aiuto. Sono così... Tutta bagnata... Potrei scivolare in qualche posto sbagliato. Se invece tu stessi dietro di me... [nointeract]"
 
 # game/scripts/story_01/fantasy.rpy:558 #-#-# translate crowdin ev_099_mia_in_pool_b76d401c:
 msgid "[_Mia_s_05_] Ухх... Сколько прыти, Макс! Так приятно отдаться в твои горячие руки. Похоже, пока мы стояли, я успела замёрзнуть!"
-msgstr ""
+msgstr "[_Mia_s_05_] Uh... Che foga, Max! È così piacevole abbandonarsi tra le tue mani calde. A quanto pare, mentre stavamo qui fermi, ho fatto in tempo a sentire freddo!"
 
 # game/scripts/story_01/fantasy.rpy:559 #-#-# translate crowdin ev_099_mia_in_pool_bd23488e:
 msgid "[_Max_s_03_] Сейчас вам станет жарко..."
