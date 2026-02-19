@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-03-18 15:49\n"
+"PO-Revision-Date: 2026-02-19 09:32\n"
 
-# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/skils.rpy:16
+# TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/skils.rpy:16
 msgid "скрытность"
 msgstr "furtivité"
 
@@ -40,47 +40,47 @@ msgstr "expérience sexuelle"
 msgid "настроение"
 msgstr "humeur"
 
-# game/scripts/engine/skils.rpy:201
+# game/scripts/engine/skils.rpy:211
 msgid "Я остался незамеченным!"
 msgstr "Je suis passé inaperçu !"
 
-# game/scripts/engine/skils.rpy:201
+# game/scripts/engine/skils.rpy:211
 msgid "Убеждение удалось!"
 msgstr "Persuasion réussie !"
 
-# game/scripts/engine/skils.rpy:201
+# game/scripts/engine/skils.rpy:211
 msgid "Паук найден!"
 msgstr "L'araignée a été retrouvée !"
 
-# game/scripts/engine/skils.rpy:201
+# game/scripts/engine/skils.rpy:211
 msgid "Ей понравился массаж!"
 msgstr "Elle a aimé le massage !"
 
-# game/scripts/engine/skils.rpy:211
+# game/scripts/engine/skils.rpy:221
 msgid "Я чуть не попался!"
 msgstr "J'ai failli me faire prendre !"
 
-# game/scripts/engine/skils.rpy:211
+# game/scripts/engine/skils.rpy:221
 msgid "Мне не стоит это делать!"
 msgstr "Je ne devrais pas faire ça !"
 
-# game/scripts/engine/skils.rpy:211
+# game/scripts/engine/skils.rpy:221
 msgid "Вот чёрт, я попался!"
 msgstr "Oh, merde, je suis foutu !"
 
-# game/scripts/engine/skils.rpy:211
+# game/scripts/engine/skils.rpy:221
 msgid "Убеждение не удалось!"
 msgstr "La persuasion a échoué !"
 
-# game/scripts/engine/skils.rpy:211
+# game/scripts/engine/skils.rpy:221
 msgid "Безрезультатно!"
 msgstr "En vain !"
 
-# game/scripts/engine/skils.rpy:211
+# game/scripts/engine/skils.rpy:221
 msgid "Ей не понравился массаж!"
 msgstr "Elle n'a pas aimé le massage !"
 
-# game/scripts/engine/skils.rpy:221
+# game/scripts/engine/skils.rpy:231
 msgid "Выполнены ещё не все условия..."
 msgstr "Toutes les conditions ne sont pas encore remplies..."
 
