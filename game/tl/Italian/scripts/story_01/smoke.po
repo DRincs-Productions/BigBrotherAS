@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 09:37\n"
+"PO-Revision-Date: 2026-02-19 15:39\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/smoke.rpy:11 #-#-# translate crowdin ev_025_4be20cd4:
 msgid "[_tMax_s_11_] Хм... Может, пойти посмотреть, не сполз ли там случаем с Алисы купальник во дворе? Мало ли..."
-msgstr ""
+msgstr "[_tMax_s_11_] Hm... Chissà, forse dovrei andare a vedere se per caso ad Alice non sia scivolato giù il costume lì in cortile... Non si sa mai..."
 
 # game/scripts/story_01/smoke.rpy:15 #-#-# translate crowdin ev_025_7cf4d55a:
 msgid "[_tMax_s_13_] Что это? Ну-ка, ну-ка... Вот чёрт! Алиса снова взялась курить травку! Это очень нехорошо... [nointeract]"
@@ -586,7 +586,7 @@ msgstr "Non va bene, Alice!"
 
 # game/scripts/story_01/smoke.rpy:87
 msgid "{i}попробовать шлёпнуть её по попке{/i}"
-msgstr ""
+msgstr "{i}Provare a darle una pacca sul sedere{/i}"
 
 # game/scripts/story_01/smoke.rpy:87
 msgid "{i}шлёпнуть её по попке{/i}"
