@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-08-11 15:33\n"
+"PO-Revision-Date: 2026-02-19 09:34\n"
 
-# TODO: Translation updated at 2025-08-11 18:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/tutorial.rpy:30
+# TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/tutorial.rpy:30
 msgid "Об игре"
 msgstr ""
 
@@ -201,191 +201,227 @@ msgstr "Además, no olvides que después de cada tarea terminada, Max necesita d
 msgid "По пятницам Макс будет отчитываться Анне о своих успехах и если он что-то не успел сделать, то будет делать это принудительно в субботу."
 msgstr "Los viernes, Max informará a Ann de sus progresos y, si no ha hecho algo a tiempo, lo hará a la fuerza el sábado."
 
-# game/scripts/screens/tutorial.rpy:199
-msgid "Управление"
-msgstr "Gestión"
-
-# game/scripts/screens/tutorial.rpy:205
-msgid "Навыки"
-msgstr "Habilidades"
-
-# game/scripts/screens/tutorial.rpy:208
-msgid "Настроение"
-msgstr "Humor"
-
-# game/scripts/screens/tutorial.rpy:212
-msgid "Обязанности по дому"
-msgstr "Tareas domésticas"
-
-# game/scripts/screens/tutorial.rpy:224
-msgid "Вы хотите ознакомиться с особенностями игры?"
+# game/scripts/screens/tutorial.rpy:187
+msgid "Иконку галереи можно найти на вспомогательной панели игры. Она содержит в своём окне ряд некоторого дополнительного контента, который можно открыть во время прохождения игры."
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:227
-msgid "Да, пройти обучение"
+# game/scripts/screens/tutorial.rpy:187
+msgid "{b}Переодевания:{/b}\n"
+"Эта коллекция включает в себя ряд разных состояний персонажей и одежды на них. Не пытайтесь заполнить всю коллекцию за одно прохождение, она слишком обширная."
+msgstr ""
+
+# game/scripts/screens/tutorial.rpy:187
+msgid "То, в каких состояниях Макс сможет застать персонажей в течение дня и в каких вариациях одежды, закладывается во время его сна, поэтому создавайте сохранения перед сном, чтобы целенаправленно заполнять эту коллекцию."
+msgstr ""
+
+# game/scripts/screens/tutorial.rpy:187
+msgid "Коллекция переодеваний персонажей является накопительной и заполняется от всех ваших прохождений игры (если не терять файл «persistent», который находится вместе с вашими файлами сохранений игры)."
+msgstr ""
+
+# game/scripts/screens/tutorial.rpy:187
+msgid "{b}Воспоминания:{/b}\n"
+"Эта коллекция включает в себя самые важные события, через которые проходит Макс. Многие из этих событий имеют различные настройки, в зависимости от того, что вы делали в прохождении."
+msgstr ""
+
+# game/scripts/screens/tutorial.rpy:187
+msgid "Коллекция воспоминаний является накопительной и заполняется от всех ваших прохождений игры (если не терять файл «persistent», который находится вместе с вашими файлами сохранений игры)."
+msgstr ""
+
+# game/scripts/screens/tutorial.rpy:187
+msgid "{b}Сны:{/b}\n"
+"Эта коллекция включает в себя сны, которые видел Макс. Существуют как сюжетные сны, которые Макс обязательно видит во время прохождения игры, так и бонусные, которые можно упустить, если не выполнить все необходимые для них условия."
+msgstr ""
+
+# game/scripts/screens/tutorial.rpy:187
+msgid "Эти условия можно увидеть, просто наведя курсор на сны в этой коллекции."
+msgstr ""
+
+# game/scripts/screens/tutorial.rpy:187
+msgid "Коллекция снов является накопительной и заполняется от всех ваших прохождений игры (если не терять файл «persistent», который находится вместе с вашими файлами сохранений игры)."
+msgstr ""
+
+# game/scripts/screens/tutorial.rpy:187
+msgid "{b}Дополнительно:{/b}\n"
+"Эта коллекция включает в себя некоторые дополнительные материалы для событий игры, но для их открытия нужно будет либо решить головоломку, либо выполнить ряд условий."
+msgstr ""
+
+# game/scripts/screens/tutorial.rpy:187
+msgid "Эта коллекция отличается от всех предыдущих тем, что не является накопительной и работает только в рамках текущего прохождения игры."
 msgstr ""
 
 # game/scripts/screens/tutorial.rpy:228
+msgid "Управление"
+msgstr "Gestión"
+
+# game/scripts/screens/tutorial.rpy:234
+msgid "Навыки"
+msgstr "Habilidades"
+
+# game/scripts/screens/tutorial.rpy:237
+msgid "Настроение"
+msgstr "Humor"
+
+# game/scripts/screens/tutorial.rpy:241
+msgid "Обязанности по дому"
+msgstr "Tareas domésticas"
+
+# game/scripts/screens/tutorial.rpy:257
+msgid "Вы хотите ознакомиться с особенностями игры?"
+msgstr ""
+
+# game/scripts/screens/tutorial.rpy:260
+msgid "Да, пройти обучение"
+msgstr ""
+
+# game/scripts/screens/tutorial.rpy:261
 msgid "Нет, я всё знаю"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:351
+# game/scripts/screens/tutorial.rpy:384
 msgid "Ур.1"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:366
+# game/scripts/screens/tutorial.rpy:399
 msgid "Сейчас Лиза должна собираться в школу..."
 msgstr "Ahora Lisa tiene que prepararse para la escuela..."
 
-# game/scripts/screens/tutorial.rpy:369
+# game/scripts/screens/tutorial.rpy:402
 msgid "{i}заглянуть в окно{/i}"
 msgstr "{i}asómate a la ventana"
 
-# game/scripts/screens/tutorial.rpy:369
+# game/scripts/screens/tutorial.rpy:402
 msgid "Шанс"
 msgstr "Probabilidad"
 
-# game/scripts/screens/tutorial.rpy:374
+# game/scripts/screens/tutorial.rpy:407
 msgid "опыт применения навыка"
 msgstr "experiencia en la aplicación de una habilidad"
 
-# game/scripts/screens/tutorial.rpy:380
+# game/scripts/screens/tutorial.rpy:413
 msgid "Ой, Макс! Я не одета!!! Не мешай мне собираться в школу!"
 msgstr "¡Oh, Max! ¡No estoy vestida! ¡No me impidas prepararme para la escuela!"
 
-# game/scripts/screens/tutorial.rpy:384
+# game/scripts/screens/tutorial.rpy:417
 msgid "Не стесняйся, без одежды ты очень красиво смотришься!"
 msgstr "No seas tímida, ¡estás muy guapa sin ropa!"
 
-# game/scripts/screens/tutorial.rpy:388
+# game/scripts/screens/tutorial.rpy:421
 msgid "Я наоборот, помочь хотел..."
 msgstr "Al contrario, quería ayudar..."
 
-# game/scripts/screens/tutorial.rpy:396
+# game/scripts/screens/tutorial.rpy:429
 msgid "настроение Лизы"
 msgstr "el estado de ánimo de Lisa"
 
-# game/scripts/screens/tutorial.rpy:462
+# game/scripts/screens/tutorial.rpy:495
 msgid "Неужели тебе надоело бездельничать и ты пришёл мне помочь?"
 msgstr "¿Te cansaste de no hacer nada y viniste a ayudarme?"
 
-# game/scripts/screens/tutorial.rpy:465
+# game/scripts/screens/tutorial.rpy:498
 msgid "Ага. Давай, я домою остальное..."
 msgstr "Sí. Déjame limpiar el resto..."
 
-# game/scripts/screens/tutorial.rpy:466
+# game/scripts/screens/tutorial.rpy:499
 msgid "Нет, просто хотел поглазеть..."
 msgstr "No, sólo quería comprobarlo..."
 
-# game/scripts/screens/tutorial.rpy:470
+# game/scripts/screens/tutorial.rpy:503
 msgid "Макс! Ты офигел, что ли?! Совсем страх потерял? Ну-ка быстро свалил отсюда, пока я тебя дверью не пришибла!"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:473
+# game/scripts/screens/tutorial.rpy:506
 msgid "Ты бы классно смотрелась на обложке журнала!"
 msgstr "¡Quedarías genial en la portada de una revista!"
 
-# game/scripts/screens/tutorial.rpy:477
+# game/scripts/screens/tutorial.rpy:510
 msgid "настроение Алисы"
 msgstr "el estado de ánimo de Alice"
 
-# game/scripts/screens/tutorial.rpy:613
+# game/scripts/screens/tutorial.rpy:673
 msgid "Здесь вы найдёте информацию о том, что и как устроено в этой игре..."
 msgstr "Aquí encontrarás información sobre qué y cómo se configura el juego..."
 
-# game/scripts/screens/tutorial.rpy:802
+# game/scripts/screens/tutorial.rpy:862
 msgid "Глава 1"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:820
+# game/scripts/screens/tutorial.rpy:880
 msgid "В создании Главы 1 принимали участие..."
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:828
+# game/scripts/screens/tutorial.rpy:888
 msgid "3Д Дизайн:"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:836
+# game/scripts/screens/tutorial.rpy:896
 msgid "Визуализация:"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:844
+# game/scripts/screens/tutorial.rpy:904
 msgid "Работа с изображениями:"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:850
+# game/scripts/screens/tutorial.rpy:910
 msgid "Работа с текстом:"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:856
+# game/scripts/screens/tutorial.rpy:918
 msgid "Программирование:"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:860
+# game/scripts/screens/tutorial.rpy:922
 msgid "Работа с языками:"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:866
+# game/scripts/screens/tutorial.rpy:928
 msgid "Работа со звуком:"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:872
+# game/scripts/screens/tutorial.rpy:934
 msgid "Тестирование:"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:886
+# game/scripts/screens/tutorial.rpy:948
 msgid "Локализация языков..."
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:894
+# game/scripts/screens/tutorial.rpy:956
 msgid "Русский:"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:902
+# game/scripts/screens/tutorial.rpy:964
 msgid "Английский:"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:912
+# game/scripts/screens/tutorial.rpy:974
 msgid "Немецкий:"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:918
+# game/scripts/screens/tutorial.rpy:980
 msgid "Французский:"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:922
+# game/scripts/screens/tutorial.rpy:984
 msgid "Итальянский:"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:926
+# game/scripts/screens/tutorial.rpy:988
 msgid "Словенский:"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:930
+# game/scripts/screens/tutorial.rpy:992
 msgid "Китайский:"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:936
+# game/scripts/screens/tutorial.rpy:998
 msgid "Испанский:"
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:945
+# game/scripts/screens/tutorial.rpy:1007
 msgid "Огромнейшее спасибо всем, кто поддержал разработку Главы 1."
 msgstr ""
 
-# game/scripts/screens/tutorial.rpy:946
+# game/scripts/screens/tutorial.rpy:1008
 msgid "Как финансово, так и путём поднятия всевозможных дискуссий."
-msgstr ""
-
-# game/scripts/screens/tutorial.rpy:949
-msgid "MaxBishup, мы будем помнить тебя. И конечно же будем скучать по тебе, нашему дорогому зелёненькому инопланетянину."
-msgstr ""
-
-# game/scripts/screens/tutorial.rpy:950
-msgid "Ты был огромным фанатом «Большого брата» и как же мне жаль, что ты не примешь участие в разработке всех остальных глав игры."
-msgstr ""
-
-# game/scripts/screens/tutorial.rpy:951
-msgid "Светлой памяти MaxBishup. Ты всегда будешь частью этой игры, мой друг..."
 msgstr ""
 
