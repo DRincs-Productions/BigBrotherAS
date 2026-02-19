@@ -10,33 +10,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-03-15 14:02\n"
+"PO-Revision-Date: 2026-02-19 09:36\n"
 
-# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/02_func.rpy:433
+# TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/02_func.rpy:480
 msgid "Скрытность"
 msgstr "Furtività"
 
-# game/scripts/engine/02_func.rpy:434
+# game/scripts/engine/02_func.rpy:481
 msgid "Убеждение"
 msgstr "Persuasione"
 
-# game/scripts/engine/02_func.rpy:435
+# game/scripts/engine/02_func.rpy:482
 msgid "Массаж"
 msgstr "Massaggio"
 
-# game/scripts/engine/02_func.rpy:438
+# game/scripts/engine/02_func.rpy:490
 msgid "Настроение {char_name}"
 msgstr "Umore {char_name}"
 
-# game/scripts/engine/02_func.rpy:438
+# game/scripts/engine/02_func.rpy:490
 msgid "мамы"
 msgstr "mamme"
 
-# game/scripts/engine/02_func.rpy:855
+# game/scripts/engine/02_func.rpy:1004
 msgid "Галерея снов обновлена!"
 msgstr "La galleria dei sogni è stata aggiornata!"
 
-# game/scripts/engine/02_func.rpy:869
+# game/scripts/engine/02_func.rpy:1019
 msgid "Галерея дополнений обновлена!"
 msgstr "La galleria dei componenti aggiuntivi è stata aggiornata!"
 
