@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 09:37\n"
+"PO-Revision-Date: 2026-02-19 15:39\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/max_learning.rpy:8 #-#-# translate crowdin ev_029_47925c16:
 msgid "[_Max_s_00_] Пришло время почитать... [nointeract]"
@@ -62,7 +62,7 @@ msgstr "[_Max_s_12_] Avrei dovuto leggere prima questo libro e poi insegnare a m
 
 # game/scripts/story_01/max_learning.rpy:97 #-#-# translate crowdin ev_046_14fb5a6a:
 msgid "[_Max_s_01_] Хм... мне кажется такое можно и лёжа на кровати изучать, но лучше останусь за столом, а то ещё Лизу разбужу..."
-msgstr ""
+msgstr "[_Max_s_01_] Mmm... Mi sembra che si possa studiare anche stando sdraiati sul letto, ma è meglio che rimanga seduto alla scrivania, altrimenti sveglierò Lisa..."
 
 # game/scripts/story_01/max_learning.rpy:99 #-#-# translate crowdin ev_046_23ca8fd9:
 msgid "[_Max_s_01_] Хм... мне кажется такое можно и лёжа на кровати изучать. Надеюсь, меня не станет клонить в сон..."
