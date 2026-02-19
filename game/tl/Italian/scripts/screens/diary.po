@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-03-15 14:04\n"
+"PO-Revision-Date: 2026-02-19 09:37\n"
 
-# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/diary.rpy:24
+# TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/diary.rpy:24
 msgid "Задания"
 msgstr "Missioni"
 
@@ -20,47 +20,59 @@ msgstr "Missioni"
 msgid "Заметки"
 msgstr "Note"
 
-# game/scripts/screens/diary.rpy:54
+# game/scripts/screens/diary.rpy:60
 msgid "ТЕКУЩИЕ"
 msgstr "ATTUALE"
 
-# game/scripts/screens/diary.rpy:62
+# game/scripts/screens/diary.rpy:67
 msgid "ВЫПОЛНЕННЫЕ"
 msgstr "COMPLETATO"
 
-# game/scripts/screens/diary.rpy:76
+# game/scripts/screens/diary.rpy:75
+msgid "ПРОВАЛЕННЫЕ"
+msgstr ""
+
+# game/scripts/screens/diary.rpy:88
 msgid "ВСЕ"
 msgstr "TUTTO"
 
-# game/scripts/screens/diary.rpy:146
+# game/scripts/screens/diary.rpy:154
 msgid "Сейчас здесь нет заданий"
 msgstr "Al momento non ci sono missioni da svolgere"
 
-# game/scripts/screens/diary.rpy:196
+# game/scripts/screens/diary.rpy:202
+msgid "ПОСЛЕДСТВИЯ:"
+msgstr ""
+
+# game/scripts/screens/diary.rpy:216
 msgid "Завершите задание, чтобы получить награду..."
 msgstr "Completa la missione per ricevere la tua ricompensa..."
 
-# game/scripts/screens/diary.rpy:198
+# game/scripts/screens/diary.rpy:218
 msgid "Нужно приблизиться к завершению задания, чтобы узнать о награде..."
 msgstr "È necessario avvicinarsi al completamento della missione per scoprire la ricompensa..."
 
-# game/scripts/screens/diary.rpy:201
+# game/scripts/screens/diary.rpy:221
 msgid "НАГРАДА:"
 msgstr "RICOMPENSA:"
 
-# game/scripts/screens/diary.rpy:349
+# game/scripts/screens/diary.rpy:373
 msgid "МОЯ СТАРШАЯ СЕСТРЁНКА"
 msgstr "MIA SORELLA MAGGIORE"
 
-# game/scripts/screens/diary.rpy:357
+# game/scripts/screens/diary.rpy:381
 msgid "МОЯ МАМА"
 msgstr "MIA MAMMA"
 
-# game/scripts/screens/diary.rpy:364
+# game/scripts/screens/diary.rpy:388
 msgid "МОЯ МЛАДШАЯ СЕСТРЁНКА"
 msgstr "LA MIA SORELLINA"
 
-# game/scripts/screens/diary.rpy:379
+# game/scripts/screens/diary.rpy:397
+msgid "АДВОКАТ"
+msgstr ""
+
+# game/scripts/screens/diary.rpy:415
 msgid "НАШИ ВЗАИМООТНОШЕНИЯ:"
 msgstr "LA NOSTRA RELAZIONE:"
 
