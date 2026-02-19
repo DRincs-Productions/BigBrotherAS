@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-08-11 15:33\n"
+"PO-Revision-Date: 2026-02-19 09:35\n"
 
-# TODO: Translation updated at 2025-08-11 18:01 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/screens.rpy:141
+# TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/screens.rpy:141
 msgid "У меня на счету $[mgg.money]!"
 msgstr ""
 
@@ -276,9 +276,9 @@ msgstr ""
 msgid "Отображать все задания"
 msgstr "Εμφάνιση όλων των εργασιών"
 
-# game/scripts/screens/screens.rpy:1307
-msgid "Особый режим скрытия интерфейса"
-msgstr ""
+# game/scripts/screens/screens.rpy:1314
+msgid "Активировать чит-меню"
+msgstr "Ενεργοποίηση του μενού εξαπάτησης"
 
 # game/scripts/screens/screens.rpy:1450
 msgid "История диалогов пуста."
@@ -443,7 +443,7 @@ msgstr ""
 msgid "Пропускаю"
 msgstr ""
 
-# game/scripts/screens/screens.rpy:1986
+# game/scripts/screens/screens.rpy:1989
 msgid "Меню"
 msgstr ""
 
