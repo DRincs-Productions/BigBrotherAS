@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 09:38\n"
+"PO-Revision-Date: 2026-02-19 15:39\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/chapters_screen.rpy:20
 msgid "Вернуться"
@@ -30,5 +30,5 @@ msgstr "CAPITOLO {}"
 
 # game/scripts/screens/chapters_screen.rpy:80
 msgid "Для того, чтобы получить доступ к этой главе, нужно завершить все задания из предыдущей главы..."
-msgstr ""
+msgstr "Per accedere a questo capitolo, è necessario completare tutti i compiti del capitolo precedente..."
 
