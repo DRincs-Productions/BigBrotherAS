@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 09:37\n"
+"PO-Revision-Date: 2026-02-19 15:39\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/delivery.rpy:29 #-#-# translate crowdin ev_delivery_eb6a6385:
 msgid "[_tMax_s_11_] Звонок в ворота! Похоже, к нам кто-то приехал..."
@@ -22,5 +22,5 @@ msgstr "[_tMax_s_03_] Grande! Hanno portato quello che ho ordinato. Questo [txt]
 
 # §translate crowdin strings: #|#|# # game/scripts/story_01/delivery.rpy:73
 msgid "Заказанные товары доставлены"
-msgstr ""
+msgstr "Ordine consegnato"
 
