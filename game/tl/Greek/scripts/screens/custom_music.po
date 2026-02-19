@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2025-07-29 08:38\n"
+"PO-Revision-Date: 2026-02-19 09:36\n"
 
-# TODO: Translation updated at 2025-07-27 23:15 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/custom_music.rpy:15
+# TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/custom_music.rpy:15
 msgid "Ok"
 msgstr ""
 
@@ -24,19 +24,19 @@ msgstr ""
 msgid "Настройка музыки"
 msgstr ""
 
-# game/scripts/screens/custom_music.rpy:111
+# game/scripts/screens/custom_music.rpy:105
 msgid "Без музыки"
 msgstr ""
 
-# game/scripts/screens/custom_music.rpy:118
+# game/scripts/screens/custom_music.rpy:112
 msgid "В случайном порядке"
 msgstr ""
 
-# game/scripts/screens/custom_music.rpy:125
+# game/scripts/screens/custom_music.rpy:119
 msgid "Сбросить"
 msgstr ""
 
-# game/scripts/screens/custom_music.rpy:175
+# game/scripts/screens/custom_music.rpy:169
 msgid "Пересканировать папку музыки"
 msgstr ""
 
