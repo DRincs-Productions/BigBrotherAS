@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-03-15 14:01\n"
+"PO-Revision-Date: 2026-02-19 09:32\n"
 
-# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/laptop.rpy:21
+# TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/laptop.rpy:21
 msgid "ОНЛАЙН-КУРСЫ"
 msgstr "COURS EN LIGNE"
 
@@ -33,130 +33,256 @@ msgid "Настройка VPN-сервиса"
 msgstr "Configuration du service VPN"
 
 # game/scripts/screens/laptop.rpy:21
+msgid "Проверить данные с ноутбука Алисы"
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:21
 msgid "АЛИСА НА «MYCAMS»"
 msgstr "ALICE SUR \"MYCAMS\""
 
-# game/scripts/screens/laptop.rpy:21
-msgid "ЧИТ-МЕНЮ"
-msgstr "CHIT MENU"
-
-# game/scripts/screens/laptop.rpy:45
+# game/scripts/screens/laptop.rpy:49
 msgid "Назад"
 msgstr "Précédent"
 
-# game/scripts/screens/laptop.rpy:49
+# game/scripts/screens/laptop.rpy:53
 msgid "Выключить"
 msgstr "Éteindre"
 
-# game/scripts/screens/laptop.rpy:59
+# game/scripts/screens/laptop.rpy:67
 msgid "Ждать 10 минут"
 msgstr "Attendre 10 minutes"
 
-# game/scripts/screens/laptop.rpy:204
+# game/scripts/screens/laptop.rpy:118
+msgid "ЧИТ-МЕНЮ"
+msgstr "CHIT MENU"
+
+# game/scripts/screens/laptop.rpy:215
+msgid "Экспресс-доставка"
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:230
+msgid "ЭКСПРЕСС-ДОСТАВКА"
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:231
+msgid "Заказанные товары будут доставлены через 30 минут после оплаты.\n"
+"Стоимость доставки $60."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:234
+msgid "ОПЛАТИТЬ (недостаточно средств)"
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:238
+msgid "ОПЛАТИТЬ"
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:239
+msgid "Заказать экспресс-доставку за $60?"
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:245
+msgid "Доставка оплачена.\n"
+"В течение 30 минут заказанные товары будут доставлены."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:254
 msgid "КУПЛЕНО"
 msgstr "ACHETÉ"
 
-# game/scripts/screens/laptop.rpy:209
+# game/scripts/screens/laptop.rpy:259
 msgid "КУПИТЬ (недостаточно средств)"
 msgstr "BUY (fonds insuffisants)"
 
-# game/scripts/screens/laptop.rpy:214
+# game/scripts/screens/laptop.rpy:264
 msgid "КУПИТЬ"
 msgstr "ACHETER"
 
-# game/scripts/screens/laptop.rpy:215
-msgid "Приобрести \"{name}\" за ${price}?"
-msgstr "Achat «{name}« pour ${price}?"
+# game/scripts/screens/laptop.rpy:265
+msgid "Приобрести «{name}» за ${price}?"
+msgstr ""
 
-# game/scripts/screens/laptop.rpy:245
+# game/scripts/screens/laptop.rpy:295
 msgid "Скидка [item.sale_percent]%"
 msgstr "Remise [item.sale_percent]%"
 
-# game/scripts/screens/laptop.rpy:266
+# game/scripts/screens/laptop.rpy:354
 msgid "В данный момент нет доступных товаров. Загляните позже."
 msgstr "Il n'y a pas de produits disponibles pour le moment. Revenez plus tard."
 
-# game/scripts/screens/laptop.rpy:426
+# game/scripts/screens/laptop.rpy:514
 msgid "Что будем искать?"
 msgstr "Qu'est ce que je recherche?"
 
-# game/scripts/screens/laptop.rpy:481
+# game/scripts/screens/laptop.rpy:570
 msgid "Общий доход:"
 msgstr "Revenu total:"
 
-# game/scripts/screens/laptop.rpy:482
+# game/scripts/screens/laptop.rpy:571
 msgid "Последнее начисление:"
 msgstr "Dernière régularisation :"
 
-# game/scripts/screens/laptop.rpy:560
+# game/scripts/screens/laptop.rpy:667
+msgid "Уменьшить"
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:707
 msgid "Общение"
 msgstr "Réseaux Sociaux"
 
-# game/scripts/screens/laptop.rpy:575
+# game/scripts/screens/laptop.rpy:722
 msgid "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
 msgstr "Vous avez terminé tous les leçons et cours disponibles dans cette catégorie. Peut-être que de nouvelles leçons apparaîtront dans la prochaine version du jeu."
 
-# game/scripts/screens/laptop.rpy:583
+# game/scripts/screens/laptop.rpy:730
 msgid "Вы уже оплатили этот курс и можете в любой момент включить следующий доступный видеоурок."
 msgstr "Vous avez déjà payé pour ce cours et pouvez activer le prochain didacticiel vidéo disponible à tout moment."
 
-# game/scripts/screens/laptop.rpy:584
+# game/scripts/screens/laptop.rpy:731
 msgid "Занятие [learn] из 3"
 msgstr "Classe [learn] de 3"
 
-# game/scripts/screens/laptop.rpy:587
+# game/scripts/screens/laptop.rpy:735
 msgid "НАЧАТЬ ПРОСМОТР ВИДЕОУРОКА"
 msgstr "COMMENCER À REGARDER LA LEÇON VIDÉO"
 
-# game/scripts/screens/laptop.rpy:591
+# game/scripts/screens/laptop.rpy:743
 msgid "ВЫ УЧИЛИСЬ СОВСЕМ НЕДАВНО. СДЕЛАЙТЕ ПЕРЕРЫВ!"
 msgstr "QUE VOUS AVEZ ÉTUDIÉS RÉCEMMENT. FAITES UNE PAUSE !"
 
-# game/scripts/screens/laptop.rpy:599
+# game/scripts/screens/laptop.rpy:751
 msgid "Количество занятий: 3"
 msgstr "Nombre de classes : 3"
 
-# game/scripts/screens/laptop.rpy:601
+# game/scripts/screens/laptop.rpy:753
 msgid "ПРИОБРЕСТИ ЭТОТ КУРС ЗА $[cource.price]"
 msgstr "POUR ACHETER CE COURS AU PRIX DE[cource.price]"
 
-# game/scripts/screens/laptop.rpy:653
-msgid "Удвоение дохода из любых источников"
-msgstr "Doublez vos revenus, quelle qu'en soit la source"
+# game/scripts/screens/laptop.rpy:821
+msgid "Заработок (x2)"
+msgstr ""
 
-# game/scripts/screens/laptop.rpy:735
+# game/scripts/screens/laptop.rpy:825
+msgid "Все деньги, которые Макс будет получать, удваиваются."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:827
+msgid "Лёгкие деньги (+$500)"
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:831
+msgid "Получить сразу $500, но только раз в сутки."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:837
+msgid "При покупке чего либо в интернет-магазине, Макс может оплатить ускоренную доставку этих товаров ($60 за доставку через 30 минут)."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:839
+msgid "Схватывает на лету"
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:842
+msgid "Макс сможет быстрее читать книги и изучать видеокурсы (на отдых требуется всего один час вместо трёх)."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:844
+msgid "Многозадачный"
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:847
+msgid "Макс сможет быстрее выполнять работы по дому (на отдых требуется всего один час вместо четырёх)."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:849
+msgid "Невероятно успешный"
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:852
+msgid "Макс всегда будет успешно применять свои навыки, если нет ограничения по их уровню."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:854
+msgid "Якобы чистоплотный"
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:857
+msgid "Никто из персонажей больше не будет реагировать на то, что Макс грязный, но мыться он всё равно может."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:859
+msgid "Запредельное настроение (x3)"
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:862
+msgid "Действия Макса, повышающие настроение персонажей, будут втрое эффективнее. Так же настроение персонажей не будет снижаться при отсутствии внимания со стороны Макса."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:864
+msgid "Без настроения"
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:867
+msgid "Настроение персонажей больше не играет значения."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:869
+msgid "По лёгкому пути"
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:872
+msgid "Упрощает решение головоломок с помощью различной индикации."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:874
+msgid "Нетерпеливый"
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:877
+msgid "Макс сможет решать головоломки автоматически (в головоломках будет соответствующее действие)."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:879
+msgid "Особый режим скрытия интерфейса"
+msgstr "Mode spécial de masquage de l'interface"
+
+# game/scripts/screens/laptop.rpy:882
+msgid "Вместе с интерфейсом скрывается так же и одежда персонажей почти во всех моментах игры."
+msgstr ""
+
+# game/scripts/screens/laptop.rpy:930
 msgid "ШОУ МЕЛИССЫ!"
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:776
+# game/scripts/screens/laptop.rpy:971
 msgid "ЦЕЛЬ СБОРОВ!"
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:780
+# game/scripts/screens/laptop.rpy:975
 msgid "Покрасоваться перед зрителями..."
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:782
+# game/scripts/screens/laptop.rpy:977
 msgid "Наслаждаться леденцом..."
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:784
+# game/scripts/screens/laptop.rpy:979
 msgid "Переодеться в другую одежду..."
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:794
+# game/scripts/screens/laptop.rpy:989
 msgid "Дразнить зрителей грудью..."
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:796
+# game/scripts/screens/laptop.rpy:991
 msgid "Дразнить зрителей попкой..."
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:798
+# game/scripts/screens/laptop.rpy:993
 msgid "Попасть на мою приватную трансляцию..."
 msgstr ""
 
-# game/scripts/screens/laptop.rpy:809
+# game/scripts/screens/laptop.rpy:1004
 msgid "${} из ${}"
 msgstr ""
 
