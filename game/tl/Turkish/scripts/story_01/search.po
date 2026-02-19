@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2025-03-15 14:06\n"
+"PO-Revision-Date: 2026-02-19 09:40\n"
 
-# TODO: Translation updated at 2025-03-08 15:49 #|#|# # §translate crowdin strings: #|#|# # game/scripts/story_01/search.rpy:2
+# TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/story_01/search.rpy:2
 msgid "почитать о скрытых камерах"
 msgstr ""
 
@@ -35,4 +35,8 @@ msgstr "bilgisayarınızdaki kişisel verileri koruma hakkında bilgi edinin"
 # game/scripts/story_01/search.rpy:2
 msgid "узнать о взломе паролей на компьютерах"
 msgstr "bilgisayarlarda şifre kırma hakkında bilgi edinin"
+
+# game/scripts/story_01/search.rpy:2
+msgid "посмотреть стоимость купальников"
+msgstr ""
 
