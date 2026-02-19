@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 09:37\n"
+"PO-Revision-Date: 2026-02-19 15:39\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/items.rpy:235
 msgid "Одежда"
@@ -66,7 +66,7 @@ msgstr "Scaletta"
 
 # game/scripts/engine/items.rpy:246
 msgid "Небольшая стремянка, позволяющая достать то, для чего не хватает роста."
-msgstr ""
+msgstr "Una piccola scaletta che permette di raggiungere ciò che non si riesce a prendere a causa dell’altezza."
 
 # game/scripts/engine/items.rpy:246
 msgid "Масло для загара"
@@ -86,7 +86,7 @@ msgstr "Lingerie di colore scuro e di ottima qualità. Un regalo perfetto per la
 
 # game/scripts/engine/items.rpy:246
 msgid "Шоколад «Ritter Sport» mini (9 штук)"
-msgstr ""
+msgstr "Cioccolato «Ritter Sport» mini (9 pezzi)"
 
 # game/scripts/engine/items.rpy:246
 msgid "Шоколадное наслаждение для каждого случая... Множество лакомых сортов с лучшими ингредиентами со всего мира."
@@ -94,11 +94,11 @@ msgstr "Delizia al cioccolato per ogni occasione... Molte varietà gustose con i
 
 # game/scripts/engine/items.rpy:246
 msgid "Шоколад «Ritter Sport» (4 штуки)"
-msgstr ""
+msgstr "Cioccolato «Ritter Sport» (4 pezzi)"
 
 # game/scripts/engine/items.rpy:246
 msgid "Конфеты «Raffaello» (16 штук)"
-msgstr ""
+msgstr "Cioccolatini «Raffaello» (16 pezzi)"
 
 # game/scripts/engine/items.rpy:246
 msgid "Хрустящие кокосовые конфеты с цельным миндальным орехом. Вместо тысячи слов..."
@@ -106,11 +106,11 @@ msgstr "Caramelle al cocco croccanti con mandorle intere. Invece di mille parole
 
 # game/scripts/engine/items.rpy:246
 msgid "Конфеты «Raffaello» (24 штуки)"
-msgstr ""
+msgstr "Cioccolatini «Raffaello» (24 pezzi)"
 
 # game/scripts/engine/items.rpy:246
 msgid "Конфеты «Ferrero Rocher» (16 штук)"
-msgstr ""
+msgstr "Cioccolatini «Ferrero Rocher» (16 pezzi)"
 
 # game/scripts/engine/items.rpy:246
 msgid "Сочетание цельного фундука и восхитительного сливочно-орехового крема в хрустящей вафельной оболочке подарит вам неповторимые вкусовые ощущения."
@@ -118,7 +118,7 @@ msgstr "La combinazione di nocciole intere e deliziosa crema cremosa di noci in 
 
 # game/scripts/engine/items.rpy:246
 msgid "Конфеты «Ferrero Rocher» (24 штуки)"
-msgstr ""
+msgstr "Cioccolatini «Ferrero Rocher» (24 pezzi)"
 
 # game/scripts/engine/items.rpy:246
 msgid "Шёлковый халат"
