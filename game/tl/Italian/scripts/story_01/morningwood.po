@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 09:37\n"
+"PO-Revision-Date: 2026-02-19 17:09\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/morningwood.rpy:15 #-#-# translate crowdin ev_001_ef68f9ed:
 msgid "[_Lisa_s_14_] Я сейчас маму позову!"
@@ -78,7 +78,7 @@ msgstr "[_Max_s_17_] Non ho fatto nulla!"
 
 # game/scripts/story_01/morningwood.rpy:45 #-#-# translate crowdin ev_001_cb0e74b0:
 msgid "[_Ann_s_10_] Ты сама видела, чтобы Макс чем-то «{b}таким{/b}» занимался при тебе?"
-msgstr ""
+msgstr "[_Ann_s_10_] Tu l’hai mai visto con i tuoi occhi fare «{b}certe cose{/b}» mentre eri lì con lui?"
 
 # game/scripts/story_01/morningwood.rpy:46 #-#-# translate crowdin ev_001_bd274cc4:
 msgid "[_Lisa_s_10_] Нет, но мам... Я просто испугалась."
@@ -878,7 +878,7 @@ msgstr "[_Max_s_13_] Se vuoi, lo farai. Ti vergogni di me, vero?"
 
 # game/scripts/story_01/morningwood.rpy:523 #-#-# translate crowdin ev_114_fail_8504ab7e:
 msgid "[_Lisa_s_12_] Не то чтобы стесняюсь... Скорее, стесняюсь показываться вот такой страстной, как ты предлагаешь."
-msgstr ""
+msgstr "[_Lisa_s_12_] Non è che mi vergogni... È che mi imbarazza mostrarmi così passionale come suggerisci tu."
 
 # game/scripts/story_01/morningwood.rpy:524 #-#-# translate crowdin ev_114_fail_446b4d9d:
 msgid "[_Max_s_12_] Думаешь, что будешь от этого выглядеть глупо или смешно?"
