@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 09:37\n"
+"PO-Revision-Date: 2026-02-19 15:39\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/diary.rpy:24
 msgid "Задания"
@@ -30,7 +30,7 @@ msgstr "COMPLETATO"
 
 # game/scripts/screens/diary.rpy:75
 msgid "ПРОВАЛЕННЫЕ"
-msgstr ""
+msgstr "FALLITI"
 
 # game/scripts/screens/diary.rpy:88
 msgid "ВСЕ"
@@ -42,7 +42,7 @@ msgstr "Al momento non ci sono missioni da svolgere"
 
 # game/scripts/screens/diary.rpy:202
 msgid "ПОСЛЕДСТВИЯ:"
-msgstr ""
+msgstr "CONSEGUENZE:"
 
 # game/scripts/screens/diary.rpy:216
 msgid "Завершите задание, чтобы получить награду..."
@@ -70,7 +70,7 @@ msgstr "LA MIA SORELLINA"
 
 # game/scripts/screens/diary.rpy:397
 msgid "АДВОКАТ"
-msgstr ""
+msgstr "AVVOCATO"
 
 # game/scripts/screens/diary.rpy:415
 msgid "НАШИ ВЗАИМООТНОШЕНИЯ:"
