@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 09:38\n"
+"PO-Revision-Date: 2026-02-19 15:39\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/screens/collection.rpy:751 #-#-# translate crowdin compile_puzzle_start_e29c0251:
 msgid "Данное изображение разбито на множество фрагментов."
@@ -22,15 +22,15 @@ msgstr "Per assemblarlo correttamente, è necessario ruotare i pezzi (facendo cl
 
 # game/scripts/screens/collection.rpy:755 #-#-# translate crowdin compile_puzzle_start_600592cc:
 msgid "Если окантовка фрагмента красного цвета, то его нужно переместить и повернуть."
-msgstr ""
+msgstr "Se il bordo del frammento è di colore rosso, allora va spostato e ruotato."
 
 # game/scripts/screens/collection.rpy:756 #-#-# translate crowdin compile_puzzle_start_96342d1d:
 msgid "Если окантовка фрагмента оранжевого цвета, то его нужно только переместить."
-msgstr ""
+msgstr "Se il bordo del frammento è di colore arancione, allora va solo spostato."
 
 # game/scripts/screens/collection.rpy:757 #-#-# translate crowdin compile_puzzle_start_4522cd23:
 msgid "Если окантовка фрагмента голубого цвета, то его нужно только повернуть."
-msgstr ""
+msgstr "Se il bordo del frammento è di colore azzurro, allora va solo ruotato."
 
 # game/scripts/screens/collection.rpy:793 #-#-# translate crowdin compile_puzzle_win_77c1ec18:
 msgid "Головоломка решена!"
