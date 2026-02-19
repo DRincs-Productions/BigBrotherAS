@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 09:37\n"
+"PO-Revision-Date: 2026-02-19 15:39\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/homework.rpy:9 #-#-# translate crowdin ev_034_38a2b149:
 msgid "[_Ann_s_10_] Так, Макс, а ну-ка постой! Я только сейчас вспомнила... Ты коробки разобрал?"
@@ -862,7 +862,7 @@ msgstr "[_tMax_s_13_] Finalmente ho finito le faccende domestiche di questa sett
 
 # game/scripts/story_01/homework.rpy:955 #-#-# translate crowdin ev_083_e9780f2a:
 msgid "[_Ann_s_03_] Приятно, что наш дом был построен в таком красивом районе, где по дороге к магазинам можно стольким налюбоваться..."
-msgstr ""
+msgstr "[_Ann_s_03_] È piacevole che la nostra casa sia stata costruita in un quartiere così bello, dove lungo la strada per i negozi si può ammirare così tanto..."
 
 # game/scripts/story_01/homework.rpy:956 #-#-# translate crowdin ev_083_83b3275e:
 msgid "[_Max_s_04_] Точно, мам! У меня аж глаза разбегаются, на что смотреть."
@@ -1020,7 +1020,7 @@ msgstr "Allora ho bisogno di un abbraccio per avere più motivazione!"
 
 # game/scripts/story_01/homework.rpy:820
 msgid "Взаимоотношения с мамой стали лучше!"
-msgstr ""
+msgstr "Il rapporto con mia mamma è migliorato!"
 
 # game/scripts/story_01/homework.rpy:869
 msgid "{i}пылесосить дом{/i}"
