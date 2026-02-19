@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 09:37\n"
+"PO-Revision-Date: 2026-02-19 15:39\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/arachnophobia.rpy:7 #-#-# translate crowdin ev_032_247fb4c6:
 msgid "[_tMax_s_12_] Так... Пауки. Ох, сколько видов... Какие же тут у нас водятся..."
@@ -258,11 +258,11 @@ msgstr "[_Max_s_01_] Sì, lo farò..."
 
 # game/scripts/story_01/arachnophobia.rpy:242 #-#-# translate crowdin ev_049_lvl_1_8f57c3f3:
 msgid "[_Alice_s_14_] Так, ну всё! Давай-ка убирай руки с моего зада, пока я ещё даю тебе такую возможность. Иначе кое-кому будет плохо!{p=[lag]}{nw}"
-msgstr ""
+msgstr "[_Alice_s_14_] Ok, basta! Togli le mani dal mio sedere finché ti do ancora questa possibilità. Altrimenti qualcuno ne pagherà le conseguenze!{p=[lag]}{nw}"
 
 # game/scripts/story_01/arachnophobia.rpy:244 #-#-# translate crowdin ev_049_lvl_1_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/scripts/story_01/arachnophobia.rpy:254 #-#-# translate crowdin ev_049_lvl_1_805cd2bf:
 msgid "[_Max_s_11_] Всё, убрал. Я ведь просто хотел прикрыть твою попку, чтобы никто на неё не глазел."
@@ -714,11 +714,11 @@ msgstr "[_Max_s_06_] Quindi ho già preso qualcosa di morbido e elastico..."
 
 # game/scripts/story_01/arachnophobia.rpy:688 #-#-# translate crowdin ev_070_touch_bust_922e8ad4:
 msgid "[_Alice_s_11_] Так, ну всё! Давай-ка убирай руки с моего зада, пока я ещё даю тебе такую возможность. Иначе кое-кому будет плохо!{p=[lag]}{nw}"
-msgstr ""
+msgstr "[_Alice_s_11_] Ok, basta! Togli le mani dal mio sedere finché te lo permetto. Altrimenti qualcuno ne pagherà le conseguenze!{p=[lag]}{nw}"
 
 # game/scripts/story_01/arachnophobia.rpy:690 #-#-# translate crowdin ev_070_touch_bust_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/scripts/story_01/arachnophobia.rpy:700 #-#-# translate crowdin ev_070_touch_bust_36c2908d:
 msgid "[_Alice_s_12_] А теперь, морда нахальная, убери уже наконец этого паука!!!"
@@ -1556,15 +1556,15 @@ msgstr "È stata aperta una nuova missione \"{}\"!"
 
 # game/scripts/story_01/arachnophobia.rpy:871
 msgid "Взаимоотношения с Алисой стали лучше!"
-msgstr ""
+msgstr "Il rapporto con Alice è migliorato!"
 
 # game/scripts/story_01/arachnophobia.rpy:874
 msgid "Масло для загара закончилось"
-msgstr ""
+msgstr "L’olio abbronzante è finito"
 
 # game/scripts/story_01/arachnophobia.rpy:876
 msgid "Масло для загара почти закончилось"
-msgstr ""
+msgstr "L’olio abbronzante sta per finire"
 
 # game/scripts/story_01/arachnophobia.rpy:916
 msgid "Ладно, тогда слезай, я с ним разберусь..."
