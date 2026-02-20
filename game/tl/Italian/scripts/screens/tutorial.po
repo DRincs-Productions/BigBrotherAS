@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 09:37\n"
+"PO-Revision-Date: 2026-02-20 11:11\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/tutorial.rpy:30
 msgid "Об игре"
@@ -203,51 +203,55 @@ msgstr "Il venerdì, Max riferisce ad Anna i suoi progressi e se non ha fatto qu
 
 # game/scripts/screens/tutorial.rpy:187
 msgid "Иконку галереи можно найти на вспомогательной панели игры. Она содержит в своём окне ряд некоторого дополнительного контента, который можно открыть во время прохождения игры."
-msgstr ""
+msgstr "L'icona della galleria si trova nel pannello ausiliario del gioco. Contiene al suo interno una serie di contenuti extra che possono essere sbloccati durante lo svolgimento della partita."
 
 # game/scripts/screens/tutorial.rpy:187
 msgid "{b}Переодевания:{/b}\n"
 "Эта коллекция включает в себя ряд разных состояний персонажей и одежды на них. Не пытайтесь заполнить всю коллекцию за одно прохождение, она слишком обширная."
-msgstr ""
+msgstr "{b}Cambi d'abito:{/b}\n"
+"Questa collezione include una serie di diversi stati dei personaggi e dei vestiti su di essi. Non cercare di completare l'intera collezione in una sola partita; è troppo vasta."
 
 # game/scripts/screens/tutorial.rpy:187
 msgid "То, в каких состояниях Макс сможет застать персонажей в течение дня и в каких вариациях одежды, закладывается во время его сна, поэтому создавайте сохранения перед сном, чтобы целенаправленно заполнять эту коллекцию."
-msgstr ""
+msgstr "Gli stati in cui Max troverà i personaggi durante il giorno e le varianti dei loro vestiti vengono stabiliti durante il suo sonno; pertanto, crea dei salvataggi prima di dormire per completare questa collezione in modo mirato."
 
 # game/scripts/screens/tutorial.rpy:187
 msgid "Коллекция переодеваний персонажей является накопительной и заполняется от всех ваших прохождений игры (если не терять файл «persistent», который находится вместе с вашими файлами сохранений игры)."
-msgstr ""
+msgstr "La collezione dei cambi d'abito dei personaggi è cumulativa e viene completata attraverso tutti i tuoi salvataggi (a patto di non perdere il file «persistent», che si trova insieme ai tuoi file di salvataggio del gioco)."
 
 # game/scripts/screens/tutorial.rpy:187
 msgid "{b}Воспоминания:{/b}\n"
 "Эта коллекция включает в себя самые важные события, через которые проходит Макс. Многие из этих событий имеют различные настройки, в зависимости от того, что вы делали в прохождении."
-msgstr ""
+msgstr "{b}Ricordi:{/b}\n"
+"Questa Collezione include gli eventi più importanti vissuti da Max. Molti di questi eventi presentano diverse sfaccettature, a seconda delle tue azioni durante la partita."
 
 # game/scripts/screens/tutorial.rpy:187
 msgid "Коллекция воспоминаний является накопительной и заполняется от всех ваших прохождений игры (если не терять файл «persistent», который находится вместе с вашими файлами сохранений игры)."
-msgstr ""
+msgstr "La collezione dei ricordi è cumulativa e viene completata attraverso tutti i tuoi salvataggi (a patto di non perdere il file «persistent», che si trova insieme ai tuoi file di salvataggio del gioco)."
 
 # game/scripts/screens/tutorial.rpy:187
 msgid "{b}Сны:{/b}\n"
 "Эта коллекция включает в себя сны, которые видел Макс. Существуют как сюжетные сны, которые Макс обязательно видит во время прохождения игры, так и бонусные, которые можно упустить, если не выполнить все необходимые для них условия."
-msgstr ""
+msgstr "{b}Sogni:{/b}\n"
+"Questa Collezione include i sogni che Max ha fatto. Esistono sia sogni legati alla trama, che Max vedrà necessariamente durante il gioco, sia sogni bonus, che possono essere persi se non si soddisfano tutte le condizioni necessarie."
 
 # game/scripts/screens/tutorial.rpy:187
 msgid "Эти условия можно увидеть, просто наведя курсор на сны в этой коллекции."
-msgstr ""
+msgstr "Questi requisiti possono essere visualizzati semplicemente passando il cursore sopra i sogni in questa collezione."
 
 # game/scripts/screens/tutorial.rpy:187
 msgid "Коллекция снов является накопительной и заполняется от всех ваших прохождений игры (если не терять файл «persistent», который находится вместе с вашими файлами сохранений игры)."
-msgstr ""
+msgstr "La collezione dei sogni è cumulativa e viene completata attraverso tutti i tuoi salvataggi (a patto di non perdere il file «persistent», che si trova insieme ai tuoi file di salvataggio del gioco)."
 
 # game/scripts/screens/tutorial.rpy:187
 msgid "{b}Дополнительно:{/b}\n"
 "Эта коллекция включает в себя некоторые дополнительные материалы для событий игры, но для их открытия нужно будет либо решить головоломку, либо выполнить ряд условий."
-msgstr ""
+msgstr "{b}Extra:{/b}\n"
+"Questa Collezione include materiali aggiuntivi per gli eventi di gioco, ma per sbloccarli sarà necessario risolvere un puzzle o soddisfare una serie di requisiti."
 
 # game/scripts/screens/tutorial.rpy:187
 msgid "Эта коллекция отличается от всех предыдущих тем, что не является накопительной и работает только в рамках текущего прохождения игры."
-msgstr ""
+msgstr "Questa collezione si differenzia da tutte le precedenti perché non è cumulativa e funziona solo nell'ambito della partita attuale."
 
 # game/scripts/screens/tutorial.rpy:228
 msgid "Управление"
