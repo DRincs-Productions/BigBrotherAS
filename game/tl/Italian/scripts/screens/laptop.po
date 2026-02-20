@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-20 09:54\n"
+"PO-Revision-Date: 2026-02-20 11:11\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/laptop.rpy:21
 msgid "ОНЛАЙН-КУРСЫ"
@@ -208,39 +208,39 @@ msgstr "Falsamente pulito"
 
 # game/scripts/screens/laptop.rpy:857
 msgid "Никто из персонажей больше не будет реагировать на то, что Макс грязный, но мыться он всё равно может."
-msgstr ""
+msgstr "Nessuno noterà più se Max è sporco, ma lui può comunque lavarsi."
 
 # game/scripts/screens/laptop.rpy:859
 msgid "Запредельное настроение (x3)"
-msgstr ""
+msgstr "Umore oltre il limite (x3)"
 
 # game/scripts/screens/laptop.rpy:862
 msgid "Действия Макса, повышающие настроение персонажей, будут втрое эффективнее. Так же настроение персонажей не будет снижаться при отсутствии внимания со стороны Макса."
-msgstr ""
+msgstr "Le azioni di Max che migliorano l'umore dei personaggi saranno tre volte più efficaci. Inoltre, l'umore dei personaggi non diminuirà in assenza di attenzioni da parte di Max."
 
 # game/scripts/screens/laptop.rpy:864
 msgid "Без настроения"
-msgstr ""
+msgstr "Senza umore"
 
 # game/scripts/screens/laptop.rpy:867
 msgid "Настроение персонажей больше не играет значения."
-msgstr ""
+msgstr "L'umore dei personaggi non ha più alcuna importanza."
 
 # game/scripts/screens/laptop.rpy:869
 msgid "По лёгкому пути"
-msgstr ""
+msgstr "Per la strada più facile"
 
 # game/scripts/screens/laptop.rpy:872
 msgid "Упрощает решение головоломок с помощью различной индикации."
-msgstr ""
+msgstr "Semplifica la risoluzione dei puzzle tramite diverse indicazioni."
 
 # game/scripts/screens/laptop.rpy:874
 msgid "Нетерпеливый"
-msgstr ""
+msgstr "Impaziente"
 
 # game/scripts/screens/laptop.rpy:877
 msgid "Макс сможет решать головоломки автоматически (в головоломках будет соответствующее действие)."
-msgstr ""
+msgstr "Max potrà risolvere i puzzle automaticamente (ci sarà un'azione corrispondente nei puzzle)."
 
 # game/scripts/screens/laptop.rpy:879
 msgid "Особый режим скрытия интерфейса"
@@ -248,7 +248,7 @@ msgstr "Modalità speciale di occultamento dell'interfaccia"
 
 # game/scripts/screens/laptop.rpy:882
 msgid "Вместе с интерфейсом скрывается так же и одежда персонажей почти во всех моментах игры."
-msgstr ""
+msgstr "Insieme all'interfaccia, scompare anche l'abbigliamento dei personaggi in quasi tutti i momenti del gioco."
 
 # game/scripts/screens/laptop.rpy:930
 msgid "ШОУ МЕЛИССЫ!"
