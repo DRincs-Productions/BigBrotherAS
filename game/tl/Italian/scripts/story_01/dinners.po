@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 09:37\n"
+"PO-Revision-Date: 2026-02-20 11:11\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/dinners.rpy:36 #-#-# translate crowdin ev_dinner_r1_24ac51ec:
 msgid "[_Ann_s_01_] Всем приятного аппетита! Алиса столько всего наготовила сегодня, умничка. Давайте ужинать..."
@@ -46,15 +46,15 @@ msgstr "[_tMax_s_11_] Mmm. Nessuno cucina meglio della mamma! È stata una giorn
 
 # game/scripts/story_01/dinners.rpy:68 #-#-# translate crowdin dinner_inserts_f8dd8203:
 msgid "[_Ann_s_02_] Макс, как твоя сегодняшняя поездка к Мие?"
-msgstr ""
+msgstr "[_Ann_s_02_] Max, com'è andato il tuo incontro con Mia oggi?"
 
 # game/scripts/story_01/dinners.rpy:69 #-#-# translate crowdin dinner_inserts_cc44457c:
 msgid "[_Max_s_11_] Порядок, мам. Учу её плавать, но там тяжёлый случай. Даже приходится ещё и спасателем быть."
-msgstr ""
+msgstr "[_Max_s_11_] Tutto in ordine, mamma. Le sto insegnando a nuotare, ma è un caso disperato. Mi tocca persino fare il bagnino."
 
 # game/scripts/story_01/dinners.rpy:70 #-#-# translate crowdin dinner_inserts_056a7f8d:
 msgid "[_Ann_s_11_] Ой, ужасы какие! Ты уж там аккуратнее с нашим адвокатом, она у нас хорошенькая."
-msgstr ""
+msgstr "[_Ann_s_11_] Oh, che orrore! Cerca di fare il bravo con il nostro avvocato, è una così bella ragazza."
 
 # game/scripts/story_01/dinners.rpy:71 #-#-# translate crowdin dinner_inserts_527cd8a2:
 msgid "[_Max_s_01_] Конечно, не переживай."
