@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 09:37\n"
+"PO-Revision-Date: 2026-02-20 13:20\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:220
 msgid "Любопытное содержимое"
@@ -125,11 +125,11 @@ msgstr "Questo può essere fatto se Alice è al 2° piano e gli altri non sono i
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Купить ещё одну скрытую камеру."
-msgstr ""
+msgstr "Comprare un'altra telecamera nascosta."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Установить скрытую камеру во дворе."
-msgstr ""
+msgstr "Installare una telecamera nascosta in cortile."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Это можно сделать, только когда никого нет дома..."
