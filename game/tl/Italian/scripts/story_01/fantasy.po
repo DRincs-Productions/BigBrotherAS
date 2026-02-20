@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-20 06:58\n"
+"PO-Revision-Date: 2026-02-20 08:52\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/fantasy.rpy:8 #-#-# translate crowdin ev_099_42c5624b:
 msgid "[_tMax_s_01_] Ну, что... Самое время немного погонять лысого. Кто же из девочек сможет мне с этим помочь? [nointeract]"
@@ -566,31 +566,31 @@ msgstr "[_Mia_s_09_] Sì, Max, sì! Mmm... Cazzo, è fantastico! E che caldo..."
 
 # game/scripts/story_01/fantasy.rpy:567 #-#-# translate crowdin ev_099_mia_in_pool_fefa6091:
 msgid "[_Max_s_01_] Везёт вам! Меня бы ещё кто согрел..."
-msgstr ""
+msgstr "[_Max_s_01_] Beati voi! Se solo ci fosse qualcuno a scaldare anche me..."
 
 # game/scripts/story_01/fantasy.rpy:579 #-#-# translate crowdin ev_099_mia_in_pool_7669d4ff:
 msgid "[_Mia_s_02_] Кстати, да... Вот чего я у себя дома точно не допущу, так это чтобы столь одарённый инструктор по плаванию выходил из бассейна, разочаровавшись во мне!"
-msgstr ""
+msgstr "[_Mia_s_02_] A proposito... Ecco cosa non permetterò mai a casa mia: che un istruttore di nuoto così talentuoso esca dalla piscina deluso da me!"
 
 # game/scripts/story_01/fantasy.rpy:580 #-#-# translate crowdin ev_099_mia_in_pool_b8224177:
 msgid "[_Max_s_04_] Мия, вы потрясающая ученица. Я бы даже добавил, что схватываете на лету! Особенно, когда это так нужно..."
-msgstr ""
+msgstr "[_Max_s_04_] Mia, lei è un'allieva formidabile. Direi quasi che impara al volo! Specialmente quando è proprio necessario..."
 
 # game/scripts/story_01/fantasy.rpy:581 #-#-# translate crowdin ev_099_mia_in_pool_62eb4871:
 msgid "[_Mia_s_06_] Ммм... Кажется, я уже догадываюсь, где тебя больше всего нужно согреть и обласкать..."
-msgstr ""
+msgstr "[_Mia_s_06_] Mmm... Mi sa che ho già indovinato il punto esatto dove hai bisogno di calore e di tante... Attenzioni..."
 
 # game/scripts/story_01/fantasy.rpy:582 #-#-# translate crowdin ev_099_mia_in_pool_2a5b77eb:
 msgid "[_Max_s_14_] Ох, поскорее бы..."
-msgstr ""
+msgstr "[_Max_s_14_] Oh, non vedo l'ora..."
 
 # game/scripts/story_01/fantasy.rpy:587 #-#-# translate crowdin ev_099_mia_in_pool_d9defaae:
 msgid "[_tMax_s_08_] О д-а-а-а!!! Так смачно лаская мои яички Мия точно остаётся вне конкуренции по вопросу о том, кому их доверить. Ах, какие же у неё нежные губки..."
-msgstr ""
+msgstr "[_tMax_s_08_] Oh s-ì-ì-ì!!! Con il modo in cui mi accarezza così dolcemente i gioielli di famiglia, Mia non ha rivali: so esattamente a chi affidarli. Ah, che labbra delicate che ha..."
 
 # game/scripts/story_01/fantasy.rpy:589 #-#-# translate crowdin ev_099_mia_in_pool_7f4feb33:
 msgid "[_Max_s_10_] Ух, чёрт! Д-а-а... До чего же приятно вы это делаете! Я уже больше не могу сдерживаться... Вот-вот кончу! Ммм... [nointeract]"
-msgstr ""
+msgstr "[_Max_s_10_] Maledizione... Sì! Mi fa impazzire come lo fa... Non ce la faccio più a resistere... Sto sborrando! Ohhh... [nointeract]"
 
 # game/scripts/story_01/fantasy.rpy:598 #-#-# translate crowdin ev_099_end_af2082a3:
 msgid "[_tMax_s_04_] Фух... Какая у меня богатая фантазия! Надо бы теперь смыть следы моих «преступных» действий с воображаемыми девчонками. Вернее, девчонки-то настоящие, это действия воображаемые... [nointeract]"
@@ -626,11 +626,11 @@ msgstr "{i}Alice nella doccia{/i}"
 
 # game/scripts/story_01/fantasy.rpy:27
 msgid "Нужно успешно закончить массаж ступней Алисы у ТВ..."
-msgstr ""
+msgstr "Bisogna finire come si deve il massaggio ai piedi di Alice davanti alla TV..."
 
 # game/scripts/story_01/fantasy.rpy:29
 msgid "Нужно добиться объятий Алисы, извиняясь сладостями..."
-msgstr ""
+msgstr "Bisogna ottenere un abbraccio da Alice, scusandosi con dei dolci..."
 
 # game/scripts/story_01/fantasy.rpy:33
 msgid "{i}Лиза в душе{/i}"
@@ -646,11 +646,11 @@ msgstr "{i}Lisa a lezione{/i}"
 
 # game/scripts/story_01/fantasy.rpy:48
 msgid "Нужно убедить Лизу на первый поцелуй..."
-msgstr ""
+msgstr "Bisogna convincere Lisa a concedermi il primo bacio..."
 
 # game/scripts/story_01/fantasy.rpy:52
 msgid "Нужно помочь Лизе подготовиться к пересдаче контрольной работы..."
-msgstr ""
+msgstr "Bisogna aiutare Lisa a prepararsi per il recupero del compito in classe..."
 
 # game/scripts/story_01/fantasy.rpy:56
 msgid "{i}мама на своей кровати{/i}"
@@ -666,15 +666,15 @@ msgstr "{i}la mamma prende il sole{/i}"
 
 # game/scripts/story_01/fantasy.rpy:71
 msgid "Нужно увидеть, как мама мастурбирует в своей комнате перед сном..."
-msgstr ""
+msgstr "Bisogna riuscire a vedere la mamma mentre si masturba in camera sua prima di dormire..."
 
 # game/scripts/story_01/fantasy.rpy:75
 msgid "Нужно завершить задание «Маслице для загара»..."
-msgstr ""
+msgstr "Bisogna completare la missione «Olio per l'abbronzatura»..."
 
 # game/scripts/story_01/fantasy.rpy:79
 msgid "{i}Мия в бассейне{/i}"
-msgstr ""
+msgstr "{i}Mia in piscina{/i}"
 
 # game/scripts/story_01/fantasy.rpy:95
 msgid "Хм... Даже не знаю, может быть..."
@@ -686,7 +686,7 @@ msgstr "Non dovrò essere convinto..."
 
 # game/scripts/story_01/fantasy.rpy:112
 msgid "Нужно посмотреть через скрытую камеру, как Алиса мастурбирует в ванне..."
-msgstr ""
+msgstr "Bisogna guardare attraverso la telecamera nascosta mentre Alice si masturba nella vasca da bagno..."
 
 # game/scripts/story_01/fantasy.rpy:128
 msgid "{i}кончить{/i}"
@@ -702,7 +702,7 @@ msgstr "Allora parliamo di meno e facciamo di più....."
 
 # game/scripts/story_01/fantasy.rpy:160
 msgid "Нужно без ущерба обнять Алису за попку, спасая её от паука в душе..."
-msgstr ""
+msgstr "Bisogna riuscire ad abbracciare Alice per il sedere senza subire danni, facendolo con la scusa di salvarla da un ragno nella doccia..."
 
 # game/scripts/story_01/fantasy.rpy:182
 msgid "{i}кончить ей в ротик{/i}"
@@ -718,7 +718,7 @@ msgstr "Infiliamolo tra le tue gambe..."
 
 # game/scripts/story_01/fantasy.rpy:212
 msgid "Нужно без ущерба облапать грудь Алисы, которая сняла верх купальника, спасая её от паука во дворе..."
-msgstr ""
+msgstr "Bisogna riuscire a palpare il seno di Alice senza conseguenze, approfittando del fatto che ha tolto il pezzo sopra del costume, col pretesto di salvarla da un ragno in cortile..."
 
 # game/scripts/story_01/fantasy.rpy:242
 msgid "Если что, я просто потёр тебе спинку..."
@@ -730,7 +730,7 @@ msgstr "Non preoccuparti per la mamma, la terrò d'occhio io..."
 
 # game/scripts/story_01/fantasy.rpy:261
 msgid "Нужно третий раз поцеловаться с Лизой..."
-msgstr ""
+msgstr "Bisogna suggellare il terzo bacio con Lisa..."
 
 # game/scripts/story_01/fantasy.rpy:298
 msgid "Подходи поближе и узнаешь..."
@@ -742,7 +742,7 @@ msgstr "Siediti e ti mostrerò cosa..."
 
 # game/scripts/story_01/fantasy.rpy:318
 msgid "Нужно вынырнуть у Лизы между ног, плавая с ней в бассейне..."
-msgstr ""
+msgstr "Bisogna riemergere proprio in mezzo alle gambe di Lisa, mentre nuotiamo insieme in piscina..."
 
 # game/scripts/story_01/fantasy.rpy:349
 msgid "Поразвлекай меня своими ножками..."
@@ -754,7 +754,7 @@ msgstr "Lavora con me con le mani, e poi anche con i compiti..."
 
 # game/scripts/story_01/fantasy.rpy:371
 msgid "Нужно пройти недельное испытание, помогая Лизе с домашними заданиями..."
-msgstr ""
+msgstr "Bisogna superare la sfida settimanale: aiutare Lisa con i compiti ogni giorno..."
 
 # game/scripts/story_01/fantasy.rpy:405
 msgid "Тогда и я никуда не буду торопиться..."
@@ -766,7 +766,7 @@ msgstr "Oh, mi piacerebbe arrendermi alle tue mani gentili..."
 
 # game/scripts/story_01/fantasy.rpy:421
 msgid "Нужно сделать так, чтобы с мамы сползла одежда во время просмотра ТВ..."
-msgstr ""
+msgstr "Bisogna fare in modo che i vestiti della mamma scivolino via mentre guarda la TV..."
 
 # game/scripts/story_01/fantasy.rpy:452
 msgid "Я же в этих мыслях не сижу сложив руки?"
@@ -778,7 +778,7 @@ msgstr "Questi pensieri riguardano il vostro culo sodo?"
 
 # game/scripts/story_01/fantasy.rpy:471
 msgid "Нужно принять душ, пока мама принимает ванну..."
-msgstr ""
+msgstr "Bisogna farsi la doccia proprio mentre la mamma è a fare il bagno..."
 
 # game/scripts/story_01/fantasy.rpy:501
 msgid "О да! Как же соблазнительно это звучит..."
@@ -790,19 +790,19 @@ msgstr "Beh... In realtà intendevo dire qualcos'altro..."
 
 # game/scripts/story_01/fantasy.rpy:518
 msgid "Нужно полностью изучить онлайн-курс по массажу ступней и натереть маму маслом для загара..."
-msgstr ""
+msgstr "Bisogna studiare tutto il corso online di massaggio ai piedi e poi cospargere la mamma di olio abbronzante..."
 
 # game/scripts/story_01/fantasy.rpy:551
 msgid "Ага, сзади вас я буду однозначно..."
-msgstr ""
+msgstr "Sarò sicuramente dietro di lei..."
 
 # game/scripts/story_01/fantasy.rpy:551
 msgid "Если вы про мой член, то соскальзывать как раз на него и надо..."
-msgstr ""
+msgstr "Se ti riferisci al mio membro, è proprio su quello che deve scivolare..."
 
 # game/scripts/story_01/fantasy.rpy:570
 msgid "Нужно третий раз побывать у Мии дома"
-msgstr ""
+msgstr "Bisogna andare a casa di Mia per la terza volta"
 
 # game/scripts/story_01/fantasy.rpy:597
 msgid "{i}закончить принимать душ{/i}"
