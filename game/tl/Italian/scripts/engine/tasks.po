@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-20 13:20\n"
+"PO-Revision-Date: 2026-02-20 14:17\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/tasks.rpy:220
 msgid "Любопытное содержимое"
@@ -133,11 +133,11 @@ msgstr "Installare una telecamera nascosta in cortile."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Это можно сделать, только когда никого нет дома..."
-msgstr ""
+msgstr "Si può fare solo quando non c'è nessuno in casa..."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Возможность просмотра скрытых камер на весь экран, если на них есть активность!"
-msgstr ""
+msgstr "Possibilità di visualizzare le telecamere nascoste a schermo intero, se rilevano attività!"
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Может это и не очень правильно, но мне очень хотелось бы иметь возможность подсматривать за тем, как женская часть моей семьи принимает ванну. К сожалению, этому мешают полоски на стеклах в ванной комнате, которые скрывают самое интересное... \n"
@@ -151,7 +151,7 @@ msgstr "Trova un modo per guadagnare soldi."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Возможность использовать стремянку для подглядывания за ванной комнатой без риска быть замеченным!"
-msgstr ""
+msgstr "Possibilità di usare la scala per sbirciare in bagno senza il rischio di essere scoperto!"
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Алиса рассказала о своём блоге, а также о своей проблеме, связанной с потерей вещей во время переезда. Теперь ей нечего показывать, не в чем вести блог, и вообще она в печали. \n"
@@ -257,7 +257,7 @@ msgstr "Max deve essere nella villa da solo..."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Проверить данные с ноутбука Алисы."
-msgstr ""
+msgstr "Controllare i dati dal laptop di Alice."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Возможность просматривать вэб-трансляции Алисы на сайте «MyCams»!"
@@ -315,7 +315,7 @@ msgstr "Riuscire a far sì che Alice si tolga la parte inferiore dei vestiti dur
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Чуть больше возможностей во время приватных трансляций с Алисой!"
-msgstr ""
+msgstr "Più possibilità durante le trasmissioni private con Alice!"
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Вредная привычка"
@@ -353,7 +353,7 @@ msgstr "Convinci Alice a non indossare le mutandine."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Попробовать шлёпнуть Алису по попке, когда она курит травку."
-msgstr ""
+msgstr "Provare a dare una pacca sul sedere ad Alice mentre sta fumando dell'erba."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Нужно продвинуться в выполнении задания «Стримерша»!"
@@ -361,7 +361,7 @@ msgstr "Bisogna fare progressi nella missione «La streamer»!"
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Возможность шлёпать Алису по попке, когда она курит травку!"
-msgstr ""
+msgstr "Possibilità di dare pacche sul sedere ad Alice ogni volta che fuma erba!"
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Любопытно. Похоже, Алиса до смерти боится пауков. А надо заметить, что климат тут очень подходит для всякого рода членистоногих...\n"
@@ -453,7 +453,7 @@ msgstr "Toccare i seni di Alice nel reggiseno, salvandola dal ragno della stanza
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Потрогать грудь Алисы без лифчика, спасая её от паука в комнате."
-msgstr ""
+msgstr "Toccare il seno di Alice senza reggiseno, salvandola da un ragno nella sua stanza."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Без ущерба облапать Алису, снявшую верх купальника, спасая её от паука во дворе."
@@ -465,40 +465,40 @@ msgstr "Dobbiamo convincere Alice a togliersi il reggiseno del costume da bagno 
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Возможность немного чаще подбрасывать пауков Алисе!"
-msgstr ""
+msgstr "Possibilità di lanciare ragni ad Alice un po' più spesso!"
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Платье для тусовок"
-msgstr ""
+msgstr "Un vestito da discoteca"
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Алиса настойчиво просила маму купить ей вечернее платье для посещения ночных клубов. Теперь Эрик выпишет моей маме премию и Алиса всё же его получит, причём уже довольно скоро.\n"
 "Может быть, мне постараться купить его раньше? Вот только стоит ли..."
-msgstr ""
+msgstr "Alice ha chiesto con insistenza alla mamma di comprarle un abito da sera per andare nei night club. Ora Eric darà un premio a mia madre e Alice lo otterrà comunque, e anche piuttosto presto. Forse dovrei cercare di comprarlo io prima? Ma ne varrà la pena..."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Выяснить у Алисы, сколько может стоить вечернее платье."
-msgstr ""
+msgstr "Chiedere ad Alice quanto può costare un abito da sera."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Нужно подойти к Алисе и поговорить с ней на эту тему в дневное время..."
-msgstr ""
+msgstr "Devo avvicinarmi ad Alice e parlarle di questo argomento durante il giorno..."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Пойти с Алисой в магазин одежды за вечерним платьем, опередив маму."
-msgstr ""
+msgstr "Andare con Alice in un negozio di abbigliamento per il vestito da sera, anticipando la mamma."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Главное, собрать нужную сумму в $600..."
-msgstr ""
+msgstr "L'importante è raccogliere la somma necessaria di $600..."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "В следующей главе у Макса будет небольшое преимущество перед Эриком во влиянии на Алису!"
-msgstr ""
+msgstr "Nel prossimo capitolo, Max avrà un leggero vantaggio su Eric nell'influenzare Alice!"
 
 # game/scripts/engine/tasks.rpy:220
 msgid "В следущей главе у Эрика будет небольшое преимущество перед Максом во влиянии на Алису!"
-msgstr ""
+msgstr "Nel prossimo capitolo, Eric avrà un leggero vantaggio su Max nell'influenzare Alice!"
 
 # game/scripts/engine/tasks.rpy:220
 msgid "В нашем доме такие большие окна во всех комнатах, что нельзя просто так взять и не подсмотреть за кем-нибудь...\n"
@@ -578,7 +578,7 @@ msgstr "Chiedi a Lisa se è diventata amica di Olivia."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Возможность пообниматься с Лизой, когда она уходит в школу!"
-msgstr ""
+msgstr "Possibilità di scambiarsi abbracci con Lisa quando va a scuola!"
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Кажется, Лиза совсем ничего не знает о мальчиках. Возможно, она даже порно ни разу не видела, раз так удивилась обычному утреннему стояку. \n"
@@ -608,7 +608,7 @@ msgstr "Sarà possibile regalare nuovamente il libro una volta che sarà stato c
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Нужно подойти к Лизе и поговорить с ней на эту тему..."
-msgstr ""
+msgstr "Devo avvicinarmi a Lisa e parlarle di questo argomento..."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Подождать, пока Лиза дочитает книгу."
@@ -660,7 +660,7 @@ msgstr "Devi andare da tua madre e parlarne con lei....."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Макс будет фантазировать, целуя Лизу!"
-msgstr ""
+msgstr "Max fantasticherà mentre bacia Lisa!"
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Ох, вот это я попал! Мама попросила меня помочь Лизе с уроками, чтобы она не отставала по разным предметам и хорошо училась. Теперь, если Лиза получит двойку, то влетит не только ей, но и мне. \n"
@@ -690,7 +690,7 @@ msgstr "Questo può essere offerto solo in cambio della biancheria intima di Lis
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Увидеть Лизу полностью голой, помогая ей с уроками."
-msgstr ""
+msgstr "Vedere Lisa completamente nuda mentre l'aiuti con i compiti."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Нужно поприставать к Лизе определённым образом, когда она закончит с уроками..."
@@ -707,31 +707,31 @@ msgstr "Nuovo costume da bagno"
 # game/scripts/engine/tasks.rpy:220
 msgid "Лизе сейчас приходится загорать в довольно закрытом купальнике, ведь остальные пропали во время переезда. Она очень хочет купальник полегче и наша мама даже согласилась что-то такое купить.\n"
 "Может быть, мне постараться купить его раньше? Вот только стоит ли..."
-msgstr ""
+msgstr "Lisa al momento deve prendere il sole con un costume piuttosto coprente, perché gli altri sono andati perduti durante il trasloco. Desidera tanto un costume più leggero e nostra madre ha persino acconsentito a comprarle qualcosa del genere. Forse dovrei cercare di comprarlo io prima? Ma ne varrà la pena..."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Выяснить, сколько может стоить купальник."
-msgstr ""
+msgstr "Scoprire quanto può costare un costume da bagno."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Пойти с Лизой в магазин одежды за купальником, опередив маму."
-msgstr ""
+msgstr "Andare con Lisa in un negozio di abbigliamento per il costume da bagno, anticipando la mamma."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Главное, собрать нужную сумму в $300..."
-msgstr ""
+msgstr "L'importante è raccogliere la somma necessaria di $300..."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Нужно подойти к Лизе и поговорить с ней на эту тему в дневное время..."
-msgstr ""
+msgstr "Devo avvicinarmi a Lisa e parlarle di questo argomento durante il giorno..."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "В следующей главе у Макса будет небольшое преимущество перед Эриком во влиянии на Лизу!"
-msgstr ""
+msgstr "Nel prossimo capitolo, Max avrà un leggero vantaggio su Eric nell'influenzare Lisa!"
 
 # game/scripts/engine/tasks.rpy:220
 msgid "В следущей главе у Эрика будет небольшое преимущество перед Максом во влиянии на Лизу!"
-msgstr ""
+msgstr "Nel prossimo capitolo, Eric avrà un leggero vantaggio su Max nell'influenzare Lisa!"
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Утренние шалости"
@@ -793,7 +793,7 @@ msgstr "Bisogna osservare ciò che fa Lisa in bagno. È meglio farlo con l'aiuto
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Возможность наблюдать за тем, как Лиза мастурбирует в ванной комнате!"
-msgstr ""
+msgstr "Possibilità di osservare Lisa mentre si masturba in bagno!"
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Похоже, что Лизу, как и Алису, можно подкупить сладостями! Благо, моя младшая сестрёнка довольно мирная и не стремиться выкрутить мне уши при первом же удобном случае. \n"
@@ -942,7 +942,7 @@ msgstr "Questo potrà essere fatto durante il massaggio ai piedi di Alice davant
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Макс будет фантазировать, если сделает полный массаж ступней Алисы у ТВ!"
-msgstr ""
+msgstr "Max fantasticherà mentre fa un massaggio completo ai piedi di Alice davanti alla TV!"
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Книжный секретик"
@@ -956,7 +956,7 @@ msgstr "Alice sta leggendo un libro, ma non vuole parlarne. Non sembra una rivis
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Нужно подойти к Алисе, когда она читает и поговорить с ней на эту тему..."
-msgstr ""
+msgstr "Devo avvicinarmi ad Alice mentre legge e parlarle di questo argomento..."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Поискать книгу в комнате Алисы."
@@ -968,7 +968,7 @@ msgstr "Cerca informazioni sul libro di Alice su Internet."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "В будущем, если Алиса будет обижена на Макса, то он сможет дарить ей эротические книги!"
-msgstr ""
+msgstr "In futuro, se Alice sarà offesa con Max, lui potrà regalarle dei libri erotici!"
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Я подошёл к маме узнать, что она смотрит, а ей как раз на днях подруга посоветовала посмотреть один фильм... Должно быть, она думала, что мама будет смотреть его одна и поэтому не сказала, что этот фильм... с эротическим содержанием... И чем дальше мы его смотрели, тем больше мама пыталась меня выпроводить. Но фильм хороший! Я бы с огромным удовольствием посмотрел вместе с мамой ещё что-нибудь такое..."
@@ -1012,7 +1012,7 @@ msgstr "Far scivolare via i vestiti di mia madre mentre guarda la TV."
 
 # game/scripts/engine/tasks.rpy:220
 msgid "Макс будет фантазировать, сидя с мамой у ТВ!"
-msgstr ""
+msgstr "Max fantasticherà mentre è seduto con la mamma davanti alla TV!"
 
 # game/scripts/engine/tasks.rpy:220
 msgid "При делах"
