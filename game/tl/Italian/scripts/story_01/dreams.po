@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 09:37\n"
+"PO-Revision-Date: 2026-02-20 08:52\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/dreams.rpy:14 #-#-# translate crowdin ev_019_d1b851a2:
 msgid "[_tMax_s_00_] Что у нас тут интересного? Посмотрим..."
@@ -590,7 +590,7 @@ msgstr "[_Max_s_02_] Condividerò sicuramente con lei le mie impressioni sul pro
 
 # game/scripts/story_01/dreams.rpy:418 #-#-# translate crowdin ev_108_e0ba39c0:
 msgid "[_Mia_s_05_] Только не говори ей, насколько углублённо мы прорабатывали возникающие в процессе работы вопросы..."
-msgstr ""
+msgstr "[_Mia_s_05_] Non dirle assolutamente quanto abbiamo approfondito la questione... Deve sembrare tutto naturale..."
 
 # game/scripts/story_01/dreams.rpy:419 #-#-# translate crowdin ev_108_bd7e9202:
 msgid "[_Max_s_01_] Само собой."
@@ -666,35 +666,35 @@ msgstr "[_tMax_s_15_] Porca miseria!!!  Mentre mi stavo avvicinando pian piano a
 
 # game/scripts/story_01/dreams.rpy:502 #-#-# translate crowdin ev_124_d45df2f7:
 msgid "[_tMax_s_13_] А если их Лиза увидит?! Мама же старается её беречь от всего такого, а тут на тебе, сама же с минетом подъехала. Так не годится! [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_13_] Proprio lei che fa tanto la moralista con Lisa, ora è qui a servirmi il piacere su un piatto d'argento... se la piccola le vedesse, cadrebbe il mondo! [nointeract]"
 
 # game/scripts/story_01/dreams.rpy:507 #-#-# translate crowdin ev_124_c943eb31:
 msgid "[_tMax_s_17_] Сейчас я им всё выскажу, а то весь стыд потеряли!"
-msgstr ""
+msgstr "[_tMax_s_17_] Adesso dico io due paroline a queste qui, hanno perso ogni senso del pudore!"
 
 # game/scripts/story_01/dreams.rpy:511 #-#-# translate crowdin ev_124_efa65110:
 msgid "[_tMax_s_15_] Ох, нифига себе!!! Эрик уже во всю трахает маму сзади! Это уже явно перебор..."
-msgstr ""
+msgstr "[_tMax_s_15_] Oh, cazzo! Eric sta già scopando la mamma da dietro! Questo è decisamente troppo..."
 
 # game/scripts/story_01/dreams.rpy:515 #-#-# translate crowdin ev_124_4a7ae5f0:
 msgid "[_Max_s_16_] Ну, вы нашли место, конечно! Надо было ещё посигналить несколько раз, чтобы уже наверняка все вышли посмотреть на вас..."
-msgstr ""
+msgstr "[_Max_s_16_] Beh, avete scelto proprio un bel posto, complimenti! Perché non avete dato anche un paio di colpi di clacson? Così eravamo sicuri che uscissero tutti a guardarvi..."
 
 # game/scripts/story_01/dreams.rpy:516 #-#-# translate crowdin ev_124_4eaa4dd6:
 msgid "[_Ann_s_13_] Ой, Макс... Как же неловко! Ммм... Эрик, подожди... Остановись..."
-msgstr ""
+msgstr "[_Ann_s_13_] Oh, Max... Che imbarazzo! Mmm... Eric, aspetta... Fermati... Ti prego..."
 
 # game/scripts/story_01/dreams.rpy:517 #-#-# translate crowdin ev_124_7b647372:
 msgid "[_Eric_s_10_] Да ладно тебе, Ань. Макс же подросток, вот и пусть посмотрит, чем взрослые любят заниматься. А то одно дело увидеть, как сексом занимаются на видео и совсем другое, когда прямо перед тобой..."
-msgstr ""
+msgstr "[_Eric_s_10_] Dai, Anna, non farla lunga. Max è un adolescente, che guardi pure come si divertono gli adulti. Un conto è vedere il sesso nei video, un altro è avercelo proprio qui davanti agli occhi..."
 
 # game/scripts/story_01/dreams.rpy:518 #-#-# translate crowdin ev_124_a96a685f:
 msgid "[_Ann_s_12_] Эрик, но... он мой сын. Ахх... Это неправильно, ты же понимаешь..."
-msgstr ""
+msgstr "[_Ann_s_12_] Eric, ma... è mio figlio. Ahhh... Tutto questo è sbagliato, lo capisci anche tu..."
 
 # game/scripts/story_01/dreams.rpy:519 #-#-# translate crowdin ev_124_4cc484aa:
 msgid "[_Max_s_11_] Знаете, а я не против..."
-msgstr ""
+msgstr "[_Max_s_11_] Sapete che c’è? Io non sono contrario..."
 
 # game/scripts/story_01/dreams.rpy:528 #-#-# translate crowdin ev_124_6011e616:
 msgid "[_Ann_s_11_] Тебя так смутило увиденное, сынок? Но, пойми, мы с Эриком взрослые свободные люди. Такое нужно просто принять и не мешать нам..."
@@ -1326,11 +1326,11 @@ msgstr "{i}andare a guardare dal balcone{/i}"
 
 # game/scripts/story_01/dreams.rpy:490
 msgid "Собственно, люди они взрослые, могут делать, что захотят..."
-msgstr ""
+msgstr "In fin dei conti, sono adulti... Possono fare quello che vogliono..."
 
 # game/scripts/story_01/dreams.rpy:490
 msgid "Блин, да мне это совсем не нравится! Даже смотреть противно..."
-msgstr ""
+msgstr "Cavolo, non mi piace per niente! Mi fa quasi schifo guardare..."
 
 # game/scripts/story_01/dreams.rpy:493
 msgid "{i}подсмотреть за ними поближе{/i}"
@@ -1338,7 +1338,7 @@ msgstr "{i}sbirciare da vicino{/i}"
 
 # game/scripts/story_01/dreams.rpy:501
 msgid "{i}спуститься и пристыдить их{/i}"
-msgstr ""
+msgstr "{i}vado giù a farli vergognare come si deve{/i}"
 
 # game/scripts/story_01/dreams.rpy:563
 msgid "Ложись на кровать..."
