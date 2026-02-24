@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 09:37\n"
+"PO-Revision-Date: 2026-02-24 09:29\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/shopping.rpy:20 #-#-# translate crowdin ev_051_f2e28c50:
 msgid "[_Ann_s_01_] Макс, мы пошли по магазинам. Не скучай тут без нас, хорошо? Вернёмся часа через 3... [nointeract]"
@@ -126,19 +126,19 @@ msgstr "[_Max_s_01_] Sì. Va bene, riposati."
 
 # game/scripts/story_01/shopping.rpy:101 #-#-# translate crowdin ev_151_67544684:
 msgid "[_Ann_s_01_] Макс, мы пошли по магазинам. Представляешь, Эрик даже отправил за нами служебную машину! Не скучай тут без нас, хорошо? Вернёмся часа через 3..."
-msgstr ""
+msgstr "[_Ann_s_01_] Max, noi andiamo a fare shopping. Figurati che Eric ha persino mandato l'auto aziendale a prenderci! Non annoiarti qui da solo, va bene? Torneremo tra tre ore..."
 
 # game/scripts/story_01/shopping.rpy:102 #-#-# translate crowdin ev_151_e3e1419b:
 msgid "[_Max_s_16_] Вот он муд... молодец какой..."
-msgstr ""
+msgstr "[_Max_s_16_] Ma guarda tu che str... Straordinario gentiluomo..."
 
 # game/scripts/story_01/shopping.rpy:106 #-#-# translate crowdin ev_151_c2c7b426:
 msgid "[_Alice_s_03_] Ты, Макс, правда, уже побаловал нас с Лизой подарками, которые мы так сильно хотели. Так что сегодня мамин день, посмотрим, что она себе прикупит..."
-msgstr ""
+msgstr "[_Alice_s_03_] Max, a dire il vero, tu hai già viziato me e Lisa con i regali che desideravamo tanto. Quindi oggi è il giorno della mamma, vediamo cosa si comprerà lei..."
 
 # game/scripts/story_01/shopping.rpy:107 #-#-# translate crowdin ev_151_89221454:
 msgid "[_Lisa_s_03_] Да, очень интересно!"
-msgstr ""
+msgstr "[_Lisa_s_03_] Sì, molto interessante!"
 
 # game/scripts/story_01/shopping.rpy:108 #-#-# translate crowdin ev_151_1c0457e9:
 msgid "[_Max_s_11_] Удачных покупок, мам..."
