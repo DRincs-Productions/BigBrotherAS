@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 09:37\n"
+"PO-Revision-Date: 2026-02-25 11:25\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/mia.rpy:12 #-#-# translate crowdin ev_063_eb6a6385:
 msgid "[_tMax_s_11_] Звонок в ворота! Похоже, к нам кто-то приехал..."
@@ -362,7 +362,7 @@ msgstr "[_tMax_s_16_] Oh, sì. Devo preparare da bere... [nointeract]"
 
 # game/scripts/story_01/mia.rpy:201 #-#-# translate crowdin ev_093_a86f329e:
 msgid "[_Max_s_02_] Мам, Мия попросила сделать прохладительные напитки. Ты будешь?"
-msgstr ""
+msgstr "[_Max_s_02_] Mamma, Mia mi ha chiesto di preparare qualcosa di fresco da bere. Ne vuoi un po' anche tu?"
 
 # game/scripts/story_01/mia.rpy:202 #-#-# translate crowdin ev_093_11a8583e:
 msgid "[_Ann_] {b}Анна:{/b} \n"
@@ -1718,19 +1718,19 @@ msgstr "[_tMax_s_11_] Suona il campanello! Deve essere arrivata Mia..."
 
 # game/scripts/story_01/mia.rpy:1210 #-#-# translate crowdin ev_150_67390dc8:
 msgid "[_Mia_s_01_] Привет, Макс! А я за тобой..."
-msgstr ""
+msgstr "[_Mia_s_01_] Ciao Max! Sono venuta a prenderti..."
 
 # game/scripts/story_01/mia.rpy:1211 #-#-# translate crowdin ev_150_e852b313:
 msgid "[_Max_s_01_] Привет! Рад вас снова видеть. Вы очень классно смотритесь в этом наряде..."
-msgstr ""
+msgstr "[_Max_s_01_] Ciao! Che piacere rivedervi. Stai benissimo con questo completo..."
 
 # game/scripts/story_01/mia.rpy:1216 #-#-# translate crowdin ev_150_67390dc8_1:
 msgid "[_Mia_s_01_] Привет, Макс! А я за тобой..."
-msgstr ""
+msgstr "[_Mia_s_01_] Ciao Max! Sono venuta a prenderti..."
 
 # game/scripts/story_01/mia.rpy:1217 #-#-# translate crowdin ev_150_e852b313_1:
 msgid "[_Max_s_01_] Привет! Рад вас снова видеть. Вы очень классно смотритесь в этом наряде..."
-msgstr ""
+msgstr "[_Max_s_01_] Ciao! Che piacere rivedervi. Stai benissimo con questo completo..."
 
 # game/scripts/story_01/mia.rpy:1222 #-#-# translate crowdin ev_150_4444152d:
 msgid "[_Mia_s_02_] Спасибо, в этом всегда приятно убедиться. Если ты готов, то можем ехать... [nointeract]"
