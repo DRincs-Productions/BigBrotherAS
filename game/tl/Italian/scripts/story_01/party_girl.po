@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-25 16:32\n"
+"PO-Revision-Date: 2026-02-25 18:10\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/party_girl.rpy:14 #-#-# translate crowdin ev_147_056d8b95:
 msgid "[_Alice_s_02_] Маленькое и чёрное, Макс."
@@ -30,19 +30,19 @@ msgstr "[_Max_s_11_] Che ridere. In realtà, avevo intenzione di comprarlo per t
 
 # game/scripts/story_01/party_girl.rpy:18 #-#-# translate crowdin ev_147_74e95203:
 msgid "[_Alice_s_11_] Ну да, кажется, где-то и когда-то я это уже слышала. Не переживай так, мне его скоро купят."
-msgstr ""
+msgstr "[_Alice_s_11_] Sì, certo, mi sembra di averlo già sentito da qualche parte, prima o poi. Non preoccuparti tanto, me lo compreranno presto."
 
 # game/scripts/story_01/party_girl.rpy:22 #-#-# translate crowdin ev_147_ae241e3d:
 msgid "[_Max_s_13_] А то я не знаю."
-msgstr ""
+msgstr "[_Max_s_13_] Come se non lo sapessi già."
 
 # game/scripts/story_01/party_girl.rpy:24 #-#-# translate crowdin ev_147_b3cd5816:
 msgid "[_Alice_s_15_] Тогда зачем пристаёшь? Позлить меня хочешь, да? Смотри мне, не советую... [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_15_] E allora perché mi stai addosso? Vuoi farmi arrabbiare, vero? Guarda che non te lo consiglio... [nointeract]"
 
 # game/scripts/story_01/party_girl.rpy:29 #-#-# translate crowdin ev_147_f529e1e1:
 msgid "[_tMax_s_16_] Значит, $600... Придётся подкопить. Или ну его нафиг, это платье за такие-то деньги?"
-msgstr ""
+msgstr "[_tMax_s_16_] Quindi, $600... Dovrò risparmiare un po'. O forse chi se ne frega di questo vestito per tutti quei soldi?"
 
 # game/scripts/story_01/party_girl.rpy:35 #-#-# translate crowdin ev_147_deee429e:
 msgid "[_Max_s_01_] А давай купим сейчас?"
