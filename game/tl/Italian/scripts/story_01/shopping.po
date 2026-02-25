@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-24 17:04\n"
+"PO-Revision-Date: 2026-02-25 08:01\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/shopping.rpy:20 #-#-# translate crowdin ev_051_f2e28c50:
 msgid "[_Ann_s_01_] Макс, мы пошли по магазинам. Не скучай тут без нас, хорошо? Вернёмся часа через 3... [nointeract]"
@@ -338,31 +338,31 @@ msgstr "[_tMax_s_13_] Questo Eric è un bastardo davvero sospetto. O è solo una
 
 # game/scripts/story_01/shopping.rpy:247 #-#-# translate crowdin ev_152_b0c1e3a6:
 msgid "[_Ann_s_01_] Ну, Макс, как там у вас с Эриком, налаживается контакт?"
-msgstr ""
+msgstr "[_Ann_s_01_] Allora, Max, come va con Eric? State iniziando a legare?"
 
 # game/scripts/story_01/shopping.rpy:248 #-#-# translate crowdin ev_152_d8634607:
 msgid "[_Max_s_16_] Не сказал бы. Ты, пожалуйста, будь с ним осторожнее. Он какой-то сильно мутный тип."
-msgstr ""
+msgstr "[_Max_s_16_] Non direi proprio. Per favore, fai molta attenzione con lui. È un tipo davvero losco."
 
 # game/scripts/story_01/shopping.rpy:253 #-#-# translate crowdin ev_152_765b4176:
 msgid "[_Ann_s_10_] Не знаю, с чего ты так решил, сынок. У меня об Эрике сложилось только крайне положительное впечатление."
-msgstr ""
+msgstr "[_Ann_s_10_] Non so perché tu la pensi così, figliolo. Di Eric ho avuto solo un'impressione estremamente positiva."
 
 # game/scripts/story_01/shopping.rpy:254 #-#-# translate crowdin ev_152_8dbfa66b:
 msgid "[_Max_s_13_] Вот это и подозрительно, потому что я вижу обратное."
-msgstr ""
+msgstr "[_Max_s_13_] Proprio questo è sospetto, perché io vedo l'esatto contrario."
 
 # game/scripts/story_01/shopping.rpy:255 #-#-# translate crowdin ev_152_de807517:
 msgid "[_Ann_s_12_] Знаешь, я думаю, ты просто ещё недостаточно хорошо его узнал."
-msgstr ""
+msgstr "[_Ann_s_12_] Sai, penso che tu non l'abbia ancora conosciuto abbastanza bene."
 
 # game/scripts/story_01/shopping.rpy:256 #-#-# translate crowdin ev_152_9d15e9d7:
 msgid "[_Max_s_12_] Всё ясно с тобой, мам.. "
-msgstr ""
+msgstr "[_Max_s_12_] Ho capito tutto, mamma"
 
 # game/scripts/story_01/shopping.rpy:257 #-#-# translate crowdin ev_152_bcdb38d9:
 msgid "[_tMax_s_16_] Похоже, мне ещё придётся ей это доказать..."
-msgstr ""
+msgstr "[_tMax_s_16_] Sembra che dovrò ancora dimostrarglielo..."
 
 # game/scripts/story_01/shopping.rpy:270 #-#-# translate crowdin ev_152_3f008bbd:
 msgid "[_Eric_s_08_] У меня всё схвачено... Правда, с пареньком могут быть проблемы, но это в любом случае решаемо..."
