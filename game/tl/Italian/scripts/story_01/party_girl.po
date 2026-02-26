@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-26 10:04\n"
+"PO-Revision-Date: 2026-02-26 13:49\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/party_girl.rpy:14 #-#-# translate crowdin ev_147_056d8b95:
 msgid "[_Alice_s_02_] Маленькое и чёрное, Макс."
@@ -82,55 +82,55 @@ msgstr "[_Alice_s_12_] Allora, non te ne andare, sarò pronta tra poco..."
 
 # game/scripts/story_01/party_girl.rpy:69 #-#-# translate crowdin ev_147_go_get_dress_c4108603:
 msgid "[_Alice_s_12_] Так, жди меня внизу, я скоро буду готова..."
-msgstr ""
+msgstr "[_Alice_s_12_] Allora, aspettami giù, sarò pronta tra poco..."
 
 # game/scripts/story_01/party_girl.rpy:70 #-#-# translate crowdin ev_147_go_get_dress_62503d2f:
 msgid "[_Max_s_02_] Жду..."
-msgstr ""
+msgstr "[_Max_s_02_] Sto aspettando..."
 
 # game/scripts/story_01/party_girl.rpy:76 #-#-# translate crowdin ev_147_go_get_dress_e50782a7:
 msgid "[_tMax_s_16_] И зачем мне вообще всё это нужно? Наверняка же в итоге просто спасибо скажет и всё, будет по своим клубам шататься, попой крутить перед озабоченными мужиками."
-msgstr ""
+msgstr "[_tMax_s_16_] E perché mai dovrei averne bisogno? Sicuramente alla fine dirà solo grazie e basta, andrà in giro per i suoi club a sculettare davanti a uomini arrapati."
 
 # game/scripts/story_01/party_girl.rpy:77 #-#-# translate crowdin ev_147_go_get_dress_ac3c6173:
 msgid "[_tMax_s_11_] Ладно, посмотрим... Может и мне что-то перепадёт от сестрёнки. Вот, кстати, и она уже бежит..."
-msgstr ""
+msgstr "[_tMax_s_11_] Va bene, vedremo... Magari otterrò qualcosa anch'io dalla sorellina. Ed eccola qui, sta già correndo..."
 
 # game/scripts/story_01/party_girl.rpy:82 #-#-# translate crowdin ev_147_go_get_dress_3843b48e:
 msgid "[_Alice_s_02_] Ты и правда ждёшь! Я просто в шоке! Ну, пойдём тогда... [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_02_] Aspetti davvero! Sono scioccata! Beh, andiamo allora... [nointeract]"
 
 # game/scripts/story_01/party_girl.rpy:97 #-#-# translate crowdin ev_148_12348cc0:
 msgid "[_Alice_s_15_] Учти, Макс... Если окажется, что ты меня всё-таки дурачишь и позвал в магазин только чтобы подсматривать за мной в примерочной, то твои остатки там же и будут соскребать..."
-msgstr ""
+msgstr "[_Alice_s_15_] Tieni a mente, Max... Se scopro che mi stai prendendo in giro e mi hai portata in negozio solo per spiarmi nel camerino, i tuoi resti li raccoglieranno proprio lì..."
 
 # game/scripts/story_01/party_girl.rpy:98 #-#-# translate crowdin ev_148_518319c8:
 msgid "[_Max_s_11_] А если не окажется, то меня будет ждать что-то приятное?"
-msgstr ""
+msgstr "[_Max_s_11_] E se non fosse così, mi aspetterebbe qualcosa di piacevole?"
 
 # game/scripts/story_01/party_girl.rpy:99 #-#-# translate crowdin ev_148_68e9eb43:
 msgid "[_Alice_s_11_] Хм... Ну, может быть... Будет зависеть от того, насколько близко это окажется к разумным пределам."
-msgstr ""
+msgstr "[_Alice_s_11_] Uhm... Beh, forse... Dipenderà da quanto si avvicinerà ai limiti della ragione."
 
 # game/scripts/story_01/party_girl.rpy:100 #-#-# translate crowdin ev_148_43a4fa60:
 msgid "[_Max_s_02_] Твоим или моим?"
-msgstr ""
+msgstr "[_Max_s_02_] Ai tuoi o ai miei?"
 
 # game/scripts/story_01/party_girl.rpy:104 #-#-# translate crowdin ev_148_de1f97fa:
 msgid "[_Alice_s_04_] Уж точно не твоим, Макс! Тебе лишь бы поглазеть или облапать."
-msgstr ""
+msgstr "[_Alice_s_04_] Certamente non ai tuoi, Max! Tu vuoi solo rifarti gli occhi o mettermi le mani addosso."
 
 # game/scripts/story_01/party_girl.rpy:105 #-#-# translate crowdin ev_148_932d9ac7:
 msgid "[_Max_s_03_] Знаешь, можно было бы и совместить. Я буду только рад."
-msgstr ""
+msgstr "[_Max_s_03_] Sai, potremmo anche combinare le due cose. Mi farebbe solo piacere."
 
 # game/scripts/story_01/party_girl.rpy:109 #-#-# translate crowdin ev_148_ecf08c97:
 msgid "[_Alice_s_03_] Девчонку себе найди и вот совмещай там с ней всё, что захочешь. А я иду мерить платье, которое ты собирался мне купить..."
-msgstr ""
+msgstr "[_Alice_s_03_] Trovati una ragazza e combina con lei tutto quello che vuoi. Io vado a provare l'abito che avevi intenzione di comprarmi..."
 
 # game/scripts/story_01/party_girl.rpy:110 #-#-# translate crowdin ev_148_30a54e8a:
 msgid "[_Max_s_16_] Давай только быстрее..."
-msgstr ""
+msgstr "[_Max_s_16_] Dai, solo più velocemente..."
 
 # game/scripts/story_01/party_girl.rpy:114 #-#-# translate crowdin ev_148_746b652b:
 msgid "[_Alice_] {b}Алиса:{/b} \n"
@@ -144,19 +144,19 @@ msgstr "[_tMax_s_11_] Hmm... È un'affermazione un po' strana... A me sembra il 
 
 # game/scripts/story_01/party_girl.rpy:126 #-#-# translate crowdin ev_148_f5ed3414:
 msgid "[_tMax_s_03_] Ммм... А неплохое такое платьице Алиса себе присмотрела. Подойти и полазить под ним руками было бы очень приятно, как мне кажется. Правда, лучше не засматриваться..."
-msgstr ""
+msgstr "[_tMax_s_03_] Mmm... Niente male questo vestitino che Alice ha scelto. Sarebbe molto piacevole infilarci le mani sotto, mi sembra. Anche se, forse è meglio non incantarsi a guardare troppo..."
 
 # game/scripts/story_01/party_girl.rpy:133 #-#-# translate crowdin ev_148_b0961381:
 msgid "[_tMax_s_13_] Так... Ну-ка минуточку! А с чего это Алиса трусики-то надела?! Видимо, она второпях про нашу договорённость совсем забыла. Надо будет её этим как-то прижать..."
-msgstr ""
+msgstr "[_tMax_s_13_] Ehi... Aspetta un momento! E perché mai Alice ha messo le mutandine?! Evidentemente, nella fretta, si è dimenticata del nostro accordo. Dovrò incastrarla in qualche modo per questo..."
 
 # game/scripts/story_01/party_girl.rpy:139 #-#-# translate crowdin ev_148_674d47cc:
 msgid "[_tMax_s_01_] Вырез на груди у этого платья, конечно, вызывает неслабую такую тесноту в джинсах."
-msgstr ""
+msgstr "[_tMax_s_01_] Quella scollatura sul petto di questo vestito, di certo, mi fa sentire i jeans decisamente stretti."
 
 # game/scripts/story_01/party_girl.rpy:148 #-#-# translate crowdin ev_148_9fcff4cd:
 msgid "[_Alice_s_14_] Макс! Ты офигел что ли?! Совсем страх потерял? Я же сказала, что позову, когда можно будет смотреть! Ну-ка свали за шторку..."
-msgstr ""
+msgstr "[_Alice_s_14_] Max! Ma sei impazzito?! Hai perso del tutto la testa? Ti ho detto che ti avrei chiamato io quando si poteva guardare! Dai, sparisci dietro la tenda..."
 
 # game/scripts/story_01/party_girl.rpy:149 #-#-# translate crowdin ev_148_6ea3f3f7:
 msgid "[_Max_s_12_] Всё-всё, не горячись..."
@@ -173,7 +173,8 @@ msgstr "[_tMax_s_13_] Oh, probabilmente adesso è lì con il suo seno nudo in be
 # game/scripts/story_01/party_girl.rpy:160 #-#-# translate crowdin ev_148_58fa3d12:
 msgid "[_Alice_] {b}Алиса:{/b} \n"
 "Макс, если ты ещё там, то можешь заглянуть в примерочную..."
-msgstr ""
+msgstr "[_Alice_] {b}Alice:{/b} \n"
+"Max, se sei ancora lì, puoi dare un'occhiata nel camerino..."
 
 # game/scripts/story_01/party_girl.rpy:161 #-#-# translate crowdin ev_148_9544c783:
 msgid "[_Max_s_02_] Обязательно!"
@@ -181,15 +182,15 @@ msgstr "[_Max_s_02_] Assolutamente!"
 
 # game/scripts/story_01/party_girl.rpy:165 #-#-# translate crowdin ev_148_9684803a:
 msgid "[_Alice_s_02_] Ну как, Макс, тебе нравится? Мне идёт?"
-msgstr ""
+msgstr "[_Alice_s_02_] Allora, Max, ti piace? Mi sta bene?"
 
 # game/scripts/story_01/party_girl.rpy:166 #-#-# translate crowdin ev_148_c7623e06:
 msgid "[_Max_s_05_] О да! Выглядишь, как минимум шикарно. А как максимум, то вообще полный улёт..."
-msgstr ""
+msgstr "[_Max_s_05_] Oh sì! Sembri a dir poco splendida. E come massimo, beh... è uno sballo totale..."
 
 # game/scripts/story_01/party_girl.rpy:170 #-#-# translate crowdin ev_148_66839635:
 msgid "[_Alice_s_04_] Хи-хи... Такое мне как раз и нужно! Однозначно надо брать, Макс..."
-msgstr ""
+msgstr "[_Alice_s_04_] Hi-hi... È proprio quello che mi serve! Dobbiamo prenderlo assolutamente, Max..."
 
 # game/scripts/story_01/party_girl.rpy:171 #-#-# translate crowdin ev_148_8943f8f4:
 msgid "[_Max_s_01_] Знаешь, стоит оно приличных денег, а я не миллиардер. Хочется прочувствовать, насколько ты рада этому подарку."
