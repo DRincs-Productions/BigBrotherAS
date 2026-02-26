@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-26 13:49\n"
+"PO-Revision-Date: 2026-02-26 16:01\n"
 
 # TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/bikini.rpy:8 #-#-# translate crowdin ev_008_3c08b543:
 msgid "[_Lisa_s_09_] Жарко... Но у меня другого и нет. Ты же знаешь, что наши вещи пропали. Вот там и все мои купальники были..."
@@ -70,55 +70,55 @@ msgstr "[_Max_s_01_] Va bene, ci siamo!"
 
 # game/scripts/story_01/bikini.rpy:40 #-#-# translate crowdin ev_144_8cb9334c:
 msgid "[_tMax_s_11_] Сколько же интересно может стоить купальник, который хочет Лиза? Сейчас посмотрим..."
-msgstr ""
+msgstr "[_tMax_s_11_] Mi chiedo quanto possa costare il costume che vuole Lisa... Vediamo un po'..."
 
 # game/scripts/story_01/bikini.rpy:41 #-#-# translate crowdin ev_144_c16f1423:
 msgid "[_tMax_s_02_] Можно было бы у неё спросить, но хочется сделать видимость, будто я могу купить абсолютно любой купальник. Как например этот..."
-msgstr ""
+msgstr "[_tMax_s_02_] Potrei anche chiederglielo, ma preferisco darle l'impressione di poter comprare assolutamente qualsiasi costume. Come questo, per esempio..."
 
 # game/scripts/story_01/bikini.rpy:42 #-#-# translate crowdin ev_144_4e1ade90:
 msgid "[_tMax_s_15_] Сколько?! Ничего себе! Они совсем что ли поехали? Не могут эти несколько ниток столько стоить! Надо смотреть что-то другое..."
-msgstr ""
+msgstr "[_tMax_s_15_] Quanto?! Ma stiamo scherzando? Sono impazziti del tutto? Quei quattro fili non possono costare così tanto! Devo cercare qualcos'altro..."
 
 # game/scripts/story_01/bikini.rpy:43 #-#-# translate crowdin ev_144_3ff358b3:
 msgid "[_tMax_s_16_] Н-да... В общем и целом теперь понятно, сколько мне нужно. Суммы в $300 должно хватить, я надеюсь."
-msgstr ""
+msgstr "[_tMax_s_16_] Beh... In linea di massima ora mi è chiaro quanto mi serve. $300 dovrebbero bastare, spero."
 
 # game/scripts/story_01/bikini.rpy:46 #-#-# translate crowdin ev_144_ec7a895d:
 msgid "[_tMax_s_14_] Мне придётся подкопить деньжат. Только после этого можно будет позвать Лизу в магазин одежды, чтобы подобрать ей купальник..."
-msgstr ""
+msgstr "[_tMax_s_14_] Dovrò mettere da parte un po' di soldi. Solo dopo potrò invitare Lisa al negozio di abbigliamento per sceglierle un costume..."
 
 # game/scripts/story_01/bikini.rpy:48 #-#-# translate crowdin ev_144_a87004fe:
 msgid "[_tMax_s_01_] И мне, кстати, хватает для этого деньжат. Осталось лишь позвать Лизу в магазин одежды, чтобы подобрать ей купальник..."
-msgstr ""
+msgstr "[_tMax_s_01_] E comunque, ho abbastanza soldi per farlo. Non resta che invitare Lisa al negozio di abbigliamento per sceglierle un costume..."
 
 # game/scripts/story_01/bikini.rpy:50 #-#-# translate crowdin ev_144_147ae21b:
 msgid "[_tMax_s_11_] Идти надо будет днём, когда она будет свободна от школы и других важных дел."
-msgstr ""
+msgstr "[_tMax_s_11_] Bisognerà andarci di giorno, quando lei sarà libera dalla scuola e da altri impegni importanti."
 
 # game/scripts/story_01/bikini.rpy:73 #-#-# translate crowdin ev_145_start_66a8f3dc:
 msgid "[_Lisa_s_02_] Макс, вот как будто ты не знаешь, что да! И мне наконец-то его скоро купят..."
-msgstr ""
+msgstr "[_Lisa_s_02_] Max, come se tu non sapessi che è così! E finalmente me lo compreranno presto..."
 
 # game/scripts/story_01/bikini.rpy:74 #-#-# translate crowdin ev_145_start_9dff5de3:
 msgid "[_Max_s_01_] А хочешь прямо сейчас?"
-msgstr ""
+msgstr "[_Max_s_01_] E lo vuoi proprio ora?"
 
 # game/scripts/story_01/bikini.rpy:75 #-#-# translate crowdin ev_145_start_e3fc35f4:
 msgid "[_Lisa_s_09_] Эээ... В смысле, сейчас?"
-msgstr ""
+msgstr "[_Lisa_s_09_] Ehh... In che senso, adesso?"
 
 # game/scripts/story_01/bikini.rpy:76 #-#-# translate crowdin ev_145_start_5b17523d:
 msgid "[_Max_s_03_] Мы можем прямо сейчас пойти в магазин и подобрать тебе купальник..."
-msgstr ""
+msgstr "[_Max_s_03_] Possiamo andare in negozio proprio ora e sceglierti un costume..."
 
 # game/scripts/story_01/bikini.rpy:83 #-#-# translate crowdin ev_145_start_b2b2a505:
 msgid "[_Lisa_s_13_] Серьёзно?! Новый купальник прямо сейчас? Ты купишь мне купальник???"
-msgstr ""
+msgstr "[_Lisa_s_13_] Sul serio?! Un nuovo costume proprio ora? Mi comprerai un costume???"
 
 # game/scripts/story_01/bikini.rpy:84 #-#-# translate crowdin ev_145_start_823a50bb:
 msgid "[_Max_s_11_] Причём, какой захочешь. Если, конечно, побыстрее оденешься, а то я и передумать могу успеть."
-msgstr ""
+msgstr "[_Max_s_11_] E per di più, quello che vuoi tu. Se, ovviamente, ti vesti in fretta, altrimenti potrei anche fare in tempo a cambiare idea."
 
 # game/scripts/story_01/bikini.rpy:85 #-#-# translate crowdin ev_145_start_8b9d1177:
 msgid "[_Lisa_s_11_] Ой, я мигом! Только никуда не уходи без меня..."
