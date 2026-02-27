@@ -1,0 +1,138 @@
+# TODO: Translation updated at 2026-02-19 00:46
+
+# game/scripts/screens/collection.rpy:751
+translate italian compile_puzzle_start_e29c0251:
+
+    # "Данное изображение разбито на множество фрагментов."
+    "Questa immagine è spezzata in molti frammenti."
+
+# game/scripts/screens/collection.rpy:752
+translate italian compile_puzzle_start_70f9d915:
+
+    # "Чтобы правильно его собрать, вам потребуется поворачивать эти фрагменты (при нажатии) и перемещать их (зажать и перетащить в другое место)."
+    "Per assemblarlo correttamente, è necessario ruotare i pezzi (facendo clic) e spostarli (pizzicandoli e trascinandoli in un'altra posizione)."
+
+# game/scripts/screens/collection.rpy:755
+translate italian compile_puzzle_start_600592cc:
+
+    # "Если окантовка фрагмента красного цвета, то его нужно переместить и повернуть."
+    "Se il bordo del frammento è di colore rosso, allora va spostato e ruotato."
+
+# game/scripts/screens/collection.rpy:756
+translate italian compile_puzzle_start_96342d1d:
+
+    # "Если окантовка фрагмента оранжевого цвета, то его нужно только переместить."
+    "Se il bordo del frammento è di colore arancione, allora va solo spostato."
+
+# game/scripts/screens/collection.rpy:757
+translate italian compile_puzzle_start_4522cd23:
+
+    # "Если окантовка фрагмента голубого цвета, то его нужно только повернуть."
+    "Se il bordo del frammento è di colore azzurro, allora va solo ruotato."
+
+# game/scripts/screens/collection.rpy:793
+translate italian compile_puzzle_win_77c1ec18:
+
+    # "Головоломка решена!"
+    "Puzzle risolto!"
+
+# game/scripts/screens/collection.rpy:794
+translate italian compile_puzzle_win_7e7566c8:
+
+    # "Данное изображение можно в любой момент просмотреть в Галерее."
+    "Questa immagine può essere visualizzata nella Galleria in qualsiasi momento."
+
+translate italian strings:
+
+    # game/scripts/screens/collection.rpy:141
+    old "Предыдущая"
+    new "Precedente"
+
+    # game/scripts/screens/collection.rpy:146
+    old "Удивлённая"
+    new "Sorpreso"
+
+    # game/scripts/screens/collection.rpy:148
+    old "Сердитая"
+    new "Arrabbiato"
+
+    # game/scripts/screens/collection.rpy:150
+    old "Сильно стесняющаяся"
+    new "Fortemente consapevole di sé"
+
+    # game/scripts/screens/collection.rpy:152
+    old "Стесняющаяся"
+    new "Timido"
+
+    # game/scripts/screens/collection.rpy:154
+    old "!!! ОШИБКА !!!"
+    new "!!! ERRORE !!!"
+
+    # game/scripts/screens/collection.rpy:173
+    old "Следующая"
+    new "Successivo"
+
+    # game/scripts/screens/collection.rpy:204
+    old "Макс ещё не видел Алису такой!"
+    new "Max non aveva mai visto Alice in questo modo!"
+
+    # game/scripts/screens/collection.rpy:206
+    old "Макс ещё не видел маму такой!"
+    new "Max non ha mai visto la sua mamma così!"
+
+    # game/scripts/screens/collection.rpy:208
+    old "Макс ещё не видел Лизу такой!"
+    new "Max non aveva mai visto Lisa in questo modo!"
+
+    # game/scripts/screens/collection.rpy:210
+    old "Макс ещё не видел Мию такой!"
+    new "Max non aveva mai visto Mia così!"
+
+    # game/scripts/screens/collection.rpy:262
+    old "Все персонажи"
+    new "Tutti i personaggi"
+
+    # game/scripts/screens/collection.rpy:343
+    old "Макс скоро увидит этот сон, нужно просто немного подождать..."
+    new "Max vedrà presto questo sogno, bisogna solo aspettare un po’..."
+
+    # game/scripts/screens/collection.rpy:352
+    old "СОН #[tooltip]"
+    new "Sogno #[tooltip]"
+
+    # game/scripts/screens/collection.rpy:368
+    old "Выполнено [number] из [total]"
+    new "Eseguito [numero] di [totale]"
+
+    # game/scripts/screens/collection.rpy:532
+    old "ГОЛОВОЛОМКА"
+    new "PARLARE"
+
+    # game/scripts/screens/collection.rpy:548
+    old "Изображение, разбитое на фрагменты ([cols]x[rows])"
+    new "Immagine divisa in fette ([cols]x[rows])"
+
+    # game/scripts/screens/collection.rpy:553
+    old "{i}Решать головоломку{/i}"
+    new "{i}Risolvi il puzzle{/i}"
+
+    # game/scripts/screens/collection.rpy:557
+    old "{i}Просмотреть изображение{/i}"
+    new "{i}Visualizza immagine{/i}"
+
+    # game/scripts/screens/collection.rpy:598
+    old "Добавить в событие"
+    new "Aggiungi all'evento"
+
+    # game/scripts/screens/collection.rpy:655
+    old "Собрать повторно"
+    new "Riassemblare"
+
+    # game/scripts/screens/collection.rpy:772
+    old "Прогресс с головоломкой будет утерян.\nВы уверены, что хотите вернуться в Галерею?"
+    new "I progressi del puzzle andranno persi.\nSiete sicuri di voler tornare alla Galleria?"
+
+    # game/scripts/screens/collection.rpy:950
+    old "НАСТРОЙКИ"
+    new "IMPOSTAZIONI"
+
