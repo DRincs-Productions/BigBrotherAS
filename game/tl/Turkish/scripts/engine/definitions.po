@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2026-02-19 09:39\n"
+"PO-Revision-Date: 2026-06-27 16:37\n"
 
-# TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/definitions.rpy:24
+# TODO: Translation updated at 2026-06-22 22:36 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/definitions.rpy:24
 msgid "Макса"
 msgstr "Max"
 
@@ -36,35 +36,39 @@ msgstr "Eric"
 msgid "Мии"
 msgstr "Mia"
 
-# game/scripts/engine/definitions.rpy:34
+# game/scripts/engine/definitions.rpy:30
+msgid "Киры"
+msgstr ""
+
+# game/scripts/engine/definitions.rpy:35
 msgid "Комната Макса и Лизы"
 msgstr "Max ve Lisa'nın odası"
 
-# game/scripts/engine/definitions.rpy:34
+# game/scripts/engine/definitions.rpy:35
 msgid "Комната Алисы"
 msgstr "Alice'in odası"
 
-# game/scripts/engine/definitions.rpy:34
+# game/scripts/engine/definitions.rpy:35
 msgid "Комната Анны"
 msgstr "Anna'nın odası"
 
-# game/scripts/engine/definitions.rpy:34
+# game/scripts/engine/definitions.rpy:35
 msgid "Ванная комната"
 msgstr "Banyo"
 
-# game/scripts/engine/definitions.rpy:34
+# game/scripts/engine/definitions.rpy:35
 msgid "Гостиная"
 msgstr "Oturma odası"
 
-# game/scripts/engine/definitions.rpy:34
+# game/scripts/engine/definitions.rpy:35
 msgid "Веранда"
 msgstr "Teras"
 
-# game/scripts/engine/definitions.rpy:34
+# game/scripts/engine/definitions.rpy:35
 msgid "Двор"
 msgstr "Bahçe"
 
-# game/scripts/engine/definitions.rpy:44
+# game/scripts/engine/definitions.rpy:45
 msgid "Спальня"
 msgstr "Yatak Odası"
 
