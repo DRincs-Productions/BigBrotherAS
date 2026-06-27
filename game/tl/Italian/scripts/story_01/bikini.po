@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-03-01 11:12\n"
+"PO-Revision-Date: 2026-06-27 16:36\n"
 
-# TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/bikini.rpy:8 #-#-# translate crowdin ev_008_3c08b543:
+# TODO: Translation updated at 2026-06-22 22:36 #|#|# # game/scripts/story_01/bikini.rpy:8 #-#-# translate crowdin ev_008_3c08b543:
 msgid "[_Lisa_s_09_] Жарко... Но у меня другого и нет. Ты же знаешь, что наши вещи пропали. Вот там и все мои купальники были..."
 msgstr "[_Lisa_s_09_] Fa caldo... Ma non ho nient'altro. Sai che le nostre cose sono andate perse. È lì che si trovavano tutti i miei costumi da bagno..."
 
@@ -724,35 +724,35 @@ msgstr "[_Lisa_s_01_] Spero che tu ti sia divertito abbastanza a palparmi. Per o
 msgid "[_Max_s_03_] Конечно..."
 msgstr "[_Max_s_03_] Certo..."
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/bikini.rpy:99
+# §translate crowdin strings: #|#|# # game/scripts/story_01/bikini.rpy:101
 msgid "{i}идти в магазин одежды{/i}"
 msgstr "{i}Andare nel negozio di abbigliamento{/i}"
 
-# game/scripts/story_01/bikini.rpy:130
+# game/scripts/story_01/bikini.rpy:133
 msgid "{i}подсмотреть за Лизой{/i}"
 msgstr "{i}sbirciare Lisa...{/i}"
 
-# game/scripts/story_01/bikini.rpy:130
+# game/scripts/story_01/bikini.rpy:162
 msgid "{i}ждать{/i}"
 msgstr "{i}aspetta{/i}"
 
-# game/scripts/story_01/bikini.rpy:228
+# game/scripts/story_01/bikini.rpy:232
 msgid "{i}снова подсмотреть за Лизой{/i}"
 msgstr "{i}sbirciare Lisa ancora una volta{/i}"
 
-# game/scripts/story_01/bikini.rpy:357
+# game/scripts/story_01/bikini.rpy:361
 msgid "Ещё как стоит! (принять поцелуй в щёку)"
 msgstr "Ci puoi scommettere! (accetta il bacio sulla guancia)"
 
-# game/scripts/story_01/bikini.rpy:357
+# game/scripts/story_01/bikini.rpy:382
+msgid "{i}пойти рассчитаться за купальник ($299){/i}"
+msgstr ""
+
+# game/scripts/story_01/bikini.rpy:397
 msgid "Ещё как стоит! (поцеловать её в губы)"
 msgstr "Ci puoi scommettere! (baciandola sulle labbra)"
 
-# game/scripts/story_01/bikini.rpy:357
+# game/scripts/story_01/bikini.rpy:433
 msgid "Ещё как стоит! (дерзко обнять и поцеловать её в губы)"
 msgstr "Eccome se ne vale la pena! (abbracciandola con audacia e baciandola intensamente sulle labbra)"
-
-# game/scripts/story_01/bikini.rpy:380
-msgid "{i}пойти рассчитаться за купальник ($300){/i}"
-msgstr "{i}vado a saldare il conto per il costume ($300){/i}"
 
