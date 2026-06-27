@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/aliceroom.rpy:12 #-#-# translate crowdin ev_alice_dressed_51996b14:
+﻿# TODO: Translation updated at 2026-06-22 22:36 #|#|# # game/scripts/story_01/aliceroom.rpy:12 #-#-# translate crowdin ev_alice_dressed_51996b14:
 msgid "[_tMax_s_11_] Сейчас Алиса должна собираться, чтобы отправиться вместе со всеми по магазинам... [nointeract]"
 msgstr "[_tMax_s_11_] Сейчас Алиса должна собираться, чтобы отправиться вместе со всеми по магазинам... [nointeract]"
 
@@ -106,39 +106,39 @@ msgstr "[_Alice_s_01_] И что это ты тут нарисовался, Ма
 msgid "[_Max_s_01_] Да больно надо. Смотри, чтобы голову не напекло!"
 msgstr "[_Max_s_01_] Да больно надо. Смотри, чтобы голову не напекло!"
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/aliceroom.rpy:18
+# §translate crowdin strings: #|#|# # game/scripts/story_01/aliceroom.rpy:19
 msgid "{i}постучаться{/i}"
 msgstr "{i}постучаться{/i}"
 
-# game/scripts/story_01/aliceroom.rpy:18
+# game/scripts/story_01/aliceroom.rpy:21
 msgid "{i}войти в комнату{/i}"
 msgstr "{i}войти в комнату{/i}"
 
-# game/scripts/story_01/aliceroom.rpy:18
+# game/scripts/story_01/aliceroom.rpy:23
 msgid "{i}приоткрыть дверь{/i}"
 msgstr "{i}приоткрыть дверь{/i}"
 
-# game/scripts/story_01/aliceroom.rpy:62
+# game/scripts/story_01/aliceroom.rpy:64
 msgid "{i}тихонько уйти{/i}"
 msgstr "{i}тихонько уйти{/i}"
 
-# game/scripts/story_01/aliceroom.rpy:80
+# game/scripts/story_01/aliceroom.rpy:82
 msgid "Давай играть, кто больше одежды снимет?"
 msgstr "Давай играть, кто больше одежды снимет?"
 
-# game/scripts/story_01/aliceroom.rpy:93
+# game/scripts/story_01/aliceroom.rpy:95
 msgid "Понял. Не буду мешать..."
 msgstr "Понял. Не буду мешать..."
 
-# game/scripts/story_01/aliceroom.rpy:97
+# game/scripts/story_01/aliceroom.rpy:99
 msgid "{i}подождать за дверью, пока Алиса переоденется{/i}"
 msgstr "{i}подождать за дверью, пока Алиса переоденется{/i}"
 
-# game/scripts/story_01/aliceroom.rpy:256
+# game/scripts/story_01/aliceroom.rpy:258
 msgid "{i}прокрасться в комнату{/i}"
 msgstr "{i}прокрасться в комнату{/i}"
 
-# game/scripts/story_01/aliceroom.rpy:264
+# game/scripts/story_01/aliceroom.rpy:266
 msgid "{i}подложить паука к Алисе{/i}"
 msgstr "{i}подложить паука к Алисе{/i}"
 

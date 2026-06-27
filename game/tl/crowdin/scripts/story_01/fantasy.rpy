@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-02-19 00:46
+﻿# TODO: Translation updated at 2026-06-22 22:36
 
 # game/scripts/story_01/fantasy.rpy:8
 translate crowdin ev_099_42c5624b:
@@ -294,229 +294,229 @@ translate crowdin ev_099_lisa_in_shower_de204ffb:
     # tMax 08 "Ухх... Когда Лиза начинает с таким энтузиазмом скользить своими губками по моему члену уже становится всё равно, увидит нас кто-то или нет. Настоящее блаженство!"
     tMax 08 "Ухх... Когда Лиза начинает с таким энтузиазмом скользить своими губками по моему члену уже становится всё равно, увидит нас кто-то или нет. Настоящее блаженство!"
 
-# game/scripts/story_01/fantasy.rpy:279
+# game/scripts/story_01/fantasy.rpy:278
 translate crowdin ev_099_lisa_in_shower_050d180d:
 
     # tMax 09 "О да! Её страстный ротик хоть и с трудом, но всё лучше и лучше справляется с моим большим членом. Ещё совсем недавно она боялась даже прикоснуться к нему, а теперь с таким наслаждением отсасывает мне, что можно только похвалить!"
     tMax 09 "О да! Её страстный ротик хоть и с трудом, но всё лучше и лучше справляется с моим большим членом. Ещё совсем недавно она боялась даже прикоснуться к нему, а теперь с таким наслаждением отсасывает мне, что можно только похвалить!"
 
-# game/scripts/story_01/fantasy.rpy:285
+# game/scripts/story_01/fantasy.rpy:284
 translate crowdin ev_099_lisa_in_shower_8317c5df:
 
     # Max 10 "Да, Лиза, да! Вот так... Какая ты умница! Ещё чуть-чуть и... я кончу... Ммм... Я уже больше не могу сдерживаться..." nointeract
     Max 10 "Да, Лиза, да! Вот так... Какая ты умница! Ещё чуть-чуть и... я кончу... Ммм... Я уже больше не могу сдерживаться..." nointeract
 
-# game/scripts/story_01/fantasy.rpy:296
+# game/scripts/story_01/fantasy.rpy:295
 translate crowdin ev_099_lisa_by_pool_3fc0b6f6:
 
     # Lisa 05 "Ты зря, Макс, не купаешься. Водичка просто прелесть. Поплавай, не пожалеешь..."
     Lisa 05 "Ты зря, Макс, не купаешься. Водичка просто прелесть. Поплавай, не пожалеешь..."
 
-# game/scripts/story_01/fantasy.rpy:297
+# game/scripts/story_01/fantasy.rpy:296
 translate crowdin ev_099_lisa_by_pool_4367bd92:
 
     # Max 03 "Не сомневаюсь. Я как раз собирался, но заприметил кое-что ещё более прелестное... И прямо ОЧЕНЬ!"
     Max 03 "Не сомневаюсь. Я как раз собирался, но заприметил кое-что ещё более прелестное... И прямо ОЧЕНЬ!"
 
-# game/scripts/story_01/fantasy.rpy:299
+# game/scripts/story_01/fantasy.rpy:298
 translate crowdin ev_099_lisa_by_pool_275f8e29:
 
     # Lisa 02 "Нууу... Судя по тому, куда ты смотришь, это либо наш дом, либо моя..." nointeract
     Lisa 02 "Нууу... Судя по тому, куда ты смотришь, это либо наш дом, либо моя..." nointeract
 
-# game/scripts/story_01/fantasy.rpy:306
+# game/scripts/story_01/fantasy.rpy:305
 translate crowdin ev_099_lisa_by_pool_4784616d:
 
     # Lisa 03 "Ой! Неужто это ты на мои ножки так заглядывался? А мне показалось..."
     Lisa 03 "Ой! Неужто это ты на мои ножки так заглядывался? А мне показалось..."
 
-# game/scripts/story_01/fantasy.rpy:307
+# game/scripts/story_01/fantasy.rpy:306
 translate crowdin ev_099_lisa_by_pool_86eeb0d4:
 
     # Max 04 "Ага, и на них тоже. Я вообще люблю, когда моя младшая сестрёнка такая... мокренькая..."
     Max 04 "Ага, и на них тоже. Я вообще люблю, когда моя младшая сестрёнка такая... мокренькая..."
 
-# game/scripts/story_01/fantasy.rpy:308
+# game/scripts/story_01/fantasy.rpy:307
 translate crowdin ev_099_lisa_by_pool_73bf2753:
 
     # Lisa 11 "Надеюсь, ты не сильно ревнуешь, что это заслуга нашего бассейна?"
     Lisa 11 "Надеюсь, ты не сильно ревнуешь, что это заслуга нашего бассейна?"
 
-# game/scripts/story_01/fantasy.rpy:309
+# game/scripts/story_01/fantasy.rpy:308
 translate crowdin ev_099_lisa_by_pool_c794975a:
 
     # Max 11 "Нет, ведь я могу много всего такого, что бассейну не под силу! Например, вот так..."
     Max 11 "Нет, ведь я могу много всего такого, что бассейну не под силу! Например, вот так..."
 
-# game/scripts/story_01/fantasy.rpy:313
+# game/scripts/story_01/fantasy.rpy:312
 translate crowdin ev_099_lisa_by_pool_c4b332cb:
 
     # Lisa 06 "Ухх... Божечки, Макс, как приятно! Вот это да... Меня даже ножки еле держат от удовольствия! Д-а-а..."
     Lisa 06 "Ухх... Божечки, Макс, как приятно! Вот это да... Меня даже ножки еле держат от удовольствия! Д-а-а..."
 
-# game/scripts/story_01/fantasy.rpy:314
+# game/scripts/story_01/fantasy.rpy:313
 translate crowdin ev_099_lisa_by_pool_1627ddc6:
 
     # tMax 01 "А как ты думала, сестрёнка? Решила, что сможешь устоять передо мной? Большой просчёт..."
     tMax 01 "А как ты думала, сестрёнка? Решила, что сможешь устоять передо мной? Большой просчёт..."
 
-# game/scripts/story_01/fantasy.rpy:327
+# game/scripts/story_01/fantasy.rpy:326
 translate crowdin ev_099_lisa_by_pool_d68f0618:
 
     # Lisa 04 "Ммм... Твои губы всегда вытворяют с моими сосочками такое, что я начинаю терять голову от удовольствия!"
     Lisa 04 "Ммм... Твои губы всегда вытворяют с моими сосочками такое, что я начинаю терять голову от удовольствия!"
 
-# game/scripts/story_01/fantasy.rpy:328
+# game/scripts/story_01/fantasy.rpy:327
 translate crowdin ev_099_lisa_by_pool_2d6be592:
 
     # tMax 07 "Да, Лиза... Невозможно передать словами то, насколько я люблю их ласкать! Эти миленькие нежные сисечки достойны максимума моего внимания..."
     tMax 07 "Да, Лиза... Невозможно передать словами то, насколько я люблю их ласкать! Эти миленькие нежные сисечки достойны максимума моего внимания..."
 
-# game/scripts/story_01/fantasy.rpy:329
+# game/scripts/story_01/fantasy.rpy:328
 translate crowdin ev_099_lisa_by_pool_8fa11a58:
 
     # Lisa 05 "Ах, Макс! Как же меня заводит твой член возле моей попки... Ммм... Он так настойчиво об неё трётся. Как будто чего-то хочет?"
     Lisa 05 "Ах, Макс! Как же меня заводит твой член возле моей попки... Ммм... Он так настойчиво об неё трётся. Как будто чего-то хочет?"
 
-# game/scripts/story_01/fantasy.rpy:330
+# game/scripts/story_01/fantasy.rpy:329
 translate crowdin ev_099_lisa_by_pool_19aac91e:
 
     # Max 04 "А как же! Свою частичку наслаждения..."
     Max 04 "А как же! Свою частичку наслаждения..."
 
-# game/scripts/story_01/fantasy.rpy:334
+# game/scripts/story_01/fantasy.rpy:333
 translate crowdin ev_099_lisa_by_pool_7c7b7244:
 
     # Lisa 06 "Я знаю, что ему понравится... О да! Вот так... Ухх... Макс, он стал ещё твёрже и больше... Мне так это нравится!"
     Lisa 06 "Я знаю, что ему понравится... О да! Вот так... Ухх... Макс, он стал ещё твёрже и больше... Мне так это нравится!"
 
-# game/scripts/story_01/fantasy.rpy:335
+# game/scripts/story_01/fantasy.rpy:334
 translate crowdin ev_099_lisa_by_pool_e853ac2f:
 
     # Max 10 "Ох, чёрт! Д-а-а... Ты так обалденно трёшься о него своей мокренькой попкой! Прижми его ещё сильнее... Я еле сдерживаюсь... Ещё немного и кончу!"
     Max 10 "Ох, чёрт! Д-а-а... Ты так обалденно трёшься о него своей мокренькой попкой! Прижми его ещё сильнее... Я еле сдерживаюсь... Ещё немного и кончу!"
 
-# game/scripts/story_01/fantasy.rpy:337
+# game/scripts/story_01/fantasy.rpy:336
 translate crowdin ev_099_lisa_by_pool_8403af91:
 
     # Lisa 07 "Да, Макс... Я прямо таю от того, какой он горячий! Ммм... Давай, не сдерживайся!" nointeract
     Lisa 07 "Да, Макс... Я прямо таю от того, какой он горячий! Ммм... Давай, не сдерживайся!" nointeract
 
-# game/scripts/story_01/fantasy.rpy:347
+# game/scripts/story_01/fantasy.rpy:346
 translate crowdin ev_099_lisa_doing_homework_97371af2:
 
     # Lisa 09 "Макс, смотри... Я сделала всё, что нам задали в школе. Можешь, пожалуйста, проверить своим свежим взглядом, всё ли у меня правильно? У меня голова уже плохо соображает..."
     Lisa 09 "Макс, смотри... Я сделала всё, что нам задали в школе. Можешь, пожалуйста, проверить своим свежим взглядом, всё ли у меня правильно? У меня голова уже плохо соображает..."
 
-# game/scripts/story_01/fantasy.rpy:348
+# game/scripts/story_01/fantasy.rpy:347
 translate crowdin ev_099_lisa_doing_homework_16f9f7b6:
 
     # Max 11 "Многовато тут проверять... Ты же поможешь мне не заскучать в процессе?"
     Max 11 "Многовато тут проверять... Ты же поможешь мне не заскучать в процессе?"
 
-# game/scripts/story_01/fantasy.rpy:350
+# game/scripts/story_01/fantasy.rpy:349
 translate crowdin ev_099_lisa_doing_homework_fb5270ed:
 
     # Lisa 11 "Нууу... Смотря, как? Я бы могла что-нибудь сделать для тебя, пока ты разбираешься с моей домашней работой..." nointeract
     Lisa 11 "Нууу... Смотря, как? Я бы могла что-нибудь сделать для тебя, пока ты разбираешься с моей домашней работой..." nointeract
 
-# game/scripts/story_01/fantasy.rpy:357
+# game/scripts/story_01/fantasy.rpy:356
 translate crowdin ev_099_lisa_doing_homework_2eb0d1f7:
 
     # Lisa 02 "Это можно... Я постараюсь делать это легонько и нежно, чтобы не слишком тебя отвлекать. Смотрю, ты уже во всю приободрился!"
     Lisa 02 "Это можно... Я постараюсь делать это легонько и нежно, чтобы не слишком тебя отвлекать. Смотрю, ты уже во всю приободрился!"
 
-# game/scripts/story_01/fantasy.rpy:358
+# game/scripts/story_01/fantasy.rpy:357
 translate crowdin ev_099_lisa_doing_homework_83eed4de:
 
     # Max 04 "Легонько - это как раз то, что нужно. Ты всё делаешь правильно..."
     Max 04 "Легонько - это как раз то, что нужно. Ты всё делаешь правильно..."
 
-# game/scripts/story_01/fantasy.rpy:359
+# game/scripts/story_01/fantasy.rpy:358
 translate crowdin ev_099_lisa_doing_homework_e7d86485:
 
     # Lisa 11 "Хи-хи... Это ты про то, что написано у меня в тетради или про то, как двигаются мои ножки?"
     Lisa 11 "Хи-хи... Это ты про то, что написано у меня в тетради или про то, как двигаются мои ножки?"
 
-# game/scripts/story_01/fantasy.rpy:360
+# game/scripts/story_01/fantasy.rpy:359
 translate crowdin ev_099_lisa_doing_homework_046bd1cd:
 
     # Max 05 "У тебя и с домашним заданием пока всё в порядке, и... Ухх... Д-а-а... Твои ножки просто чудо! Ты умничка, Лиза!"
     Max 05 "У тебя и с домашним заданием пока всё в порядке, и... Ухх... Д-а-а... Твои ножки просто чудо! Ты умничка, Лиза!"
 
-# game/scripts/story_01/fantasy.rpy:364
+# game/scripts/story_01/fantasy.rpy:363
 translate crowdin ev_099_lisa_doing_homework_56961145:
 
     # Lisa 03 "Ой, спасибо! Я рада, что тебе нравится... Может, ты хочешь немножко быстрее? Мне не сложно..."
     Lisa 03 "Ой, спасибо! Я рада, что тебе нравится... Может, ты хочешь немножко быстрее? Мне не сложно..."
 
-# game/scripts/story_01/fantasy.rpy:365
+# game/scripts/story_01/fantasy.rpy:364
 translate crowdin ev_099_lisa_doing_homework_241d0e0d:
 
     # Max 06 "Ммм... Очень хочу! Да, вот так уроки проверять гораздо интереснее! Так держать..."
     Max 06 "Ммм... Очень хочу! Да, вот так уроки проверять гораздо интереснее! Так держать..."
 
-# game/scripts/story_01/fantasy.rpy:366
+# game/scripts/story_01/fantasy.rpy:365
 translate crowdin ev_099_lisa_doing_homework_7edbfbfc:
 
     # Lisa 05 "У тебя хоть немного получается сосредоточить внимание на моей домашней работе? А то я начинаю сильно увлекаться от того, насколько ты возбуждён..."
     Lisa 05 "У тебя хоть немного получается сосредоточить внимание на моей домашней работе? А то я начинаю сильно увлекаться от того, насколько ты возбуждён..."
 
-# game/scripts/story_01/fantasy.rpy:367
+# game/scripts/story_01/fantasy.rpy:366
 translate crowdin ev_099_lisa_doing_homework_aea8f490:
 
     # Max 01 "По крайней мере, внимания хватило, чтобы усомниться вот в этом моменте..."
     Max 01 "По крайней мере, внимания хватило, чтобы усомниться вот в этом моменте..."
 
-# game/scripts/story_01/fantasy.rpy:380
+# game/scripts/story_01/fantasy.rpy:379
 translate crowdin ev_099_lisa_doing_homework_da29fc1c:
 
     # Lisa 12 "Что?! Хочешь сказать, у меня тут ошибка? Ну-ка, ну-ка... Покажи где..."
     Lisa 12 "Что?! Хочешь сказать, у меня тут ошибка? Ну-ка, ну-ка... Покажи где..."
 
-# game/scripts/story_01/fantasy.rpy:381
+# game/scripts/story_01/fantasy.rpy:380
 translate crowdin ev_099_lisa_doing_homework_251d5d15:
 
     # Max 03 "Не видишь? Смотри внимательнее... Или я многого прошу и ты слишком сосредоточена на моём члене?"
     Max 03 "Не видишь? Смотри внимательнее... Или я многого прошу и ты слишком сосредоточена на моём члене?"
 
-# game/scripts/story_01/fantasy.rpy:382
+# game/scripts/story_01/fantasy.rpy:381
 translate crowdin ev_099_lisa_doing_homework_b1dd235b:
 
     # Lisa 10 "Я... Ага, но... не полностью... Что-то я не могу понять, в чём ошиблась?"
     Lisa 10 "Я... Ага, но... не полностью... Что-то я не могу понять, в чём ошиблась?"
 
-# game/scripts/story_01/fantasy.rpy:383
+# game/scripts/story_01/fantasy.rpy:382
 translate crowdin ev_099_lisa_doing_homework_6e05230a:
 
     # Max 07 "Ну как же... Ухх... Да, вот так мне нравится... В смысле, у тебя там большой недочёт!"
     Max 07 "Ну как же... Ухх... Да, вот так мне нравится... В смысле, у тебя там большой недочёт!"
 
-# game/scripts/story_01/fantasy.rpy:384
+# game/scripts/story_01/fantasy.rpy:383
 translate crowdin ev_099_lisa_doing_homework_acd80484:
 
     # Lisa 11 "И ещё какой! Даже обхватить полностью не получается... Ой, что я говорю! Всё, поняла о чём ты..."
     Lisa 11 "И ещё какой! Даже обхватить полностью не получается... Ой, что я говорю! Всё, поняла о чём ты..."
 
-# game/scripts/story_01/fantasy.rpy:385
+# game/scripts/story_01/fantasy.rpy:384
 translate crowdin ev_099_lisa_doing_homework_68c8b4c3:
 
     # Max 01 "Вот молодчинка! Сейчас попробую проверить остальное..."
     Max 01 "Вот молодчинка! Сейчас попробую проверить остальное..."
 
-# game/scripts/story_01/fantasy.rpy:389
+# game/scripts/story_01/fantasy.rpy:388
 translate crowdin ev_099_lisa_doing_homework_b0354426:
 
     # Lisa 05 "Серьёзно?! Может, лучше отложить моё домашнее задание, пока мы его кое-чем не забрызгали и спокойно закончить начатое?"
     Lisa 05 "Серьёзно?! Может, лучше отложить моё домашнее задание, пока мы его кое-чем не забрызгали и спокойно закончить начатое?"
 
-# game/scripts/story_01/fantasy.rpy:390
+# game/scripts/story_01/fantasy.rpy:389
 translate crowdin ev_099_lisa_doing_homework_a16e1f23:
 
     # Max 09 "Ты права, Лиза! А то придётся переписывать ещё больше, чем есть сейчас. Охх... Какие же у тебя приятные ручки... Ещё бы чуть быстрее и я точно кончу!"
     Max 09 "Ты права, Лиза! А то придётся переписывать ещё больше, чем есть сейчас. Охх... Какие же у тебя приятные ручки... Ещё бы чуть быстрее и я точно кончу!"
 
-# game/scripts/story_01/fantasy.rpy:392
+# game/scripts/story_01/fantasy.rpy:391
 translate crowdin ev_099_lisa_doing_homework_a003395b:
 
     # Lisa 06 "Ммм... Вот так, да? Ну же, Макс, не сдерживайся... Давай, я уже готова..." nointeract
@@ -600,277 +600,277 @@ translate crowdin ev_099_ann_bedroom_hj_4bdd3497:
     # Max 10 "Ахх... До чего же приятно! Я почти всё, мам... Скоро кончу! Давай ещё быстрее... Д-а-а..." nointeract
     Max 10 "Ахх... До чего же приятно! Я почти всё, мам... Скоро кончу! Давай ещё быстрее... Д-а-а..." nointeract
 
-# game/scripts/story_01/fantasy.rpy:448
+# game/scripts/story_01/fantasy.rpy:449
 translate crowdin ev_099_ann_in_bath_96d03b9f:
 
     # Ann 01 "Как же хорошо, сынок, что ты тоже решил принять ванну. Когда мы вместе, это так расслабляет, а одной мне было бы ужасно одиноко..."
     Ann 01 "Как же хорошо, сынок, что ты тоже решил принять ванну. Когда мы вместе, это так расслабляет, а одной мне было бы ужасно одиноко..."
 
-# game/scripts/story_01/fantasy.rpy:449
+# game/scripts/story_01/fantasy.rpy:450
 translate crowdin ev_099_ann_in_bath_3711fb0c:
 
     # Max 04 "Знаешь, от столь приятного времяпровождения сложно взять и отказаться. Любоваться такой роскошной, а главное, совершенно голой женщиной, как ты - одно удовольствие."
     Max 04 "Знаешь, от столь приятного времяпровождения сложно взять и отказаться. Любоваться такой роскошной, а главное, совершенно голой женщиной, как ты - одно удовольствие."
 
-# game/scripts/story_01/fantasy.rpy:450
+# game/scripts/story_01/fantasy.rpy:451
 translate crowdin ev_099_ann_in_bath_2cf95955:
 
     # Ann 03 "Дорогой, ты мне льстишь... Хотя, должна признаться, я ощущаю себя молодой и очень привлекательной женщиной, когда слышу от тебя такие комплименты."
     Ann 03 "Дорогой, ты мне льстишь... Хотя, должна признаться, я ощущаю себя молодой и очень привлекательной женщиной, когда слышу от тебя такие комплименты."
 
-# game/scripts/story_01/fantasy.rpy:451
+# game/scripts/story_01/fantasy.rpy:452
 translate crowdin ev_099_ann_in_bath_2f566f1c:
 
     # Max 01 "Думаю, за ещё один комплимент можно посчитать то, насколько увеличился мой член от того, как ты ко мне прижимаешься!"
     Max 01 "Думаю, за ещё один комплимент можно посчитать то, насколько увеличился мой член от того, как ты ко мне прижимаешься!"
 
-# game/scripts/story_01/fantasy.rpy:453
+# game/scripts/story_01/fantasy.rpy:454
 translate crowdin ev_099_ann_in_bath_19e1fc3c:
 
     # Ann 04 "Ммм... Такое сексуальное напряжение невозможно не почувствовать! У меня есть некоторые мыслишки о том, что с этим можно сделать..." nointeract
     Ann 04 "Ммм... Такое сексуальное напряжение невозможно не почувствовать! У меня есть некоторые мыслишки о том, что с этим можно сделать..." nointeract
 
-# game/scripts/story_01/fantasy.rpy:459
+# game/scripts/story_01/fantasy.rpy:460
 translate crowdin ev_099_ann_in_bath_539a0b2e:
 
     # Ann 06 "Охх... Такая инициативность мной только приветствуется! Я же знаю, какие у тебя чуткие и талантливые ручки... Как же хорошо!"
     Ann 06 "Охх... Такая инициативность мной только приветствуется! Я же знаю, какие у тебя чуткие и талантливые ручки... Как же хорошо!"
 
-# game/scripts/story_01/fantasy.rpy:460
+# game/scripts/story_01/fantasy.rpy:461
 translate crowdin ev_099_ann_in_bath_c0251ace:
 
     # Max 03 "Вот это уже действительно расслабляющая ванна, правда?"
     Max 03 "Вот это уже действительно расслабляющая ванна, правда?"
 
-# game/scripts/story_01/fantasy.rpy:461
+# game/scripts/story_01/fantasy.rpy:462
 translate crowdin ev_099_ann_in_bath_288374d3:
 
     # Ann 07 "Ах! Да, сынок... Мне так нравятся твои ласки! Даже и подумать раньше не могла, что буду настолько рада... Ммм... Таким отношениям с тобой..."
     Ann 07 "Ах! Да, сынок... Мне так нравятся твои ласки! Даже и подумать раньше не могла, что буду настолько рада... Ммм... Таким отношениям с тобой..."
 
-# game/scripts/story_01/fantasy.rpy:462
+# game/scripts/story_01/fantasy.rpy:463
 translate crowdin ev_099_ann_in_bath_eacc8f32:
 
     # Max 11 "Ох, мам... Как же меня заводят твои стоны! Их должно быть ещё больше..."
     Max 11 "Ох, мам... Как же меня заводят твои стоны! Их должно быть ещё больше..."
 
-# game/scripts/story_01/fantasy.rpy:466
+# game/scripts/story_01/fantasy.rpy:467
 translate crowdin ev_099_ann_in_bath_a886d031:
 
     # Ann 08 "Ухх... Да, мой милый, продолжай! Мне так нравится... Ещё немного и я... да... Чуть быстрее... ещё... ох, сынок..."
     Ann 08 "Ухх... Да, мой милый, продолжай! Мне так нравится... Ещё немного и я... да... Чуть быстрее... ещё... ох, сынок..."
 
-# game/scripts/story_01/fantasy.rpy:467
+# game/scripts/story_01/fantasy.rpy:468
 translate crowdin ev_099_ann_in_bath_a6318a50:
 
     # tMax 05 "Чёрт, мама уже практически прыгает на моих пальцах! Да так активно... Похоже и правда, ещё немного и она кончит!"
     tMax 05 "Чёрт, мама уже практически прыгает на моих пальцах! Да так активно... Похоже и правда, ещё немного и она кончит!"
 
-# game/scripts/story_01/fantasy.rpy:468
+# game/scripts/story_01/fantasy.rpy:469
 translate crowdin ev_099_ann_in_bath_df7f8ad0:
 
     # Ann 09 "Да, Макс, да! Как же мне с тобой повезло... Ох, ты не представляешь, как это приятно... Я... Я кончаю... Ммм... Кончаю!"
     Ann 09 "Да, Макс, да! Как же мне с тобой повезло... Ох, ты не представляешь, как это приятно... Я... Я кончаю... Ммм... Кончаю!"
 
-# game/scripts/story_01/fantasy.rpy:469
+# game/scripts/story_01/fantasy.rpy:470
 translate crowdin ev_099_ann_in_bath_9161dc26:
 
     # Max 02 "Ого! Вот это ты даёшь, мам! Надеюсь, у тебя ещё остались силы на продолжение?"
     Max 02 "Ого! Вот это ты даёшь, мам! Надеюсь, у тебя ещё остались силы на продолжение?"
 
-# game/scripts/story_01/fantasy.rpy:479
+# game/scripts/story_01/fantasy.rpy:480
 translate crowdin ev_099_ann_in_bath_53810c2a:
 
     # Ann 06 "Ещё как! Ты же любишь, когда мама делает вот так, да? Ох, какой же он у тебя огромный... Ты не на шутку возбудился..."
     Ann 06 "Ещё как! Ты же любишь, когда мама делает вот так, да? Ох, какой же он у тебя огромный... Ты не на шутку возбудился..."
 
-# game/scripts/story_01/fantasy.rpy:480
+# game/scripts/story_01/fantasy.rpy:481
 translate crowdin ev_099_ann_in_bath_c7659160:
 
     # Max 07 "Ах, мам, только не торопись. Я хочу наслаждаться этим как можно дольше..."
     Max 07 "Ах, мам, только не торопись. Я хочу наслаждаться этим как можно дольше..."
 
-# game/scripts/story_01/fantasy.rpy:484
+# game/scripts/story_01/fantasy.rpy:485
 translate crowdin ev_099_ann_in_bath_cb19a448:
 
     # Ann 07 "Как скажешь, дорогой. Я буду только рада... Он у тебя такой горячий... и твёрдый! Прижмись им ко мне посильнее..."
     Ann 07 "Как скажешь, дорогой. Я буду только рада... Он у тебя такой горячий... и твёрдый! Прижмись им ко мне посильнее..."
 
-# game/scripts/story_01/fantasy.rpy:485
+# game/scripts/story_01/fantasy.rpy:486
 translate crowdin ev_099_ann_in_bath_5cfa7a0a:
 
     # Max 09 "Д-а-а... Как же это приятно, чёрт возьми! Обожаю твою попку и то, как ты двигаешься... Ммм... Ты самая лучшая, мам! Я уже скоро кончу..."
     Max 09 "Д-а-а... Как же это приятно, чёрт возьми! Обожаю твою попку и то, как ты двигаешься... Ммм... Ты самая лучшая, мам! Я уже скоро кончу..."
 
-# game/scripts/story_01/fantasy.rpy:487
+# game/scripts/story_01/fantasy.rpy:488
 translate crowdin ev_099_ann_in_bath_7232d951:
 
     # Ann 08 "О да, Макс! Давай, не держи в себе, кончи скорее на маму... Забрызгай меня своей горячей спермой!" nointeract
     Ann 08 "О да, Макс! Давай, не держи в себе, кончи скорее на маму... Забрызгай меня своей горячей спермой!" nointeract
 
-# game/scripts/story_01/fantasy.rpy:499
+# game/scripts/story_01/fantasy.rpy:501
 translate crowdin ev_099_ann_sunbathing_3c596a0f:
 
     # Ann 06 "Ох, Макс... Спасибо, что натёр меня маслом для загара, а то я что-то совсем разомлела на солнышке и сама бы поленилась это сделать."
     Ann 06 "Ох, Макс... Спасибо, что натёр меня маслом для загара, а то я что-то совсем разомлела на солнышке и сама бы поленилась это сделать."
 
-# game/scripts/story_01/fantasy.rpy:500
+# game/scripts/story_01/fantasy.rpy:502
 translate crowdin ev_099_ann_sunbathing_ea27233b:
 
     # Max 01 "Мне это только в радость, мам. А если повернёшься, то я сделаю ещё кое-что не менее приятное..."
     Max 01 "Мне это только в радость, мам. А если повернёшься, то я сделаю ещё кое-что не менее приятное..."
 
-# game/scripts/story_01/fantasy.rpy:502
+# game/scripts/story_01/fantasy.rpy:504
 translate crowdin ev_099_ann_sunbathing_d7ad9f8e:
 
     # Ann 05 "Неужели я могу просто поудобнее лечь, расслабиться и ещё дольше наслаждаться тем, как твои талантливые ручки продолжают натирать моё тело маслом?" nointeract
     Ann 05 "Неужели я могу просто поудобнее лечь, расслабиться и ещё дольше наслаждаться тем, как твои талантливые ручки продолжают натирать моё тело маслом?" nointeract
 
-# game/scripts/story_01/fantasy.rpy:507
+# game/scripts/story_01/fantasy.rpy:509
 translate crowdin ev_099_ann_sunbathing_03275601:
 
     # Ann 07 "Я с тобой полностью согласна, дорогой! Ммм... В твои сильные руки я готова доверить всё, что угодно. Ахх... Особенно, если это так приятно!"
     Ann 07 "Я с тобой полностью согласна, дорогой! Ммм... В твои сильные руки я готова доверить всё, что угодно. Ахх... Особенно, если это так приятно!"
 
-# game/scripts/story_01/fantasy.rpy:508
+# game/scripts/story_01/fantasy.rpy:510
 translate crowdin ev_099_ann_sunbathing_0ce2bb62:
 
     # Max 04 "Я знаю много всего, от чего нам обоим будет ещё приятнее..."
     Max 04 "Я знаю много всего, от чего нам обоим будет ещё приятнее..."
 
-# game/scripts/story_01/fantasy.rpy:509
+# game/scripts/story_01/fantasy.rpy:511
 translate crowdin ev_099_ann_sunbathing_32db42f0:
 
     # Ann 12 "Ох, сынок, как же сильно мне хочется приласкать твой горячий член своей грудью! Не заставляй меня изнывать от этого желания..."
     Ann 12 "Ох, сынок, как же сильно мне хочется приласкать твой горячий член своей грудью! Не заставляй меня изнывать от этого желания..."
 
-# game/scripts/story_01/fantasy.rpy:510
+# game/scripts/story_01/fantasy.rpy:512
 translate crowdin ev_099_ann_sunbathing_5ba857a6:
 
     # Max 03 "Я бы не проскользнул мимо твоих восхитительных сисечек, даже если бы захотел чего-то другого."
     Max 03 "Я бы не проскользнул мимо твоих восхитительных сисечек, даже если бы захотел чего-то другого."
 
-# game/scripts/story_01/fantasy.rpy:514
+# game/scripts/story_01/fantasy.rpy:516
 translate crowdin ev_099_ann_sunbathing_56be48c3:
 
     # tMax 07 "Блин, какие же классные у неё сиськи! Такие большие и упругие, да ещё и так плотно окружили мой член, что даже с маслом для загара, между ними не так-то просто протиснуться..."
     tMax 07 "Блин, какие же классные у неё сиськи! Такие большие и упругие, да ещё и так плотно окружили мой член, что даже с маслом для загара, между ними не так-то просто протиснуться..."
 
-# game/scripts/story_01/fantasy.rpy:515
+# game/scripts/story_01/fantasy.rpy:517
 translate crowdin ev_099_ann_sunbathing_f0472d1d:
 
     # Max 05 "Ммм, мам... Мне кажется, что твой ротик прямо жаждет, чтобы сквозь его сочные губки проникло кое-что не менее твёрдое, но куда больших размеров!"
     Max 05 "Ммм, мам... Мне кажется, что твой ротик прямо жаждет, чтобы сквозь его сочные губки проникло кое-что не менее твёрдое, но куда больших размеров!"
 
-# game/scripts/story_01/fantasy.rpy:525
+# game/scripts/story_01/fantasy.rpy:528
 translate crowdin ev_099_ann_sunbathing_8befc0d9:
 
     # tMax 08 "Ухх... Обожаю, когда мой член попадает в объятия таких нежных губ! А уж от её задорного язычка я вообще балдею... Д-а-а..."
     tMax 08 "Ухх... Обожаю, когда мой член попадает в объятия таких нежных губ! А уж от её задорного язычка я вообще балдею... Д-а-а..."
 
-# game/scripts/story_01/fantasy.rpy:535
+# game/scripts/story_01/fantasy.rpy:537
 translate crowdin ev_099_ann_sunbathing_44ef390b:
 
     # tMax 09 "Ох, чёрт! Мамин ротик - это что-то невероятное... Так смачно сосёт, да ещё и яички поглаживает! С ума можно сойти от наслаждения..."
     tMax 09 "Ох, чёрт! Мамин ротик - это что-то невероятное... Так смачно сосёт, да ещё и яички поглаживает! С ума можно сойти от наслаждения..."
 
-# game/scripts/story_01/fantasy.rpy:540
+# game/scripts/story_01/fantasy.rpy:542
 translate crowdin ev_099_ann_sunbathing_4fca9b9d:
 
     # Max 10 "Ах, мам! Давай ещё быстрее... Ммм... Д-а-а, вот так... До чего же приятно! Ещё немного... Ухх... Вот, чёрт! Скоро кончу..." nointeract
     Max 10 "Ах, мам! Давай ещё быстрее... Ммм... Д-а-а, вот так... До чего же приятно! Ещё немного... Ухх... Вот, чёрт! Скоро кончу..." nointeract
 
-# game/scripts/story_01/fantasy.rpy:549
+# game/scripts/story_01/fantasy.rpy:551
 translate crowdin ev_099_mia_in_pool_ec04b3ac:
 
     # Mia 06 "Макс, у нас остаётся совсем немного времени, прежде чем я отвезу тебя домой... Не пора ли уже вылазить из бассейна?"
     Mia 06 "Макс, у нас остаётся совсем немного времени, прежде чем я отвезу тебя домой... Не пора ли уже вылазить из бассейна?"
 
-# game/scripts/story_01/fantasy.rpy:550
+# game/scripts/story_01/fantasy.rpy:552
 translate crowdin ev_099_mia_in_pool_57116736:
 
     # Max 11 "Жаль, но похоже и вправду пора... Дамы вперёд!"
     Max 11 "Жаль, но похоже и вправду пора... Дамы вперёд!"
 
-# game/scripts/story_01/fantasy.rpy:552
+# game/scripts/story_01/fantasy.rpy:554
 translate crowdin ev_099_mia_in_pool_8d39094f:
 
     # Mia 04 "Знаешь, мне бы не помешала твоя помощь. Я такая... мокренькая... Могу соскользнуть ещё куда-нибудь не туда. А вот если ты будешь сзади..." nointeract
     Mia 04 "Знаешь, мне бы не помешала твоя помощь. Я такая... мокренькая... Могу соскользнуть ещё куда-нибудь не туда. А вот если ты будешь сзади..." nointeract
 
-# game/scripts/story_01/fantasy.rpy:558
+# game/scripts/story_01/fantasy.rpy:560
 translate crowdin ev_099_mia_in_pool_b76d401c:
 
     # Mia 05 "Ухх... Сколько прыти, Макс! Так приятно отдаться в твои горячие руки. Похоже, пока мы стояли, я успела замёрзнуть!"
     Mia 05 "Ухх... Сколько прыти, Макс! Так приятно отдаться в твои горячие руки. Похоже, пока мы стояли, я успела замёрзнуть!"
 
-# game/scripts/story_01/fantasy.rpy:559
+# game/scripts/story_01/fantasy.rpy:561
 translate crowdin ev_099_mia_in_pool_bd23488e:
 
     # Max 03 "Сейчас вам станет жарко..."
     Max 03 "Сейчас вам станет жарко..."
 
-# game/scripts/story_01/fantasy.rpy:564
+# game/scripts/story_01/fantasy.rpy:566
 translate crowdin ev_099_mia_in_pool_c451c1f3:
 
     # Mia 08 "Ох, чёрт! Вот это да! Обалдеть можно от того, что ты вытворяешь своим горячим язычком... Ах-х-х! Как приятно... Д-а-а..."
     Mia 08 "Ох, чёрт! Вот это да! Обалдеть можно от того, что ты вытворяешь своим горячим язычком... Ах-х-х! Как приятно... Д-а-а..."
 
-# game/scripts/story_01/fantasy.rpy:565
+# game/scripts/story_01/fantasy.rpy:567
 translate crowdin ev_099_mia_in_pool_6bcc6df7:
 
     # tMax 07 "Обожаю чувствовать то, как её упругая попка начинает извивается у меня на лице от наслаждения! Самое время поднажать..."
     tMax 07 "Обожаю чувствовать то, как её упругая попка начинает извивается у меня на лице от наслаждения! Самое время поднажать..."
 
-# game/scripts/story_01/fantasy.rpy:566
+# game/scripts/story_01/fantasy.rpy:568
 translate crowdin ev_099_mia_in_pool_f2398de3:
 
     # Mia 09 "Да, Макс, да! Ммм... Охренеть, как это приятно! И жарко..."
     Mia 09 "Да, Макс, да! Ммм... Охренеть, как это приятно! И жарко..."
 
-# game/scripts/story_01/fantasy.rpy:567
+# game/scripts/story_01/fantasy.rpy:569
 translate crowdin ev_099_mia_in_pool_fefa6091:
 
     # Max 01 "Везёт вам! Меня бы ещё кто согрел..."
     Max 01 "Везёт вам! Меня бы ещё кто согрел..."
 
-# game/scripts/story_01/fantasy.rpy:579
+# game/scripts/story_01/fantasy.rpy:581
 translate crowdin ev_099_mia_in_pool_7669d4ff:
 
     # Mia 02 "Кстати, да... Вот чего я у себя дома точно не допущу, так это чтобы столь одарённый инструктор по плаванию выходил из бассейна, разочаровавшись во мне!"
     Mia 02 "Кстати, да... Вот чего я у себя дома точно не допущу, так это чтобы столь одарённый инструктор по плаванию выходил из бассейна, разочаровавшись во мне!"
 
-# game/scripts/story_01/fantasy.rpy:580
+# game/scripts/story_01/fantasy.rpy:582
 translate crowdin ev_099_mia_in_pool_b8224177:
 
     # Max 04 "Мия, вы потрясающая ученица. Я бы даже добавил, что схватываете на лету! Особенно, когда это так нужно..."
     Max 04 "Мия, вы потрясающая ученица. Я бы даже добавил, что схватываете на лету! Особенно, когда это так нужно..."
 
-# game/scripts/story_01/fantasy.rpy:581
+# game/scripts/story_01/fantasy.rpy:583
 translate crowdin ev_099_mia_in_pool_62eb4871:
 
     # Mia 06 "Ммм... Кажется, я уже догадываюсь, где тебя больше всего нужно согреть и обласкать..."
     Mia 06 "Ммм... Кажется, я уже догадываюсь, где тебя больше всего нужно согреть и обласкать..."
 
-# game/scripts/story_01/fantasy.rpy:582
+# game/scripts/story_01/fantasy.rpy:584
 translate crowdin ev_099_mia_in_pool_2a5b77eb:
 
     # Max 14 "Ох, поскорее бы..."
     Max 14 "Ох, поскорее бы..."
 
-# game/scripts/story_01/fantasy.rpy:587
+# game/scripts/story_01/fantasy.rpy:589
 translate crowdin ev_099_mia_in_pool_d9defaae:
 
     # tMax 08 "О д-а-а-а!!! Так смачно лаская мои яички Мия точно остаётся вне конкуренции по вопросу о том, кому их доверить. Ах, какие же у неё нежные губки..."
     tMax 08 "О д-а-а-а!!! Так смачно лаская мои яички Мия точно остаётся вне конкуренции по вопросу о том, кому их доверить. Ах, какие же у неё нежные губки..."
 
-# game/scripts/story_01/fantasy.rpy:589
+# game/scripts/story_01/fantasy.rpy:591
 translate crowdin ev_099_mia_in_pool_7f4feb33:
 
     # Max 10 "Ух, чёрт! Д-а-а... До чего же приятно вы это делаете! Я уже больше не могу сдерживаться... Вот-вот кончу! Ммм..." nointeract
     Max 10 "Ух, чёрт! Д-а-а... До чего же приятно вы это делаете! Я уже больше не могу сдерживаться... Вот-вот кончу! Ммм..." nointeract
 
-# game/scripts/story_01/fantasy.rpy:598
+# game/scripts/story_01/fantasy.rpy:600
 translate crowdin ev_099_end_af2082a3:
 
     # tMax 04 "Фух... Какая у меня богатая фантазия! Надо бы теперь смыть следы моих «преступных» действий с воображаемыми девчонками. Вернее, девчонки-то настоящие, это действия воображаемые..." nointeract
@@ -878,31 +878,19 @@ translate crowdin ev_099_end_af2082a3:
 
 translate crowdin strings:
 
-    # game/scripts/story_01/fantasy.rpy:7
+    # game/scripts/story_01/fantasy.rpy:10
     old "{i}думать об Алисе{/i}"
     new "{i}думать об Алисе{/i}"
 
-    # game/scripts/story_01/fantasy.rpy:7
-    old "{i}думать о Лизе{/i}"
-    new "{i}думать о Лизе{/i}"
-
-    # game/scripts/story_01/fantasy.rpy:7
-    old "{i}думать о маме{/i}"
-    new "{i}думать о маме{/i}"
-
-    # game/scripts/story_01/fantasy.rpy:7
-    old "{i}думать о Мие{/i}"
-    new "{i}думать о Мие{/i}"
-
-    # game/scripts/story_01/fantasy.rpy:10
+    # game/scripts/story_01/fantasy.rpy:12
     old "{i}Алиса в ванне{/i}"
     new "{i}Алиса в ванне{/i}"
 
-    # game/scripts/story_01/fantasy.rpy:10
+    # game/scripts/story_01/fantasy.rpy:17
     old "{i}Алиса у ТВ{/i}"
     new "{i}Алиса у ТВ{/i}"
 
-    # game/scripts/story_01/fantasy.rpy:10
+    # game/scripts/story_01/fantasy.rpy:21
     old "{i}Алиса в душе{/i}"
     new "{i}Алиса в душе{/i}"
 
@@ -915,14 +903,18 @@ translate crowdin strings:
     new "Нужно добиться объятий Алисы, извиняясь сладостями..."
 
     # game/scripts/story_01/fantasy.rpy:33
+    old "{i}думать о Лизе{/i}"
+    new "{i}думать о Лизе{/i}"
+
+    # game/scripts/story_01/fantasy.rpy:36
     old "{i}Лиза в душе{/i}"
     new "{i}Лиза в душе{/i}"
 
-    # game/scripts/story_01/fantasy.rpy:33
+    # game/scripts/story_01/fantasy.rpy:40
     old "{i}Лиза у бассейна{/i}"
     new "{i}Лиза у бассейна{/i}"
 
-    # game/scripts/story_01/fantasy.rpy:33
+    # game/scripts/story_01/fantasy.rpy:44
     old "{i}Лиза за уроками{/i}"
     new "{i}Лиза за уроками{/i}"
 
@@ -935,14 +927,18 @@ translate crowdin strings:
     new "Нужно помочь Лизе подготовиться к пересдаче контрольной работы..."
 
     # game/scripts/story_01/fantasy.rpy:56
+    old "{i}думать о маме{/i}"
+    new "{i}думать о маме{/i}"
+
+    # game/scripts/story_01/fantasy.rpy:59
     old "{i}мама на своей кровати{/i}"
     new "{i}мама на своей кровати{/i}"
 
-    # game/scripts/story_01/fantasy.rpy:56
+    # game/scripts/story_01/fantasy.rpy:63
     old "{i}мама в ванне{/i}"
     new "{i}мама в ванне{/i}"
 
-    # game/scripts/story_01/fantasy.rpy:56
+    # game/scripts/story_01/fantasy.rpy:67
     old "{i}мама загорает{/i}"
     new "{i}мама загорает{/i}"
 
@@ -955,138 +951,142 @@ translate crowdin strings:
     new "Нужно завершить задание «Маслице для загара»..."
 
     # game/scripts/story_01/fantasy.rpy:79
+    old "{i}думать о Мие{/i}"
+    new "{i}думать о Мие{/i}"
+
+    # game/scripts/story_01/fantasy.rpy:82
     old "{i}Мия в бассейне{/i}"
     new "{i}Мия в бассейне{/i}"
 
-    # game/scripts/story_01/fantasy.rpy:95
+    # game/scripts/story_01/fantasy.rpy:100
     old "Хм... Даже не знаю, может быть..."
     new "Хм... Даже не знаю, может быть..."
-
-    # game/scripts/story_01/fantasy.rpy:95
-    old "Меня уговаривать не придётся..."
-    new "Меня уговаривать не придётся..."
 
     # game/scripts/story_01/fantasy.rpy:112
     old "Нужно посмотреть через скрытую камеру, как Алиса мастурбирует в ванне..."
     new "Нужно посмотреть через скрытую камеру, как Алиса мастурбирует в ванне..."
 
-    # game/scripts/story_01/fantasy.rpy:128
+    # game/scripts/story_01/fantasy.rpy:114
+    old "Меня уговаривать не придётся..."
+    new "Меня уговаривать не придётся..."
+
+    # game/scripts/story_01/fantasy.rpy:130
     old "{i}кончить{/i}"
     new "{i}кончить{/i}"
 
-    # game/scripts/story_01/fantasy.rpy:142
+    # game/scripts/story_01/fantasy.rpy:148
     old "Обстановка под контролем, так что не торопись..."
     new "Обстановка под контролем, так что не торопись..."
-
-    # game/scripts/story_01/fantasy.rpy:142
-    old "Тогда давай меньше разговоров, больше дела..."
-    new "Тогда давай меньше разговоров, больше дела..."
 
     # game/scripts/story_01/fantasy.rpy:160
     old "Нужно без ущерба обнять Алису за попку, спасая её от паука в душе..."
     new "Нужно без ущерба обнять Алису за попку, спасая её от паука в душе..."
 
-    # game/scripts/story_01/fantasy.rpy:182
+    # game/scripts/story_01/fantasy.rpy:162
+    old "Тогда давай меньше разговоров, больше дела..."
+    new "Тогда давай меньше разговоров, больше дела..."
+
+    # game/scripts/story_01/fantasy.rpy:184
     old "{i}кончить ей в ротик{/i}"
     new "{i}кончить ей в ротик{/i}"
 
-    # game/scripts/story_01/fantasy.rpy:196
+    # game/scripts/story_01/fantasy.rpy:200
     old "Да, но мне хочется растянуть удовольствие..."
     new "Да, но мне хочется растянуть удовольствие..."
-
-    # game/scripts/story_01/fantasy.rpy:196
-    old "Давай просунем его между твоих ножек..."
-    new "Давай просунем его между твоих ножек..."
 
     # game/scripts/story_01/fantasy.rpy:212
     old "Нужно без ущерба облапать грудь Алисы, которая сняла верх купальника, спасая её от паука во дворе..."
     new "Нужно без ущерба облапать грудь Алисы, которая сняла верх купальника, спасая её от паука во дворе..."
 
-    # game/scripts/story_01/fantasy.rpy:242
+    # game/scripts/story_01/fantasy.rpy:214
+    old "Давай просунем его между твоих ножек..."
+    new "Давай просунем его между твоих ножек..."
+
+    # game/scripts/story_01/fantasy.rpy:247
     old "Если что, я просто потёр тебе спинку..."
     new "Если что, я просто потёр тебе спинку..."
-
-    # game/scripts/story_01/fantasy.rpy:242
-    old "Насчёт мамы не волнуйся, я послежу..."
-    new "Насчёт мамы не волнуйся, я послежу..."
 
     # game/scripts/story_01/fantasy.rpy:261
     old "Нужно третий раз поцеловаться с Лизой..."
     new "Нужно третий раз поцеловаться с Лизой..."
 
-    # game/scripts/story_01/fantasy.rpy:298
+    # game/scripts/story_01/fantasy.rpy:264
+    old "Насчёт мамы не волнуйся, я послежу..."
+    new "Насчёт мамы не волнуйся, я послежу..."
+
+    # game/scripts/story_01/fantasy.rpy:303
     old "Подходи поближе и узнаешь..."
     new "Подходи поближе и узнаешь..."
 
-    # game/scripts/story_01/fantasy.rpy:298
-    old "Присаживайся и я покажу что..."
-    new "Присаживайся и я покажу что..."
-
-    # game/scripts/story_01/fantasy.rpy:318
+    # game/scripts/story_01/fantasy.rpy:317
     old "Нужно вынырнуть у Лизы между ног, плавая с ней в бассейне..."
     new "Нужно вынырнуть у Лизы между ног, плавая с ней в бассейне..."
 
-    # game/scripts/story_01/fantasy.rpy:349
+    # game/scripts/story_01/fantasy.rpy:320
+    old "Присаживайся и я покажу что..."
+    new "Присаживайся и я покажу что..."
+
+    # game/scripts/story_01/fantasy.rpy:354
     old "Поразвлекай меня своими ножками..."
     new "Поразвлекай меня своими ножками..."
 
-    # game/scripts/story_01/fantasy.rpy:349
-    old "Поработай ручками со мной, а потом ещё и с домашкой..."
-    new "Поработай ручками со мной, а потом ещё и с домашкой..."
-
-    # game/scripts/story_01/fantasy.rpy:371
+    # game/scripts/story_01/fantasy.rpy:370
     old "Нужно пройти недельное испытание, помогая Лизе с домашними заданиями..."
     new "Нужно пройти недельное испытание, помогая Лизе с домашними заданиями..."
 
-    # game/scripts/story_01/fantasy.rpy:405
+    # game/scripts/story_01/fantasy.rpy:373
+    old "Поработай ручками со мной, а потом ещё и с домашкой..."
+    new "Поработай ручками со мной, а потом ещё и с домашкой..."
+
+    # game/scripts/story_01/fantasy.rpy:409
     old "Тогда и я никуда не буду торопиться..."
     new "Тогда и я никуда не буду торопиться..."
-
-    # game/scripts/story_01/fantasy.rpy:405
-    old "О, я с удовольствием отдамся в твои нежные ручки..."
-    new "О, я с удовольствием отдамся в твои нежные ручки..."
 
     # game/scripts/story_01/fantasy.rpy:421
     old "Нужно сделать так, чтобы с мамы сползла одежда во время просмотра ТВ..."
     new "Нужно сделать так, чтобы с мамы сползла одежда во время просмотра ТВ..."
 
-    # game/scripts/story_01/fantasy.rpy:452
+    # game/scripts/story_01/fantasy.rpy:423
+    old "О, я с удовольствием отдамся в твои нежные ручки..."
+    new "О, я с удовольствием отдамся в твои нежные ручки..."
+
+    # game/scripts/story_01/fantasy.rpy:458
     old "Я же в этих мыслях не сижу сложив руки?"
     new "Я же в этих мыслях не сижу сложив руки?"
 
-    # game/scripts/story_01/fantasy.rpy:452
-    old "В этих мыслях участвует твоя упругая попка?"
-    new "В этих мыслях участвует твоя упругая попка?"
-
-    # game/scripts/story_01/fantasy.rpy:471
+    # game/scripts/story_01/fantasy.rpy:472
     old "Нужно принять душ, пока мама принимает ванну..."
     new "Нужно принять душ, пока мама принимает ванну..."
 
-    # game/scripts/story_01/fantasy.rpy:501
+    # game/scripts/story_01/fantasy.rpy:475
+    old "В этих мыслях участвует твоя упругая попка?"
+    new "В этих мыслях участвует твоя упругая попка?"
+
+    # game/scripts/story_01/fantasy.rpy:507
     old "О да! Как же соблазнительно это звучит..."
     new "О да! Как же соблазнительно это звучит..."
 
-    # game/scripts/story_01/fantasy.rpy:501
-    old "Ну... Вообще-то я имел ввиду другое..."
-    new "Ну... Вообще-то я имел ввиду другое..."
-
-    # game/scripts/story_01/fantasy.rpy:518
+    # game/scripts/story_01/fantasy.rpy:520
     old "Нужно полностью изучить онлайн-курс по массажу ступней и натереть маму маслом для загара..."
     new "Нужно полностью изучить онлайн-курс по массажу ступней и натереть маму маслом для загара..."
 
-    # game/scripts/story_01/fantasy.rpy:551
+    # game/scripts/story_01/fantasy.rpy:523
+    old "Ну... Вообще-то я имел ввиду другое..."
+    new "Ну... Вообще-то я имел ввиду другое..."
+
+    # game/scripts/story_01/fantasy.rpy:558
     old "Ага, сзади вас я буду однозначно..."
     new "Ага, сзади вас я буду однозначно..."
 
-    # game/scripts/story_01/fantasy.rpy:551
-    old "Если вы про мой член, то соскальзывать как раз на него и надо..."
-    new "Если вы про мой член, то соскальзывать как раз на него и надо..."
-
-    # game/scripts/story_01/fantasy.rpy:570
+    # game/scripts/story_01/fantasy.rpy:572
     old "Нужно третий раз побывать у Мии дома"
     new "Нужно третий раз побывать у Мии дома"
 
-    # game/scripts/story_01/fantasy.rpy:597
+    # game/scripts/story_01/fantasy.rpy:576
+    old "Если вы про мой член, то соскальзывать как раз на него и надо..."
+    new "Если вы про мой член, то соскальзывать как раз на него и надо..."
+
+    # game/scripts/story_01/fantasy.rpy:601
     old "{i}закончить принимать душ{/i}"
     new "{i}закончить принимать душ{/i}"
 

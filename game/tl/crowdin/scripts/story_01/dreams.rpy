@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-02-19 00:46
+﻿# TODO: Translation updated at 2026-06-22 22:36
 
 # game/scripts/story_01/dreams.rpy:14
 translate crowdin ev_019_d1b851a2:
@@ -1826,175 +1826,175 @@ translate crowdin ev_133_68ac417a:
 
 translate crowdin strings:
 
-    # game/scripts/story_01/dreams.rpy:18
+    # game/scripts/story_01/dreams.rpy:20
     old "{i}присвистнуть{/i}"
     new "{i}присвистнуть{/i}"
 
-    # game/scripts/story_01/dreams.rpy:18
+    # game/scripts/story_01/dreams.rpy:22
     old "{i}любоваться дальше{/i}"
     new "{i}любоваться дальше{/i}"
 
-    # game/scripts/story_01/dreams.rpy:30
+    # game/scripts/story_01/dreams.rpy:33
     old "{i}подойти{/i}"
     new "{i}подойти{/i}"
 
-    # game/scripts/story_01/dreams.rpy:30
-    old "{i}не мешать{/i}"
-    new "{i}не мешать{/i}"
-
-    # game/scripts/story_01/dreams.rpy:44
+    # game/scripts/story_01/dreams.rpy:47
     old "{i}трогать её грудь{/i}"
     new "{i}трогать её грудь{/i}"
 
-    # game/scripts/story_01/dreams.rpy:44
+    # game/scripts/story_01/dreams.rpy:61
     old "{i}трогать её попку{/i}"
     new "{i}трогать её попку{/i}"
 
-    # game/scripts/story_01/dreams.rpy:117
+    # game/scripts/story_01/dreams.rpy:78
+    old "{i}не мешать{/i}"
+    new "{i}не мешать{/i}"
+
+    # game/scripts/story_01/dreams.rpy:119
     old "{i}начать с её ножек{/i}"
     new "{i}начать с её ножек{/i}"
 
-    # game/scripts/story_01/dreams.rpy:129
+    # game/scripts/story_01/dreams.rpy:131
     old "{i}двигаться выше по её ножкам{/i}"
     new "{i}двигаться выше по её ножкам{/i}"
 
-    # game/scripts/story_01/dreams.rpy:137
+    # game/scripts/story_01/dreams.rpy:139
     old "{i}двигаться ещё выше по её ножкам{/i}"
     new "{i}двигаться ещё выше по её ножкам{/i}"
 
-    # game/scripts/story_01/dreams.rpy:163
+    # game/scripts/story_01/dreams.rpy:166
     old "Тогда тебе лучше перевернуться на спину..."
     new "Тогда тебе лучше перевернуться на спину..."
 
-    # game/scripts/story_01/dreams.rpy:163
-    old "Тогда тебя ждёт особый массаж..."
-    new "Тогда тебя ждёт особый массаж..."
-
-    # game/scripts/story_01/dreams.rpy:170
+    # game/scripts/story_01/dreams.rpy:172
     old "{i}начать нежный массаж груди{/i}"
     new "{i}начать нежный массаж груди{/i}"
 
-    # game/scripts/story_01/dreams.rpy:240
+    # game/scripts/story_01/dreams.rpy:188
+    old "Тогда тебя ждёт особый массаж..."
+    new "Тогда тебя ждёт особый массаж..."
+
+    # game/scripts/story_01/dreams.rpy:242
     old "{i}устроиться у Лизы на кровати{/i}"
     new "{i}устроиться у Лизы на кровати{/i}"
 
-    # game/scripts/story_01/dreams.rpy:249
+    # game/scripts/story_01/dreams.rpy:251
     old "{i}подвинуться{/i}"
     new "{i}подвинуться{/i}"
 
-    # game/scripts/story_01/dreams.rpy:308
+    # game/scripts/story_01/dreams.rpy:311
     old "В следующий раз узнаешь, а пока продолжай..."
     new "В следующий раз узнаешь, а пока продолжай..."
 
-    # game/scripts/story_01/dreams.rpy:308
+    # game/scripts/story_01/dreams.rpy:328
     old "Если хочешь узнать, то я сейчас покажу..."
     new "Если хочешь узнать, то я сейчас покажу..."
 
-    # game/scripts/story_01/dreams.rpy:374
+    # game/scripts/story_01/dreams.rpy:377
     old "{i}работать не отвлекаясь{/i}"
     new "{i}работать не отвлекаясь{/i}"
 
-    # game/scripts/story_01/dreams.rpy:374
+    # game/scripts/story_01/dreams.rpy:381
     old "{i}выронить несколько документов{/i}"
     new "{i}выронить несколько документов{/i}"
 
-    # game/scripts/story_01/dreams.rpy:395
+    # game/scripts/story_01/dreams.rpy:398
     old "{i}высунуть член{/i}"
     new "{i}высунуть член{/i}"
 
-    # game/scripts/story_01/dreams.rpy:395
-    old "{i}снова уронить документы{/i}"
-    new "{i}снова уронить документы{/i}"
-
-    # game/scripts/story_01/dreams.rpy:407
+    # game/scripts/story_01/dreams.rpy:409
     old "{i}снять джинсы{/i}"
     new "{i}снять джинсы{/i}"
 
-    # game/scripts/story_01/dreams.rpy:448
+    # game/scripts/story_01/dreams.rpy:439
+    old "{i}снова уронить документы{/i}"
+    new "{i}снова уронить документы{/i}"
+
+    # game/scripts/story_01/dreams.rpy:450
     old "{i}ласкать её киску языком{/i}"
     new "{i}ласкать её киску языком{/i}"
 
-    # game/scripts/story_01/dreams.rpy:483
+    # game/scripts/story_01/dreams.rpy:485
     old "{i}пойти посмотреть с балкона{/i}"
     new "{i}пойти посмотреть с балкона{/i}"
 
-    # game/scripts/story_01/dreams.rpy:490
+    # game/scripts/story_01/dreams.rpy:493
     old "Собственно, люди они взрослые, могут делать, что захотят..."
     new "Собственно, люди они взрослые, могут делать, что захотят..."
 
-    # game/scripts/story_01/dreams.rpy:490
-    old "Блин, да мне это совсем не нравится! Даже смотреть противно..."
-    new "Блин, да мне это совсем не нравится! Даже смотреть противно..."
-
-    # game/scripts/story_01/dreams.rpy:493
+    # game/scripts/story_01/dreams.rpy:495
     old "{i}подсмотреть за ними поближе{/i}"
     new "{i}подсмотреть за ними поближе{/i}"
 
-    # game/scripts/story_01/dreams.rpy:501
+    # game/scripts/story_01/dreams.rpy:503
     old "{i}спуститься и пристыдить их{/i}"
     new "{i}спуститься и пристыдить их{/i}"
 
-    # game/scripts/story_01/dreams.rpy:563
+    # game/scripts/story_01/dreams.rpy:524
+    old "Блин, да мне это совсем не нравится! Даже смотреть противно..."
+    new "Блин, да мне это совсем не нравится! Даже смотреть противно..."
+
+    # game/scripts/story_01/dreams.rpy:566
     old "Ложись на кровать..."
     new "Ложись на кровать..."
 
-    # game/scripts/story_01/dreams.rpy:563
-    old "Мам, а ты сильно устала?"
-    new "Мам, а ты сильно устала?"
-
-    # game/scripts/story_01/dreams.rpy:563
-    old "Давай я буду сзади..."
-    new "Давай я буду сзади..."
-
-    # game/scripts/story_01/dreams.rpy:568
+    # game/scripts/story_01/dreams.rpy:570
     old "{i}ласкать мамину киску языком{/i}"
     new "{i}ласкать мамину киску языком{/i}"
 
-    # game/scripts/story_01/dreams.rpy:579
+    # game/scripts/story_01/dreams.rpy:581
     old "{i}войти в маму{/i}"
     new "{i}войти в маму{/i}"
 
-    # game/scripts/story_01/dreams.rpy:656
+    # game/scripts/story_01/dreams.rpy:590
+    old "Мам, а ты сильно устала?"
+    new "Мам, а ты сильно устала?"
+
+    # game/scripts/story_01/dreams.rpy:612
+    old "Давай я буду сзади..."
+    new "Давай я буду сзади..."
+
+    # game/scripts/story_01/dreams.rpy:659
     old "{i}начать с её лица{/i}"
     new "{i}начать с её лица{/i}"
 
-    # game/scripts/story_01/dreams.rpy:656
-    old "{i}начать с её груди{/i}"
-    new "{i}начать с её груди{/i}"
-
-    # game/scripts/story_01/dreams.rpy:656
-    old "{i}начать с её киски{/i}"
-    new "{i}начать с её киски{/i}"
-
-    # game/scripts/story_01/dreams.rpy:670
+    # game/scripts/story_01/dreams.rpy:672
     old "{i}целовать Алису в губы{/i}"
     new "{i}целовать Алису в губы{/i}"
 
-    # game/scripts/story_01/dreams.rpy:690
+    # game/scripts/story_01/dreams.rpy:679
+    old "{i}начать с её груди{/i}"
+    new "{i}начать с её груди{/i}"
+
+    # game/scripts/story_01/dreams.rpy:692
     old "{i}ласкать грудь Алисы{/i}"
     new "{i}ласкать грудь Алисы{/i}"
 
-    # game/scripts/story_01/dreams.rpy:711
+    # game/scripts/story_01/dreams.rpy:700
+    old "{i}начать с её киски{/i}"
+    new "{i}начать с её киски{/i}"
+
+    # game/scripts/story_01/dreams.rpy:713
     old "{i}ласкать киску Алисы{/i}"
     new "{i}ласкать киску Алисы{/i}"
 
-    # game/scripts/story_01/dreams.rpy:726
+    # game/scripts/story_01/dreams.rpy:729
     old "Пока что твой болтливый ротик не особо убеждает..."
     new "Пока что твой болтливый ротик не особо убеждает..."
 
-    # game/scripts/story_01/dreams.rpy:726
+    # game/scripts/story_01/dreams.rpy:747
     old "Кое-куда я определённо тебя хочу. Но сперва в ротик..."
     new "Кое-куда я определённо тебя хочу. Но сперва в ротик..."
 
-    # game/scripts/story_01/dreams.rpy:810
+    # game/scripts/story_01/dreams.rpy:813
     old "Это он может. Садись повыше..."
     new "Это он может. Садись повыше..."
 
-    # game/scripts/story_01/dreams.rpy:810
-    old "Я попробую. Поворачивайся попкой..."
-    new "Я попробую. Поворачивайся попкой..."
-
-    # game/scripts/story_01/dreams.rpy:825
+    # game/scripts/story_01/dreams.rpy:827
     old "{i}постараться для сестрёнки{/i}"
     new "{i}постараться для сестрёнки{/i}"
+
+    # game/scripts/story_01/dreams.rpy:841
+    old "Я попробую. Поворачивайся попкой..."
+    new "Я попробую. Поворачивайся попкой..."
 

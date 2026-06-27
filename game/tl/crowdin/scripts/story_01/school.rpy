@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-02-19 00:46
+﻿# TODO: Translation updated at 2026-06-22 22:36
 
 # game/scripts/story_01/school.rpy:11
 translate crowdin ev_004_1fe4b55c:
@@ -1124,19 +1124,19 @@ translate crowdin ev_131_ef03f245:
 
 translate crowdin strings:
 
-    # game/scripts/story_01/school.rpy:44
+    # game/scripts/story_01/school.rpy:46
     old "{i}ждать Лизу во дворе{/i}"
     new "{i}ждать Лизу во дворе{/i}"
 
-    # game/scripts/story_01/school.rpy:61
+    # game/scripts/story_01/school.rpy:63
     old "{i}идти к бассейну{/i}"
     new "{i}идти к бассейну{/i}"
 
-    # game/scripts/story_01/school.rpy:116
+    # game/scripts/story_01/school.rpy:118
     old "Нет, поплаваю с тобой ещё немного..."
     new "Нет, поплаваю с тобой ещё немного..."
 
-    # game/scripts/story_01/school.rpy:116
+    # game/scripts/story_01/school.rpy:143
     old "Ага. Пора делами заниматься..."
     new "Ага. Пора делами заниматься..."
 

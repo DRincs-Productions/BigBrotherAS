@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-02-19 00:46
+﻿# TODO: Translation updated at 2026-06-22 22:36
 
 # game/scripts/story_01/aliceroom.rpy:12
 translate crowdin ev_alice_dressed_51996b14:
@@ -164,39 +164,39 @@ translate crowdin ev_068_07c6fd9a:
 
 translate crowdin strings:
 
-    # game/scripts/story_01/aliceroom.rpy:18
+    # game/scripts/story_01/aliceroom.rpy:19
     old "{i}постучаться{/i}"
     new "{i}постучаться{/i}"
 
-    # game/scripts/story_01/aliceroom.rpy:18
+    # game/scripts/story_01/aliceroom.rpy:21
     old "{i}войти в комнату{/i}"
     new "{i}войти в комнату{/i}"
 
-    # game/scripts/story_01/aliceroom.rpy:18
+    # game/scripts/story_01/aliceroom.rpy:23
     old "{i}приоткрыть дверь{/i}"
     new "{i}приоткрыть дверь{/i}"
 
-    # game/scripts/story_01/aliceroom.rpy:62
+    # game/scripts/story_01/aliceroom.rpy:64
     old "{i}тихонько уйти{/i}"
     new "{i}тихонько уйти{/i}"
 
-    # game/scripts/story_01/aliceroom.rpy:80
+    # game/scripts/story_01/aliceroom.rpy:82
     old "Давай играть, кто больше одежды снимет?"
     new "Давай играть, кто больше одежды снимет?"
 
-    # game/scripts/story_01/aliceroom.rpy:93
+    # game/scripts/story_01/aliceroom.rpy:95
     old "Понял. Не буду мешать..."
     new "Понял. Не буду мешать..."
 
-    # game/scripts/story_01/aliceroom.rpy:97
+    # game/scripts/story_01/aliceroom.rpy:99
     old "{i}подождать за дверью, пока Алиса переоденется{/i}"
     new "{i}подождать за дверью, пока Алиса переоденется{/i}"
 
-    # game/scripts/story_01/aliceroom.rpy:256
+    # game/scripts/story_01/aliceroom.rpy:258
     old "{i}прокрасться в комнату{/i}"
     new "{i}прокрасться в комнату{/i}"
 
-    # game/scripts/story_01/aliceroom.rpy:264
+    # game/scripts/story_01/aliceroom.rpy:266
     old "{i}подложить паука к Алисе{/i}"
     new "{i}подложить паука к Алисе{/i}"
 

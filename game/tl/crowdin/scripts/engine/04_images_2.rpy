@@ -1,0 +1,8 @@
+﻿# TODO: Translation updated at 2026-06-22 22:36
+
+translate crowdin strings:
+
+    # game/scripts/engine/04_images_2.rpy:6
+    old "ГЛАВА 2"
+    new "ГЛАВА 2"
+

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-02-19 00:46
+﻿# TODO: Translation updated at 2026-06-22 22:36
 
 # game/scripts/story_01/secretbooks.rpy:7
 translate crowdin ev_013_2ca4e9e8:
@@ -122,11 +122,11 @@ translate crowdin ev_015_e0df9746:
 
 translate crowdin strings:
 
-    # game/scripts/story_01/secretbooks.rpy:34
+    # game/scripts/story_01/secretbooks.rpy:38
     old "{i}искать под подушкой{/i}"
     new "{i}искать под подушкой{/i}"
 
-    # game/scripts/story_01/secretbooks.rpy:34
+    # game/scripts/story_01/secretbooks.rpy:45
     old "{i}искать под кроватью{/i}"
     new "{i}искать под кроватью{/i}"
 

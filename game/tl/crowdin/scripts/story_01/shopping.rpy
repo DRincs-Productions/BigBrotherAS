@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-02-19 00:46
+﻿# TODO: Translation updated at 2026-06-22 22:36
 
 # game/scripts/story_01/shopping.rpy:20
 translate crowdin ev_051_f2e28c50:
@@ -384,187 +384,187 @@ translate crowdin ev_152_9ba386b9:
     # Max 13 "Да? Хм... Посмотрим..."
     Max 13 "Да? Хм... Посмотрим..."
 
-# game/scripts/story_01/shopping.rpy:212
+# game/scripts/story_01/shopping.rpy:215
 translate crowdin ev_152_f5257458:
 
     # Eric 10 "А ты, Макс, оказывается не так прост, как мне показалось. Не жалко было столько денег на подарки девочкам тратить?"
     Eric 10 "А ты, Макс, оказывается не так прост, как мне показалось. Не жалко было столько денег на подарки девочкам тратить?"
 
-# game/scripts/story_01/shopping.rpy:215
+# game/scripts/story_01/shopping.rpy:218
 translate crowdin ev_152_742440b1:
 
     # Eric 10 "А ты, Макс, оказывается не так прост, как мне показалось. Не жалко было тратиться на подарок для сестрёнки?"
     Eric 10 "А ты, Макс, оказывается не так прост, как мне показалось. Не жалко было тратиться на подарок для сестрёнки?"
 
-# game/scripts/story_01/shopping.rpy:216
+# game/scripts/story_01/shopping.rpy:219
 translate crowdin ev_152_2a151a85:
 
     # Max 13 "Нисколько. Я ещё заработаю..."
     Max 13 "Нисколько. Я ещё заработаю..."
 
-# game/scripts/story_01/shopping.rpy:217
+# game/scripts/story_01/shopping.rpy:220
 translate crowdin ev_152_61a8826c:
 
     # Eric 09 "Само собой... Правда, если ты продолжишь делать так и дальше, то у нас с тобой будут проблемы."
     Eric 09 "Само собой... Правда, если ты продолжишь делать так и дальше, то у нас с тобой будут проблемы."
 
-# game/scripts/story_01/shopping.rpy:218
+# game/scripts/story_01/shopping.rpy:221
 translate crowdin ev_152_5e490348:
 
     # Max 12 "Это почему?!"
     Max 12 "Это почему?!"
 
-# game/scripts/story_01/shopping.rpy:221
+# game/scripts/story_01/shopping.rpy:224
 translate crowdin ev_152_c736e4e5:
 
     # Eric 10 "Признаюсь, Макс, я немного волновался, что мои наставления во время ужина сыграют злую шутку и ты начнёшь задаривать свою семью подарками, но обошлось."
     Eric 10 "Признаюсь, Макс, я немного волновался, что мои наставления во время ужина сыграют злую шутку и ты начнёшь задаривать свою семью подарками, но обошлось."
 
-# game/scripts/story_01/shopping.rpy:222
+# game/scripts/story_01/shopping.rpy:225
 translate crowdin ev_152_18703ced:
 
     # Max 13 "В смысле злую шутку?"
     Max 13 "В смысле злую шутку?"
 
-# game/scripts/story_01/shopping.rpy:224
+# game/scripts/story_01/shopping.rpy:227
 translate crowdin ev_152_e7aa3227:
 
     # Eric 01 "Сразу скажу прямо, как есть... Я серьёзно подумываю начать с твоей мамой более «тесные» отношения и я не про работу. И о сёстрах твоих я сам позабочусь, не утруждайся."
     Eric 01 "Сразу скажу прямо, как есть... Я серьёзно подумываю начать с твоей мамой более «тесные» отношения и я не про работу. И о сёстрах твоих я сам позабочусь, не утруждайся."
 
-# game/scripts/story_01/shopping.rpy:225
+# game/scripts/story_01/shopping.rpy:228
 translate crowdin ev_152_f059259c:
 
     # Max 16 "Хм... Как-то ты не похож на мужика, которому для полного счастья не хватает только женщины с тремя чужими детьми."
     Max 16 "Хм... Как-то ты не похож на мужика, которому для полного счастья не хватает только женщины с тремя чужими детьми."
 
-# game/scripts/story_01/shopping.rpy:226
+# game/scripts/story_01/shopping.rpy:229
 translate crowdin ev_152_c354e613:
 
     # Eric 08 "Ну, в данном случае, это скорее приятное дополнение. Если, конечно, мы с тобой найдём при всём этом общий язык."
     Eric 08 "Ну, в данном случае, это скорее приятное дополнение. Если, конечно, мы с тобой найдём при всём этом общий язык."
 
-# game/scripts/story_01/shopping.rpy:229
+# game/scripts/story_01/shopping.rpy:232
 translate crowdin ev_152_3cca37d1:
 
     # Max 13 "Может быть. Пока не знаю..."
     Max 13 "Может быть. Пока не знаю..."
 
-# game/scripts/story_01/shopping.rpy:232
+# game/scripts/story_01/shopping.rpy:235
 translate crowdin ev_152_96619b70:
 
     # Max 13 "Это вряд ли..."
     Max 13 "Это вряд ли..."
 
-# game/scripts/story_01/shopping.rpy:236
+# game/scripts/story_01/shopping.rpy:239
 translate crowdin ev_152_ededd16a:
 
     # Eric 03 "Если мы подружимся и ты не будешь мне мешаться, то только выиграешь от этого. Так что не торопись, Макс, подумай над этим хорошенько."
     Eric 03 "Если мы подружимся и ты не будешь мне мешаться, то только выиграешь от этого. Так что не торопись, Макс, подумай над этим хорошенько."
 
-# game/scripts/story_01/shopping.rpy:237
+# game/scripts/story_01/shopping.rpy:240
 translate crowdin ev_152_3ae47150:
 
     # Max 16 "Интересно, и что же я выиграю?"
     Max 16 "Интересно, и что же я выиграю?"
 
-# game/scripts/story_01/shopping.rpy:238
+# game/scripts/story_01/shopping.rpy:241
 translate crowdin ev_152_49fcdde5:
 
     # Eric 02 "Ты слишком забегаешь вперёд. Через некоторое время мы ещё вернёмся к этому разговору..."
     Eric 02 "Ты слишком забегаешь вперёд. Через некоторое время мы ещё вернёмся к этому разговору..."
 
-# game/scripts/story_01/shopping.rpy:239
+# game/scripts/story_01/shopping.rpy:242
 translate crowdin ev_152_bb4877d9:
 
     # Max 17 "Ага, всего доброго."
     Max 17 "Ага, всего доброго."
 
-# game/scripts/story_01/shopping.rpy:243
+# game/scripts/story_01/shopping.rpy:246
 translate crowdin ev_152_c83f588f:
 
     # tMax 13 "Этот Эрик - какая-то сильно подозрительная сволочь. Или мне просто так кажется? В любом случае, надо предупредить маму..."
     tMax 13 "Этот Эрик - какая-то сильно подозрительная сволочь. Или мне просто так кажется? В любом случае, надо предупредить маму..."
 
-# game/scripts/story_01/shopping.rpy:247
+# game/scripts/story_01/shopping.rpy:250
 translate crowdin ev_152_b0c1e3a6:
 
     # Ann 01 "Ну, Макс, как там у вас с Эриком, налаживается контакт?"
     Ann 01 "Ну, Макс, как там у вас с Эриком, налаживается контакт?"
 
-# game/scripts/story_01/shopping.rpy:248
+# game/scripts/story_01/shopping.rpy:251
 translate crowdin ev_152_d8634607:
 
     # Max 16 "Не сказал бы. Ты, пожалуйста, будь с ним осторожнее. Он какой-то сильно мутный тип."
     Max 16 "Не сказал бы. Ты, пожалуйста, будь с ним осторожнее. Он какой-то сильно мутный тип."
 
-# game/scripts/story_01/shopping.rpy:253
+# game/scripts/story_01/shopping.rpy:256
 translate crowdin ev_152_765b4176:
 
     # Ann 10 "Не знаю, с чего ты так решил, сынок. У меня об Эрике сложилось только крайне положительное впечатление."
     Ann 10 "Не знаю, с чего ты так решил, сынок. У меня об Эрике сложилось только крайне положительное впечатление."
 
-# game/scripts/story_01/shopping.rpy:254
+# game/scripts/story_01/shopping.rpy:257
 translate crowdin ev_152_8dbfa66b:
 
     # Max 13 "Вот это и подозрительно, потому что я вижу обратное."
     Max 13 "Вот это и подозрительно, потому что я вижу обратное."
 
-# game/scripts/story_01/shopping.rpy:255
+# game/scripts/story_01/shopping.rpy:258
 translate crowdin ev_152_de807517:
 
     # Ann 12 "Знаешь, я думаю, ты просто ещё недостаточно хорошо его узнал."
     Ann 12 "Знаешь, я думаю, ты просто ещё недостаточно хорошо его узнал."
 
-# game/scripts/story_01/shopping.rpy:256
-translate crowdin ev_152_9d15e9d7:
+# game/scripts/story_01/shopping.rpy:259
+translate crowdin ev_152_0c42aecf:
 
-    # Max 12 "Всё ясно с тобой, мам.. "
-    Max 12 "Всё ясно с тобой, мам.. "
+    # Max 12 "Всё ясно с тобой, мам..."
+    Max 12 "Всё ясно с тобой, мам..."
 
-# game/scripts/story_01/shopping.rpy:257
+# game/scripts/story_01/shopping.rpy:260
 translate crowdin ev_152_bcdb38d9:
 
     # tMax 16 "Похоже, мне ещё придётся ей это доказать..."
     tMax 16 "Похоже, мне ещё придётся ей это доказать..."
 
-# game/scripts/story_01/shopping.rpy:270
+# game/scripts/story_01/shopping.rpy:273
 translate crowdin ev_152_3f008bbd:
 
     # Eric 08 "У меня всё схвачено... Правда, с пареньком могут быть проблемы, но это в любом случае решаемо..."
     Eric 08 "У меня всё схвачено... Правда, с пареньком могут быть проблемы, но это в любом случае решаемо..."
 
-# game/scripts/story_01/shopping.rpy:271
+# game/scripts/story_01/shopping.rpy:274
 translate crowdin ev_152_0c90761a:
 
     # Stranger "Уж надеюсь. Смотри, не облажайся, а то мне придётся делать всё самой. А паренёк... Так уж и быть, если с ним будут проблемы, то мне есть чем его занять..."
     Stranger "Уж надеюсь. Смотри, не облажайся, а то мне придётся делать всё самой. А паренёк... Так уж и быть, если с ним будут проблемы, то мне есть чем его занять..."
 
-# game/scripts/story_01/shopping.rpy:275
+# game/scripts/story_01/shopping.rpy:278
 translate crowdin ev_152_262a988d:
 
     # Eric 10 "Даже так! Что-то ты сегодня добрее, чем обычно."
     Eric 10 "Даже так! Что-то ты сегодня добрее, чем обычно."
 
-# game/scripts/story_01/shopping.rpy:276
+# game/scripts/story_01/shopping.rpy:279
 translate crowdin ev_152_d2e559a1:
 
     # Stranger "Физиономию твою давно не видела, вот и подобрела сразу. Всё, жду результатов..."
     Stranger "Физиономию твою давно не видела, вот и подобрела сразу. Всё, жду результатов..."
 
-# game/scripts/story_01/shopping.rpy:277
+# game/scripts/story_01/shopping.rpy:280
 translate crowdin ev_152_0958a755:
 
     # Eric 04 "На лицо?"
     Eric 04 "На лицо?"
 
-# game/scripts/story_01/shopping.rpy:281
+# game/scripts/story_01/shopping.rpy:284
 translate crowdin ev_152_72afa6e7:
 
     # Stranger "Ох, угораздило же меня сотрудничать с таким придурком..."
     Stranger "Ох, угораздило же меня сотрудничать с таким придурком..."
 
-# game/scripts/story_01/shopping.rpy:282
+# game/scripts/story_01/shopping.rpy:285
 translate crowdin ev_152_552adb54:
 
     # Eric 09 "Эй, алло?! Вот сучка, завершила звонок!"
@@ -572,11 +572,11 @@ translate crowdin ev_152_552adb54:
 
 translate crowdin strings:
 
-    # game/scripts/story_01/shopping.rpy:19
+    # game/scripts/story_01/shopping.rpy:21
     old "Удачных вам покупок... \n{i}(остаться дома){/i}"
     new "Удачных вам покупок... \n{i}(остаться дома){/i}"
 
-    # game/scripts/story_01/shopping.rpy:19
+    # game/scripts/story_01/shopping.rpy:31
     old "Подождите! Я с вами..."
     new "Подождите! Я с вами..."
 

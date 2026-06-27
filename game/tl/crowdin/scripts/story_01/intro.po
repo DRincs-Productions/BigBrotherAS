@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/intro.rpy:8 #-#-# translate crowdin intro_52864ee0:
+﻿# TODO: Translation updated at 2026-06-22 22:36 #|#|# # game/scripts/story_01/intro.rpy:8 #-#-# translate crowdin intro_52864ee0:
 msgid "[_Max_s_01_] Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку. [nointeract]"
 msgstr "[_Max_s_01_] Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку. [nointeract]"
 
@@ -118,27 +118,27 @@ msgstr "[_Max_s_13_] Спустя неделю часть наших вещей 
 msgid "[_Max_s_11_] Мама устроилась на новую работу. Лиза пошла в местную школу. Алиса так и сидит в своём ноуте, а я... На этом мой рассказ заканчивается и начинается что-то новое и интересное! [nointeract]"
 msgstr "[_Max_s_11_] Мама устроилась на новую работу. Лиза пошла в местную школу. Алиса так и сидит в своём ноуте, а я... На этом мой рассказ заканчивается и начинается что-то новое и интересное! [nointeract]"
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/intro.rpy:7
+# §translate crowdin strings: #|#|# # game/scripts/story_01/intro.rpy:9
 msgid "{i}далее{/i}"
 msgstr "{i}далее{/i}"
 
-# game/scripts/story_01/intro.rpy:7
+# game/scripts/story_01/intro.rpy:12
 msgid "{i}пропустить пролог{/i}"
 msgstr "{i}пропустить пролог{/i}"
 
-# game/scripts/story_01/intro.rpy:43
+# game/scripts/story_01/intro.rpy:45
 msgid "{i}несколько недель спустя...{/i}"
 msgstr "{i}несколько недель спустя...{/i}"
 
-# game/scripts/story_01/intro.rpy:62
+# game/scripts/story_01/intro.rpy:64
 msgid "{i}спустя неделю...{/i}"
 msgstr "{i}спустя неделю...{/i}"
 
-# game/scripts/story_01/intro.rpy:69
+# game/scripts/story_01/intro.rpy:71
 msgid "{i}начать игру (Глава 1){/i}"
 msgstr "{i}начать игру (Глава 1){/i}"
 
-# game/scripts/story_01/intro.rpy:69
+# game/scripts/story_01/intro.rpy:74
 msgid "{i}пройти обучение{/i}"
 msgstr "{i}пройти обучение{/i}"
 

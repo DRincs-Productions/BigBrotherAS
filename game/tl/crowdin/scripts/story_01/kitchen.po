@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/kitchen.rpy:16 #-#-# translate crowdin ev_alice_clean_e2fdb3e5:
+﻿# TODO: Translation updated at 2026-06-22 22:36 #|#|# # game/scripts/story_01/kitchen.rpy:16 #-#-# translate crowdin ev_alice_clean_e2fdb3e5:
 msgid "[_Alice_s_01_] Неужели тебе надоело бездельничать и ты пришёл мне помочь? [nointeract]"
 msgstr "[_Alice_s_01_] Неужели тебе надоело бездельничать и ты пришёл мне помочь? [nointeract]"
 
@@ -102,35 +102,35 @@ msgstr "[_tMax_s_11_] Можно ли вообще удержаться и не 
 msgid "[_Ann_s_12_] Ну вот, а я уже понадеялась! Тогда не мешай... [nointeract]"
 msgstr "[_Ann_s_12_] Ну вот, а я уже понадеялась! Тогда не мешай... [nointeract]"
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/kitchen.rpy:63
+# §translate crowdin strings: #|#|# # game/scripts/story_01/kitchen.rpy:65
 msgid "Хочешь, я помогу тебе домыть посуду?"
 msgstr "Хочешь, я помогу тебе домыть посуду?"
 
-# game/scripts/story_01/kitchen.rpy:63
+# game/scripts/story_01/kitchen.rpy:81
 msgid "Нет, просто мимо проходил..."
 msgstr "Нет, просто мимо проходил..."
 
-# game/scripts/story_01/kitchen.rpy:101
+# game/scripts/story_01/kitchen.rpy:102
 msgid "Ага, не вопрос. Сделаю."
 msgstr "Ага, не вопрос. Сделаю."
 
-# game/scripts/story_01/kitchen.rpy:101
-msgid "Нет, лучше давай сама..."
-msgstr "Нет, лучше давай сама..."
-
-# game/scripts/story_01/kitchen.rpy:116
+# game/scripts/story_01/kitchen.rpy:117
 msgid "{i}приступить к ужину{/i}"
 msgstr "{i}приступить к ужину{/i}"
 
-# game/scripts/story_01/kitchen.rpy:141
+# game/scripts/story_01/kitchen.rpy:121
+msgid "Нет, лучше давай сама..."
+msgstr "Нет, лучше давай сама..."
+
+# game/scripts/story_01/kitchen.rpy:142
 msgid "{i}подойти и помочь{/i}"
 msgstr "{i}подойти и помочь{/i}"
 
-# game/scripts/story_01/kitchen.rpy:141
-msgid "Хотя, нет, сейчас не могу..."
-msgstr "Хотя, нет, сейчас не могу..."
-
-# game/scripts/story_01/kitchen.rpy:175
+# game/scripts/story_01/kitchen.rpy:176
 msgid "{i}приступить к завтраку{/i}"
 msgstr "{i}приступить к завтраку{/i}"
+
+# game/scripts/story_01/kitchen.rpy:180
+msgid "Хотя, нет, сейчас не могу..."
+msgstr "Хотя, нет, сейчас не могу..."
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-02-19 00:46
+﻿# TODO: Translation updated at 2026-06-22 22:36
 
 # game/scripts/story_01/annroom.rpy:12
 translate crowdin ev_ann_dressed_d0c78fcb:
@@ -260,39 +260,39 @@ translate crowdin ev_024_873762ea:
 
 translate crowdin strings:
 
-    # game/scripts/story_01/annroom.rpy:77
+    # game/scripts/story_01/annroom.rpy:79
     old "{i}убежать{/i}"
     new "{i}убежать{/i}"
 
-    # game/scripts/story_01/annroom.rpy:108
+    # game/scripts/story_01/annroom.rpy:110
     old "Конечно! А что, нельзя что ли?!"
     new "Конечно! А что, нельзя что ли?!"
 
-    # game/scripts/story_01/annroom.rpy:108
+    # game/scripts/story_01/annroom.rpy:131
     old "Нет, просто задумался и ноги сюда завели..."
     new "Нет, просто задумался и ноги сюда завели..."
 
-    # game/scripts/story_01/annroom.rpy:159
+    # game/scripts/story_01/annroom.rpy:161
     old "Конечно, мам. Не буду мешать..."
     new "Конечно, мам. Не буду мешать..."
 
-    # game/scripts/story_01/annroom.rpy:163
+    # game/scripts/story_01/annroom.rpy:165
     old "{i}подождать за дверью, пока мама переоденется{/i}"
     new "{i}подождать за дверью, пока мама переоденется{/i}"
 
-    # game/scripts/story_01/annroom.rpy:186
+    # game/scripts/story_01/annroom.rpy:188
     old "Ухх... А пройтись в этом, как по подиуму можешь?"
     new "Ухх... А пройтись в этом, как по подиуму можешь?"
 
-    # game/scripts/story_01/annroom.rpy:186
+    # game/scripts/story_01/annroom.rpy:190
     old "Да, был вопросик, но от такой красоты я всё позабыл..."
     new "Да, был вопросик, но от такой красоты я всё позабыл..."
 
-    # game/scripts/story_01/annroom.rpy:361
+    # game/scripts/story_01/annroom.rpy:364
     old "{i}подползти ещё ближе{/i}"
     new "{i}подползти ещё ближе{/i}"
 
-    # game/scripts/story_01/annroom.rpy:361
+    # game/scripts/story_01/annroom.rpy:374
     old "{i}тихонько уползти{/i}"
     new "{i}тихонько уползти{/i}"
 
@@ -300,11 +300,7 @@ translate crowdin strings:
     old "Навык «Скрытность» повышен до уровня 2!"
     new "Навык «Скрытность» повышен до уровня 2!"
 
-    # game/scripts/story_01/annroom.rpy:381
-    old "Задание «{}» обновлено!"
-    new "Задание «{}» обновлено!"
-
-    # game/scripts/story_01/annroom.rpy:442
+    # game/scripts/story_01/annroom.rpy:444
     old "{i}подойти к маме{/i}"
     new "{i}подойти к маме{/i}"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-02-19 00:46
+﻿# TODO: Translation updated at 2026-06-22 22:36
 
 # game/scripts/story_01/intro.rpy:8
 translate crowdin intro_52864ee0:
@@ -182,27 +182,27 @@ translate crowdin intro_16b9bcf5:
 
 translate crowdin strings:
 
-    # game/scripts/story_01/intro.rpy:7
+    # game/scripts/story_01/intro.rpy:9
     old "{i}далее{/i}"
     new "{i}далее{/i}"
 
-    # game/scripts/story_01/intro.rpy:7
+    # game/scripts/story_01/intro.rpy:12
     old "{i}пропустить пролог{/i}"
     new "{i}пропустить пролог{/i}"
 
-    # game/scripts/story_01/intro.rpy:43
+    # game/scripts/story_01/intro.rpy:45
     old "{i}несколько недель спустя...{/i}"
     new "{i}несколько недель спустя...{/i}"
 
-    # game/scripts/story_01/intro.rpy:62
+    # game/scripts/story_01/intro.rpy:64
     old "{i}спустя неделю...{/i}"
     new "{i}спустя неделю...{/i}"
 
-    # game/scripts/story_01/intro.rpy:69
+    # game/scripts/story_01/intro.rpy:71
     old "{i}начать игру (Глава 1){/i}"
     new "{i}начать игру (Глава 1){/i}"
 
-    # game/scripts/story_01/intro.rpy:69
+    # game/scripts/story_01/intro.rpy:74
     old "{i}пройти обучение{/i}"
     new "{i}пройти обучение{/i}"
 

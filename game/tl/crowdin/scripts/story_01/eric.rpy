@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-02-19 00:46
+﻿# TODO: Translation updated at 2026-06-22 22:36
 
 # game/scripts/story_01/eric.rpy:11
 translate crowdin ev_055_e6d21536:
@@ -1130,35 +1130,35 @@ translate crowdin ev_143_0d053789:
 
 translate crowdin strings:
 
-    # game/scripts/story_01/eric.rpy:15
+    # game/scripts/story_01/eric.rpy:18
     old "А сзади всё так же идеально?"
     new "А сзади всё так же идеально?"
 
-    # game/scripts/story_01/eric.rpy:15
+    # game/scripts/story_01/eric.rpy:24
     old "В этом платье ты сразишь всех!"
     new "В этом платье ты сразишь всех!"
 
-    # game/scripts/story_01/eric.rpy:40
+    # game/scripts/story_01/eric.rpy:42
     old "{i}выйти во двор{/i}"
     new "{i}выйти во двор{/i}"
 
-    # game/scripts/story_01/eric.rpy:120
+    # game/scripts/story_01/eric.rpy:122
     old "{i}идти в гостиную{/i}"
     new "{i}идти в гостиную{/i}"
 
-    # game/scripts/story_01/eric.rpy:157
+    # game/scripts/story_01/eric.rpy:159
     old "Конечно, встретить её!"
     new "Конечно, встретить её!"
 
-    # game/scripts/story_01/eric.rpy:157
+    # game/scripts/story_01/eric.rpy:170
     old "Не встречать её!"
     new "Не встречать её!"
 
-    # game/scripts/story_01/eric.rpy:269
+    # game/scripts/story_01/eric.rpy:271
     old "{i}выйти из комнаты{/i}"
     new "{i}выйти из комнаты{/i}"
 
-    # game/scripts/story_01/eric.rpy:336
+    # game/scripts/story_01/eric.rpy:338
     old "{i}прислушаться{/i}"
     new "{i}прислушаться{/i}"
 

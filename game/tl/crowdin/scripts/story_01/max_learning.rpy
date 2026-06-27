@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-02-19 00:46
+﻿# TODO: Translation updated at 2026-06-22 22:36
 
 # game/scripts/story_01/max_learning.rpy:8
 translate crowdin ev_029_47925c16:
@@ -116,15 +116,15 @@ translate crowdin ev_046_66ef962f_1:
 
 translate crowdin strings:
 
-    # game/scripts/story_01/max_learning.rpy:7
+    # game/scripts/story_01/max_learning.rpy:9
     old "{i}читать «Веб-стандарты»{/i}"
     new "{i}читать «Веб-стандарты»{/i}"
 
-    # game/scripts/story_01/max_learning.rpy:7
+    # game/scripts/story_01/max_learning.rpy:12
     old "{i}читать «Секс-образование»{/i}"
     new "{i}читать «Секс-образование»{/i}"
 
-    # game/scripts/story_01/max_learning.rpy:7
+    # game/scripts/story_01/max_learning.rpy:17
     old "Как-то не хочется. В другой раз..."
     new "Как-то не хочется. В другой раз..."
 

@@ -1,144 +1,144 @@
-﻿# TODO: Translation updated at 2026-02-19 00:46
+﻿# TODO: Translation updated at 2026-06-22 22:36
 
 translate crowdin strings:
 
-    # game/scripts/engine/items.rpy:235
+    # game/scripts/engine/items.rpy:238
     old "Одежда"
     new "Одежда"
 
-    # game/scripts/engine/items.rpy:235
+    # game/scripts/engine/items.rpy:238
     old "Книги"
     new "Книги"
 
-    # game/scripts/engine/items.rpy:235
+    # game/scripts/engine/items.rpy:238
     old "Продукты"
     new "Продукты"
 
-    # game/scripts/engine/items.rpy:235
+    # game/scripts/engine/items.rpy:238
     old "Электроника"
     new "Электроника"
 
-    # game/scripts/engine/items.rpy:235
+    # game/scripts/engine/items.rpy:238
     old "Товары 18+"
     new "Товары 18+"
 
-    # game/scripts/engine/items.rpy:235
+    # game/scripts/engine/items.rpy:238
     old "Косметика"
     new "Косметика"
 
-    # game/scripts/engine/items.rpy:235
+    # game/scripts/engine/items.rpy:238
     old "Украшения"
     new "Украшения"
 
-    # game/scripts/engine/items.rpy:235
+    # game/scripts/engine/items.rpy:238
     old "Другое"
     new "Другое"
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Паук"
     new "Паук"
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Самое страшное существо на свете. С точки зрения Алисы, конечно. Нужно этим воспользоваться в подходящий момент!"
     new "Самое страшное существо на свете. С точки зрения Алисы, конечно. Нужно этим воспользоваться в подходящий момент!"
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Скрытая камера"
     new "Скрытая камера"
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Высокотехнологичная микро-камера, предназначенная для скрытного наблюдения. Имеет радиомодуль для беспроводной передачи зашифрованного цифрового видеосигнала."
     new "Высокотехнологичная микро-камера, предназначенная для скрытного наблюдения. Имеет радиомодуль для беспроводной передачи зашифрованного цифрового видеосигнала."
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Стремянка"
     new "Стремянка"
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Небольшая стремянка, позволяющая достать то, для чего не хватает роста."
     new "Небольшая стремянка, позволяющая достать то, для чего не хватает роста."
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Масло для загара"
     new "Масло для загара"
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Лёгкий, хорошо впитывающийся препарат для ускорения загара обладает увлажняющими и защитными свойствами. Рекомендуется для применения на пляже и в солярии."
     new "Лёгкий, хорошо впитывающийся препарат для ускорения загара обладает увлажняющими и защитными свойствами. Рекомендуется для применения на пляже и в солярии."
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Комплект тёмного нижнего белья"
     new "Комплект тёмного нижнего белья"
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Нижнее бельё тёмного цвета и отличного качества. Прекрасный подарок для любимой девушки, который предаст ей ещё больше сексуальности."
     new "Нижнее бельё тёмного цвета и отличного качества. Прекрасный подарок для любимой девушки, который предаст ей ещё больше сексуальности."
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Шоколад «Ritter Sport» mini (9 штук)"
     new "Шоколад «Ritter Sport» mini (9 штук)"
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Шоколадное наслаждение для каждого случая... Множество лакомых сортов с лучшими ингредиентами со всего мира."
     new "Шоколадное наслаждение для каждого случая... Множество лакомых сортов с лучшими ингредиентами со всего мира."
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Шоколад «Ritter Sport» (4 штуки)"
     new "Шоколад «Ritter Sport» (4 штуки)"
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Конфеты «Raffaello» (16 штук)"
     new "Конфеты «Raffaello» (16 штук)"
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Хрустящие кокосовые конфеты с цельным миндальным орехом. Вместо тысячи слов..."
     new "Хрустящие кокосовые конфеты с цельным миндальным орехом. Вместо тысячи слов..."
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Конфеты «Raffaello» (24 штуки)"
     new "Конфеты «Raffaello» (24 штуки)"
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Конфеты «Ferrero Rocher» (16 штук)"
     new "Конфеты «Ferrero Rocher» (16 штук)"
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Сочетание цельного фундука и восхитительного сливочно-орехового крема в хрустящей вафельной оболочке подарит вам неповторимые вкусовые ощущения."
     new "Сочетание цельного фундука и восхитительного сливочно-орехового крема в хрустящей вафельной оболочке подарит вам неповторимые вкусовые ощущения."
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Конфеты «Ferrero Rocher» (24 штуки)"
     new "Конфеты «Ferrero Rocher» (24 штуки)"
 
-    # game/scripts/engine/items.rpy:246
-    old "Шёлковый халат"
-    new "Шёлковый халат"
-
-    # game/scripts/engine/items.rpy:246
-    old "Короткий, лёгкий, почти шёлковый халат высшего качества."
-    new "Короткий, лёгкий, почти шёлковый халат высшего качества."
-
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Веб-стандарты"
     new "Веб-стандарты"
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Книга рассказывает о способах создавать свои сайты, работающие на любых устройствах."
     new "Книга рассказывает о способах создавать свои сайты, работающие на любых устройствах."
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Секс-образование"
     new "Секс-образование"
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Книга обо всём, связанным с сексом. Отлично подходит для обучения подрастающего поколения."
     new "Книга обо всём, связанным с сексом. Отлично подходит для обучения подрастающего поколения."
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "USB-флешка"
     new "USB-флешка"
 
-    # game/scripts/engine/items.rpy:246
+    # game/scripts/engine/items.rpy:249
     old "Устройство для хранения и переноса цифровых данных. В данный момент, может быть использована для достижения некоторых целей."
     new "Устройство для хранения и переноса цифровых данных. В данный момент, может быть использована для достижения некоторых целей."
+
+    # game/scripts/engine/items.rpy:249
+    old "Шёлковый халат"
+    new "Шёлковый халат"
+
+    # game/scripts/engine/items.rpy:249
+    old "Короткий, лёгкий, почти шёлковый халат высшего качества."
+    new "Короткий, лёгкий, почти шёлковый халат высшего качества."
 

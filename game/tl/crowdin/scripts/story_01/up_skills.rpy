@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-02-19 00:46
+﻿# TODO: Translation updated at 2026-06-22 22:36
 
 # game/scripts/story_01/up_skills.rpy:9
 translate crowdin ev_086_176058a9:
@@ -80,7 +80,7 @@ translate crowdin ev_086_bea58364:
 
 translate crowdin strings:
 
-    # game/scripts/story_01/up_skills.rpy:15
+    # game/scripts/story_01/up_skills.rpy:18
     old "прокрасться в комнату"
     new "прокрасться в комнату"
 

@@ -1,12 +1,12 @@
-﻿# TODO: Translation updated at 2026-02-19 00:46
+﻿# TODO: Translation updated at 2026-06-22 22:36
 
-# game/scripts/story_01/delivery.rpy:29
+# game/scripts/story_01/delivery.rpy:32
 translate crowdin ev_delivery_eb6a6385:
 
     # tMax 11 "Звонок в ворота! Похоже, к нам кто-то приехал..."
     tMax 11 "Звонок в ворота! Похоже, к нам кто-то приехал..."
 
-# game/scripts/story_01/delivery.rpy:33
+# game/scripts/story_01/delivery.rpy:36
 translate crowdin ev_delivery_56e163cf:
 
     # tMax 03 "Отлично! Привезли то, что я заказывал. Это [txt]."
@@ -14,7 +14,7 @@ translate crowdin ev_delivery_56e163cf:
 
 translate crowdin strings:
 
-    # game/scripts/story_01/delivery.rpy:73
+    # game/scripts/story_01/delivery.rpy:74
     old "Заказанные товары доставлены"
     new "Заказанные товары доставлены"
 

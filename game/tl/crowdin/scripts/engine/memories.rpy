@@ -1,568 +1,572 @@
-﻿# TODO: Translation updated at 2026-02-19 00:46
+﻿# TODO: Translation updated at 2026-06-22 22:36
 
 translate crowdin strings:
 
-    # game/scripts/engine/memories.rpy:844
-    old "Добраться до 2-ого дня в игре"
-    new "Добраться до 2-ого дня в игре"
+    # game/scripts/engine/memories.rpy:843
+    old "Добраться до 2-ого дня в игре!"
+    new "Добраться до 2-ого дня в игре!"
 
-    # game/scripts/engine/memories.rpy:844
+    # game/scripts/engine/memories.rpy:843
     old "Возбуждающий массаж!"
     new "Возбуждающий массаж!"
 
-    # game/scripts/engine/memories.rpy:844
-    old "Добраться до 5-ого дня в игре"
-    new "Добраться до 5-ого дня в игре"
+    # game/scripts/engine/memories.rpy:843
+    old "Добраться до 5-ого дня в игре!"
+    new "Добраться до 5-ого дня в игре!"
 
-    # game/scripts/engine/memories.rpy:844
+    # game/scripts/engine/memories.rpy:843
     old "Сексуальные уроки!"
     new "Сексуальные уроки!"
 
-    # game/scripts/engine/memories.rpy:844
-    old "Добраться до 8-ого дня в игре"
-    new "Добраться до 8-ого дня в игре"
+    # game/scripts/engine/memories.rpy:843
+    old "Добраться до 8-ого дня в игре!"
+    new "Добраться до 8-ого дня в игре!"
 
-    # game/scripts/engine/memories.rpy:844
+    # game/scripts/engine/memories.rpy:843
     old "Работа подождёт!"
     new "Работа подождёт!"
 
-    # game/scripts/engine/memories.rpy:844
-    old "Добраться до 13-ого дня в игре"
-    new "Добраться до 13-ого дня в игре"
+    # game/scripts/engine/memories.rpy:843
+    old "Добраться до 13-ого дня в игре!"
+    new "Добраться до 13-ого дня в игре!"
 
-    # game/scripts/engine/memories.rpy:844
+    # game/scripts/engine/memories.rpy:843
     old "Только для одного!"
     new "Только для одного!"
 
-    # game/scripts/engine/memories.rpy:844
-    old "Добраться до 22-ого дня в игре"
-    new "Добраться до 22-ого дня в игре"
+    # game/scripts/engine/memories.rpy:843
+    old "Добраться до 22-ого дня в игре!"
+    new "Добраться до 22-ого дня в игре!"
 
-    # game/scripts/engine/memories.rpy:844
+    # game/scripts/engine/memories.rpy:843
     old "Заслужившая наказание!"
     new "Заслужившая наказание!"
 
-    # game/scripts/engine/memories.rpy:844
-    old "Увидеть 5 снов"
-    new "Увидеть 5 снов"
+    # game/scripts/engine/memories.rpy:843
+    old "Увидеть 5 снов!"
+    new "Увидеть 5 снов!"
 
-    # game/scripts/engine/memories.rpy:844
-    old "Увидеть голую грудь Алисы на балконе, спасая её от паука в комнате"
-    new "Увидеть голую грудь Алисы на балконе, спасая её от паука в комнате"
+    # game/scripts/engine/memories.rpy:843
+    old "Увидеть голую грудь Алисы на балконе, спасая её от паука в комнате!"
+    new "Увидеть голую грудь Алисы на балконе, спасая её от паука в комнате!"
 
-    # game/scripts/engine/memories.rpy:844
-    old "Пофантазировать с Алисой во время приватных трансляций, когда на ней приспущена одежда, нет верха и нет низа одежды"
-    new "Пофантазировать с Алисой во время приватных трансляций, когда на ней приспущена одежда, нет верха и нет низа одежды"
+    # game/scripts/engine/memories.rpy:843
+    old "Пофантазировать с Алисой во время приватных трансляций, когда на ней приспущена одежда, нет верха и нет низа одежды!"
+    new "Пофантазировать с Алисой во время приватных трансляций, когда на ней приспущена одежда, нет верха и нет низа одежды!"
 
-    # game/scripts/engine/memories.rpy:844
+    # game/scripts/engine/memories.rpy:843
     old "Напрасно забытая!"
     new "Напрасно забытая!"
 
-    # game/scripts/engine/memories.rpy:844
-    old "Увидеть, как Лиза мастурбирует в ванной комнате"
-    new "Увидеть, как Лиза мастурбирует в ванной комнате"
+    # game/scripts/engine/memories.rpy:843
+    old "Увидеть, как Лиза мастурбирует в ванной комнате!"
+    new "Увидеть, как Лиза мастурбирует в ванной комнате!"
 
-    # game/scripts/engine/memories.rpy:844
-    old "Обнять Лизу за попку по окончании помощи с домашними заданиями, когда на ней нижнее бельё, полотенце с трусиками и без них"
-    new "Обнять Лизу за попку по окончании помощи с домашними заданиями, когда на ней нижнее бельё, полотенце с трусиками и без них"
+    # game/scripts/engine/memories.rpy:843
+    old "Обнять Лизу за попку по окончании помощи с домашними заданиями, когда на ней нижнее бельё, полотенце с трусиками и без них!"
+    new "Обнять Лизу за попку по окончании помощи с домашними заданиями, когда на ней нижнее бельё, полотенце с трусиками и без них!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Задание «{}» завершено"
     new "Задание «{}» завершено"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Что посмотрим, мам?"
     new "Что посмотрим, мам?"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Просыпаясь раньше меня, Лиза иногда рискует увидеть то, что я не контролирую. Большое приветствие, так сказать..."
     new "Просыпаясь раньше меня, Лиза иногда рискует увидеть то, что я не контролирую. Большое приветствие, так сказать..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Первый утренний стояк"
     new "Первый утренний стояк"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Второй утренний стояк"
     new "Второй утренний стояк"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Третий утренний стояк"
     new "Третий утренний стояк"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Четвёртый утренний стояк"
     new "Четвёртый утренний стояк"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Пятый утренний стояк"
     new "Пятый утренний стояк"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Шестой утренний стояк"
     new "Шестой утренний стояк"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Седьмой утренний стояк"
     new "Седьмой утренний стояк"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Забавы в ванне!"
     new "Забавы в ванне!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Что будет под ночь, если моя старшая сестрёнка покурит кое-что запрещённое днём? А вот что..."
     new "Что будет под ночь, если моя старшая сестрёнка покурит кое-что запрещённое днём? А вот что..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Утренние шалости!"
     new "Утренние шалости!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Лиза до того милая девочка, что её всегда хочется тискать. Особенно, пока она спит и не знает, что я с ней делаю..."
     new "Лиза до того милая девочка, что её всегда хочется тискать. Особенно, пока она спит и не знает, что я с ней делаю..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Лиза спит на спине"
     new "Лиза спит на спине"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Лиза спит на боку"
     new "Лиза спит на боку"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Лиза спит на животе"
     new "Лиза спит на животе"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "В тонусе!"
     new "В тонусе!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Хорошо, что вместо наказания за мои проделки я могу потренироваться с мамой. Ведь те позы, которые она принимает во время йоги, смотрятся крайне сексуально..."
     new "Хорошо, что вместо наказания за мои проделки я могу потренироваться с мамой. Ведь те позы, которые она принимает во время йоги, смотрятся крайне сексуально..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Макс шалил утром с Лизой"
     new "Макс шалил утром с Лизой"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Макс подглядывал в душе"
     new "Макс подглядывал в душе"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Задания на дом!"
     new "Задания на дом!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Как будто нам всем слишком мало этой школы, так ещё и почти каждый вечер надо тратить на выполнение домашних заданий..."
     new "Как будто нам всем слишком мало этой школы, так ещё и почти каждый вечер надо тратить на выполнение домашних заданий..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Первый вечер подготовки к контрольной работе"
     new "Первый вечер подготовки к контрольной работе"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Второй вечер подготовки к контрольной работе"
     new "Второй вечер подготовки к контрольной работе"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Недельное испытание с домашними заданиями"
     new "Недельное испытание с домашними заданиями"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Среда"
     new "Среда"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Четверг"
     new "Четверг"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Дальнейшая помощь с домашними заданиями"
     new "Дальнейшая помощь с домашними заданиями"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Лиза первый раз в нижнем белье"
     new "Лиза первый раз в нижнем белье"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Лиза первый раз в полотенце без трусиков"
     new "Лиза первый раз в полотенце без трусиков"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Лиза уже была в полотенце без трусиков"
     new "Лиза уже была в полотенце без трусиков"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Застенчивая школьница"
     new "Застенчивая школьница"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Нашествие пауков!"
     new "Нашествие пауков!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Как же Алисе не повезло, что я узнал про её огромный страх к паукам..."
     new "Как же Алисе не повезло, что я узнал про её огромный страх к паукам..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Первый паук в душе"
     new "Первый паук в душе"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Первый паук в комнате Алисы"
     new "Первый паук в комнате Алисы"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Алиса спит без лифчика"
     new "Алиса спит без лифчика"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Первый паук на шезлонге"
     new "Первый паук на шезлонге"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Дальнейшие пауки в душе"
     new "Дальнейшие пауки в душе"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Арахнофобия"
     new "Арахнофобия"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Стоит ли рисковать?"
     new "Стоит ли рисковать?"
 
-    # game/scripts/engine/memories.rpy:882
-    old "Обедневшая блогерша"
-    new "Обедневшая блогерша"
-
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Дальнейшие пауки в комнате Алисы"
     new "Дальнейшие пауки в комнате Алисы"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Недобросовестный спасатель"
     new "Недобросовестный спасатель"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Дальнейшие пауки на шезлонге"
     new "Дальнейшие пауки на шезлонге"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Соблазнительная работница!"
     new "Соблазнительная работница!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "С одной стороны за маму хочется порадоваться, она устроилась на хорошую работу, а с другой, слишком уж раздражающая рожа у её начальника..."
     new "С одной стороны за маму хочется порадоваться, она устроилась на хорошую работу, а с другой, слишком уж раздражающая рожа у её начальника..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Мама отправляется на корпоратив"
     new "Мама отправляется на корпоратив"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Мама возвращается с корпоратива"
     new "Мама возвращается с корпоратива"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Любопытная гостья!"
     new "Любопытная гостья!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Жаль, что наш секси-адвокат гостит у нас на вилле не так часто, как мне бы хотелось..."
     new "Жаль, что наш секси-адвокат гостит у нас на вилле не так часто, как мне бы хотелось..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Мия первый раз посещает виллу"
     new "Мия первый раз посещает виллу"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Мия второй раз посещает виллу"
     new "Мия второй раз посещает виллу"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Остаться в живых!"
     new "Остаться в живых!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Если уж и извиняться перед Алисой за своё крайне непристойное поведение, то только её любимыми сладостями..."
     new "Если уж и извиняться перед Алисой за своё крайне непристойное поведение, то только её любимыми сладостями..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Алиса отдыхает в своей комнате"
     new "Алиса отдыхает в своей комнате"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Алиса читает"
     new "Алиса читает"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Алиса загорает"
     new "Алиса загорает"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Алиса загорает топлесс"
     new "Алиса загорает топлесс"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Практикую массаж!"
     new "Практикую массаж!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Так и хочется запустить свои бесстыжие ручонки под одежду Алисы, пока мы смотрим с ней ТВ. Но пока лишь массаж ступней..."
     new "Так и хочется запустить свои бесстыжие ручонки под одежду Алисы, пока мы смотрим с ней ТВ. Но пока лишь массаж ступней..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Завершены задания «{}» и «{}»"
     new "Завершены задания «{}» и «{}»"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Талантливый массажист"
     new "Талантливый массажист"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Разделение труда!"
     new "Разделение труда!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Лучше уж немного поднапрячься и разделаться со всеми своими домашними обязанностями вовремя, чем залениться и расстроить маму..."
     new "Лучше уж немного поднапрячься и разделаться со всеми своими домашними обязанностями вовремя, чем залениться и расстроить маму..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Домашние обязанности выполнены вовремя"
     new "Домашние обязанности выполнены вовремя"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Домашние обязанности выполняются вовремя каждую неделю"
     new "Домашние обязанности выполняются вовремя каждую неделю"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Пикантные вложения!"
     new "Пикантные вложения!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Может я похотливый и озабоченый, но именно такой человек нужен больше всего, когда речь заходит о мнении по поводу нижнего девичьего белья..."
     new "Может я похотливый и озабоченый, но именно такой человек нужен больше всего, когда речь заходит о мнении по поводу нижнего девичьего белья..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Примерка нижнего белья в магазине"
     new "Примерка нижнего белья в магазине"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Примерка нижнего белья в комнате Алисы"
     new "Примерка нижнего белья в комнате Алисы"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Разрядка перед сном!"
     new "Разрядка перед сном!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Что будет, если порадовать маму своевременным выполнением моих домашних обязанностей? А вот что..."
     new "Что будет, если порадовать маму своевременным выполнением моих домашних обязанностей? А вот что..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Азы плавания!"
     new "Азы плавания!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Как здорово, что мне есть чему обучить женщину, которая намного старше меня..."
     new "Как здорово, что мне есть чему обучить женщину, которая намного старше меня..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Первый урок плавания для Мии"
     new "Первый урок плавания для Мии"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "У Макса есть стремянка"
     new "У Макса есть стремянка"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "У Макса нет стремянки"
     new "У Макса нет стремянки"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Второй урок плавания для Мии"
     new "Второй урок плавания для Мии"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Третий урок плавания для Мии"
     new "Третий урок плавания для Мии"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Макс был замечен подглядывающим до этого"
     new "Макс был замечен подглядывающим до этого"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Макс не подглядывал или не был замечен подглядывающим до этого"
     new "Макс не подглядывал или не был замечен подглядывающим до этого"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "В школу за пятёрками!"
     new "В школу за пятёрками!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Подбодрить Лизу перед уходом в школу практически святое дело. Всё-таки половину детства там оставляем..."
     new "Подбодрить Лизу перед уходом в школу практически святое дело. Всё-таки половину детства там оставляем..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Наставник"
     new "Наставник"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Чмоки перед работой!"
     new "Чмоки перед работой!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Пока мама не ушла на работу, можно успеть урвать немного нежностей на прощание..."
     new "Пока мама не ушла на работу, можно успеть урвать немного нежностей на прощание..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Грязный везунчик!"
     new "Грязный везунчик!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Да, моя чистоплотность бывает хромает, но это открывает такие интересные возможности, когда мама принимает ванну..."
     new "Да, моя чистоплотность бывает хромает, но это открывает такие интересные возможности, когда мама принимает ванну..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Всем можно, а мне нет!"
     new "Всем можно, а мне нет!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Хитрая у меня сестрёнка... Сделала так, чтобы никто из наших мест не смог увидеть, чем она занимается. Особенно, я..."
     new "Хитрая у меня сестрёнка... Сделала так, чтобы никто из наших мест не смог увидеть, чем она занимается. Особенно, я..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Практикую поцелуи!"
     new "Практикую поцелуи!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Учить свою младшую сестрёку целоваться имея за душой крошечный опыт в поцелуях - это, конечно, в моём репертуаре..."
     new "Учить свою младшую сестрёку целоваться имея за душой крошечный опыт в поцелуях - это, конечно, в моём репертуаре..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Первый поцелуй"
     new "Первый поцелуй"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Второй поцелуй"
     new "Второй поцелуй"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Третий поцелуй"
     new "Третий поцелуй"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Лиза читает"
     new "Лиза читает"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Лиза с телефоном"
     new "Лиза с телефоном"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
+    old "Макс прочитал «Секс-образование»"
+    new "Макс прочитал «Секс-образование»"
+
+    # game/scripts/engine/memories.rpy:881
+    old "Макс не прочитал «Секс-образование»"
+    new "Макс не прочитал «Секс-образование»"
+
+    # game/scripts/engine/memories.rpy:881
     old "Сладость за шалость!"
     new "Сладость за шалость!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Если уж и извиняться перед Лизой за своё крайне непристойное поведение, то только её любимыми сладостями..."
     new "Если уж и извиняться перед Лизой за своё крайне непристойное поведение, то только её любимыми сладостями..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Лиза загорает"
     new "Лиза загорает"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "«Обучающий» порно-ролик!"
     new "«Обучающий» порно-ролик!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Некоторые деликатные вещи лучше не только объяснять, но и сразу показывать. Это как раз такой случай..."
     new "Некоторые деликатные вещи лучше не только объяснять, но и сразу показывать. Это как раз такой случай..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Шалости у зеркала!"
     new "Шалости у зеркала!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Что будет, если любуясь моей спящей младшей сестрёнкой ещё и пошалить с её киской? А вот что..."
     new "Что будет, если любуясь моей спящей младшей сестрёнкой ещё и пошалить с её киской? А вот что..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Самый заинтересованный зритель!"
     new "Самый заинтересованный зритель!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Что мне нравится в этих трансляциях Алисы? Здесь можно увидеть, насколько она отвязная. Хотя бы немного..."
     new "Что мне нравится в этих трансляциях Алисы? Здесь можно увидеть, насколько она отвязная. Хотя бы немного..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Первый просмотр веб-трансляции Алисы"
     new "Первый просмотр веб-трансляции Алисы"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Первая приватная трансляция с Алисой"
     new "Первая приватная трансляция с Алисой"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Вторая приватная трансляция с Алисой"
     new "Вторая приватная трансляция с Алисой"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Дальнейшие приватные трансляции с Алисой"
     new "Дальнейшие приватные трансляции с Алисой"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Новый купальник!"
     new "Новый купальник!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Лиза очень сильно хотела себе новый, более открытый, купальник. Как хорошо, что именно я помог ей с этим..."
     new "Лиза очень сильно хотела себе новый, более открытый, купальник. Как хорошо, что именно я помог ей с этим..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Кнут или пряник?"
     new "Кнут или пряник?"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Лиза у бассейна"
     new "Лиза у бассейна"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Лиза в бассейне"
     new "Лиза в бассейне"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Новое платье!"
     new "Новое платье!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Алиса таки смогла выпросить для себя новое клубное платье. Как хорошо, что именно я помог ей с этим..."
     new "Алиса таки смогла выпросить для себя новое клубное платье. Как хорошо, что именно я помог ей с этим..."
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "На Алисе есть трусики"
     new "На Алисе есть трусики"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "На Алисе нет трусиков"
     new "На Алисе нет трусиков"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Алиса у бассейна"
     new "Алиса у бассейна"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Алиса в бассейне"
     new "Алиса в бассейне"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Тусовщица!"
     new "Тусовщица!"
 
-    # game/scripts/engine/memories.rpy:882
+    # game/scripts/engine/memories.rpy:881
     old "Всегда приятно увидеть Алису в облегающем коктейльном платье, когда она отправляется в клуб..."
     new "Всегда приятно увидеть Алису в облегающем коктейльном платье, когда она отправляется в клуб..."
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-02-19 00:46
+﻿# TODO: Translation updated at 2026-06-22 22:36
 
 # game/scripts/story_01/yoga.rpy:19
 translate crowdin forced_phys_ed_first_time_521877f4:
@@ -740,27 +740,27 @@ translate crowdin forced_phys_ed_end_87ff48d3:
 
 translate crowdin strings:
 
-    # game/scripts/story_01/yoga.rpy:202
+    # game/scripts/story_01/yoga.rpy:204
     old "{i}снять верх{/i}"
     new "{i}снять верх{/i}"
 
-    # game/scripts/story_01/yoga.rpy:255
+    # game/scripts/story_01/yoga.rpy:257
     old "{i}отжиматься{/i}"
     new "{i}отжиматься{/i}"
 
-    # game/scripts/story_01/yoga.rpy:286
+    # game/scripts/story_01/yoga.rpy:288
     old "{i}приседать{/i}"
     new "{i}приседать{/i}"
 
-    # game/scripts/story_01/yoga.rpy:300
+    # game/scripts/story_01/yoga.rpy:303
     old "А ты подержишь меня за ноги?"
     new "А ты подержишь меня за ноги?"
 
-    # game/scripts/story_01/yoga.rpy:300
-    old "{i}качать пресс{/i}"
-    new "{i}качать пресс{/i}"
-
-    # game/scripts/story_01/yoga.rpy:318
+    # game/scripts/story_01/yoga.rpy:321
     old "{i}лучше рассмотреть её грудь{/i}"
     new "{i}лучше рассмотреть её грудь{/i}"
+
+    # game/scripts/story_01/yoga.rpy:364
+    old "{i}качать пресс{/i}"
+    new "{i}качать пресс{/i}"
 

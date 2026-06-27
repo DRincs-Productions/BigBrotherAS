@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-02-19 00:46
+﻿# TODO: Translation updated at 2026-06-22 22:36
 
 translate crowdin strings:
 
@@ -30,39 +30,39 @@ translate crowdin strings:
     old "Сейчас здесь нет заданий"
     new "Сейчас здесь нет заданий"
 
-    # game/scripts/screens/diary.rpy:202
+    # game/scripts/screens/diary.rpy:205
     old "ПОСЛЕДСТВИЯ:"
     new "ПОСЛЕДСТВИЯ:"
 
-    # game/scripts/screens/diary.rpy:216
+    # game/scripts/screens/diary.rpy:219
     old "Завершите задание, чтобы получить награду..."
     new "Завершите задание, чтобы получить награду..."
 
-    # game/scripts/screens/diary.rpy:218
+    # game/scripts/screens/diary.rpy:221
     old "Нужно приблизиться к завершению задания, чтобы узнать о награде..."
     new "Нужно приблизиться к завершению задания, чтобы узнать о награде..."
 
-    # game/scripts/screens/diary.rpy:221
+    # game/scripts/screens/diary.rpy:224
     old "НАГРАДА:"
     new "НАГРАДА:"
 
-    # game/scripts/screens/diary.rpy:373
+    # game/scripts/screens/diary.rpy:376
     old "МОЯ СТАРШАЯ СЕСТРЁНКА"
     new "МОЯ СТАРШАЯ СЕСТРЁНКА"
 
-    # game/scripts/screens/diary.rpy:381
+    # game/scripts/screens/diary.rpy:384
     old "МОЯ МАМА"
     new "МОЯ МАМА"
 
-    # game/scripts/screens/diary.rpy:388
+    # game/scripts/screens/diary.rpy:391
     old "МОЯ МЛАДШАЯ СЕСТРЁНКА"
     new "МОЯ МЛАДШАЯ СЕСТРЁНКА"
 
-    # game/scripts/screens/diary.rpy:397
+    # game/scripts/screens/diary.rpy:400
     old "АДВОКАТ"
     new "АДВОКАТ"
 
-    # game/scripts/screens/diary.rpy:415
+    # game/scripts/screens/diary.rpy:418
     old "НАШИ ВЗАИМООТНОШЕНИЯ:"
     new "НАШИ ВЗАИМООТНОШЕНИЯ:"
 

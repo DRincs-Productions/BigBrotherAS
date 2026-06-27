@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-02-19 00:46
+﻿# TODO: Translation updated at 2026-06-22 22:36
 
 # game/scripts/story_01/kitchen.rpy:16
 translate crowdin ev_alice_clean_e2fdb3e5:
@@ -158,35 +158,35 @@ translate crowdin ev_ann_cooking_97e8fc22:
 
 translate crowdin strings:
 
-    # game/scripts/story_01/kitchen.rpy:63
+    # game/scripts/story_01/kitchen.rpy:65
     old "Хочешь, я помогу тебе домыть посуду?"
     new "Хочешь, я помогу тебе домыть посуду?"
 
-    # game/scripts/story_01/kitchen.rpy:63
+    # game/scripts/story_01/kitchen.rpy:81
     old "Нет, просто мимо проходил..."
     new "Нет, просто мимо проходил..."
 
-    # game/scripts/story_01/kitchen.rpy:101
+    # game/scripts/story_01/kitchen.rpy:102
     old "Ага, не вопрос. Сделаю."
     new "Ага, не вопрос. Сделаю."
 
-    # game/scripts/story_01/kitchen.rpy:101
-    old "Нет, лучше давай сама..."
-    new "Нет, лучше давай сама..."
-
-    # game/scripts/story_01/kitchen.rpy:116
+    # game/scripts/story_01/kitchen.rpy:117
     old "{i}приступить к ужину{/i}"
     new "{i}приступить к ужину{/i}"
 
-    # game/scripts/story_01/kitchen.rpy:141
+    # game/scripts/story_01/kitchen.rpy:121
+    old "Нет, лучше давай сама..."
+    new "Нет, лучше давай сама..."
+
+    # game/scripts/story_01/kitchen.rpy:142
     old "{i}подойти и помочь{/i}"
     new "{i}подойти и помочь{/i}"
 
-    # game/scripts/story_01/kitchen.rpy:141
-    old "Хотя, нет, сейчас не могу..."
-    new "Хотя, нет, сейчас не могу..."
-
-    # game/scripts/story_01/kitchen.rpy:175
+    # game/scripts/story_01/kitchen.rpy:176
     old "{i}приступить к завтраку{/i}"
     new "{i}приступить к завтраку{/i}"
+
+    # game/scripts/story_01/kitchen.rpy:180
+    old "Хотя, нет, сейчас не могу..."
+    new "Хотя, нет, сейчас не могу..."
 

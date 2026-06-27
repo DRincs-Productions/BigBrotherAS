@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/max_learning.rpy:8 #-#-# translate crowdin ev_029_47925c16:
+﻿# TODO: Translation updated at 2026-06-22 22:36 #|#|# # game/scripts/story_01/max_learning.rpy:8 #-#-# translate crowdin ev_029_47925c16:
 msgid "[_Max_s_00_] Пришло время почитать... [nointeract]"
 msgstr "[_Max_s_00_] Пришло время почитать... [nointeract]"
 
@@ -74,15 +74,15 @@ msgstr "[_tMax_s_01_] Мне как раз нужно убедить Алису 
 msgid "[_Max_s_11_] Хорошая штука эти онлайн-курсы. Можно научиться всему, не выходя из дома! Вот только и стоит это немало..."
 msgstr "[_Max_s_11_] Хорошая штука эти онлайн-курсы. Можно научиться всему, не выходя из дома! Вот только и стоит это немало..."
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/max_learning.rpy:7
+# §translate crowdin strings: #|#|# # game/scripts/story_01/max_learning.rpy:9
 msgid "{i}читать «Веб-стандарты»{/i}"
 msgstr "{i}читать «Веб-стандарты»{/i}"
 
-# game/scripts/story_01/max_learning.rpy:7
+# game/scripts/story_01/max_learning.rpy:12
 msgid "{i}читать «Секс-образование»{/i}"
 msgstr "{i}читать «Секс-образование»{/i}"
 
-# game/scripts/story_01/max_learning.rpy:7
+# game/scripts/story_01/max_learning.rpy:17
 msgid "Как-то не хочется. В другой раз..."
 msgstr "Как-то не хочется. В другой раз..."
 

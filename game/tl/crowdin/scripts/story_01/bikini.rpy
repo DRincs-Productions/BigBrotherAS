@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-02-19 00:46
+﻿# TODO: Translation updated at 2026-06-22 22:36
 
 # game/scripts/story_01/bikini.rpy:8
 translate crowdin ev_008_3c08b543:
@@ -1046,35 +1046,35 @@ translate crowdin ev_145_return_home_22527345:
 
 translate crowdin strings:
 
-    # game/scripts/story_01/bikini.rpy:99
+    # game/scripts/story_01/bikini.rpy:101
     old "{i}идти в магазин одежды{/i}"
     new "{i}идти в магазин одежды{/i}"
 
-    # game/scripts/story_01/bikini.rpy:130
+    # game/scripts/story_01/bikini.rpy:133
     old "{i}подсмотреть за Лизой{/i}"
     new "{i}подсмотреть за Лизой{/i}"
 
-    # game/scripts/story_01/bikini.rpy:130
+    # game/scripts/story_01/bikini.rpy:162
     old "{i}ждать{/i}"
     new "{i}ждать{/i}"
 
-    # game/scripts/story_01/bikini.rpy:228
+    # game/scripts/story_01/bikini.rpy:232
     old "{i}снова подсмотреть за Лизой{/i}"
     new "{i}снова подсмотреть за Лизой{/i}"
 
-    # game/scripts/story_01/bikini.rpy:357
+    # game/scripts/story_01/bikini.rpy:361
     old "Ещё как стоит! (принять поцелуй в щёку)"
     new "Ещё как стоит! (принять поцелуй в щёку)"
 
-    # game/scripts/story_01/bikini.rpy:357
+    # game/scripts/story_01/bikini.rpy:382
+    old "{i}пойти рассчитаться за купальник ($299){/i}"
+    new "{i}пойти рассчитаться за купальник ($299){/i}"
+
+    # game/scripts/story_01/bikini.rpy:397
     old "Ещё как стоит! (поцеловать её в губы)"
     new "Ещё как стоит! (поцеловать её в губы)"
 
-    # game/scripts/story_01/bikini.rpy:357
+    # game/scripts/story_01/bikini.rpy:433
     old "Ещё как стоит! (дерзко обнять и поцеловать её в губы)"
     new "Ещё как стоит! (дерзко обнять и поцеловать её в губы)"
-
-    # game/scripts/story_01/bikini.rpy:380
-    old "{i}пойти рассчитаться за купальник ($300){/i}"
-    new "{i}пойти рассчитаться за купальник ($300){/i}"
 
