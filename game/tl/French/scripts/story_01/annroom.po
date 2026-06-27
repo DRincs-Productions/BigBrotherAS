@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2026-02-19 09:32\n"
+"PO-Revision-Date: 2026-06-27 16:34\n"
 
-# TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/annroom.rpy:12 #-#-# translate crowdin ev_ann_dressed_d0c78fcb:
+# TODO: Translation updated at 2026-06-22 22:36 #|#|# # game/scripts/story_01/annroom.rpy:12 #-#-# translate crowdin ev_ann_dressed_d0c78fcb:
 msgid "[_tMax_s_11_] Сейчас мама должна собираться на работу... [nointeract]"
 msgstr "[_tMax_s_11_] Maintenant, la maman doit se préparer pour le travail..... [nointeract]"
 
@@ -184,39 +184,39 @@ msgstr "[_tMax_s_04_] C'est tellement agréable d'être serré dans les bras et 
 msgid "[_Ann_s_02_] До вечера, дорогой. Я побежала..."
 msgstr "[_Ann_s_02_] A ce soir, chérie. Je vais courir..."
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/annroom.rpy:77
+# §translate crowdin strings: #|#|# # game/scripts/story_01/annroom.rpy:79
 msgid "{i}убежать{/i}"
 msgstr "{i}échapper{/i}"
 
-# game/scripts/story_01/annroom.rpy:108
+# game/scripts/story_01/annroom.rpy:110
 msgid "Конечно! А что, нельзя что ли?!"
 msgstr "Bien sûr ! Pourquoi pas ?"
 
-# game/scripts/story_01/annroom.rpy:108
+# game/scripts/story_01/annroom.rpy:131
 msgid "Нет, просто задумался и ноги сюда завели..."
 msgstr "Non, j'étais en train d'y penser et mes pieds m'ont conduit ici....."
 
-# game/scripts/story_01/annroom.rpy:159
+# game/scripts/story_01/annroom.rpy:161
 msgid "Конечно, мам. Не буду мешать..."
 msgstr "Bien sûr, maman. Je resterai à l'écart..."
 
-# game/scripts/story_01/annroom.rpy:163
+# game/scripts/story_01/annroom.rpy:165
 msgid "{i}подождать за дверью, пока мама переоденется{/i}"
 msgstr "{i}attendez devant la porte pendant que maman se change{/i}"
 
-# game/scripts/story_01/annroom.rpy:186
+# game/scripts/story_01/annroom.rpy:188
 msgid "Ухх... А пройтись в этом, как по подиуму можешь?"
 msgstr "Euh... Pouvez-vous marcher sur la piste d'atterrissage avec celui-ci ?"
 
-# game/scripts/story_01/annroom.rpy:186
+# game/scripts/story_01/annroom.rpy:190
 msgid "Да, был вопросик, но от такой красоты я всё позабыл..."
 msgstr "Oui, il y avait une question, mais avec toute cette beauté, j'avais oublié..."
 
-# game/scripts/story_01/annroom.rpy:361
+# game/scripts/story_01/annroom.rpy:364
 msgid "{i}подползти ещё ближе{/i}"
 msgstr "{i}ramper encore plus près{/i}"
 
-# game/scripts/story_01/annroom.rpy:361
+# game/scripts/story_01/annroom.rpy:374
 msgid "{i}тихонько уползти{/i}"
 msgstr "{i}s'éloigner discrètement."
 
@@ -224,11 +224,7 @@ msgstr "{i}s'éloigner discrètement."
 msgid "Навык «Скрытность» повышен до уровня 2!"
 msgstr "La compétence Furtivité est passée au niveau 2 !"
 
-# game/scripts/story_01/annroom.rpy:381
-msgid "Задание «{}» обновлено!"
-msgstr "L'affectation \"{}\" a été mise à jour !"
-
-# game/scripts/story_01/annroom.rpy:442
+# game/scripts/story_01/annroom.rpy:444
 msgid "{i}подойти к маме{/i}"
 msgstr "{i}venir à maman."
 
