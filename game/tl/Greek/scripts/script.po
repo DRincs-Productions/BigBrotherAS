@@ -10,22 +10,30 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2026-02-19 09:36\n"
+"PO-Revision-Date: 2026-06-27 16:36\n"
 
-# TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/script.rpy:45
+# TODO: Translation updated at 2026-06-22 22:36 #|#|# # game/scripts/script.rpy:66 #-#-# translate crowdin chapter_1_end_11327ac4:
+msgid "На следующем экране Вы можете сохранить игру."
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/script.rpy:47
 msgid "ПОЛУЧЕН ДОСТУП К ГЛАВЕ 2!"
 msgstr ""
 
-# game/scripts/script.rpy:48
+# game/scripts/script.rpy:50
 msgid "Завершены все задания в данной главе и разблокирован доступ к следующей части игры.\n"
 "Вы можете остаться в данной главе, если с чем-то ещё не закончили, а можете сохранить свой прогресс и начать следующую главу..."
 msgstr ""
 
-# game/scripts/script.rpy:48
+# game/scripts/script.rpy:52
 msgid "{i}остаться в Главе 1{/i}"
 msgstr ""
 
-# game/scripts/script.rpy:48
+# game/scripts/script.rpy:55
 msgid "{i}сохранить прогресс и начать Главу 2{/i}"
+msgstr ""
+
+# game/scripts/script.rpy:76
+msgid "Вы готовы начать Главу 2?"
 msgstr ""
 
