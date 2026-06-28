@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-06-27 16:36\n"
+"PO-Revision-Date: 2026-06-28 06:31\n"
 
 # TODO: Translation updated at 2026-06-22 22:36 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/clothing.rpy:876
 msgid "Галерея переодеваний обновлена!"
@@ -174,7 +174,7 @@ msgstr "Vestaglia aperta + mutandine"
 
 # game/scripts/engine/clothing.rpy:1074
 msgid "Распахнутый халат + откровенные трусики"
-msgstr ""
+msgstr "Vestaglia aperta + mutandine succinte"
 
 # game/scripts/engine/clothing.rpy:1074
 msgid "Приподнятое и съехавшее вечернее платье + трусики"
@@ -186,7 +186,7 @@ msgstr "Un abito da sera sollevato e scivolato"
 
 # game/scripts/engine/clothing.rpy:1074
 msgid "Приподнятая и съехавшая длинная майка + откровенные трусики"
-msgstr ""
+msgstr "Canottiera lunga sollevata e scivolata + mutandine succinte"
 
 # game/scripts/engine/clothing.rpy:1074
 msgid "Приподнятая и съехавшая длинная майка"
