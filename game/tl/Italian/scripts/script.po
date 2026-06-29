@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-06-27 16:36\n"
+"PO-Revision-Date: 2026-06-29 08:58\n"
 
 # TODO: Translation updated at 2026-06-22 22:36 #|#|# # game/scripts/script.rpy:66 #-#-# translate crowdin chapter_1_end_11327ac4:
 msgid "На следующем экране Вы можете сохранить игру."
-msgstr ""
+msgstr "Nella schermata successiva potrai salvare la partita."
 
 # §translate crowdin strings: #|#|# # game/scripts/script.rpy:47
 msgid "ПОЛУЧЕН ДОСТУП К ГЛАВЕ 2!"
@@ -36,5 +36,5 @@ msgstr "{i}salvare i progressi e iniziare il capitolo 2{/i}"
 
 # game/scripts/script.rpy:76
 msgid "Вы готовы начать Главу 2?"
-msgstr ""
+msgstr "Siete pronti per iniziare il Capitolo 2?"
 
