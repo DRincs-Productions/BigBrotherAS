@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-06-27 16:37\n"
+"PO-Revision-Date: 2026-06-29 13:52\n"
 
 # TODO: Translation updated at 2026-06-22 22:36 #|#|# # game/scripts/story_02/housework.rpy:15 #-#-# translate crowdin ev2_002_b373e0af:
 msgid "[_Ann_s_01_] Макс, зайди ко мне в комнату. У меня для тебя кое-что есть. [nointeract]"
@@ -34,7 +34,7 @@ msgstr "[_Max_s_03_] Grazie! Mi assicurerò di risolvere il problema."
 
 # game/scripts/story_02/housework.rpy:34 #-#-# translate crowdin ev2_002_d26a0781:
 msgid "[_Ann_s_01_] Постарайся управиться со всеми делами до выходных, чтобы мне не пришлось тебе об этом напоминать или ругаться с тобой по этому поводу."
-msgstr ""
+msgstr "[_Ann_s_01_] Vedi di sbrigare tutte le tue commissioni prima del weekend, così non dovrò ricordartelo o finire a litigare con te per questo motivo."
 
 # game/scripts/story_02/housework.rpy:35 #-#-# translate crowdin ev2_002_21571792:
 msgid "[_Max_s_01_] Ладно, мам. Хорошего тебе дня на работе."
@@ -46,7 +46,7 @@ msgstr "[_Ann_s_03_] Grazie, tesoro, per l'aiuto. Vai, la mamma deve prepararsi 
 
 # game/scripts/story_02/housework.rpy:43 #-#-# translate crowdin ev2_002_9ed871d7:
 msgid "[_Ann_s_10_] С некоторыми делами ты дотянул до выходных, чего я просила не делать, поэтому получишь меньше, чем мог бы. Это карманные $30 за эту неделю, за чистку пола ($10 или $5), за газон ($20 или $10), за чистку бассейна ($20 или $10) и ($10 или $5) за поход в магазин."
-msgstr ""
+msgstr "[_Ann_s_10_] Ti sei ridotto all'ultimo weekend per alcune faccende, cosa che ti avevo chiesto di non fare, quindi riceverai meno di quanto avresti potuto. Ecco i tuoi 30$ di paghetta per questa settimana, più la pulizia del pavimento (10$ o 5$), il prato (20$ o 10$), la pulizia della piscina (20$ o 10$) e (10$ o 5$) per essere andato a fare la spesa."
 
 # game/scripts/story_02/housework.rpy:44 #-#-# translate crowdin ev2_002_96242e44:
 msgid "[_Max_s_12_] Эх... Но всё равно спасибо! Я обязательно всё отработаю."
@@ -54,7 +54,7 @@ msgstr "[_Max_s_12_] Eh... Ma grazie comunque! Lo risolverò sicuramente."
 
 # game/scripts/story_02/housework.rpy:48 #-#-# translate crowdin ev2_002_0ad2528e:
 msgid "[_Ann_s_12_] Надеюсь, в этот раз ты управишься со всеми делами до выходных, чтобы мне не пришлось тебе об этом снова напоминать или ругаться с тобой по этому поводу."
-msgstr ""
+msgstr "[_Ann_s_12_] Spero che questa volta sbrigherai tutte le tue faccende prima del weekend, così non dovrò ricordartelo di nuovo o finire a litigare con te per questo motivo."
 
 # game/scripts/story_02/housework.rpy:49 #-#-# translate crowdin ev2_002_21571792_1:
 msgid "[_Max_s_01_] Ладно, мам. Хорошего тебе дня на работе."
@@ -74,7 +74,7 @@ msgstr "[_Max_s_14_] Colpa mia... Ma grazie comunque! Mi assicurerò di risolver
 
 # game/scripts/story_02/housework.rpy:62 #-#-# translate crowdin ev2_002_0ad2528e_1:
 msgid "[_Ann_s_12_] Надеюсь, в этот раз ты управишься со всеми делами до выходных, чтобы мне не пришлось тебе об этом снова напоминать или ругаться с тобой по этому поводу."
-msgstr ""
+msgstr "[_Ann_s_12_] Spero che questa volta sbrigherai tutte le tue faccende prima del weekend, così non dovrò ricordartelo di nuovo o finire a litigare con te per questo motivo."
 
 # game/scripts/story_02/housework.rpy:63 #-#-# translate crowdin ev2_002_21571792_2:
 msgid "[_Max_s_01_] Ладно, мам. Хорошего тебе дня на работе."
