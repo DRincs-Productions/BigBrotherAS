@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-06-27 16:36\n"
+"PO-Revision-Date: 2026-06-29 08:58\n"
 
 # TODO: Translation updated at 2026-06-22 22:36 #|#|# # game/scripts/story_01/punishments.rpy:54 #-#-# translate crowdin punishments_allocation_d4a1750b:
 msgid "[_Ann_s_10_] Прежде, чем мы начнём, кое-кто заслуживает наказания и сейчас все на это посмотрят..."
@@ -50,7 +50,7 @@ msgstr "[_Ann_s_15_] Avvicinati, Lisa. E sì, togliti i pantaloncini, te lo meri
 
 # game/scripts/story_01/punishments.rpy:94 #-#-# translate crowdin lisa_punishment_8442a417:
 msgid "[_Ann_s_15_] Ближе подходи, Лиза. И да, снимай юбку, ты это заслужила! [nointeract]"
-msgstr ""
+msgstr "[_Ann_s_15_] Avvicinati, Lisa. E sì, togliti la gonna, te lo sei meritata! [nointeract]"
 
 # game/scripts/story_01/punishments.rpy:96 #-#-# translate crowdin lisa_punishment_5221f166:
 msgid "[_Ann_s_15_] Ближе подходи, Лиза. И да, снимай свой халат, ты это заслужила! [nointeract]"
@@ -86,7 +86,7 @@ msgstr "[_Ann_s_15_] No, Max, non puoi convincermi. Avrà quello che si merita. 
 
 # game/scripts/story_01/punishments.rpy:123 #-#-# translate crowdin lisa_punishment_7dda8112:
 msgid "[_Ann_s_15_] Нет, Макс, твои уговоры ей не помогут. Получит то, что заслужила. А ты, Лиза, не стой столбом, шевелись давай... Быстро снимай юбку!"
-msgstr ""
+msgstr "[_Ann_s_15_] No, Max, i tuoi tentativi di convincermi non la aiuteranno. Avrà quello che si merita. E tu, Lisa, non stare lì impalata, muoviti... Togliti la gonna, svelta!"
 
 # game/scripts/story_01/punishments.rpy:125 #-#-# translate crowdin lisa_punishment_c6d0cc62:
 msgid "[_Ann_s_15_] Нет, Макс, твои уговоры ей не помогут. Получит то, что заслужила. А ты, Лиза, не стой столбом, шевелись давай... Быстро снимай халат!"
