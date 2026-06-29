@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-06-27 16:36\n"
+"PO-Revision-Date: 2026-06-29 08:58\n"
 
 # TODO: Translation updated at 2026-06-27 13:17 #|#|# # game/scripts/story_02/pool.rpy:10 #-#-# translate crowdin kira_swim_talk_63e1428e:
 msgid "[_Kira_s_02_] Да вот как раз собиралась. Ты тоже присоединяйся, вдвоём повеселее будет... [nointeract]"
-msgstr ""
+msgstr "[_Kira_s_02_] In realtà mi stavo proprio preparando per farlo. Unisciti anche tu, in due sarà più divertente... [nointeract]"
 
 # game/scripts/story_02/pool.rpy:18 #-#-# translate crowdin kira_swim_talk_ebe9d5e9:
 msgid "[_Kira_s_03_] Ухх... Водичка - отпад! Так освежает, если сперва хорошенько прогреться на солнышке. [nointeract]"
-msgstr ""
+msgstr "[_Kira_s_03_] Wow... L'acqua è fantastica! Ti rinfresca un sacco dopo che ti sei preso un bel po' di caldo al sole. [nointeract]"
 
 # game/scripts/story_02/pool.rpy:22 #-#-# translate crowdin kira_swim_talk_88787938:
 msgid "[_Kira_s_04_] Смотри, потом захочешь, а меня тут уже не будет!"
