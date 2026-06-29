@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-06-27 16:36\n"
+"PO-Revision-Date: 2026-06-29 08:58\n"
 
 # TODO: Translation updated at 2026-06-22 22:36 #|#|# # game/scripts/story_01/party_girl.rpy:14 #-#-# translate crowdin ev_147_056d8b95:
 msgid "[_Alice_s_02_] Маленькое и чёрное, Макс."
@@ -370,7 +370,7 @@ msgstr "Voglio vedere e toccare le tue tette nude!"
 
 # game/scripts/story_01/party_girl.rpy:224
 msgid "{i}оплатить покупку ($599) и подождать Алису{/i}"
-msgstr ""
+msgstr "{i}Paga l'acquisto ($599) e aspetta Alice{/i}"
 
 # game/scripts/story_01/party_girl.rpy:282
 msgid "Ты же без трусиков?"
