@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-06-27 16:36\n"
+"PO-Revision-Date: 2026-06-29 08:58\n"
 
 # TODO: Translation updated at 2026-06-22 22:36 #|#|# # game/scripts/story_01/sunscreen.rpy:7 #-#-# translate crowdin ev_011_03c9dcee:
 msgid "[_Alice_s_01_] Как ты догадался, Шерлок? [nointeract]"
@@ -438,11 +438,11 @@ msgstr "Se lo dici tu... {i}(ammirare){/i}"
 
 # game/scripts/story_01/sunscreen.rpy:256
 msgid "Масло для загара закончилось!"
-msgstr ""
+msgstr "L'olio abbronzante è finito!"
 
 # game/scripts/story_01/sunscreen.rpy:258
 msgid "Масло для загара почти закончилось!"
-msgstr ""
+msgstr "L'olio abbronzante è quasi finito!"
 
 # game/scripts/story_01/sunscreen.rpy:276
 msgid "Обгореть на солнце не боишься?"
