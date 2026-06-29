@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-06-27 16:36\n"
+"PO-Revision-Date: 2026-06-29 08:58\n"
 
 # TODO: Translation updated at 2026-06-22 22:36 #|#|# # game/scripts/story_01/bikini.rpy:8 #-#-# translate crowdin ev_008_3c08b543:
 msgid "[_Lisa_s_09_] Жарко... Но у меня другого и нет. Ты же знаешь, что наши вещи пропали. Вот там и все мои купальники были..."
@@ -746,7 +746,7 @@ msgstr "Ci puoi scommettere! (accetta il bacio sulla guancia)"
 
 # game/scripts/story_01/bikini.rpy:382
 msgid "{i}пойти рассчитаться за купальник ($299){/i}"
-msgstr ""
+msgstr "{i}Vai a pagare il costume da bagno ($299){/i}"
 
 # game/scripts/story_01/bikini.rpy:397
 msgid "Ещё как стоит! (поцеловать её в губы)"
