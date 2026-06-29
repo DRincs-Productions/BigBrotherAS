@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-06-27 16:36\n"
+"PO-Revision-Date: 2026-06-29 08:58\n"
 
 # TODO: Translation updated at 2026-06-22 22:36 #|#|# # game/scripts/story_01/blog.rpy:12 #-#-# translate crowdin ev_017_423a776a:
 msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
@@ -2930,7 +2930,7 @@ msgstr "Posso permettermi di spendere tanto..."
 
 # game/scripts/story_01/blog.rpy:603
 msgid "{i}оплатить покупку ($199) и подождать Алису{/i}"
-msgstr ""
+msgstr "{i}Paga l'acquisto ($199) e aspetta Alice{/i}"
 
 # game/scripts/story_01/blog.rpy:617
 msgid "{i}вернуться на виллу{/i}"
