@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-06-27 16:36\n"
+"PO-Revision-Date: 2026-06-29 07:05\n"
 
 # TODO: Translation updated at 2026-06-27 13:17 #|#|# # game/scripts/engine/interact.rpy:43 #-#-# translate crowdin talks_start_41e41361:
 msgid "[_Alice_s_00_] Ну же, Макс, что хотел? [nointeract]"
@@ -38,11 +38,11 @@ msgstr "[_Lisa_s_00_] Ti ascolto, Max, cosa volevi? [nointeract]"
 
 # game/scripts/engine/interact.rpy:58 #-#-# translate crowdin talks_start_b6a420ed:
 msgid "[_Kira_s_00_] Да, Макс, что такое? [nointeract]"
-msgstr ""
+msgstr "[_Kira_s_00_] Sì, Max, che c'è? [nointeract]"
 
 # game/scripts/engine/interact.rpy:60 #-#-# translate crowdin talks_start_5db8e6d5:
 msgid "[_Kira_s_00_] Что, Макс, соскучился? [nointeract]"
-msgstr ""
+msgstr "[_Kira_s_00_] Che c'è, Max, ti sono mancata? [nointeract]"
 
 # game/scripts/engine/interact.rpy:91 #-#-# translate crowdin dirty_max_82ca439f:
 msgid "[_Alice_s_11_] Фу ты! Это от тебя что ли, Макс, так воняет? Держись от меня подальше... [nointeract]"
@@ -58,7 +58,7 @@ msgstr "[_Lisa_s_12_] Oh, Max, che schifo! Non ti lavi per niente? Non avvicinar
 
 # game/scripts/engine/interact.rpy:97 #-#-# translate crowdin dirty_max_d040a90d:
 msgid "[_Kira_s_11_] Хм... Мне кажется, что кое-кому не помешало бы сходить помыться... [nointeract]"
-msgstr ""
+msgstr "[_Kira_s_11_] Uhm... Mi sembra che a qualcuno non farebbe male farsi una doccia... [nointeract]"
 
 # §translate crowdin strings: #|#|# # game/scripts/engine/interact.rpy:26
 msgid "Нет, мам. Ничего. ({i}уйти{/i})"
@@ -254,13 +254,13 @@ msgstr "Andiamo a comprarti un vestito..."
 
 # game/scripts/engine/interact.rpy:313
 msgid "Думал, пообщаться..."
-msgstr ""
+msgstr "Pensavo di fare due chiacchiere..."
 
 # game/scripts/engine/interact.rpy:313
 msgid "Не хочешь поплавать?"
-msgstr ""
+msgstr "Ti va di fare una nuotata?"
 
 # game/scripts/engine/interact.rpy:313
 msgid "Составить тебе компанию?"
-msgstr ""
+msgstr "Ti faccio compagnia?"
 
