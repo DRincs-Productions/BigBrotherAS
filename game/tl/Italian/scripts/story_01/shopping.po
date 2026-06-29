@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-06-27 16:36\n"
+"PO-Revision-Date: 2026-06-29 08:58\n"
 
 # TODO: Translation updated at 2026-06-22 22:36 #|#|# # game/scripts/story_01/shopping.rpy:20 #-#-# translate crowdin ev_051_f2e28c50:
 msgid "[_Ann_s_01_] Макс, мы пошли по магазинам. Не скучай тут без нас, хорошо? Вернёмся часа через 3... [nointeract]"
@@ -358,7 +358,7 @@ msgstr "[_Ann_s_12_] Sai, penso che tu non l'abbia ancora conosciuto abbastanza 
 
 # game/scripts/story_01/shopping.rpy:259 #-#-# translate crowdin ev_152_0c42aecf:
 msgid "[_Max_s_12_] Всё ясно с тобой, мам..."
-msgstr ""
+msgstr "[_Max_s_12_] Ho capito tutto, mamma..."
 
 # game/scripts/story_01/shopping.rpy:260 #-#-# translate crowdin ev_152_bcdb38d9:
 msgid "[_tMax_s_16_] Похоже, мне ещё придётся ей это доказать..."
