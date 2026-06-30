@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-06-30 07:32\n"
+"PO-Revision-Date: 2026-06-30 09:34\n"
 
 # TODO: Translation updated at 2026-06-22 22:36 #|#|# # game/scripts/story_02/breakfasts.rpy:35 #-#-# translate crowdin ev2_001_6e8dcf3c:
 msgid "[_Ann_s_01_] Всех ещё раз с добрым утром, всем приятного аппетита! Ешьте, пока не остыло."
@@ -98,103 +98,103 @@ msgstr "[_Kira_s_02_] Non c'è da stupirsi, dopotutto sta iniziando la stagione 
 
 # game/scripts/story_02/breakfasts.rpy:74 #-#-# translate crowdin ev2_004_42512632:
 msgid "[_Max_s_01_] Ну, нас выручает бассейн..."
-msgstr ""
+msgstr "[_Max_s_01_] Beh, meno male che c'è la piscina..."
 
 # game/scripts/story_02/breakfasts.rpy:75 #-#-# translate crowdin ev2_004_a5a25b9a:
 msgid "[_Kira_s_03_] А вот это я обожаю! После пары лет жизни в тех холодных краях, я бы целыми днями под солнцем валялась..."
-msgstr ""
+msgstr "[_Kira_s_03_] Ah, questo lo adoro! Dopo un paio d'anni passati in quei posti così freddi, me ne starei tutto il giorno sdraiata al sole..."
 
 # game/scripts/story_02/breakfasts.rpy:76 #-#-# translate crowdin ev2_004_a8d75959:
 msgid "[_Ann_s_02_] Кстати, об этом. Ты бы рассказала, где была, что делала, что планируешь..."
-msgstr ""
+msgstr "[_Ann_s_02_] A questo proposito, potresti raccontarci dove sei stata, cosa hai fatto e cosa hai intenzione di fare..."
 
 # game/scripts/story_02/breakfasts.rpy:77 #-#-# translate crowdin ev2_004_96fb88bb:
 msgid "[_Lisa_s_02_] Да, нам всем интересно!"
-msgstr ""
+msgstr "[_Lisa_s_02_] Sì, siamo tutti curiosi!"
 
 # game/scripts/story_02/breakfasts.rpy:78 #-#-# translate crowdin ev2_004_a1867641:
 msgid "[_Kira_s_04_] Да не о чем рассказывать. Работала то тут, то там... Скукота. Вот думаю попробовать начать здесь своё дело, а может просто устроюсь на работу, если подвернётся что-то интересное. Посмотрим..."
-msgstr ""
+msgstr "[_Kira_s_04_] Ma non c'è niente da raccontare. Ho lavorato un po' qua e un po' là... Una noia mortale. Sto pensando di provare a mettermi in proprio qui, o magari semplicemente mi cercherò un lavoro, se salta fuori qualcosa d'interessante. Vedremo..."
 
 # game/scripts/story_02/breakfasts.rpy:79 #-#-# translate crowdin ev2_004_cd73288c:
 msgid "[_Max_s_11_] А что за дело ты думала здесь начать?"
-msgstr ""
+msgstr "[_Max_s_11_] E che attività avevi in mente di aprire qui?"
 
 # game/scripts/story_02/breakfasts.rpy:80 #-#-# translate crowdin ev2_004_20204cf7:
 msgid "[_Kira_s_01_] Ну... Может потом расскажу, если всё получится. А ты, Ань, получается работаешь здесь в крупной компании? Напомни, что за должность?"
-msgstr ""
+msgstr "[_Kira_s_01_] Beh... Magari ve lo racconto più avanti, se tutto va in porto. E tu, Anna, quindi lavori in una grande azienda qui? Ricordami, che posizione ricopri?"
 
 # game/scripts/story_02/breakfasts.rpy:81 #-#-# translate crowdin ev2_004_574a054e:
 msgid "[_Ann_s_01_] Я же тебе рассказывала, что я сейчас личный ассистент руководителя регионального отделения компании..."
-msgstr ""
+msgstr "[_Ann_s_01_] Ma te l'avevo già detto! Adesso faccio l'assistente personale del direttore della filiale regionale dell'azienda..."
 
 # game/scripts/story_02/breakfasts.rpy:82 #-#-# translate crowdin ev2_004_f7ff26b6:
 msgid "[_Alice_s_02_] А начальник у мамы какой, ммм... Ты бы видела..."
-msgstr ""
+msgstr "[_Alice_s_02_] E il capo della mamma è un uomo... mmm... Dovresti proprio vederlo..."
 
 # game/scripts/story_02/breakfasts.rpy:83 #-#-# translate crowdin ev2_004_20fb1ebd:
 msgid "[_Kira_s_12_] Да вы что! Ваша мама мне о нём не говорила... Как зовут, какой он?"
-msgstr ""
+msgstr "[_Kira_s_12_] Ma dai! Vostra mamma non mi ha mai parlato di lui... Come si chiama? Com'è?"
 
 # game/scripts/story_02/breakfasts.rpy:84 #-#-# translate crowdin ev2_004_61545eee:
 msgid "[_Max_s_13_] Ну, такой этот Эрик... С вопросиками..."
-msgstr ""
+msgstr "[_Max_s_13_] Beh, questo Erik è un tipo... Un po' così..."
 
 # game/scripts/story_02/breakfasts.rpy:85 #-#-# translate crowdin ev2_004_a9a62239:
 msgid "[_Ann_s_10_] Максу всё кажется, что он какой-то не такой. А вот я считаю, что Эрик - замечательный мужчина, каких ещё поискать нужно."
-msgstr ""
+msgstr "[_Ann_s_10_] A Max sembra sempre che sia un tipo strano. Io invece penso che Erik sia un uomo meraviglioso, ce ne sono pochi come lui."
 
 # game/scripts/story_02/breakfasts.rpy:86 #-#-# translate crowdin ev2_004_a0f17a0b:
 msgid "[_Kira_s_10_] Хм... Как бы там ни было, нужно будет потом познакомиться с этим вашим Эриком, а то интересно же."
-msgstr ""
+msgstr "[_Kira_s_10_] Uhm... Comunque sia, prima o poi bisognerà conoscerlo questo vostro Erik, la cosa mi incuriosisce."
 
 # game/scripts/story_02/breakfasts.rpy:87 #-#-# translate crowdin ev2_004_a2b6c535:
 msgid "[_Ann_s_03_] Я могу пригласить его поужинать с нами, тогда и познакомишься..."
-msgstr ""
+msgstr "[_Ann_s_03_] Posso invitarlo a cenare da noi, così cogli l'occasione per conoscerlo..."
 
 # game/scripts/story_02/breakfasts.rpy:88 #-#-# translate crowdin ev2_004_5056e8f9:
 msgid "[_Kira_s_02_] Ой, Ань, давай не так быстро, я сначала хотела как следует отдохнуть, поваляться на солнышке... К тому же, у меня новый купальник..."
-msgstr ""
+msgstr "[_Kira_s_02_] Oh, Anna, andiamo con calma! Per prima cosa volevo godermi un po' di relax e prendere il sole... Tra l'altro, ho un costume da bagno nuovo..."
 
 # game/scripts/story_02/breakfasts.rpy:89 #-#-# translate crowdin ev2_004_9eb2aa39:
 msgid "[_Ann_s_11_] Ого! Ты меня удивляешь, Кира! С каких пор ты начала носить купальники? То, что ты взялась за ум, может только радовать. К тому же, тут дети..."
-msgstr ""
+msgstr "[_Ann_s_11_] Caspita! Mi stupisci, Kira! Da quando in qua hai iniziato a mettere il costume? Il fatto che tu abbia messo la testa a posto non può che far piacere. E poi, qui ci sono i ragazzi..."
 
 # game/scripts/story_02/breakfasts.rpy:90 #-#-# translate crowdin ev2_004_eb72c44d:
 msgid "[_Kira_s_04_] Только из-за твоих детей и купила этот самый купальник. Можешь не переживать, Ань, разврата с моей стороны не будет."
-msgstr ""
+msgstr "[_Kira_s_04_] È solo per i tuoi figli che  l'ho comprato questo benedetto costume. Non ti preoccupare, Anna, non farò niente d'indecente."
 
 # game/scripts/story_02/breakfasts.rpy:91 #-#-# translate crowdin ev2_004_3a5afaad:
 msgid "[_Max_s_16_] Вот облом!"
-msgstr ""
+msgstr "[_Max_s_16_] Che sfiga!"
 
 # game/scripts/story_02/breakfasts.rpy:92 #-#-# translate crowdin ev2_004_c8869cdf:
 msgid "[_Ann_s_01_] Макс, некоторые мысли лучше держать при себе. Спасибо всем за завтрак. Мне пора собираться на работу, за ужином ещё поболтаем."
-msgstr ""
+msgstr "[_Ann_s_01_] Max, certi pensieri è meglio tenerseli per sé. Grazie a tutti per la colazione. È ora che mi prepari per andare al lavoro, faremo due chiacchiere a cena."
 
 # game/scripts/story_02/breakfasts.rpy:96 #-#-# translate crowdin ev2_004_e306d1b3:
 msgid "[_Kira_s_11_] Вряд ли, Ань. Скорее всего я вернусь домой поздно, так что подскажите сразу, где мне можно будет лечь спать?"
-msgstr ""
+msgstr "[_Kira_s_11_] Non credo, Anna. Quasi sicuramente farò tardi stasera, quindi fammi sapere subito dove potrò dormire?"
 
 # game/scripts/story_02/breakfasts.rpy:97 #-#-# translate crowdin ev2_004_6d402a93:
 msgid "[_Ann_s_11_] Ну, я думаю, Макс будет не сильно против пустить тебя в их с Лизой комнату. Ты устроишься на его кровати, а он в гостиной поспит. Либо..."
-msgstr ""
+msgstr "[_Ann_s_11_] Beh, penso che a Max non dispiacerà più di tanto farti stare in camera sua e di Lisa. Tu ti sistemerai sul suo letto, mentre lui dormirà in soggiorno. Oppure..."
 
 # game/scripts/story_02/breakfasts.rpy:98 #-#-# translate crowdin ev2_004_0e25fc00:
 msgid "[_Kira_s_02_] Ой, а давай я в гостиной буду спать, чтобы никого не тревожить, а?"
-msgstr ""
+msgstr "[_Kira_s_02_] Oh, senti, e se dormissi io in soggiorno per non disturbare nessuno, eh?"
 
 # game/scripts/story_02/breakfasts.rpy:99 #-#-# translate crowdin ev2_004_6c33932a:
 msgid "[_Ann_s_04_] Как хочешь, Кир. Где тебе будет удобнее. Постельное под диваном. Места там предостаточно. Всё, я побежала..."
-msgstr ""
+msgstr "[_Ann_s_04_] Fai come preferisci, Kira. Dove stai più comoda. Le lenzuola sono sotto il divano, c'è un sacco di spazio. Ok, io scappo..."
 
 # game/scripts/story_02/breakfasts.rpy:100 #-#-# translate crowdin ev2_004_62cc18a5:
 msgid "[_Kira_s_03_] Хорошего тебе дня, сестрёнка..."
-msgstr ""
+msgstr "[_Kira_s_03_] Buona giornata, sorellina..."
 
 # game/scripts/story_02/breakfasts.rpy:104 #-#-# translate crowdin ev2_004_df0dfbf6:
 msgid "[_tMax_s_01_] Ох, как же мне не терпится пообщаться с тётей Кирой! Столько всего хочется у неё узнать..."
-msgstr ""
+msgstr "[_tMax_s_01_] Oh, non vedo proprio l'ora di fare due chiacchiere con la zia Kira! Ho un sacco di cose da sapere da lei..."
 
 # §translate crowdin strings: #|#|# # game/scripts/story_02/breakfasts.rpy:106
 msgid "Любимая тётя"
