@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-07-01 08:02\n"
+"PO-Revision-Date: 2026-07-01 10:30\n"
 
 # TODO: Translation updated at 2026-06-22 22:36 #|#|# # game/scripts/story_02/kira.rpy:12 #-#-# translate crowdin ev2_003_06ac2f3b:
 msgid "[_Ann_s_02_] Ну что, вот и дождались... Встречайте, к нам приехала тётя Кира!"
@@ -282,7 +282,7 @@ msgstr "[_tMax_s_01_] Vediamo cosa sta facendo laggiù..."
 
 # game/scripts/story_02/kira.rpy:283 #-#-# translate crowdin ev_kira_dressed_in_bathroom_b69f7f67:
 msgid "[_tMax_s_03_] Тётя у меня и так всегда сногсшибательна, а если ещё и сисечками голыми светит, то у меня в шортах вообще огонь что начинает твориться! [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_03_] Mia zia è già uno schianto di suo, ma se si mette pure a mostrare le tette nude, nei miei pantaloncini succede un macello! [nointeract]"
 
 # game/scripts/story_02/kira.rpy:295 #-#-# translate crowdin ev_kira_dressed_in_bathroom_in_front_of_max_0ce6d33b:
 msgid "[_Kira_s_01_] Слушай, Макс, погуляй где-нибудь, а то мне нужно переодеться... [nointeract]"
@@ -290,31 +290,31 @@ msgstr "[_Kira_s_01_] Senti, Max, vai a farti un giro da qualche parte, che devo
 
 # game/scripts/story_02/kira.rpy:316 #-#-# translate crowdin ev2_007_1ede10c7:
 msgid "[_Kira_s_01_] Ну что, Макс... Меня не теряй, я должна вернуться, хоть и буду поздно..."
-msgstr ""
+msgstr "[_Kira_s_01_] Allora, Max... Non darmi per dispersa, io tornerò comunque, anche se farò tardi..."
 
 # game/scripts/story_02/kira.rpy:317 #-#-# translate crowdin ev2_007_5d78ec65:
 msgid "[_Max_s_01_] Успехов тебе, тётя Кира!"
-msgstr ""
+msgstr "[_Max_s_01_] In bocca al lupo, zia Kira!"
 
 # game/scripts/story_02/kira.rpy:334 #-#-# translate crowdin ev2_008_3c55ecf9:
 msgid "[_Kira_s_01_] Ой, Макс, ты почему ещё не спишь?"
-msgstr ""
+msgstr "[_Kira_s_01_] Oh, Max, come mai sei ancora sveglio?"
 
 # game/scripts/story_02/kira.rpy:335 #-#-# translate crowdin ev2_008_51339de1:
 msgid "[_Max_s_11_] Тебя решил дождаться."
-msgstr ""
+msgstr "[_Max_s_11_] Ho deciso di aspettarti."
 
 # game/scripts/story_02/kira.rpy:336 #-#-# translate crowdin ev2_008_8fb5d19c:
 msgid "[_Kira_s_11_] Правда? Слушай, я сегодня так сильно устала, что хочу просто побыстрее лечь спать."
-msgstr ""
+msgstr "[_Kira_s_11_] Davvero? Senti, oggi sono così stanca che voglio solo andare a dormire il prima possibile."
 
 # game/scripts/story_02/kira.rpy:337 #-#-# translate crowdin ev2_008_7579c2b9:
 msgid "[_Max_s_12_] Эх... Тогда отдыхай. Спокойной ночи..."
-msgstr ""
+msgstr "[_Max_s_12_] Eh... Allora riposati. Buonanotte..."
 
 # game/scripts/story_02/kira.rpy:348 #-#-# translate crowdin ev2_005_9d9e6483:
 msgid "[_Kira_s_01_] Это я с радостью, Макс... Рассказывай, как ты тут живёшь, как твои дела, что нового?"
-msgstr ""
+msgstr "[_Kira_s_01_] Lo faccio volentieri, Max... Dai, raccontami: come te la passi qui? Come stai? Che c'è di nuovo?"
 
 # game/scripts/story_02/kira.rpy:349 #-#-# translate crowdin ev2_005_2a98dde8:
 msgid "[_Max_s_11_] Я... Это... Ухх..."
@@ -654,7 +654,7 @@ msgstr ""
 
 # game/scripts/story_02/kira.rpy:511 #-#-# translate crowdin ev2_010_3c55ecf9:
 msgid "[_Kira_s_01_] Ой, Макс, ты почему ещё не спишь?"
-msgstr ""
+msgstr "[_Kira_s_01_] Oh, Max, come mai sei ancora sveglio?"
 
 # game/scripts/story_02/kira.rpy:512 #-#-# translate crowdin ev2_010_c4480125:
 msgid "[_Max_s_11_] Тебя решил дождаться. Сама же звала..."
