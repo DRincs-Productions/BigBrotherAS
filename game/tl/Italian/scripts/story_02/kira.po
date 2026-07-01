@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-06-30 14:30\n"
+"PO-Revision-Date: 2026-07-01 08:02\n"
 
 # TODO: Translation updated at 2026-06-22 22:36 #|#|# # game/scripts/story_02/kira.rpy:12 #-#-# translate crowdin ev2_003_06ac2f3b:
 msgid "[_Ann_s_02_] Ну что, вот и дождались... Встречайте, к нам приехала тётя Кира!"
@@ -218,63 +218,63 @@ msgstr "[_Max_s_04_] Mi piace, zia Kira. Semplice e con stile!"
 
 # game/scripts/story_02/kira.rpy:130 #-#-# translate crowdin ev2_003_045cf541:
 msgid "[_Kira_s_04_] Вот, слышала, Ань? Детям нравится... Естественно, если в семье есть мужчина, это накладывает свои ограничения, но нельзя же быть настолько зажатыми..."
-msgstr ""
+msgstr "[_Kira_s_04_] Ecco, hai sentito, Anna? Ai ragazzi piace... Naturalmente, avere un uomo in casa comporta le sue restrizioni, ma non si può mica essere così inibite..."
 
 # game/scripts/story_02/kira.rpy:131 #-#-# translate crowdin ev2_003_3a812cc1:
 msgid "[_Ann_s_01_] Ладно, посмотрим. Кира, мне кажется, что не стоило тратиться на все эти подарки. Мы и так рады, что ты смогла к нам приехать... Но всё равно, большое спасибо!"
-msgstr ""
+msgstr "[_Ann_s_01_] Va bene, vedremo. Kira, secondo me non dovevi spendere tutti questi soldi per i regali. Siamo già così felici che tu sia potuta venire a trovarci... Ma comunque, grazie di cuore!"
 
 # game/scripts/story_02/kira.rpy:132 #-#-# translate crowdin ev2_003_6fd7e017:
 msgid "[_Max_s_12_] Давайте уже завтракать, а то остыло почти всё..."
-msgstr ""
+msgstr "[_Max_s_12_] Dai, facciamo colazione che ormai si è quasi raffreddato tutto..."
 
 # game/scripts/story_02/kira.rpy:149 #-#-# translate crowdin ev_kira_dressed_in_front_of_max_0ce6d33b:
 msgid "[_Kira_s_01_] Слушай, Макс, погуляй где-нибудь, а то мне нужно переодеться... [nointeract]"
-msgstr ""
+msgstr "[_Kira_s_01_] Senti, Max, vai a farti un giro da qualche parte, che devo cambiarmi... [nointeract]"
 
 # game/scripts/story_02/kira.rpy:159 #-#-# translate crowdin ev_kira_dressed_moment0_e294e19b:
 msgid "[_Kira_s_01_] Слушай, Макс, ты можешь где-нибудь погулять, а то мне нужно переодеться... [nointeract]"
-msgstr ""
+msgstr "[_Kira_s_01_] Senti, Max, puoi farti un giro da qualche parte? È che devo cambiarmi... [nointeract]"
 
 # game/scripts/story_02/kira.rpy:162 #-#-# translate crowdin ev_kira_dressed_moment0_d936e0b6:
 msgid "[_Kira_s_02_] Спасибо. Я быстренько. [nointeract]"
-msgstr ""
+msgstr "[_Kira_s_02_] Grazie. Faccio subito! [nointeract]"
 
 # game/scripts/story_02/kira.rpy:171 #-#-# translate crowdin ev_kira_dressed_moment2_acd526eb:
 msgid "[_tMax_s_05_] Ого! Это я весьма удачно зашёл... {p=2}{nw}"
-msgstr ""
+msgstr "[_tMax_s_05_] Wow! Direi che sono capitato proprio al momento giusto... {p=2}{nw}"
 
 # game/scripts/story_02/kira.rpy:177 #-#-# translate crowdin ev_kira_dressed_moment2_5b8c6f84:
 msgid "[_Kira_s_04_] Ай-я-яй, Макс! Ты так тихо ходишь, что я совершенно тебя не заметила! Хорошо, если ты только что зашёл, а не наблюдаешь с самого начала. [nointeract]"
-msgstr ""
+msgstr "[_Kira_s_04_] Ehi, Max! Cammini così silenziosamente che non ti ho proprio sentito arrivare! Meno male se sei appena entrato, e non rimasto lì a guardare fin dall'inizio. [nointeract]"
 
 # game/scripts/story_02/kira.rpy:191 #-#-# translate crowdin ev_kira_dressed_moment1_46d08f0c:
 msgid "[_Kira_s_04_] Ай-я-яй, Макс! Как же тихо ты ходишь! Хорошо, что я успела прикрыть самое важное. [nointeract]"
-msgstr ""
+msgstr "[_Kira_s_04_] Ai ai ai, Max! Ma quanto cammini silenzioso? Meno male che ho fatto in tempo a coprire i punti strategici... [nointeract]"
 
 # game/scripts/story_02/kira.rpy:203 #-#-# translate crowdin ev_kira_dressed_until_end_45ec6988:
 msgid "[_Kira_s_03_] Ага, значит, понравилось тебе, да?! В следующий раз позаботься о том, чтобы я тебя не увидела, если уж так хочешь досмотреть до конца, а сейчас лучше иди гуляй, пока я добрая. [nointeract]"
-msgstr ""
+msgstr "[_Kira_s_03_] Ah, quindi ti è piaciuto, eh?! La prossima volta vedi di non farti beccare, se proprio ci tieni a guardare fino alla fine... Ma adesso fila a farti un giro, finché sono ancora buona. [nointeract]"
 
 # game/scripts/story_02/kira.rpy:211 #-#-# translate crowdin ev_kira_dressed_until_end_baa66319:
 msgid "[_Kira_s_10_] Даже вот так?! Уж не знаю, за кого ты свою родную тётю принимаешь, но иди-ка ты лучше гуляй, пока мы с тобой не поругались. [nointeract]"
-msgstr ""
+msgstr "[_Kira_s_10_] Ah, addirittura?! Non so proprio per chi tu prenda tua zia, ma è meglio se vai a farti un giro prima che finiamo per litigare! [nointeract]"
 
 # game/scripts/story_02/kira.rpy:222 #-#-# translate crowdin ev_kira_dressed_hide_beauty_318e4749:
 msgid "[_Kira_s_02_] Ну, ещё бы... Твоей радости не было бы предела от этого. Лучше иди погуляй где-нибудь, пока я оденусь. [nointeract]"
-msgstr ""
+msgstr "[_Kira_s_02_] Eh, ci credo... Non staresti più nella pelle, vero? Sarà meglio che vai a farti un giro da qualche parte mentre mi vesto. [nointeract]"
 
 # game/scripts/story_02/kira.rpy:229 #-#-# translate crowdin ev_kira_dressed_hide_beauty_fb913cba:
 msgid "[_Kira_s_10_] Макс, я вообще-то твоя тётя, а ты мне такое! Давай-ка погуляй лучше иди, а то ещё поругаемся с тобой. [nointeract]"
-msgstr ""
+msgstr "[_Kira_s_10_] Max, guarda che sono tua zia, e tu mi dici certe cose! Dai, è meglio se vai a farti un giro, prima che finiamo per litigare. [nointeract]"
 
 # game/scripts/story_02/kira.rpy:258 #-#-# translate crowdin ev_kira_dressed_in_bathroom_ba232146:
 msgid "[_tMax_s_11_] Сейчас ванная комната должна быть занята тётей Кирой. Она собирается уходить по делам... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_11_] In questo momento il bagno dovrebbe essere occupato da zia Kira. Sta per uscire a sbrigare alcune commissioni... [nointeract]"
 
 # game/scripts/story_02/kira.rpy:260 #-#-# translate crowdin ev_kira_dressed_in_bathroom_7dc6f782:
 msgid "[_tMax_s_11_] Сейчас ванная комната должна быть занята тётей Кирой. Она переодевается перед сном... [nointeract]"
-msgstr ""
+msgstr "[_tMax_s_11_] In questo momento il bagno dovrebbe essere occupato da zia Kira. Si sta cambiando prima di andare a dormire... [nointeract]"
 
 # game/scripts/story_02/kira.rpy:269 #-#-# translate crowdin ev_kira_dressed_in_bathroom_1d136386:
 msgid "[_tMax_s_01_] Посмотрим, что она там делает..."
@@ -286,7 +286,7 @@ msgstr ""
 
 # game/scripts/story_02/kira.rpy:295 #-#-# translate crowdin ev_kira_dressed_in_bathroom_in_front_of_max_0ce6d33b:
 msgid "[_Kira_s_01_] Слушай, Макс, погуляй где-нибудь, а то мне нужно переодеться... [nointeract]"
-msgstr ""
+msgstr "[_Kira_s_01_] Senti, Max, vai a farti un giro da qualche parte, che devo cambiarmi... [nointeract]"
 
 # game/scripts/story_02/kira.rpy:316 #-#-# translate crowdin ev2_007_1ede10c7:
 msgid "[_Kira_s_01_] Ну что, Макс... Меня не теряй, я должна вернуться, хоть и буду поздно..."
