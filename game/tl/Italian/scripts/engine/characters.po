@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-06-27 16:36\n"
+"PO-Revision-Date: 2026-07-03 15:31\n"
 
-# TODO: Translation updated at 2026-06-22 22:36 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/characters.rpy:502
+# TODO: Translation updated at 2026-07-03 17:21 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/characters.rpy:502
 msgid "Лиза"
 msgstr "Lisa"
 
@@ -68,6 +68,10 @@ msgid "Мия, эффектная дама-адвокат. Оказывает ю
 "Ведь когда у тебя есть знакомый юрист, жить становится немного спокойнее. А вот то, какая она в жизни мне только предстоит узнать, если повезёт..."
 msgstr "Mia, la splendida donna avvocato. Fornisce servizi legali per l'azienda di mio padre. Sembra che sia una professionista, il che è positivo.\n"
 "Voglio dire, avere un avvocato rende la vita un po' più rilassata. Ma come sia nella vita reale, dovrò solo scoprirlo, se sono fortunato...."
+
+# game/scripts/engine/characters.rpy:525
+msgid "Тётя Кира, мамина младшая сестра! Раньше я был слишком мал, чтобы оценить, насколько ярко у неё выражены те самые женские черты, по которым сходят с ума все мужчины, но сейчас... сейчас тётя Кира для меня крайне интересна..."
+msgstr ""
 
 # game/scripts/engine/characters.rpy:535
 msgid "Ужасное"
