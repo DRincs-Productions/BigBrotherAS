@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-22 22:36
+﻿# TODO: Translation updated at 2026-07-03 17:21
 
 translate crowdin strings:
 
@@ -102,331 +102,335 @@ translate crowdin strings:
     old "Быстрые сохранения"
     new "Быстрые сохранения"
 
-    # game/scripts/screens/screens.rpy:937
+    # game/scripts/screens/screens.rpy:940
+    old "Глава {}"
+    new "Глава {}"
+
+    # game/scripts/screens/screens.rpy:940
     old "День [slot_dwtm[0]] [lw] [slot_dwtm[2]]"
     new "День [slot_dwtm[0]] [lw] [slot_dwtm[2]]"
 
-    # game/scripts/screens/screens.rpy:949
+    # game/scripts/screens/screens.rpy:952
     old "{#file_time}%a, %d %B %Y, %H:%M"
     new "{#file_time}%a, %d %B %Y, %H:%M"
 
-    # game/scripts/screens/screens.rpy:949
+    # game/scripts/screens/screens.rpy:952
     old "Пустой слот"
     new "Пустой слот"
 
-    # game/scripts/screens/screens.rpy:1001
+    # game/scripts/screens/screens.rpy:1007
     old "{#file_time}%A, %d %B %Y, %H:%M"
     new "{#file_time}%A, %d %B %Y, %H:%M"
 
-    # game/scripts/screens/screens.rpy:1035
+    # game/scripts/screens/screens.rpy:1041
     old "{#auto_page}А"
     new "{#auto_page}А"
 
-    # game/scripts/screens/screens.rpy:1039
+    # game/scripts/screens/screens.rpy:1045
     old "{#quick_page}Б"
     new "{#quick_page}Б"
 
-    # game/scripts/screens/screens.rpy:1060
+    # game/scripts/screens/screens.rpy:1066
     old "Загрузить Sync"
     new "Загрузить Sync"
 
-    # game/scripts/screens/screens.rpy:1062
+    # game/scripts/screens/screens.rpy:1068
     old "Скачать Sync"
     new "Скачать Sync"
 
-    # game/scripts/screens/screens.rpy:1156
+    # game/scripts/screens/screens.rpy:1162
     old "ЯЗЫК"
     new "ЯЗЫК"
 
-    # game/scripts/screens/screens.rpy:1195
+    # game/scripts/screens/screens.rpy:1201
     old "ЭКРАН"
     new "ЭКРАН"
 
-    # game/scripts/screens/screens.rpy:1198
+    # game/scripts/screens/screens.rpy:1204
     old "Режим экрана"
     new "Режим экрана"
 
-    # game/scripts/screens/screens.rpy:1201
+    # game/scripts/screens/screens.rpy:1207
     old "Оконный"
     new "Оконный"
 
-    # game/scripts/screens/screens.rpy:1204
+    # game/scripts/screens/screens.rpy:1210
     old "Полный"
     new "Полный"
 
-    # game/scripts/screens/screens.rpy:1207
+    # game/scripts/screens/screens.rpy:1213
     old "ГЕЙМПЛЕЙ"
     new "ГЕЙМПЛЕЙ"
 
-    # game/scripts/screens/screens.rpy:1210
+    # game/scripts/screens/screens.rpy:1216
     old "Сторона отката"
     new "Сторона отката"
 
-    # game/scripts/screens/screens.rpy:1213
+    # game/scripts/screens/screens.rpy:1219
     old "Отключено"
     new "Отключено"
 
-    # game/scripts/screens/screens.rpy:1216
+    # game/scripts/screens/screens.rpy:1222
     old "Левая"
     new "Левая"
 
-    # game/scripts/screens/screens.rpy:1219
+    # game/scripts/screens/screens.rpy:1225
     old "Правая"
     new "Правая"
 
-    # game/scripts/screens/screens.rpy:1221
+    # game/scripts/screens/screens.rpy:1227
     old "Пропускать"
     new "Пропускать"
 
-    # game/scripts/screens/screens.rpy:1224
+    # game/scripts/screens/screens.rpy:1230
     old "Весь текст"
     new "Весь текст"
 
-    # game/scripts/screens/screens.rpy:1227
+    # game/scripts/screens/screens.rpy:1233
     old "После выбора"
     new "После выбора"
 
-    # game/scripts/screens/screens.rpy:1230
+    # game/scripts/screens/screens.rpy:1236
     old "Переходы"
     new "Переходы"
 
-    # game/scripts/screens/screens.rpy:1232
+    # game/scripts/screens/screens.rpy:1238
     old "Скорость текста"
     new "Скорость текста"
 
-    # game/scripts/screens/screens.rpy:1235
+    # game/scripts/screens/screens.rpy:1241
     old "Скорость авточтения"
     new "Скорость авточтения"
 
-    # game/scripts/screens/screens.rpy:1239
+    # game/scripts/screens/screens.rpy:1245
     old "Размер шрифта"
     new "Размер шрифта"
 
-    # game/scripts/screens/screens.rpy:1242
+    # game/scripts/screens/screens.rpy:1248
     old "Мелкий"
     new "Мелкий"
 
-    # game/scripts/screens/screens.rpy:1245
+    # game/scripts/screens/screens.rpy:1251
     old "Средний"
     new "Средний"
 
-    # game/scripts/screens/screens.rpy:1248
+    # game/scripts/screens/screens.rpy:1254
     old "Крупный"
     new "Крупный"
 
-    # game/scripts/screens/screens.rpy:1252
+    # game/scripts/screens/screens.rpy:1258
     old "Масштаб элементов интерфейса: [scale]%"
     new "Масштаб элементов интерфейса: [scale]%"
 
-    # game/scripts/screens/screens.rpy:1257
+    # game/scripts/screens/screens.rpy:1263
     old "Прозрачность текстового окна: [opacity:.0f]%"
     new "Прозрачность текстового окна: [opacity:.0f]%"
 
-    # game/scripts/screens/screens.rpy:1263
+    # game/scripts/screens/screens.rpy:1269
     old "АУДИО"
     new "АУДИО"
 
-    # game/scripts/screens/screens.rpy:1266
+    # game/scripts/screens/screens.rpy:1272
     old "Громкость музыки"
     new "Громкость музыки"
 
-    # game/scripts/screens/screens.rpy:1270
+    # game/scripts/screens/screens.rpy:1276
     old "Громкость окружения"
     new "Громкость окружения"
 
-    # game/scripts/screens/screens.rpy:1274
+    # game/scripts/screens/screens.rpy:1280
     old "Громкость звуков"
     new "Громкость звуков"
 
-    # game/scripts/screens/screens.rpy:1277
+    # game/scripts/screens/screens.rpy:1283
     old "Тест"
     new "Тест"
 
-    # game/scripts/screens/screens.rpy:1287
+    # game/scripts/screens/screens.rpy:1293
     old "Без звука"
     new "Без звука"
 
-    # game/scripts/screens/screens.rpy:1291
+    # game/scripts/screens/screens.rpy:1297
     old "Детальная настройка музыки"
     new "Детальная настройка музыки"
 
-    # game/scripts/screens/screens.rpy:1296
+    # game/scripts/screens/screens.rpy:1302
     old "ДРУГОЕ"
     new "ДРУГОЕ"
 
-    # game/scripts/screens/screens.rpy:1300
+    # game/scripts/screens/screens.rpy:1306
     old "Запрашивать имя сохранения"
     new "Запрашивать имя сохранения"
 
-    # game/scripts/screens/screens.rpy:1301
+    # game/scripts/screens/screens.rpy:1307
     old "Отображать все задания"
     new "Отображать все задания"
 
-    # game/scripts/screens/screens.rpy:1314
+    # game/scripts/screens/screens.rpy:1320
     old "Активировать чит-меню"
     new "Активировать чит-меню"
 
-    # game/scripts/screens/screens.rpy:1450
+    # game/scripts/screens/screens.rpy:1456
     old "История диалогов пуста."
     new "История диалогов пуста."
 
-    # game/scripts/screens/screens.rpy:1503
+    # game/scripts/screens/screens.rpy:1509
     old "Помощь"
     new "Помощь"
 
-    # game/scripts/screens/screens.rpy:1512
+    # game/scripts/screens/screens.rpy:1518
     old "Клавиатура"
     new "Клавиатура"
 
-    # game/scripts/screens/screens.rpy:1513
+    # game/scripts/screens/screens.rpy:1519
     old "Мышь"
     new "Мышь"
 
-    # game/scripts/screens/screens.rpy:1516
+    # game/scripts/screens/screens.rpy:1522
     old "Геймпад"
     new "Геймпад"
 
-    # game/scripts/screens/screens.rpy:1529
+    # game/scripts/screens/screens.rpy:1535
     old "Enter"
     new "Enter"
 
-    # game/scripts/screens/screens.rpy:1530
+    # game/scripts/screens/screens.rpy:1536
     old "Прохождение диалогов, активация интерфейса."
     new "Прохождение диалогов, активация интерфейса."
 
-    # game/scripts/screens/screens.rpy:1533
+    # game/scripts/screens/screens.rpy:1539
     old "Пробел"
     new "Пробел"
 
-    # game/scripts/screens/screens.rpy:1534
+    # game/scripts/screens/screens.rpy:1540
     old "Прохождение диалогов без возможности делать выбор."
     new "Прохождение диалогов без возможности делать выбор."
 
-    # game/scripts/screens/screens.rpy:1537
+    # game/scripts/screens/screens.rpy:1543
     old "Стрелки"
     new "Стрелки"
 
-    # game/scripts/screens/screens.rpy:1538
+    # game/scripts/screens/screens.rpy:1544
     old "Навигация по интерфейсу."
     new "Навигация по интерфейсу."
 
-    # game/scripts/screens/screens.rpy:1541
+    # game/scripts/screens/screens.rpy:1547
     old "Esc"
     new "Esc"
 
-    # game/scripts/screens/screens.rpy:1542
+    # game/scripts/screens/screens.rpy:1548
     old "Вход в игровое меню."
     new "Вход в игровое меню."
 
-    # game/scripts/screens/screens.rpy:1545
+    # game/scripts/screens/screens.rpy:1551
     old "Ctrl"
     new "Ctrl"
 
-    # game/scripts/screens/screens.rpy:1546
+    # game/scripts/screens/screens.rpy:1552
     old "Пропускает диалоги, пока зажат."
     new "Пропускает диалоги, пока зажат."
 
-    # game/scripts/screens/screens.rpy:1549
+    # game/scripts/screens/screens.rpy:1555
     old "Tab"
     new "Tab"
 
-    # game/scripts/screens/screens.rpy:1550
+    # game/scripts/screens/screens.rpy:1556
     old "Включает режим пропуска."
     new "Включает режим пропуска."
 
-    # game/scripts/screens/screens.rpy:1553
+    # game/scripts/screens/screens.rpy:1559
     old "Page Up"
     new "Page Up"
 
-    # game/scripts/screens/screens.rpy:1554
+    # game/scripts/screens/screens.rpy:1560
     old "Откат назад по сюжету игры."
     new "Откат назад по сюжету игры."
 
-    # game/scripts/screens/screens.rpy:1557
+    # game/scripts/screens/screens.rpy:1563
     old "Page Down"
     new "Page Down"
 
-    # game/scripts/screens/screens.rpy:1558
+    # game/scripts/screens/screens.rpy:1564
     old "Откатывает предыдущее действие вперёд."
     new "Откатывает предыдущее действие вперёд."
 
-    # game/scripts/screens/screens.rpy:1562
+    # game/scripts/screens/screens.rpy:1568
     old "Скрывает интерфейс пользователя."
     new "Скрывает интерфейс пользователя."
 
-    # game/scripts/screens/screens.rpy:1566
+    # game/scripts/screens/screens.rpy:1572
     old "Делает снимок экрана."
     new "Делает снимок экрана."
 
-    # game/scripts/screens/screens.rpy:1570
+    # game/scripts/screens/screens.rpy:1576
     old "Включает поддерживаемый {a=https://www.renpy.org/l/voicing}синтезатор речи{/a}."
     new "Включает поддерживаемый {a=https://www.renpy.org/l/voicing}синтезатор речи{/a}."
 
-    # game/scripts/screens/screens.rpy:1574
+    # game/scripts/screens/screens.rpy:1580
     old "Открывает меню специальных возможностей."
     new "Открывает меню специальных возможностей."
 
-    # game/scripts/screens/screens.rpy:1580
+    # game/scripts/screens/screens.rpy:1586
     old "Левый клик"
     new "Левый клик"
 
-    # game/scripts/screens/screens.rpy:1584
+    # game/scripts/screens/screens.rpy:1590
     old "Клик колёсиком"
     new "Клик колёсиком"
 
-    # game/scripts/screens/screens.rpy:1588
+    # game/scripts/screens/screens.rpy:1594
     old "Правый клик"
     new "Правый клик"
 
-    # game/scripts/screens/screens.rpy:1592
+    # game/scripts/screens/screens.rpy:1598
     old "Колёсико вверх\nКлик на сторону отката"
     new "Колёсико вверх\nКлик на сторону отката"
 
-    # game/scripts/screens/screens.rpy:1596
+    # game/scripts/screens/screens.rpy:1602
     old "Колёсико вниз"
     new "Колёсико вниз"
 
-    # game/scripts/screens/screens.rpy:1603
+    # game/scripts/screens/screens.rpy:1609
     old "Правый триггер\nA/Нижняя кнопка"
     new "Правый триггер\nA/Нижняя кнопка"
 
-    # game/scripts/screens/screens.rpy:1607
+    # game/scripts/screens/screens.rpy:1613
     old "Левый Триггер\nЛевый Бампер"
     new "Левый Триггер\nЛевый Бампер"
 
-    # game/scripts/screens/screens.rpy:1611
+    # game/scripts/screens/screens.rpy:1617
     old "Правый бампер"
     new "Правый бампер"
 
-    # game/scripts/screens/screens.rpy:1616
+    # game/scripts/screens/screens.rpy:1622
     old "Крестовина, Стики"
     new "Крестовина, Стики"
 
-    # game/scripts/screens/screens.rpy:1620
+    # game/scripts/screens/screens.rpy:1626
     old "Start, Guide"
     new "Start, Guide"
 
-    # game/scripts/screens/screens.rpy:1624
+    # game/scripts/screens/screens.rpy:1630
     old "Y/Верхняя кнопка"
     new "Y/Верхняя кнопка"
 
-    # game/scripts/screens/screens.rpy:1627
+    # game/scripts/screens/screens.rpy:1633
     old "Калибровка"
     new "Калибровка"
 
-    # game/scripts/screens/screens.rpy:1692
+    # game/scripts/screens/screens.rpy:1698
     old "Да"
     new "Да"
 
-    # game/scripts/screens/screens.rpy:1695
+    # game/scripts/screens/screens.rpy:1701
     old "Нет"
     new "Нет"
 
-    # game/scripts/screens/screens.rpy:1762
+    # game/scripts/screens/screens.rpy:1768
     old "Пропускаю"
     new "Пропускаю"
 
-    # game/scripts/screens/screens.rpy:1989
+    # game/scripts/screens/screens.rpy:1995
     old "Меню"
     new "Меню"
 

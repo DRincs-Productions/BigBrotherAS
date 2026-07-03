@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-27 13:17
+﻿# TODO: Translation updated at 2026-07-03 17:20
 
 # game/scripts/engine/interact.rpy:43
 translate crowdin talks_start_41e41361:
@@ -269,6 +269,10 @@ translate crowdin strings:
     # game/scripts/engine/interact.rpy:313
     old "Думал, пообщаться..."
     new "Думал, пообщаться..."
+
+    # game/scripts/engine/interact.rpy:313
+    old "Хорошо на солнышке?"
+    new "Хорошо на солнышке?"
 
     # game/scripts/engine/interact.rpy:313
     old "Не хочешь поплавать?"
