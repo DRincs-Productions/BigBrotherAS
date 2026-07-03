@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-06-29 07:05\n"
+"PO-Revision-Date: 2026-07-03 15:31\n"
 
-# TODO: Translation updated at 2026-06-27 13:17 #|#|# # game/scripts/engine/interact.rpy:43 #-#-# translate crowdin talks_start_41e41361:
+# TODO: Translation updated at 2026-07-03 17:20 #|#|# # game/scripts/engine/interact.rpy:43 #-#-# translate crowdin talks_start_41e41361:
 msgid "[_Alice_s_00_] Ну же, Макс, что хотел? [nointeract]"
 msgstr "[_Alice_s_00_] Dai, Max, cosa vuoi? [nointeract]"
 
@@ -255,6 +255,10 @@ msgstr "Andiamo a comprarti un vestito..."
 # game/scripts/engine/interact.rpy:313
 msgid "Думал, пообщаться..."
 msgstr "Pensavo di fare due chiacchiere..."
+
+# game/scripts/engine/interact.rpy:313
+msgid "Хорошо на солнышке?"
+msgstr ""
 
 # game/scripts/engine/interact.rpy:313
 msgid "Не хочешь поплавать?"
