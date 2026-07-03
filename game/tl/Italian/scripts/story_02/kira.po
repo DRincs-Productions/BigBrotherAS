@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-07-02 15:23\n"
+"PO-Revision-Date: 2026-07-03 07:52\n"
 
 # TODO: Translation updated at 2026-06-22 22:36 #|#|# # game/scripts/story_02/kira.rpy:12 #-#-# translate crowdin ev2_003_06ac2f3b:
 msgid "[_Ann_s_02_] Ну что, вот и дождались... Встречайте, к нам приехала тётя Кира!"
@@ -534,11 +534,11 @@ msgstr "[_Max_s_05_] Wow! Va bene, adesso ci provo..."
 
 # game/scripts/story_02/kira.rpy:435 #-#-# translate crowdin ev2_009_da48c19c:
 msgid "[_Kira_s_05_] Ухх... Я и не думала, что находиться у вас в гостях будет настолько приятно! Даже не думай останавливаться."
-msgstr ""
+msgstr "[_Kira_s_05_] Mmm... Non avrei mai pensato che stare da voi sarebbe stato così piacevole! Non ci pensare nemmeno a fermarti."
 
 # game/scripts/story_02/kira.rpy:436 #-#-# translate crowdin ev2_009_0bf0382f:
 msgid "[_Max_s_04_] Ещё рано."
-msgstr ""
+msgstr "[_Max_s_04_] È ancora presto."
 
 # game/scripts/story_02/kira.rpy:440 #-#-# translate crowdin ev2_009_40a51359:
 msgid "[_tMax_s_06_] Блин, после таких фраз тётю хочется натереть маслом абсолютно везде! А кое-где я бы особенно хотел задержаться своими руками..."
