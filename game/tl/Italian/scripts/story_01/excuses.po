@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 15:39\n"
+"PO-Revision-Date: 2026-07-04 14:11\n"
 
-# TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/excuses.rpy:8 #-#-# translate crowdin tasty_open_alice_9d7c61dc:
+# TODO: Translation updated at 2026-07-03 17:21 #|#|# # game/scripts/story_01/excuses.rpy:8 #-#-# translate crowdin tasty_open_alice_9d7c61dc:
 msgid "[_tMax_s_13_] Фух... Остался жив и то хорошо! Но теперь нужно достать для Алисы какие-нибудь сладости."
 msgstr "[_tMax_s_13_] Uff... Sono vivo e vegeto! Ma ora dobbiamo portare ad Alice qualche dolcetto."
 
@@ -1096,55 +1096,55 @@ msgstr "[_Lisa_s_01_] Ok, ok, non c'è bisogno di continuare, ti credo."
 msgid "[_Max_s_01_] Вот и правильно. [nointeract]"
 msgstr "[_Max_s_01_] È la cosa giusta da fare. [nointeract]"
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/excuses.rpy:30
+# §translate crowdin strings: #|#|# # game/scripts/story_01/excuses.rpy:33
 msgid "конфеты «Ferrero Rocher» (16 штук)"
 msgstr "Caramelle Ferrero Rocher (16 pezzi)"
 
-# game/scripts/story_01/excuses.rpy:30
-msgid "шоколад «Ritter Sport» mini (9 штук)"
-msgstr "Ritter Sport mini cioccolato (9 pezzi)"
-
-# game/scripts/story_01/excuses.rpy:30
-msgid "конфеты «Raffaello» (16 штук)"
-msgstr "Caramelle Raffaello (16 pezzi)"
-
-# game/scripts/story_01/excuses.rpy:42
+# game/scripts/story_01/excuses.rpy:45
 msgid "Именно на это я и надеюсь..."
 msgstr "Questo è quello che spero..."
 
-# game/scripts/story_01/excuses.rpy:104
+# game/scripts/story_01/excuses.rpy:94
+msgid "шоколад «Ritter Sport» mini (9 штук)"
+msgstr "Ritter Sport mini cioccolato (9 pezzi)"
+
+# game/scripts/story_01/excuses.rpy:107
 msgid "Так я же случайно оказался около душа..."
 msgstr "Mi sono trovato per caso vicino alla doccia..."
 
-# game/scripts/story_01/excuses.rpy:328
+# game/scripts/story_01/excuses.rpy:152
+msgid "конфеты «Raffaello» (16 штук)"
+msgstr "Caramelle Raffaello (16 pezzi)"
+
+# game/scripts/story_01/excuses.rpy:331
 msgid "Только давай без вреда моему здоровью, ладно?"
 msgstr "Ma non danneggiamo la mia salute, ok?"
 
-# game/scripts/story_01/excuses.rpy:445
+# game/scripts/story_01/excuses.rpy:448
 msgid "{i}шоколад «Ritter Sport» mini (9 штук){/i}"
 msgstr "{i}cioccolato \"Ritter Sport\" mini (9 pezzi){/i}"
 
-# game/scripts/story_01/excuses.rpy:445
+# game/scripts/story_01/excuses.rpy:479
 msgid "{i}конфеты «Raffaello» (16 штук){/i}"
 msgstr "{i}Caramelle Raffaello (16 pezzi){/i}"
 
-# game/scripts/story_01/excuses.rpy:484
+# game/scripts/story_01/excuses.rpy:487
 msgid "Невиновного нужно обнимать в обязательном порядке..."
 msgstr "Un innocente dovrebbe essere abbracciato in modo obbligatorio..."
 
-# game/scripts/story_01/excuses.rpy:560
+# game/scripts/story_01/excuses.rpy:563
 msgid "Ещё как стоит!"
 msgstr "Ne vale la pena!"
 
-# game/scripts/story_01/excuses.rpy:599
+# game/scripts/story_01/excuses.rpy:649
 msgid "{i}шоколад «Ritter Sport» (4 штуки){/i}"
 msgstr "{i}Cioccolato Ritter Sport (4 pezzi){/i}"
 
-# game/scripts/story_01/excuses.rpy:799
+# game/scripts/story_01/excuses.rpy:802
 msgid "{i}принять от неё поцелуй{/i}"
 msgstr "{i}accettare un suo bacio{/i}"
 
-# game/scripts/story_01/excuses.rpy:799
+# game/scripts/story_01/excuses.rpy:821
 msgid "{i}поцеловать её в губы{/i}"
 msgstr "{i}baciarla sulle labbra{/i}"
 
