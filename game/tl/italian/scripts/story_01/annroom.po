@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 09:37\n"
+"PO-Revision-Date: 2026-07-04 14:07\n"
 
-# TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/annroom.rpy:12 #-#-# translate crowdin ev_ann_dressed_d0c78fcb:
+# TODO: Translation updated at 2026-07-03 17:20 #|#|# # game/scripts/story_01/annroom.rpy:12 #-#-# translate crowdin ev_ann_dressed_d0c78fcb:
 msgid "[_tMax_s_11_] Сейчас мама должна собираться на работу... [nointeract]"
 msgstr "[_tMax_s_11_] La mamma deve prepararsi per andare al lavoro... [nointeract]"
 
@@ -184,39 +184,39 @@ msgstr "[_tMax_s_04_] È così bello essere abbracciati e baciati da una donna s
 msgid "[_Ann_s_02_] До вечера, дорогой. Я побежала..."
 msgstr "[_Ann_s_02_] Ci vediamo stasera, tesoro. Io vado."
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/annroom.rpy:77
+# §translate crowdin strings: #|#|# # game/scripts/story_01/annroom.rpy:79
 msgid "{i}убежать{/i}"
 msgstr "{i}scappare{/i}"
 
-# game/scripts/story_01/annroom.rpy:108
+# game/scripts/story_01/annroom.rpy:110
 msgid "Конечно! А что, нельзя что ли?!"
 msgstr "Ma certo! Perché non posso?!"
 
-# game/scripts/story_01/annroom.rpy:108
+# game/scripts/story_01/annroom.rpy:131
 msgid "Нет, просто задумался и ноги сюда завели..."
 msgstr "No, ho solo riflettuto e le mie gambe mi hanno portato qui..."
 
-# game/scripts/story_01/annroom.rpy:159
+# game/scripts/story_01/annroom.rpy:161
 msgid "Конечно, мам. Не буду мешать..."
 msgstr "Certo, mamma. Starò fuori dai piedi..."
 
-# game/scripts/story_01/annroom.rpy:163
+# game/scripts/story_01/annroom.rpy:165
 msgid "{i}подождать за дверью, пока мама переоденется{/i}"
 msgstr "{i}Aspetta fuori dalla porta mentre la mamma si cambia.{/i}"
 
-# game/scripts/story_01/annroom.rpy:186
+# game/scripts/story_01/annroom.rpy:188
 msgid "Ухх... А пройтись в этом, как по подиуму можешь?"
 msgstr "Uh... Si può sfilare in passerella con questo modello?"
 
-# game/scripts/story_01/annroom.rpy:186
+# game/scripts/story_01/annroom.rpy:190
 msgid "Да, был вопросик, но от такой красоты я всё позабыл..."
 msgstr "Sì, c'era una domanda, ma con tutta la tua bellezza l'ho dimenticata..."
 
-# game/scripts/story_01/annroom.rpy:361
+# game/scripts/story_01/annroom.rpy:364
 msgid "{i}подползти ещё ближе{/i}"
 msgstr "{i}strisciare ancora più vicino{/i}"
 
-# game/scripts/story_01/annroom.rpy:361
+# game/scripts/story_01/annroom.rpy:374
 msgid "{i}тихонько уползти{/i}"
 msgstr "{i}allontanarsi silenziosamente{/i}"
 
@@ -224,11 +224,7 @@ msgstr "{i}allontanarsi silenziosamente{/i}"
 msgid "Навык «Скрытность» повышен до уровня 2!"
 msgstr "L'abilità «Furtività» è stata portata al livello 2!"
 
-# game/scripts/story_01/annroom.rpy:381
-msgid "Задание «{}» обновлено!"
-msgstr "L'assegnazione \"{}\" è stata aggiornata!"
-
-# game/scripts/story_01/annroom.rpy:442
+# game/scripts/story_01/annroom.rpy:444
 msgid "{i}подойти к маме{/i}"
 msgstr "{i}vai da mamma{/i}"
 

@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2026-02-19 09:33\n"
+"PO-Revision-Date: 2026-07-04 14:12\n"
 
-# TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/yoga.rpy:19 #-#-# translate crowdin forced_phys_ed_first_time_521877f4:
+# TODO: Translation updated at 2026-07-03 17:21 #|#|# # game/scripts/story_01/yoga.rpy:19 #-#-# translate crowdin forced_phys_ed_first_time_521877f4:
 msgid "[_Ann_s_11_] Макс, а ты почему не переоделся? У тебя же спортивная форма есть."
 msgstr "[_Ann_s_11_] Max, pourquoi n'as-tu pas changé de vêtements ? Tu as un uniforme de sport."
 
@@ -504,27 +504,27 @@ msgstr "[_tMax_s_05_] Uhhh... Maman est une femme tellement sexy ! Je n'en peux 
 msgid "[_Max_s_01_] Спасибо, мам."
 msgstr "[_Max_s_01_] Merci, maman."
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/yoga.rpy:202
+# §translate crowdin strings: #|#|# # game/scripts/story_01/yoga.rpy:204
 msgid "{i}снять верх{/i}"
 msgstr "{i}enlever le couvercle{/i}"
 
-# game/scripts/story_01/yoga.rpy:255
+# game/scripts/story_01/yoga.rpy:257
 msgid "{i}отжиматься{/i}"
 msgstr "{i}pompes{/i}"
 
-# game/scripts/story_01/yoga.rpy:286
+# game/scripts/story_01/yoga.rpy:288
 msgid "{i}приседать{/i}"
 msgstr "{i}squat{/i}"
 
-# game/scripts/story_01/yoga.rpy:300
+# game/scripts/story_01/yoga.rpy:303
 msgid "А ты подержишь меня за ноги?"
 msgstr "Voulez-vous me tenir les jambes ?"
 
-# game/scripts/story_01/yoga.rpy:300
-msgid "{i}качать пресс{/i}"
-msgstr "{i}pompage abs{/i}"
-
-# game/scripts/story_01/yoga.rpy:318
+# game/scripts/story_01/yoga.rpy:321
 msgid "{i}лучше рассмотреть её грудь{/i}"
 msgstr "{i}pour mieux voir ses seins."
+
+# game/scripts/story_01/yoga.rpy:364
+msgid "{i}качать пресс{/i}"
+msgstr "{i}pompage abs{/i}"
 

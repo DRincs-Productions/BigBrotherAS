@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2026-02-19 09:33\n"
+"PO-Revision-Date: 2026-07-03 15:30\n"
 
-# TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/school.rpy:11 #-#-# translate crowdin ev_004_1fe4b55c:
+# TODO: Translation updated at 2026-07-03 17:21 #|#|# # game/scripts/story_01/school.rpy:11 #-#-# translate crowdin ev_004_1fe4b55c:
 msgid "[_Lisa_s_01_] Эй, Макс, я пошла в школу. Надеюсь, у меня всё заладится с самого первого дня..."
 msgstr "[_Lisa_s_01_] Max, je vais à l'école. J'espère que je me débrouillerai bien dès le premier jour..."
 
@@ -760,19 +760,19 @@ msgstr ""
 msgid "[_tMax_s_04_] А там и я буду где-то неподалёку от них. Особенно, если новая школьная подружка Лизы решит оголиться, хе-хе... Буду с нетерпением этого ждать..."
 msgstr ""
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/school.rpy:44
+# §translate crowdin strings: #|#|# # game/scripts/story_01/school.rpy:46
 msgid "{i}ждать Лизу во дворе{/i}"
 msgstr "{i}attendre Lisa dans la cour{/i}"
 
-# game/scripts/story_01/school.rpy:61
+# game/scripts/story_01/school.rpy:63
 msgid "{i}идти к бассейну{/i}"
 msgstr "{i}aller à la piscine{/i}"
 
-# game/scripts/story_01/school.rpy:116
+# game/scripts/story_01/school.rpy:118
 msgid "Нет, поплаваю с тобой ещё немного..."
 msgstr "Non, je vais encore nager avec vous..."
 
-# game/scripts/story_01/school.rpy:116
+# game/scripts/story_01/school.rpy:143
 msgid "Ага. Пора делами заниматься..."
 msgstr "Il est temps de se mettre au travail..."
 

@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2026-02-19 09:40\n"
+"PO-Revision-Date: 2026-07-04 14:12\n"
 
-# TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/kitchen.rpy:16 #-#-# translate crowdin ev_alice_clean_e2fdb3e5:
+# TODO: Translation updated at 2026-07-03 17:21 #|#|# # game/scripts/story_01/kitchen.rpy:16 #-#-# translate crowdin ev_alice_clean_e2fdb3e5:
 msgid "[_Alice_s_01_] Неужели тебе надоело бездельничать и ты пришёл мне помочь? [nointeract]"
 msgstr ""
 
@@ -116,35 +116,35 @@ msgstr ""
 msgid "[_Ann_s_12_] Ну вот, а я уже понадеялась! Тогда не мешай... [nointeract]"
 msgstr ""
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/kitchen.rpy:63
+# §translate crowdin strings: #|#|# # game/scripts/story_01/kitchen.rpy:65
 msgid "Хочешь, я помогу тебе домыть посуду?"
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:63
+# game/scripts/story_01/kitchen.rpy:81
 msgid "Нет, просто мимо проходил..."
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:101
+# game/scripts/story_01/kitchen.rpy:102
 msgid "Ага, не вопрос. Сделаю."
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:101
-msgid "Нет, лучше давай сама..."
-msgstr ""
-
-# game/scripts/story_01/kitchen.rpy:116
+# game/scripts/story_01/kitchen.rpy:117
 msgid "{i}приступить к ужину{/i}"
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:141
+# game/scripts/story_01/kitchen.rpy:121
+msgid "Нет, лучше давай сама..."
+msgstr ""
+
+# game/scripts/story_01/kitchen.rpy:142
 msgid "{i}подойти и помочь{/i}"
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:141
-msgid "Хотя, нет, сейчас не могу..."
+# game/scripts/story_01/kitchen.rpy:176
+msgid "{i}приступить к завтраку{/i}"
 msgstr ""
 
-# game/scripts/story_01/kitchen.rpy:175
-msgid "{i}приступить к завтраку{/i}"
+# game/scripts/story_01/kitchen.rpy:180
+msgid "Хотя, нет, сейчас не могу..."
 msgstr ""
 

@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 09:37\n"
+"PO-Revision-Date: 2026-07-04 09:28\n"
 
-# TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/pool.rpy:11 #-#-# translate crowdin alice_swims_talk_2c2308f4:
+# TODO: Translation updated at 2026-07-03 17:21 #|#|# # game/scripts/story_01/pool.rpy:11 #-#-# translate crowdin alice_swims_talk_2c2308f4:
 msgid "[_Alice_s_01_] Может быть. А что, тоже хочешь? Ну, присоединяйся... [nointeract]"
-msgstr "[_Alice_s_01_] Forse. Perché, vuoi partecipare anche tu? Beh, unisciti a noi... [nointeract]"
+msgstr "[_Alice_s_01_] Forse. Cosa, vuoi unirti anche tu? Bene, entra pure... [nointeract]"
 
 # game/scripts/story_01/pool.rpy:19 #-#-# translate crowdin alice_swims_talk_8df2e30a:
 msgid "[_Alice_s_05_] Ухх, как водичка освежает! Такой отдых мне по душе. С огромной радостью только бы загорала и плавала весь день. [nointeract]"
@@ -292,63 +292,63 @@ msgstr "[_Ann_s_02_] Figliolo, facciamo un'altra nuotata o non ne hai voglia?"
 msgid "[_Max_s_01_] Ага. Мне нужно идти..."
 msgstr "[_Max_s_01_] Sì. Devo andare..."
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/pool.rpy:10
+# §translate crowdin strings: #|#|# # game/scripts/story_01/pool.rpy:12
 msgid "Здорово, что ты не против!"
 msgstr "È fantastico che non ti dispiaccia!"
 
-# game/scripts/story_01/pool.rpy:18
+# game/scripts/story_01/pool.rpy:20
 msgid "{i}поплавать с Алисой{/i}"
 msgstr "{i}nuotare con Alice{/i}"
 
-# game/scripts/story_01/pool.rpy:30
+# game/scripts/story_01/pool.rpy:33
 msgid "{i}любоваться{/i}"
 msgstr "{i}ammirare{/i}"
 
-# game/scripts/story_01/pool.rpy:75
+# game/scripts/story_01/pool.rpy:77
 msgid "{i}нырнуть под воду{/i}"
 msgstr "{i}immergersi sotto l'acqua{/i}"
 
-# game/scripts/story_01/pool.rpy:81
+# game/scripts/story_01/pool.rpy:84
 msgid "{i}вынырнуть и напугать Алису{/i}"
 msgstr "{i}emergere e spaventare Alice{/i}"
 
-# game/scripts/story_01/pool.rpy:81
-msgid "{i}вынырнуть и закончить плавать{/i}"
-msgstr "{i}tuffarsi e finire di nuotare{/i}"
-
-# game/scripts/story_01/pool.rpy:95
+# game/scripts/story_01/pool.rpy:97
 msgid "{i}закончить плавать{/i}"
 msgstr "{i}finire di nuotare{/i}"
 
-# game/scripts/story_01/pool.rpy:125
+# game/scripts/story_01/pool.rpy:105
+msgid "{i}вынырнуть и закончить плавать{/i}"
+msgstr "{i}tuffarsi e finire di nuotare{/i}"
+
+# game/scripts/story_01/pool.rpy:127
 msgid "С радостью!"
 msgstr "Con piacere!"
 
-# game/scripts/story_01/pool.rpy:133
+# game/scripts/story_01/pool.rpy:135
 msgid "{i}поплавать с Лизой{/i}"
 msgstr "{i}nuota con Lisa{/i}"
 
-# game/scripts/story_01/pool.rpy:194
+# game/scripts/story_01/pool.rpy:196
 msgid "{i}вынырнуть у неё между ног{/i}"
 msgstr "{i}emergere tra le sue gambe{/i}"
 
-# game/scripts/story_01/pool.rpy:239
+# game/scripts/story_01/pool.rpy:241
 msgid "{i}любоваться мамой{/i}"
 msgstr "{i}ammira la mamma{/i}"
 
-# game/scripts/story_01/pool.rpy:283
+# game/scripts/story_01/pool.rpy:285
 msgid "Конечно хочу!"
 msgstr "Naturalmente!"
 
-# game/scripts/story_01/pool.rpy:291
+# game/scripts/story_01/pool.rpy:293
 msgid "{i}поплавать с мамой{/i}"
 msgstr "{i}nuota con la mamma{/i}"
 
-# game/scripts/story_01/pool.rpy:321
+# game/scripts/story_01/pool.rpy:323
 msgid "Я тоже так думаю!"
 msgstr "Lo penso anch'io!"
 
-# game/scripts/story_01/pool.rpy:354
+# game/scripts/story_01/pool.rpy:357
 msgid "{i}вынырнуть и обрызгать маму{/i}"
 msgstr "{i}Emergere e spruzzare mamma{/i}"
 

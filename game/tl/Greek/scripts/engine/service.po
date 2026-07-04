@@ -10,25 +10,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2026-02-19 09:35\n"
+"PO-Revision-Date: 2026-07-04 14:06\n"
 
-# TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/engine/service.rpy:79 #-#-# translate crowdin nothing_to_do_423a776a:
+# TODO: Translation updated at 2026-07-03 17:20 #|#|# # game/scripts/engine/service.rpy:90 #-#-# translate crowdin nothing_to_do_423a776a:
 msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
 msgstr ""
 
-# game/scripts/engine/service.rpy:506 #-#-# translate crowdin after_buy_388f9ec2:
+# game/scripts/engine/service.rpy:584 #-#-# translate crowdin after_buy_388f9ec2:
 msgid "[_tMax_s_12_] Да уж... Пришлось раскошелиться... Надеюсь, благодаря этой книге мне удастся создать свой сайт и хорошо заработать."
 msgstr ""
 
-# game/scripts/engine/service.rpy:507 #-#-# translate crowdin after_buy_1673198b:
+# game/scripts/engine/service.rpy:585 #-#-# translate crowdin after_buy_1673198b:
 msgid "[_tMax_s_01_] Но книгу, как и другие товары, заказанные в интернете, доставят только завтра. Поэтому пока можно отдохнуть..."
 msgstr ""
 
-# game/scripts/engine/service.rpy:521 #-#-# translate crowdin webcam_show_8e2c7b14:
+# game/scripts/engine/service.rpy:605 #-#-# translate crowdin webcam_show_8e2c7b14:
 msgid "[_tMax_s_11_] Прилягу-ка я на кровать, чтобы Лиза не увидела ничего такого..."
 msgstr "[_tMax_s_11_] Πάω να ξαπλώσω στο κρεβάτι για να μην τα δει όλα αυτά η Λίζα..."
 
-# game/scripts/engine/service.rpy:528 #-#-# translate crowdin webcam_show_2717e9a0:
+# game/scripts/engine/service.rpy:612 #-#-# translate crowdin webcam_show_2717e9a0:
 msgid "[_tMax_s_11_] Прилягу-ка я на кровать, чтобы Лиза не увидела ничего такого, если зайдёт в комнату..."
 msgstr "[_tMax_s_11_] Θα ξαπλώσω στο κρεβάτι, ώστε η Λίζα να μην τα δει όλα αυτά αν μπει στο δωμάτιο..."
+
+# §translate crowdin strings: #|#|# # game/scripts/engine/service.rpy:587
+msgid "Способ заработать"
+msgstr ""
+
+# game/scripts/engine/service.rpy:592
+msgid "Маслице для загара"
+msgstr ""
 

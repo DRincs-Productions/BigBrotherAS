@@ -10,127 +10,127 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2026-02-19 09:33\n"
+"PO-Revision-Date: 2026-07-04 14:13\n"
 
-# TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/screens/collection.rpy:751 #-#-# translate crowdin compile_puzzle_start_e29c0251:
+# TODO: Translation updated at 2026-07-03 17:20 #|#|# # game/scripts/screens/collection.rpy:754 #-#-# translate crowdin compile_puzzle_start_e29c0251:
 msgid "Данное изображение разбито на множество фрагментов."
 msgstr "Cette image est brisée en plusieurs fragments."
 
-# game/scripts/screens/collection.rpy:752 #-#-# translate crowdin compile_puzzle_start_70f9d915:
+# game/scripts/screens/collection.rpy:755 #-#-# translate crowdin compile_puzzle_start_70f9d915:
 msgid "Чтобы правильно его собрать, вам потребуется поворачивать эти фрагменты (при нажатии) и перемещать их (зажать и перетащить в другое место)."
 msgstr "Pour l'assembler correctement, vous devrez faire pivoter ces pièces (en cliquant) et les déplacer (en les pinçant et en les faisant glisser vers un autre endroit)."
 
-# game/scripts/screens/collection.rpy:755 #-#-# translate crowdin compile_puzzle_start_600592cc:
+# game/scripts/screens/collection.rpy:758 #-#-# translate crowdin compile_puzzle_start_600592cc:
 msgid "Если окантовка фрагмента красного цвета, то его нужно переместить и повернуть."
 msgstr ""
 
-# game/scripts/screens/collection.rpy:756 #-#-# translate crowdin compile_puzzle_start_96342d1d:
+# game/scripts/screens/collection.rpy:759 #-#-# translate crowdin compile_puzzle_start_96342d1d:
 msgid "Если окантовка фрагмента оранжевого цвета, то его нужно только переместить."
 msgstr ""
 
-# game/scripts/screens/collection.rpy:757 #-#-# translate crowdin compile_puzzle_start_4522cd23:
+# game/scripts/screens/collection.rpy:760 #-#-# translate crowdin compile_puzzle_start_4522cd23:
 msgid "Если окантовка фрагмента голубого цвета, то его нужно только повернуть."
 msgstr ""
 
-# game/scripts/screens/collection.rpy:793 #-#-# translate crowdin compile_puzzle_win_77c1ec18:
+# game/scripts/screens/collection.rpy:796 #-#-# translate crowdin compile_puzzle_win_77c1ec18:
 msgid "Головоломка решена!"
 msgstr "Puzzle résolu !"
 
-# game/scripts/screens/collection.rpy:794 #-#-# translate crowdin compile_puzzle_win_7e7566c8:
+# game/scripts/screens/collection.rpy:797 #-#-# translate crowdin compile_puzzle_win_7e7566c8:
 msgid "Данное изображение можно в любой момент просмотреть в Галерее."
 msgstr "Cette image peut être consultée à tout moment dans la galerie."
 
-# §translate crowdin strings: #|#|# # game/scripts/screens/collection.rpy:141
+# §translate crowdin strings: #|#|# # game/scripts/screens/collection.rpy:144
 msgid "Предыдущая"
 msgstr "Précédent"
 
-# game/scripts/screens/collection.rpy:146
+# game/scripts/screens/collection.rpy:149
 msgid "Удивлённая"
 msgstr "Surpris"
 
-# game/scripts/screens/collection.rpy:148
+# game/scripts/screens/collection.rpy:151
 msgid "Сердитая"
 msgstr "En colère"
 
-# game/scripts/screens/collection.rpy:150
+# game/scripts/screens/collection.rpy:153
 msgid "Сильно стесняющаяся"
 msgstr "Très conscient de soi"
 
-# game/scripts/screens/collection.rpy:152
+# game/scripts/screens/collection.rpy:155
 msgid "Стесняющаяся"
 msgstr "Timide"
 
-# game/scripts/screens/collection.rpy:154
+# game/scripts/screens/collection.rpy:157
 msgid "!!! ОШИБКА !!!"
 msgstr "! !! ERREUR ! !!"
 
-# game/scripts/screens/collection.rpy:173
+# game/scripts/screens/collection.rpy:176
 msgid "Следующая"
 msgstr "Suivant"
 
-# game/scripts/screens/collection.rpy:204
+# game/scripts/screens/collection.rpy:207
 msgid "Макс ещё не видел Алису такой!"
 msgstr "Max n'avait jamais vu Alice comme ça !"
 
-# game/scripts/screens/collection.rpy:206
+# game/scripts/screens/collection.rpy:209
 msgid "Макс ещё не видел маму такой!"
 msgstr "Max n'a jamais vu sa mère dans cet état !"
 
-# game/scripts/screens/collection.rpy:208
+# game/scripts/screens/collection.rpy:211
 msgid "Макс ещё не видел Лизу такой!"
 msgstr "Max n'avait jamais vu Lisa comme ça !"
 
-# game/scripts/screens/collection.rpy:210
+# game/scripts/screens/collection.rpy:213
 msgid "Макс ещё не видел Мию такой!"
 msgstr ""
 
-# game/scripts/screens/collection.rpy:262
+# game/scripts/screens/collection.rpy:265
 msgid "Все персонажи"
 msgstr ""
 
-# game/scripts/screens/collection.rpy:343
+# game/scripts/screens/collection.rpy:346
 msgid "Макс скоро увидит этот сон, нужно просто немного подождать..."
 msgstr ""
 
-# game/scripts/screens/collection.rpy:352
+# game/scripts/screens/collection.rpy:355
 msgid "СОН #[tooltip]"
 msgstr ""
 
-# game/scripts/screens/collection.rpy:368
+# game/scripts/screens/collection.rpy:371
 msgid "Выполнено [number] из [total]"
 msgstr "Exécuté [nombre] de [total]"
 
-# game/scripts/screens/collection.rpy:532
+# game/scripts/screens/collection.rpy:535
 msgid "ГОЛОВОЛОМКА"
 msgstr "PARLER"
 
-# game/scripts/screens/collection.rpy:548
+# game/scripts/screens/collection.rpy:551
 msgid "Изображение, разбитое на фрагменты ([cols]x[rows])"
 msgstr "Image divisée en tranches ([cols]x[lignes])"
 
-# game/scripts/screens/collection.rpy:553
+# game/scripts/screens/collection.rpy:556
 msgid "{i}Решать головоломку{/i}"
 msgstr "{i}Résoudre l'énigme{/i}"
 
-# game/scripts/screens/collection.rpy:557
+# game/scripts/screens/collection.rpy:560
 msgid "{i}Просмотреть изображение{/i}"
 msgstr "{i}Voir l'image{/i}"
 
-# game/scripts/screens/collection.rpy:598
+# game/scripts/screens/collection.rpy:601
 msgid "Добавить в событие"
 msgstr "Ajouter à l'événement"
 
-# game/scripts/screens/collection.rpy:655
+# game/scripts/screens/collection.rpy:658
 msgid "Собрать повторно"
 msgstr ""
 
-# game/scripts/screens/collection.rpy:772
+# game/scripts/screens/collection.rpy:775
 msgid "Прогресс с головоломкой будет утерян.\n"
 "Вы уверены, что хотите вернуться в Галерею?"
 msgstr "La progression de l'énigme sera perdue.\n"
 "Êtes-vous sûr de vouloir retourner à la galerie ?"
 
-# game/scripts/screens/collection.rpy:950
+# game/scripts/screens/collection.rpy:953
 msgid "НАСТРОЙКИ"
 msgstr "PARAMÈTRES"
 

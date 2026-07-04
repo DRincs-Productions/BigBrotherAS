@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 09:36\n"
+"PO-Revision-Date: 2026-07-04 14:06\n"
 
-# TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/definitions.rpy:24
+# TODO: Translation updated at 2026-07-03 17:21 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/definitions.rpy:24
 msgid "Макса"
 msgstr "Max"
 
@@ -36,35 +36,39 @@ msgstr "Eric"
 msgid "Мии"
 msgstr "Mia"
 
-# game/scripts/engine/definitions.rpy:34
+# game/scripts/engine/definitions.rpy:30
+msgid "Киры"
+msgstr "Kira"
+
+# game/scripts/engine/definitions.rpy:35
 msgid "Комната Макса и Лизы"
 msgstr "Camera di Max e Lisa"
 
-# game/scripts/engine/definitions.rpy:34
+# game/scripts/engine/definitions.rpy:35
 msgid "Комната Алисы"
 msgstr "Camera di Alice"
 
-# game/scripts/engine/definitions.rpy:34
+# game/scripts/engine/definitions.rpy:35
 msgid "Комната Анны"
 msgstr "Camera di Anna"
 
-# game/scripts/engine/definitions.rpy:34
+# game/scripts/engine/definitions.rpy:35
 msgid "Ванная комната"
 msgstr "Bagno"
 
-# game/scripts/engine/definitions.rpy:34
+# game/scripts/engine/definitions.rpy:35
 msgid "Гостиная"
 msgstr "Soggiorno"
 
-# game/scripts/engine/definitions.rpy:34
+# game/scripts/engine/definitions.rpy:35
 msgid "Веранда"
 msgstr "Veranda"
 
-# game/scripts/engine/definitions.rpy:34
+# game/scripts/engine/definitions.rpy:35
 msgid "Двор"
 msgstr "Cortile"
 
-# game/scripts/engine/definitions.rpy:44
+# game/scripts/engine/definitions.rpy:45
 msgid "Спальня"
 msgstr "Camera da letto"
 

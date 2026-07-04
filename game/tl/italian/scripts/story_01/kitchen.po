@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-02-19 09:37\n"
+"PO-Revision-Date: 2026-07-04 14:11\n"
 
-# TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/kitchen.rpy:16 #-#-# translate crowdin ev_alice_clean_e2fdb3e5:
+# TODO: Translation updated at 2026-07-03 17:21 #|#|# # game/scripts/story_01/kitchen.rpy:16 #-#-# translate crowdin ev_alice_clean_e2fdb3e5:
 msgid "[_Alice_s_01_] Неужели тебе надоело бездельничать и ты пришёл мне помочь? [nointeract]"
 msgstr "[_Alice_s_01_] Ne hai abbastanza di oziare e vieni ad aiutarmi? [nointeract]"
 
@@ -116,35 +116,35 @@ msgstr "[_tMax_s_11_] È possibile resistere a mangiare tutto senza aspettare gl
 msgid "[_Ann_s_12_] Ну вот, а я уже понадеялась! Тогда не мешай... [nointeract]"
 msgstr "[_Ann_s_12_] Beh, mi stavo illudendo! Allora non intralciarmi... [nointeract]"
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/kitchen.rpy:63
+# §translate crowdin strings: #|#|# # game/scripts/story_01/kitchen.rpy:65
 msgid "Хочешь, я помогу тебе домыть посуду?"
 msgstr "Vuoi che ti aiuti a finire i piatti?"
 
-# game/scripts/story_01/kitchen.rpy:63
+# game/scripts/story_01/kitchen.rpy:81
 msgid "Нет, просто мимо проходил..."
 msgstr "No, solo di passaggio..."
 
-# game/scripts/story_01/kitchen.rpy:101
+# game/scripts/story_01/kitchen.rpy:102
 msgid "Ага, не вопрос. Сделаю."
 msgstr "Sì, non c'è dubbio. Fare."
 
-# game/scripts/story_01/kitchen.rpy:101
-msgid "Нет, лучше давай сама..."
-msgstr "No, preferirei andare da solo..."
-
-# game/scripts/story_01/kitchen.rpy:116
+# game/scripts/story_01/kitchen.rpy:117
 msgid "{i}приступить к ужину{/i}"
 msgstr "{i}per iniziare la cena{/i}"
 
-# game/scripts/story_01/kitchen.rpy:141
+# game/scripts/story_01/kitchen.rpy:121
+msgid "Нет, лучше давай сама..."
+msgstr "No, preferirei andare da solo..."
+
+# game/scripts/story_01/kitchen.rpy:142
 msgid "{i}подойти и помочь{/i}"
 msgstr "{i}Vai a dare una mano{/i}"
 
-# game/scripts/story_01/kitchen.rpy:141
-msgid "Хотя, нет, сейчас не могу..."
-msgstr "Anche se, no, ora non posso..."
-
-# game/scripts/story_01/kitchen.rpy:175
+# game/scripts/story_01/kitchen.rpy:176
 msgid "{i}приступить к завтраку{/i}"
 msgstr "{i}fare colazione{/i}"
+
+# game/scripts/story_01/kitchen.rpy:180
+msgid "Хотя, нет, сейчас не могу..."
+msgstr "Anche se, no, ora non posso..."
 

@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2026-02-19 09:33\n"
+"PO-Revision-Date: 2026-07-04 14:12\n"
 
-# TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/max_learning.rpy:8 #-#-# translate crowdin ev_029_47925c16:
+# TODO: Translation updated at 2026-07-03 17:21 #|#|# # game/scripts/story_01/max_learning.rpy:8 #-#-# translate crowdin ev_029_47925c16:
 msgid "[_Max_s_00_] Пришло время почитать... [nointeract]"
 msgstr "[_Max_s_00_] Il est temps de lire... [nointeract]"
 
@@ -88,15 +88,15 @@ msgstr "[Je dois juste convaincre Alice que se déshabiller sur une webcam n'est
 msgid "[_Max_s_11_] Хорошая штука эти онлайн-курсы. Можно научиться всему, не выходя из дома! Вот только и стоит это немало..."
 msgstr "[_Max_s_11_] L'avantage de ces cours en ligne. Vous pouvez tout apprendre dans le confort de votre maison ! Mais cela coûte cher...."
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/max_learning.rpy:7
+# §translate crowdin strings: #|#|# # game/scripts/story_01/max_learning.rpy:9
 msgid "{i}читать «Веб-стандарты»{/i}"
 msgstr "{i}lire «Normes Web«{/i}"
 
-# game/scripts/story_01/max_learning.rpy:7
+# game/scripts/story_01/max_learning.rpy:12
 msgid "{i}читать «Секс-образование»{/i}"
 msgstr "{i}lire \"Éducation sexuelle\" {/i}"
 
-# game/scripts/story_01/max_learning.rpy:7
+# game/scripts/story_01/max_learning.rpy:17
 msgid "Как-то не хочется. В другой раз..."
 msgstr "Je n'en ai pas envie. Une autre fois."
 
