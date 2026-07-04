@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-07-03 15:31\n"
+"PO-Revision-Date: 2026-07-04 09:28\n"
 
 # TODO: Translation updated at 2026-07-03 17:20 #|#|# # game/scripts/engine/interact.rpy:43 #-#-# translate crowdin talks_start_41e41361:
 msgid "[_Alice_s_00_] Ну же, Макс, что хотел? [nointeract]"
@@ -258,7 +258,7 @@ msgstr "Pensavo di fare due chiacchiere..."
 
 # game/scripts/engine/interact.rpy:313
 msgid "Хорошо на солнышке?"
-msgstr ""
+msgstr "Si sta bene al sole?"
 
 # game/scripts/engine/interact.rpy:313
 msgid "Не хочешь поплавать?"
