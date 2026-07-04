@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2026-02-19 09:40\n"
+"PO-Revision-Date: 2026-07-04 14:10\n"
 
-# TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/aliceroom.rpy:12 #-#-# translate crowdin ev_alice_dressed_51996b14:
+# TODO: Translation updated at 2026-07-03 17:20 #|#|# # game/scripts/story_01/aliceroom.rpy:12 #-#-# translate crowdin ev_alice_dressed_51996b14:
 msgid "[_tMax_s_11_] Сейчас Алиса должна собираться, чтобы отправиться вместе со всеми по магазинам... [nointeract]"
 msgstr ""
 
@@ -120,39 +120,39 @@ msgstr ""
 msgid "[_Max_s_01_] Да больно надо. Смотри, чтобы голову не напекло!"
 msgstr ""
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/aliceroom.rpy:18
+# §translate crowdin strings: #|#|# # game/scripts/story_01/aliceroom.rpy:19
 msgid "{i}постучаться{/i}"
 msgstr ""
 
-# game/scripts/story_01/aliceroom.rpy:18
+# game/scripts/story_01/aliceroom.rpy:21
 msgid "{i}войти в комнату{/i}"
 msgstr ""
 
-# game/scripts/story_01/aliceroom.rpy:18
+# game/scripts/story_01/aliceroom.rpy:23
 msgid "{i}приоткрыть дверь{/i}"
 msgstr ""
 
-# game/scripts/story_01/aliceroom.rpy:62
+# game/scripts/story_01/aliceroom.rpy:64
 msgid "{i}тихонько уйти{/i}"
 msgstr ""
 
-# game/scripts/story_01/aliceroom.rpy:80
+# game/scripts/story_01/aliceroom.rpy:82
 msgid "Давай играть, кто больше одежды снимет?"
 msgstr ""
 
-# game/scripts/story_01/aliceroom.rpy:93
+# game/scripts/story_01/aliceroom.rpy:95
 msgid "Понял. Не буду мешать..."
 msgstr ""
 
-# game/scripts/story_01/aliceroom.rpy:97
+# game/scripts/story_01/aliceroom.rpy:99
 msgid "{i}подождать за дверью, пока Алиса переоденется{/i}"
 msgstr ""
 
-# game/scripts/story_01/aliceroom.rpy:256
+# game/scripts/story_01/aliceroom.rpy:258
 msgid "{i}прокрасться в комнату{/i}"
 msgstr ""
 
-# game/scripts/story_01/aliceroom.rpy:264
+# game/scripts/story_01/aliceroom.rpy:266
 msgid "{i}подложить паука к Алисе{/i}"
 msgstr ""
 
