@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2026-02-19 09:32\n"
+"PO-Revision-Date: 2026-07-04 14:11\n"
 
-# TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/intro.rpy:8 #-#-# translate crowdin intro_52864ee0:
+# TODO: Translation updated at 2026-07-03 17:21 #|#|# # game/scripts/story_01/intro.rpy:8 #-#-# translate crowdin intro_52864ee0:
 msgid "[_Max_s_01_] Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку. [nointeract]"
 msgstr "[_Max_s_01_] Je m'appelle Max. Je suis un homme ordinaire issu d'une famille ordinaire. Normal. normal. Mais de qui je me moque ? Il n'y a pas beaucoup de normalité dans ma famille. Mais commençons par le commencement. [nointeract]"
 
@@ -132,27 +132,27 @@ msgstr "[_Max_s_13_] Au bout d'une semaine, une partie de nos affaires de l'anci
 msgid "[_Max_s_11_] Мама устроилась на новую работу. Лиза пошла в местную школу. Алиса так и сидит в своём ноуте, а я... На этом мой рассказ заканчивается и начинается что-то новое и интересное! [nointeract]"
 msgstr "[_Max_s_11_] Maman a trouvé un nouvel emploi. Lisa est allée à l'école locale. Alice est toujours assise sur son ordinateur portable et I.... C'est la fin de mon histoire et le début de quelque chose de nouveau et d'intéressant ! [nointeract]"
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/intro.rpy:7
+# §translate crowdin strings: #|#|# # game/scripts/story_01/intro.rpy:9
 msgid "{i}далее{/i}"
 msgstr "{i}suivant{/i}"
 
-# game/scripts/story_01/intro.rpy:7
+# game/scripts/story_01/intro.rpy:12
 msgid "{i}пропустить пролог{/i}"
 msgstr ""
 
-# game/scripts/story_01/intro.rpy:43
+# game/scripts/story_01/intro.rpy:45
 msgid "{i}несколько недель спустя...{/i}"
 msgstr "{i}Quelques semaines plus tard...{/i}"
 
-# game/scripts/story_01/intro.rpy:62
+# game/scripts/story_01/intro.rpy:64
 msgid "{i}спустя неделю...{/i}"
 msgstr "{i}une semaine plus tard... {/i}"
 
-# game/scripts/story_01/intro.rpy:69
+# game/scripts/story_01/intro.rpy:71
 msgid "{i}начать игру (Глава 1){/i}"
 msgstr ""
 
-# game/scripts/story_01/intro.rpy:69
+# game/scripts/story_01/intro.rpy:74
 msgid "{i}пройти обучение{/i}"
 msgstr ""
 
