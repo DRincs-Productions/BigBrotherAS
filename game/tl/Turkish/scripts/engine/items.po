@@ -10,145 +10,145 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2026-02-19 09:39\n"
+"PO-Revision-Date: 2026-07-04 14:09\n"
 
-# TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/items.rpy:235
+# TODO: Translation updated at 2026-07-03 17:21 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/items.rpy:238
 msgid "Одежда"
 msgstr "Giyim"
 
-# game/scripts/engine/items.rpy:235
+# game/scripts/engine/items.rpy:238
 msgid "Книги"
 msgstr "Kitaplar"
 
-# game/scripts/engine/items.rpy:235
+# game/scripts/engine/items.rpy:238
 msgid "Продукты"
 msgstr "Ürünler"
 
-# game/scripts/engine/items.rpy:235
+# game/scripts/engine/items.rpy:238
 msgid "Электроника"
 msgstr "Elektronik"
 
-# game/scripts/engine/items.rpy:235
+# game/scripts/engine/items.rpy:238
 msgid "Товары 18+"
 msgstr "18+ ürünler"
 
-# game/scripts/engine/items.rpy:235
+# game/scripts/engine/items.rpy:238
 msgid "Косметика"
 msgstr "Kozmetik"
 
-# game/scripts/engine/items.rpy:235
+# game/scripts/engine/items.rpy:238
 msgid "Украшения"
 msgstr "Mücevherat"
 
-# game/scripts/engine/items.rpy:235
+# game/scripts/engine/items.rpy:238
 msgid "Другое"
 msgstr "Diğer"
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Паук"
 msgstr "Örümcek"
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Самое страшное существо на свете. С точки зрения Алисы, конечно. Нужно этим воспользоваться в подходящий момент!"
 msgstr "Dünyadaki en korkunç yaratık. Alice'in bakış açısından tabii ki. Doğru zaman geldiğinde bundan faydalanmalıyız!"
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Скрытая камера"
 msgstr "Gizli kamera"
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Высокотехнологичная микро-камера, предназначенная для скрытного наблюдения. Имеет радиомодуль для беспроводной передачи зашифрованного цифрового видеосигнала."
 msgstr "Gizli gözetleme için tasarlanmış yüksek teknolojili bir mikro kamera. Şifrelenmiş dijital video sinyalinin kablosuz iletimi için bir radyo modülüne sahiptir."
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Стремянка"
 msgstr "Basamaklı Merdiven"
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Небольшая стремянка, позволяющая достать то, для чего не хватает роста."
 msgstr ""
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Масло для загара"
 msgstr "Bronzlaştırıcı yağ"
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Лёгкий, хорошо впитывающийся препарат для ускорения загара обладает увлажняющими и защитными свойствами. Рекомендуется для применения на пляже и в солярии."
 msgstr "Nemlendirici ve koruyucu özelliklere sahip hafif, yüksek emiciliğe sahip bronzlaşma hızlandırıcı. Plajda ve solaryumda kullanım için önerilir."
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Комплект тёмного нижнего белья"
 msgstr "Koyu renk iç çamaşırı takımı"
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Нижнее бельё тёмного цвета и отличного качества. Прекрасный подарок для любимой девушки, который предаст ей ещё больше сексуальности."
 msgstr "Koyu renkli ve mükemmel kalitede iç çamaşırı. En sevdiğiniz kız için onu daha da seksi kılacak mükemmel bir hediye."
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Шоколад «Ritter Sport» mini (9 штук)"
 msgstr ""
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Шоколадное наслаждение для каждого случая... Множество лакомых сортов с лучшими ингредиентами со всего мира."
 msgstr "Her durum için bir çikolata lezzeti... Dünyanın dört bir yanından gelen en iyi malzemelerle birçok lezzetli çeşit."
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Шоколад «Ritter Sport» (4 штуки)"
 msgstr ""
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Конфеты «Raffaello» (16 штук)"
 msgstr ""
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Хрустящие кокосовые конфеты с цельным миндальным орехом. Вместо тысячи слов..."
 msgstr "Bütün bademli çıtır hindistan cevizi şekeri. Binlerce kelime yerine..."
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Конфеты «Raffaello» (24 штуки)"
 msgstr ""
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Конфеты «Ferrero Rocher» (16 штук)"
 msgstr ""
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Сочетание цельного фундука и восхитительного сливочно-орехового крема в хрустящей вафельной оболочке подарит вам неповторимые вкусовые ощущения."
 msgstr "Bütün fındık ve lezzetli kremalı fındık kremasının çıtır gofret kabuğundaki birleşimi size eşsiz bir lezzet deneyimi yaşatacak."
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Конфеты «Ferrero Rocher» (24 штуки)"
 msgstr ""
 
-# game/scripts/engine/items.rpy:246
-msgid "Шёлковый халат"
-msgstr "İpek sabahlık"
-
-# game/scripts/engine/items.rpy:246
-msgid "Короткий, лёгкий, почти шёлковый халат высшего качества."
-msgstr "En yüksek kalitede kısa, hafif, neredeyse ipek bir sabahlık."
-
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Веб-стандарты"
 msgstr "Web standartları"
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Книга рассказывает о способах создавать свои сайты, работающие на любых устройствах."
 msgstr "Kitap, herhangi bir cihazda çalışan kendi web sitelerinizi oluşturmanın yollarını kapsıyor."
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Секс-образование"
 msgstr "Cinsel eğitim"
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Книга обо всём, связанным с сексом. Отлично подходит для обучения подрастающего поколения."
 msgstr "Seksle ilgili her şey hakkında bir kitap. Genç nesillere öğretmek için harika."
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "USB-флешка"
 msgstr "USB bellek"
 
-# game/scripts/engine/items.rpy:246
+# game/scripts/engine/items.rpy:249
 msgid "Устройство для хранения и переноса цифровых данных. В данный момент, может быть использована для достижения некоторых целей."
 msgstr "Dijital verilerin depolanması ve aktarılması için bir cihaz. Şu anda bazı amaçları yerine getirmek için kullanılabilir."
+
+# game/scripts/engine/items.rpy:249
+msgid "Шёлковый халат"
+msgstr "İpek sabahlık"
+
+# game/scripts/engine/items.rpy:249
+msgid "Короткий, лёгкий, почти шёлковый халат высшего качества."
+msgstr "En yüksek kalitede kısa, hafif, neredeyse ipek bir sabahlık."
 
