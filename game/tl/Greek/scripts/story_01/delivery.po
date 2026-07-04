@@ -10,17 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2026-02-19 09:35\n"
+"PO-Revision-Date: 2026-07-04 14:11\n"
 
-# TODO: Translation updated at 2026-02-19 00:46 #|#|# # game/scripts/story_01/delivery.rpy:29 #-#-# translate crowdin ev_delivery_eb6a6385:
+# TODO: Translation updated at 2026-07-03 17:20 #|#|# # game/scripts/story_01/delivery.rpy:32 #-#-# translate crowdin ev_delivery_eb6a6385:
 msgid "[_tMax_s_11_] Звонок в ворота! Похоже, к нам кто-то приехал..."
 msgstr ""
 
-# game/scripts/story_01/delivery.rpy:33 #-#-# translate crowdin ev_delivery_56e163cf:
+# game/scripts/story_01/delivery.rpy:36 #-#-# translate crowdin ev_delivery_56e163cf:
 msgid "[_tMax_s_03_] Отлично! Привезли то, что я заказывал. Это [txt]."
 msgstr ""
 
-# §translate crowdin strings: #|#|# # game/scripts/story_01/delivery.rpy:73
+# §translate crowdin strings: #|#|# # game/scripts/story_01/delivery.rpy:74
 msgid "Заказанные товары доставлены"
 msgstr ""
 
