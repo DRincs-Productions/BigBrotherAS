@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-07-04 13:53\n"
+"PO-Revision-Date: 2026-07-04 14:08\n"
 
 # TODO: Translation updated at 2026-07-03 17:21 #|#|# # game/scripts/story_02/kira.rpy:12 #-#-# translate crowdin ev2_003_06ac2f3b:
 msgid "[_Ann_s_02_] Ну что, вот и дождались... Встречайте, к нам приехала тётя Кира!"
@@ -850,47 +850,47 @@ msgstr "[_Kira_s_01_] Anche a te, Max. Però mi raccomando, non sbirciare. Dai, 
 
 # game/scripts/story_02/kira.rpy:617 #-#-# translate crowdin ev2_010_0353afaf:
 msgid "[_tMax_s_04_] Да уж... До сих пор не вериться в то, что сейчас было! Повезло мне с тётей..."
-msgstr ""
+msgstr "[_tMax_s_04_] Cavolo... Non riesco ancora a credere a quello che è appena successo! Che fortuna avere una zia così..."
 
 # game/scripts/story_02/kira.rpy:621 #-#-# translate crowdin ev2_010_a07e1f6c:
 msgid "[_tMax_s_02_] А подсмотреть-то хочется... Но сделаю я это, пожалуй, через скрытую камеру, чтобы уж точно ничем ей не помешать..."
-msgstr ""
+msgstr "[_tMax_s_02_] Però la voglia di sbirciare c'è... Ma quasi quasi lo faccio con la telecamera nascosta, così di sicuro non la disturberò in alcun modo..."
 
 # game/scripts/story_02/kira.rpy:625 #-#-# translate crowdin ev2_010_c328294f:
 msgid "[_tMax_s_05_] Эх... Вот продержался бы я хоть немного дольше и, возможно, наблюдал бы сейчас это сидя рядом с ней."
-msgstr ""
+msgstr "[_tMax_s_05_] Ah... Se avessi resistito un po' di più, magari a quest'ora starei guardando tutto questo seduto di fianco a lei."
 
 # game/scripts/story_02/kira.rpy:626 #-#-# translate crowdin ev2_010_e04e23a5:
 msgid "[_tMax_s_11_] В следующий раз нужно будет как-то умудриться до такой степени не перевозбудиться. Уж очень интересно, насколько сильно тётя Кира может потерять голову."
-msgstr ""
+msgstr "[_tMax_s_11_] La prossima volta dovrò in qualche modo riuscire a non eccitarmi così tanto. Sono troppo curioso di vedere fino a che punto zia Kira possa perdere la testa."
 
 # game/scripts/story_02/kira.rpy:630 #-#-# translate crowdin ev2_010_db50267f:
 msgid "[_tMax_s_13_] Но это будет уже в следующем обновлении, v0.12. Опять ждать..."
-msgstr ""
+msgstr "[_tMax_s_13_] Ma questo arriverà solo con il prossimo aggiornamento, la v0.12. Tocca aspettare ancora..."
 
 # §translate crowdin strings: #|#|# # game/scripts/story_02/kira.rpy:24
 msgid "Дайте мне с любимой тётей пообниматься нормально!"
-msgstr ""
+msgstr "Lasciatemi abbracciare la mia amata zia come si deve!"
 
 # game/scripts/story_02/kira.rpy:44
 msgid "{i}пойти в дом{/i}"
-msgstr ""
+msgstr "{i}entrare in casa{/i}"
 
 # game/scripts/story_02/kira.rpy:161
 msgid "Хорошо, тётя Кира. Не буду мешать..."
-msgstr ""
+msgstr "Va bene, zia Kira. Non ti disturberò..."
 
 # game/scripts/story_02/kira.rpy:179
 msgid "Я бы с удовольствием досмотрел такое шоу до конца..."
-msgstr ""
+msgstr "Guarderei volentieri uno spettacolo del genere fino alla fine..."
 
 # game/scripts/story_02/kira.rpy:182
 msgid "Что точно не хорошо, так это скрывать такую красоту..."
-msgstr ""
+msgstr "Ciò che è decisamente sbagliato è nascondere una tale bellezza..."
 
 # game/scripts/story_02/kira.rpy:262
 msgid "постучаться"
-msgstr ""
+msgstr "bussare"
 
 # game/scripts/story_02/kira.rpy:612
 msgid "{i}идти в свою комнату{/i}"
