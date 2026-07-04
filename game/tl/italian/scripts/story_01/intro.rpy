@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2026-02-19 00:46
+# TODO: Translation updated at 2026-07-03 17:21
 
 # game/scripts/story_01/intro.rpy:8
 translate italian intro_52864ee0:
@@ -182,27 +182,27 @@ translate italian intro_16b9bcf5:
 
 translate italian strings:
 
-    # game/scripts/story_01/intro.rpy:7
+    # game/scripts/story_01/intro.rpy:9
     old "{i}далее{/i}"
     new "{i}prosegui{/i}"
 
-    # game/scripts/story_01/intro.rpy:7
+    # game/scripts/story_01/intro.rpy:12
     old "{i}пропустить пролог{/i}"
     new "{i}Saltare il prologo{/i}"
 
-    # game/scripts/story_01/intro.rpy:43
+    # game/scripts/story_01/intro.rpy:45
     old "{i}несколько недель спустя...{/i}"
     new "{i}Qualche settimana dopo...{/i}"
 
-    # game/scripts/story_01/intro.rpy:62
+    # game/scripts/story_01/intro.rpy:64
     old "{i}спустя неделю...{/i}"
     new "{i}una settimana dopo...{/i}"
 
-    # game/scripts/story_01/intro.rpy:69
+    # game/scripts/story_01/intro.rpy:71
     old "{i}начать игру (Глава 1){/i}"
     new "{i}Iniziare il gioco (Capitolo 1){/i}"
 
-    # game/scripts/story_01/intro.rpy:69
+    # game/scripts/story_01/intro.rpy:74
     old "{i}пройти обучение{/i}"
     new "{i}seguire un corso di formazione{/i}"
 

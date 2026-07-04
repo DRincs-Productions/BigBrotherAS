@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2026-02-19 00:46
+# TODO: Translation updated at 2026-07-03 17:21
 
 translate italian strings:
 
@@ -78,83 +78,87 @@ translate italian strings:
     old "Установить камеру"
     new "Installare la telecamera"
 
-    # game/scripts/screens/navigation.rpy:332
+    # game/scripts/screens/navigation.rpy:319
+    old "Начать Главу 2"
+    new "Inizia il Capitolo 2"
+
+    # game/scripts/screens/navigation.rpy:339
     old "Развернуть"
     new "Ampliare"
 
-    # game/scripts/screens/navigation.rpy:340
+    # game/scripts/screens/navigation.rpy:347
     old "Ждать 30 минут"
     new "Aspettare 30 minuti"
 
-    # game/scripts/screens/navigation.rpy:352
+    # game/scripts/screens/navigation.rpy:359
     old "Свернуть"
     new "Nascondi"
 
-    # game/scripts/screens/navigation.rpy:385
+    # game/scripts/screens/navigation.rpy:392
     old "Поддержать игру на Boosty"
     new "Supporta il gioco su Boosty"
 
-    # game/scripts/screens/navigation.rpy:391
+    # game/scripts/screens/navigation.rpy:398
     old "Поддержать игру на Patreon"
     new "Supporta il gioco su Patreon"
 
-    # game/scripts/screens/navigation.rpy:397
+    # game/scripts/screens/navigation.rpy:404
     old "Меню игры"
     new "Menu di gioco"
 
-    # game/scripts/screens/navigation.rpy:409
+    # game/scripts/screens/navigation.rpy:416
     old "Галерея"
     new "Galleria"
 
-    # game/scripts/screens/navigation.rpy:420
+    # game/scripts/screens/navigation.rpy:427
     old "Обучение"
     new "Formazione"
 
-    # game/scripts/screens/navigation.rpy:430
+    # game/scripts/screens/navigation.rpy:437
     old "Личный дневник"
     new "Diario personale"
 
-    # game/scripts/screens/navigation.rpy:537
+    # game/scripts/screens/navigation.rpy:544
     old "Скрыть"
     new "Nascondi"
 
-    # game/scripts/screens/navigation.rpy:574
+    # game/scripts/screens/navigation.rpy:581
     old "Продолжение следует..."
     new "Continua..."
 
-    # game/scripts/screens/navigation.rpy:632
+    # game/scripts/screens/navigation.rpy:640
     old "Что бы выбрать?"
     new "Cosa scegliereste?"
 
-    # game/scripts/screens/navigation.rpy:644
+    # game/scripts/screens/navigation.rpy:652
     old "(куплено)"
     new "(acquistato)"
 
-    # game/scripts/screens/navigation.rpy:655
+    # game/scripts/screens/navigation.rpy:663
     old "{i}назад{/i}"
     new "{i}indietro{/i}"
 
-    # game/scripts/screens/navigation.rpy:705
+    # game/scripts/screens/navigation.rpy:713
     old "ВНИМАНИЕ"
     new "ATTENZIONE"
 
-    # game/scripts/screens/navigation.rpy:706
+    # game/scripts/screens/navigation.rpy:714
     old "КОНТЕНТ ДЛЯ ВЗРОСЛЫХ"
     new "CONTENUTI PER ADULTI"
 
-    # game/scripts/screens/navigation.rpy:710
+    # game/scripts/screens/navigation.rpy:718
     old "Эта игра содержит контент сексуального характера"
     new "Questo gioco contiene contenuti di natura sessuale"
 
-    # game/scripts/screens/navigation.rpy:711
+    # game/scripts/screens/navigation.rpy:719
     old "Продолжая, ты подтверждаешь, что достаточно взрослый для такого контента"
     new "Continuando, confermi di essere abbastanza grande per questi contenuti"
 
-    # game/scripts/screens/navigation.rpy:713
+    # game/scripts/screens/navigation.rpy:721
     old "Все персонажи, изображённые в этой игре, вымышлены и являются совершеннолетними"
     new "Tutti i personaggi rappresentati in questo gioco sono di fantasia e hanno raggiunto la maggiore età"
 
-    # game/scripts/screens/navigation.rpy:715
+    # game/scripts/screens/navigation.rpy:723
     old "Продолжить"
     new "Continua"
 

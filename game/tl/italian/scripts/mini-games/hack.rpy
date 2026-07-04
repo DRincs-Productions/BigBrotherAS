@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2026-02-19 00:46
+# TODO: Translation updated at 2026-07-03 17:21
 
 translate italian strings:
 

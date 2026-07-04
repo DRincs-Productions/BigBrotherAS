@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2026-02-19 00:46
+# TODO: Translation updated at 2026-07-03 17:21
 
 # game/scripts/story_01/secretbooks.rpy:7
 translate italian ev_013_2ca4e9e8:
@@ -122,11 +122,11 @@ translate italian ev_015_e0df9746:
 
 translate italian strings:
 
-    # game/scripts/story_01/secretbooks.rpy:34
+    # game/scripts/story_01/secretbooks.rpy:38
     old "{i}искать под подушкой{/i}"
     new "{i}guarda sotto il cuscino{/i}"
 
-    # game/scripts/story_01/secretbooks.rpy:34
+    # game/scripts/story_01/secretbooks.rpy:45
     old "{i}искать под кроватью{/i}"
     new "{i}cerca sotto il letto{/i}"
 

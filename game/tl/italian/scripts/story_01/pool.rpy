@@ -1,10 +1,10 @@
-# TODO: Translation updated at 2026-02-19 00:46
+# TODO: Translation updated at 2026-07-03 17:21
 
 # game/scripts/story_01/pool.rpy:11
 translate italian alice_swims_talk_2c2308f4:
 
     # Alice 01 "Может быть. А что, тоже хочешь? Ну, присоединяйся..." nointeract
-    Alice 01 "Forse. Perché, vuoi partecipare anche tu? Beh, unisciti a noi..." nointeract
+    Alice 01 "Forse. Cosa, vuoi unirti anche tu? Bene, entra pure..." nointeract
 
 # game/scripts/story_01/pool.rpy:19
 translate italian alice_swims_talk_8df2e30a:
@@ -422,63 +422,63 @@ translate italian ann_swim_talk_swims_51d819fe:
 
 translate italian strings:
 
-    # game/scripts/story_01/pool.rpy:10
+    # game/scripts/story_01/pool.rpy:12
     old "Здорово, что ты не против!"
     new "È fantastico che non ti dispiaccia!"
 
-    # game/scripts/story_01/pool.rpy:18
+    # game/scripts/story_01/pool.rpy:20
     old "{i}поплавать с Алисой{/i}"
     new "{i}nuotare con Alice{/i}"
 
-    # game/scripts/story_01/pool.rpy:30
+    # game/scripts/story_01/pool.rpy:33
     old "{i}любоваться{/i}"
     new "{i}ammirare{/i}"
 
-    # game/scripts/story_01/pool.rpy:75
+    # game/scripts/story_01/pool.rpy:77
     old "{i}нырнуть под воду{/i}"
     new "{i}immergersi sotto l'acqua{/i}"
 
-    # game/scripts/story_01/pool.rpy:81
+    # game/scripts/story_01/pool.rpy:84
     old "{i}вынырнуть и напугать Алису{/i}"
     new "{i}emergere e spaventare Alice{/i}"
 
-    # game/scripts/story_01/pool.rpy:81
-    old "{i}вынырнуть и закончить плавать{/i}"
-    new "{i}tuffarsi e finire di nuotare{/i}"
-
-    # game/scripts/story_01/pool.rpy:95
+    # game/scripts/story_01/pool.rpy:97
     old "{i}закончить плавать{/i}"
     new "{i}finire di nuotare{/i}"
 
-    # game/scripts/story_01/pool.rpy:125
+    # game/scripts/story_01/pool.rpy:105
+    old "{i}вынырнуть и закончить плавать{/i}"
+    new "{i}tuffarsi e finire di nuotare{/i}"
+
+    # game/scripts/story_01/pool.rpy:127
     old "С радостью!"
     new "Con piacere!"
 
-    # game/scripts/story_01/pool.rpy:133
+    # game/scripts/story_01/pool.rpy:135
     old "{i}поплавать с Лизой{/i}"
     new "{i}nuota con Lisa{/i}"
 
-    # game/scripts/story_01/pool.rpy:194
+    # game/scripts/story_01/pool.rpy:196
     old "{i}вынырнуть у неё между ног{/i}"
     new "{i}emergere tra le sue gambe{/i}"
 
-    # game/scripts/story_01/pool.rpy:239
+    # game/scripts/story_01/pool.rpy:241
     old "{i}любоваться мамой{/i}"
     new "{i}ammira la mamma{/i}"
 
-    # game/scripts/story_01/pool.rpy:283
+    # game/scripts/story_01/pool.rpy:285
     old "Конечно хочу!"
     new "Naturalmente!"
 
-    # game/scripts/story_01/pool.rpy:291
+    # game/scripts/story_01/pool.rpy:293
     old "{i}поплавать с мамой{/i}"
     new "{i}nuota con la mamma{/i}"
 
-    # game/scripts/story_01/pool.rpy:321
+    # game/scripts/story_01/pool.rpy:323
     old "Я тоже так думаю!"
     new "Lo penso anch'io!"
 
-    # game/scripts/story_01/pool.rpy:354
+    # game/scripts/story_01/pool.rpy:357
     old "{i}вынырнуть и обрызгать маму{/i}"
     new "{i}Emergere e spruzzare mamma{/i}"
 

@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2026-02-19 00:46
+# TODO: Translation updated at 2026-07-03 17:20
 
 # game/scripts/story_01/annroom.rpy:12
 translate italian ev_ann_dressed_d0c78fcb:
@@ -260,39 +260,39 @@ translate italian ev_024_873762ea:
 
 translate italian strings:
 
-    # game/scripts/story_01/annroom.rpy:77
+    # game/scripts/story_01/annroom.rpy:79
     old "{i}убежать{/i}"
     new "{i}scappare{/i}"
 
-    # game/scripts/story_01/annroom.rpy:108
+    # game/scripts/story_01/annroom.rpy:110
     old "Конечно! А что, нельзя что ли?!"
     new "Ma certo! Perché non posso?!"
 
-    # game/scripts/story_01/annroom.rpy:108
+    # game/scripts/story_01/annroom.rpy:131
     old "Нет, просто задумался и ноги сюда завели..."
     new "No, ho solo riflettuto e le mie gambe mi hanno portato qui..."
 
-    # game/scripts/story_01/annroom.rpy:159
+    # game/scripts/story_01/annroom.rpy:161
     old "Конечно, мам. Не буду мешать..."
     new "Certo, mamma. Starò fuori dai piedi..."
 
-    # game/scripts/story_01/annroom.rpy:163
+    # game/scripts/story_01/annroom.rpy:165
     old "{i}подождать за дверью, пока мама переоденется{/i}"
     new "{i}Aspetta fuori dalla porta mentre la mamma si cambia.{/i}"
 
-    # game/scripts/story_01/annroom.rpy:186
+    # game/scripts/story_01/annroom.rpy:188
     old "Ухх... А пройтись в этом, как по подиуму можешь?"
     new "Uh... Si può sfilare in passerella con questo modello?"
 
-    # game/scripts/story_01/annroom.rpy:186
+    # game/scripts/story_01/annroom.rpy:190
     old "Да, был вопросик, но от такой красоты я всё позабыл..."
     new "Sì, c'era una domanda, ma con tutta la tua bellezza l'ho dimenticata..."
 
-    # game/scripts/story_01/annroom.rpy:361
+    # game/scripts/story_01/annroom.rpy:364
     old "{i}подползти ещё ближе{/i}"
     new "{i}strisciare ancora più vicino{/i}"
 
-    # game/scripts/story_01/annroom.rpy:361
+    # game/scripts/story_01/annroom.rpy:374
     old "{i}тихонько уползти{/i}"
     new "{i}allontanarsi silenziosamente{/i}"
 
@@ -300,11 +300,7 @@ translate italian strings:
     old "Навык «Скрытность» повышен до уровня 2!"
     new "L'abilità «Furtività» è stata portata al livello 2!"
 
-    # game/scripts/story_01/annroom.rpy:381
-    old "Задание «{}» обновлено!"
-    new "L'assegnazione \"{}\" è stata aggiornata!"
-
-    # game/scripts/story_01/annroom.rpy:442
+    # game/scripts/story_01/annroom.rpy:444
     old "{i}подойти к маме{/i}"
     new "{i}vai da mamma{/i}"
 

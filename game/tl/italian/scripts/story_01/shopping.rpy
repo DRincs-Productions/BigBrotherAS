@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2026-02-19 00:46
+# TODO: Translation updated at 2026-07-03 17:21
 
 # game/scripts/story_01/shopping.rpy:20
 translate italian ev_051_f2e28c50:
@@ -384,187 +384,187 @@ translate italian ev_152_9ba386b9:
     # Max 13 "Да? Хм... Посмотрим..."
     Max 13 "Sì? Hm... Vedremo..."
 
-# game/scripts/story_01/shopping.rpy:212
+# game/scripts/story_01/shopping.rpy:215
 translate italian ev_152_f5257458:
 
     # Eric 10 "А ты, Макс, оказывается не так прост, как мне показалось. Не жалко было столько денег на подарки девочкам тратить?"
     Eric 10 "E così, Max, scopro che non sei così semplice come sembravi. Non ti è dispiaciuto spendere tutti quei soldi per i regali alle ragazze?"
 
-# game/scripts/story_01/shopping.rpy:215
+# game/scripts/story_01/shopping.rpy:218
 translate italian ev_152_742440b1:
 
     # Eric 10 "А ты, Макс, оказывается не так прост, как мне показалось. Не жалко было тратиться на подарок для сестрёнки?"
     Eric 10 "E così, Max, scopro che non sei così semplice come sembravi. Non ti è dispiaciuto spendere per il regalo della sorellina?"
 
-# game/scripts/story_01/shopping.rpy:216
+# game/scripts/story_01/shopping.rpy:219
 translate italian ev_152_2a151a85:
 
     # Max 13 "Нисколько. Я ещё заработаю..."
     Max 13 "Per niente. Ne guadagnerò altri..."
 
-# game/scripts/story_01/shopping.rpy:217
+# game/scripts/story_01/shopping.rpy:220
 translate italian ev_152_61a8826c:
 
     # Eric 09 "Само собой... Правда, если ты продолжишь делать так и дальше, то у нас с тобой будут проблемы."
     Eric 09 "Certamente... Però, se continui a fare così, avremo dei problemi io e te."
 
-# game/scripts/story_01/shopping.rpy:218
+# game/scripts/story_01/shopping.rpy:221
 translate italian ev_152_5e490348:
 
     # Max 12 "Это почему?!"
     Max 12 "Per quale motivo?!"
 
-# game/scripts/story_01/shopping.rpy:221
+# game/scripts/story_01/shopping.rpy:224
 translate italian ev_152_c736e4e5:
 
     # Eric 10 "Признаюсь, Макс, я немного волновался, что мои наставления во время ужина сыграют злую шутку и ты начнёшь задаривать свою семью подарками, но обошлось."
     Eric 10 "Lo ammetto, Max, ero un po' preoccupato che i miei consigli durante la cena potessero ritorcersi contro di me e che tu iniziassi a viziare la tua famiglia di regali, ma per fortuna non è successo."
 
-# game/scripts/story_01/shopping.rpy:222
+# game/scripts/story_01/shopping.rpy:225
 translate italian ev_152_18703ced:
 
     # Max 13 "В смысле злую шутку?"
     Max 13 "Nel senso di uno scherzo crudele?"
 
-# game/scripts/story_01/shopping.rpy:224
+# game/scripts/story_01/shopping.rpy:227
 translate italian ev_152_e7aa3227:
 
     # Eric 01 "Сразу скажу прямо, как есть... Я серьёзно подумываю начать с твоей мамой более «тесные» отношения и я не про работу. И о сёстрах твоих я сам позабочусь, не утруждайся."
     Eric 01 "Te lo dico chiaramente... Sto pensando seriamente d'iniziare una relazione più «intima» con tua madre, non parlo di lavoro. E alle tue sorelle ci penserò io, non disturbarti."
 
-# game/scripts/story_01/shopping.rpy:225
+# game/scripts/story_01/shopping.rpy:228
 translate italian ev_152_f059259c:
 
     # Max 16 "Хм... Как-то ты не похож на мужика, которому для полного счастья не хватает только женщины с тремя чужими детьми."
     Max 16 "Hm... Non sembri proprio il tipo di uomo a cui, per essere felice, manca solo una donna con tre figli non suoi."
 
-# game/scripts/story_01/shopping.rpy:226
+# game/scripts/story_01/shopping.rpy:229
 translate italian ev_152_c354e613:
 
     # Eric 08 "Ну, в данном случае, это скорее приятное дополнение. Если, конечно, мы с тобой найдём при всём этом общий язык."
     Eric 08 "Beh, in questo caso, è più un piacevole valore aggiunto. Se, ovviamente, riusciremo a trovare un linguaggio comune nonostante tutto."
 
-# game/scripts/story_01/shopping.rpy:229
+# game/scripts/story_01/shopping.rpy:232
 translate italian ev_152_3cca37d1:
 
     # Max 13 "Может быть. Пока не знаю..."
     Max 13 "Può darsi. Per ora non lo so..."
 
-# game/scripts/story_01/shopping.rpy:232
+# game/scripts/story_01/shopping.rpy:235
 translate italian ev_152_96619b70:
 
     # Max 13 "Это вряд ли..."
     Max 13 "È improbabile..."
 
-# game/scripts/story_01/shopping.rpy:236
+# game/scripts/story_01/shopping.rpy:239
 translate italian ev_152_ededd16a:
 
     # Eric 03 "Если мы подружимся и ты не будешь мне мешаться, то только выиграешь от этого. Так что не торопись, Макс, подумай над этим хорошенько."
     Eric 03 "Se diventiamo amici e non mi intralcerai, ne trarrai solo vantaggio. Quindi non avere fretta, Max, pensaci bene."
 
-# game/scripts/story_01/shopping.rpy:237
+# game/scripts/story_01/shopping.rpy:240
 translate italian ev_152_3ae47150:
 
     # Max 16 "Интересно, и что же я выиграю?"
     Max 16 "Interessante... E sentiamo, cosa ci guadagnerei io?"
 
-# game/scripts/story_01/shopping.rpy:238
+# game/scripts/story_01/shopping.rpy:241
 translate italian ev_152_49fcdde5:
 
     # Eric 02 "Ты слишком забегаешь вперёд. Через некоторое время мы ещё вернёмся к этому разговору..."
     Eric 02 "Stai correndo troppo. Tra un po' di tempo torneremo su questo discorso..."
 
-# game/scripts/story_01/shopping.rpy:239
+# game/scripts/story_01/shopping.rpy:242
 translate italian ev_152_bb4877d9:
 
     # Max 17 "Ага, всего доброго."
     Max 17 "Sì, stammi bene."
 
-# game/scripts/story_01/shopping.rpy:243
+# game/scripts/story_01/shopping.rpy:246
 translate italian ev_152_c83f588f:
 
     # tMax 13 "Этот Эрик - какая-то сильно подозрительная сволочь. Или мне просто так кажется? В любом случае, надо предупредить маму..."
     tMax 13 "Questo Eric è un bastardo davvero sospetto. O è solo una mia impressione? In ogni caso, devo avvertire la mamma..."
 
-# game/scripts/story_01/shopping.rpy:247
+# game/scripts/story_01/shopping.rpy:250
 translate italian ev_152_b0c1e3a6:
 
     # Ann 01 "Ну, Макс, как там у вас с Эриком, налаживается контакт?"
     Ann 01 "Allora, Max, come va con Eric? State iniziando a legare?"
 
-# game/scripts/story_01/shopping.rpy:248
+# game/scripts/story_01/shopping.rpy:251
 translate italian ev_152_d8634607:
 
     # Max 16 "Не сказал бы. Ты, пожалуйста, будь с ним осторожнее. Он какой-то сильно мутный тип."
     Max 16 "Non direi proprio. Per favore, fai molta attenzione con lui. È un tipo davvero losco."
 
-# game/scripts/story_01/shopping.rpy:253
+# game/scripts/story_01/shopping.rpy:256
 translate italian ev_152_765b4176:
 
     # Ann 10 "Не знаю, с чего ты так решил, сынок. У меня об Эрике сложилось только крайне положительное впечатление."
     Ann 10 "Non so perché tu la pensi così, figliolo. Di Eric ho avuto solo un'impressione estremamente positiva."
 
-# game/scripts/story_01/shopping.rpy:254
+# game/scripts/story_01/shopping.rpy:257
 translate italian ev_152_8dbfa66b:
 
     # Max 13 "Вот это и подозрительно, потому что я вижу обратное."
     Max 13 "Proprio questo è sospetto, perché io vedo l'esatto contrario."
 
-# game/scripts/story_01/shopping.rpy:255
+# game/scripts/story_01/shopping.rpy:258
 translate italian ev_152_de807517:
 
     # Ann 12 "Знаешь, я думаю, ты просто ещё недостаточно хорошо его узнал."
     Ann 12 "Sai, penso che tu non l'abbia ancora conosciuto abbastanza bene."
 
-# game/scripts/story_01/shopping.rpy:256
-translate italian ev_152_9d15e9d7:
+# game/scripts/story_01/shopping.rpy:259
+translate italian ev_152_0c42aecf:
 
-    # Max 12 "Всё ясно с тобой, мам.. "
-    Max 12 "Ho capito tutto, mamma"
+    # Max 12 "Всё ясно с тобой, мам..."
+    Max 12 "Ho capito tutto, mamma..."
 
-# game/scripts/story_01/shopping.rpy:257
+# game/scripts/story_01/shopping.rpy:260
 translate italian ev_152_bcdb38d9:
 
     # tMax 16 "Похоже, мне ещё придётся ей это доказать..."
     tMax 16 "Sembra che dovrò ancora dimostrarglielo..."
 
-# game/scripts/story_01/shopping.rpy:270
+# game/scripts/story_01/shopping.rpy:273
 translate italian ev_152_3f008bbd:
 
     # Eric 08 "У меня всё схвачено... Правда, с пареньком могут быть проблемы, но это в любом случае решаемо..."
     Eric 08 "Ho tutto sotto controllo... A dire il vero, potrebbero esserci dei problemi con quel tipo, ma in ogni caso è una cosa risolvibile..."
 
-# game/scripts/story_01/shopping.rpy:271
+# game/scripts/story_01/shopping.rpy:274
 translate italian ev_152_0c90761a:
 
     # Stranger "Уж надеюсь. Смотри, не облажайся, а то мне придётся делать всё самой. А паренёк... Так уж и быть, если с ним будут проблемы, то мне есть чем его занять..."
     Stranger "Lo spero bene. Vedi di non fallire, altrimenti dovrò fare tutto da sola. E quel tipo... E va bene, se ci saranno problemi con lui, avrò di che tenerlo occupato..."
 
-# game/scripts/story_01/shopping.rpy:275
+# game/scripts/story_01/shopping.rpy:278
 translate italian ev_152_262a988d:
 
     # Eric 10 "Даже так! Что-то ты сегодня добрее, чем обычно."
     Eric 10 "Addirittura! Sei un po' più gentile del solito oggi, o sbaglio."
 
-# game/scripts/story_01/shopping.rpy:276
+# game/scripts/story_01/shopping.rpy:279
 translate italian ev_152_d2e559a1:
 
     # Stranger "Физиономию твою давно не видела, вот и подобрела сразу. Всё, жду результатов..."
     Stranger "È che non vedevo il tuo muso da un pezzo, ecco perché mi sono addolcita subito. Basta così, aspetto i risultati..."
 
-# game/scripts/story_01/shopping.rpy:277
+# game/scripts/story_01/shopping.rpy:280
 translate italian ev_152_0958a755:
 
     # Eric 04 "На лицо?"
     Eric 04 "In faccia?"
 
-# game/scripts/story_01/shopping.rpy:281
+# game/scripts/story_01/shopping.rpy:284
 translate italian ev_152_72afa6e7:
 
     # Stranger "Ох, угораздило же меня сотрудничать с таким придурком..."
     Stranger "Ma guarda te se mi doveva capitare di collaborare con un idiota del genere..."
 
-# game/scripts/story_01/shopping.rpy:282
+# game/scripts/story_01/shopping.rpy:285
 translate italian ev_152_552adb54:
 
     # Eric 09 "Эй, алло?! Вот сучка, завершила звонок!"
@@ -572,11 +572,11 @@ translate italian ev_152_552adb54:
 
 translate italian strings:
 
-    # game/scripts/story_01/shopping.rpy:19
+    # game/scripts/story_01/shopping.rpy:21
     old "Удачных вам покупок... \n{i}(остаться дома){/i}"
     new "Divertitevi a fare shopping...\n{i}(stare a casa){/i}"
 
-    # game/scripts/story_01/shopping.rpy:19
+    # game/scripts/story_01/shopping.rpy:31
     old "Подождите! Я с вами..."
     new "Aspetta! Vengo con voi..."
 

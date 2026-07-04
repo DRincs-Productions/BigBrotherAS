@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2026-02-19 00:46
+# TODO: Translation updated at 2026-07-03 17:20
 
 # game/scripts/story_01/bikini.rpy:8
 translate italian ev_008_3c08b543:
@@ -622,7 +622,7 @@ translate italian ev_145_bikini3_0bc7d588:
 translate italian ev_145_bikini3_8d53adcb:
 
     # Lisa 02 "Сам посмотри, всё ли там хорошо..."
-    Lisa 02 "Сам посмотри, всё ли там хорошо... Guarda tu stesso se è tutto a posto lì dietro..."
+    Lisa 02 "Guarda tu stesso se è tutto a posto lì dietro..."
 
 # game/scripts/story_01/bikini.rpy:349
 translate italian ev_145_bikini3_c304859e:
@@ -904,7 +904,7 @@ translate italian ev_145_bikini3_0bc7d588_1:
 translate italian ev_145_bikini3_8d53adcb_1:
 
     # Lisa 02 "Сам посмотри, всё ли там хорошо..."
-    Lisa 02 "Сам посмотри, всё ли там хорошо... Guarda tu stesso se è tutto a posto lì dietro..."
+    Lisa 02 "Guarda tu stesso se è tutto a posto lì dietro..."
 
 # game/scripts/story_01/bikini.rpy:487
 translate italian ev_145_bikini3_c304859e_1:
@@ -1046,35 +1046,35 @@ translate italian ev_145_return_home_22527345:
 
 translate italian strings:
 
-    # game/scripts/story_01/bikini.rpy:99
+    # game/scripts/story_01/bikini.rpy:101
     old "{i}идти в магазин одежды{/i}"
     new "{i}Andare nel negozio di abbigliamento{/i}"
 
-    # game/scripts/story_01/bikini.rpy:130
+    # game/scripts/story_01/bikini.rpy:133
     old "{i}подсмотреть за Лизой{/i}"
     new "{i}sbirciare Lisa...{/i}"
 
-    # game/scripts/story_01/bikini.rpy:130
+    # game/scripts/story_01/bikini.rpy:162
     old "{i}ждать{/i}"
     new "{i}aspetta{/i}"
 
-    # game/scripts/story_01/bikini.rpy:228
+    # game/scripts/story_01/bikini.rpy:232
     old "{i}снова подсмотреть за Лизой{/i}"
     new "{i}sbirciare Lisa ancora una volta{/i}"
 
-    # game/scripts/story_01/bikini.rpy:357
+    # game/scripts/story_01/bikini.rpy:361
     old "Ещё как стоит! (принять поцелуй в щёку)"
     new "Ci puoi scommettere! (accetta il bacio sulla guancia)"
 
-    # game/scripts/story_01/bikini.rpy:357
+    # game/scripts/story_01/bikini.rpy:382
+    old "{i}пойти рассчитаться за купальник ($299){/i}"
+    new "{i}Vai a pagare il costume da bagno ($299){/i}"
+
+    # game/scripts/story_01/bikini.rpy:397
     old "Ещё как стоит! (поцеловать её в губы)"
     new "Ci puoi scommettere! (baciandola sulle labbra)"
 
-    # game/scripts/story_01/bikini.rpy:357
+    # game/scripts/story_01/bikini.rpy:433
     old "Ещё как стоит! (дерзко обнять и поцеловать её в губы)"
     new "Eccome se ne vale la pena! (abbracciandola con audacia e baciandola intensamente sulle labbra)"
-
-    # game/scripts/story_01/bikini.rpy:380
-    old "{i}пойти рассчитаться за купальник ($300){/i}"
-    new "{i}vado a saldare il conto per il costume ($300){/i}"
 

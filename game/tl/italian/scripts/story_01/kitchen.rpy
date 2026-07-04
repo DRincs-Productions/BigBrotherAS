@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2026-02-19 00:46
+# TODO: Translation updated at 2026-07-03 17:21
 
 # game/scripts/story_01/kitchen.rpy:16
 translate italian ev_alice_clean_e2fdb3e5:
@@ -158,35 +158,35 @@ translate italian ev_ann_cooking_97e8fc22:
 
 translate italian strings:
 
-    # game/scripts/story_01/kitchen.rpy:63
+    # game/scripts/story_01/kitchen.rpy:65
     old "Хочешь, я помогу тебе домыть посуду?"
     new "Vuoi che ti aiuti a finire i piatti?"
 
-    # game/scripts/story_01/kitchen.rpy:63
+    # game/scripts/story_01/kitchen.rpy:81
     old "Нет, просто мимо проходил..."
     new "No, solo di passaggio..."
 
-    # game/scripts/story_01/kitchen.rpy:101
+    # game/scripts/story_01/kitchen.rpy:102
     old "Ага, не вопрос. Сделаю."
     new "Sì, non c'è dubbio. Fare."
 
-    # game/scripts/story_01/kitchen.rpy:101
-    old "Нет, лучше давай сама..."
-    new "No, preferirei andare da solo..."
-
-    # game/scripts/story_01/kitchen.rpy:116
+    # game/scripts/story_01/kitchen.rpy:117
     old "{i}приступить к ужину{/i}"
     new "{i}per iniziare la cena{/i}"
 
-    # game/scripts/story_01/kitchen.rpy:141
+    # game/scripts/story_01/kitchen.rpy:121
+    old "Нет, лучше давай сама..."
+    new "No, preferirei andare da solo..."
+
+    # game/scripts/story_01/kitchen.rpy:142
     old "{i}подойти и помочь{/i}"
     new "{i}Vai a dare una mano{/i}"
 
-    # game/scripts/story_01/kitchen.rpy:141
-    old "Хотя, нет, сейчас не могу..."
-    new "Anche se, no, ora non posso..."
-
-    # game/scripts/story_01/kitchen.rpy:175
+    # game/scripts/story_01/kitchen.rpy:176
     old "{i}приступить к завтраку{/i}"
     new "{i}fare colazione{/i}"
+
+    # game/scripts/story_01/kitchen.rpy:180
+    old "Хотя, нет, сейчас не могу..."
+    new "Anche se, no, ora non posso..."
 

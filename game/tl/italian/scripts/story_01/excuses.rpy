@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2026-02-19 00:46
+# TODO: Translation updated at 2026-07-03 17:21
 
 # game/scripts/story_01/excuses.rpy:8
 translate italian tasty_open_alice_9d7c61dc:
@@ -1628,55 +1628,55 @@ translate italian ev_123_finally_1da8c2db_4:
 
 translate italian strings:
 
-    # game/scripts/story_01/excuses.rpy:30
+    # game/scripts/story_01/excuses.rpy:33
     old "конфеты «Ferrero Rocher» (16 штук)"
     new "Caramelle Ferrero Rocher (16 pezzi)"
 
-    # game/scripts/story_01/excuses.rpy:30
-    old "шоколад «Ritter Sport» mini (9 штук)"
-    new "Ritter Sport mini cioccolato (9 pezzi)"
-
-    # game/scripts/story_01/excuses.rpy:30
-    old "конфеты «Raffaello» (16 штук)"
-    new "Caramelle Raffaello (16 pezzi)"
-
-    # game/scripts/story_01/excuses.rpy:42
+    # game/scripts/story_01/excuses.rpy:45
     old "Именно на это я и надеюсь..."
     new "Questo è quello che spero..."
 
-    # game/scripts/story_01/excuses.rpy:104
+    # game/scripts/story_01/excuses.rpy:94
+    old "шоколад «Ritter Sport» mini (9 штук)"
+    new "Ritter Sport mini cioccolato (9 pezzi)"
+
+    # game/scripts/story_01/excuses.rpy:107
     old "Так я же случайно оказался около душа..."
     new "Mi sono trovato per caso vicino alla doccia..."
 
-    # game/scripts/story_01/excuses.rpy:328
+    # game/scripts/story_01/excuses.rpy:152
+    old "конфеты «Raffaello» (16 штук)"
+    new "Caramelle Raffaello (16 pezzi)"
+
+    # game/scripts/story_01/excuses.rpy:331
     old "Только давай без вреда моему здоровью, ладно?"
     new "Ma non danneggiamo la mia salute, ok?"
 
-    # game/scripts/story_01/excuses.rpy:445
+    # game/scripts/story_01/excuses.rpy:448
     old "{i}шоколад «Ritter Sport» mini (9 штук){/i}"
     new "{i}cioccolato \"Ritter Sport\" mini (9 pezzi){/i}"
 
-    # game/scripts/story_01/excuses.rpy:445
+    # game/scripts/story_01/excuses.rpy:479
     old "{i}конфеты «Raffaello» (16 штук){/i}"
     new "{i}Caramelle Raffaello (16 pezzi){/i}"
 
-    # game/scripts/story_01/excuses.rpy:484
+    # game/scripts/story_01/excuses.rpy:487
     old "Невиновного нужно обнимать в обязательном порядке..."
     new "Un innocente dovrebbe essere abbracciato in modo obbligatorio..."
 
-    # game/scripts/story_01/excuses.rpy:560
+    # game/scripts/story_01/excuses.rpy:563
     old "Ещё как стоит!"
     new "Ne vale la pena!"
 
-    # game/scripts/story_01/excuses.rpy:599
+    # game/scripts/story_01/excuses.rpy:649
     old "{i}шоколад «Ritter Sport» (4 штуки){/i}"
     new "{i}Cioccolato Ritter Sport (4 pezzi){/i}"
 
-    # game/scripts/story_01/excuses.rpy:799
+    # game/scripts/story_01/excuses.rpy:802
     old "{i}принять от неё поцелуй{/i}"
     new "{i}accettare un suo bacio{/i}"
 
-    # game/scripts/story_01/excuses.rpy:799
+    # game/scripts/story_01/excuses.rpy:821
     old "{i}поцеловать её в губы{/i}"
     new "{i}baciarla sulle labbra{/i}"
 

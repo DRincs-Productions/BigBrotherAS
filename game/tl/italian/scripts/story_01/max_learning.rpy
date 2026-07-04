@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2026-02-19 00:46
+# TODO: Translation updated at 2026-07-03 17:21
 
 # game/scripts/story_01/max_learning.rpy:8
 translate italian ev_029_47925c16:
@@ -116,15 +116,15 @@ translate italian ev_046_66ef962f_1:
 
 translate italian strings:
 
-    # game/scripts/story_01/max_learning.rpy:7
+    # game/scripts/story_01/max_learning.rpy:9
     old "{i}читать «Веб-стандарты»{/i}"
     new "{i}leggi «Standard web»{/i}"
 
-    # game/scripts/story_01/max_learning.rpy:7
+    # game/scripts/story_01/max_learning.rpy:12
     old "{i}читать «Секс-образование»{/i}"
     new "{i}leggere «Educazione sessuale»{/i}"
 
-    # game/scripts/story_01/max_learning.rpy:7
+    # game/scripts/story_01/max_learning.rpy:17
     old "Как-то не хочется. В другой раз..."
     new "Non ne ho voglia. Un'altra volta."
 

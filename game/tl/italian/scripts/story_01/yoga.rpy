@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2026-02-19 00:46
+# TODO: Translation updated at 2026-07-03 17:21
 
 # game/scripts/story_01/yoga.rpy:19
 translate italian forced_phys_ed_first_time_521877f4:
@@ -740,27 +740,27 @@ translate italian forced_phys_ed_end_87ff48d3:
 
 translate italian strings:
 
-    # game/scripts/story_01/yoga.rpy:202
+    # game/scripts/story_01/yoga.rpy:204
     old "{i}снять верх{/i}"
     new "{i}togliti la maglietta{/i}"
 
-    # game/scripts/story_01/yoga.rpy:255
+    # game/scripts/story_01/yoga.rpy:257
     old "{i}отжиматься{/i}"
     new "{i}flessioni{/i}"
 
-    # game/scripts/story_01/yoga.rpy:286
+    # game/scripts/story_01/yoga.rpy:288
     old "{i}приседать{/i}"
     new "{i}squat{/i}"
 
-    # game/scripts/story_01/yoga.rpy:300
+    # game/scripts/story_01/yoga.rpy:303
     old "А ты подержишь меня за ноги?"
     new "Mi tieni le gambe?"
 
-    # game/scripts/story_01/yoga.rpy:300
-    old "{i}качать пресс{/i}"
-    new "{i}addominali{/i}"
-
-    # game/scripts/story_01/yoga.rpy:318
+    # game/scripts/story_01/yoga.rpy:321
     old "{i}лучше рассмотреть её грудь{/i}"
     new "{i}meglio guardarle il seno{/i}"
+
+    # game/scripts/story_01/yoga.rpy:364
+    old "{i}качать пресс{/i}"
+    new "{i}addominali{/i}"
 

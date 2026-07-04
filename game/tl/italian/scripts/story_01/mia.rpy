@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2026-02-19 00:46
+# TODO: Translation updated at 2026-07-03 17:21
 
 # game/scripts/story_01/mia.rpy:12
 translate italian ev_063_eb6a6385:
@@ -1848,1315 +1848,1315 @@ translate italian ev_118_next2_32f9fd02:
     # tMax 13 "Хотя, странно это... Вроде, классная и при этом живёт одна. Подозрительно... Возможно, я ещё не знаю самого «интересного» о ней? Скорее всего..."
     tMax 13 "È strano, però. Sembra a posto eppure vive da sola. Questo è sospetto. Forse non conosco ancora la cosa più \"interessante\" di lei? Probabilmente sì..."
 
-# game/scripts/story_01/mia.rpy:803
+# game/scripts/story_01/mia.rpy:802
 translate italian ev_118_next2_2d26d3dd:
 
     # tMax 02 "Кстати, очень здорово, что я обзавёлся стремянкой! Теперь можно будет подглядывать за тем, что девчонки делают в ванной комнате..."
     tMax 02 "A proposito, è fantastico che io abbia preso una scaletta! Ora posso sbirciare cosa fanno le ragazze nel bagno..."
 
-# game/scripts/story_01/mia.rpy:805
+# game/scripts/story_01/mia.rpy:804
 translate italian ev_118_next2_4de389ef:
 
     # tMax 02 "Кстати, очень здорово, что я обзавёлся стремянкой! Теперь можно будет подглядывать за тем, что девчонки делают в ванной комнате. Да и скрытыми камерами наконец займусь..."
     tMax 02 "A proposito, è fantastico che io abbia preso una scaletta! Ora posso sbirciare cosa fanno le ragazze in bagno. E finalmente potrò lavorare alle telecamere nascoste..."
 
-# game/scripts/story_01/mia.rpy:831
+# game/scripts/story_01/mia.rpy:833
 translate italian ev_138_0f556633:
 
     # tMax 11 "Звонок в ворота! Должно быть, это приехала Мия..."
     tMax 11 "Suona il campanello! Deve essere arrivata Mia..."
 
-# game/scripts/story_01/mia.rpy:837
+# game/scripts/story_01/mia.rpy:839
 translate italian ev_138_8d6c8d85:
 
     # Mia 01 "Привет, Макс! А вот и снова я..."
     Mia 01 "Ciao, Max! Eccomi di nuovo qui..."
 
-# game/scripts/story_01/mia.rpy:838
+# game/scripts/story_01/mia.rpy:840
 translate italian ev_138_eb06f23f:
 
     # Max 01 "Привет! Шикарно выглядите! Я уже одет, так что можем ехать."
     Max 01 "Ciao! Sembri fantastica! Io sono già pronto, quindi possiamo partire."
 
-# game/scripts/story_01/mia.rpy:839
+# game/scripts/story_01/mia.rpy:841
 translate italian ev_138_498af9a4:
 
     # Mia 04 "Мама-то тебя отпустила? А то ещё укатим ко мне без спроса..."
     Mia 04 "Tua madre ti ha dato il permesso? Altrimenti potremmo finire per andare a casa mia senza chiedere..."
 
-# game/scripts/story_01/mia.rpy:840
+# game/scripts/story_01/mia.rpy:842
 translate italian ev_138_02a475f9:
 
     # Max 11 "Пфф... Естественно!"
     Max 11 "Pff... Ovviamente!"
 
-# game/scripts/story_01/mia.rpy:842
+# game/scripts/story_01/mia.rpy:844
 translate italian ev_138_86d9a1a5:
 
     # Mia 02 "Отлично! Тогда поехали..." nointeract
     Mia 02 "Perfetto! Allora andiamo..." nointeract
 
-# game/scripts/story_01/mia.rpy:848
+# game/scripts/story_01/mia.rpy:850
 translate italian ev_138_0e9d39a3:
 
     # tMax 13 "Пока мы едем, надо бы подумать, чему именно я сегодня буду её учить в бассейне..."
     tMax 13 "Mentre andiamo, dovrei pensare a cosa esattamente le insegnerò oggi in piscina..."
 
-# game/scripts/story_01/mia.rpy:853
+# game/scripts/story_01/mia.rpy:855
 translate italian ev_138_5aceceef:
 
     # tMax 07 "Правда, куда интереснее представлять, как мои руки оказываются под её облегающем платьем... О да!"
     tMax 07 "In effetti, è molto più eccitante immaginare le mie mani che si insinuano sotto il suo vestito aderente... Oh sì!\n"
 
-# game/scripts/story_01/mia.rpy:855
+# game/scripts/story_01/mia.rpy:857
 translate italian ev_138_8e0111f7:
 
     # Mia 03 "Судя по твоему довольному лицу, ты составил для меня просто умопомрачительный урок плавания, да?"
     Mia 03 "Giudicando dalla tua faccia soddisfatta, hai preparato per me una lezione di nuoto semplicemente mozzafiato, vero?"
 
-# game/scripts/story_01/mia.rpy:856
+# game/scripts/story_01/mia.rpy:858
 translate italian ev_138_76aa7705:
 
     # Max 04 "Ага. Вроде того..."
     Max 04 "Già. Qualcosa del genere..."
 
-# game/scripts/story_01/mia.rpy:862
+# game/scripts/story_01/mia.rpy:864
 translate italian ev_138_d312575a:
 
     # Mia 05 "По правде сказать, всё, что мне сейчас хочется, это скорее скинуть с себя всю одежду и отдыхать!"
     Mia 05 "A dire la verità, tutto quello che desidero adesso è togliermi di dosso tutti i vestiti e rilassarmi!"
 
-# game/scripts/story_01/mia.rpy:863
+# game/scripts/story_01/mia.rpy:865
 translate italian ev_138_f58506d8:
 
     # Max 05 "Ого! Прямо вот так?!"
     Max 05 "Wow! Proprio così, eh?!"
 
-# game/scripts/story_01/mia.rpy:864
+# game/scripts/story_01/mia.rpy:866
 translate italian ev_138_f682f712:
 
     # Mia 12 "Ой, нет... У меня же гости! Да ладно гости, у меня ещё и урок плавания... Эх, похоже, отдых пока отменяется..."
     Mia 12 "Oh, no… Ma io Ho degli ospiti! Anzi, non solo gli ospiti… Ho anche la lezione di nuoto! Eh… A quanto pare, il relax dovrà aspettare..."
 
-# game/scripts/story_01/mia.rpy:865
+# game/scripts/story_01/mia.rpy:867
 translate italian ev_138_bb688044:
 
     # Max 12 "Это вы таким образом пытаетесь сказать, что не хотите дальше учиться плавать?"
     Max 12 "Mi stai dicendo, in poche parole, che non hai più voglia di continuare con le lezioni di nuoto?"
 
-# game/scripts/story_01/mia.rpy:869
+# game/scripts/story_01/mia.rpy:871
 translate italian ev_138_a9af26d4:
 
     # Mia 06 "Если бы я не хотела, то не заехала бы за тобой, Макс. Просто полодырничать мне хочется больше..."
     Mia 06 "Se non volessi, non sarei passata a prenderti, Max. È solo che in questo momento ho più voglia di poltrire..."
 
-# game/scripts/story_01/mia.rpy:870
+# game/scripts/story_01/mia.rpy:872
 translate italian ev_138_8498c923:
 
     # Max 11 "Так никто же не запрещает. Вы же у себя дома!"
     Max 11 "E chi te lo vieta? Sei a casa tua, dopotutto!"
 
-# game/scripts/story_01/mia.rpy:871
+# game/scripts/story_01/mia.rpy:873
 translate italian ev_138_39600d01:
 
     # Mia 02 "Да, ты прав, но надо взять себя в руки и продолжить учиться плавать. Я пойду переоденусь и пойдём к бассейну, хорошо?"
     Mia 02 "Sì, hai ragione, ma devo darmi una calmata e continuare a imparare a nuotare. Vado a cambiarmi e poi andiamo in piscina, va bene?"
 
-# game/scripts/story_01/mia.rpy:872
+# game/scripts/story_01/mia.rpy:874
 translate italian ev_138_22527345:
 
     # Max 03 "Конечно..."
     Max 03 "Certo..."
 
-# game/scripts/story_01/mia.rpy:878
+# game/scripts/story_01/mia.rpy:880
 translate italian ev_138_3620db3b:
 
     # tMax 01 "Так, ну а я-то уже переоделся. Чем же пока заняться? Может, пойти к бассейну или послоняться по дому..." nointeract
     tMax 01 "Ok, io intanto mi sono già cambiato. E adesso che facciamo? Magari andiamo in piscina o ci facciamo un giro in casa..." nointeract
 
-# game/scripts/story_01/mia.rpy:883
+# game/scripts/story_01/mia.rpy:885
 translate italian ev_138_16822e8a:
 
     # tMax 11 "Ванная комната сейчас занята Мией..." nointeract
     tMax 11 "Il bagno è ora occupato da Mia..." nointeract
 
-# game/scripts/story_01/mia.rpy:895
+# game/scripts/story_01/mia.rpy:897
 translate italian ev_138_3998eac5:
 
     # tMax 06 "Чёрт, да это же самый сексуальный адвокат на свете! Ох, я бы с таким удовольствием потискал все её округлости. Правда, что-то я сильно засмотрелся..." nointeract
     tMax 06 "Accidenti, è proprio l’avvocato più sexy del mondo! Oh, quanto mi piacerebbe stringere tutte le sue curve. Eh sì, mi sa che mi sono fissato un po’ troppo..." nointeract
 
-# game/scripts/story_01/mia.rpy:907
+# game/scripts/story_01/mia.rpy:909
 translate italian ev_138_deec3841:
 
     # Mia 13 "Блин, Макс!!! Напугал! Тебя разве не учили стучаться или хотя бы спрашивать разрешения, чтобы войти?"
     Mia 13 "Accidenti, Max!!! Mi hai fatto prendere un colpo! Non ti hanno insegnato a bussare o almeno a chiedere il permesso prima di entrare?"
 
-# game/scripts/story_01/mia.rpy:908
+# game/scripts/story_01/mia.rpy:910
 translate italian ev_138_fcb98913:
 
     # Max 05 "Извиняюсь! Думал, вы уже всё..."
     Max 05 "Mi dispiace! Pensavo che avessi già finito..."
 
-# game/scripts/story_01/mia.rpy:910
+# game/scripts/story_01/mia.rpy:912
 translate italian ev_138_b8b079b7:
 
     # Mia 12 "Как видишь, ещё нет! Прекращай на меня глазеть и жди у бассейна. Я скоро..." nointeract
     Mia 12 "Come vedi, ancora no! Smettila di fissarmi e aspettami alla piscina. Arrivo subito..." nointeract
 
-# game/scripts/story_01/mia.rpy:924
+# game/scripts/story_01/mia.rpy:926
 translate italian ev_138_29a62158:
 
     # tMax 13 "Ох, как же мне сегодня провести для неё урок плавания? Надо думать..."
     tMax 13 "Uff, come faccio a organizzarle la lezione di nuoto oggi? Devo farmi venire un’idea..."
 
-# game/scripts/story_01/mia.rpy:929
+# game/scripts/story_01/mia.rpy:931
 translate italian ev_138_41ac71d9:
 
     # Mia 12 "Что, Макс, вот и продолжаем учиться плавать, да? В прошлый раз у меня как-то не очень получилось что-то усвоить."
     Mia 12 "Allora, Max, continuiamo con le lezioni di nuoto, vero? L’ultima volta non sono riuscita a imparare molto."
 
-# game/scripts/story_01/mia.rpy:930
+# game/scripts/story_01/mia.rpy:932
 translate italian ev_138_820010d9:
 
     # Max 11 "Это моя ошибка. Я думал, что получится обойтись без всего того, чему обучают детей, ведь вы женщина взрослая. Поэтому сегодня я проведу для вас урок по удержанию на воде."
     Max 11 "È stata colpa mia. Pensavo che, essendo una donna adulta, potessimo saltare tutte quelle cose da bambini. Però oggi ti faccio vedere come stare a galla in acqua."
 
-# game/scripts/story_01/mia.rpy:931
+# game/scripts/story_01/mia.rpy:933
 translate italian ev_138_274895ba:
 
     # Mia 10 "Ой-ё-ёй! Что я должна буду делать?"
     Mia 10 "Oh, mamma! E cosa dovrò fare?"
 
-# game/scripts/story_01/mia.rpy:932
+# game/scripts/story_01/mia.rpy:934
 translate italian ev_138_81a8a14f:
 
     # Max 04 "Ну, для начала зайти в воду, конечно же..."
     Max 04 "Beh, prima cosa, entrare in acqua, ovvio..."
 
-# game/scripts/story_01/mia.rpy:937
+# game/scripts/story_01/mia.rpy:939
 translate italian ev_138_4d6456a4:
 
     # Mia 13 "Ого, какой ты шустрый! Подожди, мне ещё нужно собраться с духом прежде чем я смогу зайти в воду."
     Mia 13 "Wow, sei proprio veloce! Aspetta un attimo, devo ancora raccogliere un po’ di coraggio prima di entrare in acqua."
 
-# game/scripts/story_01/mia.rpy:938
+# game/scripts/story_01/mia.rpy:940
 translate italian ev_138_47ace30c:
 
     # Max 16 "Ладно, жду..."
     Max 16 "Va bene, ti aspetto..."
 
-# game/scripts/story_01/mia.rpy:942
+# game/scripts/story_01/mia.rpy:944
 translate italian ev_138_9b310d9c:
 
     # Mia 02 "Пока можешь рассказать, что нужно делать, чтобы спокойно держаться на воде. Конечно, если слово «спокойно» вообще применимо в моём случае."
     Mia 02 "Intanto puoi raccontarmi cosa bisogna fare per restare tranquilli a galla. Ovviamente, se la parola «tranquilli» si può proprio usare nel mio caso."
 
-# game/scripts/story_01/mia.rpy:943
+# game/scripts/story_01/mia.rpy:945
 translate italian ev_138_a8cb080f:
 
     # Max 11 "Есть такое упражнение, называется «Звёздочка». Вам нужно будет набрать побольше воздуха в лёгкие, оттолкнуться от дна и лечь спиной на воду."
     Max 11 "C’è un esercizio che si chiama «Stella». Devi prendere tanta aria nei polmoni, spingerti dal fondo e stenderti a pancia in su sull’acqua."
 
-# game/scripts/story_01/mia.rpy:947
+# game/scripts/story_01/mia.rpy:949
 translate italian ev_138_1433424f:
 
     # Mia 13 "Какое страшное упражнение, Макс! Я же уйду под воду, если так сделаю..."
     Mia 13 "Che esercizio spaventoso, Max! Se faccio così, affonderò sott’acqua..."
 
-# game/scripts/story_01/mia.rpy:948
+# game/scripts/story_01/mia.rpy:950
 translate italian ev_138_c61f97fb:
 
     # Max 01 "Если при этом раскинете руки с ногами в стороны и расслабитесь, то не уйдёте. Набранный вами воздух будет держать вас на плаву."
     Max 01 "Se poi allarghi braccia e gambe e ti rilassi, non affondi. L’aria che hai preso ti tiene su."
 
-# game/scripts/story_01/mia.rpy:949
+# game/scripts/story_01/mia.rpy:951
 translate italian ev_138_90ee102a:
 
     # Mia 11 "Да?! Честно говоря, даже смотря сейчас на тебя, мне верится в это с трудом."
     Mia 11 "Davvero?! A dire il vero, anche guardandoti ora, faccio fatica a crederci."
 
-# game/scripts/story_01/mia.rpy:950
+# game/scripts/story_01/mia.rpy:952
 translate italian ev_138_1b54c9af:
 
     # Max 03 "А вы попробуйте! И не бойтесь, я буду вас придерживать."
     Max 03 "Dai, prova! E stai tranquilla, ti tengo io."
 
-# game/scripts/story_01/mia.rpy:954
+# game/scripts/story_01/mia.rpy:956
 translate italian ev_138_604baf35:
 
     # Mia 12 "Только не просто придерживать, а держать как можно крепче, Макс! Понятно?!"
     Mia 12 "Non solo tenere, ma tenere forte, Max! Chiaro?!"
 
-# game/scripts/story_01/mia.rpy:955
+# game/scripts/story_01/mia.rpy:957
 translate italian ev_138_d2ec7c73:
 
     # Max 04 "Без проблем. Давайте пробовать..."
     Max 04 "Nessun problema. Dai, proviamoci..."
 
-# game/scripts/story_01/mia.rpy:956
+# game/scripts/story_01/mia.rpy:958
 translate italian ev_138_daff36c8:
 
     # Mia 10 "Подожди... Значит, вдыхаю поглубже, ложусь на спину и развожу руки с ногами в стороны, так?"
     Mia 10 "Aspetta... Quindi, inspiro a fondo, mi stendo sulla schiena e allargo braccia e gambe, giusto?"
 
-# game/scripts/story_01/mia.rpy:957
+# game/scripts/story_01/mia.rpy:959
 translate italian ev_138_4f93f44a:
 
     # Max 02 "Всё верно! Вперёд, я вас держу..."
     Max 02 "Esatto! Vai tranquilla, ti tengo io..."
 
-# game/scripts/story_01/mia.rpy:962
+# game/scripts/story_01/mia.rpy:964
 translate italian ev_138_0f971d3c:
 
     # Mia 12 "Ох, Макс, лучше держи меня пока обоими руками! Иначе никакой «звёздочки» у меня и близко не получится."
     Mia 12 "Oh, Max, allora tienimi bene con entrambe le mani! Altrimenti con questa «stellina» non ci riesco neanche per sogno."
 
-# game/scripts/story_01/mia.rpy:963
+# game/scripts/story_01/mia.rpy:965
 translate italian ev_138_0c012bdc:
 
     # Max 11 "Хорошо, сейчас..."
     Max 11 "Va bene, adesso..."
 
-# game/scripts/story_01/mia.rpy:967
+# game/scripts/story_01/mia.rpy:969
 translate italian ev_138_4d5222d7:
 
     # tMax 05 "О да, кажется, я нащупал! С такой увесистой и сочной попкой ей действительно будет непросто остаться на плаву..."
     tMax 05 "Oh sì, credo di aver capito! Con un sedere così morbido e tondo, le sarà dura restare a galla..."
 
-# game/scripts/story_01/mia.rpy:968
+# game/scripts/story_01/mia.rpy:970
 translate italian ev_138_13f862ab:
 
     # Mia 13 "Макс, мне кажется, я не удержусь на воде..."
     Mia 13 "Max, credo che non riuscirò a restare a galla..."
 
-# game/scripts/story_01/mia.rpy:969
+# game/scripts/story_01/mia.rpy:971
 translate italian ev_138_378d144c:
 
     # Max 12 "Глупости! Вы не разговаривайте, а глубоко вдохните и раздвигайте ножки... в смысле, разводите в стороны..."
     Max 12 "Stupidaggini! Non parlare, fai un bel respiro profondo e allarga le gambe... Cioè, spalancale un po’..."
 
-# game/scripts/story_01/mia.rpy:971
+# game/scripts/story_01/mia.rpy:973
 translate italian ev_138_eac44ee7:
 
     # Mia 12 "Раз уж ты держишь, то я попробую..." nointeract
     Mia 12 "Dal momento che mi stai tenendo, allora ci provo..." nointeract
 
-# game/scripts/story_01/mia.rpy:976
+# game/scripts/story_01/mia.rpy:978
 translate italian ev_138_b657c827:
 
     # Mia 01 "Ой, у меня, вроде, получается, да?"
     Mia 01 "Oh, mi sa che ce la sto facendo, vero?"
 
-# game/scripts/story_01/mia.rpy:977
+# game/scripts/story_01/mia.rpy:979
 translate italian ev_138_29b61289:
 
     # Max 03 "Ага, замечательная звёздочка у вас получилась! Не забывайте держать в себе побольше воздуха и быть расслабленной."
     Max 03 "Sì, ti è venuta una bellissima stellina! Ricordati di tenere più aria possibile e di stare rilassata."
 
-# game/scripts/story_01/mia.rpy:978
+# game/scripts/story_01/mia.rpy:980
 translate italian ev_138_33c8a36a:
 
     # Mia 05 "Точно! Я от радости чуть об этом не забыла."
     Mia 05 "Esatto! Per la gioia quasi me ne dimenticavo."
 
-# game/scripts/story_01/mia.rpy:980
+# game/scripts/story_01/mia.rpy:982
 translate italian ev_138_ad5877ff:
 
     # Max 04 "С этим упражнением, для первого раза, достаточно. Давайте переходить к следующему..."
     Max 04 "Per essere la prima volta, questo esercizio basta e avanza. Passiamo al prossimo..."
 
-# game/scripts/story_01/mia.rpy:984
+# game/scripts/story_01/mia.rpy:986
 translate italian ev_138_63c83c2c:
 
     # Mia 06 "Фух... Что же меня ждёт дальше?"
     Mia 06 "Uff... E adesso cosa mi aspetta?"
 
-# game/scripts/story_01/mia.rpy:985
+# game/scripts/story_01/mia.rpy:987
 translate italian ev_138_3e0f5539:
 
     # Max 11 "Снова «Звёздочка», только уже лицом вниз. Алгоритм выполнения тот же, просто теперь ваше лицо окажется под водой."
     Max 11 "Di nuovo la «Stellina», ma stavolta a faccia in giù. Si fa come prima, solo che adesso la faccia va sott’acqua."
 
-# game/scripts/story_01/mia.rpy:986
+# game/scripts/story_01/mia.rpy:988
 translate italian ev_138_a051ef29:
 
     # Mia 13 "Мамочки! Получается, я так же буду держаться на плаву, как перед этим?"
     Mia 13 "Mamma mia! Quindi riuscirò a stare a galla anche così, come prima?"
 
-# game/scripts/story_01/mia.rpy:987
+# game/scripts/story_01/mia.rpy:989
 translate italian ev_138_abbce7dc:
 
     # Max 02 "Естественно. Всё так же, глубокий вдох, руки в стороны, отталкиваетесь и ложитесь грудью на воду. После этого разводите ножки в стороны и расслабляетесь."
     Max 02 "Certo che sì! Stessa cosa: respiro profondo, braccia aperte, spingi dal fondo e appoggi il petto sull’acqua. Poi allarghi le gambe e ti rilassi."
 
-# game/scripts/story_01/mia.rpy:988
+# game/scripts/story_01/mia.rpy:990
 translate italian ev_138_d33e4e2f:
 
     # Mia 12 "Хорошо. Только не оставляй меня одну на один с водой. Мне нужны твои руки."
     Mia 12 "Va bene. Ma non lasciarmi sola con l’acqua, ho bisogno delle tue mani."
 
-# game/scripts/story_01/mia.rpy:989
+# game/scripts/story_01/mia.rpy:991
 translate italian ev_138_0066b7c7:
 
     # Max 01 "Конечно. Если вы готовы, то вперёд..."
     Max 01 "Certo. Se sei pronta, allora dai, andiamo..."
 
-# game/scripts/story_01/mia.rpy:993
+# game/scripts/story_01/mia.rpy:995
 translate italian ev_138_74e6f745:
 
     # tMax 04 "Хоть ей и страшно, но придержать её за грудь, мне кажется, будет уже перебором. А вот в «зону бикини», как будто случайно, залезть одним пальчиком вполне можно... ненадолго..."
     tMax 04 "Anche se le fa paura, tenerla per il petto mi sembra esagerato. Però infilare un dito nella “zona bikini”, come per caso, ci sta... Giusto per un attimo..."
 
-# game/scripts/story_01/mia.rpy:997
+# game/scripts/story_01/mia.rpy:999
 translate italian ev_138_1a3b14cb:
 
     # tMax 03 "Похоже, она делает всё как надо и её можно дальше не держать. У меня и так уже привстал от мыслей, с каким удовольствием я бы сейчас мог тискать её грудь..."
     tMax 03 "Mi sa che sta facendo tutto come si deve e posso lasciarla andare un po’. Già solo a pensarci, non ti nascondo che mi viene voglia di stringerle il seno..."
 
-# game/scripts/story_01/mia.rpy:1003
+# game/scripts/story_01/mia.rpy:1005
 translate italian ev_138_0ff1a631:
 
     # tMax 15 "Ого! Что это с ней?! Она как будто бы в панике пытается зацепиться за что либо своими руками! Чёрт, прямо в мои шорты вцепилась и не отпускает! Надо быстрее доставать её из воды..."
     tMax 15 "Cavolo! Ma che le prende?! Sembra in panico, cerca di aggrapparsi a tutto… Si è attaccata ai miei pantaloncini e non molla! Devo tirarla fuori dall’acqua subito..."
 
-# game/scripts/story_01/mia.rpy:1009
+# game/scripts/story_01/mia.rpy:1011
 translate italian ev_138_098b51b7:
 
     # Mia 13 "Ох, Макс... Меня что-то большое тронуло там за руку, в воде! Я так испугалась!!!"
     Mia 13 "Oh, Max... Qualcosa di grosso mi ha toccato la mano la sotto, in acqua! Mi sono spaventata tantissimo!!!"
 
-# game/scripts/story_01/mia.rpy:1010
+# game/scripts/story_01/mia.rpy:1012
 translate italian ev_138_67271724:
 
     # Max 13 "Тронуло?! Хм... Возможно, это я вас задел, когда отходил в сторону."
     Max 13 "Ti ha toccata?! Mh... Forse ero io, magari ti ho sfiorata senza volerlo mentre mi spostavo un po’ da parte."
 
-# game/scripts/story_01/mia.rpy:1011
+# game/scripts/story_01/mia.rpy:1013
 translate italian ev_138_1c6dc57c:
 
     # Mia 10 "Правда?! Фух... Я думала, это какой-то монстр."
     Mia 10 "Davvero?! Meno male… Pensavo fosse qualche mostro."
 
-# game/scripts/story_01/mia.rpy:1012
+# game/scripts/story_01/mia.rpy:1014
 translate italian ev_138_302ddad7:
 
     # Max 11 "Здесь будет уместна шутка про то, что здесь есть всего один монстр и он находится у меня в шортах... Которые вы, кстати, с меня стащили, пока барахтались в воде."
     Max 11 "Qui ci starebbe bene una battuta… Tipo che l’unico mostro qui è quello che ho nei pantaloncini. Che, tra l’altro, mi hai praticamente sfilato mentre ti dimenavi in acqua."
 
-# game/scripts/story_01/mia.rpy:1016
+# game/scripts/story_01/mia.rpy:1018
 translate italian ev_138_6197833e:
 
     # Mia 05 "Ха! Вот, значит, что именно это было! Да уж... Если бы я знала, то не испугалась бы. А так, немного неловко получилось..."
     Mia 05 "Ah! Quindi era proprio quello, eh? Beh... Se l’avessi saputo prima, non mi sarei spaventata! Anche se, sì… è venuto fuori un momento un po’ imbarazzante..."
 
-# game/scripts/story_01/mia.rpy:1017
+# game/scripts/story_01/mia.rpy:1019
 translate italian ev_138_4b801151:
 
     # Max 01 "Знаете, если бы при знакомстве я сообщил, что у меня есть кое-что большое и твёрдое - это бы тоже было неловко."
     Max 01 "Sai, se al primo incontro ti avessi detto che ho qualcosa di grande e duro… Anche quello sarebbe stato un tantino imbarazzante."
 
-# game/scripts/story_01/mia.rpy:1018
+# game/scripts/story_01/mia.rpy:1020
 translate italian ev_138_fcf8ce09:
 
     # Mia 06 "Да, тут можно только согласиться. Но кто же знал, что я могу утонуть из-за этого нюанса, да ведь?"
     Mia 06 "Già, su questo non si può che essere d’accordo. Ma chi avrebbe mai pensato che un dettaglio del genere potesse quasi farmi affogare, eh?"
 
-# game/scripts/story_01/mia.rpy:1019
+# game/scripts/story_01/mia.rpy:1021
 translate italian ev_138_dbb4e04b:
 
     # Max 12 "В следующий раз так не пугайтесь."
     Max 12 "La prossima volta non fare tutta sta scena, ok."
 
-# game/scripts/story_01/mia.rpy:1023
+# game/scripts/story_01/mia.rpy:1025
 translate italian ev_138_e4890673:
 
     # Mia 04 "Ну, с такой мощной опорой, как у тебя, мне уже больше ничего не страшно..."
     Mia 04 "Beh, con un appoggio potente come il tuo, ormai non ho più paura di niente..."
 
-# game/scripts/story_01/mia.rpy:1024
+# game/scripts/story_01/mia.rpy:1026
 translate italian ev_138_cbea258e:
 
     # Max 11 "Значит, будем учиться плавать дальше?"
     Max 11 "Allora, si continua a imparare a nuotare?"
 
-# game/scripts/story_01/mia.rpy:1025
+# game/scripts/story_01/mia.rpy:1027
 translate italian ev_138_0c0c243b:
 
     # Mia 02 "Конечно! Только на следующих выходных. А сейчас я пойду приму душ, чтобы как следует успокоиться и расслабиться. После этого уже отвезу тебя снова домой, хорошо?"
     Mia 02 "Certo! Però solo il prossimo weekend. Ora vado a farmi una doccia per calmarmi e rilassarmi bene. Dopo ti riporto a casa, va bene?"
 
-# game/scripts/story_01/mia.rpy:1026
+# game/scripts/story_01/mia.rpy:1028
 translate italian ev_138_e433283a:
 
     # Max 04 "Да, без проблем. Я подожду..."
     Max 04 "Sì, nessun problema. Aspetto qui..."
 
-# game/scripts/story_01/mia.rpy:1032
+# game/scripts/story_01/mia.rpy:1034
 translate italian ev_138_48dd4e27:
 
     # tMax 12 "Да уж... Мне показалось или пока она барахталась в воде, то успела уткнулась лицом прямо в мой член? Всё происходило так быстро, что я ничего не понял."
     tMax 12 "Mi è sembrato davvero o mentre si dimenava in acqua si è infilata con la faccia proprio sul mio cazzo? È successo tutto così in fretta che non ho capito niente."
 
-# game/scripts/story_01/mia.rpy:1033
+# game/scripts/story_01/mia.rpy:1035
 translate italian ev_138_d2f9cbb5:
 
     # tMax 13 "Даже если и да, то интересно, а Мия это поняла или она была настолько напугана, что тоже ничего не поняла?"
     tMax 13 "Anche se fosse così, chissà se Mia se n’è accorta o era così spaventata da non aver capito niente nemmeno lei?"
 
-# game/scripts/story_01/mia.rpy:1035
+# game/scripts/story_01/mia.rpy:1037
 translate italian ev_138_ebbb781b:
 
     # tMax 01 "Ладно, не утонула и то хорошо. Пожалуй, хватит сидеть..." nointeract
     tMax 01 "Ok, almeno non è annegata, già meglio così. Direi che è ora di smettere di stare seduti..." nointeract
 
-# game/scripts/story_01/mia.rpy:1043
+# game/scripts/story_01/mia.rpy:1045
 translate italian ev_138_16822e8a_1:
 
     # tMax 11 "Ванная комната сейчас занята Мией..." nointeract
     tMax 11 "Il bagno è ora occupato da Mia..." nointeract
 
-# game/scripts/story_01/mia.rpy:1053
+# game/scripts/story_01/mia.rpy:1055
 translate italian ev_138_04cc0e6c:
 
     # tMax 12 "Сегодня Мия уже поймала меня во время подглядывания за ней. Лучше не рисковать лишний раз и подождать до следующей поездки к ней..." nointeract
     tMax 12 "Oggi Mia mi ha beccato mentre la spiavo. Meglio non rischiare troppo e aspettare il prossimo giro da lei..." nointeract
 
-# game/scripts/story_01/mia.rpy:1066
+# game/scripts/story_01/mia.rpy:1068
 translate italian ev_138_795658bb:
 
     # tMax 04 "Ммм... А вот и те самые сисечки, которые мне так хочется потискать! Ох, как же трудно оторвать взгляд от её миленьких розовых сосочков..." nointeract
     tMax 04 "Mmm... Eccole qui quelle tettine che morirei dalla voglia di stringere! Uff, quanto è difficile staccare gli occhi dai suoi adorabili capezzolini rosa..." nointeract
 
-# game/scripts/story_01/mia.rpy:1076
+# game/scripts/story_01/mia.rpy:1078
 translate italian ev_138_b21d12d8:
 
     # Mia 13 "Какого чёрта, Макс!!! Я же сказала, что собираюсь принять душ! Что тебе здесь надо?"
     Mia 13 "Ma che diavolo, Max!!! Ti ho detto che stavo per farmi la doccia! Che ci fai qui?"
 
-# game/scripts/story_01/mia.rpy:1077
+# game/scripts/story_01/mia.rpy:1079
 translate italian ev_138_d7399a93:
 
     # Max 12 "Хотел спросить, вы ещё долго?"
     Max 12 "Volevo chiederti, ci metti ancora tanto?"
 
-# game/scripts/story_01/mia.rpy:1079
+# game/scripts/story_01/mia.rpy:1081
 translate italian ev_138_46c5b54c:
 
     # Mia 14 "Заходить в ванную-то для этого зачем?! Можно было и с той стороны от двери спросить. Хватит глазеть и иди жди столько, сколько потребуется..." nointeract
     Mia 14 "Perché sei entrato in bagno per questo?! Avresti potuto chiedere dall’altra parte della porta. Basta fissarmi e vai ad aspettare quanto serve..." nointeract
 
-# game/scripts/story_01/mia.rpy:1091
+# game/scripts/story_01/mia.rpy:1093
 translate italian ev_138_3829a872:
 
     # tMax 03 "Эх, вот бы сейчас было классно принять душ вместе с Мией."
     tMax 03 "Eh, sarebbe proprio bello farsi una doccia insieme a Mia adesso."
 
-# game/scripts/story_01/mia.rpy:1095
+# game/scripts/story_01/mia.rpy:1097
 translate italian ev_138_e71ab7a7:
 
     # tMax 02 "Я с огромным удовольствием потёр бы ей спинку, как и всё остальное..."
     tMax 02 "Mi piacerebbe un sacco massaggiarle la schiena… E non solo quella..."
 
-# game/scripts/story_01/mia.rpy:1099
+# game/scripts/story_01/mia.rpy:1101
 translate italian ev_138_a937972b:
 
     # tMax 04 "А с таким потрясающим видом со двора было бы вдвойне приятно натирать её шикарное тело маслом для загара."
     tMax 04 "E con quella vista pazzesca dal cortile sarebbe ancora più piacevole spalmare l’olio abbronzante sul suo corpo stupendo."
 
-# game/scripts/story_01/mia.rpy:1103
+# game/scripts/story_01/mia.rpy:1105
 translate italian ev_138_55de4159:
 
     # tMax 01 "Такую попку, как у Мии, определённо можно тискать весь день и это не надоест..."
     tMax 01 "Un sedere come quello di Mia si può stringere tutto il giorno senza mai stancarsi..."
 
-# game/scripts/story_01/mia.rpy:1108
+# game/scripts/story_01/mia.rpy:1110
 translate italian ev_138_8b87e609:
 
     # tMax 03 "Эх, вот бы сейчас было классно принять душ вместе с Мией. Я с огромным удовольствием потёр бы ей спинку, как и всё остальное..."
     tMax 03 "Eh, sarebbe davvero bello farsi una doccia insieme a Mia adesso. Mi piacerebbe un sacco massaggiarle la schiena… E anche tutto il resto..."
 
-# game/scripts/story_01/mia.rpy:1112
+# game/scripts/story_01/mia.rpy:1114
 translate italian ev_138_f1063184:
 
     # tMax 04 "А с таким потрясающим видом со двора было бы вдвойне приятно натирать её шикарное тело маслом для загара. Такую попку, как у Мии, определённо можно тискать весь день и это не надоест..."
     tMax 04 "E con quella vista pazzesca dal cortile sarebbe ancora più bello spalmare l’olio abbronzante sul suo corpo stupendo. Un fondoschiena come quello di Mia lo potresti stringere per ore senza mai stancarti..."
 
-# game/scripts/story_01/mia.rpy:1120
+# game/scripts/story_01/mia.rpy:1122
 translate italian ev_138_0b6d98bd:
 
     # Mia 04 "Что говоришь, не надоест?"
     Mia 04 "Che dici, non ti stancheresti mai?"
 
-# game/scripts/story_01/mia.rpy:1121
+# game/scripts/story_01/mia.rpy:1123
 translate italian ev_138_4794f78c:
 
     # Max 15 "Ох, ёп... Это я так, мысли в слух о том, что такой вид, как у вас, вряд ли может надоесть."
     Max 15 "Oh, dai... Sto solo parlando a voce alta, pensando che una vista come la tua difficilmente potrebbe stancare."
 
-# game/scripts/story_01/mia.rpy:1122
+# game/scripts/story_01/mia.rpy:1124
 translate italian ev_138_cbe84c90:
 
     # Mia 02 "Да, мне тоже нравится..."
     Mia 02 "Sì, anche a me piace..."
 
-# game/scripts/story_01/mia.rpy:1126
+# game/scripts/story_01/mia.rpy:1128
 translate italian ev_138_6f4ede16:
 
     # Max 11 "Этот наряд я на вас ещё не видел. Выглядите отлично!"
     Max 11 "Non ti ho mai visto con questo outfit. Stai davvero bene!"
 
-# game/scripts/story_01/mia.rpy:1128
+# game/scripts/story_01/mia.rpy:1130
 translate italian ev_138_34256b49:
 
     # Mia 03 "Спасибо, Макс. Великое дело, когда примешь душ. Особенно после таких стрессовых ситуаций в бассейне." nointeract
     Mia 03 "Grazie, Max. È davvero importante farsi una doccia, soprattutto dopo situazioni stressanti come quelle in piscina." nointeract
 
-# game/scripts/story_01/mia.rpy:1136
+# game/scripts/story_01/mia.rpy:1138
 translate italian ev_138_fbeddaee:
 
     # Mia 01 "Ничего не забыл?"
     Mia 01 "Non ti sei dimenticato di niente?"
 
-# game/scripts/story_01/mia.rpy:1137
+# game/scripts/story_01/mia.rpy:1139
 translate italian ev_138_135ae2f1:
 
     # Max 12 "Вроде, всё при мне."
     Max 12 "Direi che ho tutto con me."
 
-# game/scripts/story_01/mia.rpy:1138
+# game/scripts/story_01/mia.rpy:1140
 translate italian ev_138_6ff1b88d:
 
     # Mia 04 "Прекрасно. Тогда едем..."
     Mia 04 "Perfetto. Allora andiamo..."
 
-# game/scripts/story_01/mia.rpy:1144
+# game/scripts/story_01/mia.rpy:1146
 translate italian ev_138_1eaea53f:
 
     # tMax 04 "Благодаря Мие, я сегодня понял, насколько мне нравится, когда девчонки носят джинсовые шортики. Особенно, если их попкам внутри малость тесновато."
     tMax 04 "Grazie a Mia oggi ho capito quanto mi piacciono le ragazze con i jeans corti. Soprattutto quando i pantaloncini stanno un po’ stretti sul loro sedere."
 
-# game/scripts/story_01/mia.rpy:1145
+# game/scripts/story_01/mia.rpy:1147
 translate italian ev_138_099fb2fb:
 
     # tMax 06 "Ох, залезть бы руками в кармашки на её джинсах... Ммм..."
     tMax 06 "Oh, mi piacerebbe infilare le mani nelle tasche dei suoi jeans… Mmm..."
 
-# game/scripts/story_01/mia.rpy:1152
+# game/scripts/story_01/mia.rpy:1154
 translate italian ev_138_7cb85023:
 
     # Mia 03 "Всё, домой я тебя вернула, дальше ты уже как-нибудь сам выживай..."
     Mia 03 "Ecco, ti ho riportato a casa, da qui in poi devi cavartela da solo..."
 
-# game/scripts/story_01/mia.rpy:1153
+# game/scripts/story_01/mia.rpy:1155
 translate italian ev_138_60bc8b18:
 
     # Max 05 "Ого! Я постараюсь..."
     Max 05 "Oh, ci proverò..."
 
-# game/scripts/story_01/mia.rpy:1154
+# game/scripts/story_01/mia.rpy:1156
 translate italian ev_138_7872afad:
 
     # Mia 02 "Я заеду за тобой на следующих выходных, Макс. Продолжим учиться."
     Mia 02 "Passo a prenderti il prossimo weekend, Max. Continuiamo con le lezioni."
 
-# game/scripts/story_01/mia.rpy:1155
+# game/scripts/story_01/mia.rpy:1157
 translate italian ev_138_a513138d:
 
     # Max 11 "Знаете, надо будет проверить моё расписание, я могу быть занят. У меня тут куча женщин, которым постоянно что-то надо."
     Max 11 "Sai, devo controllare il mio calendario, potrei essere impegnato. Ho un sacco di donne che mi rompono sempre le scatole."
 
-# game/scripts/story_01/mia.rpy:1159
+# game/scripts/story_01/mia.rpy:1161
 translate italian ev_138_15e35a91:
 
     # Mia 06 "Ох, остаётся только надеяться, что бедняжка Макс сможет найти пару свободных часиков, чтобы выбраться из дома и побыть со мной..."
     Mia 06 "Eh, non resta che sperare che il povero Max riesca a trovare un paio d’ore libere per uscire di casa e stare un po’ con me..."
 
-# game/scripts/story_01/mia.rpy:1160
+# game/scripts/story_01/mia.rpy:1162
 translate italian ev_138_2efe70b4:
 
     # Max 01 "Может быть, может быть..."
     Max 01 "Forse, forse..."
 
-# game/scripts/story_01/mia.rpy:1161
+# game/scripts/story_01/mia.rpy:1163
 translate italian ev_138_da54b6c3:
 
     # Mia 04 "Хи-хи... Ещё увидимся, Макс. До скорого..."
     Mia 04 "Hehe... Ci vediamo ancora, Max. A presto..."
 
-# game/scripts/story_01/mia.rpy:1162
+# game/scripts/story_01/mia.rpy:1164
 translate italian ev_138_ef7211f6:
 
     # Max 03 "Сильно не гоняйте. Всего доброго..."
     Max 03 "Non strafare, eh. Stammi bene..."
 
-# game/scripts/story_01/mia.rpy:1167
+# game/scripts/story_01/mia.rpy:1169
 translate italian ev_138_ef1b1c24:
 
     # tMax 04 "Ну всё, она меня точно хочет! Пожалуй, именно так я и буду думать... Ох уж эти мечты, мечты..."
     tMax 04 "Ecco, ora sono sicuro che mi vuole davvero! Penso proprio che continuerò a pensarla così... Ah, questi sogni, sogni..."
 
-# game/scripts/story_01/mia.rpy:1172
+# game/scripts/story_01/mia.rpy:1174
 translate italian ev_138_7cb85023_1:
 
     # Mia 03 "Всё, домой я тебя вернула, дальше ты уже как-нибудь сам выживай..."
     Mia 03 "Ecco, ti ho riportato a casa, da qui in poi devi cavartela da solo..."
 
-# game/scripts/story_01/mia.rpy:1173
+# game/scripts/story_01/mia.rpy:1175
 translate italian ev_138_3bc215ee:
 
     # Max 12 "Эээ... Что, даже не обнимите?"
     Max 12 "Ehm... Niente abbraccio, allora?"
 
-# game/scripts/story_01/mia.rpy:1174
+# game/scripts/story_01/mia.rpy:1176
 translate italian ev_138_b70f371d:
 
     # Mia 04 "А ты подглядывай поменьше и возможно, тебя тогда и обнимать начнут. Я заеду за тобой на следующих выходных, Макс. Продолжим учиться. До скорого..."
     Mia 04 "Se smettessi di ficcare il naso così tanto, magari inizierei pure ad abbracciarti. Passo a prenderti il prossimo weekend, Max. Continuiamo con le lezioni. A presto..."
 
-# game/scripts/story_01/mia.rpy:1175
+# game/scripts/story_01/mia.rpy:1177
 translate italian ev_138_ef7211f6_1:
 
     # Max 03 "Сильно не гоняйте. Всего доброго..."
     Max 03 "Non strafare, eh. Stammi bene..."
 
-# game/scripts/story_01/mia.rpy:1180
+# game/scripts/story_01/mia.rpy:1182
 translate italian ev_138_6477715e:
 
     # tMax 11 "Хотелось бы думать, что она меня хочет, но увы... Ох уж эти мечты, мечты..."
     tMax 11 "Vorrei pensare che mi vuole, ma ahimè... Eh, questi sogni, sogni..."
 
-# game/scripts/story_01/mia.rpy:1202
+# game/scripts/story_01/mia.rpy:1207
 translate italian ev_150_0f556633:
 
     # tMax 11 "Звонок в ворота! Должно быть, это приехала Мия..."
     tMax 11 "Suona il campanello! Deve essere arrivata Mia..."
 
-# game/scripts/story_01/mia.rpy:1210
+# game/scripts/story_01/mia.rpy:1215
 translate italian ev_150_67390dc8:
 
     # Mia 01 "Привет, Макс! А я за тобой..."
     Mia 01 "Ciao Max! Sono venuta a prenderti..."
 
-# game/scripts/story_01/mia.rpy:1211
+# game/scripts/story_01/mia.rpy:1216
 translate italian ev_150_e852b313:
 
     # Max 01 "Привет! Рад вас снова видеть. Вы очень классно смотритесь в этом наряде..."
     Max 01 "Ciao! Che piacere rivedervi. Stai benissimo con questo completo..."
 
-# game/scripts/story_01/mia.rpy:1216
+# game/scripts/story_01/mia.rpy:1221
 translate italian ev_150_67390dc8_1:
 
     # Mia 01 "Привет, Макс! А я за тобой..."
     Mia 01 "Ciao Max! Sono venuta a prenderti..."
 
-# game/scripts/story_01/mia.rpy:1217
+# game/scripts/story_01/mia.rpy:1222
 translate italian ev_150_e852b313_1:
 
     # Max 01 "Привет! Рад вас снова видеть. Вы очень классно смотритесь в этом наряде..."
     Max 01 "Ciao! Che piacere rivedervi. Stai benissimo con questo completo..."
 
-# game/scripts/story_01/mia.rpy:1222
+# game/scripts/story_01/mia.rpy:1227
 translate italian ev_150_4444152d:
 
     # Mia 02 "Спасибо, в этом всегда приятно убедиться. Если ты готов, то можем ехать..." nointeract
     Mia 02 "Grazie, fa sempre piacere averne la conferma. Se sei pronto, possiamo andare...[nointeract]"
 
-# game/scripts/story_01/mia.rpy:1228
+# game/scripts/story_01/mia.rpy:1233
 translate italian ev_150_fd368cea:
 
     # tMax 13 "Ох, так и хочется попредставлять всякого непристойного с Мией, пока мы едем, но надо подумать, чему именно я сегодня буду её учить в бассейне..."
     tMax 13 "Oh, avrei proprio voglia d'immaginarmi ogni sorta di cosa indecente con Mia mentre viaggiamo, ma devo pensare a cosa esattamente le insegnerò oggi in piscina..."
 
-# game/scripts/story_01/mia.rpy:1234
+# game/scripts/story_01/mia.rpy:1239
 translate italian ev_150_0540a1b4:
 
     # Mia 03 "Сейчас я как оденусь полегче и как научусь плавать... Или это пока из разряда фантастики, Макс?"
     Mia 03 "Ora devo solo vestirmi più leggero e imparare a nuotare... O è ancora fantascienza, Max?"
 
-# game/scripts/story_01/mia.rpy:1235
+# game/scripts/story_01/mia.rpy:1240
 translate italian ev_150_6294b129:
 
     # Max 11 "Мне кажется, вполне реально. У вас неплохо получается..."
     Max 11 "Mi sembra del tutto possibile. Te la cavi piuttosto bene..."
 
-# game/scripts/story_01/mia.rpy:1239
+# game/scripts/story_01/mia.rpy:1244
 translate italian ev_150_139fb126:
 
     # Mia 02 "Это довольно обнадёживает. Я пойду переоденусь и пойдём к бассейну, хорошо?"
     Mia 02 "È piuttosto incoraggiante. Vado a cambiarmi e poi andiamo in piscina, va bene?"
 
-# game/scripts/story_01/mia.rpy:1240
+# game/scripts/story_01/mia.rpy:1245
 translate italian ev_150_22527345:
 
     # Max 03 "Конечно..."
     Max 03 "Certo..."
 
-# game/scripts/story_01/mia.rpy:1247
+# game/scripts/story_01/mia.rpy:1252
 translate italian ev_150_3620db3b:
 
     # tMax 01 "Так, ну а я-то уже переоделся. Чем же пока заняться? Может, пойти к бассейну или послоняться по дому..." nointeract
     tMax 01 "Ok, io intanto mi sono già cambiato. E adesso che facciamo? Magari andiamo in piscina o ci facciamo un giro in casa..." nointeract
 
-# game/scripts/story_01/mia.rpy:1252
+# game/scripts/story_01/mia.rpy:1257
 translate italian ev_150_16822e8a:
 
     # tMax 11 "Ванная комната сейчас занята Мией..." nointeract
     tMax 11 "Il bagno è ora occupato da Mia..." nointeract
 
-# game/scripts/story_01/mia.rpy:1263
+# game/scripts/story_01/mia.rpy:1268
 translate italian ev_150_3998eac5:
 
     # tMax 06 "Чёрт, да это же самый сексуальный адвокат на свете! Ох, я бы с таким удовольствием потискал все её округлости. Правда, что-то я сильно засмотрелся..." nointeract
     tMax 06 "Accidenti, è proprio l’avvocato più sexy del mondo! Oh, quanto mi piacerebbe stringere tutte le sue curve. Eh sì, mi sa che mi sono fissato un po’ troppo..." nointeract
 
-# game/scripts/story_01/mia.rpy:1273
+# game/scripts/story_01/mia.rpy:1278
 translate italian ev_150_deec3841:
 
     # Mia 13 "Блин, Макс!!! Напугал! Тебя разве не учили стучаться или хотя бы спрашивать разрешения, чтобы войти?"
     Mia 13 "Accidenti, Max!!! Mi hai fatto prendere un colpo! Non ti hanno insegnato a bussare o almeno a chiedere il permesso prima di entrare?"
 
-# game/scripts/story_01/mia.rpy:1274
+# game/scripts/story_01/mia.rpy:1279
 translate italian ev_150_fcb98913:
 
     # Max 05 "Извиняюсь! Думал, вы уже всё..."
     Max 05 "Mi dispiace! Pensavo che avessi già finito..."
 
-# game/scripts/story_01/mia.rpy:1276
+# game/scripts/story_01/mia.rpy:1281
 translate italian ev_150_b8b079b7:
 
     # Mia 12 "Как видишь, ещё нет! Прекращай на меня глазеть и жди у бассейна. Я скоро..." nointeract
     Mia 12 "Come vedi, ancora no! Smettila di fissarmi e aspettami alla piscina. Arrivo subito..." nointeract
 
-# game/scripts/story_01/mia.rpy:1291
+# game/scripts/story_01/mia.rpy:1296
 translate italian ev_150_29a62158:
 
     # tMax 13 "Ох, как же мне сегодня провести для неё урок плавания? Надо думать..."
     tMax 13 "Uff, come faccio a organizzarle la lezione di nuoto oggi? Devo farmi venire un’idea..."
 
-# game/scripts/story_01/mia.rpy:1298
+# game/scripts/story_01/mia.rpy:1303
 translate italian ev_150_c672631f:
 
     # Mia 06 "Что, Макс, вот и продолжаем учиться плавать, да? В прошлый раз у нас вышел небольшой конфуз..."
     Mia 06 "Allora Max, continuiamo a imparare a nuotare, eh? L'ultima volta c'è stato un piccolo imprevisto..."
 
-# game/scripts/story_01/mia.rpy:1299
+# game/scripts/story_01/mia.rpy:1304
 translate italian ev_150_bd501cda:
 
     # Max 11 "Вы уж так больше не пугайтесь. Здесь никого, кроме нас двоих, больше нет. Тем более в воде. Если что-то задеваете, то это либо я, либо вы."
     Max 11 "Non spaventarti più così. Non c'è nessun altro qui oltre a noi due. Tanto meno in acqua. Se toccate qualcosa, o sono io o sei tu."
 
-# game/scripts/story_01/mia.rpy:1300
+# game/scripts/story_01/mia.rpy:1305
 translate italian ev_150_ada0fc25:
 
     # Mia 02 "Что будем делать сегодня?"
     Mia 02 "Cosa facciamo oggi? Qual è il programma?"
 
-# game/scripts/story_01/mia.rpy:1301
+# game/scripts/story_01/mia.rpy:1306
 translate italian ev_150_4e624a84:
 
     # Max 12 "На воде вы, вроде, теперь держитесь, но лучше повторить всё, что было до этого. Приступим..."
     Max 12 "In acqua sembri cavartela ora, ma è meglio ripassare tutto quello che abbiamo fatto prima. Cominciamo..."
 
-# game/scripts/story_01/mia.rpy:1306
+# game/scripts/story_01/mia.rpy:1311
 translate italian ev_150_4d6456a4:
 
     # Mia 13 "Ого, какой ты шустрый! Подожди, мне ещё нужно собраться с духом прежде чем я смогу зайти в воду."
     Mia 13 "Wow, sei proprio veloce! Aspetta un attimo, devo ancora raccogliere un po’ di coraggio prima di entrare in acqua."
 
-# game/scripts/story_01/mia.rpy:1307
+# game/scripts/story_01/mia.rpy:1312
 translate italian ev_150_47ace30c:
 
     # Max 16 "Ладно, жду..."
     Max 16 "Va bene, ti aspetto..."
 
-# game/scripts/story_01/mia.rpy:1311
+# game/scripts/story_01/mia.rpy:1316
 translate italian ev_150_7306eeb7:
 
     # Mia 10 "Так, а чему я вообще научилась за это время? От волнения даже всё забыла..."
     Mia 10 "Allora, cosa ho imparato esattamente in tutto questo tempo? Per l'agitazione ho dimenticato tutto..."
 
-# game/scripts/story_01/mia.rpy:1312
+# game/scripts/story_01/mia.rpy:1317
 translate italian ev_150_ac6a86aa:
 
     # Max 04 "Повторим упражнение «Звёздочка». Помните? Это то, от которого вы страстно захотели снять с меня шорты."
     Max 04 "Ripetiamo l'esercizio «Stellina». Ti ricordi? È quello che ti ha fatto venire voglia di togliermi i pantaloncini."
 
-# game/scripts/story_01/mia.rpy:1316
+# game/scripts/story_01/mia.rpy:1321
 translate italian ev_150_d03d8e7f:
 
     # Mia 04 "Ну, а что? Ты же оказывается у нас такой «большой» мальчик, Макс... Вот я и не удержалась... Хи-хи..."
     Mia 04 "Beh, e allora? Si è scoperto che sei un ragazzo così... «Grande», Max... Per questo non ho saputo resistere... He-he..."
 
-# game/scripts/story_01/mia.rpy:1317
+# game/scripts/story_01/mia.rpy:1322
 translate italian ev_150_3f710316:
 
     # Max 01 "Похоже, вам уже не так страшно, раз смеётесь. Вспомнили, что надо делать?"
     Max 01 "Sembra che non ti faccia più così paura, visto che ridi. Ti sei ricordata cosa devi fare?"
 
-# game/scripts/story_01/mia.rpy:1318
+# game/scripts/story_01/mia.rpy:1323
 translate italian ev_150_f4f665f5:
 
     # Mia 12 "Э-э-э... Так, сейчас... Получается, я ложусь на воду и развожу руки с ногами в стороны. Ах, да, перед этим ещё нужно набрать побольше воздуха, чтобы остаться на плаву..."
     Mia 12 "Ehm... Dunque, ora... Praticamente mi sdraio sull'acqua e allargo braccia e gambe. Ah, sì, prima devo prendere un bel respiro per restare a galla..."
 
-# game/scripts/story_01/mia.rpy:1319
+# game/scripts/story_01/mia.rpy:1324
 translate italian ev_150_0e563b54:
 
     # Max 02 "Всё верно! Сперва ложитесь на спину. Вас придержать какое-то время или вы полностью сами?"
     Max 02 "Esatto! Prima sdraiati sulla schiena. Vuoi che ti sorregga per un po' o fai tutto da sola?"
 
-# game/scripts/story_01/mia.rpy:1320
+# game/scripts/story_01/mia.rpy:1325
 translate italian ev_150_bbde5677:
 
     # Mia 10 "Хм... В этот раз мне ещё точно нужна твоя помощь, так спокойнее."
     Mia 10 "Hm... Stavolta ho decisamente ancora bisogno del tuo aiuto, mi sento più tranquilla così."
 
-# game/scripts/story_01/mia.rpy:1321
+# game/scripts/story_01/mia.rpy:1326
 translate italian ev_150_05bdb099:
 
     # Max 11 "Без проблем. Вперёд, не бойтесь, вы уже это делали..."
     Max 11 "Nessun problema. Avanti, non aver paura, l'hai già fatto..."
 
-# game/scripts/story_01/mia.rpy:1326
+# game/scripts/story_01/mia.rpy:1331
 translate italian ev_150_a40155ad:
 
     # tMax 04 "Ну, а я снова с огромным удовольствием помогу этой потрясающей попке удержаться на плаву..."
     tMax 04 "Beh, e io aiuterò di nuovo con enorme piacere questo fondoschiena fantastico a restare a galla..."
 
-# game/scripts/story_01/mia.rpy:1327
+# game/scripts/story_01/mia.rpy:1332
 translate italian ev_150_8c0e7427:
 
     # Mia 12 "Ох, вроде получается... Теперь я постараюсь сама, можешь отпускать меня потихоньку..."
     Mia 12 "Oh, sembra che ci riesco... Ora proverò da sola, puoi lasciarmi andare piano piano..."
 
-# game/scripts/story_01/mia.rpy:1328
+# game/scripts/story_01/mia.rpy:1333
 translate italian ev_150_b9521ff1:
 
     # Max 01 "Поглубже вдох и ножки в стороны не забудьте развести."
     Max 01 "Un respiro più profondo e non dimenticare di allargare le gambe."
 
-# game/scripts/story_01/mia.rpy:1332
+# game/scripts/story_01/mia.rpy:1337
 translate italian ev_150_589e4524:
 
     # Mia 01 "Знаешь, а это уже становится не так уж и сложно делать! Правда, я радуюсь, что у меня получается самое лёгкое упражнение..."
     Mia 01 "Sai, sta diventando meno difficile del previsto! Anche se, a dire il vero, mi rallegro solo perché mi sta riuscendo l'esercizio più semplice..."
 
-# game/scripts/story_01/mia.rpy:1333
+# game/scripts/story_01/mia.rpy:1338
 translate italian ev_150_9c178228:
 
     # Max 03 "Скоро у вас всё будет получаться легко, если будете продолжать в том же духе."
     Max 03 "Presto ti riuscirà tutto con facilità, se continui di questo passo."
 
-# game/scripts/story_01/mia.rpy:1337
+# game/scripts/story_01/mia.rpy:1342
 translate italian ev_150_548ac3e6:
 
     # Mia 02 "Поверю вам на слово, капитан. Поможете мне с погружением под воду?"
     Mia 02 "Ti credo sulla parola, capitano. Mi aiuti con l'immersione sott'acqua?"
 
-# game/scripts/story_01/mia.rpy:1338
+# game/scripts/story_01/mia.rpy:1343
 translate italian ev_150_abbce7dc:
 
     # Max 02 "Естественно. Всё так же, глубокий вдох, руки в стороны, отталкиваетесь и ложитесь грудью на воду. После этого разводите ножки в стороны и расслабляетесь."
     Max 02 "Certo che sì! Stessa cosa: respiro profondo, braccia aperte, spingi dal fondo e appoggi il petto sull’acqua. Poi allarghi le gambe e ti rilassi."
 
-# game/scripts/story_01/mia.rpy:1342
+# game/scripts/story_01/mia.rpy:1347
 translate italian ev_150_3e753754:
 
     # tMax 11 "И почему некоторые её высказывания звучат так, будто это приглашение к чему-то развратному? Или это просто я такой озабоченный..."
     tMax 11 "E perché certe sue uscite suonano come un invito a qualcosa di depravato? O sono solo io che sono così fissato..."
 
-# game/scripts/story_01/mia.rpy:1346
+# game/scripts/story_01/mia.rpy:1351
 translate italian ev_150_1a3b14cb:
 
     # tMax 03 "Похоже, она делает всё как надо и её можно дальше не держать. У меня и так уже привстал от мыслей, с каким удовольствием я бы сейчас мог тискать её грудь..."
     tMax 03 "Mi sa che sta facendo tutto come si deve e posso lasciarla andare un po’. Già solo a pensarci, non ti nascondo che mi viene voglia di stringerle il seno..."
 
-# game/scripts/story_01/mia.rpy:1350
+# game/scripts/story_01/mia.rpy:1355
 translate italian ev_150_21e7c245:
 
     # Max 11 "Теперь можно вспомнить и о том, что мы делали на первом уроке. Попробуйте перебирать ножками вверх-вниз, пока я вас держу. Спокойно, не суетясь..."
     Max 11 "Ora possiamo ricordare quello che abbiamo fatto alla prima lezione. Prova a muovere le gambe su e giù mentre ti tengo. Con calma, senza fretta..."
 
-# game/scripts/story_01/mia.rpy:1352
+# game/scripts/story_01/mia.rpy:1357
 translate italian ev_150_3afb6647:
 
     # Mia 05 "Сейчас... Мне даже уже не так страшно, как было раньше! И не так тяжело."
     Mia 05 "Ecco... Ora non ho nemmeno più paura come prima! E non è neanche così faticoso."
 
-# game/scripts/story_01/mia.rpy:1353
+# game/scripts/story_01/mia.rpy:1358
 translate italian ev_150_89a88988:
 
     # Max 02 "Раз так, то можно и ручками поработать... Я подержу, а вы будете делать попеременные гребки, то правой рукой, то левой. И старайтесь всё так же перебирать ножками при этом. Пробуем..."
     Max 02 "Visto che è così, si può lavorare anche con le braccia... Io ti tengo, e tu farai delle bracciate alternate, prima con la mano destra, poi con la sinistra. E cerca di continuare a muovere le gambe allo stesso modo. Proviamo..."
 
-# game/scripts/story_01/mia.rpy:1357
+# game/scripts/story_01/mia.rpy:1362
 translate italian ev_150_b0034f66:
 
     # Mia 10 "Фух... Это сложно, Макс! Кажется, я не успеваю делать всё сразу..."
     Mia 10 "Fiuuu... È difficile, Max! Mi sembra di non riuscire a fare tutto insieme..."
 
-# game/scripts/story_01/mia.rpy:1358
+# game/scripts/story_01/mia.rpy:1363
 translate italian ev_150_3477836e:
 
     # Max 13 "Спокойнее... Нужно двигаться плавно и чётко, а не лупить по воде без разбора! Так вы только быстрее устанете и мне снова придётся вас вытаскивать из бассейна."
     Max 13 "Più calma... Devi muoverti in modo fluido e preciso, non schiaffeggiare l'acqua a casaccio! Così ti stancherai solo più in fretta e dovrò tirarti fuori dalla piscina di nuovo."
 
-# game/scripts/story_01/mia.rpy:1359
+# game/scripts/story_01/mia.rpy:1364
 translate italian ev_150_ebbe5de1:
 
     # Mia 12 "Да уж... Как бы нам постараться в этот раз до такого не доводить? Надеюсь, ты ещё не устал меня держать..."
     Mia 12 "Già... Come potremmo fare stavolta per non arrivare a tanto? Spero che tu non sia ancora stanco di tenermi..."
 
-# game/scripts/story_01/mia.rpy:1360
+# game/scripts/story_01/mia.rpy:1365
 translate italian ev_150_7f2151f8:
 
     # tMax 04 "О нет! Я так удачно и приятно ухватился, что буду стоять до полного изнеможения. А уж до её или моего..."
     tMax 04 "Oh no! Mi sono aggrappato così bene e con tale piacere che resterò qui fino allo sfinimento totale. Resta solo da vedere se sarà il suo... O il mio..."
 
-# game/scripts/story_01/mia.rpy:1361
+# game/scripts/story_01/mia.rpy:1366
 translate italian ev_150_236c460b:
 
     # Mia 10 "Ох, Макс, я всё! Больше не могу, пора заканчивать..."
     Mia 10 "Oh, Max, basta! Non ce la faccio più, è ora di finire..."
 
-# game/scripts/story_01/mia.rpy:1362
+# game/scripts/story_01/mia.rpy:1367
 translate italian ev_150_a68c6851:
 
     # Max 01 "Её..."
     Max 01 "Il suo..."
 
-# game/scripts/story_01/mia.rpy:1367
+# game/scripts/story_01/mia.rpy:1372
 translate italian ev_150_56736b30:
 
     # Mia 06 "Фух! Пожалуйста, скажи, что я сегодня была хороша? А то уже третий урок, а я всё ещё чувствую, что не справляюсь!"
     Mia 06 "Fiuuu! Per favore, dimmi che oggi sono stata brava? Perché siamo già alla terza lezione e sento ancora di non farcela!"
 
-# game/scripts/story_01/mia.rpy:1368
+# game/scripts/story_01/mia.rpy:1373
 translate italian ev_150_e366e04c:
 
     # Max 03 "Вы определённо хороши! Я уверен, скоро вы уже сама поплывёте, без всяких поддержек с моей стороны."
     Max 03 "Sei decisamente brava! Sono sicuro che presto nuoterai da sola, senza alcun sostegno da parte mia."
 
-# game/scripts/story_01/mia.rpy:1369
+# game/scripts/story_01/mia.rpy:1374
 translate italian ev_150_8a4ce390:
 
     # Mia 13 "Ой, Макс, это что там под водой такое большое?!"
     Mia 13 "Ohi, Max, cos'è quella cosa così grande lì sotto?!"
 
-# game/scripts/story_01/mia.rpy:1370
+# game/scripts/story_01/mia.rpy:1375
 translate italian ev_150_d84093ad:
 
     # Max 12 "Не пугайтесь, это моё..."
     Max 12 "Non spaventarti, è il mio..."
 
-# game/scripts/story_01/mia.rpy:1374
+# game/scripts/story_01/mia.rpy:1379
 translate italian ev_150_3515e026:
 
     # Mia 04 "Ого! Это в честь чего ты так сильно возбудился?!"
     Mia 04 "Wow! E a cosa devo questo tuo eccitamento così forte?!"
 
-# game/scripts/story_01/mia.rpy:1375
+# game/scripts/story_01/mia.rpy:1380
 translate italian ev_150_0ca0ccef:
 
     # Max 11 "Я же подросток, у меня сейчас стоит на всё, что движется. А если это ещё и шикарная женщина в соблазнительном купальнике, то всё..."
     Max 11 "Sono un adolescente, mi eccita tutto quello che si muove. E se poi si tratta di una donna splendida in un costume seducente, allora è finita..."
 
-# game/scripts/story_01/mia.rpy:1376
+# game/scripts/story_01/mia.rpy:1381
 translate italian ev_150_8aa62f1e:
 
     # Mia 02 "Ладно уж, не буду притворятся глупенькой, как будто не понимаю и удивлена... Это как раз то, о чём я изначально говорила, что нельзя просто так взять и научить меня плавать без вот такого вот напряжения..."
     Mia 02 "Va bene, non farò la finta tonta, come se non capissi o fossi sorpresa... È proprio quello che dicevo all'inizio: non si può semplicemente insegnarmi a nuotare senza una tensione del genere..."
 
-# game/scripts/story_01/mia.rpy:1377
+# game/scripts/story_01/mia.rpy:1382
 translate italian ev_150_6b60554c:
 
     # Max 16 "Получается, всё? Это наше последнее занятие по плаванию?"
     Max 16 "Quindi, è tutto? Questa è la nostra ultima lezione di nuoto?"
 
-# game/scripts/story_01/mia.rpy:1381
+# game/scripts/story_01/mia.rpy:1386
 translate italian ev_150_c7715a77:
 
     # Mia 03 "Вот ещё! Ты же сам сказал, что я вот-вот начну плавать сама. К тому же я и бояться воды стала меньше, благодаря твоей поддержке, так что бросать это я не хочу."
     Mia 03 "Ma figurati! L'hai detto tu stesso che sto per iniziare a nuotare da sola. In più, ho meno paura dell'acqua grazie al tuo sostegno, quindi non voglio smettere."
 
-# game/scripts/story_01/mia.rpy:1382
+# game/scripts/story_01/mia.rpy:1387
 translate italian ev_150_6f59b846:
 
     # Max 11 "То есть вас не напрягает моё приподнятое состояние?"
     Max 11 "Quindi, non ti mette a disagio questo mio stato di... Eccitazione?"
 
-# game/scripts/story_01/mia.rpy:1383
+# game/scripts/story_01/mia.rpy:1388
 translate italian ev_150_984a0f8a:
 
     # Mia 06 "Ну, а что мы тут можем поделать? В нашем случае, хотя бы есть некоторое ограничение, которое играет нам на руку... Что я намного старше, а ты вообще ещё ребёнок."
     Mia 06 "Beh, cosa possiamo fare? Nel nostro caso, almeno c'è una certa limitazione che gioca a nostro favore... Io sono molto più grande di te, mentre tu sei ancora un ragazzino."
 
-# game/scripts/story_01/mia.rpy:1384
+# game/scripts/story_01/mia.rpy:1389
 translate italian ev_150_ab807ffb:
 
     # Max 13 "А что тут именно ограничивает?"
     Max 13 "E che cosa ci limita, esattamente?"
 
-# game/scripts/story_01/mia.rpy:1390
+# game/scripts/story_01/mia.rpy:1395
 translate italian ev_150_5d47c0c4:
 
     # Mia 11 "Хотя бы то, что у меня могут быть серьёзные проблемы за совращение несовершеннолетнего. Такой шум поднимется, если об этом станет известно..."
     Mia 11 "Almeno il fatto che potrei avere seri problemi per aver sedotto un minore. Se la cosa venisse a galla, si scatenerebbe un putiferio..."
 
-# game/scripts/story_01/mia.rpy:1391
+# game/scripts/story_01/mia.rpy:1396
 translate italian ev_150_0f3b03f9:
 
     # Max 01 "Не переживайте, я не стану на вас никуда жаловаться из-за того, что у меня встал."
     Max 01 "Non preoccuparti, non mi lamenterò con nessuno solo perché mi è venuto duro."
 
-# game/scripts/story_01/mia.rpy:1393
+# game/scripts/story_01/mia.rpy:1398
 translate italian ev_150_bfefbcf4:
 
     # Mia 03 "Честно-честно?! Фух... Ты снова меня успокоил, Макс. Хи-хи... Пойдём переодеваться, а я ещё быстренько в душ забегу..." nointeract
     Mia 03 "Davvero?! Fiuuu... Mi hai rassicurata di nuovo, Max. Hi-hi... Andiamo a cambiarci, io però faccio prima un salto veloce in doccia..." nointeract
 
-# game/scripts/story_01/mia.rpy:1400
+# game/scripts/story_01/mia.rpy:1405
 translate italian ev_150_e76b2374:
 
     # tMax 12 "Нет, с таким стояком я в джинсы не влезу точно! А от мыслей, что совсем голенькая Мия сейчас не так далеко от меня, неудержимо хочется подрочить..." nointeract
     tMax 12 "No, con un’erezione del genere non entrerò mai nei jeans! E al solo pensiero che Mia sia lì, completamente nuda e così vicina a me, ho una voglia matta di farmi una sega..." nointeract
 
-# game/scripts/story_01/mia.rpy:1407
+# game/scripts/story_01/mia.rpy:1412
 translate italian ev_150_16822e8a_1:
 
     # tMax 11 "Ванная комната сейчас занята Мией..." nointeract
     tMax 11 "Il bagno è ora occupato da Mia..." nointeract
 
-# game/scripts/story_01/mia.rpy:1415
+# game/scripts/story_01/mia.rpy:1420
 translate italian ev_150_e12c15f1:
 
     # tMax 05 "Ух ты!!! Пока я тут осторожничаю, Мия уже во всю натирает свою киску пальчиками! Как же соблазнительно она выглядит, ммм..." nointeract
     tMax 05 "Caspita!!! Mentre io sto qui a fare il prudente, Mia si sta già dando da fare con le dita lì sotto! È così seducente, mmm..." nointeract
 
-# game/scripts/story_01/mia.rpy:1424
+# game/scripts/story_01/mia.rpy:1429
 translate italian ev_150_703c9504:
 
     # tMax 09 "Ухх... Вот это она завелась! Обеими руками уже себе помогает... Мне уже сложно сдерживаться от её стонов! Ещё чуть-чуть и... я кончу..."
     tMax 09 "Uhhh... Guarda com'è su di giri! Si sta aiutando con entrambe le mani... Faccio fatica a trattenermi con i suoi gemiti! Ancora un po' e... Vengo..."
 
-# game/scripts/story_01/mia.rpy:1442
+# game/scripts/story_01/mia.rpy:1447
 translate italian ev_150_734b5916:
 
     # tMax 04 "Отсюда её видно куда лучше, а любоваться тут определённо есть чем... Ох, и горяченький же у нас адвокат!"
     tMax 04 "Da qui la vista è molto meglio, e c'è decisamente di che rifarsi gli occhi... Oh, che avvocato bollente che abbiamo!"
 
-# game/scripts/story_01/mia.rpy:1443
+# game/scripts/story_01/mia.rpy:1448
 translate italian ev_150_9c33e628:
 
     # Mia 09 "Ммм... Да, Макс, вот так! Как хорошо, да... Пожалуйста, ещё... Ах-х-х! Д-а-а..."
     Mia 09 "Mmm... Sì, Max, così! Com'è bello, sì... Per favore, ancora... Ah-h-h! S-ì-ì..."
 
-# game/scripts/story_01/mia.rpy:1444
+# game/scripts/story_01/mia.rpy:1449
 translate italian ev_150_e06a4479:
 
     # tMax 06 "Нифига себе новость!!! Она ещё и представляет, что занимается этим со мной?! Как неожиданно и приятно... Надеюсь, мы друг друга не разочаруем..."
     tMax 06 "Accidenti, che notizia!!! Si immagina pure di farlo con me?! Che sorpresa piacevole... Spero che non ci deluderemo a vicenda..."
 
-# game/scripts/story_01/mia.rpy:1448
+# game/scripts/story_01/mia.rpy:1453
 translate italian ev_150_703c9504_1:
 
     # tMax 09 "Ухх... Вот это она завелась! Обеими руками уже себе помогает... Мне уже сложно сдерживаться от её стонов! Ещё чуть-чуть и... я кончу..."
     tMax 09 "Uhhh... Guarda com'è su di giri! Si sta aiutando con entrambe le mani... Faccio fatica a trattenermi con i suoi gemiti! Ancora un po' e... Vengo..."
 
-# game/scripts/story_01/mia.rpy:1460
+# game/scripts/story_01/mia.rpy:1465
 translate italian ev_150_8140d147:
 
     # Mia 13 "А-а-ай, Макс!!! С ума сошёл?! Что ты здесь делаешь, да ещё и без стука?"
     Mia 13 "A-a-ahi, Max!!! Ma sei impazzito?! Che ci fai qui, e per di più senza bussare?"
 
-# game/scripts/story_01/mia.rpy:1461
+# game/scripts/story_01/mia.rpy:1466
 translate italian ev_150_46c5b963:
 
     # Max 15 "Вы же сами звали, разве нет?!"
     Max 15 "Ma se mi hai chiamato tu stessa, no?!"
 
-# game/scripts/story_01/mia.rpy:1462
+# game/scripts/story_01/mia.rpy:1467
 translate italian ev_150_a9d38204:
 
     # Mia 14 "Конечно, нет!"
     Mia 14 "Certo che no!"
 
-# game/scripts/story_01/mia.rpy:1463
+# game/scripts/story_01/mia.rpy:1468
 translate italian ev_150_cd2f9c83:
 
     # Max 16 "Но я точно слышал своё имя..."
     Max 16 "Ma ho sentito chiaramente il mio nome..."
 
-# game/scripts/story_01/mia.rpy:1464
+# game/scripts/story_01/mia.rpy:1469
 translate italian ev_150_fd48c7f1:
 
     # Mia 11 "Блин! И давно ты уже здесь?"
     Mia 11 "Accidenti! E da quanto tempo sei qui?"
 
-# game/scripts/story_01/mia.rpy:1465
+# game/scripts/story_01/mia.rpy:1470
 translate italian ev_150_37b30448:
 
     # Max 12 "Ну, как вам сказать, даже не знаю..."
     Max 12 "Beh, come dirlo... Non saprei nemmeno io..."
 
-# game/scripts/story_01/mia.rpy:1467
+# game/scripts/story_01/mia.rpy:1472
 translate italian ev_150_c29f21e7:
 
     # Mia 10 "Как же неудобно получилось... Выйди, пожалуйста, и подожди в гостиной. Видимо, нам надо будет поговорить..." nointeract
     Mia 10 "Che situazione imbarazzante... Esci, per favore, e aspettami in salotto. Evidentemente dobbiamo parlare..." nointeract
 
-# game/scripts/story_01/mia.rpy:1477
+# game/scripts/story_01/mia.rpy:1482
 translate italian ev_150_6a72bd42:
 
     # tMax 14 "Да уж... Подрочил от всей души, называется... По-умному. Вот надо было мне туда идти, а?! Это всё, беда. Если не сказать похуже..."
     tMax 14 "Accidenti... Bell'affare, complimenti a me! Ma dovevo proprio andarci?! È un disastro... Se non peggio..."
 
-# game/scripts/story_01/mia.rpy:1485
+# game/scripts/story_01/mia.rpy:1490
 translate italian ev_150_c1b4077f:
 
     # Mia 12 "Значит так, Макс... Думаю, нравоучениями я заниматься не буду с учётом того, за каким занятием ты меня застукал."
     Mia 12 "Dunque, Max... Credo che non starò qui a farti la predica, considerando l'attività in cui mi hai beccata."
 
-# game/scripts/story_01/mia.rpy:1486
+# game/scripts/story_01/mia.rpy:1491
 translate italian ev_150_be0728ae:
 
     # Max 11 "Да?!"
     Max 11 "Sì?!"
 
-# game/scripts/story_01/mia.rpy:1487
+# game/scripts/story_01/mia.rpy:1492
 translate italian ev_150_e2b76441:
 
     # Mia 11 "Да. Предлагаю просто сделать вид, что ты ничего не видел. А ещё лучше забыть. Я же в свою очередь сделаю вид, что не видела тебя с членом в руках у себя в ванной."
     Mia 11 "Sì. Propongo di fare finta che tu non abbia visto nulla. O ancora meglio, dimenticatene. Io, dal canto mio, farò finta di non averti visto con il cazzo in mano nel mio bagno."
 
-# game/scripts/story_01/mia.rpy:1491
+# game/scripts/story_01/mia.rpy:1496
 translate italian ev_150_7ba765fe:
 
     # Max 13 "Ну... Забуду я это вряд ли. А если и да, то точно нескоро. Вот сделать вид... тоже будет сложно... Всё таки смотрелись вы классно!"
     Max 13 "Beh... Difficilmente me ne dimenticherò. E se anche fosse, di certo non presto. Fare finta... Sarà difficile anche quello... Comunque, eri davvero fantastica!"
 
-# game/scripts/story_01/mia.rpy:1492
+# game/scripts/story_01/mia.rpy:1497
 translate italian ev_150_914a0913:
 
     # Mia 10 "Макс, ты меня в краску вгоняешь такими заявлениями! Хотя, сама же и виновата, сильно разошлась..."
     Mia 10 "Max, mi fai arrossire con queste affermazioni! Anche se, è colpa mia, mi sono lasciata andare un po' troppo..."
 
-# game/scripts/story_01/mia.rpy:1493
+# game/scripts/story_01/mia.rpy:1498
 translate italian ev_150_2dc518f4:
 
     # Max 01 "Из-за меня?"
     Max 01 "A causa mia?"
 
-# game/scripts/story_01/mia.rpy:1498
+# game/scripts/story_01/mia.rpy:1503
 translate italian ev_150_ee55486d:
 
     # Mia 00 "Всё, хватит уже об этом говорить. Пойдём, я отвезу тебя домой..." nointeract
     Mia 00 "Basta, smettiamola di parlarne. Dai, ti riaccompagno a casa..." nointeract
 
-# game/scripts/story_01/mia.rpy:1506
+# game/scripts/story_01/mia.rpy:1511
 translate italian ev_150_fbeddaee:
 
     # Mia 01 "Ничего не забыл?"
     Mia 01 "Non ti sei dimenticato di niente?"
 
-# game/scripts/story_01/mia.rpy:1507
+# game/scripts/story_01/mia.rpy:1512
 translate italian ev_150_b03d535a:
 
     # Max 12 "Вроде всё при мне."
     Max 12 "Sembra che io abbia tutto con me."
 
-# game/scripts/story_01/mia.rpy:1508
+# game/scripts/story_01/mia.rpy:1513
 translate italian ev_150_6ff1b88d:
 
     # Mia 04 "Прекрасно. Тогда едем..."
     Mia 04 "Perfetto. Allora andiamo..."
 
-# game/scripts/story_01/mia.rpy:1509
+# game/scripts/story_01/mia.rpy:1514
 translate italian ev_150_14970946:
 
     # Max 16 "А что теперь на счёт уроков плавания?"
     Max 16 "E ora, che ne sarà delle lezioni di nuoto?"
 
-# game/scripts/story_01/mia.rpy:1515
+# game/scripts/story_01/mia.rpy:1520
 translate italian ev_150_16d0d01d:
 
     # Mia 02 "Продолжим после того, как я вернусь... Ещё не успела сказать, но мне скоро нужно будет уехать в другой город по одному делу."
     Mia 02 "Continueremo quando sarò tornata... Non ho ancora avuto il tempo di dirtelo, ma presto dovrò andare in un'altra città per un affare."
 
-# game/scripts/story_01/mia.rpy:1516
+# game/scripts/story_01/mia.rpy:1521
 translate italian ev_150_d51e01bb:
 
     # Max 13 "Удобный предлог..."
     Max 13 "Una comoda scusa..."
 
-# game/scripts/story_01/mia.rpy:1517
+# game/scripts/story_01/mia.rpy:1522
 translate italian ev_150_193a0e06:
 
     # Mia 12 "Нет, я серьёзно. Не знаю точно, сколько это займёт времени... Может, несколько недель, а может и несколько месяцев. Довольно большое дело."
     Mia 12 "No, dico sul serio. Non so esattamente quanto tempo ci vorrà... Forse qualche settimana, o forse anche qualche mese. È un caso piuttosto importante."
 
-# game/scripts/story_01/mia.rpy:1518
+# game/scripts/story_01/mia.rpy:1523
 translate italian ev_150_943cbc17:
 
     # Max 12 "Допустим. А как я узнаю, что вы вернулись?"
     Max 12 "Mettiamo il caso. Ma come farò a sapere che sei tornata?"
 
-# game/scripts/story_01/mia.rpy:1519
+# game/scripts/story_01/mia.rpy:1524
 translate italian ev_150_33c33702:
 
     # Mia 04 "У твоей мамы же есть мой номер телефона... Можешь через неё, но пора бы уже обзавестись своим телефоном, как считаешь?"
     Mia 04 "Tua madre ha il mio numero di telefono... Puoi farlo tramite lei, ma sarebbe anche ora di farti un telefono tuo, non credi?"
 
-# game/scripts/story_01/mia.rpy:1520
+# game/scripts/story_01/mia.rpy:1525
 translate italian ev_150_785e24ab:
 
     # Max 03 "Да, надо бы. А фотки будете мне из душа присылать?"
     Max 03 "Sì, dovrei. E mi manderai delle foto dalla doccia?"
 
-# game/scripts/story_01/mia.rpy:1521
+# game/scripts/story_01/mia.rpy:1526
 translate italian ev_150_91f01fcd:
 
     # Mia 03 "Хи-хи... А ты мне? У меня тоже должен быть на тебя компромат, чтобы всё было честно."
     Mia 03 "Hi-hi... E tu a me? Devo avere del materiale compromettente su di te, perché sia tutto onesto."
 
-# game/scripts/story_01/mia.rpy:1522
+# game/scripts/story_01/mia.rpy:1527
 translate italian ev_150_ad019317:
 
     # Max 15 "Хм... Неожиданный поворот! Мне потребуется хорошенько обдумать ваши условия..."
     Max 15 "Hm... Un colpo di scena inaspettato! Dovrò riflettere attentamente sulle tue condizioni..."
 
-# game/scripts/story_01/mia.rpy:1526
+# game/scripts/story_01/mia.rpy:1531
 translate italian ev_150_c1e030ad:
 
     # Mia 02 "Вот, будешь знать, Макс... Я тоже хитрая и со мной лучше не расслабляться."
     Mia 02 "Ecco, così imparerai, Max... Anch'io sono furba e con me è meglio non rilassarsi."
 
-# game/scripts/story_01/mia.rpy:1527
+# game/scripts/story_01/mia.rpy:1532
 translate italian ev_150_747b715c:
 
     # Max 04 "Что, совсем-совсем?! Жалко..."
     Max 04 "Cosa, davvero?! Peccato..."
 
-# game/scripts/story_01/mia.rpy:1531
+# game/scripts/story_01/mia.rpy:1536
 translate italian ev_150_4c2ee95e:
 
     # Mia 03 "Всё, домой я тебя вернула и на прощание обняла. Ещё увидимся, Макс. До скорого..."
     Mia 03 "Ecco, ti ho riportato a casa e ti ho salutato con un abbraccio. Ci rivedremo, Max. A presto..."
 
-# game/scripts/story_01/mia.rpy:1532
+# game/scripts/story_01/mia.rpy:1537
 translate italian ev_150_6573116e:
 
     # Max 11 "Всего доброго. Удачи с этим вашим делом..."
     Max 11 "Tutto il meglio. Buona fortuna con quel tuo affare..."
 
-# game/scripts/story_01/mia.rpy:1538
+# game/scripts/story_01/mia.rpy:1543
 translate italian ev_150_9eb3b2a5:
 
     # tMax 16 "Конечно, если оно реально есть. А то только мне стоило малость отчудить, так у неё сразу дела в другом городе появились и надо уехать неизвестно насколько."
     tMax 16 "Certo, se questo affare esiste davvero. Non appena ho fatto un po' il matto, le sono spuntati subito degli impegni in un'altra città e deve sparire chissà per quanto."
 
-# game/scripts/story_01/mia.rpy:1539
+# game/scripts/story_01/mia.rpy:1544
 translate italian ev_150_d1a1503d:
 
     # tMax 13 "С другой стороны, она сама же намекнула на телефон, а это уже некоторый прогресс в наших отношениях. Так что я определённо им обзаведусь, но чуть позже..."
@@ -3164,99 +3164,99 @@ translate italian ev_150_d1a1503d:
 
 translate italian strings:
 
-    # game/scripts/story_01/mia.rpy:48
+    # game/scripts/story_01/mia.rpy:51
     old "{i}поразглядывать гостью, делая напитки{/i}"
     new "{i}guardare l'ospite mentre si preparano i drink{/i}"
 
-    # game/scripts/story_01/mia.rpy:162
+    # game/scripts/story_01/mia.rpy:164
     old "{i}отвести Мию в мамину комнату{/i}"
     new "{i}portare Mia nella stanza della mamma{/i}"
 
-    # game/scripts/story_01/mia.rpy:175
+    # game/scripts/story_01/mia.rpy:177
     old "{i}идти делать напитки{/i}"
     new "{i}andare a preparare da bere{/i}"
 
-    # game/scripts/story_01/mia.rpy:175
+    # game/scripts/story_01/mia.rpy:179
     old "{i}подсмотреть за Мией в окно{/i}"
     new "{i}guardare Mia dalla finestra{/i}"
 
-    # game/scripts/story_01/mia.rpy:191
+    # game/scripts/story_01/mia.rpy:193
     old "{i}скорее идти делать напитки{/i}"
     new "{i}meglio andare a preparare le bevande{/i}"
 
-    # game/scripts/story_01/mia.rpy:232
+    # game/scripts/story_01/mia.rpy:235
     old "{i}любоваться мамой и Мией, делая напитки{/i}"
     new "{i}ammirare mamma e Mia mentre prepari le bevande{/i}"
 
-    # game/scripts/story_01/mia.rpy:392
+    # game/scripts/story_01/mia.rpy:394
     old "{i}идти вниз{/i}"
     new "{i}scendere{/i}"
 
-    # game/scripts/story_01/mia.rpy:451
+    # game/scripts/story_01/mia.rpy:453
     old "{i}осмотреть ванную комнату{/i}"
     new "{i}dare un'occhiata al bagno{/i}"
 
-    # game/scripts/story_01/mia.rpy:451
+    # game/scripts/story_01/mia.rpy:455
     old "{i}осмотреть гостиную{/i}"
     new "{i}salotto{/i}"
 
-    # game/scripts/story_01/mia.rpy:451
+    # game/scripts/story_01/mia.rpy:457
     old "{i}осмотреть двор{/i}"
     new "{i}guardare in giro per il cortile{/i}"
 
-    # game/scripts/story_01/mia.rpy:463
+    # game/scripts/story_01/mia.rpy:465
     old "{i}заглянуть внутрь{/i}"
     new "{i}dare un’occhiata dentro{/i}"
 
-    # game/scripts/story_01/mia.rpy:547
+    # game/scripts/story_01/mia.rpy:562
     old "{i}ждать Мию у бассейна{/i}"
     new "{i}aspettare Mia in piscina{/i}"
 
-    # game/scripts/story_01/mia.rpy:678
+    # game/scripts/story_01/mia.rpy:680
     old "{i}заговорить с Мией отсюда{/i}"
     new "{i}parlare con Mia da qui{/i}"
 
-    # game/scripts/story_01/mia.rpy:691
+    # game/scripts/story_01/mia.rpy:694
     old "{i}выйти{/i}"
     new "{i}uscire{/i}"
 
-    # game/scripts/story_01/mia.rpy:711
+    # game/scripts/story_01/mia.rpy:713
     old "{i}переодеться и ждать{/i}"
     new "{i}cambiare e aspettare{/i}"
 
-    # game/scripts/story_01/mia.rpy:725
+    # game/scripts/story_01/mia.rpy:727
     old "{i}идти к машине{/i}"
     new "{i}andare in macchina{/i}"
 
-    # game/scripts/story_01/mia.rpy:732
+    # game/scripts/story_01/mia.rpy:734
     old "{i}отнести стремянку к машине{/i}"
     new "{i}portare la scaletta all'auto{/i}"
 
-    # game/scripts/story_01/mia.rpy:841
+    # game/scripts/story_01/mia.rpy:845
     old "{i}отправиться к Мие домой{/i}"
     new "{i}andare a casa di Mia{/i}"
 
-    # game/scripts/story_01/mia.rpy:877
+    # game/scripts/story_01/mia.rpy:882
     old "{i}пойти к ванной комнате{/i}"
     new "{i}andare al bagno{/i}"
 
-    # game/scripts/story_01/mia.rpy:877
+    # game/scripts/story_01/mia.rpy:898
     old "{i}пойти во двор{/i}"
     new "{i}andare in cortile{/i}"
 
-    # game/scripts/story_01/mia.rpy:970
+    # game/scripts/story_01/mia.rpy:974
     old "{i}медленно убрать руки{/i}"
     new "{i}ritirare lentamente le mani{/i}"
 
-    # game/scripts/story_01/mia.rpy:1034
+    # game/scripts/story_01/mia.rpy:1038
     old "{i}пойти переодеться{/i}"
     new "{i}andare a cambiarsi{/i}"
 
-    # game/scripts/story_01/mia.rpy:1414
+    # game/scripts/story_01/mia.rpy:1422
     old "{i}тихонько дрочить на Мию{/i}"
     new "{i}masturbarsi in silenzio pensando a Mia{/i}"
 
-    # game/scripts/story_01/mia.rpy:1414
+    # game/scripts/story_01/mia.rpy:1439
     old "{i}нагло дрочить на Мию{/i}"
     new "{i}masturbarsi sfacciatamente pensando a Mia{/i}"
 

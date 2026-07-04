@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2026-02-19 00:46
+# TODO: Translation updated at 2026-07-03 17:20
 
 # game/scripts/story_01/cam_events.rpy:23
 translate italian ev_cam_alice_bath_mb1_85e9753a:

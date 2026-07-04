@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2026-02-19 00:46
+# TODO: Translation updated at 2026-07-03 17:21
 
 # game/scripts/story_01/school.rpy:11
 translate italian ev_004_1fe4b55c:
@@ -1124,19 +1124,19 @@ translate italian ev_131_ef03f245:
 
 translate italian strings:
 
-    # game/scripts/story_01/school.rpy:44
+    # game/scripts/story_01/school.rpy:46
     old "{i}ждать Лизу во дворе{/i}"
     new "{i}aspetta Lisa nel cortile{/i}"
 
-    # game/scripts/story_01/school.rpy:61
+    # game/scripts/story_01/school.rpy:63
     old "{i}идти к бассейну{/i}"
     new "{i}vai in piscina{/i}"
 
-    # game/scripts/story_01/school.rpy:116
+    # game/scripts/story_01/school.rpy:118
     old "Нет, поплаваю с тобой ещё немного..."
     new "No, nuoterò ancora un po' con te..."
 
-    # game/scripts/story_01/school.rpy:116
+    # game/scripts/story_01/school.rpy:143
     old "Ага. Пора делами заниматься..."
     new "Sì, è ora di darsi da fare..."
 

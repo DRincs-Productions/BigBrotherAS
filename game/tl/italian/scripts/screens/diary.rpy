@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2026-02-19 00:46
+# TODO: Translation updated at 2026-07-03 17:21
 
 translate italian strings:
 
@@ -26,43 +26,43 @@ translate italian strings:
     old "ВСЕ"
     new "TUTTO"
 
-    # game/scripts/screens/diary.rpy:154
+    # game/scripts/screens/diary.rpy:164
     old "Сейчас здесь нет заданий"
     new "Al momento non ci sono missioni da svolgere"
 
-    # game/scripts/screens/diary.rpy:202
+    # game/scripts/screens/diary.rpy:215
     old "ПОСЛЕДСТВИЯ:"
     new "CONSEGUENZE:"
 
-    # game/scripts/screens/diary.rpy:216
+    # game/scripts/screens/diary.rpy:229
     old "Завершите задание, чтобы получить награду..."
     new "Completa la missione per ricevere la tua ricompensa..."
 
-    # game/scripts/screens/diary.rpy:218
+    # game/scripts/screens/diary.rpy:231
     old "Нужно приблизиться к завершению задания, чтобы узнать о награде..."
     new "È necessario avvicinarsi al completamento della missione per scoprire la ricompensa..."
 
-    # game/scripts/screens/diary.rpy:221
+    # game/scripts/screens/diary.rpy:234
     old "НАГРАДА:"
     new "RICOMPENSA:"
 
-    # game/scripts/screens/diary.rpy:373
+    # game/scripts/screens/diary.rpy:386
     old "МОЯ СТАРШАЯ СЕСТРЁНКА"
     new "MIA SORELLA MAGGIORE"
 
-    # game/scripts/screens/diary.rpy:381
+    # game/scripts/screens/diary.rpy:394
     old "МОЯ МАМА"
     new "MIA MAMMA"
 
-    # game/scripts/screens/diary.rpy:388
+    # game/scripts/screens/diary.rpy:401
     old "МОЯ МЛАДШАЯ СЕСТРЁНКА"
     new "LA MIA SORELLINA"
 
-    # game/scripts/screens/diary.rpy:397
+    # game/scripts/screens/diary.rpy:410
     old "АДВОКАТ"
     new "AVVOCATO"
 
-    # game/scripts/screens/diary.rpy:415
+    # game/scripts/screens/diary.rpy:428
     old "НАШИ ВЗАИМООТНОШЕНИЯ:"
     new "LA NOSTRA RELAZIONE:"
 

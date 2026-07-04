@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2026-02-19 00:46
+# TODO: Translation updated at 2026-07-03 17:21
 
 # game/scripts/story_01/eric.rpy:11
 translate italian ev_055_e6d21536:
@@ -1130,35 +1130,35 @@ translate italian ev_143_0d053789:
 
 translate italian strings:
 
-    # game/scripts/story_01/eric.rpy:15
+    # game/scripts/story_01/eric.rpy:18
     old "А сзади всё так же идеально?"
     new "È ancora perfetta nella parte posteriore?"
 
-    # game/scripts/story_01/eric.rpy:15
+    # game/scripts/story_01/eric.rpy:24
     old "В этом платье ты сразишь всех!"
     new "Con questo abito, lascerai tutti a bocca aperta!"
 
-    # game/scripts/story_01/eric.rpy:40
+    # game/scripts/story_01/eric.rpy:42
     old "{i}выйти во двор{/i}"
     new "{i}uscire nel cortile{/i}"
 
-    # game/scripts/story_01/eric.rpy:120
+    # game/scripts/story_01/eric.rpy:122
     old "{i}идти в гостиную{/i}"
     new "{i}vai in salotto{/i}"
 
-    # game/scripts/story_01/eric.rpy:157
+    # game/scripts/story_01/eric.rpy:159
     old "Конечно, встретить её!"
     new "Certo, per conoscerlo!"
 
-    # game/scripts/story_01/eric.rpy:157
+    # game/scripts/story_01/eric.rpy:170
     old "Не встречать её!"
     new "Non conoscerlo!"
 
-    # game/scripts/story_01/eric.rpy:269
+    # game/scripts/story_01/eric.rpy:271
     old "{i}выйти из комнаты{/i}"
     new "{i}uscire dalla stanza{/i}"
 
-    # game/scripts/story_01/eric.rpy:336
+    # game/scripts/story_01/eric.rpy:338
     old "{i}прислушаться{/i}"
     new "{i}ascoltare{/i}"
 

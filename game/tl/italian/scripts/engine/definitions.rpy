@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2026-02-19 00:46
+# TODO: Translation updated at 2026-07-03 17:21
 
 translate italian strings:
 
@@ -26,35 +26,39 @@ translate italian strings:
     old "Мии"
     new "Mia"
 
-    # game/scripts/engine/definitions.rpy:34
+    # game/scripts/engine/definitions.rpy:30
+    old "Киры"
+    new "Kira"
+
+    # game/scripts/engine/definitions.rpy:35
     old "Комната Макса и Лизы"
     new "Camera di Max e Lisa"
 
-    # game/scripts/engine/definitions.rpy:34
+    # game/scripts/engine/definitions.rpy:35
     old "Комната Алисы"
     new "Camera di Alice"
 
-    # game/scripts/engine/definitions.rpy:34
+    # game/scripts/engine/definitions.rpy:35
     old "Комната Анны"
     new "Camera di Anna"
 
-    # game/scripts/engine/definitions.rpy:34
+    # game/scripts/engine/definitions.rpy:35
     old "Ванная комната"
     new "Bagno"
 
-    # game/scripts/engine/definitions.rpy:34
+    # game/scripts/engine/definitions.rpy:35
     old "Гостиная"
     new "Soggiorno"
 
-    # game/scripts/engine/definitions.rpy:34
+    # game/scripts/engine/definitions.rpy:35
     old "Веранда"
     new "Veranda"
 
-    # game/scripts/engine/definitions.rpy:34
+    # game/scripts/engine/definitions.rpy:35
     old "Двор"
     new "Cortile"
 
-    # game/scripts/engine/definitions.rpy:44
+    # game/scripts/engine/definitions.rpy:45
     old "Спальня"
     new "Camera da letto"
 
