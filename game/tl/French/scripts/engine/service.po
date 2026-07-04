@@ -10,33 +10,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2026-06-27 16:34\n"
+"PO-Revision-Date: 2026-07-04 14:06\n"
 
-# TODO: Translation updated at 2026-06-22 22:36 #|#|# # game/scripts/engine/service.rpy:90 #-#-# translate crowdin nothing_to_do_423a776a:
+# TODO: Translation updated at 2026-07-03 17:20 #|#|# # game/scripts/engine/service.rpy:90 #-#-# translate crowdin nothing_to_do_423a776a:
 msgid "[_tMax_s_12_] Пока что мне здесь больше нечего делать..."
 msgstr "[_tMax_s_12_] Je n'ai rien d'autre à faire ici pour le moment..."
 
-# game/scripts/engine/service.rpy:585 #-#-# translate crowdin after_buy_388f9ec2:
+# game/scripts/engine/service.rpy:584 #-#-# translate crowdin after_buy_388f9ec2:
 msgid "[_tMax_s_12_] Да уж... Пришлось раскошелиться... Надеюсь, благодаря этой книге мне удастся создать свой сайт и хорошо заработать."
 msgstr ""
 
-# game/scripts/engine/service.rpy:586 #-#-# translate crowdin after_buy_1673198b:
+# game/scripts/engine/service.rpy:585 #-#-# translate crowdin after_buy_1673198b:
 msgid "[_tMax_s_01_] Но книгу, как и другие товары, заказанные в интернете, доставят только завтра. Поэтому пока можно отдохнуть..."
 msgstr ""
 
-# game/scripts/engine/service.rpy:606 #-#-# translate crowdin webcam_show_8e2c7b14:
+# game/scripts/engine/service.rpy:605 #-#-# translate crowdin webcam_show_8e2c7b14:
 msgid "[_tMax_s_11_] Прилягу-ка я на кровать, чтобы Лиза не увидела ничего такого..."
 msgstr "[Je vais m'allonger sur le lit pour que Lisa ne voie rien de tout cela..."
 
-# game/scripts/engine/service.rpy:613 #-#-# translate crowdin webcam_show_2717e9a0:
+# game/scripts/engine/service.rpy:612 #-#-# translate crowdin webcam_show_2717e9a0:
 msgid "[_tMax_s_11_] Прилягу-ка я на кровать, чтобы Лиза не увидела ничего такого, если зайдёт в комнату..."
 msgstr "[Je vais m'allonger sur le lit pour que Lisa ne voie rien de tout cela si elle entre dans la pièce..."
 
-# §translate crowdin strings: #|#|# # game/scripts/engine/service.rpy:588
+# §translate crowdin strings: #|#|# # game/scripts/engine/service.rpy:587
 msgid "Способ заработать"
 msgstr "Un moyen de gagner de l'argent"
 
-# game/scripts/engine/service.rpy:593
+# game/scripts/engine/service.rpy:592
 msgid "Маслице для загара"
 msgstr "Huile de bronzage"
 
