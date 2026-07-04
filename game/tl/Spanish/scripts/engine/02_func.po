@@ -10,33 +10,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-02-19 09:33\n"
+"PO-Revision-Date: 2026-07-04 14:09\n"
 
-# TODO: Translation updated at 2026-02-19 00:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/02_func.rpy:480
+# TODO: Translation updated at 2026-07-03 17:21 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/02_func.rpy:486
 msgid "Скрытность"
 msgstr "Sigilo"
 
-# game/scripts/engine/02_func.rpy:481
+# game/scripts/engine/02_func.rpy:487
 msgid "Убеждение"
 msgstr "Persuasión"
 
-# game/scripts/engine/02_func.rpy:482
+# game/scripts/engine/02_func.rpy:488
 msgid "Массаж"
 msgstr "Masaje"
 
-# game/scripts/engine/02_func.rpy:490
+# game/scripts/engine/02_func.rpy:496
 msgid "Настроение {char_name}"
 msgstr "Estado de ánimo {char_name}"
 
-# game/scripts/engine/02_func.rpy:490
+# game/scripts/engine/02_func.rpy:496
 msgid "мамы"
 msgstr "mamá"
 
-# game/scripts/engine/02_func.rpy:1004
+# game/scripts/engine/02_func.rpy:1043
 msgid "Галерея снов обновлена!"
 msgstr "La galería de sueños ha sido actualizada."
 
-# game/scripts/engine/02_func.rpy:1019
+# game/scripts/engine/02_func.rpy:1058
 msgid "Галерея дополнений обновлена!"
 msgstr "¡Se ha actualizado la galería de complementos!"
 
