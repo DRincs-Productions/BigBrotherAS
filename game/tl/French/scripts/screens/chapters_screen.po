@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/screens/chapters_screen.po\n"
+"X-Crowdin-File-ID: 14712\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2026-07-04 14:14\n"
+
+# TODO: Translation updated at 2026-07-03 17:21 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/chapters_screen.rpy:20
+msgid "Вернуться"
+msgstr "Retourner"
+
+# game/scripts/screens/chapters_screen.rpy:25
+msgid "Выбор главы"
+msgstr ""
+
+# game/scripts/screens/chapters_screen.rpy:27
+msgid "Начать"
+msgstr "Démarrage"
+
+# game/scripts/screens/chapters_screen.rpy:45
+msgid "ГЛАВА {}"
+msgstr ""
+
+# game/scripts/screens/chapters_screen.rpy:80
+msgid "Для того, чтобы получить доступ к этой главе, нужно завершить все задания из предыдущей главы..."
+msgstr ""
+
