@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-10-01 21:59\n"
+"PO-Revision-Date: 2026-10-01 23:01\n"
 
 # TODO: Translation updated at 2026-07-03 17:21 #|#|# # game/scripts/story_01/shopping.rpy:20 #-#-# translate crowdin ev_051_f2e28c50:
 msgid "[_Ann_s_01_] Макс, мы пошли по магазинам. Не скучай тут без нас, хорошо? Вернёмся часа через 3... [nointeract]"
@@ -158,11 +158,11 @@ msgstr "[_Max_s_11_] Diviértete comprando..."
 
 # game/scripts/story_01/shopping.rpy:120 #-#-# translate crowdin ev_151_6c54888b:
 msgid "[_Alice_s_04_] Макс у нас уже побаловал Лизу подарком, который она так сильно хотела. Так что сегодня закупаемся мы с мамой..."
-msgstr ""
+msgstr "[_Alice_s_04_] Max ya ha dado una sorpresa a Lisa con el vestido que tanto deseaba. Hoy vamos a ir de compras con mamá..."
 
 # game/scripts/story_01/shopping.rpy:121 #-#-# translate crowdin ev_151_b2cbdedd:
 msgid "[_Lisa_s_01_] А я так, за компанию с ними!"
-msgstr ""
+msgstr "[_Lisa_s_01_] ¡Y yo, pues, para hacerles compañía!"
 
 # game/scripts/story_01/shopping.rpy:122 #-#-# translate crowdin ev_151_ba1a46eb_1:
 msgid "[_Max_s_11_] Удачных вам покупок..."
@@ -246,7 +246,7 @@ msgstr "[_Ann_s_01_] Por cierto, Eric te está esperando ahí fuera, en el patio
 
 # game/scripts/story_01/shopping.rpy:195 #-#-# translate crowdin ev_152_59873436:
 msgid "[_Lisa_s_02_] Эй, Макс, мы вернулись! У Алисы теперь есть платье, у меня купальник, а у мамы... сам видишь..."
-msgstr ""
+msgstr "[_Lisa_s_02_] ¡Eh, Max, ya hemos vuelto! Alice ahora tiene un vestido, yo tengo un bañador y mamá... ya lo ves..."
 
 # game/scripts/story_01/shopping.rpy:196 #-#-# translate crowdin ev_152_1deec35c_3:
 msgid "[_Max_s_05_] Ухх... Какое платье, мам! Смотришься в нём очень шикарно."
@@ -262,123 +262,123 @@ msgstr "[_Max_s_03_] Un buen sustituto. Me gusta."
 
 # game/scripts/story_01/shopping.rpy:202 #-#-# translate crowdin ev_152_5b844ab4:
 msgid "[_Ann_s_01_] Кстати, там Эрик тебя ждёт во дворе... У него есть к тебе какой-то разговор."
-msgstr ""
+msgstr "[_Ann_s_01_] Por cierto, Eric te está esperando ahí fuera, en el patio... Tiene que hablar contigo de algo."
 
 # game/scripts/story_01/shopping.rpy:204 #-#-# translate crowdin ev_152_9ba386b9:
 msgid "[_Max_s_13_] Да? Хм... Посмотрим..."
-msgstr ""
+msgstr "[_Max_s_13_] Bueno, vamos a ver..."
 
 # game/scripts/story_01/shopping.rpy:215 #-#-# translate crowdin ev_152_f5257458:
 msgid "[_Eric_s_10_] А ты, Макс, оказывается не так прост, как мне показалось. Не жалко было столько денег на подарки девочкам тратить?"
-msgstr ""
+msgstr "[_Eric_s_10_] Y tú, Max, resulta que no eres tan sencillo como me parecía. ¿No te dio pena gastarte tanto dinero en regalos para las chicas?"
 
 # game/scripts/story_01/shopping.rpy:218 #-#-# translate crowdin ev_152_742440b1:
 msgid "[_Eric_s_10_] А ты, Макс, оказывается не так прост, как мне показалось. Не жалко было тратиться на подарок для сестрёнки?"
-msgstr ""
+msgstr "[_Eric_s_10_] Y tú, Max, resulta que no eres tan sencillo como me parecía. ¿No te dio pena gastarte dinero en un regalo para tu hermanita?"
 
 # game/scripts/story_01/shopping.rpy:219 #-#-# translate crowdin ev_152_2a151a85:
 msgid "[_Max_s_13_] Нисколько. Я ещё заработаю..."
-msgstr ""
+msgstr "[_Max_s_13_] Para nada. Todavía tengo que ganar más dinero..."
 
 # game/scripts/story_01/shopping.rpy:220 #-#-# translate crowdin ev_152_61a8826c:
 msgid "[_Eric_s_09_] Само собой... Правда, если ты продолжишь делать так и дальше, то у нас с тобой будут проблемы."
-msgstr ""
+msgstr "[_Eric_s_09_] Claro... Si sigues haciendo eso, tendremos problemas."
 
 # game/scripts/story_01/shopping.rpy:221 #-#-# translate crowdin ev_152_5e490348:
 msgid "[_Max_s_12_] Это почему?!"
-msgstr ""
+msgstr "[_Max_s_12_] ¡¿Qué he hecho?!"
 
 # game/scripts/story_01/shopping.rpy:224 #-#-# translate crowdin ev_152_c736e4e5:
 msgid "[_Eric_s_10_] Признаюсь, Макс, я немного волновался, что мои наставления во время ужина сыграют злую шутку и ты начнёшь задаривать свою семью подарками, но обошлось."
-msgstr ""
+msgstr "[_Eric_s_10_] Te confieso, Max, que me preocupaba un poco que mis consejos durante la cena te llevaran por mal camino y empezaras a colmar a tu familia de regalos, pero al final todo ha salido bien."
 
 # game/scripts/story_01/shopping.rpy:225 #-#-# translate crowdin ev_152_18703ced:
 msgid "[_Max_s_13_] В смысле злую шутку?"
-msgstr ""
+msgstr "[_Max_s_13_] ¿és una broma pesada?"
 
 # game/scripts/story_01/shopping.rpy:227 #-#-# translate crowdin ev_152_e7aa3227:
 msgid "[_Eric_s_01_] Сразу скажу прямо, как есть... Я серьёзно подумываю начать с твоей мамой более «тесные» отношения и я не про работу. И о сёстрах твоих я сам позабочусь, не утруждайся."
-msgstr ""
+msgstr "[_Eric_s_01_] Te lo voy a decir sin rodeos... Estoy pensando en serio en empezar una relación más «íntima» con tu madre, y no me refiero al trabajo. De tus hermanas también me encargaré, no te preocupes."
 
 # game/scripts/story_01/shopping.rpy:228 #-#-# translate crowdin ev_152_f059259c:
 msgid "[_Max_s_16_] Хм... Как-то ты не похож на мужика, которому для полного счастья не хватает только женщины с тремя чужими детьми."
-msgstr ""
+msgstr "[_Max_s_16_] Mmm... La verdad es que no pareces el tipo de hombre al que, para ser completamente feliz, solo le falta una mujer con tres hijos de otra persona."
 
 # game/scripts/story_01/shopping.rpy:229 #-#-# translate crowdin ev_152_c354e613:
 msgid "[_Eric_s_08_] Ну, в данном случае, это скорее приятное дополнение. Если, конечно, мы с тобой найдём при всём этом общий язык."
-msgstr ""
+msgstr "[_Eric_s_08_] Bueno, en este caso, se trata más bien de un detalle agradable. Siempre y cuando, claro está, tú y yo podamos entendernos."
 
 # game/scripts/story_01/shopping.rpy:232 #-#-# translate crowdin ev_152_3cca37d1:
 msgid "[_Max_s_13_] Может быть. Пока не знаю..."
-msgstr ""
+msgstr "[_Max_s_13_] Quizás. De momento no lo sé..."
 
 # game/scripts/story_01/shopping.rpy:235 #-#-# translate crowdin ev_152_96619b70:
 msgid "[_Max_s_13_] Это вряд ли..."
-msgstr ""
+msgstr "[_Max_s_13_] No creo..."
 
 # game/scripts/story_01/shopping.rpy:239 #-#-# translate crowdin ev_152_ededd16a:
 msgid "[_Eric_s_03_] Если мы подружимся и ты не будешь мне мешаться, то только выиграешь от этого. Так что не торопись, Макс, подумай над этим хорошенько."
-msgstr ""
+msgstr "[_Eric_s_03_] Si nos hacemos amigos y no te metes en mis asuntos, solo saldrás ganando. Así que no te precipites, Max, piénsatelo bien."
 
 # game/scripts/story_01/shopping.rpy:240 #-#-# translate crowdin ev_152_3ae47150:
 msgid "[_Max_s_16_] Интересно, и что же я выиграю?"
-msgstr ""
+msgstr "[_Max_s_16_] ah, ¿y qué gano yo?"
 
 # game/scripts/story_01/shopping.rpy:241 #-#-# translate crowdin ev_152_49fcdde5:
 msgid "[_Eric_s_02_] Ты слишком забегаешь вперёд. Через некоторое время мы ещё вернёмся к этому разговору..."
-msgstr ""
+msgstr "[_Eric_s_02_] Te estás adelantando demasiado. En otro momento hablaremos de este tema..."
 
 # game/scripts/story_01/shopping.rpy:242 #-#-# translate crowdin ev_152_bb4877d9:
 msgid "[_Max_s_17_] Ага, всего доброго."
-msgstr ""
+msgstr "[_Max_s_17_] Sí, que te vaya bien."
 
 # game/scripts/story_01/shopping.rpy:246 #-#-# translate crowdin ev_152_c83f588f:
 msgid "[_tMax_s_13_] Этот Эрик - какая-то сильно подозрительная сволочь. Или мне просто так кажется? В любом случае, надо предупредить маму..."
-msgstr ""
+msgstr "[_tMax_s_13_] Eric és un mal bicho. ¿O es solo mi impresión? Tengo que avisar a mi madre..."
 
 # game/scripts/story_01/shopping.rpy:250 #-#-# translate crowdin ev_152_b0c1e3a6:
 msgid "[_Ann_s_01_] Ну, Макс, как там у вас с Эриком, налаживается контакт?"
-msgstr ""
+msgstr "[_Ann_s_01_] Bueno, Max, ¿qué tal con Eric? ¿Habéis conectado?"
 
 # game/scripts/story_01/shopping.rpy:251 #-#-# translate crowdin ev_152_d8634607:
 msgid "[_Max_s_16_] Не сказал бы. Ты, пожалуйста, будь с ним осторожнее. Он какой-то сильно мутный тип."
-msgstr ""
+msgstr "[_Max_s_16_] Yo no diría eso. Por favor, ten cuidado con él. Es un tipo bastante sospechoso."
 
 # game/scripts/story_01/shopping.rpy:256 #-#-# translate crowdin ev_152_765b4176:
 msgid "[_Ann_s_10_] Не знаю, с чего ты так решил, сынок. У меня об Эрике сложилось только крайне положительное впечатление."
-msgstr ""
+msgstr "[_Ann_s_10_] No sé de dónde has sacado eso, hijo. A mí, Eric me ha causado una impresión muy positiva."
 
 # game/scripts/story_01/shopping.rpy:257 #-#-# translate crowdin ev_152_8dbfa66b:
 msgid "[_Max_s_13_] Вот это и подозрительно, потому что я вижу обратное."
-msgstr ""
+msgstr "[_Max_s_13_] Yo veo justo lo contrario, por eso me parece sospechoso."
 
 # game/scripts/story_01/shopping.rpy:258 #-#-# translate crowdin ev_152_de807517:
 msgid "[_Ann_s_12_] Знаешь, я думаю, ты просто ещё недостаточно хорошо его узнал."
-msgstr ""
+msgstr "[_Ann_s_12_] ¿Sabes? Creo que aún no lo conoces bien."
 
 # game/scripts/story_01/shopping.rpy:259 #-#-# translate crowdin ev_152_0c42aecf:
 msgid "[_Max_s_12_] Всё ясно с тобой, мам..."
-msgstr ""
+msgstr "[_Max_s_12_] Lo tengo muy claro, mamá..."
 
 # game/scripts/story_01/shopping.rpy:260 #-#-# translate crowdin ev_152_bcdb38d9:
 msgid "[_tMax_s_16_] Похоже, мне ещё придётся ей это доказать..."
-msgstr ""
+msgstr "[_tMax_s_16_] Tendré que demostrárselo..."
 
 # game/scripts/story_01/shopping.rpy:273 #-#-# translate crowdin ev_152_3f008bbd:
 msgid "[_Eric_s_08_] У меня всё схвачено... Правда, с пареньком могут быть проблемы, но это в любом случае решаемо..."
-msgstr ""
+msgstr "[_Eric_s_08_] Lo tengo todo bajo control... Puede haber problemas con el chico, pero, en cualquier caso, se puede solucionar..."
 
 # game/scripts/story_01/shopping.rpy:274 #-#-# translate crowdin ev_152_0c90761a:
 msgid "[_Stranger_] Уж надеюсь. Смотри, не облажайся, а то мне придётся делать всё самой. А паренёк... Так уж и быть, если с ним будут проблемы, то мне есть чем его занять..."
-msgstr ""
+msgstr "[_Stranger_] Eso espero. Oye, no la cagues, porque si no, tendré que hacerlo todo yo sola. Y el chaval... Bueno, si hay problemas con él, ya tengo con qué entretenerlo..."
 
 # game/scripts/story_01/shopping.rpy:278 #-#-# translate crowdin ev_152_262a988d:
 msgid "[_Eric_s_10_] Даже так! Что-то ты сегодня добрее, чем обычно."
-msgstr ""
+msgstr "[_Eric_s_10_] ¡Anda! Hoy estás más amable de lo habitual."
 
 # game/scripts/story_01/shopping.rpy:279 #-#-# translate crowdin ev_152_d2e559a1:
 msgid "[_Stranger_] Физиономию твою давно не видела, вот и подобрела сразу. Всё, жду результатов..."
-msgstr ""
+msgstr "[_Stranger_] Hacía tiempo que no te veía y me he animado enseguida. Bueno, a la espera de los resultados..."
 
 # game/scripts/story_01/shopping.rpy:280 #-#-# translate crowdin ev_152_0958a755:
 msgid "[_Eric_s_04_] На лицо?"
@@ -386,11 +386,11 @@ msgstr ""
 
 # game/scripts/story_01/shopping.rpy:284 #-#-# translate crowdin ev_152_72afa6e7:
 msgid "[_Stranger_] Ох, угораздило же меня сотрудничать с таким придурком..."
-msgstr ""
+msgstr "[_Stranger_] Joder, qué mala suerte tener que trabajar con un imbécil así..."
 
 # game/scripts/story_01/shopping.rpy:285 #-#-# translate crowdin ev_152_552adb54:
 msgid "[_Eric_s_09_] Эй, алло?! Вот сучка, завершила звонок!"
-msgstr ""
+msgstr "[_Eric_s_09_] ¡Eh, ¿hola?! ¡Vaya zorra, ha colgado!"
 
 # §translate crowdin strings: #|#|# # game/scripts/story_01/shopping.rpy:21
 msgid "Удачных вам покупок... \n"
