@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-04 14:06\n"
+"PO-Revision-Date: 2026-10-01 21:59\n"
 
 # TODO: Translation updated at 2026-07-03 17:21 #|#|# # game/scripts/story_01/shopping.rpy:20 #-#-# translate crowdin ev_051_f2e28c50:
 msgid "[_Ann_s_01_] Макс, мы пошли по магазинам. Не скучай тут без нас, хорошо? Вернёмся часа через 3... [nointeract]"
@@ -126,7 +126,7 @@ msgstr "[_Max_s_01_] Sí. Muy bien, descansa un poco."
 
 # game/scripts/story_01/shopping.rpy:101 #-#-# translate crowdin ev_151_67544684:
 msgid "[_Ann_s_01_] Макс, мы пошли по магазинам. Представляешь, Эрик даже отправил за нами служебную машину! Не скучай тут без нас, хорошо? Вернёмся часа через 3..."
-msgstr ""
+msgstr "[_Ann_s_01_] Max, nos vamos de compras. ¿Te lo puedes creer? ¡Eric incluso nos ha enviado un coche de la empresa! No te aburras aquí solo, ¿vale? Volveremos dentro de 3 horas..."
 
 # game/scripts/story_01/shopping.rpy:102 #-#-# translate crowdin ev_151_e3e1419b:
 msgid "[_Max_s_16_] Вот он муд... молодец какой..."
@@ -134,23 +134,23 @@ msgstr ""
 
 # game/scripts/story_01/shopping.rpy:106 #-#-# translate crowdin ev_151_c2c7b426:
 msgid "[_Alice_s_03_] Ты, Макс, правда, уже побаловал нас с Лизой подарками, которые мы так сильно хотели. Так что сегодня мамин день, посмотрим, что она себе прикупит..."
-msgstr ""
+msgstr "[_Alice_s_03_] Max, la verdad es que ya nos has mimado a Liza y a mí con los regalos que tanto deseábamos. Así que hoy es el día de mamá, a ver qué se compra..."
 
 # game/scripts/story_01/shopping.rpy:107 #-#-# translate crowdin ev_151_89221454:
 msgid "[_Lisa_s_03_] Да, очень интересно!"
-msgstr ""
+msgstr "[_Lisa_s_03_] ¡Sí, muy interesante!"
 
 # game/scripts/story_01/shopping.rpy:108 #-#-# translate crowdin ev_151_1c0457e9:
 msgid "[_Max_s_11_] Удачных покупок, мам..."
-msgstr ""
+msgstr "[_Max_s_11_] Que tengas buena compra, mamá..."
 
 # game/scripts/story_01/shopping.rpy:113 #-#-# translate crowdin ev_151_fd23d68f:
 msgid "[_Alice_s_02_] Меня Макс уже побаловал подарком, который я так сильно хотела. Так что сегодня мама с Лизой будут закупаться, а я так, за компанию..."
-msgstr ""
+msgstr "[_Alice_s_02_] Max ya me ha regaladado el vestido que me hacía muchísima ilusión. Así que hoy iré de compras solo para hacerles compañía..."
 
 # game/scripts/story_01/shopping.rpy:114 #-#-# translate crowdin ev_151_5b635be5:
 msgid "[_Lisa_s_03_] Ох, даже не вериться, что сегодня днём я уже буду плескаться в бассейне в новом купальнике!"
-msgstr ""
+msgstr "[_Lisa_s_03_] ¡Ay, no me lo puedo creer que esta tarde ya estaré chapoteando en la piscina con mi nuevo bañador!"
 
 # game/scripts/story_01/shopping.rpy:115 #-#-# translate crowdin ev_151_ba1a46eb:
 msgid "[_Max_s_11_] Удачных вам покупок..."
@@ -170,11 +170,11 @@ msgstr "[_Max_s_11_] Diviértete comprando..."
 
 # game/scripts/story_01/shopping.rpy:127 #-#-# translate crowdin ev_151_20c2214e:
 msgid "[_Alice_s_03_] Наконец-то наступил тот день, когда нас с Лизой побалуют подарками, которые мы так сильно хотели. Да и мама что-то тоже прикупит..."
-msgstr ""
+msgstr "[_Alice_s_03_] Por fin ha llegado el día en que a Lisa y a mí nos van a dar los regalos que tanto deseamos. Y seguro que mamá también nos comprará algo..."
 
 # game/scripts/story_01/shopping.rpy:128 #-#-# translate crowdin ev_151_2ec509ec:
 msgid "[_Lisa_s_03_] Ох, даже не верится, что этот день всё таки наступил!"
-msgstr ""
+msgstr "[_Lisa_s_03_] ¡Ay, no me puedo creer que por fin haya llegado este día!"
 
 # game/scripts/story_01/shopping.rpy:129 #-#-# translate crowdin ev_151_ba1a46eb_2:
 msgid "[_Max_s_11_] Удачных вам покупок..."
@@ -186,63 +186,63 @@ msgstr "[_tMax_s_14_] Antes de que se me olvide, lavaré los platos enseguida. O
 
 # game/scripts/story_01/shopping.rpy:152 #-#-# translate crowdin ev_152_ea671ad4:
 msgid "[_Lisa_s_01_] Эй, Макс, мы вернулись! Смотри, что мама себе купила..."
-msgstr ""
+msgstr "[_Lisa_s_01_] ¡Eh, Max, ya hemos vuelto! Mira lo que se ha comprado mamá..."
 
 # game/scripts/story_01/shopping.rpy:153 #-#-# translate crowdin ev_152_1deec35c:
 msgid "[_Max_s_05_] Ухх... Какое платье, мам! Смотришься в нём очень шикарно."
-msgstr ""
+msgstr "[_Max_s_05_] ¡Uf... Menudo vestido, mamá! Estás guapísima con él."
 
 # game/scripts/story_01/shopping.rpy:154 #-#-# translate crowdin ev_152_5b4c9593:
 msgid "[_Ann_s_03_] Спасибо, сынок! Я решила купить это платье на смену моему выходному, а то ему уже столько лет, что даже уже стыдно было носить..."
-msgstr ""
+msgstr "[_Ann_s_03_] ¡Gracias, hijo! He decidido comprarme este vestido para sustituir al que uso los días de fiesta. Tiene tantos años que hasta me daba vergüenza ponérmelo..."
 
 # game/scripts/story_01/shopping.rpy:155 #-#-# translate crowdin ev_152_37a0be17:
 msgid "[_Max_s_03_] Достойная замена. Мне нравится."
-msgstr ""
+msgstr "[_Max_s_03_] Un buen sustituto. Me gusta."
 
 # game/scripts/story_01/shopping.rpy:159 #-#-# translate crowdin ev_152_fde7cc75:
 msgid "[_Ann_s_01_] Кстати, там Эрик тебя ждёт во дворе... Думаю, он хочет похвалить тебя за то, что ты помог прилично сэкономить мою премию, сделав подарки Алисе с Лизой."
-msgstr ""
+msgstr "[_Ann_s_01_] Por cierto, Eric te está esperando ahí fuera, en el patio... Creo que quiere felicitarte por haberme ayudado a ahorrarme una buena parte de mi sueldo al hacerles regalos a Alice y a Lisa."
 
 # game/scripts/story_01/shopping.rpy:166 #-#-# translate crowdin ev_152_a60c67d2:
 msgid "[_Lisa_s_03_] Эй, Макс, мы вернулись! Я, наконец-то, с новым купальником, а мама... сам видишь..."
-msgstr ""
+msgstr "[_Lisa_s_03_] ¡Eh, Max, ya hemos vuelto! Por fin tengo un bañador nuevo, y mamá... ya lo ves..."
 
 # game/scripts/story_01/shopping.rpy:167 #-#-# translate crowdin ev_152_1deec35c_1:
 msgid "[_Max_s_05_] Ухх... Какое платье, мам! Смотришься в нём очень шикарно."
-msgstr ""
+msgstr "[_Max_s_05_] ¡Uf... Menudo vestido, mamá! Estás guapísima con él."
 
 # game/scripts/story_01/shopping.rpy:168 #-#-# translate crowdin ev_152_5b4c9593_1:
 msgid "[_Ann_s_03_] Спасибо, сынок! Я решила купить это платье на смену моему выходному, а то ему уже столько лет, что даже уже стыдно было носить..."
-msgstr ""
+msgstr "[_Ann_s_03_] ¡Gracias, hijo! He decidido comprarme este vestido para sustituir al que uso los días de fiesta. Tiene tantos años que hasta me daba vergüenza ponérmelo..."
 
 # game/scripts/story_01/shopping.rpy:169 #-#-# translate crowdin ev_152_37a0be17_1:
 msgid "[_Max_s_03_] Достойная замена. Мне нравится."
-msgstr ""
+msgstr "[_Max_s_03_] Un buen sustituto. Me gusta."
 
 # game/scripts/story_01/shopping.rpy:173 #-#-# translate crowdin ev_152_902838b5:
 msgid "[_Ann_s_01_] Кстати, там Эрик тебя ждёт во дворе... Думаю, он хочет похвалить тебя за то, что ты помог сэкономить мою премию, подарив Алисе платье."
-msgstr ""
+msgstr "[_Ann_s_01_] Por cierto, Eric te está esperando ahí fuera, en el patio... Creo que quiere felicitarte por haberme ayudado a ahorrarme una buena parte de mi sueldo al hacerles regalos a Alice y a Lisa."
 
 # game/scripts/story_01/shopping.rpy:180 #-#-# translate crowdin ev_152_ea671ad4_1:
 msgid "[_Lisa_s_01_] Эй, Макс, мы вернулись! Смотри, что мама себе купила..."
-msgstr ""
+msgstr "[_Lisa_s_01_] ¡Eh, Max, ya hemos vuelto! Mira lo que se ha comprado mamá..."
 
 # game/scripts/story_01/shopping.rpy:181 #-#-# translate crowdin ev_152_1deec35c_2:
 msgid "[_Max_s_05_] Ухх... Какое платье, мам! Смотришься в нём очень шикарно."
-msgstr ""
+msgstr "[_Max_s_05_] ¡Uf... Menudo vestido, mamá! Estás guapísima con él."
 
 # game/scripts/story_01/shopping.rpy:182 #-#-# translate crowdin ev_152_5b4c9593_2:
 msgid "[_Ann_s_03_] Спасибо, сынок! Я решила купить это платье на смену моему выходному, а то ему уже столько лет, что даже уже стыдно было носить..."
-msgstr ""
+msgstr "[_Ann_s_03_] ¡Gracias, hijo! He decidido comprarme este vestido para sustituir al que uso los días de fiesta. Tiene tantos años que hasta me daba vergüenza ponérmelo..."
 
 # game/scripts/story_01/shopping.rpy:183 #-#-# translate crowdin ev_152_37a0be17_2:
 msgid "[_Max_s_03_] Достойная замена. Мне нравится."
-msgstr ""
+msgstr "[_Max_s_03_] Un buen sustituto. Me gusta."
 
 # game/scripts/story_01/shopping.rpy:187 #-#-# translate crowdin ev_152_1969487c:
 msgid "[_Ann_s_01_] Кстати, там Эрик тебя ждёт во дворе... Думаю, он хочет похвалить тебя за то, что ты помог сэкономить мою премию, подарив Лизе купальник."
-msgstr ""
+msgstr "[_Ann_s_01_] Por cierto, Eric te está esperando ahí fuera, en el patio... Creo que quiere felicitarte por haberme ayudado a ahorrarme una buena parte de mi sueldo al hacerles regalos a Alice y a Lisa."
 
 # game/scripts/story_01/shopping.rpy:195 #-#-# translate crowdin ev_152_59873436:
 msgid "[_Lisa_s_02_] Эй, Макс, мы вернулись! У Алисы теперь есть платье, у меня купальник, а у мамы... сам видишь..."
@@ -250,15 +250,15 @@ msgstr ""
 
 # game/scripts/story_01/shopping.rpy:196 #-#-# translate crowdin ev_152_1deec35c_3:
 msgid "[_Max_s_05_] Ухх... Какое платье, мам! Смотришься в нём очень шикарно."
-msgstr ""
+msgstr "[_Max_s_05_] ¡Uf... Menudo vestido, mamá! Estás guapísima con él."
 
 # game/scripts/story_01/shopping.rpy:197 #-#-# translate crowdin ev_152_5b4c9593_3:
 msgid "[_Ann_s_03_] Спасибо, сынок! Я решила купить это платье на смену моему выходному, а то ему уже столько лет, что даже уже стыдно было носить..."
-msgstr ""
+msgstr "[_Ann_s_03_] ¡Gracias, hijo! He decidido comprarme este vestido para sustituir al que uso los días de fiesta. Tiene tantos años que hasta me daba vergüenza ponérmelo..."
 
 # game/scripts/story_01/shopping.rpy:198 #-#-# translate crowdin ev_152_37a0be17_3:
 msgid "[_Max_s_03_] Достойная замена. Мне нравится."
-msgstr ""
+msgstr "[_Max_s_03_] Un buen sustituto. Me gusta."
 
 # game/scripts/story_01/shopping.rpy:202 #-#-# translate crowdin ev_152_5b844ab4:
 msgid "[_Ann_s_01_] Кстати, там Эрик тебя ждёт во дворе... У него есть к тебе какой-то разговор."
