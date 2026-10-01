@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-07-04 14:10\n"
+"PO-Revision-Date: 2026-10-01 23:01\n"
 
 # TODO: Translation updated at 2026-07-03 17:21 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/laptop.rpy:21
 msgid "ОНЛАЙН-КУРСЫ"
@@ -58,33 +58,35 @@ msgstr "MENÚ DE TRUCOS"
 
 # game/scripts/screens/laptop.rpy:216
 msgid "Экспресс-доставка"
-msgstr ""
+msgstr "Envío express"
 
 # game/scripts/screens/laptop.rpy:231
 msgid "ЭКСПРЕСС-ДОСТАВКА"
-msgstr ""
+msgstr "ENTREGA EXPRÉS"
 
 # game/scripts/screens/laptop.rpy:232
 msgid "Заказанные товары будут доставлены через 30 минут после оплаты.\n"
 "Стоимость доставки $60."
-msgstr ""
+msgstr "Los productos solicitados se entregarán 30 minutos después de realizar el pago.\n"
+"El coste del envío es de 60 $."
 
 # game/scripts/screens/laptop.rpy:235
 msgid "ОПЛАТИТЬ (недостаточно средств)"
-msgstr ""
+msgstr "COMPRA (fondos insuficientes)"
 
 # game/scripts/screens/laptop.rpy:239
 msgid "ОПЛАТИТЬ"
-msgstr ""
+msgstr "PAGAR"
 
 # game/scripts/screens/laptop.rpy:240
 msgid "Заказать экспресс-доставку за $60?"
-msgstr ""
+msgstr "¿Solicitar un envío urgente por 60 dólares?"
 
 # game/scripts/screens/laptop.rpy:246
 msgid "Доставка оплачена.\n"
 "В течение 30 минут заказанные товары будут доставлены."
-msgstr ""
+msgstr "El envío está pagado.\n"
+"Los productos solicitados se entregarán en un plazo de 30 minutos."
 
 # game/scripts/screens/laptop.rpy:255
 msgid "КУПЛЕНО"
@@ -100,7 +102,7 @@ msgstr "COMPRAR"
 
 # game/scripts/screens/laptop.rpy:266
 msgid "Приобрести «{name}» за ${price}?"
-msgstr ""
+msgstr "¿Comprar \"{name}\" por ${price}?"
 
 # game/scripts/screens/laptop.rpy:296
 msgid "Скидка [item.sale_percent]%"
@@ -124,7 +126,7 @@ msgstr "Último saldo:"
 
 # game/scripts/screens/laptop.rpy:673
 msgid "Уменьшить"
-msgstr ""
+msgstr "Reducir"
 
 # game/scripts/screens/laptop.rpy:713
 msgid "Общение"
@@ -160,23 +162,23 @@ msgstr "COMPRAR ESTE CURSO POR $[cource.price]"
 
 # game/scripts/screens/laptop.rpy:827
 msgid "Заработок (x2)"
-msgstr ""
+msgstr "Ganancias (x2)"
 
 # game/scripts/screens/laptop.rpy:831
 msgid "Все деньги, которые Макс будет получать, удваиваются."
-msgstr ""
+msgstr "Todo el dinero que recibe Max se duplica."
 
 # game/scripts/screens/laptop.rpy:833
 msgid "Лёгкие деньги (+$500)"
-msgstr ""
+msgstr "Dinero fácil (+500 $)"
 
 # game/scripts/screens/laptop.rpy:837
 msgid "Получить сразу $500, но только раз в сутки."
-msgstr ""
+msgstr "Consigue 500 dólares al instante, pero solo una vez al día."
 
 # game/scripts/screens/laptop.rpy:843
 msgid "При покупке чего либо в интернет-магазине, Макс может оплатить ускоренную доставку этих товаров ($60 за доставку через 30 минут)."
-msgstr ""
+msgstr "Al comprar cualquier artículo en una tienda online, Max puede pagar por un envío urgente de esos productos (60 dólares por un envío en 30 minutos)."
 
 # game/scripts/screens/laptop.rpy:845
 msgid "Схватывает на лету"
@@ -184,19 +186,19 @@ msgstr ""
 
 # game/scripts/screens/laptop.rpy:848
 msgid "Макс сможет быстрее читать книги и изучать видеокурсы (на отдых требуется всего один час вместо трёх)."
-msgstr ""
+msgstr "Max podrá leer libros y seguir cursos en vídeo más rápido (solo necesitará una hora para descansar, en lugar de tres)."
 
 # game/scripts/screens/laptop.rpy:850
 msgid "Многозадачный"
-msgstr ""
+msgstr "Multitarea"
 
 # game/scripts/screens/laptop.rpy:853
 msgid "Макс сможет быстрее выполнять работы по дому (на отдых требуется всего один час вместо четырёх)."
-msgstr ""
+msgstr "Max podrá leer libros y seguir cursos en vídeo más rápido (solo necesitará una hora para descansar, en lugar de tres)."
 
 # game/scripts/screens/laptop.rpy:855
 msgid "Невероятно успешный"
-msgstr ""
+msgstr "Un éxito increíble"
 
 # game/scripts/screens/laptop.rpy:858
 msgid "Макс всегда будет успешно применять свои навыки, если нет ограничения по их уровню."
