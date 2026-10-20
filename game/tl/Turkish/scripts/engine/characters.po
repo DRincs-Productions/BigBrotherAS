@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2026-07-03 15:31\n"
+"PO-Revision-Date: 2026-10-20 15:32\n"
 
 # TODO: Translation updated at 2026-07-03 17:21 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/characters.rpy:502
 msgid "Лиза"
@@ -49,7 +49,8 @@ msgstr "Lisa, küçük kız kardeşim. Tatlı ve neşeli. Halen okulda.\n"
 # game/scripts/engine/characters.rpy:525
 msgid "Алиса, моя старшая сестра. Немного стервозная. В любой непонятной ситуации поступает просто - бьёт по лицу.\n"
 "Она недавно закончила школу и, так же, как и я, ищет свой путь, целыми днями сидя за своим ноутбуком."
-msgstr ""
+msgstr "Alice, benim büyük ablam. Biraz şirret. Nasıl davranacağını bilemediği durumlarda çok basit bir şey yapar; doğrudan suratına bir tokat patlatır.\n"
+"O da okuldan yeni mezun oldu ve benim gibi tüm gün bilgisayarının başında oturarak kendi  yolunu arıyor."
 
 # game/scripts/engine/characters.rpy:525
 msgid "Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании.\n"
@@ -71,7 +72,8 @@ msgstr "Mia, muhteşem bir bayan avukat. Babamın işi için hukuki hizmetler sa
 
 # game/scripts/engine/characters.rpy:525
 msgid "Тётя Кира, мамина младшая сестра! Раньше я был слишком мал, чтобы оценить, насколько ярко у неё выражены те самые женские черты, по которым сходят с ума все мужчины, но сейчас... сейчас тётя Кира для меня крайне интересна..."
-msgstr ""
+msgstr "Kira teyze, annemin en küçük kız kardeşi!\n"
+"Eskiden, tüm erkeklerin aklını başından alan o kadınsı özelliklerinin ne kadar bariz olduğunu anlayamayacak kadar küçüktüm, ama şimdi... şimdi Kira teyze benim için oldukça ilgi çekici..."
 
 # game/scripts/engine/characters.rpy:535
 msgid "Ужасное"
@@ -183,11 +185,11 @@ msgstr "Bunu yapabilmek için iyi para kazanmaya başlamam gerekiyor..."
 
 # game/scripts/engine/characters.rpy:559
 msgid "Лиза сейчас в том возрасте, когда стоило бы начинать заниматься её половым воспитанием, но мама с этим вообще не торопится."
-msgstr ""
+msgstr "Lisa şu an tam cinsel eğitimine başlaması gereken yaşta, ancak annem bunun için pek acele etmiyor."
 
 # game/scripts/engine/characters.rpy:559
 msgid "Может не хватает времени, а может мама считает, что не так уж хорошо воспитала Алису, но факт в том, что Лизе всё более и более интересен взрослый мир."
-msgstr ""
+msgstr "Belki zamanı yetmiyor, belki de annem Alice'i iyi yetiştiremediğini düşünüyor, ama gerçek şu ki, Lisa yetişkinlerin dünyasına git gide daha fazla ilgi duyuyor."
 
 # game/scripts/engine/characters.rpy:559
 msgid "Как будто она в школе не нахватается всего этого, да ещё и скорее всего не того, что нужно?"
