@@ -1,0 +1,758 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/story_01/bikini.po\n"
+"X-Crowdin-File-ID: 9109\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2026-07-04 14:07\n"
+
+# TODO: Translation updated at 2026-07-03 17:20 #|#|# # game/scripts/story_01/bikini.rpy:8 #-#-# translate crowdin ev_008_3c08b543:
+msgid "[_Lisa_s_09_] Жарко... Но у меня другого и нет. Ты же знаешь, что наши вещи пропали. Вот там и все мои купальники были..."
+msgstr "[_Lisa_s_09_] Fa caldo... Ma non ho nient'altro. Sai che le nostre cose sono andate perse. È lì che si trovavano tutti i miei costumi da bagno..."
+
+# game/scripts/story_01/bikini.rpy:9 #-#-# translate crowdin ev_008_6c4181e5:
+msgid "[_Max_s_01_] А ты голышом попробуй!"
+msgstr "[_Max_s_01_] Prova nuda!"
+
+# game/scripts/story_01/bikini.rpy:10 #-#-# translate crowdin ev_008_4e8aac3c:
+msgid "[_Lisa_s_02_] Очень смешно, Макс. Я если и стану раздеваться, то только после тебя."
+msgstr "[_Lisa_s_02_] Molto divertente, Max. Se devo spogliarmi, sarà solo dopo di te."
+
+# game/scripts/story_01/bikini.rpy:11 #-#-# translate crowdin ev_008_9b82330e:
+msgid "[_Max_s_04_] Да легко! Давай лучше одновременно..."
+msgstr "[_Max_s_04_] È facile! Facciamolo contemporaneamente..."
+
+# game/scripts/story_01/bikini.rpy:12 #-#-# translate crowdin ev_008_ca7006b5:
+msgid "[_Lisa_s_11_] Эй, с ума что ли сошёл, Макс?! Мне не так уж и жарко. Хотя, от другого купальника я бы сейчас не отказалась..."
+msgstr "[_Lisa_s_11_] Ehi, sei pazzo, Max? Non sono così sexy. Anche se in questo momento mi servirebbe un costume da bagno diverso..."
+
+# game/scripts/story_01/bikini.rpy:13 #-#-# translate crowdin ev_008_44439239:
+msgid "[_Max_s_11_] А какой купальник ты бы хотела?"
+msgstr "[_Max_s_11_] Che tipo di costume da bagno vorresti?"
+
+# game/scripts/story_01/bikini.rpy:19 #-#-# translate crowdin ev_008_c23161f2:
+msgid "[_Lisa_s_04_] Ой, ну такой... Максимально открытый. Но не совсем чтобы полностью. Чтобы животик загорал. И цвет такой красивый, но не чтобы слишком тёмный или холодный... И лямочки такие..."
+msgstr "[_Lisa_s_04_] Oh, quindi... Il più aperto possibile. Ma non fino in fondo. Così la pancia è abbronzata. Ed è un bel colore, ma non troppo scuro o freddo... E le cinghie sono così..."
+
+# game/scripts/story_01/bikini.rpy:20 #-#-# translate crowdin ev_008_e0591d1c:
+msgid "[_Max_s_13_] Не совсем понятно, но интересно."
+msgstr "[_Max_s_13_] Non del tutto chiaro, ma interessante."
+
+# game/scripts/story_01/bikini.rpy:21 #-#-# translate crowdin ev_008_b15d13fe:
+msgid "[_Lisa_s_02_] А у тебя разве деньги на такое есть? Ты же нигде не работаешь. И я что-то сомневаюсь, что ты умеешь шить купальники..."
+msgstr "[_Lisa_s_02_] Ma tu hai i soldi per una cosa del genere? Tanto per cominciare, non lavori da nessuna parte. E poi dubito anche che tu sappia cucire costumi da bagno..."
+
+# game/scripts/story_01/bikini.rpy:22 #-#-# translate crowdin ev_008_c86f433c:
+msgid "[_Max_s_12_] Я что-нибудь придумаю, вот увидишь! Может не сразу, но..."
+msgstr "[_Max_s_12_] Mi verrà in mente qualcosa, vedrai! Forse non subito, ma..."
+
+# game/scripts/story_01/bikini.rpy:23 #-#-# translate crowdin ev_008_854c4ba5:
+msgid "[_Lisa_s_01_] Ну, ладно. Посмотрим... Если у меня будет новый купальник, да ещё и интереснее, чем этот, то я тебя даже... в щёчку поцелую!"
+msgstr "[_Lisa_s_01_] Va bene, allora. Vediamo... Se mi procuri un nuovo costume da bagno che sia più interessante di questo... Ti darò un bacio sulla guancia!"
+
+# game/scripts/story_01/bikini.rpy:24 #-#-# translate crowdin ev_008_9c461a8f:
+msgid "[_Max_s_13_] И всё?"
+msgstr "[_Max_s_13_] Tutto qui?"
+
+# game/scripts/story_01/bikini.rpy:25 #-#-# translate crowdin ev_008_fa46771a:
+msgid "[_Lisa_s_11_] Ну, скажу спасибо..."
+msgstr "[_Lisa_s_11_] Beh, ti ringrazierò..."
+
+# game/scripts/story_01/bikini.rpy:26 #-#-# translate crowdin ev_008_255a19b4:
+msgid "[_Max_s_01_] Ладно, идёт!"
+msgstr "[_Max_s_01_] Va bene, ci siamo!"
+
+# game/scripts/story_01/bikini.rpy:40 #-#-# translate crowdin ev_144_8cb9334c:
+msgid "[_tMax_s_11_] Сколько же интересно может стоить купальник, который хочет Лиза? Сейчас посмотрим..."
+msgstr "[_tMax_s_11_] Mi chiedo quanto possa costare il costume che vuole Lisa... Vediamo un po'..."
+
+# game/scripts/story_01/bikini.rpy:41 #-#-# translate crowdin ev_144_c16f1423:
+msgid "[_tMax_s_02_] Можно было бы у неё спросить, но хочется сделать видимость, будто я могу купить абсолютно любой купальник. Как например этот..."
+msgstr "[_tMax_s_02_] Potrei anche chiederglielo, ma preferisco darle l'impressione di poter comprare assolutamente qualsiasi costume. Come questo, per esempio..."
+
+# game/scripts/story_01/bikini.rpy:42 #-#-# translate crowdin ev_144_4e1ade90:
+msgid "[_tMax_s_15_] Сколько?! Ничего себе! Они совсем что ли поехали? Не могут эти несколько ниток столько стоить! Надо смотреть что-то другое..."
+msgstr "[_tMax_s_15_] Quanto?! Ma stiamo scherzando? Sono impazziti del tutto? Quei quattro fili non possono costare così tanto! Devo cercare qualcos'altro..."
+
+# game/scripts/story_01/bikini.rpy:43 #-#-# translate crowdin ev_144_3ff358b3:
+msgid "[_tMax_s_16_] Н-да... В общем и целом теперь понятно, сколько мне нужно. Суммы в $300 должно хватить, я надеюсь."
+msgstr "[_tMax_s_16_] Beh... In linea di massima ora mi è chiaro quanto mi serve. $300 dovrebbero bastare, spero."
+
+# game/scripts/story_01/bikini.rpy:46 #-#-# translate crowdin ev_144_ec7a895d:
+msgid "[_tMax_s_14_] Мне придётся подкопить деньжат. Только после этого можно будет позвать Лизу в магазин одежды, чтобы подобрать ей купальник..."
+msgstr "[_tMax_s_14_] Dovrò mettere da parte un po' di soldi. Solo dopo potrò invitare Lisa al negozio di abbigliamento per sceglierle un costume..."
+
+# game/scripts/story_01/bikini.rpy:48 #-#-# translate crowdin ev_144_a87004fe:
+msgid "[_tMax_s_01_] И мне, кстати, хватает для этого деньжат. Осталось лишь позвать Лизу в магазин одежды, чтобы подобрать ей купальник..."
+msgstr "[_tMax_s_01_] E comunque, ho abbastanza soldi per farlo. Non resta che invitare Lisa al negozio di abbigliamento per sceglierle un costume..."
+
+# game/scripts/story_01/bikini.rpy:50 #-#-# translate crowdin ev_144_147ae21b:
+msgid "[_tMax_s_11_] Идти надо будет днём, когда она будет свободна от школы и других важных дел."
+msgstr "[_tMax_s_11_] Bisognerà andarci di giorno, quando lei sarà libera dalla scuola e da altri impegni importanti."
+
+# game/scripts/story_01/bikini.rpy:73 #-#-# translate crowdin ev_145_start_66a8f3dc:
+msgid "[_Lisa_s_02_] Макс, вот как будто ты не знаешь, что да! И мне наконец-то его скоро купят..."
+msgstr "[_Lisa_s_02_] Max, come se tu non sapessi che è così! E finalmente me lo compreranno presto..."
+
+# game/scripts/story_01/bikini.rpy:74 #-#-# translate crowdin ev_145_start_9dff5de3:
+msgid "[_Max_s_01_] А хочешь прямо сейчас?"
+msgstr "[_Max_s_01_] E lo vuoi proprio ora?"
+
+# game/scripts/story_01/bikini.rpy:75 #-#-# translate crowdin ev_145_start_e3fc35f4:
+msgid "[_Lisa_s_09_] Эээ... В смысле, сейчас?"
+msgstr "[_Lisa_s_09_] Ehh... In che senso, adesso?"
+
+# game/scripts/story_01/bikini.rpy:76 #-#-# translate crowdin ev_145_start_5b17523d:
+msgid "[_Max_s_03_] Мы можем прямо сейчас пойти в магазин и подобрать тебе купальник..."
+msgstr "[_Max_s_03_] Possiamo andare in negozio proprio ora e sceglierti un costume..."
+
+# game/scripts/story_01/bikini.rpy:83 #-#-# translate crowdin ev_145_start_b2b2a505:
+msgid "[_Lisa_s_13_] Серьёзно?! Новый купальник прямо сейчас? Ты купишь мне купальник???"
+msgstr "[_Lisa_s_13_] Sul serio?! Un nuovo costume proprio ora? Mi comprerai un costume???"
+
+# game/scripts/story_01/bikini.rpy:84 #-#-# translate crowdin ev_145_start_823a50bb:
+msgid "[_Max_s_11_] Причём, какой захочешь. Если, конечно, побыстрее оденешься, а то я и передумать могу успеть."
+msgstr "[_Max_s_11_] E per di più, quello che vuoi tu. Se, ovviamente, ti vesti in fretta, altrimenti potrei anche fare in tempo a cambiare idea."
+
+# game/scripts/story_01/bikini.rpy:85 #-#-# translate crowdin ev_145_start_8b9d1177:
+msgid "[_Lisa_s_11_] Ой, я мигом! Только никуда не уходи без меня..."
+msgstr "[_Lisa_s_11_] Oh, faccio in un lampo! Solo non te ne andare senza di me..."
+
+# game/scripts/story_01/bikini.rpy:86 #-#-# translate crowdin ev_145_start_62503d2f:
+msgid "[_Max_s_02_] Жду..."
+msgstr "[_Max_s_02_] Sto aspettando..."
+
+# game/scripts/story_01/bikini.rpy:91 #-#-# translate crowdin ev_145_start_31496650:
+msgid "[_tMax_s_03_] Лиза чуть ли не вприпрыжку побежала одеваться! Сейчас подсматривать за ней я не буду, ведь такой шанс у меня наверняка будет в магазине."
+msgstr "[_tMax_s_03_] Lisa è corsa a vestirsi quasi saltellando! Adesso non starò a sbirciarla, perché avrò sicuramente la possibilità di farlo in negozio."
+
+# game/scripts/story_01/bikini.rpy:92 #-#-# translate crowdin ev_145_start_196f188f:
+msgid "[_tMax_s_04_] А уж там, находясь в отличном настроении, она может и в примерочную даже к себе пустить..."
+msgstr "[_tMax_s_04_] E una volta lì, essendo di ottimo umore, potrebbe persino lasciarmi entrare nel suo camerino..."
+
+# game/scripts/story_01/bikini.rpy:100 #-#-# translate crowdin ev_145_start_3ce220ca:
+msgid "[_Lisa_s_03_] Я готова, Макс! Давай, пошли скорее... [nointeract]"
+msgstr "[_Lisa_s_03_] Sono pronta, Max! Dai, andiamo presto...[nointeract]"
+
+# game/scripts/story_01/bikini.rpy:106 #-#-# translate crowdin ev_145_start_5f8c65b4:
+msgid "[_Lisa_s_11_] Слушай, а зачем тебе тратиться мне на купальник? Его же и так скоро мама мне бы купила."
+msgstr "[_Lisa_s_11_] Senti, ma perché devi spendere soldi per il mio costume? Tanto me lo avrebbe comprato presto la mamma."
+
+# game/scripts/story_01/bikini.rpy:107 #-#-# translate crowdin ev_145_start_d9d483d9:
+msgid "[_Max_s_13_] Я и без мамы могу позаботиться о своей любимой младшей сестрёнке. К тому же, ей и без нас есть куда потратить деньги."
+msgstr "[_Max_s_13_] Posso prendermi cura della mia cara sorellina anche senza la mamma. Inoltre, lei ha già abbastanza cose su cui spendere i suoi soldi senza dover pensare a questo."
+
+# game/scripts/story_01/bikini.rpy:108 #-#-# translate crowdin ev_145_start_21adbd6f:
+msgid "[_Lisa_s_01_] Это да... Я уже давно присмотрела себе один купальник. Надеюсь, он ещё там..."
+msgstr "[_Lisa_s_01_] È vero... è da un po' che tengo d'occhio un costume da bagno. Spero che sia ancora lì..."
+
+# game/scripts/story_01/bikini.rpy:109 #-#-# translate crowdin ev_145_start_b9081c48:
+msgid "[_Max_s_11_] Я бы не стал ограничиваться всего лишь одним купальником. Примерь хотя бы несколько."
+msgstr "[_Max_s_11_] Non ti limiterei a un solo costume da bagno. Provane almeno diversi."
+
+# game/scripts/story_01/bikini.rpy:113 #-#-# translate crowdin ev_145_start_c4dc1d18:
+msgid "[_Lisa_s_10_] Хм... Пожалуй, ты прав. А то вдруг тот, что мне понравился, окажется неудобным, да?"
+msgstr "[_Lisa_s_10_] Mmm... credo che tu abbia ragione. E se quello che mi piaceva si rivelasse scomodo?"
+
+# game/scripts/story_01/bikini.rpy:114 #-#-# translate crowdin ev_145_start_2a25d0c1:
+msgid "[_Max_s_02_] Именно! Сейчас посмотрим, что у них тут есть..."
+msgstr "[_Max_s_02_] Esatto! Ora vediamo cosa hanno qui..."
+
+# game/scripts/story_01/bikini.rpy:118 #-#-# translate crowdin ev_145_start_cd019b88:
+msgid "[_Lisa_s_13_] Макс, я посмотрела, тот красный купальник на месте. Какие ещё возьмём померить?"
+msgstr "[_Lisa_s_13_] Max, ho guardato, quel costume rosso è ancora lì. Quali altri dovremmo provare?"
+
+# game/scripts/story_01/bikini.rpy:119 #-#-# translate crowdin ev_145_start_9b592f45:
+msgid "[_Max_s_01_] Я не мама, так что ограничений по открытости купальников нет! Выбирай, какие хочешь."
+msgstr "[_Max_s_01_] Non sono una mamma, quindi non ci sono limiti su quanto siano succinti i miei costumi da bagno! Scegli quello che preferisci."
+
+# game/scripts/story_01/bikini.rpy:120 #-#-# translate crowdin ev_145_start_915c63d4:
+msgid "[_Lisa_s_02_] Хи-хи... Тогда у меня есть несколько на примете."
+msgstr "[_Lisa_s_02_] Hee hee... Allora ne ho un paio in mente."
+
+# game/scripts/story_01/bikini.rpy:121 #-#-# translate crowdin ev_145_start_24ffa4d5:
+msgid "[_Max_s_03_] Раз так, то давай бери их быстрее и пошли примерять..."
+msgstr "[_Max_s_03_] Se è così, allora dai, prendili subito e proviamoli..."
+
+# game/scripts/story_01/bikini.rpy:129 #-#-# translate crowdin ev_145_bikini1_cc603d2c:
+msgid "[_Lisa_] {b}Лиза:{/b}\n"
+"Макс, я раздеваюсь, так что ко мне пока не заглядывать! Я скажу, когда на меня можно будет смотреть..."
+msgstr "[_Lisa_] {b}Lisa:{/b}\n"
+"Max, mi sto spogliando, quindi non sbirciarmi ancora! Ti dirò quando puoi guardarmi..."
+
+# game/scripts/story_01/bikini.rpy:131 #-#-# translate crowdin ev_145_bikini1_20499a17:
+msgid "[_tMax_s_13_] Хм... Вот зачем говорить, что раздеваешься? Должно быть Лиза ещё не до конца понимает, что это звучит скорее как приглашение, а не наоборот... [nointeract]"
+msgstr "[_tMax_s_13_] Hmm... Perché dici che ti stai spogliando? Lisa probabilmente non capisce bene che sembra più un invito che il contrario... [nointeract]"
+
+# game/scripts/story_01/bikini.rpy:140 #-#-# translate crowdin ev_145_bikini1_25369d48:
+msgid "[_tMax_s_05_] О да! Это я вовремя заглянул... Ещё чуть-чуть и она бы уже спрятала свои миленькие розовые сосочки под купальник!"
+msgstr "[_tMax_s_05_] Oh sì! Ho guardato giusto in tempo... Ancora un po' e avrebbe già nascosto i suoi graziosi capezzoli rosa sotto il costume da bagno!"
+
+# game/scripts/story_01/bikini.rpy:144 #-#-# translate crowdin ev_145_bikini1_039fd854:
+msgid "[_tMax_s_11_] Интересно, что будет, если Лиза заметит, как я за ней подглядываю? Возможно, ничего плохого, ведь она давно хотела новый купальник..."
+msgstr "[_tMax_s_11_] Chissà cosa succederebbe se Lisa si accorgesse che la sto sbirciando? Potrebbe andar bene, visto che è da un po' che desidera un costume da bagno nuovo..."
+
+# game/scripts/story_01/bikini.rpy:154 #-#-# translate crowdin ev_145_bikini1_22096014:
+msgid "[_Lisa_s_14_] Макс! Я не одета!!!"
+msgstr "[_Lisa_s_14_] Max! Non sono vestita!!!"
+
+# game/scripts/story_01/bikini.rpy:161 #-#-# translate crowdin ev_145_bikini1_2f6813f9:
+msgid "[_Lisa_s_12_] Я же просила не заглядывать ко мне, пока не скажу, что можно! Подожди немного... [nointeract]"
+msgstr "[_Lisa_s_12_] Ti avevo detto di non venire a trovarmi finché non ti dico che va bene! Aspetta solo un po'... [nointeract]"
+
+# game/scripts/story_01/bikini.rpy:166 #-#-# translate crowdin ev_145_bikini1_68434f84:
+msgid "[_tMax_s_11_] Фух... Она даже и не разозлилась, вроде... Похоже, после того, что происходило во время выполнения домашних заданий, с которыми я ей помогал, она уже не удивляется моим выходкам..."
+msgstr "[_tMax_s_11_] Uff... Non sembrava nemmeno arrabbiata... Sembra che dopo quello che è successo durante i compiti in cui l'ho aiutata, non sia più sorpresa dalle mie buffonate..."
+
+# game/scripts/story_01/bikini.rpy:172 #-#-# translate crowdin ev_145_bikini1_86d63354:
+msgid "[_Lisa_s_15_] Я же просила не заглядывать ко мне, пока не скажу, что можно!"
+msgstr "[_Lisa_s_15_] Ti ho chiesto di non venirmi a trovare finché non ti dico che va bene!"
+
+# game/scripts/story_01/bikini.rpy:173 #-#-# translate crowdin ev_145_bikini1_f8696bcb:
+msgid "[_Max_s_11_] Я не удержался..."
+msgstr "[_Max_s_11_] Non ho resistito..."
+
+# game/scripts/story_01/bikini.rpy:174 #-#-# translate crowdin ev_145_bikini1_8f1bcd0a:
+msgid "[_Lisa_s_12_] Всё, не лезь сюда больше, а то я обижусь и уйду!"
+msgstr "[_Lisa_s_12_] Ecco fatto, non venire più qui, altrimenti mi offendo e me ne vado!"
+
+# game/scripts/story_01/bikini.rpy:175 #-#-# translate crowdin ev_145_bikini1_6ea3f3f7:
+msgid "[_Max_s_12_] Всё-всё, не горячись..."
+msgstr "[_Max_s_12_] Va bene, va bene, non arrabbiarti..."
+
+# game/scripts/story_01/bikini.rpy:179 #-#-# translate crowdin ev_145_bikini1_95bb396d:
+msgid "[_tMax_s_16_] Какая она глазастая... Теперь мне лучше даже не пытаться подглядеть за ней, чтобы окончательно всё не испортить."
+msgstr "[_tMax_s_16_] Ha degli occhi così grandi… Ora è meglio per me non cercare nemmeno di spiare dietro di lei, per non rovinare tutto definitivamente."
+
+# game/scripts/story_01/bikini.rpy:180 #-#-# translate crowdin ev_145_bikini1_e53d99e7:
+msgid "[_Lisa_] {b}Лиза:{/b}\n"
+"Ну, что я могу сказать про этот купальник... Он ничего так, правда не особо открытый. Тот, который я больше всего хотела куда посвободнее."
+msgstr "[_Lisa_] {b}Lisa:{/b}\n"
+"Beh, cosa posso dire di questo costume da bagno... Non è male, anche se non è particolarmente scollato. Quello che desideravo di più era molto più largo."
+
+# game/scripts/story_01/bikini.rpy:181 #-#-# translate crowdin ev_145_bikini1_d8611735:
+msgid "[_Max_s_13_] Посмотреть-то можно?"
+msgstr "[_Max_s_13_] Posso dare un’occhiata?"
+
+# game/scripts/story_01/bikini.rpy:182 #-#-# translate crowdin ev_145_bikini1_00e524e5:
+msgid "[_Lisa_] {b}Лиза:{/b}\n"
+"Вообще-то, ты уже должен был насмотреться на него. Правда, ты же вряд ли купальник пытался разглядеть, когда подглядывал. В любом случае, я уже его снимаю и примеряю сразу третий..."
+msgstr "[_Lisa_] {b}Lisa:{/b}\n"
+"In realtà, ormai dovresti averne abbastanza di guardarlo. Anche se probabilmente non stavi nemmeno cercando di vedere il costume quando hai sbirciato. Comunque, me lo sto già togliendo e ne sto provando un terzo..."
+
+# game/scripts/story_01/bikini.rpy:183 #-#-# translate crowdin ev_145_bikini1_682743c3:
+msgid "[_Max_s_15_] А как же второй?!"
+msgstr "[_Max_s_15_] E l'altro?!"
+
+# game/scripts/story_01/bikini.rpy:184 #-#-# translate crowdin ev_145_bikini1_a7f58080:
+msgid "[_Lisa_] {b}Лиза:{/b}\n"
+"Я его немного стесняюсь примерять, не говоря уже о том, чтобы кому-то показаться... Да и мама его точно не одобрит, он слишком открытый."
+msgstr "[_Lisa_] {b}Lisa:{/b}\n"
+"Mi vergogno un po' a provarlo, figuriamoci a farmi vedere da qualcuno... E poi mamma non lo approverebbe di certo, è troppo scoperto."
+
+# game/scripts/story_01/bikini.rpy:185 #-#-# translate crowdin ev_145_bikini1_1b104923:
+msgid "[_Max_s_13_] Ладно, тогда примеряй третий..."
+msgstr "[_Max_s_13_] Va bene, allora prova il terzo..."
+
+# game/scripts/story_01/bikini.rpy:192 #-#-# translate crowdin ev_145_bikini1_8038c6ee:
+msgid "[_tMax_s_13_] Эх, я такие возможности упускаю. И дома не подсмотрел за сестрёнкой, пока она одевалась в магазин, и здесь скромничаю..."
+msgstr "[_tMax_s_13_] Eh, quante occasioni sto sprecando... Non ti ho spiata a casa mentre ti vestivi per venire qui, e anche adesso sto facendo il modesto..."
+
+# game/scripts/story_01/bikini.rpy:196 #-#-# translate crowdin ev_145_fitting1_9683fafb:
+msgid "[_Lisa_] {b}Лиза:{/b}\n"
+"Макс, ты тут? Я примерила первый купальник, так что можешь заглянуть в примерочную и оценить..."
+msgstr "[_Lisa_] {b}Lisa:{/b}\n"
+"Max, ci sei? Ho provato il primo costume, quindi puoi sbirciare in camerino e darmi un voto..."
+
+# game/scripts/story_01/bikini.rpy:197 #-#-# translate crowdin ev_145_fitting1_f35522e8:
+msgid "[_Max_s_02_] Конечно хочу!"
+msgstr "[_Max_s_02_] Certo che voglio!"
+
+# game/scripts/story_01/bikini.rpy:202 #-#-# translate crowdin ev_145_fitting1_02ef1e4d:
+msgid "[_Lisa_s_01_] Что скажешь, мне идёт этот купальник?"
+msgstr "[_Lisa_s_01_] Che dici, mi sta bene questo costume?"
+
+# game/scripts/story_01/bikini.rpy:203 #-#-# translate crowdin ev_145_fitting1_4666b7d8:
+msgid "[_Max_s_12_] Вполне, только он не такой уж и открытый. Ты же хотела что-то посвободнее?"
+msgstr "[_Max_s_12_] Abbastanza, ma non è poi così aperto. Non volevi qualcosa di più... Libero?"
+
+# game/scripts/story_01/bikini.rpy:204 #-#-# translate crowdin ev_145_fitting1_95c0d533:
+msgid "[_Lisa_s_02_] Ага, просто решила померить и такой, раз уж мы здесь. Но вот второй я даже немного стесняюсь примерять, не говоря уже о том, чтобы кому-то показаться..."
+msgstr "[_Lisa_s_02_] Sì, ho deciso di provare questo giusto perché siamo qui. Ma il secondo... Mi vergogno quasi a metterlo, figuriamoci a farmi vedere da qualcuno..."
+
+# game/scripts/story_01/bikini.rpy:205 #-#-# translate crowdin ev_145_fitting1_b23292e2:
+msgid "[_Max_s_01_] Мы же здесь как раз за этим!"
+msgstr "[_Max_s_01_] Siamo qui proprio per questo!"
+
+# game/scripts/story_01/bikini.rpy:212 #-#-# translate crowdin ev_145_fitting1_8761c6f2:
+msgid "[_Lisa_s_11_] Хм... Пожалуй, я всё же его примерю и даже дам тебе его увидеть на мне, хоть он и слишком открытый. Порадую тебя немного."
+msgstr "[_Lisa_s_11_] Mmm... Va bene, lo proverò e ti lascerò perfino vedermelo addosso, anche se è troppo scoperto. Ti farò felice per un po'."
+
+# game/scripts/story_01/bikini.rpy:213 #-#-# translate crowdin ev_145_fitting1_a7af9836:
+msgid "[_Max_s_04_] Ох, жду не дождусь!"
+msgstr "[_Max_s_04_] Oh, non vedo l'ora!"
+
+# game/scripts/story_01/bikini.rpy:220 #-#-# translate crowdin ev_145_fitting1_8bc65a20:
+msgid "[_Lisa_s_09_] Хм... Пожалуй, я лучше примерю сразу третий купальник, который всё это время хотела. Мама точно не одобрит второй, он слишком открытый."
+msgstr "[_Lisa_s_09_] Mmm... Forse è meglio se provo subito il terzo costume, quello che volevo fin dall'inizio. Mamma non approverebbe di certo il secondo, è troppo scoperto."
+
+# game/scripts/story_01/bikini.rpy:221 #-#-# translate crowdin ev_145_fitting1_1b104923:
+msgid "[_Max_s_13_] Ладно, тогда примеряй третий..."
+msgstr "[_Max_s_13_] Va bene, allora prova il terzo..."
+
+# game/scripts/story_01/bikini.rpy:229 #-#-# translate crowdin ev_145_bikini2_1e8cbc66:
+msgid "[_tMax_s_11_] Интересно, что же там за такой слишком открытый купальник, который точно не одобрит мама?! Реально ли вообще удержаться и не увидеть такое раньше времени? [nointeract]"
+msgstr "[_tMax_s_11_] Mi chiedo cosa sia quel costume così audace che la mamma non approverebbe mai?! È davvero possibile resistere e non guardare prima del tempo? [nointeract]"
+
+# game/scripts/story_01/bikini.rpy:240 #-#-# translate crowdin ev_145_bikini2_bd30a1b4:
+msgid "[_tMax_s_06_] Ого! Как же мало всего скрывается этим розовеньким бикини! Это так волнующе, когда самое интересное скрыто почти на грани..."
+msgstr "[_tMax_s_06_] Accidenti! Quel bikini rosa nasconde davvero poco! È eccitante quando tutto il meglio è quasi... Al limite..."
+
+# game/scripts/story_01/bikini.rpy:244 #-#-# translate crowdin ev_145_bikini2_5888ec3d:
+msgid "[_tMax_s_01_] Теперь придётся изобразить удивление, когда Лиза покажется мне в этом купальнике. А то мало ли что ещё заподозрит..."
+msgstr "[_tMax_s_01_] Ora dovrò fingere sorpresa quando Lisa si mostrerà con quel costume. Non si sa mai cosa potrebbe sospettare..."
+
+# game/scripts/story_01/bikini.rpy:253 #-#-# translate crowdin ev_145_bikini2_5733fb72:
+msgid "[_Lisa_s_15_] Макс! Я не одета!!! Хватит уже подглядывать. Всё, я снимаю этот купальник и буду наконец-то примерять тот, который хотела."
+msgstr "[_Lisa_s_15_] Max! Non sono vestita!!! Smettila di sbirciare. Basta, mi tolgo questo costume e finalmente proverò quello che volevo."
+
+# game/scripts/story_01/bikini.rpy:254 #-#-# translate crowdin ev_145_bikini2_d3a68647:
+msgid "[_Max_s_15_] А как же этот?!"
+msgstr "[_Max_s_15_] E questo?!"
+
+# game/scripts/story_01/bikini.rpy:255 #-#-# translate crowdin ev_145_bikini2_fad292ef:
+msgid "[_Lisa_s_12_] На него ты уже насмотрелся, так что обойдёшься!"
+msgstr "[_Lisa_s_12_] Su questo hai già rifatto gli occhi abbastanza, quindi fattelo bastare!"
+
+# game/scripts/story_01/bikini.rpy:256 #-#-# translate crowdin ev_145_bikini2_1b104923:
+msgid "[_Max_s_13_] Ладно, тогда примеряй третий..."
+msgstr "[_Max_s_13_] Va bene, allora prova il terzo..."
+
+# game/scripts/story_01/bikini.rpy:270 #-#-# translate crowdin ev_145_bikini2_199a92c6:
+msgid "[_tMax_s_06_] Ух ты! Лиза пока ещё только начинает натягивать на свою голую и обворожительную попку новое бикини. Какое розовенькое..."
+msgstr "[_tMax_s_06_] Caspita! Lisa sta appena iniziando a infilarsi il nuovo bikini sul suo sedere nudo e incantevole. Com'è carino questo rosa..."
+
+# game/scripts/story_01/bikini.rpy:273 #-#-# translate crowdin ev_145_bikini2_5888ec3d_1:
+msgid "[_tMax_s_01_] Теперь придётся изобразить удивление, когда Лиза покажется мне в этом купальнике. А то мало ли что ещё заподозрит..."
+msgstr "[_tMax_s_01_] Ora dovrò fingere sorpresa quando Lisa si mostrerà con quel costume. Non si sa mai cosa potrebbe sospettare..."
+
+# game/scripts/story_01/bikini.rpy:281 #-#-# translate crowdin ev_145_bikini2_747e6fd3:
+msgid "[_tMax_s_01_] Лучше подожду... Не придётся тогда изображать удивление от увиденного, а оно похоже должно будет быть."
+msgstr "[_tMax_s_01_] Meglio aspettare... Così non dovrò fingere sorpresa per quello che ho visto, e a quanto pare dovrà essere una bella sorpresa."
+
+# game/scripts/story_01/bikini.rpy:289 #-#-# translate crowdin ev_145_failed2_22096014:
+msgid "[_Lisa_s_14_] Макс! Я не одета!!!"
+msgstr "[_Lisa_s_14_] Max! Non sono vestita!!!"
+
+# game/scripts/story_01/bikini.rpy:294 #-#-# translate crowdin ev_145_failed2_2f6813f9:
+msgid "[_Lisa_s_12_] Я же просила не заглядывать ко мне, пока не скажу, что можно! Подожди немного... [nointeract]"
+msgstr "[_Lisa_s_12_] Ti avevo detto di non venire a trovarmi finché non ti dico che va bene! Aspetta solo un po'... [nointeract]"
+
+# game/scripts/story_01/bikini.rpy:299 #-#-# translate crowdin ev_145_failed2_68434f84:
+msgid "[_tMax_s_11_] Фух... Она даже и не разозлилась, вроде... Похоже, после того, что происходило во время выполнения домашних заданий, с которыми я ей помогал, она уже не удивляется моим выходкам..."
+msgstr "[_tMax_s_11_] Uff... Non sembrava nemmeno arrabbiata... Sembra che dopo quello che è successo durante i compiti in cui l'ho aiutata, non sia più sorpresa dalle mie buffonate..."
+
+# game/scripts/story_01/bikini.rpy:303 #-#-# translate crowdin ev_145_fitting2_2204f056:
+msgid "[_Lisa_] {b}Лиза:{/b}\n"
+"Макс, я примерила второй купальник и как же сильно он меня смущает, ты даже не представляешь."
+msgstr "[_Lisa_] {b}Lisa:{/b}\n"
+"Max, ho provato il secondo costume e non hai idea di quanto mi faccia sentire in imbarazzo."
+
+# game/scripts/story_01/bikini.rpy:304 #-#-# translate crowdin ev_145_fitting2_27af73a7:
+msgid "[_Max_s_02_] А хотелось бы представить! Покажешься?"
+msgstr "[_Max_s_02_] E invece mi piacerebbe eccome immaginarlo! Ti fai vedere?"
+
+# game/scripts/story_01/bikini.rpy:308 #-#-# translate crowdin ev_145_fitting2_547ea957:
+msgid "[_Lisa_s_11_] А как же. Это тот случай, когда даже не знаешь, как лучше повернуться, чтобы не чувствовать себя совсем уж голышом..."
+msgstr "[_Lisa_s_11_] Eh già. È quel tipo di caso in cui non sai nemmeno come girarti per non sentirti completamente nuda..."
+
+# game/scripts/story_01/bikini.rpy:309 #-#-# translate crowdin ev_145_fitting2_596b9c68:
+msgid "[_Max_s_05_] Ухх... Классно смотришься, сестрёнка! И это разве голышом? Ты же знаешь, что есть купальники из пары ниток."
+msgstr "[_Max_s_05_] Uau... Stai benissimo, sorellina! E questo lo chiami essere nuda? Lo sai che esistono bikini fatti solo di un paio di fili, vero."
+
+# game/scripts/story_01/bikini.rpy:310 #-#-# translate crowdin ev_145_fitting2_63fde235:
+msgid "[_Lisa_s_01_] И не говори! И как такие вообще носят, не понимаю..."
+msgstr "[_Lisa_s_01_] E non dirmelo! Non capisco proprio come facciano a indossare cose del genere..."
+
+# game/scripts/story_01/bikini.rpy:311 #-#-# translate crowdin ev_145_fitting2_a2cad064:
+msgid "[_Max_s_11_] А почему ты думаешь, что мама такой купальник не одобрит? Сзади смотрится очень хорошо."
+msgstr "[_Max_s_11_] E perché pensi che la mamma non approverebbe un costume del genere? Da dietro sta davvero molto bene."
+
+# game/scripts/story_01/bikini.rpy:315 #-#-# translate crowdin ev_145_fitting2_ba1faa35:
+msgid "[_Lisa_s_11_] Может сзади и да, а вот спереди не всё так однозначно..."
+msgstr "[_Lisa_s_11_] Dietro forse sì, ma davanti... Beh, non è tutto così scontato..."
+
+# game/scripts/story_01/bikini.rpy:316 #-#-# translate crowdin ev_145_fitting2_3ea08603:
+msgid "[_Max_s_04_] Ммм... Разве? Спереди смотрится ещё лучше."
+msgstr "[_Max_s_04_] Mmm... Dici? Davanti sta ancora meglio."
+
+# game/scripts/story_01/bikini.rpy:317 #-#-# translate crowdin ev_145_fitting2_3993fb2e:
+msgid "[_Lisa_s_02_] С тобой-то всё понятно, а вот мама точно ужаснётся тому, что у меня из под купальника половина груди торчит. А уж ощущения такие, будто он вообще вот-вот с груди соскочит!"
+msgstr "[_Lisa_s_02_] Con te è tutto chiaro, ma la mamma inorridirà di sicuro nel vedere che metà del seno sbuca fuori dal costume. E la sensazione è che stia per scivolare via da un momento all'altro!"
+
+# game/scripts/story_01/bikini.rpy:318 #-#-# translate crowdin ev_145_fitting2_d1ca1efe:
+msgid "[_Max_s_03_] Хи-хи.... Но размерчик явно твой. Так хорошо облегает, что я даже вижу очертания твоей кисульки..."
+msgstr "[_Max_s_03_] He-he... Ma la taglia è decisamente la tua. Ti fascia così bene che riesco persino a vedere le forme della tua figa..."
+
+# game/scripts/story_01/bikini.rpy:322 #-#-# translate crowdin ev_145_fitting2_1b095426:
+msgid "[_Lisa_s_12_] Макс! Что, правда видно?! Ой, ну всё, пора снимать этот купальник и наконец-то примерить тот, который я хотела."
+msgstr "[_Lisa_s_12_] Max! Ma davvero si vede?! Oh, basta, è ora di togliersi questo costume e provare finalmente quello che volevo davvero."
+
+# game/scripts/story_01/bikini.rpy:323 #-#-# translate crowdin ev_145_fitting2_8c3065b9:
+msgid "[_Max_s_01_] Давай..."
+msgstr "[_Max_s_01_] Ma dai..."
+
+# game/scripts/story_01/bikini.rpy:332 #-#-# translate crowdin ev_145_bikini3_ac1a6e28:
+msgid "[_tMax_s_16_] Сейчас уже лучше не рисковать с подсматриванием, а то она ещё откажется и будет покупать купальник с мамой. Мне это совершенно ни к чему..."
+msgstr "[_tMax_s_16_] Meglio non rischiare di sbirciare ora, altrimenti potrebbe tirarsi indietro e andare a comprare il costume con la mamma. E questo non mi serve proprio a nulla..."
+
+# game/scripts/story_01/bikini.rpy:336 #-#-# translate crowdin ev_145_bikini3_92649c77:
+msgid "[_Lisa_] {b}Лиза:{/b}\n"
+"Ох, Макс, как же мне нравится этот красный купальник! Скорее заходи ко мне, посмотри..."
+msgstr "[_Lisa_] {b}Lisa:{/b}\n"
+"Oh, Max, quanto mi piace questo bikini rosso! Entra subito, vieni a vedere..."
+
+# game/scripts/story_01/bikini.rpy:337 #-#-# translate crowdin ev_145_bikini3_3ca682d0:
+msgid "[_Max_s_02_] С удовольствием!"
+msgstr "[_Max_s_02_] Con piacere!"
+
+# game/scripts/story_01/bikini.rpy:341 #-#-# translate crowdin ev_145_bikini3_03563352:
+msgid "[_Lisa_s_03_] Скажи же, что он классный?!"
+msgstr "[_Lisa_s_03_] Dico che è fantastico?!"
+
+# game/scripts/story_01/bikini.rpy:342 #-#-# translate crowdin ev_145_bikini3_e2da0b44:
+msgid "[_Max_s_05_] О да! Тебе определённо он очень идёт. Удобный? Нигде не жмёт?"
+msgstr "[_Max_s_05_] Oh sì! Ti sta divinamente. È comodo? Non stringe da nessuna parte?"
+
+# game/scripts/story_01/bikini.rpy:343 #-#-# translate crowdin ev_145_bikini3_cf3f1f14:
+msgid "[_Lisa_s_01_] Со всем этим полный порядок."
+msgstr "[_Lisa_s_01_] È tutto in perfetto ordine. Non cambierei nulla."
+
+# game/scripts/story_01/bikini.rpy:344 #-#-# translate crowdin ev_145_bikini3_0bc7d588:
+msgid "[_Max_s_11_] И сзади тоже?"
+msgstr "[_Max_s_11_] E anche dietro?"
+
+# game/scripts/story_01/bikini.rpy:348 #-#-# translate crowdin ev_145_bikini3_8d53adcb:
+msgid "[_Lisa_s_02_] Сам посмотри, всё ли там хорошо..."
+msgstr "[_Lisa_s_02_] Guarda tu stesso se è tutto a posto lì dietro..."
+
+# game/scripts/story_01/bikini.rpy:349 #-#-# translate crowdin ev_145_bikini3_c304859e:
+msgid "[_Max_s_06_] Ухх... Знаешь, этот купальник просто шикарно сидит на твоей симпатичной попке!"
+msgstr "[_Max_s_06_] Sai, questo bikini sta d'incanto sul tuo bel sedere!"
+
+# game/scripts/story_01/bikini.rpy:350 #-#-# translate crowdin ev_145_bikini3_254fcb5d:
+msgid "[_Lisa_s_11_] Хи-хи... Значит, надо брать, Макс!"
+msgstr "[_Lisa_s_11_] Hi-hi... Allora è deciso, Max si prende!"
+
+# game/scripts/story_01/bikini.rpy:351 #-#-# translate crowdin ev_145_bikini3_fb209c5d:
+msgid "[_Max_s_03_] Обязательно. Давай переодевайся, а я пока пойду оплачу..."
+msgstr "[_Max_s_03_] Certamente. Dai, rivestiti pure, intanto io vado a pagare..."
+
+# game/scripts/story_01/bikini.rpy:355 #-#-# translate crowdin ev_145_bikini3_dfe073ac:
+msgid "[_Lisa_s_05_] Я так рада, Макс! И хочу крепкие обнимашки! Иди ко мне..."
+msgstr "[_Lisa_s_05_] Sono così felice, Max! E voglio un abbraccio fortissimo! Vieni qui da me..."
+
+# game/scripts/story_01/bikini.rpy:356 #-#-# translate crowdin ev_145_bikini3_ce5592f8:
+msgid "[_tMax_s_04_] Вот это да! Лиза практически накинулась на меня с объятиями... Это так классно, когда она прижимается ко мне своей грудью!"
+msgstr "[_tMax_s_04_]  Wow! Lisa mi ha praticamente gettato le braccia al collo... È così bello quando preme i suoi seni contro di me!"
+
+# game/scripts/story_01/bikini.rpy:358 #-#-# translate crowdin ev_145_bikini3_bbd4835c:
+msgid "[_Lisa_s_11_] Здорово, что ты балуешь меня такими подарками... Может тебя даже стоит чмокнуть за это в щёчку?! [nointeract]"
+msgstr "[_Lisa_s_11_] È fantastico che tu mi vizi con regali del genere... Forse ti meriti un bacio sulla guancia per questo?! [nointeract]"
+
+# game/scripts/story_01/bikini.rpy:363 #-#-# translate crowdin ev_145_bikini3_e18648c4:
+msgid "[_Lisa_s_04_] Этот поцелуй ты определённо заслужил! Ммм..."
+msgstr "[_Lisa_s_04_] Questo bacio te lo sei decisamente meritato! Mmm..."
+
+# game/scripts/story_01/bikini.rpy:364 #-#-# translate crowdin ev_145_bikini3_674f1ef4:
+msgid "[_tMax_s_05_] А вот и наконец-то нежный поцелуй от сестрёнки подъехал! Приятно..."
+msgstr "[_tMax_s_05_] E finalmente è arrivato il tenero bacio della sorellina! Che bello..."
+
+# game/scripts/story_01/bikini.rpy:368 #-#-# translate crowdin ev_145_bikini3_e31cecbb:
+msgid "[_Lisa_s_10_] Слушай, Макс, а тебе правда хватит денег заплатить за этот купальник? Он ведь дорогой..."
+msgstr "[_Lisa_s_10_] Senti, Max, ma avrai davvero abbastanza soldi per pagare questo costume? Guarda che è caro..."
+
+# game/scripts/story_01/bikini.rpy:369 #-#-# translate crowdin ev_145_bikini3_823a2b19:
+msgid "[_Max_s_04_] Да, пустяки..."
+msgstr "[_Max_s_04_] Sì, sciocchezze..."
+
+# game/scripts/story_01/bikini.rpy:370 #-#-# translate crowdin ev_145_bikini3_2809f92a:
+msgid "[_Lisa_s_11_] Фух... А то было бы очень обидно уходить, после всех этих примерок, с пустыми руками."
+msgstr "[_Lisa_s_11_] Fiuu... Altrimenti sarebbe stato un vero peccato andarsene a mani vuote dopo tutte queste prove."
+
+# game/scripts/story_01/bikini.rpy:376 #-#-# translate crowdin ev_145_bikini3_26414e3c:
+msgid "[_Max_s_01_] Не переживай, не уйдём..."
+msgstr "[_Max_s_01_] Non preoccuparti, non ce ne andremo a mani vuote..."
+
+# game/scripts/story_01/bikini.rpy:377 #-#-# translate crowdin ev_145_bikini3_276b2e3a:
+msgid "[_Lisa_s_14_] Ой, Макс, у меня купальник развязался! Или это ты сделал?!"
+msgstr "[_Lisa_s_14_] Ohi, Max, mi si è slacciato il costume! O sei stato tu?!"
+
+# game/scripts/story_01/bikini.rpy:378 #-#-# translate crowdin ev_145_bikini3_6b37d13c:
+msgid "[_Max_s_03_] Хи-хи... Решил ускорить процесс переодевания, чтобы мы быстрее оказались дома."
+msgstr "[_Max_s_03_] Hi-hi... Ho deciso di accelerare il processo così torniamo a casa prima."
+
+# game/scripts/story_01/bikini.rpy:381 #-#-# translate crowdin ev_145_bikini3_5a0aa685:
+msgid "[_Lisa_s_10_] Так выйди тогда из примерочной и ускорять ничего не придётся... [nointeract]"
+msgstr "[_Lisa_s_10_] Allora esci dal camerino e non ci sarà bisogno di accelerare nulla... [nointeract]"
+
+# game/scripts/story_01/bikini.rpy:390 #-#-# translate crowdin ev_145_bikini3_d1782225:
+msgid "[_Max_s_01_] Не переживай, не уйдём... [nointeract]"
+msgstr "[_Max_s_01_] Non preoccuparti, non ce ne andremo senza niente... [nointeract]"
+
+# game/scripts/story_01/bikini.rpy:399 #-#-# translate crowdin ev_145_bikini3_7da28d93:
+msgid "[_Lisa_s_04_] Этот поцелуй ты... Ммм..."
+msgstr "[_Lisa_s_04_] Questo bacio te lo sei... Mmm..."
+
+# game/scripts/story_01/bikini.rpy:400 #-#-# translate crowdin ev_145_bikini3_b6358413:
+msgid "[_tMax_s_07_] Ага, заслужил и ещё как! Ох, сестрёнка, как же приятно с тобой целоваться..."
+msgstr "[_tMax_s_07_] Sì, me lo sono meritato e come! Oh, sorellina, quanto è bello baciarti..."
+
+# game/scripts/story_01/bikini.rpy:404 #-#-# translate crowdin ev_145_bikini3_f94cd818:
+msgid "[_Lisa_s_10_] Макс, прекращай! Я же не так хотела... И вообще, тебе денег-то хватит заплатить за этот купальник? Он ведь дорогой..."
+msgstr "[_Lisa_s_10_] Max, piantala! Non volevo che andasse così... E poi, avrai abbastanza soldi per pagare questo costume? Guarda che è caro..."
+
+# game/scripts/story_01/bikini.rpy:405 #-#-# translate crowdin ev_145_bikini3_823a2b19_1:
+msgid "[_Max_s_04_] Да, пустяки..."
+msgstr "[_Max_s_04_] Sì, sciocchezze..."
+
+# game/scripts/story_01/bikini.rpy:406 #-#-# translate crowdin ev_145_bikini3_2809f92a_1:
+msgid "[_Lisa_s_11_] Фух... А то было бы очень обидно уходить, после всех этих примерок, с пустыми руками."
+msgstr "[_Lisa_s_11_] Fiuu... Altrimenti sarebbe stato un vero peccato andarsene a mani vuote dopo tutte queste prove."
+
+# game/scripts/story_01/bikini.rpy:412 #-#-# translate crowdin ev_145_bikini3_26414e3c_1:
+msgid "[_Max_s_01_] Не переживай, не уйдём..."
+msgstr "[_Max_s_01_] Non preoccuparti, non ce ne andremo a mani vuote..."
+
+# game/scripts/story_01/bikini.rpy:413 #-#-# translate crowdin ev_145_bikini3_276b2e3a_1:
+msgid "[_Lisa_s_14_] Ой, Макс, у меня купальник развязался! Или это ты сделал?!"
+msgstr "[_Lisa_s_14_] Ohi, Max, mi si è slacciato il costume! O sei stato tu?!"
+
+# game/scripts/story_01/bikini.rpy:414 #-#-# translate crowdin ev_145_bikini3_6b37d13c_1:
+msgid "[_Max_s_03_] Хи-хи... Решил ускорить процесс переодевания, чтобы мы быстрее оказались дома."
+msgstr "[_Max_s_03_] Hi-hi... Ho deciso di accelerare il processo così torniamo a casa prima."
+
+# game/scripts/story_01/bikini.rpy:417 #-#-# translate crowdin ev_145_bikini3_5a0aa685_1:
+msgid "[_Lisa_s_10_] Так выйди тогда из примерочной и ускорять ничего не придётся... [nointeract]"
+msgstr "[_Lisa_s_10_] Allora esci dal camerino e non ci sarà bisogno di accelerare nulla... [nointeract]"
+
+# game/scripts/story_01/bikini.rpy:426 #-#-# translate crowdin ev_145_bikini3_d1782225_1:
+msgid "[_Max_s_01_] Не переживай, не уйдём... [nointeract]"
+msgstr "[_Max_s_01_] Non preoccuparti, non ce ne andremo senza niente... [nointeract]"
+
+# game/scripts/story_01/bikini.rpy:435 #-#-# translate crowdin ev_145_bikini3_7da28d93_1:
+msgid "[_Lisa_s_04_] Этот поцелуй ты... Ммм..."
+msgstr "[_Lisa_s_04_] Questo bacio te lo sei... Mmm..."
+
+# game/scripts/story_01/bikini.rpy:436 #-#-# translate crowdin ev_145_bikini3_b6358413_1:
+msgid "[_tMax_s_07_] Ага, заслужил и ещё как! Ох, сестрёнка, как же приятно с тобой целоваться..."
+msgstr "[_tMax_s_07_] Sì, me lo sono meritato e come! Oh, sorellina, quanto è bello baciarti..."
+
+# game/scripts/story_01/bikini.rpy:440 #-#-# translate crowdin ev_145_bikini3_a3107583:
+msgid "[_Lisa_s_11_] Ого, Макс! Это что вообще такое сейчас было?!"
+msgstr "[_Lisa_s_11_] Accidenti, Max! Ma cos'è stato questo?!"
+
+# game/scripts/story_01/bikini.rpy:441 #-#-# translate crowdin ev_145_bikini3_1f5a1c0d:
+msgid "[_Max_s_03_] Да так, показал тебе, как нужно чмокать."
+msgstr "[_Max_s_03_] Niente di che... Ti ho solo mostrato come si fa a dare un bacio come si deve."
+
+# game/scripts/story_01/bikini.rpy:442 #-#-# translate crowdin ev_145_bikini3_3ad32791:
+msgid "[_Lisa_s_02_] Ничего себе, чмокнул так чмокнул! А нам так разве можно?"
+msgstr "[_Lisa_s_02_] Caspita, che bacio! Ma ci è permesso fare così?"
+
+# game/scripts/story_01/bikini.rpy:443 #-#-# translate crowdin ev_145_bikini3_187f40e0:
+msgid "[_Max_s_11_] Если хочется, то почему бы и нет? Всё-таки мечту твою исполнили..."
+msgstr "[_Max_s_11_] Se ne hai voglia, allora perché no? Dopotutto, abbiamo realizzato il tuo sogno..."
+
+# game/scripts/story_01/bikini.rpy:444 #-#-# translate crowdin ev_145_bikini3_27d3c4a2:
+msgid "[_Lisa_s_10_] Хм... Кстати, об этом... Тебе денег-то хватит заплатить за этот купальник? Он ведь дорогой..."
+msgstr "[_Lisa_s_10_] Hm... A proposito... Ma avrai abbastanza soldi per pagare questo costume? Guarda che è molto caro..."
+
+# game/scripts/story_01/bikini.rpy:445 #-#-# translate crowdin ev_145_bikini3_823a2b19_2:
+msgid "[_Max_s_04_] Да, пустяки..."
+msgstr "[_Max_s_04_] Sì, sciocchezze..."
+
+# game/scripts/story_01/bikini.rpy:446 #-#-# translate crowdin ev_145_bikini3_2809f92a_2:
+msgid "[_Lisa_s_11_] Фух... А то было бы очень обидно уходить, после всех этих примерок, с пустыми руками."
+msgstr "[_Lisa_s_11_] Fiuu... Altrimenti sarebbe stato un vero peccato andarsene a mani vuote dopo tutte queste prove."
+
+# game/scripts/story_01/bikini.rpy:452 #-#-# translate crowdin ev_145_bikini3_26414e3c_2:
+msgid "[_Max_s_01_] Не переживай, не уйдём..."
+msgstr "[_Max_s_01_] Non preoccuparti, non ce ne andremo a mani vuote..."
+
+# game/scripts/story_01/bikini.rpy:453 #-#-# translate crowdin ev_145_bikini3_276b2e3a_2:
+msgid "[_Lisa_s_14_] Ой, Макс, у меня купальник развязался! Или это ты сделал?!"
+msgstr "[_Lisa_s_14_] Ohi, Max, mi si è slacciato il costume! O sei stato tu?!"
+
+# game/scripts/story_01/bikini.rpy:454 #-#-# translate crowdin ev_145_bikini3_6b37d13c_2:
+msgid "[_Max_s_03_] Хи-хи... Решил ускорить процесс переодевания, чтобы мы быстрее оказались дома."
+msgstr "[_Max_s_03_] Hi-hi... Ho deciso di accelerare il processo così torniamo a casa prima."
+
+# game/scripts/story_01/bikini.rpy:457 #-#-# translate crowdin ev_145_bikini3_5a0aa685_2:
+msgid "[_Lisa_s_10_] Так выйди тогда из примерочной и ускорять ничего не придётся... [nointeract]"
+msgstr "[_Lisa_s_10_] Allora esci dal camerino e non ci sarà bisogno di accelerare nulla... [nointeract]"
+
+# game/scripts/story_01/bikini.rpy:466 #-#-# translate crowdin ev_145_bikini3_d1782225_2:
+msgid "[_Max_s_01_] Не переживай, не уйдём... [nointeract]"
+msgstr "[_Max_s_01_] Non preoccuparti, non ce ne andremo senza niente... [nointeract]"
+
+# game/scripts/story_01/bikini.rpy:474 #-#-# translate crowdin ev_145_bikini3_aa487975:
+msgid "[_Lisa_] {b}Лиза:{/b}\n"
+"Ох, Макс, как же мне нравится этот красный купальник! Смотри скорее..."
+msgstr "[_Lisa_] {b}Lisa:{/b}\n"
+"Oh, Max, quanto mi piace questo costume rosso! Guarda, presto..."
+
+# game/scripts/story_01/bikini.rpy:475 #-#-# translate crowdin ev_145_bikini3_3ca682d0_1:
+msgid "[_Max_s_02_] С удовольствием!"
+msgstr "[_Max_s_02_] Con piacere!"
+
+# game/scripts/story_01/bikini.rpy:479 #-#-# translate crowdin ev_145_bikini3_03563352_1:
+msgid "[_Lisa_s_03_] Скажи же, что он классный?!"
+msgstr "[_Lisa_s_03_] Dico che è fantastico?!"
+
+# game/scripts/story_01/bikini.rpy:480 #-#-# translate crowdin ev_145_bikini3_e2da0b44_1:
+msgid "[_Max_s_05_] О да! Тебе определённо он очень идёт. Удобный? Нигде не жмёт?"
+msgstr "[_Max_s_05_] Oh sì! Ti sta divinamente. È comodo? Non stringe da nessuna parte?"
+
+# game/scripts/story_01/bikini.rpy:481 #-#-# translate crowdin ev_145_bikini3_cf3f1f14_1:
+msgid "[_Lisa_s_01_] Со всем этим полный порядок."
+msgstr "[_Lisa_s_01_] È tutto in perfetto ordine. Non cambierei nulla."
+
+# game/scripts/story_01/bikini.rpy:482 #-#-# translate crowdin ev_145_bikini3_0bc7d588_1:
+msgid "[_Max_s_11_] И сзади тоже?"
+msgstr "[_Max_s_11_] E anche dietro?"
+
+# game/scripts/story_01/bikini.rpy:486 #-#-# translate crowdin ev_145_bikini3_8d53adcb_1:
+msgid "[_Lisa_s_02_] Сам посмотри, всё ли там хорошо..."
+msgstr "[_Lisa_s_02_] Guarda tu stesso se è tutto a posto lì dietro..."
+
+# game/scripts/story_01/bikini.rpy:487 #-#-# translate crowdin ev_145_bikini3_c304859e_1:
+msgid "[_Max_s_06_] Ухх... Знаешь, этот купальник просто шикарно сидит на твоей симпатичной попке!"
+msgstr "[_Max_s_06_] Sai, questo bikini sta d'incanto sul tuo bel sedere!"
+
+# game/scripts/story_01/bikini.rpy:488 #-#-# translate crowdin ev_145_bikini3_254fcb5d_1:
+msgid "[_Lisa_s_11_] Хи-хи... Значит, надо брать, Макс!"
+msgstr "[_Lisa_s_11_] Hi-hi... Allora è deciso, Max si prende!"
+
+# game/scripts/story_01/bikini.rpy:490 #-#-# translate crowdin ev_145_bikini3_625b2225:
+msgid "[_Max_s_03_] Обязательно. Давай переодевайся, а я пока пойду оплачу... [nointeract]"
+msgstr "[_Max_s_03_] Assolutamente. Dai, rivestiti, io intanto vado a pagare... [nointeract]"
+
+# game/scripts/story_01/bikini.rpy:495 #-#-# translate crowdin ev_145_bikini3_fbf5202a:
+msgid "[_tMax_s_11_] Готово! Осталось дождаться сестрёнку. А вот и она..."
+msgstr "[_tMax_s_11_] Fatto! Non resta che aspettare la sorellina. Eccola che arriva..."
+
+# game/scripts/story_01/bikini.rpy:499 #-#-# translate crowdin ev_145_bikini3_dfe073ac_1:
+msgid "[_Lisa_s_05_] Я так рада, Макс! И хочу крепкие обнимашки! Иди ко мне..."
+msgstr "[_Lisa_s_05_] Sono così felice, Max! E voglio un abbraccio fortissimo! Vieni qui da me..."
+
+# game/scripts/story_01/bikini.rpy:500 #-#-# translate crowdin ev_145_bikini3_ce5592f8_1:
+msgid "[_tMax_s_04_] Вот это да! Лиза практически накинулась на меня с объятиями... Это так классно, когда она прижимается ко мне своей грудью!"
+msgstr "[_tMax_s_04_]  Wow! Lisa mi ha praticamente gettato le braccia al collo... È così bello quando preme i suoi seni contro di me!"
+
+# game/scripts/story_01/bikini.rpy:504 #-#-# translate crowdin ev_145_bikini3_851d888d:
+msgid "[_Lisa_s_10_] Слушай, Макс, а тебе денег-то хватило заплатить за этот купальник? Он ведь дорогой..."
+msgstr "[_Lisa_s_10_] Senti, Max, ma ti sono bastati i soldi per quel costume? Guarda che era davvero caro..."
+
+# game/scripts/story_01/bikini.rpy:505 #-#-# translate crowdin ev_145_bikini3_823a2b19_3:
+msgid "[_Max_s_04_] Да, пустяки..."
+msgstr "[_Max_s_04_] Sì, sciocchezze..."
+
+# game/scripts/story_01/bikini.rpy:506 #-#-# translate crowdin ev_145_bikini3_2809f92a_3:
+msgid "[_Lisa_s_11_] Фух... А то было бы очень обидно уходить, после всех этих примерок, с пустыми руками."
+msgstr "[_Lisa_s_11_] Fiuu... Altrimenti sarebbe stato un vero peccato andarsene a mani vuote dopo tutte queste prove."
+
+# game/scripts/story_01/bikini.rpy:507 #-#-# translate crowdin ev_145_bikini3_26414e3c_3:
+msgid "[_Max_s_01_] Не переживай, не уйдём..."
+msgstr "[_Max_s_01_] Non preoccuparti, non ce ne andremo a mani vuote..."
+
+# game/scripts/story_01/bikini.rpy:514 #-#-# translate crowdin ev_145_return_home_ed897e17:
+msgid "[_Lisa_s_05_] Я всегда очень люблю возвращаться домой, но сегодня это так по особенному приятно!"
+msgstr "[_Lisa_s_05_] Amo sempre tornare a casa, ma oggi è un piacere così speciale!"
+
+# game/scripts/story_01/bikini.rpy:515 #-#-# translate crowdin ev_145_return_home_87e98e9f:
+msgid "[_Max_s_02_] Тут не поспоришь."
+msgstr "[_Max_s_02_] Su questo non si discute."
+
+# game/scripts/story_01/bikini.rpy:520 #-#-# translate crowdin ev_145_return_home_bfdd8878:
+msgid "[_Lisa_s_02_] Спасибо тебе ещё раз большое, Макс! Мне уже не терпится поплавать и позагорать в новом купальнике! Здорово, что это случится уже сегодня..."
+msgstr "[_Lisa_s_02_] Grazie ancora di cuore, Max! Non vedo l'ora di nuotare e prendere il sole con il nuovo costume! È fantastico che succederà già oggi..."
+
+# game/scripts/story_01/bikini.rpy:522 #-#-# translate crowdin ev_145_return_home_88e41613:
+msgid "[_Lisa_s_02_] Спасибо тебе ещё раз большое, Макс! Мне уже не терпится поплавать и позагорать в новом купальнике! Жалко, что это случится только завтра..."
+msgstr "[_Lisa_s_02_] Grazie ancora di cuore, Max! Non vedo l'ora di nuotare e prendere il sole con il nuovo costume! Peccato che succederà solo domani..."
+
+# game/scripts/story_01/bikini.rpy:523 #-#-# translate crowdin ev_145_return_home_46806431:
+msgid "[_Max_s_01_] Наслаждайся, сестрёнка."
+msgstr "[_Max_s_01_] Goditela, sorellina."
+
+# game/scripts/story_01/bikini.rpy:527 #-#-# translate crowdin ev_145_return_home_ce2e2eea:
+msgid "[_Lisa_s_04_] Дай-ка я ещё раз тебя обниму... Даже не верится до сих пор, что у меня теперь есть новый купальник!"
+msgstr "[_Lisa_s_04_] Lascia che ti abbracci ancora una volta... Non riesco ancora a credere di avere un costume nuovo!"
+
+# game/scripts/story_01/bikini.rpy:528 #-#-# translate crowdin ev_145_return_home_2e670efc:
+msgid "[_Max_s_04_] А ты надевай его почаще и всё пройдёт."
+msgstr "[_Max_s_04_] Mettilo più spesso e vedrai che ti passerà tutto."
+
+# game/scripts/story_01/bikini.rpy:529 #-#-# translate crowdin ev_145_return_home_c6d01307:
+msgid "[_Lisa_s_11_] Макс, ну вот почему тебе так неймётся облапать мой зад, а?"
+msgstr "[_Lisa_s_11_] Max, ma perché hai questa fissa di palparmi il sedere, eh?"
+
+# game/scripts/story_01/bikini.rpy:530 #-#-# translate crowdin ev_145_return_home_7a55b1fb:
+msgid "[_Max_s_01_] Даже не знаю, твоя попка прямо как-то сама под руку попала..."
+msgstr "[_Max_s_01_] Non so nemmeno come, il tuo sedere è finito proprio sotto la mia mano..."
+
+# game/scripts/story_01/bikini.rpy:534 #-#-# translate crowdin ev_145_return_home_08b752c9:
+msgid "[_Lisa_s_02_] Ну да, ещё скажи, что она из неоткуда возникла и сразу в руке оказалась!"
+msgstr "[_Lisa_s_02_] Sì, certo, e poi dimmi che è apparso dal nulla ed è finito dritto nella tua mano!"
+
+# game/scripts/story_01/bikini.rpy:535 #-#-# translate crowdin ev_145_return_home_ec14d216:
+msgid "[_Max_s_04_] Именно так и было! А мне оставалось её только потискать..."
+msgstr "[_Max_s_04_] Proprio così! E a me restava solo di coccolarlo..."
+
+# game/scripts/story_01/bikini.rpy:536 #-#-# translate crowdin ev_145_return_home_08ff3d23:
+msgid "[_Lisa_s_01_] Надеюсь, ты вдоволь натискался? Сейчас ладно, так уж и быть, порадуйся, но в дальнейшем руки так нагло не распускай..."
+msgstr "[_Lisa_s_01_] Spero che tu ti sia divertito abbastanza a palparmi. Per ora va bene, dai, goditela pure, ma in futuro non essere così sfacciato con le mani..."
+
+# game/scripts/story_01/bikini.rpy:537 #-#-# translate crowdin ev_145_return_home_22527345:
+msgid "[_Max_s_03_] Конечно..."
+msgstr "[_Max_s_03_] Certo..."
+
+# §translate crowdin strings: #|#|# # game/scripts/story_01/bikini.rpy:101
+msgid "{i}идти в магазин одежды{/i}"
+msgstr "{i}Andare nel negozio di abbigliamento{/i}"
+
+# game/scripts/story_01/bikini.rpy:133
+msgid "{i}подсмотреть за Лизой{/i}"
+msgstr "{i}sbirciare Lisa...{/i}"
+
+# game/scripts/story_01/bikini.rpy:162
+msgid "{i}ждать{/i}"
+msgstr "{i}aspetta{/i}"
+
+# game/scripts/story_01/bikini.rpy:232
+msgid "{i}снова подсмотреть за Лизой{/i}"
+msgstr "{i}sbirciare Lisa ancora una volta{/i}"
+
+# game/scripts/story_01/bikini.rpy:361
+msgid "Ещё как стоит! (принять поцелуй в щёку)"
+msgstr "Ci puoi scommettere! (accetta il bacio sulla guancia)"
+
+# game/scripts/story_01/bikini.rpy:382
+msgid "{i}пойти рассчитаться за купальник ($299){/i}"
+msgstr "{i}Vai a pagare il costume da bagno ($299){/i}"
+
+# game/scripts/story_01/bikini.rpy:397
+msgid "Ещё как стоит! (поцеловать её в губы)"
+msgstr "Ci puoi scommettere! (baciandola sulle labbra)"
+
+# game/scripts/story_01/bikini.rpy:433
+msgid "Ещё как стоит! (дерзко обнять и поцеловать её в губы)"
+msgstr "Eccome se ne vale la pena! (abbracciandola con audacia e baciandola intensamente sulle labbra)"
+

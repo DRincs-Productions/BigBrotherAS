@@ -1,0 +1,898 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: pt-PT\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/story_02/kira.po\n"
+"X-Crowdin-File-ID: 15101\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese\n"
+"Language: pt_PT\n"
+"PO-Revision-Date: 2026-07-04 14:08\n"
+
+# TODO: Translation updated at 2026-07-03 17:21 #|#|# # game/scripts/story_02/kira.rpy:12 #-#-# translate crowdin ev2_003_06ac2f3b:
+msgid "[_Ann_s_02_] Ну что, вот и дождались... Встречайте, к нам приехала тётя Кира!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:13 #-#-# translate crowdin ev2_003_858bca8a:
+msgid "[_Max_s_06_] Супер! Здравствуй, тётя Кира!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:14 #-#-# translate crowdin ev2_003_086f8bc7:
+msgid "[_Kira_s_12_] Ого, это кто тут у нас?! Макс? Я тебя не узнала! Как же ты подрос с нашей последней встречи!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:15 #-#-# translate crowdin ev2_003_f848353d:
+msgid "[_Max_s_05_] Тётя, а ты... шикарней некуда!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:19 #-#-# translate crowdin ev2_003_9f69e2b8:
+msgid "[_Kira_s_02_] Ой, Макс, спасибо! Так давно не виделись, дай я тебя обниму... Вижу, всё у тебя в порядке. Приятно, что хоть один у нас мужчина, но есть в семье..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:20 #-#-# translate crowdin ev2_003_45347230:
+msgid "[_Max_s_04_] Ага, сам удивляюсь, как у меня сил и нервов на вас всех хватает."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:22 #-#-# translate crowdin ev2_003_7e5cb989:
+msgid "[_Ann_s_12_] Макс, ты сильно на тёте не повисай, дай ей с дороги хоть немного отдохнуть. И вообще, пойдёмте в дом, завтракать же пора... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:30 #-#-# translate crowdin ev2_003_0906f4bb:
+msgid "[_tMax_s_03_] Ммм... А тётя-то у меня огонь какая! Видимо, раньше мне не было до этого дела, но сейчас, крепко прижимаясь к её пышной груди, мне очень сильно хочется ей по-хозяйски овладеть..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:34 #-#-# translate crowdin ev2_003_6d21ba9c:
+msgid "[_Kira_s_04_] Ну вот, теперь можно и завтракать идти. Кстати, а где Лиза и Алиса?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:41 #-#-# translate crowdin ev2_003_8f75cbb4:
+msgid "[_Kira_s_04_] Да, позавтракать я бы не отказалась. Кстати, а где Лиза и Алиса?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:46 #-#-# translate crowdin ev2_003_8f75cbb4_1:
+msgid "[_Kira_s_04_] Да, позавтракать я бы не отказалась. Кстати, а где Лиза и Алиса?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:48 #-#-# translate crowdin ev2_003_c3eac1fc:
+msgid "[_Max_s_11_] Они сейчас прибегут..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:54 #-#-# translate crowdin ev2_003_c5b63610:
+msgid "[_Kira_s_03_] Лиза? Алиса? Неужели, это вы? Все такие большие, скоро с меня ростом будете!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:55 #-#-# translate crowdin ev2_003_db0730d6:
+msgid "[_Lisa_s_04_] Тётя Кира! Ура! Я так соскучилась!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:56 #-#-# translate crowdin ev2_003_85f7253a:
+msgid "[_Alice_s_04_] Как здорово, что ты приехала! Надолго?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:57 #-#-# translate crowdin ev2_003_c9566ecc:
+msgid "[_Kira_s_11_] А что, уже выгоняете меня?!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:58 #-#-# translate crowdin ev2_003_7e59b903:
+msgid "[_Ann_s_03_] Что ты, Кира, оставайся столько, сколько захочешь! Мы все здесь тебе рады, сестрёнка!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:59 #-#-# translate crowdin ev2_003_888691e1:
+msgid "[_Max_s_01_] Да, тётя, у нас места много..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:60 #-#-# translate crowdin ev2_003_67252437:
+msgid "[_Ann_s_04_] Кира, ты в этом развратном платье и в самолёте летела? Надеюсь, там все пассажиры пережили полёт, потому что юбка у тебя прямо на грани..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:61 #-#-# translate crowdin ev2_003_7412aae9:
+msgid "[_Kira_s_02_] Я прилетела пару дней назад и остановилась в гостинице. Нельзя же было заявиться к вам без подарков, вот я все выходные и бегала по магазинам."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:62 #-#-# translate crowdin ev2_003_9257cc81:
+msgid "[_Max_s_05_] Ух-ты! Тогда пойдёмте на веранду, там и расскажешь, что купила..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:66 #-#-# translate crowdin ev2_003_24747f5c:
+msgid "[_Kira_s_04_] Я уже в курсе вашей истории с потерянным вещами. Поэтому, я уточнила у вашей мамы ваши размеры и купила лёгкую домашнюю одежду. И, кажется, правильно сделала. В такую жару, дома, лучше носить что-нибудь лёгкое!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:67 #-#-# translate crowdin ev2_003_975024d3:
+msgid "[_Lisa_s_03_] Ой! Я обожаю новые вещички. А что ты мне привезла, тётя Кира, а?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:68 #-#-# translate crowdin ev2_003_33ddfcb6:
+msgid "[_Max_s_11_] Я думал у нас Алиса шмотки любит..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:69 #-#-# translate crowdin ev2_003_ddb9d309:
+msgid "[_Lisa_s_02_] Макс, шмотки любят все девушки! Ну так что там?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:70 #-#-# translate crowdin ev2_003_2a1b9082:
+msgid "[_Kira_s_03_] Так, вы все давайте держите новую одежду, переодевайтесь и возвращайтесь сюда. Посмотрим, всем ли всё подошло."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:74 #-#-# translate crowdin ev2_003_075a2f94:
+msgid "[_Max_s_12_] Э-э-э... Тётя Кира, а что на счёт меня?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:75 #-#-# translate crowdin ev2_003_b6814bd7:
+msgid "[_Kira_s_01_] А тебе, Макс, я ничего не купила. Подумала, что тебе и в шортах хорошо. Но не расстраивайся, что-нибудь и для тебя придумаем в скором времени, обязательно..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:76 #-#-# translate crowdin ev2_003_b968c939:
+msgid "[_Max_s_13_] Хорошо, ловлю на слове."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:81 #-#-# translate crowdin ev2_003_bb28e5e0:
+msgid "[_Lisa_s_03_] Ну как вам? Такой классный топ и юбочка, да ещё и мой любимый цвет!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:82 #-#-# translate crowdin ev2_003_25bda8f3:
+msgid "[_Kira_s_02_] Смотрится очень миленько! Надеюсь, вашей маме не покажется, что юбка немного коротковата. Лично мне кажется, что для дома такое отлично подходит..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:83 #-#-# translate crowdin ev2_003_c2f7aac2:
+msgid "[_Max_s_03_] Это точно! Ну-ка, повернись..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:87 #-#-# translate crowdin ev2_003_649c3940:
+msgid "[_Lisa_s_11_] Мне кажется, что она не слишком короткая. В самый раз! И теперь так свободно и легко... Спасибо тебе, тётя Кира!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:88 #-#-# translate crowdin ev2_003_ed73037b:
+msgid "[_Kira_s_03_] Не за что, Лиза. Носи на здоровье..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:93 #-#-# translate crowdin ev2_003_0c426f1d:
+msgid "[_Alice_s_03_] Теперь моя очередь! Как вам? Лично мне очень нравится! Давно надо было перейти на что-то полегче, чем мои джинсы..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:94 #-#-# translate crowdin ev2_003_a0b65e89:
+msgid "[_Kira_s_02_] Именно, Алиса! Тело должно дышать, особенно в таком климате, как здесь."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:95 #-#-# translate crowdin ev2_003_1fee625a:
+msgid "[_Max_s_11_] Это точно! Я свои домашние джинсы надевать вообще больше не планирую. Жарко в них..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:99 #-#-# translate crowdin ev2_003_73b6d738:
+msgid "[_Alice_s_04_] Я на днях так удачно прикупила себе чёрные трусики и они отлично подходят под эту маечку. А то ведь у нас есть тут один... который любит заглядывать, куда не надо..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:100 #-#-# translate crowdin ev2_003_894733f2:
+msgid "[_Kira_s_04_] Что поделать, Алиса, у Макса возраст сейчас такой."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:106 #-#-# translate crowdin ev2_003_61ec5844:
+msgid "[_Ann_s_12_] Так, Кира, я понимаю, чем ты руководствовалась, подбирая для меня такой наряд, но я не ношу настолько откровенную одежду!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:107 #-#-# translate crowdin ev2_003_d72f4ba4:
+msgid "[_Kira_s_03_] Ань, ты только посмотри, как оно отлично сидит на тебе. И цвет идёт... Давайте же, поддержите вашу маму!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:108 #-#-# translate crowdin ev2_003_e17e7d05:
+msgid "[_Max_s_02_] Мам, выглядишь превосходно! А сзади как?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:112 #-#-# translate crowdin ev2_003_5c94b745:
+msgid "[_Ann_s_11_] Должна сказать, эти шортики такие странные по ощущениям. Вроде и закрыты достаточно, а всё равно полуголой себя чувствую..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:113 #-#-# translate crowdin ev2_003_b32fecaa:
+msgid "[_Kira_s_01_] Ерунда! Привыкнешь. Теперь похоже моя очередь показать, что я буду носить. Сейчас только схожу, переоденусь..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:117 #-#-# translate crowdin ev2_003_ae8096af:
+msgid "[_Ann_s_10_] Ну-ка, а вам она что тут надарила? Лиза, у тебя юбка не коротковата, случаем?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:118 #-#-# translate crowdin ev2_003_155d2fa5:
+msgid "[_Lisa_s_11_] Нет, мам, она же для дома."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:119 #-#-# translate crowdin ev2_003_dab53bdd:
+msgid "[_Ann_s_14_] А ты, Алиса, в таком вот виде собираешься по дому ходить? Если присмотреться, то у тебя всю грудь видно! Ладно мы с Лизой, но ещё же Макс есть..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:120 #-#-# translate crowdin ev2_003_ead64d53:
+msgid "[_Alice_s_11_] Мам, я дома могу одеваться так, как мне нравится! Ну и что, что Макс. Ну, если и увидит что-то, пусть радуется, мне всё равно..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:121 #-#-# translate crowdin ev2_003_f6246b85:
+msgid "[_Ann_s_12_] Ох, ну как знаешь. Не жалуйся мне только потом..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:125 #-#-# translate crowdin ev2_003_443b5960:
+msgid "[_Kira_s_03_] Ну, как я вам? Хороша? И Ань, ни слова больше. Тебе всё кажется слишком открытое или откровенное."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:126 #-#-# translate crowdin ev2_003_514e0cf6:
+msgid "[_Max_s_04_] Мне нравится, тётя Кира. Просто и со вкусом!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:130 #-#-# translate crowdin ev2_003_045cf541:
+msgid "[_Kira_s_04_] Вот, слышала, Ань? Детям нравится... Естественно, если в семье есть мужчина, это накладывает свои ограничения, но нельзя же быть настолько зажатыми..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:131 #-#-# translate crowdin ev2_003_3a812cc1:
+msgid "[_Ann_s_01_] Ладно, посмотрим. Кира, мне кажется, что не стоило тратиться на все эти подарки. Мы и так рады, что ты смогла к нам приехать... Но всё равно, большое спасибо!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:132 #-#-# translate crowdin ev2_003_6fd7e017:
+msgid "[_Max_s_12_] Давайте уже завтракать, а то остыло почти всё..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:149 #-#-# translate crowdin ev_kira_dressed_in_front_of_max_0ce6d33b:
+msgid "[_Kira_s_01_] Слушай, Макс, погуляй где-нибудь, а то мне нужно переодеться... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:159 #-#-# translate crowdin ev_kira_dressed_moment0_e294e19b:
+msgid "[_Kira_s_01_] Слушай, Макс, ты можешь где-нибудь погулять, а то мне нужно переодеться... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:162 #-#-# translate crowdin ev_kira_dressed_moment0_d936e0b6:
+msgid "[_Kira_s_02_] Спасибо. Я быстренько. [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:171 #-#-# translate crowdin ev_kira_dressed_moment2_acd526eb:
+msgid "[_tMax_s_05_] Ого! Это я весьма удачно зашёл... {p=2}{nw}"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:177 #-#-# translate crowdin ev_kira_dressed_moment2_5b8c6f84:
+msgid "[_Kira_s_04_] Ай-я-яй, Макс! Ты так тихо ходишь, что я совершенно тебя не заметила! Хорошо, если ты только что зашёл, а не наблюдаешь с самого начала. [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:191 #-#-# translate crowdin ev_kira_dressed_moment1_46d08f0c:
+msgid "[_Kira_s_04_] Ай-я-яй, Макс! Как же тихо ты ходишь! Хорошо, что я успела прикрыть самое важное. [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:203 #-#-# translate crowdin ev_kira_dressed_until_end_45ec6988:
+msgid "[_Kira_s_03_] Ага, значит, понравилось тебе, да?! В следующий раз позаботься о том, чтобы я тебя не увидела, если уж так хочешь досмотреть до конца, а сейчас лучше иди гуляй, пока я добрая. [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:211 #-#-# translate crowdin ev_kira_dressed_until_end_baa66319:
+msgid "[_Kira_s_10_] Даже вот так?! Уж не знаю, за кого ты свою родную тётю принимаешь, но иди-ка ты лучше гуляй, пока мы с тобой не поругались. [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:222 #-#-# translate crowdin ev_kira_dressed_hide_beauty_318e4749:
+msgid "[_Kira_s_02_] Ну, ещё бы... Твоей радости не было бы предела от этого. Лучше иди погуляй где-нибудь, пока я оденусь. [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:229 #-#-# translate crowdin ev_kira_dressed_hide_beauty_fb913cba:
+msgid "[_Kira_s_10_] Макс, я вообще-то твоя тётя, а ты мне такое! Давай-ка погуляй лучше иди, а то ещё поругаемся с тобой. [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:258 #-#-# translate crowdin ev_kira_dressed_in_bathroom_ba232146:
+msgid "[_tMax_s_11_] Сейчас ванная комната должна быть занята тётей Кирой. Она собирается уходить по делам... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:260 #-#-# translate crowdin ev_kira_dressed_in_bathroom_7dc6f782:
+msgid "[_tMax_s_11_] Сейчас ванная комната должна быть занята тётей Кирой. Она переодевается перед сном... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:269 #-#-# translate crowdin ev_kira_dressed_in_bathroom_1d136386:
+msgid "[_tMax_s_01_] Посмотрим, что она там делает..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:283 #-#-# translate crowdin ev_kira_dressed_in_bathroom_b69f7f67:
+msgid "[_tMax_s_03_] Тётя у меня и так всегда сногсшибательна, а если ещё и сисечками голыми светит, то у меня в шортах вообще огонь что начинает твориться! [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:295 #-#-# translate crowdin ev_kira_dressed_in_bathroom_in_front_of_max_0ce6d33b:
+msgid "[_Kira_s_01_] Слушай, Макс, погуляй где-нибудь, а то мне нужно переодеться... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:316 #-#-# translate crowdin ev2_007_1ede10c7:
+msgid "[_Kira_s_01_] Ну что, Макс... Меня не теряй, я должна вернуться, хоть и буду поздно..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:317 #-#-# translate crowdin ev2_007_5d78ec65:
+msgid "[_Max_s_01_] Успехов тебе, тётя Кира!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:334 #-#-# translate crowdin ev2_008_3c55ecf9:
+msgid "[_Kira_s_01_] Ой, Макс, ты почему ещё не спишь?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:335 #-#-# translate crowdin ev2_008_51339de1:
+msgid "[_Max_s_11_] Тебя решил дождаться."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:336 #-#-# translate crowdin ev2_008_8fb5d19c:
+msgid "[_Kira_s_11_] Правда? Слушай, я сегодня так сильно устала, что хочу просто побыстрее лечь спать."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:337 #-#-# translate crowdin ev2_008_7579c2b9:
+msgid "[_Max_s_12_] Эх... Тогда отдыхай. Спокойной ночи..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:348 #-#-# translate crowdin ev2_005_9d9e6483:
+msgid "[_Kira_s_01_] Это я с радостью, Макс... Рассказывай, как ты тут живёшь, как твои дела, что нового?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:349 #-#-# translate crowdin ev2_005_2a98dde8:
+msgid "[_Max_s_11_] Я... Это... Ухх..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:350 #-#-# translate crowdin ev2_005_2f12e48e:
+msgid "[_Kira_s_11_] Что с тобой, Макс? Всё хорошо?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:351 #-#-# translate crowdin ev2_005_24f6aeb7:
+msgid "[_Max_s_01_] Да... Я немного залип..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:352 #-#-# translate crowdin ev2_005_73013fac:
+msgid "[_Kira_s_03_] А-а-а... Кажется, я поняла. Надеюсь, мы не насовсем тебя потеряли и ты сможешь найти в себе силы, чтобы смотреть мне в глаза, а не на мою грудь?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:353 #-#-# translate crowdin ev2_005_6e63b78e:
+msgid "[_Max_s_04_] Ага..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:354 #-#-# translate crowdin ev2_005_08d6fd65:
+msgid "[_Kira_s_04_] Ау, Макс, ты здесь? Глаза чуть выше..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:355 #-#-# translate crowdin ev2_005_22497382:
+msgid "[_Max_s_12_] Да! Кажется, я здесь. Извини, тётя Кира..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:356 #-#-# translate crowdin ev2_005_68bf4624:
+msgid "[_Kira_s_02_] Ничего страшного. Подрос ты, однако, у нас. Девочку себе завёл уже?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:357 #-#-# translate crowdin ev2_005_73f25b14:
+msgid "[_Max_s_14_] Нет, как-то ещё не успел после переезда."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:358 #-#-# translate crowdin ev2_005_16aad2b6:
+msgid "[_Kira_s_01_] Ну, это объясняет твоё залипание на мою грудь. Возраст такой у тебя сейчас, гормоны, кругом полуобнажённые девушки и женщины... Наверное, для тебя это каторга? Со мной можешь говорить откровенно. Я никому ни слова!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:359 #-#-# translate crowdin ev2_005_0f537c80:
+msgid "[_Max_s_12_] Да, бывает возбуждаюсь..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:360 #-#-# translate crowdin ev2_005_60f4cbaf:
+msgid "[_Kira_s_03_] Это потому-что ты пялишься не туда, куда надо. Следует смотреть в глаза..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:361 #-#-# translate crowdin ev2_005_eedeea2e:
+msgid "[_Max_s_11_] Да знаю я. Просто глаза сами съезжают..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:362 #-#-# translate crowdin ev2_005_a5eb3804:
+msgid "[_Kira_s_04_] Видимо, тебе и с Лизой непросто сейчас в одной комнате уживаться? Она же сверкает своим нижним бельём или пижамой, да и спите вы рядом."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:363 #-#-# translate crowdin ev2_005_06485a09:
+msgid "[_Max_s_01_] Да, у нас там уже всякое было..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:364 #-#-# translate crowdin ev2_005_62be3f26:
+msgid "[_Kira_s_06_] Опа, опа! Как же я обожаю такие... пикантные моменты. Сейчас угадаю... Она проснулась, а у тебя стоит?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:365 #-#-# translate crowdin ev2_005_840c1039:
+msgid "[_Max_s_02_] Ага, и не раз она так просыпалась."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:366 #-#-# translate crowdin ev2_005_d061d10d:
+msgid "[_Kira_s_01_] И как она отреагировала?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:367 #-#-# translate crowdin ev2_005_c550cc07:
+msgid "[_Max_s_03_] В первый раз панику подняла, маму позвала! Потом уже легче было, она всё старалась пристыдить меня. Мама же её всё ещё оберегает от всего такого, ничего не рассказывает."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:368 #-#-# translate crowdin ev2_005_e9735d44:
+msgid "[_Kira_s_11_] Да ты что?! Вообще-то давно пора... Но ничего, я с ней побеседую на эту тему. И на многие другие, тоже."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:369 #-#-# translate crowdin ev2_005_1c8a8431:
+msgid "[_Max_s_11_] Фух... Наконец-то, хоть кто-то это сделает, а то к моим рассказам она довольно скептически относится."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:370 #-#-# translate crowdin ev2_005_b82c5651:
+msgid "[_Kira_s_02_] Но это же не всё? Что у вас там ещё интересненького было, признавайся?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:371 #-#-# translate crowdin ev2_005_8222fb15:
+msgid "[_Max_s_04_] Да, так... Целоваться её учил. Только ты об этом никому, хорошо?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:372 #-#-# translate crowdin ev2_005_b67c941e:
+msgid "[_Kira_s_04_] Ого! А ты не промах, Макс! Подожди... У тебя же девушки нет. Как же ты..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:373 #-#-# translate crowdin ev2_005_2ae0fa78:
+msgid "[_Max_s_12_] Честно говоря, опыта у меня было чуть-чуть, поэтому это только с натяжкой можно было назвать поцелуями."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:374 #-#-# translate crowdin ev2_005_f6d79b4d:
+msgid "[_Kira_s_03_] Макс, так не годится! Напомни мне как-нибудь потом, я тебя просвещу по этому вопросу с поцелуями. Будешь у меня всех девчонок с ума сводить..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:375 #-#-# translate crowdin ev2_005_44201710:
+msgid "[_Max_s_05_] Правда?! Было бы здорово, тётя Кира... А насколько потом?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:376 #-#-# translate crowdin ev2_005_c100c547:
+msgid "[_Kira_s_02_] Ну, Макс, я только приехала. Сперва хорошенько отдохну, наберусь сил, с работой ещё нужно будет вопрос решить..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:377 #-#-# translate crowdin ev2_005_acfebd6c:
+msgid "[_Max_s_11_] Понял. Тогда отдыхай..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:387 #-#-# translate crowdin ev2_005_5919b2af:
+msgid "[_tMax_s_01_] Наконец-то хоть кто-то поможет мне с поцелуями! Тётя у меня женщина взрослая и наверняка опытная, с такой-то сексуальной внешностью..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:388 #-#-# translate crowdin ev2_005_a032babc:
+msgid "[_tMax_s_02_] Тётя Кира вообще женщина интересная. С ней стоит побольше общаться... Можно и маслом для загара её попробовать натереть в следующий раз во время общения..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:389 #-#-# translate crowdin ev2_005_4261ba57:
+msgid "[_tMax_s_04_] Это было бы весьма приятным занятием!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:400 #-#-# translate crowdin ev2_009_7024ee62:
+msgid "[_Kira_s_01_] Да, это было бы очень кстати! Заодно и поболтаем с тобой."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:401 #-#-# translate crowdin ev2_009_46ea0828:
+msgid "[_Max_s_01_] Ага, поворачивайся ко мне спиной..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:405 #-#-# translate crowdin ev2_009_8558d0c1:
+msgid "[_Kira_s_02_] Вот уже и сервис начинает тут для меня появляется. Хотя, не только для меня, я думаю?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:406 #-#-# translate crowdin ev2_009_da959b00:
+msgid "[_Max_s_03_] Да, я закрепился последнее время, как главный по маслу для загара. Все довольны..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:407 #-#-# translate crowdin ev2_009_93bee138:
+msgid "[_Kira_s_04_] Но это же не всё, чем ты занимаешься, пока сидишь дома? Не зависаешь же ты на порносайтах весь день в свободное от натирания маслом время?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:408 #-#-# translate crowdin ev2_009_c389e2e6:
+msgid "[_Max_s_13_] У нас не работают порносайты..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:413 #-#-# translate crowdin ev2_009_af6d98d5:
+msgid "[_Kira_s_11_] Ах вот в чём дело! А я никак не могла понять, что такое с моим телефоном. Это мама установила такие порядки?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:414 #-#-# translate crowdin ev2_009_3a02b2c1:
+msgid "[_Max_s_16_] Кто же ещё. Защита от детей..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:415 #-#-# translate crowdin ev2_009_a3e00c19:
+msgid "[_Kira_s_10_] Да уж... Здесь тебе можно только посочувствовать, Макс. Как же ты... снимешь напряжение без порнушки? Журналы? Или коллекция порнушки на компьютере?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:416 #-#-# translate crowdin ev2_009_b43beade:
+msgid "[_Max_s_04_] Небольшая коллекция на компьютере есть, но у меня и фантазия богатая."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:417 #-#-# translate crowdin ev2_009_50ed66bd:
+msgid "[_Kira_s_06_] Ммм... Фантазёр ты у нас, значит. Так, так, так... И о чём фантазируешь?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:418 #-#-# translate crowdin ev2_009_81ce3a0a:
+msgid "[_Max_s_11_] Ну, так... Обо всяком..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:419 #-#-# translate crowdin ev2_009_a0e07e1f:
+msgid "[_Kira_s_04_] Фантазии, Макс, это неплохо, но лучше не засиживайся в них, а ищи девушку, с которой будешь воплощать эти фантазии в жизнь."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:420 #-#-# translate crowdin ev2_009_c73ed648:
+msgid "[_Max_s_01_] Обязательно, тётя Кира. Спинку я тебе маслом намазал. Ножки будешь себе натирать?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:424 #-#-# translate crowdin ev2_009_f0f0901b:
+msgid "[_Kira_s_03_] Сама?! Ну уж нет. Кто хвастался, что он главный по маслу, тот и натирает..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:425 #-#-# translate crowdin ev2_009_8ac8a835:
+msgid "[_Max_s_02_] Легко. Один момент..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:430 #-#-# translate crowdin ev2_009_aacda7e3:
+msgid "[_Kira_s_02_] Знаешь, Макс, это уже скорее тянет на полноценный массаж. Тебя кто такому научить успел?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:431 #-#-# translate crowdin ev2_009_22291391:
+msgid "[_Max_s_03_] Онлайн-курсы. И руки из правильного места растут, видимо. А практиковался я на сёстрах и на маме."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:432 #-#-# translate crowdin ev2_009_eeaabde5:
+msgid "[_Kira_s_01_] Ммм... Получается, мне повезло попасть уже в более-менее опытные руки. Ты большой молодец, что освоил это."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:433 #-#-# translate crowdin ev2_009_0fa9356b:
+msgid "[_Max_s_04_] Можно сказать, что это Алиса меня надоумила. Всегда по вечерам балдеет у ТВ, если я ей массаж ног делаю."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:434 #-#-# translate crowdin ev2_009_9ff16320:
+msgid "[_Kira_s_04_] Даже так?! Тогда мои ножки полностью в твоём распоряжении, Макс. Можешь делать с ними всё, лишь бы я тоже балдела, как Алиса..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:435 #-#-# translate crowdin ev2_009_57c7e633:
+msgid "[_Max_s_05_] Ого! Ладно, сейчас попробую..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:439 #-#-# translate crowdin ev2_009_da48c19c:
+msgid "[_Kira_s_05_] Ухх... Я и не думала, что находиться у вас в гостях будет настолько приятно! Даже не думай останавливаться."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:440 #-#-# translate crowdin ev2_009_0bf0382f:
+msgid "[_Max_s_04_] Ещё рано."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:444 #-#-# translate crowdin ev2_009_40a51359:
+msgid "[_tMax_s_06_] Блин, после таких фраз тётю хочется натереть маслом абсолютно везде! А кое-где я бы особенно хотел задержаться своими руками..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:445 #-#-# translate crowdin ev2_009_50b5821c:
+msgid "[_Kira_s_12_] Вау! Да я смотрю твой рост пошёл куда надо, Макс!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:446 #-#-# translate crowdin ev2_009_63f26755:
+msgid "[_Max_s_07_] А? Что?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:450 #-#-# translate crowdin ev2_009_1d3c3aef:
+msgid "[_Kira_s_04_] Это ты так перевозбудился из-за моего не особо скромного купальника? Или от моих пошловатых высказываний?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:451 #-#-# translate crowdin ev2_009_93b7330c:
+msgid "[_Max_s_11_] Даже не знаю. Наверно, от всего вместе."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:452 #-#-# translate crowdin ev2_009_906875b3:
+msgid "[_Kira_s_11_] Если честно, то я обычно загораю голая... Ой, мне бы следовало быть тактичнее, да? Обычно я не слежу за языком, но с детьми надо быть... Хотя, ты уже совсем не ребёнок, как я вижу."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:453 #-#-# translate crowdin ev2_009_9d459a14:
+msgid "[_Max_s_04_] Верно подмечено."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:454 #-#-# translate crowdin ev2_009_db78d22a:
+msgid "[_Kira_s_03_] Тебе бы стоило пойти и... выпустить пар, так сказать. Не терпи, я всё понимаю."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:455 #-#-# translate crowdin ev2_009_e3f40b86:
+msgid "[_Max_s_01_] Да, пойду-ка я схожу душ приму..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:456 #-#-# translate crowdin ev2_009_3221664b:
+msgid "[_Kira_s_02_] Вот это будет самое то."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:460 #-#-# translate crowdin ev2_009_fa27c7f9:
+msgid "[_tMax_s_11_] Да уж... Купальник у тёти Киры, конечно, провокационный на все 10 из 10. Стояк сейчас такой, что аж ходить тяжело."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:461 #-#-# translate crowdin ev2_009_86eae70a:
+msgid "[_tMax_s_04_] Приятно, что появилась женщина, которая всё понимает и не истерит от того, что у меня на неё стоит. А то некоторые тут начинают сразу..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:468 #-#-# translate crowdin ev2_009_7ff36b5c:
+msgid "[_tMax_s_01_] А вот Кира... Это определённо та женщина, которая прекрасно знает, насколько она горяча и сексуальна..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:469 #-#-# translate crowdin ev2_009_15257ab5:
+msgid "[_tMax_s_07_] Хочется только одного и неважно, что она моя родная тётя!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:474 #-#-# translate crowdin ev2_009_290e8469:
+msgid "[_tMax_s_06_] Загнать в неё член и трахать! Уж не знаю, каково это, но думаю, что обалденно приятно... О да! И пожёстче..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:475 #-#-# translate crowdin ev2_009_2c6707f1:
+msgid "[_tMax_s_08_] Чтобы её стоны были слышны на всю улицу! Ох, блин, как же я сейчас мощно кончу..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:479 #-#-# translate crowdin ev2_009_f2315fda:
+msgid "[_tMax_s_09_] Д-а-а... Прямо на её похотливое и довольное личико! Ну не красотища ли, когда женщина вся забрызгана твоей спермой?!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:484 #-#-# translate crowdin ev2_009_592d952f:
+msgid "[_Kira_s_04_] Что, прости? Я не расслышала последнее..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:485 #-#-# translate crowdin ev2_009_a716992b:
+msgid "[_Max_s_15_] Вот чёрт! Тётя Кира, я думал, ты лежишь загораешь..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:486 #-#-# translate crowdin ev2_009_41f1a871:
+msgid "[_Kira_s_02_] Да, но я решила подойти, проверить, как ты тут... справляешься. Я же всё-таки несколько виновата в твоём... напряжении."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:487 #-#-# translate crowdin ev2_009_8b766a26:
+msgid "[_Max_s_14_] Надо было сказать, что ты тут!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:488 #-#-# translate crowdin ev2_009_ee239164:
+msgid "[_Kira_s_03_] Не хотелось тебя отвлекать. И ещё хотела сказать, что сегодня ночью я должна вернуться не сильно уставшая. Если вдруг ещё не будешь спать, то приходи ко мне в гостиную. Что-нибудь посмотрим вместе..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:489 #-#-# translate crowdin ev2_009_d9d89dc5:
+msgid "[_Max_s_12_] О, круто! Только вот момент для того, чтобы это сказать, ты выбрала «самый» подходящий."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:490 #-#-# translate crowdin ev2_009_78d70481:
+msgid "[_Kira_s_04_] Да, извиняюсь, хи-хи... Должно быть, я тебя немного застесняла. Ухожу..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:494 #-#-# translate crowdin ev2_009_281df843:
+msgid "[_tMax_s_16_] Фух... Ничего себе картина. И с какого момента, интересно, она тут стояла?! Неужели я ещё и вслух что-то говорил?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:495 #-#-# translate crowdin ev2_009_66e163b3:
+msgid "[_tMax_s_13_] Вопросов куча, ответов нет! Но если бы её что-то смутило, то она бы не звала меня ночью к себе..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:496 #-#-# translate crowdin ev2_009_efa3355b:
+msgid "[_tMax_s_12_] Получается, всё нормально. Хотя, если подумать, то всю эту ситуацию во дворе и душе точно нормальной назвать нельзя."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:497 #-#-# translate crowdin ev2_009_654807fb:
+msgid "[_tMax_s_11_] Ладно... Потусуюсь ночью с Кирой, там и станет ясно, насколько это всё было нормально..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:515 #-#-# translate crowdin ev2_010_3c55ecf9:
+msgid "[_Kira_s_01_] Ой, Макс, ты почему ещё не спишь?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:516 #-#-# translate crowdin ev2_010_c4480125:
+msgid "[_Max_s_11_] Тебя решил дождаться. Сама же звала..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:517 #-#-# translate crowdin ev2_010_74478bb7:
+msgid "[_Kira_s_02_] Тогда подожди меня ещё немного, я переоденусь. Я там подцепила к вашему проектору свой диск с фильмами. Можешь поизучать, пока я отсутствую. Найдёшь что-то интересное - включай!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:518 #-#-# translate crowdin ev2_010_8c03e541:
+msgid "[_Max_s_02_] Отлично! Сейчас посмотрю, что там у тебя есть..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:522 #-#-# translate crowdin ev2_010_02b5829b:
+msgid "[_tMax_s_03_] Ага, вот и фильмы... У тёти Киры есть из чего повыбирать. Некоторые мне даже знакомы..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:523 #-#-# translate crowdin ev2_010_968e9098:
+msgid "[_tMax_s_13_] Хм... Интересно, а что это за папка такая, «Взрослое»? Эротика что ли? Ну-ка, ну-ка, надо включить..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:527 #-#-# translate crowdin ev2_010_e832fc75:
+msgid "[_tMax_s_05_] Ого, да это скорее порнушка! О-ля-ля... Ещё и весьма качественная, судя по картинке! Так, а по содержанию что?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:531 #-#-# translate crowdin ev2_010_0ba4ab3d:
+msgid "[_tMax_s_04_] Похоже, что у меня теперь появится новое занятие перед сном. Главное, чтобы меня никто за этим делом не застукал..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:535 #-#-# translate crowdin ev2_010_e44f1599:
+msgid "[_Kira_s_04_] Я смотрю, ты нашёл для себя кое-что интересное немного не в той папке, Макс."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:536 #-#-# translate crowdin ev2_010_e1323011:
+msgid "[_Max_s_12_] Ой! Я... это... Оно само как-то нажалось..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:537 #-#-# translate crowdin ev2_010_e9c5b8c1:
+msgid "[_Kira_s_03_] Запутался в кнопках на пульте, да? У меня такое часто бывает."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:538 #-#-# translate crowdin ev2_010_6ec747ce:
+msgid "[_Max_s_11_] Классный у тебя халатик, тётя Кира! Прямо под цвет глаз."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:542 #-#-# translate crowdin ev2_010_695218d4:
+msgid "[_Kira_s_02_] Спасибо! Зная, как ты реагируешь на некоторых полуголых и крайне сексуальных женщин, я решила накинуть на себя побольше одежды, чтобы мы спокойно могли что-то посмотреть..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:543 #-#-# translate crowdin ev2_010_fe87caf8:
+msgid "[_Max_s_01_] Ну... Мы всё ещё можем..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:544 #-#-# translate crowdin ev2_010_0c8cef23:
+msgid "[_Kira_s_01_] Думаешь? Учитывая, что с пультом мы с тобой не в ладах, то лучше смотреть это. Конечно, если ты достаточно взрослый для такого... кино?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:545 #-#-# translate crowdin ev2_010_b5a3644a:
+msgid "[_Max_s_03_] Тётя Кира, о чём ты вообще говоришь? Я уже даже с мамой эротику смотрел!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:549 #-#-# translate crowdin ev2_010_d919974f:
+msgid "[_Kira_s_12_] Ого, вот это новость! Даже не представляю, как тебе удалось уговорить её на это."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:550 #-#-# translate crowdin ev2_010_365bb76a:
+msgid "[_Max_s_02_] Не пришлось. Она просто не знала, что это эротика, пока не дошло до этого самого."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:554 #-#-# translate crowdin ev2_010_9859b884:
+msgid "[_Kira_s_04_] Хитро... И как, получилось у вас досмотреть то кино без явного возбуждения?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:555 #-#-# translate crowdin ev2_010_75ef7a0f:
+msgid "[_Max_s_04_] На то это и эротика."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:559 #-#-# translate crowdin ev2_010_e58cfcaf:
+msgid "[_Kira_s_06_] Но вот порнушка, Макс, это не то, что можно просто взять и посмотреть. Я обычно под такое начинаю к себе прикасаться и думаю, ты знаешь как и зачем..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:560 #-#-# translate crowdin ev2_010_3f259372:
+msgid "[_Max_s_05_] Само собой."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:564 #-#-# translate crowdin ev2_010_683c4f81:
+msgid "[_Kira_s_03_] Ну, и халатик я пожалуй сниму, если ты не против? Жарковато же всё-таки..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:565 #-#-# translate crowdin ev2_010_e85d275d:
+msgid "[_Max_s_03_] Да без проблем, делай всё, что хочешь!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:569 #-#-# translate crowdin ev2_010_34644be5:
+msgid "[_Kira_s_01_] Вот теперь, наконец-то, можно отдохнуть и насладиться просмотром..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:570 #-#-# translate crowdin ev2_010_99cbd384:
+msgid "[_tMax_s_06_] С ума можно сойти! Я мало того, что смотрю порно на большом экране в собственной гостиной, так ещё и вместе с тётей!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:571 #-#-# translate crowdin ev2_010_067107c3:
+msgid "[_tMax_s_04_] Хоть всё самое интересное у неё и скрыто этим чёрным кружевом, но всё равно, смотреть на неё даже немного интереснее, чем на экран. А уж член-то как просится наружу от всего этого..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:576 #-#-# translate crowdin ev2_010_e780acaa:
+msgid "[_Kira_s_02_] Макс, тебе там в шортах не тесно, случаем? Мы с тобой смотрим порно, а ты прикрываешься... Неужели стесняешься? Я ведь уже всё видела..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:578 #-#-# translate crowdin ev2_010_52d10b6c:
+msgid "[_Kira_s_02_] Макс, тебе там в трусах не тесно, случаем? Мы с тобой смотрим порно, а ты прикрываешься... Неужели стесняешься? Я ведь уже всё видела..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:579 #-#-# translate crowdin ev2_010_7b23a34a:
+msgid "[_Max_s_01_] Вот именно! А вот я не видел. Так что ты первая..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:580 #-#-# translate crowdin ev2_010_c1cd91cf:
+msgid "[_Kira_s_04_] Ммм... Ты на что такое свою родную тётю уговариваешь?! Тебе не кажется, что это слишком для нашего первого совместного просмотра порно?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:581 #-#-# translate crowdin ev2_010_6744f21a:
+msgid "[_Max_s_11_] То есть, без шансов?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:582 #-#-# translate crowdin ev2_010_b3ec31e7:
+msgid "[_Kira_s_03_] Хм... Как знать, Макс. Конечно, может быть так, что этот просмотр настолько меня взволнует, что я совсем потеряю голову. Так что всё в твоих руках, так сказать..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:583 #-#-# translate crowdin ev2_010_89277ffc:
+msgid "[_Max_s_05_] Меня можно и не уговаривать..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:587 #-#-# translate crowdin ev2_010_c3c41f06:
+msgid "[_Kira_s_06_] Ну вот, эта ночка начинает становиться куда интереснее! Так непривычно, что он у тебя уже такой... большой..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:588 #-#-# translate crowdin ev2_010_fa76f2ee:
+msgid "[_Max_s_01_] Это же неплохо, да?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:589 #-#-# translate crowdin ev2_010_54dcefb4:
+msgid "[_Kira_s_04_] Хи-хи... Ещё бы! Лично мне это очень нравится... Ой, что это я говорю! Ты меня не слушай, лучше смотри на экран, а то пропустишь всё самое интересное..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:590 #-#-# translate crowdin ev2_010_9d503c77:
+msgid "[_Max_s_04_] А если мне нравится смотреть на тебя?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:594 #-#-# translate crowdin ev2_010_f4eb7465:
+msgid "[_Kira_s_06_] Ох, как же приятно... такое слышать... И мне бы, по-хорошему, следовало тебя пристыдить, но увы... твоя тётя жуткая развратница, Макс!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:595 #-#-# translate crowdin ev2_010_9a870eee:
+msgid "[_Max_s_09_] Ухх... Я только рад, что ты именно такая..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:596 #-#-# translate crowdin ev2_010_6b32355c:
+msgid "[_Kira_s_07_] О да! Здорово, что мы с тобой... Ммм... На одной волне... Ах-х-х! Д-а-а..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:597 #-#-# translate crowdin ev2_010_d310f5e6:
+msgid "[_tMax_s_10_] С ума сойти... Я дрочу на глазах у своей тёти, пока она ласкает свою грудь и киску! Чёрт, да я сейчас кончу от такого..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:601 #-#-# translate crowdin ev2_010_796b1868:
+msgid "[_Kira_s_04_] Ого, ты уже всё?! Быстренько... Молодец, что не забрызгал мне весь диван. Давай, беги к себе в комнату, а то спать уже давно пора."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:602 #-#-# translate crowdin ev2_010_909004fe:
+msgid "[_Max_s_11_] А ты?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:606 #-#-# translate crowdin ev2_010_64150531:
+msgid "[_Kira_s_03_] Ну, думаю, я тоже скоро... закончу... и буду спать."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:607 #-#-# translate crowdin ev2_010_45f929f6:
+msgid "[_Max_s_02_] Завтра посмотрим что-нибудь ещё?"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:608 #-#-# translate crowdin ev2_010_f5938088:
+msgid "[_Kira_s_02_] Может быть... Но знаешь, лучше с этим не частить, хорошо? А то весь интерес потеряется."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:609 #-#-# translate crowdin ev2_010_72037222:
+msgid "[_Max_s_01_] Хорошо, тётя Кира. Тогда спокойной ночи."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:611 #-#-# translate crowdin ev2_010_86b7ab6f:
+msgid "[_Kira_s_01_] И тебе, Макс. Только чур, не подглядывать за мной. Давай, до завтра... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:617 #-#-# translate crowdin ev2_010_0353afaf:
+msgid "[_tMax_s_04_] Да уж... До сих пор не вериться в то, что сейчас было! Повезло мне с тётей..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:621 #-#-# translate crowdin ev2_010_a07e1f6c:
+msgid "[_tMax_s_02_] А подсмотреть-то хочется... Но сделаю я это, пожалуй, через скрытую камеру, чтобы уж точно ничем ей не помешать..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:625 #-#-# translate crowdin ev2_010_c328294f:
+msgid "[_tMax_s_05_] Эх... Вот продержался бы я хоть немного дольше и, возможно, наблюдал бы сейчас это сидя рядом с ней."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:626 #-#-# translate crowdin ev2_010_e04e23a5:
+msgid "[_tMax_s_11_] В следующий раз нужно будет как-то умудриться до такой степени не перевозбудиться. Уж очень интересно, насколько сильно тётя Кира может потерять голову."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:630 #-#-# translate crowdin ev2_010_db50267f:
+msgid "[_tMax_s_13_] Но это будет уже в следующем обновлении, v0.12. Опять ждать..."
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/story_02/kira.rpy:24
+msgid "Дайте мне с любимой тётей пообниматься нормально!"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:44
+msgid "{i}пойти в дом{/i}"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:161
+msgid "Хорошо, тётя Кира. Не буду мешать..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:179
+msgid "Я бы с удовольствием досмотрел такое шоу до конца..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:182
+msgid "Что точно не хорошо, так это скрывать такую красоту..."
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:262
+msgid "постучаться"
+msgstr ""
+
+# game/scripts/story_02/kira.rpy:612
+msgid "{i}идти в свою комнату{/i}"
+msgstr ""
+

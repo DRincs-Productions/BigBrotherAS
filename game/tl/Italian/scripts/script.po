@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/scripts/script.po\n"
+"X-Crowdin-File-ID: 14764\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2026-07-04 14:08\n"
+
+# TODO: Translation updated at 2026-07-03 17:20 #|#|# # game/scripts/script.rpy:66 #-#-# translate crowdin chapter_1_end_11327ac4:
+msgid "На следующем экране Вы можете сохранить игру."
+msgstr "Nella schermata successiva potrai salvare la partita."
+
+# §translate crowdin strings: #|#|# # game/scripts/script.rpy:47
+msgid "ПОЛУЧЕН ДОСТУП К ГЛАВЕ 2!"
+msgstr "SBLOCCATO IL CAPITOLO 2!"
+
+# game/scripts/script.rpy:50
+msgid "Завершены все задания в данной главе и разблокирован доступ к следующей части игры.\n"
+"Вы можете остаться в данной главе, если с чем-то ещё не закончили, а можете сохранить свой прогресс и начать следующую главу..."
+msgstr "Tutti i compiti di questo capitolo sono stati completati e l’accesso alla parte successiva del gioco è sbloccato.\n"
+"Potete restare in questo capitolo se non avete ancora finito qualcosa, oppure salvare i progressi e iniziare il capitolo successivo..."
+
+# game/scripts/script.rpy:52
+msgid "{i}остаться в Главе 1{/i}"
+msgstr "{i}restare nel capitolo 1{/i}"
+
+# game/scripts/script.rpy:55
+msgid "{i}сохранить прогресс и начать Главу 2{/i}"
+msgstr "{i}salvare i progressi e iniziare il capitolo 2{/i}"
+
+# game/scripts/script.rpy:76
+msgid "Вы готовы начать Главу 2?"
+msgstr "Siete pronti per iniziare il Capitolo 2?"
+
