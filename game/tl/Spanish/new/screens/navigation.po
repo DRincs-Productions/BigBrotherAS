@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/new/screens/navigation.po\n"
+"X-Crowdin-File-ID: 15145\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2026-11-05 11:36\n"
+
+# TODO: Translation updated at 2026-08-30 13:20 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/navigation.rpy:28
+msgid "ВНИМАНИЕ"
+msgstr "ATENCIÓN"
+
+# game/scripts/screens/navigation.rpy:29
+msgid "КОНТЕНТ ДЛЯ ВЗРОСЛЫХ"
+msgstr "CONTENIDO PARA ADULTOS"
+
+# game/scripts/screens/navigation.rpy:33
+msgid "Эта игра содержит контент сексуального характера"
+msgstr "Este juego contiene contenido de naturaleza sexual"
+
+# game/scripts/screens/navigation.rpy:34
+msgid "Продолжая, ты подтверждаешь, что достаточно взрослый для такого контента"
+msgstr "Al continuar, confirmas que eres lo suficientemente mayor para este tipo de contenidos"
+
+# game/scripts/screens/navigation.rpy:36
+msgid "Все персонажи, изображённые в этой игре, вымышлены и являются совершеннолетними"
+msgstr ""
+
+# game/scripts/screens/navigation.rpy:38
+msgid "Продолжить"
+msgstr "Continuar"
+
