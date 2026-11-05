@@ -1,0 +1,44 @@
+﻿# TODO: Translation updated at 2026-08-30 13:20 #|#|# # game/scripts/engine/outline_shader.rpy:51 #-#-# translate crowdin outline_test_1296b88d:
+msgid "Start."
+msgstr "Start."
+
+# game/scripts/engine/outline_shader.rpy:54 #-#-# translate crowdin outline_test_f9891a32:
+msgid "Example 1a - a glowing outline, with smoothing. It uses linear blending."
+msgstr "Example 1a - a glowing outline, with smoothing. It uses linear blending."
+
+# game/scripts/engine/outline_shader.rpy:60 #-#-# translate crowdin outline_test_fc9ed178:
+msgid "Example 1b - a glowing outline with no smoothstep. It uses linear blending."
+msgstr "Example 1b - a glowing outline with no smoothstep. It uses linear blending."
+
+# game/scripts/engine/outline_shader.rpy:66 #-#-# translate crowdin outline_test_675d72ac:
+msgid "Example 1c - a glowing outline with a square root curve and smoothstepping."
+msgstr "Example 1c - a glowing outline with a square root curve and smoothstepping."
+
+# game/scripts/engine/outline_shader.rpy:71 #-#-# translate crowdin outline_test_528ffa0c:
+msgid "Example 1d - a glowing outline with a square root curve and no smoothstepping."
+msgstr "Example 1d - a glowing outline with a square root curve and no smoothstepping."
+
+# game/scripts/engine/outline_shader.rpy:77 #-#-# translate crowdin outline_test_c175435f:
+msgid "Example 1e - a glowing outline with a quadratic curve and smoothstepping."
+msgstr "Example 1e - a glowing outline with a quadratic curve and smoothstepping."
+
+# game/scripts/engine/outline_shader.rpy:80 #-#-# translate crowdin outline_test_30b1a86f:
+msgid "Example 2 - an animated outline."
+msgstr "Example 2 - an animated outline."
+
+# game/scripts/engine/outline_shader.rpy:85 #-#-# translate crowdin outline_test_2c827f6a:
+msgid "Example 3 - a thick outline with multiple passes."
+msgstr "Example 3 - a thick outline with multiple passes."
+
+# game/scripts/engine/outline_shader.rpy:90 #-#-# translate crowdin outline_test_43ae9665:
+msgid "Example 4 - a thin outline."
+msgstr "Example 4 - a thin outline."
+
+# game/scripts/engine/outline_shader.rpy:95 #-#-# translate crowdin outline_test_22473f5f:
+msgid "Example 5 - a drop shadow."
+msgstr "Example 5 - a drop shadow."
+
+# game/scripts/engine/outline_shader.rpy:98 #-#-# translate crowdin outline_test_b67347cb:
+msgid "End of demonstration."
+msgstr "End of demonstration."
+
