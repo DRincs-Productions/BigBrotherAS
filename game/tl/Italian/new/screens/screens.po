@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-11-05 11:37\n"
+"PO-Revision-Date: 2026-11-07 11:26\n"
 
 # TODO: Translation updated at 2026-08-30 13:20 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/screens.rpy:141
 msgid "У меня на счету $[mgg.money]!"
@@ -33,7 +33,8 @@ msgstr "[txt]\n"
 # game/scripts/screens/screens.rpy:308
 msgid "{color=#0f0}Бонус\n"
 "{/color}"
-msgstr ""
+msgstr "{color=#0f0}Bonus\n"
+"{/color}"
 
 # game/scripts/screens/screens.rpy:308
 msgid "{skill_percent}%: {skill_name}. Ур.{skill_lvl}\n"
@@ -99,19 +100,19 @@ msgstr "Supporta il gioco su Patreon"
 
 # game/scripts/screens/screens.rpy:590
 msgid "Первая игра с Кирой в карты"
-msgstr ""
+msgstr "Prima partita a carte con Kira"
 
 # game/scripts/screens/screens.rpy:592
 msgid "Сыграйте с тётей Кирой 1-ый раз в карты, чтобы во всём разобраться..."
-msgstr ""
+msgstr "Gioca a carte con la zia Kira per la prima volta, per capire come stanno le cose..."
 
 # game/scripts/screens/screens.rpy:594
 msgid "Сыграть с Кирой в карты (Ур.1)"
-msgstr ""
+msgstr "Gioca a carte con Kira (Liv. 1)"
 
 # game/scripts/screens/screens.rpy:597
 msgid "Это базовая игра с тётей Кирой в карты, как 1-ый раз, только без вступления..."
-msgstr ""
+msgstr "Questa è la partita a carte di base con zia Kira, proprio come la prima volta, ma senza introduzione..."
 
 # game/scripts/screens/screens.rpy:602
 msgid "Чтобы открыть доступ к этой игре, нужно сыграть с тётей Кирой 1-ый раз в карты..."
