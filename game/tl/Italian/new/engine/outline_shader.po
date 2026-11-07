@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-11-05 11:37\n"
+"PO-Revision-Date: 2026-11-07 10:11\n"
 
 # TODO: Translation updated at 2026-08-30 13:20 #|#|# # game/scripts/engine/outline_shader.rpy:51 #-#-# translate crowdin outline_test_1296b88d:
 msgid "Start."
-msgstr ""
+msgstr "Inizia."
 
 # game/scripts/engine/outline_shader.rpy:54 #-#-# translate crowdin outline_test_f9891a32:
 msgid "Example 1a - a glowing outline, with smoothing. It uses linear blending."
-msgstr ""
+msgstr "Esempio 1a: un contorno luminoso, con sfumatura. Utilizza la miscelazione lineare."
 
 # game/scripts/engine/outline_shader.rpy:60 #-#-# translate crowdin outline_test_fc9ed178:
 msgid "Example 1b - a glowing outline with no smoothstep. It uses linear blending."
-msgstr ""
+msgstr "Esempio 1b - un contorno luminoso senza smussatura. Utilizza la fusione lineare."
 
 # game/scripts/engine/outline_shader.rpy:66 #-#-# translate crowdin outline_test_675d72ac:
 msgid "Example 1c - a glowing outline with a square root curve and smoothstepping."
