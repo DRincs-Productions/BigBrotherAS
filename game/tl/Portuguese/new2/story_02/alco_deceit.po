@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: pt-PT\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/new2/story_02/alco_deceit.po\n"
+"X-Crowdin-File-ID: 15305\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Portuguese\n"
+"Language: pt_PT\n"
+"PO-Revision-Date: 2026-11-12 19:47\n"
+
+# TODO: Translation updated at 2026-11-11 21:13 #|#|# # game/scripts/story_02/alco_deceit.rpy:6 #-#-# translate crowdin ev2_014_65cca377:
+msgid "[_Lisa_s_12_] Макс, это же секрет! Алиса просила меня об этом не рассказывать. Я и так чуть за ужином не проговорилась... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:14 #-#-# translate crowdin ev2_014_157f99ab:
+msgid "[_Lisa_s_09_] Ну ладно, расскажу... Только ты никому об этом! В общем, пару лет назад Алиса как-то пошла в ночной клуб..."
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:15 #-#-# translate crowdin ev2_014_1e37fcf4:
+msgid "[_Max_s_12_] Это для меня не новость..."
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:16 #-#-# translate crowdin ev2_014_a030ac9c:
+msgid "[_Lisa_s_10_] Видимо, там она первый раз попробовала алкоголь и... Насколько я знаю из слов её лучшей подруги, Алиса выпила буквально один глоток шампанского и её как будто подменили!"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:17 #-#-# translate crowdin ev2_014_09499880:
+msgid "[_Max_s_11_] Вот это уже любопытно..."
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:18 #-#-# translate crowdin ev2_014_68bc70be:
+msgid "[_Lisa_s_11_] Похоже, когда наша сестрёнка выпивает даже немного алкоголя, то у неё отключаются какие-то внутренние ограничители и она начинает делать что попало."
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:19 #-#-# translate crowdin ev2_014_b8c49ec4:
+msgid "[_Max_s_13_] Внутренние демоны у неё что ли просыпаются?"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:20 #-#-# translate crowdin ev2_014_497fd287:
+msgid "[_Lisa_s_09_] Наверно. Причём, она не выглядит пьяной, а ведёт себя... странно. И потом ещё ничего не помнит из того, что делала, представляешь?!"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:21 #-#-# translate crowdin ev2_014_b4b9398e:
+msgid "[_Max_s_04_] Да, это действительно интересно. Буду иметь ввиду..."
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:22 #-#-# translate crowdin ev2_014_e710ec62:
+msgid "[_Lisa_s_12_] Но это всё ещё секрет, Макс! Ты же меня понимаешь?"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:23 #-#-# translate crowdin ev2_014_ccea9aa6:
+msgid "[_Max_s_01_] Конечно, Лиза! Я тебя не выдам..."
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:31 #-#-# translate crowdin ev2_014_3268220d:
+msgid "[_tMax_s_05_] Это уже не просто секрет, а настоящая сенсация! Если, конечно, эта подруга Алисы ничего не приврала..."
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:32 #-#-# translate crowdin ev2_014_3fcf3e43:
+msgid "[_tMax_s_11_] Так что лучше бы сперва проверить, насколько это правда, а уже потом строить на этот счёт грандиозные планы!"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:33 #-#-# translate crowdin ev2_014_34c48a7d:
+msgid "[_tMax_s_13_] А вот как это проверить, если Алиса не употребляет алкоголь? Хм... Надо думать..."
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:40 #-#-# translate crowdin ev2_014_e9ca7002:
+msgid "[_Lisa_s_10_] Нет, не расскажу! Я обещала. Ты же не хочешь, чтобы наши с тобой секреты кто-то знал, верно?"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:42 #-#-# translate crowdin ev2_014_6978f43f:
+msgid "[_Max_s_16_] Верно... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:54 #-#-# translate crowdin ev2_015_c131344f:
+msgid "[_tMax_s_11_] Итак, скоро у меня будет коробка конфет с ликёром. Судя по описанию, аромат утончённый и скрывает вкус алкоголя. Это значит, есть шанс, что Алиса не заметит подвоха."
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:55 #-#-# translate crowdin ev2_015_6abc0e05:
+msgid "[_tMax_s_13_] Интересно, хватит ли всего одной такой конфетки, чтобы её обычное поведение начало меняться? И когда будет уместнее всего предложить Алисе конфетку?"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:56 #-#-# translate crowdin ev2_015_4511cf23:
+msgid "[_tMax_s_12_] Хм... Больше всего времени вместе мы проводим, смотря вечером ТВ. Может, попробовать добавить конфету с ликёром к массажу ног? Стоит попробовать..."
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:66 #-#-# translate crowdin ev2_017_5b653990:
+msgid "[_Alice_s_11_] Эээ... Ты о чём, Макс?"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:67 #-#-# translate crowdin ev2_017_e94fe007:
+msgid "[_Max_s_11_] Тебе же понравился тот самый массаж ног у ТВ? Ну, когда ты немного... расшалилась ими в ответ... с моим членом..."
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:68 #-#-# translate crowdin ev2_017_45972fda:
+msgid "[_Alice_s_14_] Что?! Когда это? Я не помню такого... Это у тебя, видимо, что то в мыслях твоих извращенских расшалилось."
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:69 #-#-# translate crowdin ev2_017_ea27b162:
+msgid "[_Max_s_13_] Да? Пожалуй... А может вообще приснилось..."
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:70 #-#-# translate crowdin ev2_017_c313c8e8:
+msgid "[_Alice_s_15_] Вот именно. Единственное, как я могла расшалиться - это пинками по твоей заднице. Чтобы больше не представлял ничего такого со мной!"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:71 #-#-# translate crowdin ev2_017_cd097d52:
+msgid "[_Max_s_12_] Тебе жалко что ли?"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:72 #-#-# translate crowdin ev2_017_63242d35:
+msgid "[_Alice_s_16_] Макс! Я тебе уже всё сказала!"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:73 #-#-# translate crowdin ev2_017_4b7aed4c:
+msgid "[_Max_s_01_] Ладно, ладно... Как скажешь."
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:90 #-#-# translate crowdin ev2_017_a0fad95c:
+msgid "[_tMax_s_06_] Алиса реально ничего не помнит! И всего-то от одной конфетки с ликёром!"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:91 #-#-# translate crowdin ev2_017_fe238f3d:
+msgid "[_tMax_s_11_] Так, так, так... Надо подумать, когда ещё будет уместно предложить ей конфетку, чтобы это оказалось перспективно для меня?"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:92 #-#-# translate crowdin ev2_017_1a7eca07:
+msgid "[_tMax_s_13_] Хм... А если попробовать дать ей конфетку, когда она позовёт меня убрать паука из её комнаты?"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:93 #-#-# translate crowdin ev2_017_3c39d3cd:
+msgid "[_tMax_s_02_] Пока я буду от него избавляться, ликёр уже должен дать эффект. А это значит, что можно будет уговорить Алису на что-то новенькое."
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:94 #-#-# translate crowdin ev2_017_74021823:
+msgid "[_tMax_s_04_] Получится ли остаться ночевать в её комнате? Посмотрим..."
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:105 #-#-# translate crowdin ev2_023_b81d50f2:
+msgid "[_Alice_s_12_] Макс, давай уже быстрее иди к воротам и выбрасывай паука! Я спать хочу и не успокоюсь, пока он у нас на участке. [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:112 #-#-# translate crowdin ev2_023_42fd2cea:
+msgid "[_Alice_s_04_] Ну вот... Теперь бы ещё заснуть после этого происшествия, а то твоя конфета хоть и вкусная, но не особо успокаивающая."
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:117 #-#-# translate crowdin ev2_023_619dbf0a:
+msgid "[_Alice_s_04_] Ну вот... Теперь бы ещё как-то заснуть после этого происшествия."
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:118 #-#-# translate crowdin ev2_023_a3261065:
+msgid "[_Max_s_04_] Ммм... Какие красивые сиськи! Спасибо, что так приятно порадовала меня!"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:121 #-#-# translate crowdin ev2_023_fc906439:
+msgid "[_Alice_s_12_] Ой! Совсем забыла в моменте, что я без лифчика... Наверно, не особо-то твоя конфета успокаивающая, хоть и вкусная."
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:123 #-#-# translate crowdin ev2_023_3d79e899:
+msgid "[_Max_s_11_] Я могу остаться ночевать с тобой, если от этого тебе будет спокойнее?"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:125 #-#-# translate crowdin ev2_023_fc9a5cab:
+msgid "[_Alice_s_03_] Спокойнее?! С тобой? Ты же как только увидишь малейшую возможность, сразу пытаешься меня облапать! [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:130 #-#-# translate crowdin ev2_023_73b71cd2:
+msgid "[_Alice_s_11_] Хм... Точно? Смотри мне... Если ты ночью будешь приставать, то я мигом выпну тебя! Понял?"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:131 #-#-# translate crowdin ev2_023_fdbb6d7a:
+msgid "[_Max_s_12_] Я же сказал, что не буду."
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:134 #-#-# translate crowdin ev2_023_3fbc69d3:
+msgid "[_Alice_s_15_] Тогда почему стоишь-то?! Давай поднимайся... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:139 #-#-# translate crowdin ev2_023_1b8a334e:
+msgid "[_Alice_s_14_] А, всё, я поняла твою хитрость... Я соглашаюсь и из-за нашей договорённости буду спать без лифчика, а ты полночи будешь на меня глазеть. На такое же ты рассчитывал?"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:140 #-#-# translate crowdin ev2_023_9bb6f1cb:
+msgid "[_Max_s_01_] Эх, раскусила! Лифчик, так уж и быть, можешь этой ночью надеть, раз уж я буду спать у тебя в комнате."
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:142 #-#-# translate crowdin ev2_023_89d1547c:
+msgid "[_Alice_s_02_] Супер! Договорились. Давай поднимайся... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:153 #-#-# translate crowdin ev2_023_11749ae6:
+msgid "[_Alice_s_11_] Ты сам-то веришь в это? Уверена, даже если ты будешь спать, то твои грязные ручонки всё равно бессознательно поползут ко мне. Всё, я спать. И без тебя!"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:154 #-#-# translate crowdin ev2_023_2b36dcd7:
+msgid "[_Max_s_16_] Ну вот, здорово, блин!"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:157 #-#-# translate crowdin ev2_023_9d76989b:
+msgid "[_tMax_s_14_] Что-то я вообще по полной пролетел. Только зря конфету с ликёром потратил... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:169 #-#-# translate crowdin ev2_023_98031869:
+msgid "[_tMax_s_04_] О да! Ещё не так давно и представить нельзя было, что мы с Алисой будем спать не просто в одной комнате, а на одной кровати..."
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:173 #-#-# translate crowdin ev2_023_b65577ed:
+msgid "[_Alice_s_05_] Устраивайся, Макс... Надеюсь, мне не придётся тебя в итоге выгонять и я действительно высплюсь. [nointeract]"
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/story_02/alco_deceit.rpy:8
+msgid "Мне можно рассказать! А то мало ли что, а я не в курсе..."
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:35
+msgid "Алкоголь и коварство"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:127
+msgid "Обещаю, что не буду!"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:135
+msgid "{i}идти в комнату Алисы{/i}"
+msgstr ""
+
+# game/scripts/story_02/alco_deceit.rpy:174
+msgid "{i}тихонько лечь на кровать Алисы{/i}"
+msgstr ""
+
