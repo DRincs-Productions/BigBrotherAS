@@ -1,0 +1,8 @@
+﻿# TODO: Translation updated at 2026-11-11 21:13
+
+translate crowdin strings:
+
+    # game/scripts/engine/choice_mechanic.rpy:41
+    old "+{arousal}% возбуждение {char}"
+    new "+{arousal}% возбуждение {char}"
+
