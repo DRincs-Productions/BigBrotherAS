@@ -1,0 +1,666 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/new2/story_02/cardgame.po\n"
+"X-Crowdin-File-ID: 15311\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2026-11-12 19:50\n"
+
+# TODO: Translation updated at 2026-11-11 21:13 #|#|# # game/scripts/story_02/cardgame.rpy:14 #-#-# translate crowdin ev2_011_1750b437:
+msgid "[_tMax_s_01_] У меня до сих пор не выходит из головы то, что мы вытворяли с тётей Кирой ночью в гостиной, пока все остальные спали."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:15 #-#-# translate crowdin ev2_011_cd2661dd:
+msgid "[_tMax_s_11_] Интересно, чем ещё тётя Кира может удивить? Надо бы у неё поинтересоваться, пока она ещё не ушла по делам..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:19 #-#-# translate crowdin ev2_011_37b69b1a:
+msgid "[_Kira_s_00_] Да, Макс, что такое?"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:20 #-#-# translate crowdin ev2_011_7b840aa2:
+msgid "[_Max_s_02_] Давай ещё чем-нибудь вместе займёмся?"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:21 #-#-# translate crowdin ev2_011_32a85696:
+msgid "[_Kira_s_01_] Хочешь больше веселья, да? Это можно устроить... Как насчёт сыграть в карты?"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:22 #-#-# translate crowdin ev2_011_41e605d3:
+msgid "[_Max_s_05_] О, давай! А на что?"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:26 #-#-# translate crowdin ev2_011_22bcbcab:
+msgid "[_Kira_s_11_] Хм... Только не на деньги, хорошо? У меня сейчас каждая мелочь на счету..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:27 #-#-# translate crowdin ev2_011_e8a57afe:
+msgid "[_Max_s_06_] Тогда на раздевание?!"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:28 #-#-# translate crowdin ev2_011_3d06f7a3:
+msgid "[_Kira_s_04_] О как! Сразу к самому интересному? Тогда я пойду за картами и ещё переоденусь, а то с меня сейчас и снимать-то почти нечего."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:29 #-#-# translate crowdin ev2_011_73fc6d79:
+msgid "[_Max_s_12_] Как и мне. Я тоже пойду переоденусь..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:37 #-#-# translate crowdin ev2_011_43c3f420:
+msgid "[_tMax_s_11_] Так, трусы и шорты на мне! Неужели у меня и правда сейчас будет шанс раздеть тётю Киру догола?"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:39 #-#-# translate crowdin ev2_011_56b90749:
+msgid "[_tMax_s_13_] Правда, вряд ли это будет легко, но надо постараться... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:44 #-#-# translate crowdin ev2_011_fd6a3498:
+msgid "[_Kira_s_03_] Ну что, Макс, играем беспощадно? Но оставшись без одежды, естественно, можно прикрываться руками... и ногами..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:45 #-#-# translate crowdin ev2_011_f8c4f3ab:
+msgid "[_Max_s_01_] Уже готовишься проигрывать?"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:46 #-#-# translate crowdin ev2_011_043ea385:
+msgid "[_Kira_s_10_] Что?! Ещё посмотрим, кто кого разденет..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:47 #-#-# translate crowdin ev2_011_e35fe277:
+msgid "[_Max_s_11_] А какие правила?"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:51 #-#-# translate crowdin ev2_011_23ad7c38:
+msgid "[_Kira_s_00_] Мы будем играть в одну из разновидностей карточной игры «Блэкджек». Будь внимательнее, сейчас я объясню тебе детали..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:54 #-#-# translate crowdin ev2_011_rules_75bb1c5a:
+msgid "[_Kira_s_01_] Итак, у нас с тобой будет одна колода карт с номиналом от 2 до 11. Всего 10 карт и одна масть. Туз - это 11."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:55 #-#-# translate crowdin ev2_011_rules_f966e668:
+msgid "[_Kira_s_02_] В начале раунда, каждому из нас, раздаётся по две карты. Наши первые карты будут скрыты друг от друга. Вторые и последующие - видны всем."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:56 #-#-# translate crowdin ev2_011_rules_cebc851f:
+msgid "[_Kira_s_03_] Мы поочерёдно будем брать карты из колоды, чтобы достичь цели - набрать очков, как можно ближе к 21, но не больше."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:57 #-#-# translate crowdin ev2_011_rules_a351a3ef:
+msgid "[_Kira_s_04_] Тот, кто набрал больше 21 в раунде - проиграл! Тот, кто не переберёт карт в раунде и окажется ближе всего к 21 - побеждает!"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:58 #-#-# translate crowdin ev2_011_rules_c48eab71:
+msgid "[_Kira_s_10_] Если мы с тобой наберём одинаковое количество очков в раунде или оба наберём больше 21, то победителя и проигравшего не будет, это ничья."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:59 #-#-# translate crowdin ev2_011_rules_742baf51:
+msgid "[_Kira_s_06_] Ну, и раз мы решили играть на раздевание, то в каждом раунде проигравший снимает часть одежды."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:61 #-#-# translate crowdin ev2_011_rules_3384dbf6:
+msgid "[_Kira_s_04_] Окончательный проигрыш - это остаться полностью без одежды. Ты готов к этому? [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:78 #-#-# translate crowdin ev2_011_repeat_a9592f4c:
+msgid "[_Kira_s_11_] Не думаю, что это хорошая идея! Твоя мама сегодня дома, а мы прямо около её комнаты. Она в любой момент может сюда подняться и застукать нас..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:80 #-#-# translate crowdin ev2_011_repeat_fbe91a1f:
+msgid "[_Max_s_16_] Эх... А так хотелось... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:85 #-#-# translate crowdin ev2_011_repeat_ef39eea0:
+msgid "[_Kira_s_04_] Давай! Хоть ты и умудрился раздеть меня догола в прошлый раз, но в этот раз ТЫ останешься без одежды..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:87 #-#-# translate crowdin ev2_011_repeat_2e34079e:
+msgid "[_Kira_s_04_] Давай! Я с радостью раздену тебя догола ещё раз..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:88 #-#-# translate crowdin ev2_011_repeat_1a08ca56:
+msgid "[_Max_s_01_] Ещё посмотрим, кто кого!"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:93 #-#-# translate crowdin ev2_011_repeat_fd113ed7:
+msgid "[_Kira_s_03_] Отличный настрой, Макс! Я пойду за картами и переоденусь. Встречаемся здесь... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:104 #-#-# translate crowdin ev2_011_repeat_ecc4743d:
+msgid "[_tMax_s_11_] Так, трусы и шорты на мне! Теперь надо не тупить и тогда у меня есть все шансы раздеть тётю Киру догола! [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:110 #-#-# translate crowdin ev2_011_repeat_2b50bb54:
+msgid "[_Kira_s_02_] Ну что, Макс, ты точно готов сыграть со мной абсолютно беспощадно и по-взрослому? [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:179 #-#-# translate crowdin ev2_011_round_beba6817:
+msgid "[_Kira_s_01_] Ну что, начинаем с тебя, Макс. Если очков маловато, то бери карту без раздумий..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:180 #-#-# translate crowdin ev2_011_round_b21043ea:
+msgid "[_Kira_s_01_] Ну что, начинаем с тебя, Макс. Бери карту или пасуй..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:183 #-#-# translate crowdin ev2_011_round_43f01202:
+msgid "[_Max_s_11_] Хм... Надо подумать..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:185 #-#-# translate crowdin ev2_011_round_70697a35:
+msgid "[_Max_s_11_] Хм... Один момент..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:187 #-#-# translate crowdin ev2_011_round_60497e2b:
+msgid "[_Max_s_11_] Хм... А тут и думать не о чем..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:202 #-#-# translate crowdin ev2_011_round_3a2652ba:
+msgid "[_Kira_s_01_] Я начинаю, Макс. Так, так, так... Пожалуй, я возьму карту...{p=4}{nw}"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:203 #-#-# translate crowdin ev2_011_round_ee073a79:
+msgid "[_Kira_s_01_] Я начинаю, Макс. Пожалуй, я возьму карту...{p=4}{nw}"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:212 #-#-# translate crowdin ev2_011_round_2b33c79b:
+msgid "[_Kira_s_02_] Я начинаю, Макс. Так, так, так... Думаю, мне уже хватит..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:213 #-#-# translate crowdin ev2_011_round_c5adf1e3:
+msgid "[_Kira_s_02_] Я начинаю, Макс. Думаю, мне уже хватит..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:224 #-#-# translate crowdin ev2_011_round_25d0c7a1:
+msgid "[_Kira_s_04_] Вот так, значит? Я тоже, пожалуй, возьму...{p=4}{nw}"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:225 #-#-# translate crowdin ev2_011_round_c6596971:
+msgid "[_Kira_s_04_] Я тоже, пожалуй, возьму...{p=4}{nw}"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:228 #-#-# translate crowdin ev2_011_round_cca562aa:
+msgid "[_Kira_s_03_] Хм... Всё с тобой ясно. А вот я, пожалуй, возьму...{p=4}{nw}"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:229 #-#-# translate crowdin ev2_011_round_e769c58c:
+msgid "[_Kira_s_03_] Хм... А вот я, пожалуй, возьму...{p=4}{nw}"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:240 #-#-# translate crowdin ev2_011_round_f7a29e1d:
+msgid "[_Kira_s_02_] Вот так, значит? Я пас..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:241 #-#-# translate crowdin ev2_011_round_b9a73468:
+msgid "[_Kira_s_02_] Я пас..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:244 #-#-# translate crowdin ev2_011_round_55aa6829:
+msgid "[_Kira_s_02_] Хм... Всё с тобой ясно. Я пас..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:245 #-#-# translate crowdin ev2_011_round_c16b8290:
+msgid "[_Kira_s_02_] Хм... Я пас..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:253 #-#-# translate crowdin ev2_011_round_3f7c19f5:
+msgid "[_tMax_s_04_] А у тёти-то уже хоть как больше 21! Мне можно просто пасовать..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:256 #-#-# translate crowdin ev2_011_round_a3b884b2:
+msgid "[_tMax_s_01_] Ха! Что я карт перебрал, что у тёти уже хоть как больше 21! Хоть не проиграл..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:259 #-#-# translate crowdin ev2_011_round_82d1f5be:
+msgid "[_tMax_s_14_] Блин, я перебрал карт! Остаётся только надеяться, что у тёти тоже больше 21..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:262 #-#-# translate crowdin ev2_011_round_045bc8ff:
+msgid "[_tMax_s_03_] Только бы она не набрала столько же, сколько и я! А то будет обидно..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:265 #-#-# translate crowdin ev2_011_round_f97b447a:
+msgid "[_tMax_s_12_] Не знаю сколько там у неё уже очков, но обыграть её как-то надо..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:269 #-#-# translate crowdin ev2_011_round_998f72c9:
+msgid "[_tMax_s_13_] Интересно, сколько у неё уже очков? Ах, да, мой ход..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:270 #-#-# translate crowdin ev2_011_round_bba0eb9f:
+msgid "[_tMax_s_13_] Эх, знать бы, сколько у неё сейчас очков. Было бы легче решить, что делать..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:275 #-#-# translate crowdin ev2_011_round_76e1a8ca:
+msgid "[_tMax_s_04_] Мне можно просто пасовать, ведь у тёти однозначно перебор..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:278 #-#-# translate crowdin ev2_011_round_288da6bb:
+msgid "[_tMax_s_01_] И у меня за 21 ушло, и у тёти дела точно не лучше! Хоть так..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:281 #-#-# translate crowdin ev2_011_round_c22e9012:
+msgid "[_tMax_s_14_] Эх, я перебрал! Вот бы и у тёти тоже было больше 21..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:286 #-#-# translate crowdin ev2_011_round_6d46c22e:
+msgid "[_tMax_s_12_] Чёрт, похоже она близка к 21! Как бы мне её обыграть..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:289 #-#-# translate crowdin ev2_011_round_bb6ba092:
+msgid "[_tMax_s_12_] Чёрт, похоже она близка к 21! Надо подумать, а получится ли вообще её обыграть..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:292 #-#-# translate crowdin ev2_011_round_eda95974:
+msgid "[_tMax_s_12_] Чёрт, похоже она близка к 21! Но у меня с этим тоже порядок..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:296 #-#-# translate crowdin ev2_011_round_c128a021:
+msgid "[_tMax_s_03_] Надеюсь, она не слишком близко подобралась к 21. А то будет обидно..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:301 #-#-# translate crowdin ev2_011_round_1c1c7ea2:
+msgid "[_tMax_s_16_] Хм... Интересно, насколько она близка по очкам к 21? Теперь мой ход..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:302 #-#-# translate crowdin ev2_011_round_f4603b0d:
+msgid "[_tMax_s_16_] Надеюсь, она не слишком близко подобралась к 21. Надо что-то делать..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:318 #-#-# translate crowdin ev2_011_round_67cb73b4:
+msgid "[_Kira_s_06_] Ну, вот и момент истины, у кого что! И победил у нас... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:319 #-#-# translate crowdin ev2_011_round_5393b1e6:
+msgid "[_Kira_s_06_] Итак, давай смотреть, кто же у нас в итоге победил! И это... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:333 #-#-# translate crowdin ev2_011_round_802cb627:
+msgid "[_Kira_s_11_] О как!!! Что-то мы с тобой перебрали карт!"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:334 #-#-# translate crowdin ev2_011_round_d55237f4:
+msgid "[_Max_s_05_] Ага, набрали, как в долг..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:336 #-#-# translate crowdin ev2_011_round_f39a2e0c:
+msgid "[_Kira_s_04_] И не говори. Посидим в одежде чуть дольше. [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:341 #-#-# translate crowdin ev2_011_round_09b8e89f:
+msgid "[_Kira_s_12_] Ничего себе!!! Мы с тобой набрали одинаковое количество очков, Макс!"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:342 #-#-# translate crowdin ev2_011_round_219e4b61:
+msgid "[_Max_s_11_] Фух... Получается, ничья..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:344 #-#-# translate crowdin ev2_011_round_0c0119bd:
+msgid "[_Kira_s_04_] Именно так. Но расслабляться ещё рано. [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:351 #-#-# translate crowdin ev2_011_round_84172217:
+msgid "[_Kira_s_13_] Вот чёрт!!! Макс, ты выиграл..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:352 #-#-# translate crowdin ev2_011_round_3403810f:
+msgid "[_Kira_s_13_] О нет!!! Макс, ты меня обыграл..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:355 #-#-# translate crowdin ev2_011_round_d11605fe:
+msgid "[_Max_s_06_] Ха! Долой одежду, тётя Кира..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:356 #-#-# translate crowdin ev2_011_round_9a62af3c:
+msgid "[_Max_s_06_] Класс! Ты раздеваешься..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:362 #-#-# translate crowdin ev2_011_round_2e6d0d38:
+msgid "[_Kira_s_12_] Вот так!!! Я выиграла, Макс..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:363 #-#-# translate crowdin ev2_011_round_e48b4b4d:
+msgid "[_Kira_s_12_] О да!!! Я обыграла тебя, Макс..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:366 #-#-# translate crowdin ev2_011_round_4a691b76:
+msgid "[_Max_s_15_] Как?! Ну вот, теперь раздеваться..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:367 #-#-# translate crowdin ev2_011_round_1947a06e:
+msgid "[_Max_s_15_] Блин! Придётся снимать одежду..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:379 #-#-# translate crowdin ev2_011_kira_undress_c74211cf:
+msgid "[_Kira_s_02_] Повезло тебе, Макс. Раз уж я проиграла, то по правилам снимаю верх... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:384 #-#-# translate crowdin ev2_011_kira_undress_be603068:
+msgid "[_Kira_s_03_] Даже не надейся... Самое интересное ты не увидишь, как бы пристально ты меня не разглядывал!"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:385 #-#-# translate crowdin ev2_011_kira_undress_266e244e:
+msgid "[_Max_s_04_] Всё равно прикольно!"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:390 #-#-# translate crowdin ev2_011_kira_undress_54bdfd05:
+msgid "[_Kira_s_04_] Значит, прикольно тебе? Ай-я-яй, Макс! Наоборот, тебе стыдно должно быть, что родную тётю раздеваешь..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:391 #-#-# translate crowdin ev2_011_kira_undress_04543a56:
+msgid "[_Max_s_02_] Ты сама согласилась играть, так что жалобы не принимаются."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:393 #-#-# translate crowdin ev2_011_kira_undress_df6e75fb:
+msgid "[_Kira_s_01_] Тоже верно. Но ничего, может я ещё отыграюсь... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:401 #-#-# translate crowdin ev2_011_kira_undress_8530c5fc:
+msgid "[_Kira_s_02_] Ну что, правила есть правила, Макс. Снимаю последнюю одежду, раз проиграла... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:406 #-#-# translate crowdin ev2_011_kira_undress_f8acd9a7:
+msgid "[_Kira_s_03_] И как, ты сильно доволен, что полностью смог тётю раздеть?"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:407 #-#-# translate crowdin ev2_011_kira_undress_7bdca7d0:
+msgid "[_Max_s_06_] Очень! Такую сногсшибательную женщину, как ты, одно удовольствие раздевать..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:412 #-#-# translate crowdin ev2_011_kira_undress_2062e064:
+msgid "[_Kira_s_04_] Ах ты льстец какой, Макс! Сегодня ты абсолютный победитель, но рано или поздно я тебя тоже оставлю без одежды..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:413 #-#-# translate crowdin ev2_011_kira_undress_4fd34c35:
+msgid "[_Max_s_04_] Может быть... А может быть я буду раздевать тебя раз за разом."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:421 #-#-# translate crowdin ev2_011_kira_undress_c74211cf_1:
+msgid "[_Kira_s_02_] Повезло тебе, Макс. Раз уж я проиграла, то по правилам снимаю верх... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:428 #-#-# translate crowdin ev2_011_kira_undress_391233b0:
+msgid "[_Kira_s_03_] Должно быть, чем медленнее я снимаю одежду, тем больше поднимается... твоё настроение от этой игры?"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:429 #-#-# translate crowdin ev2_011_kira_undress_9714bdb4:
+msgid "[_Max_s_04_] Ещё бы! Такой стриптиз от тебя я обожаю..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:438 #-#-# translate crowdin ev2_011_kira_undress_da5b9bb4:
+msgid "[_Kira_s_04_] Ай-я-яй, Макс! Как тебе не стыдно родной тёте такое заявлять..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:439 #-#-# translate crowdin ev2_011_kira_undress_04543a56_1:
+msgid "[_Max_s_02_] Ты сама согласилась играть, так что жалобы не принимаются."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:441 #-#-# translate crowdin ev2_011_kira_undress_c4ab9edd:
+msgid "[_Kira_s_01_] Тоже верно. Но ничего, может я ещё тебя обыграю... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:448 #-#-# translate crowdin ev2_011_kira_undress_8530c5fc_1:
+msgid "[_Kira_s_02_] Ну что, правила есть правила, Макс. Снимаю последнюю одежду, раз проиграла... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:455 #-#-# translate crowdin ev2_011_kira_undress_7912c6a0:
+msgid "[_Kira_s_03_] Ну, ещё бы тебе не нравилось, как последняя одежда сползает по моей попке! Сильно доволен, что полностью смог тётю раздеть?"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:459 #-#-# translate crowdin ev2_011_kira_undress_7bdca7d0_1:
+msgid "[_Max_s_06_] Очень! Такую сногсшибательную женщину, как ты, одно удовольствие раздевать..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:463 #-#-# translate crowdin ev2_011_kira_undress_2062e064_1:
+msgid "[_Kira_s_04_] Ах ты льстец какой, Макс! Сегодня ты абсолютный победитель, но рано или поздно я тебя тоже оставлю без одежды..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:464 #-#-# translate crowdin ev2_011_kira_undress_4fd34c35_1:
+msgid "[_Max_s_04_] Может быть... А может быть я буду раздевать тебя раз за разом."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:474 #-#-# translate crowdin ev2_011_mgg_undress_5afaa487:
+msgid "[_Kira_s_04_] А как ты думал? Вот так оно всегда и и бывает!"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:477 #-#-# translate crowdin ev2_011_mgg_undress_c0a863cf:
+msgid "[_Max_s_14_] Ладно, сейчас сниму..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:483 #-#-# translate crowdin ev2_011_mgg_undress_26f46604:
+msgid "[_Kira_s_03_] Не печалься, Макс. Тебе вон, как хорошо... Даже прикрываться не нужно."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:485 #-#-# translate crowdin ev2_011_mgg_undress_c0a863cf_1:
+msgid "[_Max_s_14_] Ладно, сейчас сниму..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:492 #-#-# translate crowdin ev2_011_mgg_undress_387b84ae:
+msgid "[_Kira_s_03_] Не печалься, Макс, во всём надо искать плюсы. Например, теперь тебе будет не так жарко играть..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:496 #-#-# translate crowdin ev2_011_mgg_undress_8ac7ef69:
+msgid "[_Kira_s_03_] Ой-ё-ёй! Похоже, кое-кто слишком много разглядывает меня, а не свои карты. Соберись, Макс, а то я тебя мигом обыграю..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:499 #-#-# translate crowdin ev2_011_mgg_undress_135c4a89:
+msgid "[_Max_s_03_] Ну, тётя Кира... Теперь держись! [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:509 #-#-# translate crowdin ev2_011_mgg_undress_ce41a69a:
+msgid "[_Kira_s_06_] Причём полностью, раз уж ты проиграл мне по полной! Такие у нас правила."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:510 #-#-# translate crowdin ev2_011_mgg_undress_19346ed5:
+msgid "[_Max_s_16_] Ну да, куда деваться..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:517 #-#-# translate crowdin ev2_011_mgg_undress_aebaa447:
+msgid "[_Kira_s_03_] Я довольна, Макс! Не думала, что смогу одолеть тебя вообще ничего не снимая с себя из одежды..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:518 #-#-# translate crowdin ev2_011_mgg_undress_57c16e34:
+msgid "[_Max_s_12_] Ага, я умудрился продуть тебе вчистую."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:522 #-#-# translate crowdin ev2_011_mgg_undress_f0b9c6ea:
+msgid "[_Kira_s_04_] Я довольна, Макс! И судя по тому, что мне сейчас видно, ты не особо расстроен своим проигрышем..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:523 #-#-# translate crowdin ev2_011_mgg_undress_bfd5bb98:
+msgid "[_Max_s_01_] Ну, я же тебя тоже раздел. Наполовину."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:532 #-#-# translate crowdin ev2_011_mgg_undress_ce41a69a_1:
+msgid "[_Kira_s_06_] Причём полностью, раз уж ты проиграл мне по полной! Такие у нас правила."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:534 #-#-# translate crowdin ev2_011_mgg_undress_19346ed5_1:
+msgid "[_Max_s_16_] Ну да, куда деваться..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:541 #-#-# translate crowdin ev2_011_mgg_undress_aebaa447_1:
+msgid "[_Kira_s_03_] Я довольна, Макс! Не думала, что смогу одолеть тебя вообще ничего не снимая с себя из одежды..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:542 #-#-# translate crowdin ev2_011_mgg_undress_d073ea8c:
+msgid "[_Max_s_02_] Ага, я умудрился продуть тебе вчистую, но в следующий раз я тебе такое устрою!"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:543 #-#-# translate crowdin ev2_011_mgg_undress_671efe68:
+msgid "[_Kira_s_02_] Звучит заманчиво! Хи-хи... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:548 #-#-# translate crowdin ev2_011_mgg_undress_3dbad1a5:
+msgid "[_Kira_s_04_] Я довольна, Макс! Правда, даже немного неловко от того, насколько сильно тебя... воодушевляет мой вид..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:549 #-#-# translate crowdin ev2_011_mgg_undress_c3f077be:
+msgid "[_Max_s_01_] Да, пойду-ка я устрою себе разрядку. После такой-то напряжённой игры..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:565 #-#-# translate crowdin ev2_011_final_e8ad5d1e:
+msgid "[_Kira_s_03_] Знаешь, просто вот так раздевать друг друга может быстро наскучить, поэтому можно попробовать разнообразить нашу карточную игру для большего интереса. Как тебе идея?"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:566 #-#-# translate crowdin ev2_011_final_185630cc:
+msgid "[_Max_s_05_] Идея суперская! А как разнообразить?"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:567 #-#-# translate crowdin ev2_011_final_b4f01eee:
+msgid "[_Kira_s_02_] Например, после каждой игры проигравший будет исполнять какие-нибудь желания победителя..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:568 #-#-# translate crowdin ev2_011_final_1d5c7c69:
+msgid "[_Max_s_06_] Ого! Прямо любые желания?"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:569 #-#-# translate crowdin ev2_011_final_ed26fe4e:
+msgid "[_Kira_s_01_] Ну-у-у... Твоя мама надеется, что я буду себя хорошо вести, поэтому желания должны быть в разумных пределах."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:570 #-#-# translate crowdin ev2_011_final_46316e32:
+msgid "[_Max_s_11_] Хм... В любом случае, это может быть интересно, ведь придумать можно много всего..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:571 #-#-# translate crowdin ev2_011_final_652b2e5b:
+msgid "[_Kira_s_04_] Верно подмечено, Макс. Значит, начиная со следующей нашей игры в карты, проигравший исполняет желание победителя. Причём, без всяких отговорок."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:572 #-#-# translate crowdin ev2_011_final_02bd1daa:
+msgid "[_Max_s_03_] Идёт, тётя Кира! Когда снова сыграем?"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:573 #-#-# translate crowdin ev2_011_final_c094a5f8:
+msgid "[_Kira_s_03_] Ммм... Можешь подходить ко мне хоть каждый день. В это время если кто-то дома и есть, то находится во дворе. Играем мы недолго, так что шансы, что нас кто-то поймает невелики."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:574 #-#-# translate crowdin ev2_011_final_61e5638c:
+msgid "[_Max_s_01_] Тогда, до следующей игры, тётя Кира."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:578 #-#-# translate crowdin ev2_011_final_36ca1e57:
+msgid "[_tMax_s_04_] А тётя Кира-то не особо скрывает свои эмоции, когда играет. Это может быть неплохой подсказкой о том, какие у неё карты."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:579 #-#-# translate crowdin ev2_011_final_6772bef1:
+msgid "[_tMax_s_11_] Надо обыгрывать её, потому что желаний у меня в отношении неё - целая куча! Хотя, как знать, может исполнять её желания окажется нисколько не хуже."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:582 #-#-# translate crowdin ev2_011_final_b3e91ff4:
+msgid "[_Kira_s_01_] Макс, ты только шорты не забудь..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:583 #-#-# translate crowdin ev2_011_final_d9faa657:
+msgid "[_Max_s_12_] Ой, точно!"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:585 #-#-# translate crowdin ev2_011_final_f2a996cd:
+msgid "[_Kira_s_01_] Макс, только без одежды не уйди..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:586 #-#-# translate crowdin ev2_011_final_d9faa657_1:
+msgid "[_Max_s_12_] Ой, точно!"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:594 #-#-# translate crowdin ev2_011_final_4c068fa8:
+msgid "[_Kira_s_06_] Ухх... Кажется, я попала! Ты же уже придумал, какое желание я буду исполнять? [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:597 #-#-# translate crowdin ev2_011_final_5efc2ee1:
+msgid "[_Kira_s_11_] Ах, точно! Совсем уже забыла, Макс. Я обязательно тебе с этим помогу. Правда, не здесь и не сейчас, сам понимаешь..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:598 #-#-# translate crowdin ev2_011_final_e05cbe91:
+msgid "[_Max_s_11_] А когда?"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:599 #-#-# translate crowdin ev2_011_final_c65d3561:
+msgid "[_Kira_s_04_] Нам для этого нужна более интимная обстановка, поэтому подходи ко мне в любой вечер... Лови, пока я не легла спать."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:601 #-#-# translate crowdin ev2_011_final_7d5ac4d6:
+msgid "[_Max_s_04_] О, я поймаю тебя, тётя Кира. Обязательно... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:608 #-#-# translate crowdin ev2_011_final_e2e1d249:
+msgid "[_Kira_s_04_] Значит, поднимаешь ставки, бесстыдник? Ну что же, считай, что ты хорошенько замотивировал меня побеждать в этой игре."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:610 #-#-# translate crowdin ev2_011_final_ab8411e4:
+msgid "[_Max_s_04_] Ой-ё-ёй! Буду иметь ввиду... [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:619 #-#-# translate crowdin ev2_011_final_7a6e1c39:
+msgid "[_Kira_s_02_] Как скажешь, Макс. [nointeract]"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:625 #-#-# translate crowdin ev2_011_final_6bb7a4ff:
+msgid "[_Kira_s_06_] Не забудь, что тебе ещё светит исполнять моё желание. Хм... Что бы такое придумать..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:626 #-#-# translate crowdin ev2_011_final_5631c1a3:
+msgid "[_Max_s_15_] Ой-ё-ёй!"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:630 #-#-# translate crowdin ev2_011_final_65a8ecf9:
+msgid "[_Kira_s_02_] Да расслабься, Макс, в v0.12 ещё не реализованы мои желания. Возможно, они появятся в следующей версии игры... [nointeract]"
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/story_02/cardgame.rpy:40
+msgid "{i}вернуться на веранду{/i}"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:63
+msgid "{i}играть с Кирой в карты{/i}"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:66
+msgid "{i}ещё раз вникнуть в правила игры{/i}"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:115
+msgid "{i}вникнуть в правила игры{/i}"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:189
+msgid "{i}взять карту{/i}"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:196
+msgid "{i}пасовать{/i}"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:321
+msgid "{i}вскрыть карты{/i}"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:337
+msgid "{i}продолжить играть с Кирой в карты{/i}"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:423
+msgid "Только давай не спеша..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:450
+msgid "Никуда не спеши. Это мой любимый момент..."
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:596
+msgid "Хм... Кое-кто мне обещал просвещение в плане поцелуев?"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:607
+msgid "Давай играть в карты не прикрываясь?"
+msgstr ""
+
+# game/scripts/story_02/cardgame.rpy:618
+msgid "Пока ничего. Хватит и того, что я тебя раздел!"
+msgstr ""
+
