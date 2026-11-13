@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS] main/game/tl/crowdin/new/mini-games/simple_bj.po\n"
+"X-Crowdin-File-ID: 15139\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2026-11-05 11:38\n"
+
+# TODO: Translation updated at 2026-08-30 13:20 #|#|# # §translate crowdin strings: #|#|# # game/scripts/mini-games/simple_bj.rpy:368
+msgid "Результаты"
+msgstr ""
+
+# game/scripts/mini-games/simple_bj.rpy:373
+msgid "Вернуться"
+msgstr "Geri"
+
+# game/scripts/mini-games/simple_bj.rpy:401
+msgid "МИНИ-ИГРА"
+msgstr ""
+
+# game/scripts/mini-games/simple_bj.rpy:404
+msgid "Общее количество игр в карты с Кирой:"
+msgstr ""
+
+# game/scripts/mini-games/simple_bj.rpy:407
+msgid "Победы Макса:"
+msgstr ""
+
+# game/scripts/mini-games/simple_bj.rpy:410
+msgid "Чистые победы Макса:"
+msgstr ""
+
+# game/scripts/mini-games/simple_bj.rpy:413
+msgid "Победы Киры:"
+msgstr ""
+
+# game/scripts/mini-games/simple_bj.rpy:416
+msgid "Чистые победы Киры:"
+msgstr ""
+
+# game/scripts/mini-games/simple_bj.rpy:421
+msgid "НАГРАДЫ ЗА ВЫИГРЫШ"
+msgstr ""
+
+# game/scripts/mini-games/simple_bj.rpy:424
+msgid "Общее количество победных призов:"
+msgstr ""
+
+# game/scripts/mini-games/simple_bj.rpy:427
+msgid "Макс кончил Кире на грудь:"
+msgstr ""
+
+# game/scripts/mini-games/simple_bj.rpy:430
+msgid "Макс кончил Кире на лицо:"
+msgstr ""
+
+# game/scripts/mini-games/simple_bj.rpy:435
+msgid "НАГРАДЫ ЗА ПРОИГРЫШ"
+msgstr ""
+
+# game/scripts/mini-games/simple_bj.rpy:438
+msgid "Общее количество утешительных призов:"
+msgstr ""
+
