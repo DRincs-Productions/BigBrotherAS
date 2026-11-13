@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-11-12 19:44\n"
+"PO-Revision-Date: 2026-11-13 10:40\n"
 
 # TODO: Translation updated at 2026-11-11 21:13 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/screens.rpy:141
 msgid "У меня на счету $[mgg.money]!"
@@ -23,7 +23,7 @@ msgstr "{} ${}"
 # game/scripts/screens/screens.rpy:327
 msgid "[txt]\n"
 "{i}{color=[gui.accent_color]}{size=-5}([skill!tcl]. Шанс: [skill.percent]%){/size}{/color}{/i}"
-msgstr ""
+msgstr "{i}{color=[gui.accent_color]}{size=-5}([skill!tcl]. Probabilità: [skill.percent]%){/size}{/color}{/i}"
 
 # game/scripts/screens/screens.rpy:488
 msgid "История"
