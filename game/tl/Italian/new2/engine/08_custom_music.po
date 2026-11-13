@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-11-12 19:43\n"
+"PO-Revision-Date: 2026-11-13 07:57\n"
 
 # TODO: Translation updated at 2026-11-11 21:13 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/08_custom_music.rpy:575
 msgid "Фоновая музыка"
@@ -78,7 +78,7 @@ msgstr "Eventi di Mia"
 
 # game/scripts/engine/08_custom_music.rpy:575
 msgid "События Киры"
-msgstr ""
+msgstr "Eventi di Kira"
 
 # game/scripts/engine/08_custom_music.rpy:575
 msgid "Отдельные события"
