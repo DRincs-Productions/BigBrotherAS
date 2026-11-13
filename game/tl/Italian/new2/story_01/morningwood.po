@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-11-12 19:44\n"
+"PO-Revision-Date: 2026-11-13 10:40\n"
 
 # TODO: Translation updated at 2026-11-11 21:13 #|#|# # game/scripts/story_01/morningwood.rpy:15 #-#-# translate crowdin ev_001_ef68f9ed:
 msgid "[_Lisa_s_14_] Я сейчас маму позову!"
@@ -1454,5 +1454,5 @@ msgstr "{i}cerca nella scrivania{/i}"
 
 # game/scripts/story_01/morningwood.rpy:699
 msgid "Получен интимный навык «{}»!"
-msgstr ""
+msgstr "Sbloccata abilità intima «{}»!"
 
