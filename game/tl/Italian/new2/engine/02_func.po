@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-11-12 19:43\n"
+"PO-Revision-Date: 2026-11-13 07:57\n"
 
 # TODO: Translation updated at 2026-11-11 21:13 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/02_func.rpy:495
 msgid "Скрытность"
@@ -26,11 +26,11 @@ msgstr "Massaggio"
 
 # game/scripts/engine/02_func.rpy:500
 msgid "Поцелуи"
-msgstr ""
+msgstr "Baci"
 
 # game/scripts/engine/02_func.rpy:501
 msgid "Выносливость"
-msgstr ""
+msgstr "Resistenza"
 
 # game/scripts/engine/02_func.rpy:509
 msgid "Настроение {char_name}"
