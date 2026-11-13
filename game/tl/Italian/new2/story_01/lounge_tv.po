@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-11-12 19:44\n"
+"PO-Revision-Date: 2026-11-13 10:40\n"
 
 # TODO: Translation updated at 2026-11-11 21:13 #|#|# # game/scripts/story_01/lounge_tv.rpy:8 #-#-# translate crowdin ev_ann_tv_talk_df9c7313:
 msgid "[_Ann_s_01_] Да так, всякую ерунду. Хотела какой-нибудь фильм посмотреть. Садись рядом, если тоже делать нечего... [nointeract]"
@@ -442,7 +442,7 @@ msgstr "[_Alice_s_12_] Beh, non so, non so… [nointeract]"
 
 # game/scripts/story_01/lounge_tv.rpy:427 #-#-# translate crowdin ev_092_cef21aee:
 msgid "[_Alice_s_11_] Ну, давай. Если помнишь, то я очень привередлива в вопросах массажа! Если сделаешь что-то не так, сразу закончим. [nointeract]"
-msgstr ""
+msgstr "[_Alice_s_11_] Beh, dai. Se te lo ricordi, sono molto esigente quando si tratta di massaggi! Se fai qualcosa di sbagliato, smettiamo subito. [nointeract]"
 
 # game/scripts/story_01/lounge_tv.rpy:439 #-#-# translate crowdin ev_092_31359de8:
 msgid "[_Alice_s_12_] Нет, Макс, пока мне не хочется. Я как-то не в настроении для этого. Может в другой раз..."
@@ -602,7 +602,7 @@ msgstr "Vuoi che ti massaggi i piedi?"
 
 # game/scripts/story_01/lounge_tv.rpy:156
 msgid "Может, конфетку и массаж ног?"
-msgstr ""
+msgstr "Che ne dici, ti va una caramella e un massaggio ai piedi?"
 
 # game/scripts/story_01/lounge_tv.rpy:176
 msgid "Давай смотреть..."
