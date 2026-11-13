@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-11-07 11:26\n"
+"PO-Revision-Date: 2026-11-13 10:40\n"
 
 # TODO: Translation updated at 2026-08-30 13:20 #|#|# # §translate crowdin strings: #|#|# # game/scripts/screens/screens.rpy:141
 msgid "У меня на счету $[mgg.money]!"
@@ -116,47 +116,47 @@ msgstr "Questa è la partita a carte di base con zia Kira, proprio come la prima
 
 # game/scripts/screens/screens.rpy:602
 msgid "Чтобы открыть доступ к этой игре, нужно сыграть с тётей Кирой 1-ый раз в карты..."
-msgstr ""
+msgstr "Per sbloccare l'accesso a questo gioco, bisogna giocare a carte con la zia Kira per la prima volta..."
 
 # game/scripts/screens/screens.rpy:604
 msgid "Сыграть с Кирой в карты (Ур.2)"
-msgstr ""
+msgstr "Giocare a carte con la zia Kira (Liv.2)"
 
 # game/scripts/screens/screens.rpy:607
 msgid "В этой карточной игре с тётей Кирой никто не прикрывается после снятия одежды..."
-msgstr ""
+msgstr "In questo gioco di carte con la zia Kira nessuno si copre dopo aver tolto i vestiti..."
 
 # game/scripts/screens/screens.rpy:613
 msgid "Чтобы открыть доступ к этой игре, нужно 1 раз обыграть тётю Киру в карты (Ур.1)..."
-msgstr ""
+msgstr "Per sbloccare l'accesso a questo gioco, bisogna battere la zia Kira a carte 1 volta (Liv.1)..."
 
 # game/scripts/screens/screens.rpy:615
 msgid "Чтобы открыть доступ к этой игре, нужно 2 раза обыграть тётю Киру в карты (Ур.1)..."
-msgstr ""
+msgstr "Per sbloccare l'accesso a questo gioco, bisogna battere la zia Kira a carte 2 volte (Liv.1)..."
 
 # game/scripts/screens/screens.rpy:617
 msgid "Чтобы открыть доступ к этой игре, нужно 3 раза обыграть тётю Киру в карты (Ур.1)..."
-msgstr ""
+msgstr "Per sbloccare l'accesso a questo gioco, bisogna battere la zia Kira a carte 3 volte (Liv.1)..."
 
 # game/scripts/screens/screens.rpy:619
 msgid "Сыграть с Кирой в карты (Ур.3)"
-msgstr ""
+msgstr "Giocare con Kira a carte (Liv.3)"
 
 # game/scripts/screens/screens.rpy:622
 msgid "В этой карточной игре с тётей Кирой у победителя появляется возможность снимать одежду с проигравшего..."
-msgstr ""
+msgstr "In questo gioco di carte con la zia Kira, il vincitore ha la possibilità di togliere i vestiti al perdente..."
 
 # game/scripts/screens/screens.rpy:628
 msgid "Чтобы открыть доступ к этой игре, нужно 1 раз обыграть тётю Киру в карты (Ур.2)..."
-msgstr ""
+msgstr "Per sbloccare l'accesso a questo gioco, bisogna battere la zia Kira a carte 1 volta (Liv.2)..."
 
 # game/scripts/screens/screens.rpy:630
 msgid "Чтобы открыть доступ к этой игре, нужно 2 раза обыграть тётю Киру в карты (Ур.2)..."
-msgstr ""
+msgstr "Per sbloccare l'accesso a questo gioco, bisogna battere la zia Kira a carte 2 volte (Liv.2)..."
 
 # game/scripts/screens/screens.rpy:632
 msgid "Чтобы открыть доступ к этой игре, нужно 3 раза обыграть тётю Киру в карты (Ур.2)..."
-msgstr ""
+msgstr "Per sbloccare l'accesso a questo gioco, bisogna battere la zia Kira a carte 3 volte (Liv.2)..."
 
 # game/scripts/screens/screens.rpy:641
 msgid "Настройки"
@@ -180,12 +180,12 @@ msgstr "Info sul gioco"
 
 # game/scripts/screens/screens.rpy:884
 msgid "Версия [config.version!t]\n"
-msgstr ""
+msgstr "Versione [config.version!t]"
 
 # game/scripts/screens/screens.rpy:890
 msgid "Сделано с помощью {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
-msgstr ""
+msgstr "Realizzato con {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only]"
 
 # game/scripts/screens/screens.rpy:932
 msgid "Отмена"
