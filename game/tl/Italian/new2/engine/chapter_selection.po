@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2026-11-12 19:43\n"
+"PO-Revision-Date: 2026-11-13 07:57\n"
 
 # TODO: Translation updated at 2026-11-11 21:13 #|#|# # §translate crowdin strings: #|#|# # game/scripts/engine/chapter_selection.rpy:34
 msgid "МНОГООБЕЩАЮЩИЙ ПЕРЕЕЗД!"
@@ -22,5 +22,5 @@ msgstr "Max è un ragazzo giovane e apparentemente normale che si trasferisce co
 
 # game/scripts/engine/chapter_selection.rpy:34
 msgid "Эта глава сейчас находится в процессе разработки..."
-msgstr ""
+msgstr "Questo capitolo è attualmente in fase di sviluppo..."
 
